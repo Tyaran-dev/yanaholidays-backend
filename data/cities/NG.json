@@ -1,0 +1,182 @@
+{
+    "id": "NG",
+    "countryCode": "NG",
+    "cities": [
+        {
+            "Code": "149259",
+            "Name": "Abakaliki",
+            "NameAr": "اباكاليكي"
+        },
+        {
+            "Code": "100550",
+            "Name": "Abeokuta",
+            "NameAr": "ابيوكوتا"
+        },
+        {
+            "Code": "100225",
+            "Name": "Abuja",
+            "NameAr": "ابوجا"
+        },
+        {
+            "Code": "101340",
+            "Name": "Akure",
+            "NameAr": "اكوري"
+        },
+        {
+            "Code": "149258",
+            "Name": "Asaba",
+            "NameAr": "اسابا"
+        },
+        {
+            "Code": "109770",
+            "Name": "Awka",
+            "NameAr": "اوكا"
+        },
+        {
+            "Code": "160856",
+            "Name": "Bariga\t",
+            "NameAr": "باريجا"
+        },
+        {
+            "Code": "110503",
+            "Name": "Benin City",
+            "NameAr": "بينين كيتي"
+        },
+        {
+            "Code": "113303",
+            "Name": "Calabar",
+            "NameAr": "كالابار"
+        },
+        {
+            "Code": "117241",
+            "Name": "Enugu",
+            "NameAr": "ينوجو"
+        },
+        {
+            "Code": "121978",
+            "Name": "Ibadan",
+            "NameAr": "يبادان"
+        },
+        {
+            "Code": "402535",
+            "Name": "Ijebu Ode",
+            "NameAr": "يجيبو ودي"
+        },
+        {
+            "Code": "101922",
+            "Name": "Ijero Ekiti",
+            "NameAr": "يجيرو يكيتي"
+        },
+        {
+            "Code": "105598",
+            "Name": "Ikeja",
+            "NameAr": "يكيجا"
+        },
+        {
+            "Code": "108315",
+            "Name": "Ikorodu",
+            "NameAr": "يكورودو"
+        },
+        {
+            "Code": "417891",
+            "Name": "Ikot Ekpene",
+            "NameAr": "يكوت يكبيني"
+        },
+        {
+            "Code": "106167",
+            "Name": "Ilorin",
+            "NameAr": "يلورين"
+        },
+        {
+            "Code": "102347",
+            "Name": "Iseyin",
+            "NameAr": "يسييين"
+        },
+        {
+            "Code": "275412",
+            "Name": "Jos",
+            "NameAr": "جوس"
+        },
+        {
+            "Code": "292640",
+            "Name": "Kaduna",
+            "NameAr": "كادونا"
+        },
+        {
+            "Code": "103948",
+            "Name": "Kano",
+            "NameAr": "كانو"
+        },
+        {
+            "Code": "125053",
+            "Name": "Lagos",
+            "NameAr": "لاجوس"
+        },
+        {
+            "Code": "412689",
+            "Name": "Lokoja",
+            "NameAr": "لوكوجا"
+        },
+        {
+            "Code": "130583",
+            "Name": "Nsukka",
+            "NameAr": "نسوككا"
+        },
+        {
+            "Code": "102054",
+            "Name": "Obedu",
+            "NameAr": "وبيدو"
+        },
+        {
+            "Code": "146966",
+            "Name": "Obudu",
+            "NameAr": "وبودو"
+        },
+        {
+            "Code": "104829",
+            "Name": "Odogbolu",
+            "NameAr": "ودوجبولو"
+        },
+        {
+            "Code": "382214",
+            "Name": "Ogbomosho",
+            "NameAr": "وجبوموسهو"
+        },
+        {
+            "Code": "132010",
+            "Name": "Owerri",
+            "NameAr": "وويرري"
+        },
+        {
+            "Code": "274724",
+            "Name": "Papalanto",
+            "NameAr": "بابالانتو"
+        },
+        {
+            "Code": "132395",
+            "Name": "Port Harcourt",
+            "NameAr": "بورت هاركوورت"
+        },
+        {
+            "Code": "141114",
+            "Name": "Uyo",
+            "NameAr": "ويو"
+        },
+        {
+            "Code": "141646",
+            "Name": "Warri",
+            "NameAr": "وارري"
+        },
+        {
+            "Code": "160803",
+            "Name": "Yaba",
+            "NameAr": "يابا"
+        },
+        {
+            "Code": "382191",
+            "Name": "Yenagoa",
+            "NameAr": "ييناجوا"
+        }
+    ],
+    "totalCities": 35
+}

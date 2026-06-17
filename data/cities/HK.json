@@ -1,0 +1,57 @@
+{
+    "id": "HK",
+    "countryCode": "HK",
+    "cities": [
+        {
+            "Code": "100439",
+            "Name": "Aberdeen Harbour",
+            "NameAr": "ابيرديين هاربوور"
+        },
+        {
+            "Code": "292232",
+            "Name": "Causeway Bay",
+            "NameAr": "كاوسيواي باي"
+        },
+        {
+            "Code": "145656",
+            "Name": "Hong Kong",
+            "NameAr": "هونج كونج"
+        },
+        {
+            "Code": "124970",
+            "Name": "Kowloon",
+            "NameAr": "كوولوون"
+        },
+        {
+            "Code": "415246",
+            "Name": "Sha Tin",
+            "NameAr": "سها تين"
+        },
+        {
+            "Code": "292559",
+            "Name": "Sheung Wan",
+            "NameAr": "سهيونج وان"
+        },
+        {
+            "Code": "356806",
+            "Name": "Southern District",
+            "NameAr": "سووتهيرن ديستريكت"
+        },
+        {
+            "Code": "140273",
+            "Name": "Tai O",
+            "NameAr": "تاي و"
+        },
+        {
+            "Code": "151492",
+            "Name": "Tsuen Wan",
+            "NameAr": "تسوين وان"
+        },
+        {
+            "Code": "291790",
+            "Name": "Wan Chai",
+            "NameAr": "وان كهاي"
+        }
+    ],
+    "totalCities": 10
+}

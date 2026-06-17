@@ -1,0 +1,477 @@
+{
+    "id": "PE",
+    "countryCode": "PE",
+    "cities": [
+        {
+            "Code": "104693",
+            "Name": "Abancay (Region Apurimac)",
+            "NameAr": "ابانكاي ريجيون ابوريماك"
+        },
+        {
+            "Code": "100471",
+            "Name": "Aguas Calientes",
+            "NameAr": "اجواس كاليينتيس"
+        },
+        {
+            "Code": "151338",
+            "Name": "Alerta",
+            "NameAr": "اليرتا"
+        },
+        {
+            "Code": "151052",
+            "Name": "Andahuaylas",
+            "NameAr": "انداهوايلاس"
+        },
+        {
+            "Code": "101052",
+            "Name": "Arequipa",
+            "NameAr": "اريقويبا"
+        },
+        {
+            "Code": "109773",
+            "Name": "Ayacucho",
+            "NameAr": "اياكوكهو"
+        },
+        {
+            "Code": "150705",
+            "Name": "Bellavista",
+            "NameAr": "بيللافيستا"
+        },
+        {
+            "Code": "112846",
+            "Name": "Cabanaconde",
+            "NameAr": "كاباناكوندي"
+        },
+        {
+            "Code": "104882",
+            "Name": "Cabo Blanco",
+            "NameAr": "كابو بلانكو"
+        },
+        {
+            "Code": "113041",
+            "Name": "Cajamarca",
+            "NameAr": "كاجاماركا"
+        },
+        {
+            "Code": "112784",
+            "Name": "Callao",
+            "NameAr": "كاللاو"
+        },
+        {
+            "Code": "101798",
+            "Name": "Carhuaz",
+            "NameAr": "كارهواز"
+        },
+        {
+            "Code": "114698",
+            "Name": "Chachapoyas",
+            "NameAr": "كهاكهابوياس"
+        },
+        {
+            "Code": "102255",
+            "Name": "Chala",
+            "NameAr": "كهالا"
+        },
+        {
+            "Code": "114238",
+            "Name": "Chanchamayo",
+            "NameAr": "كهانكهامايو"
+        },
+        {
+            "Code": "114266",
+            "Name": "Chiclayo",
+            "NameAr": "كهيكلايو"
+        },
+        {
+            "Code": "102264",
+            "Name": "Chimbote",
+            "NameAr": "كهيمبوتي"
+        },
+        {
+            "Code": "114537",
+            "Name": "Chincha Alta",
+            "NameAr": "كهينكها التا"
+        },
+        {
+            "Code": "114806",
+            "Name": "Chivay",
+            "NameAr": "كهيفاي"
+        },
+        {
+            "Code": "108148",
+            "Name": "Cieneguilla",
+            "NameAr": "كيينيجويللا"
+        },
+        {
+            "Code": "106227",
+            "Name": "Cocachacra",
+            "NameAr": "كوكاكهاكرا"
+        },
+        {
+            "Code": "144738",
+            "Name": "Colca",
+            "NameAr": "كولكا"
+        },
+        {
+            "Code": "105980",
+            "Name": "Concepcion",
+            "NameAr": "كونكيبكيون"
+        },
+        {
+            "Code": "105463",
+            "Name": "Coya",
+            "NameAr": "كويا"
+        },
+        {
+            "Code": "155077",
+            "Name": "Cusco",
+            "NameAr": "كوسكو"
+        },
+        {
+            "Code": "116024",
+            "Name": "Cuzco",
+            "NameAr": "كوزكو"
+        },
+        {
+            "Code": "332265",
+            "Name": "Esteves Island",
+            "NameAr": "يستيفيس يسلاند"
+        },
+        {
+            "Code": "102334",
+            "Name": "Huacho",
+            "NameAr": "هواكهو"
+        },
+        {
+            "Code": "105863",
+            "Name": "Huancavelica",
+            "NameAr": "هوانكافيليكا"
+        },
+        {
+            "Code": "121565",
+            "Name": "Huancayo",
+            "NameAr": "هوانكايو"
+        },
+        {
+            "Code": "106197",
+            "Name": "Huanchaco",
+            "NameAr": "هوانكهاكو"
+        },
+        {
+            "Code": "104058",
+            "Name": "Huanuco",
+            "NameAr": "هوانوكو"
+        },
+        {
+            "Code": "121023",
+            "Name": "Huaraz",
+            "NameAr": "هواراز"
+        },
+        {
+            "Code": "104059",
+            "Name": "Huarmey",
+            "NameAr": "هوارميي"
+        },
+        {
+            "Code": "121705",
+            "Name": "Ica",
+            "NameAr": "يكا"
+        },
+        {
+            "Code": "150868",
+            "Name": "Ilo",
+            "NameAr": "يلو"
+        },
+        {
+            "Code": "122294",
+            "Name": "Iquitos",
+            "NameAr": "يقويتوس"
+        },
+        {
+            "Code": "121763",
+            "Name": "Isla Suasi",
+            "NameAr": "يسلا سواسي"
+        },
+        {
+            "Code": "300772",
+            "Name": "Jaen",
+            "NameAr": "جاين"
+        },
+        {
+            "Code": "150873",
+            "Name": "Jauja",
+            "NameAr": "جاوجا"
+        },
+        {
+            "Code": "150600",
+            "Name": "Juanjui",
+            "NameAr": "جوانجوي"
+        },
+        {
+            "Code": "122894",
+            "Name": "Juliaca",
+            "NameAr": "جولياكا"
+        },
+        {
+            "Code": "124915",
+            "Name": "Lima",
+            "NameAr": "ليما"
+        },
+        {
+            "Code": "104610",
+            "Name": "Lobitos",
+            "NameAr": "لوبيتوس"
+        },
+        {
+            "Code": "102659",
+            "Name": "Los Organos",
+            "NameAr": "لوس ورجانوس"
+        },
+        {
+            "Code": "102588",
+            "Name": "Lunahuana",
+            "NameAr": "لوناهوانا"
+        },
+        {
+            "Code": "126255",
+            "Name": "Machu Picchu",
+            "NameAr": "ماكهو بيككهو"
+        },
+        {
+            "Code": "126963",
+            "Name": "Mancora",
+            "NameAr": "مانكورا"
+        },
+        {
+            "Code": "126829",
+            "Name": "Manu Nationalpark",
+            "NameAr": "مانو ناتيونالبارك"
+        },
+        {
+            "Code": "104502",
+            "Name": "Miraflores",
+            "NameAr": "ميرافلوريس"
+        },
+        {
+            "Code": "102637",
+            "Name": "Mollendo",
+            "NameAr": "مولليندو"
+        },
+        {
+            "Code": "104793",
+            "Name": "Moquegua",
+            "NameAr": "موقويجوا"
+        },
+        {
+            "Code": "151635",
+            "Name": "Moyobamba",
+            "NameAr": "مويوبامبا"
+        },
+        {
+            "Code": "102015",
+            "Name": "Moyobamba/ Muyupampa",
+            "NameAr": "مويوبامبا مويوبامبا"
+        },
+        {
+            "Code": "102856",
+            "Name": "Nauta",
+            "NameAr": "ناوتا"
+        },
+        {
+            "Code": "129280",
+            "Name": "Nazca",
+            "NameAr": "نازكا"
+        },
+        {
+            "Code": "103039",
+            "Name": "Ocosuyo",
+            "NameAr": "وكوسويو"
+        },
+        {
+            "Code": "131913",
+            "Name": "Ollantaytambo",
+            "NameAr": "وللانتايتامبو"
+        },
+        {
+            "Code": "104424",
+            "Name": "Oxapampa",
+            "NameAr": "وكسابامبا"
+        },
+        {
+            "Code": "130739",
+            "Name": "Pacaya Samiria Nationalpark",
+            "NameAr": "باكايا ساميريا ناتيونالبارك"
+        },
+        {
+            "Code": "131746",
+            "Name": "Paracas",
+            "NameAr": "باراكاس"
+        },
+        {
+            "Code": "106610",
+            "Name": "Pichanaki",
+            "NameAr": "بيكهاناكي"
+        },
+        {
+            "Code": "131651",
+            "Name": "Pisac",
+            "NameAr": "بيساك"
+        },
+        {
+            "Code": "132811",
+            "Name": "Pisco",
+            "NameAr": "بيسكو"
+        },
+        {
+            "Code": "132321",
+            "Name": "Piura",
+            "NameAr": "بيورا"
+        },
+        {
+            "Code": "134342",
+            "Name": "Pucallpa",
+            "NameAr": "بوكاللبا"
+        },
+        {
+            "Code": "102100",
+            "Name": "Pucusana",
+            "NameAr": "بوكوسانا"
+        },
+        {
+            "Code": "147393",
+            "Name": "Puerto Maldonado",
+            "NameAr": "بويرتو مالدونادو"
+        },
+        {
+            "Code": "133134",
+            "Name": "Puno",
+            "NameAr": "بونو"
+        },
+        {
+            "Code": "106707",
+            "Name": "Punta Hermosa",
+            "NameAr": "بونتا هيرموسا"
+        },
+        {
+            "Code": "133135",
+            "Name": "Punta Sal",
+            "NameAr": "بونتا سال"
+        },
+        {
+            "Code": "151657",
+            "Name": "Rioja",
+            "NameAr": "ريوجا"
+        },
+        {
+            "Code": "107330",
+            "Name": "San Juan de Marcona",
+            "NameAr": "سان جوان دي ماركونا"
+        },
+        {
+            "Code": "103549",
+            "Name": "San Ramon",
+            "NameAr": "سان رامون"
+        },
+        {
+            "Code": "135974",
+            "Name": "San Vicente de Canete",
+            "NameAr": "سان فيكينتي دي كانيتي"
+        },
+        {
+            "Code": "103510",
+            "Name": "Santa Cruz de Cocachacra",
+            "NameAr": "سانتا كروز دي كوكاكهاكرا"
+        },
+        {
+            "Code": "150677",
+            "Name": "Santa Maria",
+            "NameAr": "سانتا ماريا"
+        },
+        {
+            "Code": "107220",
+            "Name": "Sicuani",
+            "NameAr": "سيكواني"
+        },
+        {
+            "Code": "139548",
+            "Name": "Tacna",
+            "NameAr": "تاكنا"
+        },
+        {
+            "Code": "150687",
+            "Name": "Talara",
+            "NameAr": "تالارا"
+        },
+        {
+            "Code": "139013",
+            "Name": "Tambopata",
+            "NameAr": "تامبوباتا"
+        },
+        {
+            "Code": "139024",
+            "Name": "Tarapoto",
+            "NameAr": "تارابوتو"
+        },
+        {
+            "Code": "138584",
+            "Name": "Tarma",
+            "NameAr": "تارما"
+        },
+        {
+            "Code": "151676",
+            "Name": "Tingo Maria",
+            "NameAr": "تينجو ماريا"
+        },
+        {
+            "Code": "140846",
+            "Name": "Trujillo",
+            "NameAr": "تروجيللو"
+        },
+        {
+            "Code": "141225",
+            "Name": "Tumbes",
+            "NameAr": "تومبيس"
+        },
+        {
+            "Code": "150241",
+            "Name": "Urubamba",
+            "NameAr": "وروبامبا"
+        },
+        {
+            "Code": "140135",
+            "Name": "Urubamba-Tal",
+            "NameAr": "وروبامبا-تال"
+        },
+        {
+            "Code": "107573",
+            "Name": "Vichayito",
+            "NameAr": "فيكهاييتو"
+        },
+        {
+            "Code": "417371",
+            "Name": "Vinac",
+            "NameAr": "فيناك"
+        },
+        {
+            "Code": "142902",
+            "Name": "Yanahuara",
+            "NameAr": "ياناهوارا"
+        },
+        {
+            "Code": "108004",
+            "Name": "Yura",
+            "NameAr": "يورا"
+        },
+        {
+            "Code": "151619",
+            "Name": "Yurimaguas",
+            "NameAr": "يوريماجواس"
+        },
+        {
+            "Code": "148824",
+            "Name": "Zorritos",
+            "NameAr": "زورريتوس"
+        }
+    ],
+    "totalCities": 94
+}

@@ -1,0 +1,12 @@
+{
+    "id": "BI",
+    "countryCode": "BI",
+    "cities": [
+        {
+            "Code": "113441",
+            "Name": "Bujumbura",
+            "NameAr": "بوجومبورا"
+        }
+    ],
+    "totalCities": 1
+}

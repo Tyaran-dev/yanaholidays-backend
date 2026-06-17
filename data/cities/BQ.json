@@ -1,0 +1,42 @@
+{
+    "id": "BQ",
+    "countryCode": "BQ",
+    "cities": [
+        {
+            "Code": "110942",
+            "Name": "Belnem,   Bonaire",
+            "NameAr": "بيلنيم بونايري"
+        },
+        {
+            "Code": "111377",
+            "Name": "Booby Hill",
+            "NameAr": "بووبي هيلل"
+        },
+        {
+            "Code": "123751",
+            "Name": "Kralendijk,   Bonaire",
+            "NameAr": "كرالينديجك بونايري"
+        },
+        {
+            "Code": "124377",
+            "Name": "Lac Bay",
+            "NameAr": "لاك باي"
+        },
+        {
+            "Code": "130679",
+            "Name": "Oranjestad",
+            "NameAr": "ورانجيستاد"
+        },
+        {
+            "Code": "139075",
+            "Name": "The Bottom",
+            "NameAr": "تهي بوتتوم"
+        },
+        {
+            "Code": "143754",
+            "Name": "Winwardside",
+            "NameAr": "وينواردسيدي"
+        }
+    ],
+    "totalCities": 7
+}

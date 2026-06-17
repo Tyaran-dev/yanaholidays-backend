@@ -1,0 +1,92 @@
+{
+    "id": "GD",
+    "countryCode": "GD",
+    "cities": [
+        {
+            "Code": "111356",
+            "Name": "Bogels",
+            "NameAr": "بوجيلس"
+        },
+        {
+            "Code": "113385",
+            "Name": "Carriacou",
+            "NameAr": "كاررياكوو"
+        },
+        {
+            "Code": "307806",
+            "Name": "Crochu",
+            "NameAr": "كروكهو"
+        },
+        {
+            "Code": "119190",
+            "Name": "Grand Anse",
+            "NameAr": "جراند انسي"
+        },
+        {
+            "Code": "150460",
+            "Name": "Grenada",
+            "NameAr": "جرينادا"
+        },
+        {
+            "Code": "120942",
+            "Name": "Hillsborough",
+            "NameAr": "هيللسبورووجه"
+        },
+        {
+            "Code": "125087",
+            "Name": "L'Anse aux Epines",
+            "NameAr": "لانسي اوكس يبينيس"
+        },
+        {
+            "Code": "127981",
+            "Name": "Morne Rouge Bay",
+            "NameAr": "مورني رووجي باي"
+        },
+        {
+            "Code": "102996",
+            "Name": "Mount Nesbit",
+            "NameAr": "موونت نيسبيت"
+        },
+        {
+            "Code": "133210",
+            "Name": "Point Salinas",
+            "NameAr": "بوينت ساليناس"
+        },
+        {
+            "Code": "136651",
+            "Name": "Sauters",
+            "NameAr": "ساوتيرس"
+        },
+        {
+            "Code": "138221",
+            "Name": "St. Davids",
+            "NameAr": "ست دافيدس"
+        },
+        {
+            "Code": "139202",
+            "Name": "St. George's",
+            "NameAr": "ست جيورجيس"
+        },
+        {
+            "Code": "148020",
+            "Name": "St. Patrick's",
+            "NameAr": "ست باتريككس"
+        },
+        {
+            "Code": "138856",
+            "Name": "Sudkuste",
+            "NameAr": "سودكوستي"
+        },
+        {
+            "Code": "107187",
+            "Name": "Torrenueva",
+            "NameAr": "توررينويفا"
+        },
+        {
+            "Code": "139402",
+            "Name": "True Blue",
+            "NameAr": "تروي بلوي"
+        }
+    ],
+    "totalCities": 17
+}

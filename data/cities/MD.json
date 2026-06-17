@@ -1,0 +1,77 @@
+{
+    "id": "MD",
+    "countryCode": "MD",
+    "cities": [
+        {
+            "Code": "110848",
+            "Name": "Balti",
+            "NameAr": "بالتي"
+        },
+        {
+            "Code": "102126",
+            "Name": "Bender",
+            "NameAr": "بيندير"
+        },
+        {
+            "Code": "112839",
+            "Name": "Butuceni",
+            "NameAr": "بوتوكيني"
+        },
+        {
+            "Code": "113253",
+            "Name": "Cahul",
+            "NameAr": "كاهول"
+        },
+        {
+            "Code": "115763",
+            "Name": "Chisinau",
+            "NameAr": "كهيسيناو"
+        },
+        {
+            "Code": "305734",
+            "Name": "Comrat",
+            "NameAr": "كومرات"
+        },
+        {
+            "Code": "104964",
+            "Name": "Edinet",
+            "NameAr": "يدينيت"
+        },
+        {
+            "Code": "106107",
+            "Name": "Glodeni",
+            "NameAr": "جلوديني"
+        },
+        {
+            "Code": "149132",
+            "Name": "Orhei",
+            "NameAr": "ورهيي"
+        },
+        {
+            "Code": "103378",
+            "Name": "Scoreni",
+            "NameAr": "سكوريني"
+        },
+        {
+            "Code": "106911",
+            "Name": "Soroca",
+            "NameAr": "سوروكا"
+        },
+        {
+            "Code": "148238",
+            "Name": "Tiraspol",
+            "NameAr": "تيراسبول"
+        },
+        {
+            "Code": "141258",
+            "Name": "Ungheni",
+            "NameAr": "ونجهيني"
+        },
+        {
+            "Code": "107565",
+            "Name": "Vatra",
+            "NameAr": "فاترا"
+        }
+    ],
+    "totalCities": 14
+}

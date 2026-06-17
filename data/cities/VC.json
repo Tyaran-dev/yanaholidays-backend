@@ -1,0 +1,107 @@
+{
+    "id": "VC",
+    "countryCode": "VC",
+    "cities": [
+        {
+            "Code": "144193",
+            "Name": "Bequia",
+            "NameAr": "بيقويا"
+        },
+        {
+            "Code": "111571",
+            "Name": "Big Sand Bay",
+            "NameAr": "بيج ساند باي"
+        },
+        {
+            "Code": "112900",
+            "Name": "Canouan",
+            "NameAr": "كانووان"
+        },
+        {
+            "Code": "101809",
+            "Name": "Chateaubelair",
+            "NameAr": "كهاتياوبيلاير"
+        },
+        {
+            "Code": "106225",
+            "Name": "Clifton Harbour",
+            "NameAr": "كليفتون هاربوور"
+        },
+        {
+            "Code": "118891",
+            "Name": "Friendship Bay",
+            "NameAr": "فرييندسهيب باي"
+        },
+        {
+            "Code": "123171",
+            "Name": "Kingstown",
+            "NameAr": "كينجستوون"
+        },
+        {
+            "Code": "125282",
+            "Name": "Lesterre Bay",
+            "NameAr": "ليستيرري باي"
+        },
+        {
+            "Code": "126658",
+            "Name": "Lower Bay",
+            "NameAr": "لووير باي"
+        },
+        {
+            "Code": "126475",
+            "Name": "Mayreau",
+            "NameAr": "مايرياو"
+        },
+        {
+            "Code": "130342",
+            "Name": "Mustique",
+            "NameAr": "موستيقوي"
+        },
+        {
+            "Code": "130873",
+            "Name": "Palm Island",
+            "NameAr": "بالم يسلاند"
+        },
+        {
+            "Code": "417036",
+            "Name": "Petit St. Vincent",
+            "NameAr": "بيتيت ست فينكينت"
+        },
+        {
+            "Code": "151564",
+            "Name": "Port Elizabeth",
+            "NameAr": "بورت يليزابيته"
+        },
+        {
+            "Code": "138399",
+            "Name": "St. Vincent",
+            "NameAr": "ست فينكينت"
+        },
+        {
+            "Code": "140092",
+            "Name": "Tyrrel Bay",
+            "NameAr": "تيرريل باي"
+        },
+        {
+            "Code": "141565",
+            "Name": "Union Island",
+            "NameAr": "ونيون يسلاند"
+        },
+        {
+            "Code": "141516",
+            "Name": "Villa Beach",
+            "NameAr": "فيللا بياكه"
+        },
+        {
+            "Code": "141876",
+            "Name": "Villa Point",
+            "NameAr": "فيللا بوينت"
+        },
+        {
+            "Code": "142466",
+            "Name": "Young Island",
+            "NameAr": "يوونج يسلاند"
+        }
+    ],
+    "totalCities": 20
+}

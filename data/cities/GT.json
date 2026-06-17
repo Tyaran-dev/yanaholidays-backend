@@ -1,0 +1,247 @@
+{
+    "id": "GT",
+    "countryCode": "GT",
+    "cities": [
+        {
+            "Code": "105155",
+            "Name": "Amatitlan",
+            "NameAr": "اماتيتلان"
+        },
+        {
+            "Code": "109234",
+            "Name": "Antigua",
+            "NameAr": "انتيجوا"
+        },
+        {
+            "Code": "143981",
+            "Name": "Atitlan",
+            "NameAr": "اتيتلان"
+        },
+        {
+            "Code": "102114",
+            "Name": "Barra del Jiote",
+            "NameAr": "باررا ديل جيوتي"
+        },
+        {
+            "Code": "102254",
+            "Name": "Chajul",
+            "NameAr": "كهاجول"
+        },
+        {
+            "Code": "144668",
+            "Name": "Chichiscastenango",
+            "NameAr": "كهيكهيسكاستينانجو"
+        },
+        {
+            "Code": "150975",
+            "Name": "Chiquimula",
+            "NameAr": "كهيقويمولا"
+        },
+        {
+            "Code": "150978",
+            "Name": "Coban",
+            "NameAr": "كوبان"
+        },
+        {
+            "Code": "105782",
+            "Name": "Dolores",
+            "NameAr": "دولوريس"
+        },
+        {
+            "Code": "106276",
+            "Name": "El Jaibalito",
+            "NameAr": "يل جايباليتو"
+        },
+        {
+            "Code": "105514",
+            "Name": "El Remate",
+            "NameAr": "يل ريماتي"
+        },
+        {
+            "Code": "117199",
+            "Name": "Esquipulas",
+            "NameAr": "يسقويبولاس"
+        },
+        {
+            "Code": "118292",
+            "Name": "Flores",
+            "NameAr": "فلوريس"
+        },
+        {
+            "Code": "119493",
+            "Name": "Guatemala City",
+            "NameAr": "جواتيمالا كيتي"
+        },
+        {
+            "Code": "106201",
+            "Name": "Huehuetenango",
+            "NameAr": "هويهويتينانجو"
+        },
+        {
+            "Code": "103732",
+            "Name": "La Antigua",
+            "NameAr": "لا انتيجوا"
+        },
+        {
+            "Code": "126589",
+            "Name": "Livingston",
+            "NameAr": "ليفينجستون"
+        },
+        {
+            "Code": "104463",
+            "Name": "Los Amates (Izabal)",
+            "NameAr": "لوس اماتيس يزابال"
+        },
+        {
+            "Code": "128973",
+            "Name": "Monterrico",
+            "NameAr": "مونتيرريكو"
+        },
+        {
+            "Code": "132041",
+            "Name": "Panajachel",
+            "NameAr": "باناجاكهيل"
+        },
+        {
+            "Code": "131064",
+            "Name": "Peten",
+            "NameAr": "بيتين"
+        },
+        {
+            "Code": "133612",
+            "Name": "Puerto Barrios",
+            "NameAr": "بويرتو بارريوس"
+        },
+        {
+            "Code": "132575",
+            "Name": "Puerto San Jose",
+            "NameAr": "بويرتو سان جوسي"
+        },
+        {
+            "Code": "102105",
+            "Name": "Purulha",
+            "NameAr": "بورولها"
+        },
+        {
+            "Code": "133737",
+            "Name": "Quetzaltenango",
+            "NameAr": "قويتزالتينانجو"
+        },
+        {
+            "Code": "151572",
+            "Name": "Quiche",
+            "NameAr": "قويكهي"
+        },
+        {
+            "Code": "134748",
+            "Name": "Retalhuleu",
+            "NameAr": "ريتالهوليو"
+        },
+        {
+            "Code": "134409",
+            "Name": "Rio Dulce",
+            "NameAr": "ريو دولكي"
+        },
+        {
+            "Code": "135118",
+            "Name": "Rio Hondo",
+            "NameAr": "ريو هوندو"
+        },
+        {
+            "Code": "108479",
+            "Name": "San Antonio Palopo",
+            "NameAr": "سان انتونيو بالوبو"
+        },
+        {
+            "Code": "106762",
+            "Name": "San Benito",
+            "NameAr": "سان بينيتو"
+        },
+        {
+            "Code": "136186",
+            "Name": "San Jose",
+            "NameAr": "سان جوسي"
+        },
+        {
+            "Code": "108486",
+            "Name": "San Jose Pinula",
+            "NameAr": "سان جوسي بينولا"
+        },
+        {
+            "Code": "107025",
+            "Name": "San Juan La Laguna",
+            "NameAr": "سان جوان لا لاجونا"
+        },
+        {
+            "Code": "107027",
+            "Name": "San Marcos La Laguna",
+            "NameAr": "سان ماركوس لا لاجونا"
+        },
+        {
+            "Code": "108489",
+            "Name": "San Martin Zapotitlan",
+            "NameAr": "سان مارتين زابوتيتلان"
+        },
+        {
+            "Code": "108492",
+            "Name": "San Pedro La Laguna",
+            "NameAr": "سان بيدرو لا لاجونا"
+        },
+        {
+            "Code": "103361",
+            "Name": "Santa Catarina Palopo",
+            "NameAr": "سانتا كاتارينا بالوبو"
+        },
+        {
+            "Code": "103556",
+            "Name": "Santa Cruz La Laguna",
+            "NameAr": "سانتا كروز لا لاجونا"
+        },
+        {
+            "Code": "103557",
+            "Name": "Santa Cruz Verapaz",
+            "NameAr": "سانتا كروز فيراباز"
+        },
+        {
+            "Code": "137158",
+            "Name": "Santa Elena",
+            "NameAr": "سانتا يلينا"
+        },
+        {
+            "Code": "417459",
+            "Name": "Santa Lucia Milpas Altas",
+            "NameAr": "سانتا لوكيا ميلباس التاس"
+        },
+        {
+            "Code": "135560",
+            "Name": "Santiago Atitlan",
+            "NameAr": "سانتياجو اتيتلان"
+        },
+        {
+            "Code": "103179",
+            "Name": "Sipacate",
+            "NameAr": "سيباكاتي"
+        },
+        {
+            "Code": "108554",
+            "Name": "Solola",
+            "NameAr": "سولولا"
+        },
+        {
+            "Code": "107084",
+            "Name": "Taxisco",
+            "NameAr": "تاكسيسكو"
+        },
+        {
+            "Code": "107085",
+            "Name": "Tecpan Guatemala",
+            "NameAr": "تيكبان جواتيمالا"
+        },
+        {
+            "Code": "140435",
+            "Name": "Tikal",
+            "NameAr": "تيكال"
+        }
+    ],
+    "totalCities": 48
+}

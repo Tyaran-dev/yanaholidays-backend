@@ -1,0 +1,12 @@
+{
+    "id": "KI",
+    "countryCode": "KI",
+    "cities": [
+        {
+            "Code": "108054",
+            "Name": "Betio",
+            "NameAr": "بيتيو"
+        }
+    ],
+    "totalCities": 1
+}

@@ -1,0 +1,97 @@
+{
+    "id": "ET",
+    "countryCode": "ET",
+    "cities": [
+        {
+            "Code": "335540",
+            "Name": "Adama",
+            "NameAr": "اداما"
+        },
+        {
+            "Code": "105061",
+            "Name": "Addis Ababa",
+            "NameAr": "ادديس ابابا"
+        },
+        {
+            "Code": "100031",
+            "Name": "Addis Abeba",
+            "NameAr": "ادديس ابيبا"
+        },
+        {
+            "Code": "100343",
+            "Name": "Adigrat",
+            "NameAr": "اديجرات"
+        },
+        {
+            "Code": "307984",
+            "Name": "Arba Minch",
+            "NameAr": "اربا مينكه"
+        },
+        {
+            "Code": "149593",
+            "Name": "Awassa",
+            "NameAr": "اواسسا"
+        },
+        {
+            "Code": "110745",
+            "Name": "Bahir Dar",
+            "NameAr": "باهير دار"
+        },
+        {
+            "Code": "144884",
+            "Name": "Debark",
+            "NameAr": "ديبارك"
+        },
+        {
+            "Code": "116058",
+            "Name": "Debre Markos",
+            "NameAr": "ديبري ماركوس"
+        },
+        {
+            "Code": "116059",
+            "Name": "Debre Zeit",
+            "NameAr": "ديبري زييت"
+        },
+        {
+            "Code": "149638",
+            "Name": "Dire Dawa",
+            "NameAr": "ديري داوا"
+        },
+        {
+            "Code": "118741",
+            "Name": "Gondar",
+            "NameAr": "جوندار"
+        },
+        {
+            "Code": "417103",
+            "Name": "Hawassa",
+            "NameAr": "هاواسسا"
+        },
+        {
+            "Code": "149690",
+            "Name": "Jimma",
+            "NameAr": "جيمما"
+        },
+        {
+            "Code": "124100",
+            "Name": "Lalibela",
+            "NameAr": "لاليبيلا"
+        },
+        {
+            "Code": "127567",
+            "Name": "Mekele",
+            "NameAr": "ميكيلي"
+        },
+        {
+            "Code": "153384",
+            "Name": "Oromia",
+            "NameAr": "وروميا"
+        },
+        {
+            "Code": "232519",
+            "Name": "Ziway",
+            "NameAr": "زيواي"
+        }
+    ],
+    "totalCities": 18
+}

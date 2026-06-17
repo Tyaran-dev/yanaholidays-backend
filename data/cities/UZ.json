@@ -1,0 +1,82 @@
+{
+    "id": "UZ",
+    "countryCode": "UZ",
+    "cities": [
+        {
+            "Code": "104716",
+            "Name": "Andijan",
+            "NameAr": "انديجان"
+        },
+        {
+            "Code": "113442",
+            "Name": "Bukhara",
+            "NameAr": "بوكهارا"
+        },
+        {
+            "Code": "418145",
+            "Name": "Burchmulla",
+            "NameAr": "بوركهموللا"
+        },
+        {
+            "Code": "114808",
+            "Name": "Chiwa/Khiva",
+            "NameAr": "كهيوا كهيفا"
+        },
+        {
+            "Code": "117616",
+            "Name": "Fergana",
+            "NameAr": "فيرجانا"
+        },
+        {
+            "Code": "150021",
+            "Name": "Jizzakh",
+            "NameAr": "جيززاكه"
+        },
+        {
+            "Code": "129278",
+            "Name": "Navoiy",
+            "NameAr": "نافويي"
+        },
+        {
+            "Code": "150018",
+            "Name": "Nukus",
+            "NameAr": "نوكوس"
+        },
+        {
+            "Code": "150015",
+            "Name": "Qarshi",
+            "NameAr": "قارسهي"
+        },
+        {
+            "Code": "102110",
+            "Name": "Qo‘qon",
+            "NameAr": "قو قون"
+        },
+        {
+            "Code": "134871",
+            "Name": "Samarkand",
+            "NameAr": "ساماركاند"
+        },
+        {
+            "Code": "139354",
+            "Name": "Tashkent",
+            "NameAr": "تاسهكينت"
+        },
+        {
+            "Code": "150020",
+            "Name": "Termez",
+            "NameAr": "تيرميز"
+        },
+        {
+            "Code": "148386",
+            "Name": "Urgench",
+            "NameAr": "ورجينكه"
+        },
+        {
+            "Code": "107919",
+            "Name": "Yusufkhona",
+            "NameAr": "يوسوفكهونا"
+        }
+    ],
+    "totalCities": 15
+}

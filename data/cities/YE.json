@@ -1,0 +1,27 @@
+{
+    "id": "YE",
+    "countryCode": "YE",
+    "cities": [
+        {
+            "Code": "100660",
+            "Name": "Aden",
+            "NameAr": "ادين"
+        },
+        {
+            "Code": "129689",
+            "Name": "Mukalla",
+            "NameAr": "موكاللا"
+        },
+        {
+            "Code": "136040",
+            "Name": "Sana'a",
+            "NameAr": "ساناا"
+        },
+        {
+            "Code": "139552",
+            "Name": "Taizz",
+            "NameAr": "تايزز"
+        }
+    ],
+    "totalCities": 4
+}

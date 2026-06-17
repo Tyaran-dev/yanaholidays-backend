@@ -1,0 +1,1132 @@
+{
+    "id": "UA",
+    "countryCode": "UA",
+    "cities": [
+        {
+            "Code": "109542",
+            "Name": "Alupka",
+            "NameAr": "الوبكا"
+        },
+        {
+            "Code": "109305",
+            "Name": "Alushta",
+            "NameAr": "الوسهتا"
+        },
+        {
+            "Code": "101659",
+            "Name": "Balaklawa",
+            "NameAr": "بالاكلاوا"
+        },
+        {
+            "Code": "150706",
+            "Name": "Berdiansk",
+            "NameAr": "بيرديانسك"
+        },
+        {
+            "Code": "102128",
+            "Name": "Beregovoe",
+            "NameAr": "بيريجوفوي"
+        },
+        {
+            "Code": "105727",
+            "Name": "Berehove",
+            "NameAr": "بيريهوفي"
+        },
+        {
+            "Code": "111172",
+            "Name": "Berezivka",
+            "NameAr": "بيريزيفكا"
+        },
+        {
+            "Code": "111766",
+            "Name": "Bila Tserkva",
+            "NameAr": "بيلا تسيركفا"
+        },
+        {
+            "Code": "105047",
+            "Name": "Bilhorod-Dnistrovskyi",
+            "NameAr": "بيلهورود-دنيستروفسكيي"
+        },
+        {
+            "Code": "101419",
+            "Name": "Boiarka",
+            "NameAr": "بوياركا"
+        },
+        {
+            "Code": "101421",
+            "Name": "Bondarenkovo",
+            "NameAr": "بوندارينكوفو"
+        },
+        {
+            "Code": "104863",
+            "Name": "Borshchiv",
+            "NameAr": "بورسهكهيف"
+        },
+        {
+            "Code": "112245",
+            "Name": "Boryspil",
+            "NameAr": "بوريسبيل"
+        },
+        {
+            "Code": "105316",
+            "Name": "Braniv",
+            "NameAr": "برانيف"
+        },
+        {
+            "Code": "108089",
+            "Name": "Brody",
+            "NameAr": "برودي"
+        },
+        {
+            "Code": "101370",
+            "Name": "Brovary",
+            "NameAr": "بروفاري"
+        },
+        {
+            "Code": "105330",
+            "Name": "Bucha",
+            "NameAr": "بوكها"
+        },
+        {
+            "Code": "104657",
+            "Name": "Bukovel",
+            "NameAr": "بوكوفيل"
+        },
+        {
+            "Code": "105328",
+            "Name": "Busk",
+            "NameAr": "بوسك"
+        },
+        {
+            "Code": "160887",
+            "Name": "Cherkasy",
+            "NameAr": "كهيركاسي"
+        },
+        {
+            "Code": "140849",
+            "Name": "Chernihiv",
+            "NameAr": "كهيرنيهيف"
+        },
+        {
+            "Code": "150973",
+            "Name": "Chernivtsi",
+            "NameAr": "كهيرنيفتسي"
+        },
+        {
+            "Code": "108147",
+            "Name": "Chornoliztsi",
+            "NameAr": "كهورنوليزتسي"
+        },
+        {
+            "Code": "106166",
+            "Name": "Chornomorsk",
+            "NameAr": "كهورنومورسك"
+        },
+        {
+            "Code": "105254",
+            "Name": "Chornomorske",
+            "NameAr": "كهورنومورسكي"
+        },
+        {
+            "Code": "114370",
+            "Name": "Chubynske",
+            "NameAr": "كهوبينسكي"
+        },
+        {
+            "Code": "105485",
+            "Name": "Dilove",
+            "NameAr": "ديلوفي"
+        },
+        {
+            "Code": "144934",
+            "Name": "Dnipro",
+            "NameAr": "دنيبرو"
+        },
+        {
+            "Code": "108197",
+            "Name": "Dolholuka",
+            "NameAr": "دولهولوكا"
+        },
+        {
+            "Code": "108198",
+            "Name": "Dolyna",
+            "NameAr": "دولينا"
+        },
+        {
+            "Code": "115739",
+            "Name": "Donetsk",
+            "NameAr": "دونيتسك"
+        },
+        {
+            "Code": "286807",
+            "Name": "Dovhomostyska",
+            "NameAr": "دوفهوموستيسكا"
+        },
+        {
+            "Code": "160898",
+            "Name": "Druzhkovka",
+            "NameAr": "دروزهكوفكا"
+        },
+        {
+            "Code": "106027",
+            "Name": "Dunaivtsi",
+            "NameAr": "دونايفتسي"
+        },
+        {
+            "Code": "118260",
+            "Name": "Feodosiia",
+            "NameAr": "فيودوسييا"
+        },
+        {
+            "Code": "102468",
+            "Name": "Foros",
+            "NameAr": "فوروس"
+        },
+        {
+            "Code": "102503",
+            "Name": "Haisyn",
+            "NameAr": "هايسين"
+        },
+        {
+            "Code": "102509",
+            "Name": "Haspra",
+            "NameAr": "هاسبرا"
+        },
+        {
+            "Code": "105952",
+            "Name": "Henicheska Hirka",
+            "NameAr": "هينيكهيسكا هيركا"
+        },
+        {
+            "Code": "108304",
+            "Name": "Hora",
+            "NameAr": "هورا"
+        },
+        {
+            "Code": "108306",
+            "Name": "Horodenka",
+            "NameAr": "هورودينكا"
+        },
+        {
+            "Code": "101557",
+            "Name": "Hrebinky",
+            "NameAr": "هريبينكي"
+        },
+        {
+            "Code": "104061",
+            "Name": "Hurzuf",
+            "NameAr": "هورزوف"
+        },
+        {
+            "Code": "105604",
+            "Name": "Irpin",
+            "NameAr": "يربين"
+        },
+        {
+            "Code": "104071",
+            "Name": "Irshava",
+            "NameAr": "يرسهافا"
+        },
+        {
+            "Code": "121774",
+            "Name": "Ivano-Frankivsk",
+            "NameAr": "يفانو-فرانكيفسك"
+        },
+        {
+            "Code": "105876",
+            "Name": "Izmail",
+            "NameAr": "يزمايل"
+        },
+        {
+            "Code": "104089",
+            "Name": "Kacha",
+            "NameAr": "كاكها"
+        },
+        {
+            "Code": "160897",
+            "Name": "Kalush",
+            "NameAr": "كالوسه"
+        },
+        {
+            "Code": "121845",
+            "Name": "Kamianets-Podilskyi",
+            "NameAr": "كاميانيتس-بوديلسكيي"
+        },
+        {
+            "Code": "108193",
+            "Name": "Kamianske",
+            "NameAr": "كاميانسكي"
+        },
+        {
+            "Code": "103706",
+            "Name": "Kaniv",
+            "NameAr": "كانيف"
+        },
+        {
+            "Code": "102535",
+            "Name": "Kapitan?vka",
+            "NameAr": "كابيتانفكا"
+        },
+        {
+            "Code": "103951",
+            "Name": "Karpaty",
+            "NameAr": "كارباتي"
+        },
+        {
+            "Code": "123137",
+            "Name": "Kerch",
+            "NameAr": "كيركه"
+        },
+        {
+            "Code": "160892",
+            "Name": "Kharkiv",
+            "NameAr": "كهاركيف"
+        },
+        {
+            "Code": "160893",
+            "Name": "Kherson",
+            "NameAr": "كهيرسون"
+        },
+        {
+            "Code": "151128",
+            "Name": "Khmelnytskyi",
+            "NameAr": "كهميلنيتسكيي"
+        },
+        {
+            "Code": "105381",
+            "Name": "Khmilnyk",
+            "NameAr": "كهميلنيك"
+        },
+        {
+            "Code": "114766",
+            "Name": "Khust",
+            "NameAr": "كهوست"
+        },
+        {
+            "Code": "102547",
+            "Name": "Kiliia",
+            "NameAr": "كيلييا"
+        },
+        {
+            "Code": "160772",
+            "Name": "Koblevo",
+            "NameAr": "كوبليفو"
+        },
+        {
+            "Code": "145996",
+            "Name": "Koktebel",
+            "NameAr": "كوكتيبيل"
+        },
+        {
+            "Code": "123741",
+            "Name": "Kolomyia",
+            "NameAr": "كولومييا"
+        },
+        {
+            "Code": "104122",
+            "Name": "Korets",
+            "NameAr": "كوريتس"
+        },
+        {
+            "Code": "101694",
+            "Name": "Kornych",
+            "NameAr": "كورنيكه"
+        },
+        {
+            "Code": "124402",
+            "Name": "Koropove",
+            "NameAr": "كوروبوفي"
+        },
+        {
+            "Code": "101695",
+            "Name": "Korostiv",
+            "NameAr": "كوروستيف"
+        },
+        {
+            "Code": "108384",
+            "Name": "Kostryno",
+            "NameAr": "كوسترينو"
+        },
+        {
+            "Code": "124416",
+            "Name": "Kovel",
+            "NameAr": "كوفيل"
+        },
+        {
+            "Code": "105531",
+            "Name": "Kozyn",
+            "NameAr": "كوزين"
+        },
+        {
+            "Code": "124420",
+            "Name": "Kramatorsk",
+            "NameAr": "كراماتورسك"
+        },
+        {
+            "Code": "104127",
+            "Name": "Krasylivka",
+            "NameAr": "كراسيليفكا"
+        },
+        {
+            "Code": "105534",
+            "Name": "Kremenchuk",
+            "NameAr": "كريمينكهوك"
+        },
+        {
+            "Code": "123755",
+            "Name": "Kremenets",
+            "NameAr": "كريمينيتس"
+        },
+        {
+            "Code": "151116",
+            "Name": "Kropyvnytskyi",
+            "NameAr": "كروبيفنيتسكيي"
+        },
+        {
+            "Code": "101972",
+            "Name": "Krykhivtsi",
+            "NameAr": "كريكهيفتسي"
+        },
+        {
+            "Code": "124310",
+            "Name": "Kryvyi Rih",
+            "NameAr": "كريفيي ريه"
+        },
+        {
+            "Code": "103886",
+            "Name": "Kryzhanivka",
+            "NameAr": "كريزهانيفكا"
+        },
+        {
+            "Code": "123780",
+            "Name": "Kurortne",
+            "NameAr": "كورورتني"
+        },
+        {
+            "Code": "103889",
+            "Name": "Kvasy",
+            "NameAr": "كفاسي"
+        },
+        {
+            "Code": "145935",
+            "Name": "Kyiv",
+            "NameAr": "كييف"
+        },
+        {
+            "Code": "105542",
+            "Name": "Kyrylivka",
+            "NameAr": "كيريليفكا"
+        },
+        {
+            "Code": "300257",
+            "Name": "Lastivka",
+            "NameAr": "لاستيفكا"
+        },
+        {
+            "Code": "104611",
+            "Name": "Lobkova Balka",
+            "NameAr": "لوبكوفا بالكا"
+        },
+        {
+            "Code": "125644",
+            "Name": "Luhansk",
+            "NameAr": "لوهانسك"
+        },
+        {
+            "Code": "104010",
+            "Name": "Lumshory",
+            "NameAr": "لومسهوري"
+        },
+        {
+            "Code": "151275",
+            "Name": "Lutsk",
+            "NameAr": "لوتسك"
+        },
+        {
+            "Code": "126084",
+            "Name": "Lviv",
+            "NameAr": "لفيف"
+        },
+        {
+            "Code": "104606",
+            "Name": "Lysarnia",
+            "NameAr": "ليسارنيا"
+        },
+        {
+            "Code": "104476",
+            "Name": "Makiivka",
+            "NameAr": "ماكييفكا"
+        },
+        {
+            "Code": "104750",
+            "Name": "Malorichenske",
+            "NameAr": "مالوريكهينسكي"
+        },
+        {
+            "Code": "104480",
+            "Name": "Malyi Maiak",
+            "NameAr": "ماليي ماياك"
+        },
+        {
+            "Code": "104162",
+            "Name": "Marianivka",
+            "NameAr": "ماريانيفكا"
+        },
+        {
+            "Code": "127825",
+            "Name": "Mariupol",
+            "NameAr": "ماريوبول"
+        },
+        {
+            "Code": "104764",
+            "Name": "Medvedivka",
+            "NameAr": "ميدفيديفكا"
+        },
+        {
+            "Code": "104043",
+            "Name": "Melekyne",
+            "NameAr": "ميليكيني"
+        },
+        {
+            "Code": "127720",
+            "Name": "Melitopol",
+            "NameAr": "ميليتوبول"
+        },
+        {
+            "Code": "103815",
+            "Name": "Mihovo",
+            "NameAr": "ميهوفو"
+        },
+        {
+            "Code": "146649",
+            "Name": "Mischor",
+            "NameAr": "ميسكهور"
+        },
+        {
+            "Code": "104359",
+            "Name": "Mizhvodne",
+            "NameAr": "ميزهفودني"
+        },
+        {
+            "Code": "102835",
+            "Name": "Morschyn",
+            "NameAr": "مورسكهين"
+        },
+        {
+            "Code": "102836",
+            "Name": "Morske",
+            "NameAr": "مورسكي"
+        },
+        {
+            "Code": "128021",
+            "Name": "Mukacheve",
+            "NameAr": "موكاكهيفي"
+        },
+        {
+            "Code": "128696",
+            "Name": "Mykolaiv",
+            "NameAr": "ميكولايف"
+        },
+        {
+            "Code": "101918",
+            "Name": "Mykolaivka",
+            "NameAr": "ميكولايفكا"
+        },
+        {
+            "Code": "102849",
+            "Name": "Mykulychyn",
+            "NameAr": "ميكوليكهين"
+        },
+        {
+            "Code": "103004",
+            "Name": "Myla",
+            "NameAr": "ميلا"
+        },
+        {
+            "Code": "104802",
+            "Name": "Myrhorod",
+            "NameAr": "ميرهورود"
+        },
+        {
+            "Code": "106542",
+            "Name": "Nesterenki",
+            "NameAr": "نيستيرينكي"
+        },
+        {
+            "Code": "160900",
+            "Name": "Netishyn",
+            "NameAr": "نيتيسهين"
+        },
+        {
+            "Code": "129474",
+            "Name": "Nikopol",
+            "NameAr": "نيكوبول"
+        },
+        {
+            "Code": "417890",
+            "Name": "Nova Kakhovka",
+            "NameAr": "نوفا كاكهوفكا"
+        },
+        {
+            "Code": "104548",
+            "Name": "Novovolynsk",
+            "NameAr": "نوفوفولينسك"
+        },
+        {
+            "Code": "102885",
+            "Name": "Novyi Svet",
+            "NameAr": "نوفيي سفيت"
+        },
+        {
+            "Code": "104393",
+            "Name": "Obroshyno",
+            "NameAr": "وبروسهينو"
+        },
+        {
+            "Code": "103050",
+            "Name": "Ochakiv",
+            "NameAr": "وكهاكيف"
+        },
+        {
+            "Code": "131244",
+            "Name": "Odesa",
+            "NameAr": "وديسا"
+        },
+        {
+            "Code": "103395",
+            "Name": "Ordzhonikidze",
+            "NameAr": "وردزهونيكيدزي"
+        },
+        {
+            "Code": "103399",
+            "Name": "Oriavchyk",
+            "NameAr": "وريافكهيك"
+        },
+        {
+            "Code": "103417",
+            "Name": "Partenit",
+            "NameAr": "بارتينيت"
+        },
+        {
+            "Code": "102745",
+            "Name": "Pavlohrad",
+            "NameAr": "بافلوهراد"
+        },
+        {
+            "Code": "160899",
+            "Name": "Pereiaslav-Khmelnytskyi",
+            "NameAr": "بيريياسلاف-كهميلنيتسكيي"
+        },
+        {
+            "Code": "412702",
+            "Name": "Peremyshlyany",
+            "NameAr": "بيريميسهلياني"
+        },
+        {
+            "Code": "106679",
+            "Name": "Pidhirne",
+            "NameAr": "بيدهيرني"
+        },
+        {
+            "Code": "132138",
+            "Name": "Pishchne",
+            "NameAr": "بيسهكهني"
+        },
+        {
+            "Code": "103284",
+            "Name": "Pisochyn",
+            "NameAr": "بيسوكهين"
+        },
+        {
+            "Code": "147335",
+            "Name": "Pochaiv",
+            "NameAr": "بوكهايف"
+        },
+        {
+            "Code": "103294",
+            "Name": "Podobovets",
+            "NameAr": "بودوبوفيتس"
+        },
+        {
+            "Code": "133516",
+            "Name": "Podvirky",
+            "NameAr": "بودفيركي"
+        },
+        {
+            "Code": "131804",
+            "Name": "Poliana",
+            "NameAr": "بوليانا"
+        },
+        {
+            "Code": "104581",
+            "Name": "Polianytsia (Yaremche)",
+            "NameAr": "بوليانيتسيا ياريمكهي"
+        },
+        {
+            "Code": "132883",
+            "Name": "Poltava",
+            "NameAr": "بولتافا"
+        },
+        {
+            "Code": "102768",
+            "Name": "Popivka",
+            "NameAr": "بوبيفكا"
+        },
+        {
+            "Code": "102774",
+            "Name": "Prybrezhne",
+            "NameAr": "بريبريزهني"
+        },
+        {
+            "Code": "103083",
+            "Name": "Pryluky",
+            "NameAr": "بريلوكي"
+        },
+        {
+            "Code": "102096",
+            "Name": "Prymorskyi",
+            "NameAr": "بريمورسكيي"
+        },
+        {
+            "Code": "106701",
+            "Name": "Pryvitne",
+            "NameAr": "بريفيتني"
+        },
+        {
+            "Code": "108410",
+            "Name": "Pryyatne Svidannya",
+            "NameAr": "بريياتني سفيداننيا"
+        },
+        {
+            "Code": "103323",
+            "Name": "Pustomyty",
+            "NameAr": "بوستوميتي"
+        },
+        {
+            "Code": "103086",
+            "Name": "Pylypets",
+            "NameAr": "بيليبيتس"
+        },
+        {
+            "Code": "103088",
+            "Name": "Pysarivka",
+            "NameAr": "بيساريفكا"
+        },
+        {
+            "Code": "108421",
+            "Name": "Rakhiv",
+            "NameAr": "راكهيف"
+        },
+        {
+            "Code": "147473",
+            "Name": "Rava-ruska",
+            "NameAr": "رافا-روسكا"
+        },
+        {
+            "Code": "160888",
+            "Name": "Rivne",
+            "NameAr": "ريفني"
+        },
+        {
+            "Code": "106985",
+            "Name": "Rohatyn",
+            "NameAr": "روهاتين"
+        },
+        {
+            "Code": "103619",
+            "Name": "Romankiv",
+            "NameAr": "رومانكيف"
+        },
+        {
+            "Code": "103621",
+            "Name": "Rosishka",
+            "NameAr": "روسيسهكا"
+        },
+        {
+            "Code": "106744",
+            "Name": "Ryasne Ruske",
+            "NameAr": "رياسني روسكي"
+        },
+        {
+            "Code": "106994",
+            "Name": "Rybache",
+            "NameAr": "ريباكهي"
+        },
+        {
+            "Code": "108460",
+            "Name": "Sadove",
+            "NameAr": "سادوفي"
+        },
+        {
+            "Code": "135313",
+            "Name": "Saki",
+            "NameAr": "ساكي"
+        },
+        {
+            "Code": "107046",
+            "Name": "Savran",
+            "NameAr": "سافران"
+        },
+        {
+            "Code": "103161",
+            "Name": "Schaslyve",
+            "NameAr": "سكهاسليفي"
+        },
+        {
+            "Code": "137986",
+            "Name": "Sevastopol",
+            "NameAr": "سيفاستوبول"
+        },
+        {
+            "Code": "103171",
+            "Name": "Shaian",
+            "NameAr": "سهايان"
+        },
+        {
+            "Code": "108515",
+            "Name": "Shcholkine",
+            "NameAr": "سهكهولكيني"
+        },
+        {
+            "Code": "103163",
+            "Name": "Shidnytsia",
+            "NameAr": "سهيدنيتسيا"
+        },
+        {
+            "Code": "103390",
+            "Name": "Shtormove",
+            "NameAr": "سهتورموفي"
+        },
+        {
+            "Code": "103177",
+            "Name": "Shyan",
+            "NameAr": "سهيان"
+        },
+        {
+            "Code": "108536",
+            "Name": "Shypyntsi",
+            "NameAr": "سهيبينتسي"
+        },
+        {
+            "Code": "137422",
+            "Name": "Simeiz",
+            "NameAr": "سيمييز"
+        },
+        {
+            "Code": "137611",
+            "Name": "Simferopol",
+            "NameAr": "سيمفيروبول"
+        },
+        {
+            "Code": "107380",
+            "Name": "Skadovsk",
+            "NameAr": "سكادوفسك"
+        },
+        {
+            "Code": "103186",
+            "Name": "Skole",
+            "NameAr": "سكولي"
+        },
+        {
+            "Code": "103595",
+            "Name": "Slavske",
+            "NameAr": "سلافسكي"
+        },
+        {
+            "Code": "160896",
+            "Name": "Slavuta",
+            "NameAr": "سلافوتا"
+        },
+        {
+            "Code": "138734",
+            "Name": "Sloviansk",
+            "NameAr": "سلوفيانسك"
+        },
+        {
+            "Code": "106657",
+            "Name": "Sokilnyky",
+            "NameAr": "سوكيلنيكي"
+        },
+        {
+            "Code": "106926",
+            "Name": "Starobilsk",
+            "NameAr": "ستاروبيلسك"
+        },
+        {
+            "Code": "106928",
+            "Name": "Stoianka",
+            "NameAr": "ستويانكا"
+        },
+        {
+            "Code": "103207",
+            "Name": "Storozhnytsa",
+            "NameAr": "ستوروزهنيتسا"
+        },
+        {
+            "Code": "138845",
+            "Name": "Stryi",
+            "NameAr": "ستريي"
+        },
+        {
+            "Code": "139288",
+            "Name": "Sudak",
+            "NameAr": "سوداك"
+        },
+        {
+            "Code": "107270",
+            "Name": "Sudova Vyshna",
+            "NameAr": "سودوفا فيسهنا"
+        },
+        {
+            "Code": "138967",
+            "Name": "Sumy",
+            "NameAr": "سومي"
+        },
+        {
+            "Code": "106815",
+            "Name": "Sviatohirsk",
+            "NameAr": "سفياتوهيرسك"
+        },
+        {
+            "Code": "107148",
+            "Name": "Svitiaz",
+            "NameAr": "سفيتياز"
+        },
+        {
+            "Code": "107149",
+            "Name": "Svitlohirske",
+            "NameAr": "سفيتلوهيرسكي"
+        },
+        {
+            "Code": "106935",
+            "Name": "Svitlovodsk",
+            "NameAr": "سفيتلوفودسك"
+        },
+        {
+            "Code": "107285",
+            "Name": "Synevyr",
+            "NameAr": "سينيفير"
+        },
+        {
+            "Code": "107292",
+            "Name": "Tarashany",
+            "NameAr": "تاراسهاني"
+        },
+        {
+            "Code": "107294",
+            "Name": "Tatariv",
+            "NameAr": "تاتاريف"
+        },
+        {
+            "Code": "139600",
+            "Name": "Ternopil",
+            "NameAr": "تيرنوبيل"
+        },
+        {
+            "Code": "139827",
+            "Name": "Truskavets",
+            "NameAr": "تروسكافيتس"
+        },
+        {
+            "Code": "160895",
+            "Name": "Tulchyn",
+            "NameAr": "تولكهين"
+        },
+        {
+            "Code": "296279",
+            "Name": "Tur ya Paseka",
+            "NameAr": "تور يا باسيكا"
+        },
+        {
+            "Code": "107933",
+            "Name": "Uman",
+            "NameAr": "ومان"
+        },
+        {
+            "Code": "107662",
+            "Name": "Utes",
+            "NameAr": "وتيس"
+        },
+        {
+            "Code": "141270",
+            "Name": "Uzhhorod",
+            "NameAr": "وزههورود"
+        },
+        {
+            "Code": "107888",
+            "Name": "Vapniarka",
+            "NameAr": "فابنياركا"
+        },
+        {
+            "Code": "417323",
+            "Name": "Velyka Dobron",
+            "NameAr": "فيليكا دوبرون"
+        },
+        {
+            "Code": "103472",
+            "Name": "Verkhovyna",
+            "NameAr": "فيركهوفينا"
+        },
+        {
+            "Code": "160886",
+            "Name": "Vinnytsia,   Vinnytsia",
+            "NameAr": "فيننيتسيا فيننيتسيا"
+        },
+        {
+            "Code": "107532",
+            "Name": "Volodymyr-Volynskyi",
+            "NameAr": "فولوديمير-فولينسكيي"
+        },
+        {
+            "Code": "107485",
+            "Name": "Volytsia",
+            "NameAr": "فوليتسيا"
+        },
+        {
+            "Code": "107883",
+            "Name": "Vorohta",
+            "NameAr": "فوروهتا"
+        },
+        {
+            "Code": "107511",
+            "Name": "Vorzel",
+            "NameAr": "فورزيل"
+        },
+        {
+            "Code": "107410",
+            "Name": "Voznesensk",
+            "NameAr": "فوزنيسينسك"
+        },
+        {
+            "Code": "107908",
+            "Name": "Vylkove",
+            "NameAr": "فيلكوفي"
+        },
+        {
+            "Code": "143216",
+            "Name": "Vynnyky",
+            "NameAr": "فيننيكي"
+        },
+        {
+            "Code": "108016",
+            "Name": "Vynohradiv",
+            "NameAr": "فينوهراديف"
+        },
+        {
+            "Code": "267455",
+            "Name": "Vyshenky",
+            "NameAr": "فيسهينكي"
+        },
+        {
+            "Code": "107978",
+            "Name": "Vyshka",
+            "NameAr": "فيسهكا"
+        },
+        {
+            "Code": "107909",
+            "Name": "Vyshkovo",
+            "NameAr": "فيسهكوفو"
+        },
+        {
+            "Code": "107414",
+            "Name": "Yablunytsia",
+            "NameAr": "يابلونيتسيا"
+        },
+        {
+            "Code": "101261",
+            "Name": "Yalta",
+            "NameAr": "يالتا"
+        },
+        {
+            "Code": "145813",
+            "Name": "Yaremche",
+            "NameAr": "ياريمكهي"
+        },
+        {
+            "Code": "108696",
+            "Name": "Yasynia",
+            "NameAr": "ياسينيا"
+        },
+        {
+            "Code": "122870",
+            "Name": "Yevpatiriia",
+            "NameAr": "ييفباتيرييا"
+        },
+        {
+            "Code": "103214",
+            "Name": "Zabolotiv",
+            "NameAr": "زابولوتيف"
+        },
+        {
+            "Code": "107626",
+            "Name": "Zaliznyi Port",
+            "NameAr": "زاليزنيي بورت"
+        },
+        {
+            "Code": "107552",
+            "Name": "Zaozerne",
+            "NameAr": "زاوزيرني"
+        },
+        {
+            "Code": "151723",
+            "Name": "Zaporizhzhia",
+            "NameAr": "زابوريزهزهيا"
+        },
+        {
+            "Code": "107556",
+            "Name": "Zatoka",
+            "NameAr": "زاتوكا"
+        },
+        {
+            "Code": "107629",
+            "Name": "Zbyny",
+            "NameAr": "زبيني"
+        },
+        {
+            "Code": "107922",
+            "Name": "Zelenohirya",
+            "NameAr": "زيلينوهيريا"
+        },
+        {
+            "Code": "107555",
+            "Name": "Zhashkiv",
+            "NameAr": "زهاسهكيف"
+        },
+        {
+            "Code": "143860",
+            "Name": "Zhdeniievo",
+            "NameAr": "زهدينيييفو"
+        },
+        {
+            "Code": "107050",
+            "Name": "Zhovkva",
+            "NameAr": "زهوفكفا"
+        },
+        {
+            "Code": "107359",
+            "Name": "zhydachiv",
+            "NameAr": "زهيداكهيف"
+        },
+        {
+            "Code": "108040",
+            "Name": "Zhytomyr",
+            "NameAr": "زهيتومير"
+        },
+        {
+            "Code": "107430",
+            "Name": "Znamianske",
+            "NameAr": "زناميانسكي"
+        },
+        {
+            "Code": "143371",
+            "Name": "Zolochiv",
+            "NameAr": "زولوكهيف"
+        },
+        {
+            "Code": "107632",
+            "Name": "Zolote",
+            "NameAr": "زولوتي"
+        }
+    ],
+    "totalCities": 225
+}

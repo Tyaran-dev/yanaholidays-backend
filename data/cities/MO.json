@@ -1,0 +1,12 @@
+{
+    "id": "MO",
+    "countryCode": "MO",
+    "cities": [
+        {
+            "Code": "151142",
+            "Name": "Macau",
+            "NameAr": "ماكاو"
+        }
+    ],
+    "totalCities": 1
+}

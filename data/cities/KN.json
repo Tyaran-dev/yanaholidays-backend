@@ -1,0 +1,47 @@
+{
+    "id": "KN",
+    "countryCode": "KN",
+    "cities": [
+        {
+            "Code": "110526",
+            "Name": "Basseterre",
+            "NameAr": "باسسيتيرري"
+        },
+        {
+            "Code": "114119",
+            "Name": "Charlestown",
+            "NameAr": "كهارليستوون"
+        },
+        {
+            "Code": "304889",
+            "Name": "Cotton Ground",
+            "NameAr": "كوتتون جرووند"
+        },
+        {
+            "Code": "145277",
+            "Name": "Frigate Bay",
+            "NameAr": "فريجاتي باي"
+        },
+        {
+            "Code": "130419",
+            "Name": "Nevis",
+            "NameAr": "نيفيس"
+        },
+        {
+            "Code": "131101",
+            "Name": "Newcastle",
+            "NameAr": "نيوكاستلي"
+        },
+        {
+            "Code": "102719",
+            "Name": "Saint Thomas Middle Island Parish",
+            "NameAr": "ساينت تهوماس ميددلي يسلاند باريسه"
+        },
+        {
+            "Code": "148012",
+            "Name": "St. Kitts",
+            "NameAr": "ست كيتتس"
+        }
+    ],
+    "totalCities": 8
+}

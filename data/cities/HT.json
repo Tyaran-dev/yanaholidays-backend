@@ -1,0 +1,67 @@
+{
+    "id": "HT",
+    "countryCode": "HT",
+    "cities": [
+        {
+            "Code": "390003",
+            "Name": "Arcahaie",
+            "NameAr": "اركاهايي"
+        },
+        {
+            "Code": "113832",
+            "Name": "Cap-Haitien",
+            "NameAr": "كاب-هايتيين"
+        },
+        {
+            "Code": "105873",
+            "Name": "Ile a Vache",
+            "NameAr": "يلي ا فاكهي"
+        },
+        {
+            "Code": "150468",
+            "Name": "Jacmel",
+            "NameAr": "جاكميل"
+        },
+        {
+            "Code": "151477",
+            "Name": "Les Cayes",
+            "NameAr": "ليس كاييس"
+        },
+        {
+            "Code": "102606",
+            "Name": "Marigot",
+            "NameAr": "ماريجوت"
+        },
+        {
+            "Code": "106524",
+            "Name": "Montrouis",
+            "NameAr": "مونتروويس"
+        },
+        {
+            "Code": "150216",
+            "Name": "Petionville",
+            "NameAr": "بيتيونفيللي"
+        },
+        {
+            "Code": "131842",
+            "Name": "Port-au-Prince",
+            "NameAr": "بورت-او-برينكي"
+        },
+        {
+            "Code": "103447",
+            "Name": "Port-Salut",
+            "NameAr": "بورت-سالوت"
+        },
+        {
+            "Code": "148980",
+            "Name": "Saint-Marc",
+            "NameAr": "ساينت-مارك"
+        },
+        {
+            "Code": "107151",
+            "Name": "Tabarre",
+            "NameAr": "تابارري"
+        }
+    ],
+    "totalCities": 12
+}

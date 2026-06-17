@@ -1,0 +1,452 @@
+{
+    "id": "CY",
+    "countryCode": "CY",
+    "cities": [
+        {
+            "Code": "299308",
+            "Name": "Agios Amvrosios (Esentepe),   Keryneia District",
+            "NameAr": "اجيوس امفروسيوس يسينتيبي كيرينييا ديستريكت"
+        },
+        {
+            "Code": "113813",
+            "Name": "Agios Epiktitos (Catalkoy),   Keryneia District",
+            "NameAr": "اجيوس يبيكتيتوس كاتالكوي كيرينييا ديستريكت"
+        },
+        {
+            "Code": "417485",
+            "Name": "Agios Georgios (Keryneia),   Keryneia District",
+            "NameAr": "اجيوس جيورجيوس كيرينييا كيرينييا ديستريكت"
+        },
+        {
+            "Code": "100786",
+            "Name": "Agios Georgios (Paphos),   Paphos District",
+            "NameAr": "اجيوس جيورجيوس بابهوس بابهوس ديستريكت"
+        },
+        {
+            "Code": "109960",
+            "Name": "Agros,   Limassol District",
+            "NameAr": "اجروس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "100693",
+            "Name": "Alaminos,   Larnaca District",
+            "NameAr": "الامينوس لارناكا ديستريكت"
+        },
+        {
+            "Code": "292778",
+            "Name": "Anafotida",
+            "NameAr": "انافوتيدا"
+        },
+        {
+            "Code": "109346",
+            "Name": "Anoyira,   Paphos District",
+            "NameAr": "انوييرا بابهوس ديستريكت"
+        },
+        {
+            "Code": "282632",
+            "Name": "Aphrodite Hills,   Paphos District",
+            "NameAr": "ابهروديتي هيللس بابهوس ديستريكت"
+        },
+        {
+            "Code": "109059",
+            "Name": "Argaka,   Paphos District",
+            "NameAr": "ارجاكا بابهوس ديستريكت"
+        },
+        {
+            "Code": "110201",
+            "Name": "Arsos,   Limassol District",
+            "NameAr": "ارسوس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "417483",
+            "Name": "Athienou,   Larnaca District",
+            "NameAr": "اتهيينوو لارناكا ديستريكت"
+        },
+        {
+            "Code": "110107",
+            "Name": "Ayia Marina Chrysochous,   Paphos District",
+            "NameAr": "اييا مارينا كهريسوكهووس بابهوس ديستريكت"
+        },
+        {
+            "Code": "109677",
+            "Name": "Ayia Napa,   Famagusta District",
+            "NameAr": "اييا نابا فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "115867",
+            "Name": "Coral Bay,   Paphos District",
+            "NameAr": "كورال باي بابهوس ديستريكت"
+        },
+        {
+            "Code": "417484",
+            "Name": "Davlos,   Famagusta District",
+            "NameAr": "دافلوس فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "116439",
+            "Name": "Droushia,   Paphos District",
+            "NameAr": "درووسهيا بابهوس ديستريكت"
+        },
+        {
+            "Code": "116701",
+            "Name": "Droussia,   Paphos District",
+            "NameAr": "درووسسيا بابهوس ديستريكت"
+        },
+        {
+            "Code": "118089",
+            "Name": "Episkopi,   Limassol District",
+            "NameAr": "يبيسكوبي ليماسسول ديستريكت"
+        },
+        {
+            "Code": "417903",
+            "Name": "Famagusta",
+            "NameAr": "فاماجوستا"
+        },
+        {
+            "Code": "153776",
+            "Name": "Famagusta-Ammochostos,   Famagusta District",
+            "NameAr": "فاماجوستا-امموكهوستوس فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "118249",
+            "Name": "Fasoula,   Limassol District",
+            "NameAr": "فاسوولا ليماسسول ديستريكت"
+        },
+        {
+            "Code": "145350",
+            "Name": "Ghoudi,   Paphos District",
+            "NameAr": "جهوودي بابهوس ديستريكت"
+        },
+        {
+            "Code": "262886",
+            "Name": "Girne,   Keryneia District",
+            "NameAr": "جيرني كيرينييا ديستريكت"
+        },
+        {
+            "Code": "119174",
+            "Name": "Goudi,   Paphos District",
+            "NameAr": "جوودي بابهوس ديستريكت"
+        },
+        {
+            "Code": "121826",
+            "Name": "Kakopetria,   Nicosia District",
+            "NameAr": "كاكوبيتريا نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "121828",
+            "Name": "Kalavasos,   Larnaca District",
+            "NameAr": "كالافاسوس لارناكا ديستريكت"
+        },
+        {
+            "Code": "122390",
+            "Name": "Kallepia,   Paphos District",
+            "NameAr": "كالليبيا بابهوس ديستريكت"
+        },
+        {
+            "Code": "300937",
+            "Name": "Kalograia (Bahceli),   Keryneia District",
+            "NameAr": "كالوجرايا باهكيلي كيرينييا ديستريكت"
+        },
+        {
+            "Code": "122915",
+            "Name": "Kalopanayiotis,   Nicosia District",
+            "NameAr": "كالوباناييوتيس نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "101948",
+            "Name": "Kampia,   Nicosia District",
+            "NameAr": "كامبيا نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "123095",
+            "Name": "Karmi (Karaman),   Keryneia District",
+            "NameAr": "كارمي كارامان كيرينييا ديستريكت"
+        },
+        {
+            "Code": "122958",
+            "Name": "Kathikas,   Paphos District",
+            "NameAr": "كاتهيكاس بابهوس ديستريكت"
+        },
+        {
+            "Code": "123110",
+            "Name": "Kato Akourdalia,   Paphos District",
+            "NameAr": "كاتو اكوورداليا بابهوس ديستريكت"
+        },
+        {
+            "Code": "123111",
+            "Name": "Kato Drys,   Limassol District",
+            "NameAr": "كاتو دريس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "108362",
+            "Name": "Kato Platres,   Limassol District",
+            "NameAr": "كاتو بلاتريس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "103708",
+            "Name": "Kato Pyrgos,   Nicosia District",
+            "NameAr": "كاتو بيرجوس نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "153772",
+            "Name": "Keryneia,   Keryneia District",
+            "NameAr": "كيرينييا كيرينييا ديستريكت"
+        },
+        {
+            "Code": "122607",
+            "Name": "Kissonerga,   Paphos District",
+            "NameAr": "كيسسونيرجا بابهوس ديستريكت"
+        },
+        {
+            "Code": "123736",
+            "Name": "Koilani,   Limassol District",
+            "NameAr": "كويلاني ليماسسول ديستريكت"
+        },
+        {
+            "Code": "124010",
+            "Name": "Kouklia,   Paphos District",
+            "NameAr": "كووكليا بابهوس ديستريكت"
+        },
+        {
+            "Code": "103730",
+            "Name": "Kyperounta,   Limassol District",
+            "NameAr": "كيبيروونتا ليماسسول ديستريكت"
+        },
+        {
+            "Code": "123925",
+            "Name": "Kyrenia,   Keryneia District",
+            "NameAr": "كيرينيا كيرينييا ديستريكت"
+        },
+        {
+            "Code": "124137",
+            "Name": "Lapithos (Lapta),   Keryneia District",
+            "NameAr": "لابيتهوس لابتا كيرينييا ديستريكت"
+        },
+        {
+            "Code": "124539",
+            "Name": "Larnaca,   Larnaca District",
+            "NameAr": "لارناكا لارناكا ديستريكت"
+        },
+        {
+            "Code": "124688",
+            "Name": "Latsi (Latchi),   Paphos District",
+            "NameAr": "لاتسي لاتكهي بابهوس ديستريكت"
+        },
+        {
+            "Code": "243901",
+            "Name": "Lefka (Lefke),   Nicosia District",
+            "NameAr": "ليفكا ليفكي نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "124597",
+            "Name": "Lefkara,   Larnaca District",
+            "NameAr": "ليفكارا لارناكا ديستريكت"
+        },
+        {
+            "Code": "125854",
+            "Name": "Limassol,   Limassol District",
+            "NameAr": "ليماسسول ليماسسول ديستريكت"
+        },
+        {
+            "Code": "126168",
+            "Name": "Lofou,   Limassol District",
+            "NameAr": "لوفوو ليماسسول ديستريكت"
+        },
+        {
+            "Code": "104628",
+            "Name": "Lythrodontas,   Nicosia District",
+            "NameAr": "ليتهرودونتاس نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "127078",
+            "Name": "Magosa  Famagusta",
+            "NameAr": "ماجوسا فاماجوستا"
+        },
+        {
+            "Code": "226822",
+            "Name": "Meneou,   Larnaca District",
+            "NameAr": "مينيوو لارناكا ديستريكت"
+        },
+        {
+            "Code": "128861",
+            "Name": "Miliou,   Paphos District",
+            "NameAr": "ميليوو بابهوس ديستريكت"
+        },
+        {
+            "Code": "119519",
+            "Name": "Morfou (Guzelyurt),   Nicosia District",
+            "NameAr": "مورفوو جوزيليورت نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "130392",
+            "Name": "Neo Chorio,   Paphos District",
+            "NameAr": "نيو كهوريو بابهوس ديستريكت"
+        },
+        {
+            "Code": "129872",
+            "Name": "Nicosia,   Nicosia District",
+            "NameAr": "نيكوسيا نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "103042",
+            "Name": "Omodos,   Limassol District",
+            "NameAr": "ومودوس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "305649",
+            "Name": "Orga (Kayalar),   Keryneia District",
+            "NameAr": "ورجا كايالار كيرينييا ديستريكت"
+        },
+        {
+            "Code": "147026",
+            "Name": "Oroklini,   Larnaca District",
+            "NameAr": "وروكليني لارناكا ديستريكت"
+        },
+        {
+            "Code": "104205",
+            "Name": "Panayia,   Paphos District",
+            "NameAr": "باناييا بابهوس ديستريكت"
+        },
+        {
+            "Code": "102084",
+            "Name": "Pano Akourdaleia,   Paphos District",
+            "NameAr": "بانو اكووردالييا بابهوس ديستريكت"
+        },
+        {
+            "Code": "147094",
+            "Name": "Paphos,   Paphos District",
+            "NameAr": "بابهوس بابهوس ديستريكت"
+        },
+        {
+            "Code": "132049",
+            "Name": "Paralimni,   Famagusta District",
+            "NameAr": "باراليمني فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "131476",
+            "Name": "Pedhoulas,   Nicosia District",
+            "NameAr": "بيدهوولاس نيكوسيا ديستريكت"
+        },
+        {
+            "Code": "131493",
+            "Name": "Pentakomo,   Limassol District",
+            "NameAr": "بينتاكومو ليماسسول ديستريكت"
+        },
+        {
+            "Code": "132135",
+            "Name": "Pervolia,   Larnaca District",
+            "NameAr": "بيرفوليا لارناكا ديستريكت"
+        },
+        {
+            "Code": "131612",
+            "Name": "Peyia,   Paphos District",
+            "NameAr": "بيييا بابهوس ديستريكت"
+        },
+        {
+            "Code": "133437",
+            "Name": "Pissouri,   Limassol District",
+            "NameAr": "بيسسووري ليماسسول ديستريكت"
+        },
+        {
+            "Code": "147222",
+            "Name": "Platres,   Limassol District",
+            "NameAr": "بلاتريس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "132280",
+            "Name": "Polis Chrysochous,   Paphos District",
+            "NameAr": "بوليس كهريسوكهووس بابهوس ديستريكت"
+        },
+        {
+            "Code": "133486",
+            "Name": "Pomos,   Paphos District",
+            "NameAr": "بوموس بابهوس ديستريكت"
+        },
+        {
+            "Code": "147380",
+            "Name": "Protaras,   Famagusta District",
+            "NameAr": "بروتاراس فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "134008",
+            "Name": "Pyla,   Larnaca District",
+            "NameAr": "بيلا لارناكا ديستريكت"
+        },
+        {
+            "Code": "392645",
+            "Name": "Pyrgos,   Limassol District",
+            "NameAr": "بيرجوس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "144923",
+            "Name": "Rizokarpaso (Dikarpaz),   Famagusta District",
+            "NameAr": "ريزوكارباسو ديكارباز فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "103249",
+            "Name": "Saittas,   Limassol District",
+            "NameAr": "سايتتاس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "137486",
+            "Name": "Skarinou,   Larnaca District",
+            "NameAr": "سكارينوو لارناكا ديستريكت"
+        },
+        {
+            "Code": "138061",
+            "Name": "Sotira,   Famagusta District",
+            "NameAr": "سوتيرا فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "140280",
+            "Name": "Tala,   Paphos District",
+            "NameAr": "تالا بابهوس ديستريكت"
+        },
+        {
+            "Code": "148246",
+            "Name": "Tochni,   Larnaca District",
+            "NameAr": "توكهني لارناكا ديستريكت"
+        },
+        {
+            "Code": "121761",
+            "Name": "Trikomo (Iskele),   Famagusta District",
+            "NameAr": "تريكومو يسكيلي فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "140653",
+            "Name": "Troodos,   Limassol District",
+            "NameAr": "تروودوس ليماسسول ديستريكت"
+        },
+        {
+            "Code": "141625",
+            "Name": "Vasa,   Limassol District",
+            "NameAr": "فاسا ليماسسول ديستريكت"
+        },
+        {
+            "Code": "392640",
+            "Name": "Vavla,   Larnaca District",
+            "NameAr": "فافلا لارناكا ديستريكت"
+        },
+        {
+            "Code": "109718",
+            "Name": "Vokolida (Bafra),   Famagusta District",
+            "NameAr": "فوكوليدا بافرا فاماجوستا ديستريكت"
+        },
+        {
+            "Code": "140946",
+            "Name": "Vouni,   Limassol District",
+            "NameAr": "فووني ليماسسول ديستريكت"
+        },
+        {
+            "Code": "293958",
+            "Name": "Yeni Bogazici",
+            "NameAr": "ييني بوجازيكي"
+        },
+        {
+            "Code": "143857",
+            "Name": "Zygi,   Larnaca District",
+            "NameAr": "زيجي لارناكا ديستريكت"
+        }
+    ],
+    "totalCities": 89
+}

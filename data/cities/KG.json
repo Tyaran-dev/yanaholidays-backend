@@ -1,0 +1,47 @@
+{
+    "id": "KG",
+    "countryCode": "KG",
+    "cities": [
+        {
+            "Code": "112192",
+            "Name": "Bishkek",
+            "NameAr": "بيسهكيك"
+        },
+        {
+            "Code": "105662",
+            "Name": "Bosteri",
+            "NameAr": "بوستيري"
+        },
+        {
+            "Code": "305245",
+            "Name": "Jalal-Abad",
+            "NameAr": "جالال-اباد"
+        },
+        {
+            "Code": "102537",
+            "Name": "Karakol",
+            "NameAr": "كاراكول"
+        },
+        {
+            "Code": "149917",
+            "Name": "Naryn",
+            "NameAr": "نارين"
+        },
+        {
+            "Code": "104305",
+            "Name": "Osch",
+            "NameAr": "وسكه"
+        },
+        {
+            "Code": "417048",
+            "Name": "Tokmok",
+            "NameAr": "توكموك"
+        },
+        {
+            "Code": "107116",
+            "Name": "Tscholponata",
+            "NameAr": "تسكهولبوناتا"
+        }
+    ],
+    "totalCities": 8
+}

@@ -1,0 +1,47 @@
+{
+    "id": "ML",
+    "countryCode": "ML",
+    "cities": [
+        {
+            "Code": "110683",
+            "Name": "Bamako",
+            "NameAr": "باماكو"
+        },
+        {
+            "Code": "110686",
+            "Name": "Bandiagara",
+            "NameAr": "باندياجارا"
+        },
+        {
+            "Code": "116360",
+            "Name": "Djenne",
+            "NameAr": "دجينني"
+        },
+        {
+            "Code": "128416",
+            "Name": "Mopti",
+            "NameAr": "موبتي"
+        },
+        {
+            "Code": "135987",
+            "Name": "Sangha",
+            "NameAr": "سانجها"
+        },
+        {
+            "Code": "147842",
+            "Name": "Segou",
+            "NameAr": "سيجوو"
+        },
+        {
+            "Code": "137333",
+            "Name": "Sikasso",
+            "NameAr": "سيكاسسو"
+        },
+        {
+            "Code": "140438",
+            "Name": "Timbuktu",
+            "NameAr": "تيمبوكتو"
+        }
+    ],
+    "totalCities": 8
+}

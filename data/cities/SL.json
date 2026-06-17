@@ -1,0 +1,27 @@
+{
+    "id": "SL",
+    "countryCode": "SL",
+    "cities": [
+        {
+            "Code": "145265",
+            "Name": "Freetown",
+            "NameAr": "فرييتوون"
+        },
+        {
+            "Code": "119552",
+            "Name": "Hamilton",
+            "NameAr": "هاميلتون"
+        },
+        {
+            "Code": "151185",
+            "Name": "Sierra Leone",
+            "NameAr": "سييررا ليوني"
+        },
+        {
+            "Code": "140243",
+            "Name": "Sussex",
+            "NameAr": "سوسسيكس"
+        }
+    ],
+    "totalCities": 4
+}

@@ -1,0 +1,337 @@
+{
+    "id": "SA",
+    "countryCode": "SA",
+    "cities": [
+        {
+            "Code": "100218",
+            "Name": "Abha",
+            "NameAr": "ابها"
+        },
+        {
+            "Code": "160981",
+            "Name": "Afif",
+            "NameAr": "افيف"
+        },
+        {
+            "Code": "269830",
+            "Name": "Ahad Rafidah",
+            "NameAr": "اهاد رافيداه"
+        },
+        {
+            "Code": "100164",
+            "Name": "Al Bahah",
+            "NameAr": "ال باهاه"
+        },
+        {
+            "Code": "100813",
+            "Name": "Al Bukayriyah",
+            "NameAr": "ال بوكايريياه"
+        },
+        {
+            "Code": "418212",
+            "Name": "Al Hofuf",
+            "NameAr": "ال هوفوف"
+        },
+        {
+            "Code": "100491",
+            "Name": "Al Khobar",
+            "NameAr": "ال كهوبار"
+        },
+        {
+            "Code": "160982",
+            "Name": "Al Lith,   Makkah",
+            "NameAr": "ال ليته ماككاه"
+        },
+        {
+            "Code": "155776",
+            "Name": "Al Madinah Province",
+            "NameAr": "ال ماديناه بروفينكي"
+        },
+        {
+            "Code": "160980",
+            "Name": "Al Majma'ah",
+            "NameAr": "ال ماجمااه"
+        },
+        {
+            "Code": "160726",
+            "Name": "Al Qunfudhah,   Makkah",
+            "NameAr": "ال قونفودهاه ماككاه"
+        },
+        {
+            "Code": "105149",
+            "Name": "Al Wajh",
+            "NameAr": "ال واجه"
+        },
+        {
+            "Code": "155772",
+            "Name": "Al-Ahsa",
+            "NameAr": "ال-اهسا"
+        },
+        {
+            "Code": "100304",
+            "Name": "Al-Hofuf",
+            "NameAr": "ال-هوفوف"
+        },
+        {
+            "Code": "105080",
+            "Name": "Al-Kharj",
+            "NameAr": "ال-كهارج"
+        },
+        {
+            "Code": "100977",
+            "Name": "AlUla",
+            "NameAr": "الولا"
+        },
+        {
+            "Code": "396149",
+            "Name": "Ar Rass",
+            "NameAr": "ار راسس"
+        },
+        {
+            "Code": "150693",
+            "Name": "Arar",
+            "NameAr": "ارار"
+        },
+        {
+            "Code": "407518",
+            "Name": "Baljurashi",
+            "NameAr": "بالجوراسهي"
+        },
+        {
+            "Code": "112062",
+            "Name": "Buraydah",
+            "NameAr": "بورايداه"
+        },
+        {
+            "Code": "116137",
+            "Name": "Dammam",
+            "NameAr": "داممام"
+        },
+        {
+            "Code": "116182",
+            "Name": "Dhahran",
+            "NameAr": "دهاهران"
+        },
+        {
+            "Code": "117881",
+            "Name": "Farasan Island",
+            "NameAr": "فاراسان يسلاند"
+        },
+        {
+            "Code": "151377",
+            "Name": "Gassim",
+            "NameAr": "جاسسيم"
+        },
+        {
+            "Code": "119783",
+            "Name": "Gizan / Jizan",
+            "NameAr": "جيزان جيزان"
+        },
+        {
+            "Code": "151001",
+            "Name": "Gurayat",
+            "NameAr": "جورايات"
+        },
+        {
+            "Code": "120076",
+            "Name": "Hafar Al-Batin",
+            "NameAr": "هافار ال-باتين"
+        },
+        {
+            "Code": "418206",
+            "Name": "Hafr Al Baten",
+            "NameAr": "هافر ال باتين"
+        },
+        {
+            "Code": "418207",
+            "Name": "hafr al batin",
+            "NameAr": "هافر ال باتين"
+        },
+        {
+            "Code": "120451",
+            "Name": "Hail",
+            "NameAr": "هايل"
+        },
+        {
+            "Code": "417936",
+            "Name": "Hanak",
+            "NameAr": "هاناك"
+        },
+        {
+            "Code": "378145",
+            "Name": "Haradh",
+            "NameAr": "هاراده"
+        },
+        {
+            "Code": "122187",
+            "Name": "Jeddah",
+            "NameAr": "جدة"
+        },
+        {
+            "Code": "151466",
+            "Name": "Jouf",
+            "NameAr": "جووف"
+        },
+        {
+            "Code": "122789",
+            "Name": "Jubail",
+            "NameAr": "جوبايل"
+        },
+        {
+            "Code": "104104",
+            "Name": "Khafji",
+            "NameAr": "كهافجي"
+        },
+        {
+            "Code": "114096",
+            "Name": "KHAMIS MUSHAIT",
+            "NameAr": "كهاميس موسهايت"
+        },
+        {
+            "Code": "417544",
+            "Name": "Khuff",
+            "NameAr": "كهوفف"
+        },
+        {
+            "Code": "103965",
+            "Name": "King Abdullah Economic City",
+            "NameAr": "كينج ابدوللاه يكونوميك كيتي"
+        },
+        {
+            "Code": "127340",
+            "Name": "Madinah",
+            "NameAr": "ماديناه"
+        },
+        {
+            "Code": "127891",
+            "Name": "Makkah/Mecca",
+            "NameAr": "ماككاه ميككا"
+        },
+        {
+            "Code": "129446",
+            "Name": "Nadschran",
+            "NameAr": "نادسكهران"
+        },
+        {
+            "Code": "417572",
+            "Name": "Najran",
+            "NameAr": "ناجران"
+        },
+        {
+            "Code": "150906",
+            "Name": "Nejran",
+            "NameAr": "نيجران"
+        },
+        {
+            "Code": "289876",
+            "Name": "Neom Bay (NUM)",
+            "NameAr": "نيوم باي نوم"
+        },
+        {
+            "Code": "151316",
+            "Name": "Qaisumah",
+            "NameAr": "قايسوماه"
+        },
+        {
+            "Code": "103469",
+            "Name": "Qurayyat",
+            "NameAr": "قوراييات"
+        },
+        {
+            "Code": "103093",
+            "Name": "Rabigh",
+            "NameAr": "رابيجه"
+        },
+        {
+            "Code": "151317",
+            "Name": "Rafha",
+            "NameAr": "رافها"
+        },
+        {
+            "Code": "147536",
+            "Name": "Riyadh",
+            "NameAr": "الرياض"
+        },
+        {
+            "Code": "273156",
+            "Name": "Sakaka",
+            "NameAr": "ساكاكا"
+        },
+        {
+            "Code": "106312",
+            "Name": "Shaqraa",
+            "NameAr": "سهاقراا"
+        },
+        {
+            "Code": "205075",
+            "Name": "Sharma",
+            "NameAr": "سهارما"
+        },
+        {
+            "Code": "150939",
+            "Name": "Sharurah",
+            "NameAr": "سهاروراه"
+        },
+        {
+            "Code": "139889",
+            "Name": "Tabuk",
+            "NameAr": "تابوك"
+        },
+        {
+            "Code": "139663",
+            "Name": "Taif",
+            "NameAr": "تايف"
+        },
+        {
+            "Code": "417825",
+            "Name": "Test City",
+            "NameAr": "تيست كيتي"
+        },
+        {
+            "Code": "418231",
+            "Name": "The Red Sea",
+            "NameAr": "تهي ريد سيا"
+        },
+        {
+            "Code": "160883",
+            "Name": "Thuwal",
+            "NameAr": "تهووال"
+        },
+        {
+            "Code": "151034",
+            "Name": "Turaif",
+            "NameAr": "تورايف"
+        },
+        {
+            "Code": "407610",
+            "Name": "Umluj",
+            "NameAr": "وملوج"
+        },
+        {
+            "Code": "299920",
+            "Name": "Umm Lajj",
+            "NameAr": "ومم لاجج"
+        },
+        {
+            "Code": "148373",
+            "Name": "Unayzah",
+            "NameAr": "ونايزاه"
+        },
+        {
+            "Code": "306276",
+            "Name": "Wadi-Ad-Dawasir",
+            "NameAr": "وادي-اد-داواسير"
+        },
+        {
+            "Code": "151503",
+            "Name": "Wedjh",
+            "NameAr": "ويدجه"
+        },
+        {
+            "Code": "143794",
+            "Name": "Yanbu",
+            "NameAr": "يانبو"
+        }
+    ],
+    "totalCities": 66
+}

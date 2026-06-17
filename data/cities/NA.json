@@ -1,0 +1,432 @@
+{
+    "id": "NA",
+    "countryCode": "NA",
+    "cities": [
+        {
+            "Code": "100599",
+            "Name": "Ai Ais",
+            "NameAr": "اي ايس"
+        },
+        {
+            "Code": "109760",
+            "Name": "Aus",
+            "NameAr": "اوس"
+        },
+        {
+            "Code": "110397",
+            "Name": "Bagani",
+            "NameAr": "باجاني"
+        },
+        {
+            "Code": "112351",
+            "Name": "Brandberg",
+            "NameAr": "براندبيرج"
+        },
+        {
+            "Code": "112841",
+            "Name": "Bwabwata Nationalpark",
+            "NameAr": "بوابواتا ناتيونالبارك"
+        },
+        {
+            "Code": "112910",
+            "Name": "Caprivi",
+            "NameAr": "كابريفي"
+        },
+        {
+            "Code": "149220",
+            "Name": "Chobe",
+            "NameAr": "كهوبي"
+        },
+        {
+            "Code": "116136",
+            "Name": "Damaraland",
+            "NameAr": "دامارالاند"
+        },
+        {
+            "Code": "116997",
+            "Name": "Divundu",
+            "NameAr": "ديفوندو"
+        },
+        {
+            "Code": "117707",
+            "Name": "Epupa",
+            "NameAr": "يبوبا"
+        },
+        {
+            "Code": "118278",
+            "Name": "Fishriver Canyon",
+            "NameAr": "فيسهريفير كانيون"
+        },
+        {
+            "Code": "118552",
+            "Name": "Gamsberg",
+            "NameAr": "جامسبيرج"
+        },
+        {
+            "Code": "118729",
+            "Name": "Gobabis",
+            "NameAr": "جوبابيس"
+        },
+        {
+            "Code": "119153",
+            "Name": "Gochas",
+            "NameAr": "جوكهاس"
+        },
+        {
+            "Code": "120347",
+            "Name": "Goche Ganas",
+            "NameAr": "جوكهي جاناس"
+        },
+        {
+            "Code": "119733",
+            "Name": "Grootfontein",
+            "NameAr": "جرووتفونتيين"
+        },
+        {
+            "Code": "149216",
+            "Name": "Grunau",
+            "NameAr": "جروناو"
+        },
+        {
+            "Code": "151459",
+            "Name": "Halali",
+            "NameAr": "هالالي"
+        },
+        {
+            "Code": "119942",
+            "Name": "Halali Village",
+            "NameAr": "هالالي فيللاجي"
+        },
+        {
+            "Code": "121193",
+            "Name": "Haruchas",
+            "NameAr": "هاروكهاس"
+        },
+        {
+            "Code": "120821",
+            "Name": "Helmeringhausen",
+            "NameAr": "هيلميرينجهاوسين"
+        },
+        {
+            "Code": "120904",
+            "Name": "Henties Bay",
+            "NameAr": "هينتييس باي"
+        },
+        {
+            "Code": "121995",
+            "Name": "Impalila Island",
+            "NameAr": "يمباليلا يسلاند"
+        },
+        {
+            "Code": "149217",
+            "Name": "Intu Afrika Kalahari Private Reserve",
+            "NameAr": "ينتو افريكا كالاهاري بريفاتي ريسيرفي"
+        },
+        {
+            "Code": "122233",
+            "Name": "Kakaoland",
+            "NameAr": "كاكاولاند"
+        },
+        {
+            "Code": "122237",
+            "Name": "Kalahari",
+            "NameAr": "كالاهاري"
+        },
+        {
+            "Code": "122242",
+            "Name": "Kalimbeza",
+            "NameAr": "كاليمبيزا"
+        },
+        {
+            "Code": "122913",
+            "Name": "Kalkfeld",
+            "NameAr": "كالكفيلد"
+        },
+        {
+            "Code": "122814",
+            "Name": "Kalkrand",
+            "NameAr": "كالكراند"
+        },
+        {
+            "Code": "122818",
+            "Name": "Kamanjab",
+            "NameAr": "كامانجاب"
+        },
+        {
+            "Code": "122266",
+            "Name": "Karasburg",
+            "NameAr": "كاراسبورج"
+        },
+        {
+            "Code": "123210",
+            "Name": "Karibib",
+            "NameAr": "كاريبيب"
+        },
+        {
+            "Code": "122285",
+            "Name": "Katima Mulilo",
+            "NameAr": "كاتيما موليلو"
+        },
+        {
+            "Code": "123524",
+            "Name": "Kavango",
+            "NameAr": "كافانجو"
+        },
+        {
+            "Code": "122550",
+            "Name": "Keetmanshoop",
+            "NameAr": "كييتمانسهووب"
+        },
+        {
+            "Code": "123149",
+            "Name": "Khomas Hochland",
+            "NameAr": "كهوماس هوكهلاند"
+        },
+        {
+            "Code": "122582",
+            "Name": "Khorixas",
+            "NameAr": "كهوريكساس"
+        },
+        {
+            "Code": "124285",
+            "Name": "Koes",
+            "NameAr": "كويس"
+        },
+        {
+            "Code": "124023",
+            "Name": "Kreuzkap",
+            "NameAr": "كريوزكاب"
+        },
+        {
+            "Code": "123916",
+            "Name": "Kunene",
+            "NameAr": "كونيني"
+        },
+        {
+            "Code": "125019",
+            "Name": "Kuzikus",
+            "NameAr": "كوزيكوس"
+        },
+        {
+            "Code": "126366",
+            "Name": "Luderitz",
+            "NameAr": "لوديريتز"
+        },
+        {
+            "Code": "126384",
+            "Name": "Maltahohe",
+            "NameAr": "مالتاهوهي"
+        },
+        {
+            "Code": "127149",
+            "Name": "Mariental",
+            "NameAr": "ماريينتال"
+        },
+        {
+            "Code": "129684",
+            "Name": "Mudumu-Nationalpark",
+            "NameAr": "مودومو-ناتيونالبارك"
+        },
+        {
+            "Code": "390191",
+            "Name": "Muneambuanas",
+            "NameAr": "مونيامبواناس"
+        },
+        {
+            "Code": "146799",
+            "Name": "Namib Dessert",
+            "NameAr": "ناميب ديسسيرت"
+        },
+        {
+            "Code": "130359",
+            "Name": "Namib Rand",
+            "NameAr": "ناميب راند"
+        },
+        {
+            "Code": "130107",
+            "Name": "Namibia",
+            "NameAr": "ناميبيا"
+        },
+        {
+            "Code": "130373",
+            "Name": "Naukluft Park",
+            "NameAr": "ناوكلوفت بارك"
+        },
+        {
+            "Code": "129919",
+            "Name": "Noordoewer",
+            "NameAr": "نووردويوير"
+        },
+        {
+            "Code": "146984",
+            "Name": "Okahandja",
+            "NameAr": "وكاهاندجا"
+        },
+        {
+            "Code": "131271",
+            "Name": "Olympia",
+            "NameAr": "وليمبيا"
+        },
+        {
+            "Code": "130979",
+            "Name": "Omaruru",
+            "NameAr": "ومارورو"
+        },
+        {
+            "Code": "131925",
+            "Name": "Ondangwa",
+            "NameAr": "وندانجوا"
+        },
+        {
+            "Code": "131931",
+            "Name": "Opuwo",
+            "NameAr": "وبووو"
+        },
+        {
+            "Code": "131683",
+            "Name": "Oshakati",
+            "NameAr": "وسهاكاتي"
+        },
+        {
+            "Code": "130715",
+            "Name": "Otavi",
+            "NameAr": "وتافي"
+        },
+        {
+            "Code": "130716",
+            "Name": "Otjiwarongo",
+            "NameAr": "وتجيوارونجو"
+        },
+        {
+            "Code": "130295",
+            "Name": "Outjo",
+            "NameAr": "ووتجو"
+        },
+        {
+            "Code": "132659",
+            "Name": "Palmwag",
+            "NameAr": "بالمواج"
+        },
+        {
+            "Code": "134240",
+            "Name": "Rehoboth",
+            "NameAr": "ريهوبوته"
+        },
+        {
+            "Code": "135134",
+            "Name": "Ruacana",
+            "NameAr": "رواكانا"
+        },
+        {
+            "Code": "134592",
+            "Name": "Rundu",
+            "NameAr": "روندو"
+        },
+        {
+            "Code": "149213",
+            "Name": "Sangwali",
+            "NameAr": "سانجوالي"
+        },
+        {
+            "Code": "137346",
+            "Name": "Seeheim",
+            "NameAr": "سييهييم"
+        },
+        {
+            "Code": "136280",
+            "Name": "Sesfontein",
+            "NameAr": "سيسفونتيين"
+        },
+        {
+            "Code": "137017",
+            "Name": "Sesriem",
+            "NameAr": "سيسرييم"
+        },
+        {
+            "Code": "138445",
+            "Name": "Skeleton Coast Park",
+            "NameAr": "سكيليتون كواست بارك"
+        },
+        {
+            "Code": "137664",
+            "Name": "Solitaire",
+            "NameAr": "سوليتايري"
+        },
+        {
+            "Code": "137089",
+            "Name": "Sossusvlei",
+            "NameAr": "سوسسوسفليي"
+        },
+        {
+            "Code": "137113",
+            "Name": "Spreethoogte",
+            "NameAr": "سبرييتهووجتي"
+        },
+        {
+            "Code": "137550",
+            "Name": "Spreetshoogte-Pass",
+            "NameAr": "سبرييتسهووجتي-باسس"
+        },
+        {
+            "Code": "139539",
+            "Name": "Swakopmund",
+            "NameAr": "سواكوبموند"
+        },
+        {
+            "Code": "148237",
+            "Name": "Tirasberge",
+            "NameAr": "تيراسبيرجي"
+        },
+        {
+            "Code": "140391",
+            "Name": "Tsintsabis",
+            "NameAr": "تسينتسابيس"
+        },
+        {
+            "Code": "140665",
+            "Name": "Tsumeb",
+            "NameAr": "تسوميب"
+        },
+        {
+            "Code": "139834",
+            "Name": "Tsumkwe",
+            "NameAr": "تسومكوي"
+        },
+        {
+            "Code": "141545",
+            "Name": "Ugab Fluss",
+            "NameAr": "وجاب فلوسس"
+        },
+        {
+            "Code": "140530",
+            "Name": "Uhlenhorst",
+            "NameAr": "وهلينهورست"
+        },
+        {
+            "Code": "148367",
+            "Name": "Uis",
+            "NameAr": "ويس"
+        },
+        {
+            "Code": "141106",
+            "Name": "Usakos",
+            "NameAr": "وساكوس"
+        },
+        {
+            "Code": "142249",
+            "Name": "Walvis Bay",
+            "NameAr": "والفيس باي"
+        },
+        {
+            "Code": "142092",
+            "Name": "Waterberg-Nationalpark",
+            "NameAr": "واتيربيرج-ناتيونالبارك"
+        },
+        {
+            "Code": "143746",
+            "Name": "Windhoek",
+            "NameAr": "ويندهويك"
+        }
+    ],
+    "totalCities": 85
+}

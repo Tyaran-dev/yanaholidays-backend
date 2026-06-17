@@ -1,0 +1,12 @@
+{
+    "id": "SJ",
+    "countryCode": "SJ",
+    "cities": [
+        {
+            "Code": "299470",
+            "Name": "Longyearbyen (LYR-Svalbard)",
+            "NameAr": "لونجيياربيين لير-سفالبارد"
+        }
+    ],
+    "totalCities": 1
+}

@@ -1,0 +1,502 @@
+{
+    "id": "KR",
+    "countryCode": "KR",
+    "cities": [
+        {
+            "Code": "109119",
+            "Name": "Andong",
+            "NameAr": "اندونج"
+        },
+        {
+            "Code": "100910",
+            "Name": "Ansan",
+            "NameAr": "انسان"
+        },
+        {
+            "Code": "151054",
+            "Name": "Anyang",
+            "NameAr": "انيانج"
+        },
+        {
+            "Code": "143959",
+            "Name": "Asan",
+            "NameAr": "اسان"
+        },
+        {
+            "Code": "112435",
+            "Name": "Boeun",
+            "NameAr": "بويون"
+        },
+        {
+            "Code": "104864",
+            "Name": "Boryeong",
+            "NameAr": "بورييونج"
+        },
+        {
+            "Code": "113062",
+            "Name": "Bucheon",
+            "NameAr": "بوكهيون"
+        },
+        {
+            "Code": "113076",
+            "Name": "Bugok",
+            "NameAr": "بوجوك"
+        },
+        {
+            "Code": "101354",
+            "Name": "Busan",
+            "NameAr": "بوسان"
+        },
+        {
+            "Code": "105686",
+            "Name": "Buyeo-gun",
+            "NameAr": "بوييو-جون"
+        },
+        {
+            "Code": "114941",
+            "Name": "Changwon",
+            "NameAr": "كهانجوون"
+        },
+        {
+            "Code": "114518",
+            "Name": "Cheju-Do",
+            "NameAr": "كهيجو-دو"
+        },
+        {
+            "Code": "150193",
+            "Name": "Cheonan",
+            "NameAr": "كهيونان"
+        },
+        {
+            "Code": "113709",
+            "Name": "Cheongju",
+            "NameAr": "كهيونججو"
+        },
+        {
+            "Code": "144689",
+            "Name": "Chuncheon",
+            "NameAr": "كهونكهيون"
+        },
+        {
+            "Code": "115773",
+            "Name": "Chungju",
+            "NameAr": "كهونججو"
+        },
+        {
+            "Code": "116031",
+            "Name": "Daegu",
+            "NameAr": "دايجو"
+        },
+        {
+            "Code": "115175",
+            "Name": "Daejeon",
+            "NameAr": "دايجيون"
+        },
+        {
+            "Code": "144864",
+            "Name": "Danyang",
+            "NameAr": "دانيانج"
+        },
+        {
+            "Code": "105491",
+            "Name": "Donghae",
+            "NameAr": "دونجهاي"
+        },
+        {
+            "Code": "101887",
+            "Name": "Eumseong",
+            "NameAr": "يومسيونج"
+        },
+        {
+            "Code": "150205",
+            "Name": "Ganghwa",
+            "NameAr": "جانجهوا"
+        },
+        {
+            "Code": "150271",
+            "Name": "Gangneung",
+            "NameAr": "جانجنيونج"
+        },
+        {
+            "Code": "150309",
+            "Name": "Gangwon-do",
+            "NameAr": "جانجوون-دو"
+        },
+        {
+            "Code": "101736",
+            "Name": "Gapyeong",
+            "NameAr": "جابييونج"
+        },
+        {
+            "Code": "150326",
+            "Name": "Gapyeong-gun",
+            "NameAr": "جابييونج-جون"
+        },
+        {
+            "Code": "150264",
+            "Name": "Geoje",
+            "NameAr": "جيوجي"
+        },
+        {
+            "Code": "101743",
+            "Name": "Geoje City",
+            "NameAr": "جيوجي كيتي"
+        },
+        {
+            "Code": "101745",
+            "Name": "Gimcheon",
+            "NameAr": "جيمكهيون"
+        },
+        {
+            "Code": "118986",
+            "Name": "Gimhae",
+            "NameAr": "جيمهاي"
+        },
+        {
+            "Code": "106105",
+            "Name": "Gimpo",
+            "NameAr": "جيمبو"
+        },
+        {
+            "Code": "119164",
+            "Name": "Gongju",
+            "NameAr": "جونججو"
+        },
+        {
+            "Code": "101530",
+            "Name": "Goseong",
+            "NameAr": "جوسيونج"
+        },
+        {
+            "Code": "150228",
+            "Name": "Goyang",
+            "NameAr": "جويانج"
+        },
+        {
+            "Code": "145485",
+            "Name": "Gumi",
+            "NameAr": "جومي"
+        },
+        {
+            "Code": "105933",
+            "Name": "Gunpo",
+            "NameAr": "جونبو"
+        },
+        {
+            "Code": "120063",
+            "Name": "Gunsan",
+            "NameAr": "جونسان"
+        },
+        {
+            "Code": "120168",
+            "Name": "Gwangju",
+            "NameAr": "جوانججو"
+        },
+        {
+            "Code": "102426",
+            "Name": "Gyeongbuk",
+            "NameAr": "جييونجبوك"
+        },
+        {
+            "Code": "151827",
+            "Name": "Gyeonggi-do",
+            "NameAr": "جييونججي-دو"
+        },
+        {
+            "Code": "161100",
+            "Name": "Gyeongju",
+            "NameAr": "جييونججو"
+        },
+        {
+            "Code": "119933",
+            "Name": "Haeundae Beach",
+            "NameAr": "هايونداي بياكه"
+        },
+        {
+            "Code": "106155",
+            "Name": "Hongcheon",
+            "NameAr": "هونجكهيون"
+        },
+        {
+            "Code": "105594",
+            "Name": "Hwagae",
+            "NameAr": "هواجاي"
+        },
+        {
+            "Code": "150226",
+            "Name": "Hwaseong",
+            "NameAr": "هواسيونج"
+        },
+        {
+            "Code": "121592",
+            "Name": "Icheon",
+            "NameAr": "يكهيون"
+        },
+        {
+            "Code": "121997",
+            "Name": "Incheon",
+            "NameAr": "ينكهيون"
+        },
+        {
+            "Code": "122186",
+            "Name": "Jecheon",
+            "NameAr": "جيكهيون"
+        },
+        {
+            "Code": "150233",
+            "Name": "Jeju",
+            "NameAr": "جيجو"
+        },
+        {
+            "Code": "103936",
+            "Name": "Jeju-si",
+            "NameAr": "جيجو-سي"
+        },
+        {
+            "Code": "108342",
+            "Name": "Jeongseon",
+            "NameAr": "جيونجسيون"
+        },
+        {
+            "Code": "150291",
+            "Name": "Jeongseon-gun",
+            "NameAr": "جيونجسيون-جون"
+        },
+        {
+            "Code": "108343",
+            "Name": "Jeongsun-Kun",
+            "NameAr": "جيونجسون-كون"
+        },
+        {
+            "Code": "122461",
+            "Name": "Jeonju",
+            "NameAr": "جيونجو"
+        },
+        {
+            "Code": "150334",
+            "Name": "Jinju-si",
+            "NameAr": "جينجو-سي"
+        },
+        {
+            "Code": "123362",
+            "Name": "Kyongju",
+            "NameAr": "كيونججو"
+        },
+        {
+            "Code": "128634",
+            "Name": "Mokpo",
+            "NameAr": "موكبو"
+        },
+        {
+            "Code": "129688",
+            "Name": "Muju",
+            "NameAr": "موجو"
+        },
+        {
+            "Code": "398154",
+            "Name": "Mungyeong-Si",
+            "NameAr": "مونجييونج-سي"
+        },
+        {
+            "Code": "102852",
+            "Name": "Nam",
+            "NameAr": "نام"
+        },
+        {
+            "Code": "146798",
+            "Name": "Namhae",
+            "NameAr": "نامهاي"
+        },
+        {
+            "Code": "377808",
+            "Name": "Namwon",
+            "NameAr": "ناموون"
+        },
+        {
+            "Code": "103009",
+            "Name": "Namyangju",
+            "NameAr": "ناميانججو"
+        },
+        {
+            "Code": "150920",
+            "Name": "Osan",
+            "NameAr": "وسان"
+        },
+        {
+            "Code": "147068",
+            "Name": "Paju",
+            "NameAr": "باجو"
+        },
+        {
+            "Code": "103438",
+            "Name": "Pocheon",
+            "NameAr": "بوكهيون"
+        },
+        {
+            "Code": "132875",
+            "Name": "Pohang",
+            "NameAr": "بوهانج"
+        },
+        {
+            "Code": "133641",
+            "Name": "Pusan",
+            "NameAr": "بوسان"
+        },
+        {
+            "Code": "134007",
+            "Name": "Pyeongchang",
+            "NameAr": "بييونجكهانج"
+        },
+        {
+            "Code": "106710",
+            "Name": "Pyeongtaek",
+            "NameAr": "بييونجتايك"
+        },
+        {
+            "Code": "103496",
+            "Name": "Samcheok",
+            "NameAr": "سامكهيوك"
+        },
+        {
+            "Code": "404077",
+            "Name": "Sejong",
+            "NameAr": "سيجونج"
+        },
+        {
+            "Code": "161099",
+            "Name": "Sejong-si",
+            "NameAr": "سيجونج-سي"
+        },
+        {
+            "Code": "137282",
+            "Name": "Seogwipo",
+            "NameAr": "سيوجويبو"
+        },
+        {
+            "Code": "137722",
+            "Name": "Seongnam",
+            "NameAr": "سيونجنام"
+        },
+        {
+            "Code": "137364",
+            "Name": "Seoul",
+            "NameAr": "سيوول"
+        },
+        {
+            "Code": "147910",
+            "Name": "Siheung",
+            "NameAr": "سيهيونج"
+        },
+        {
+            "Code": "377160",
+            "Name": "Sinan",
+            "NameAr": "سينان"
+        },
+        {
+            "Code": "138468",
+            "Name": "Sokcho",
+            "NameAr": "سوككهو"
+        },
+        {
+            "Code": "108579",
+            "Name": "Suncheon",
+            "NameAr": "سونكهيون"
+        },
+        {
+            "Code": "150339",
+            "Name": "Suncheon-si",
+            "NameAr": "سونكهيون-سي"
+        },
+        {
+            "Code": "139156",
+            "Name": "Suwon",
+            "NameAr": "سووون"
+        },
+        {
+            "Code": "106363",
+            "Name": "Taean",
+            "NameAr": "تايان"
+        },
+        {
+            "Code": "150325",
+            "Name": "Taean-gun",
+            "NameAr": "تايان-جون"
+        },
+        {
+            "Code": "150214",
+            "Name": "Tongyeong",
+            "NameAr": "تونجييونج"
+        },
+        {
+            "Code": "107202",
+            "Name": "Uijeongbu",
+            "NameAr": "ويجيونجبو"
+        },
+        {
+            "Code": "150333",
+            "Name": "Uijeongbu-si",
+            "NameAr": "ويجيونجبو-سي"
+        },
+        {
+            "Code": "107121",
+            "Name": "Uiwang",
+            "NameAr": "ويوانج"
+        },
+        {
+            "Code": "141555",
+            "Name": "Ulsan",
+            "NameAr": "ولسان"
+        },
+        {
+            "Code": "148732",
+            "Name": "Wonju",
+            "NameAr": "وونجو"
+        },
+        {
+            "Code": "142453",
+            "Name": "Yangpyeong",
+            "NameAr": "يانجبييونج"
+        },
+        {
+            "Code": "143796",
+            "Name": "Yangsan",
+            "NameAr": "يانجسان"
+        },
+        {
+            "Code": "143325",
+            "Name": "Yangyang",
+            "NameAr": "يانجيانج"
+        },
+        {
+            "Code": "151721",
+            "Name": "Yechon",
+            "NameAr": "ييكهون"
+        },
+        {
+            "Code": "397572",
+            "Name": "Yeoju",
+            "NameAr": "ييوجو"
+        },
+        {
+            "Code": "107914",
+            "Name": "Yeongdeok",
+            "NameAr": "ييونجديوك"
+        },
+        {
+            "Code": "107915",
+            "Name": "Yeongheungdo",
+            "NameAr": "ييونجهيونجدو"
+        },
+        {
+            "Code": "150255",
+            "Name": "Yeosu",
+            "NameAr": "ييوسو"
+        },
+        {
+            "Code": "143335",
+            "Name": "Yongin",
+            "NameAr": "يونجين"
+        }
+    ],
+    "totalCities": 99
+}

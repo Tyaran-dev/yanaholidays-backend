@@ -1,0 +1,22 @@
+{
+    "id": "MP",
+    "countryCode": "MP",
+    "cities": [
+        {
+            "Code": "135763",
+            "Name": "Rota",
+            "NameAr": "روتا"
+        },
+        {
+            "Code": "135845",
+            "Name": "Saipan",
+            "NameAr": "سايبان"
+        },
+        {
+            "Code": "140041",
+            "Name": "Tinian",
+            "NameAr": "تينيان"
+        }
+    ],
+    "totalCities": 3
+}

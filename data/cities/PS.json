@@ -1,0 +1,37 @@
+{
+    "id": "PS",
+    "countryCode": "PS",
+    "cities": [
+        {
+            "Code": "417026",
+            "Name": "Bethlehem",
+            "NameAr": "بيتهليهيم"
+        },
+        {
+            "Code": "150401",
+            "Name": "Gaza City",
+            "NameAr": "جازا كيتي"
+        },
+        {
+            "Code": "278849",
+            "Name": "Jericho",
+            "NameAr": "جيريكهو"
+        },
+        {
+            "Code": "150126",
+            "Name": "Nablus",
+            "NameAr": "نابلوس"
+        },
+        {
+            "Code": "417023",
+            "Name": "Ramallah",
+            "NameAr": "راماللاه"
+        },
+        {
+            "Code": "150134",
+            "Name": "Taybeh",
+            "NameAr": "تايبيه"
+        }
+    ],
+    "totalCities": 6
+}

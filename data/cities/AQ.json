@@ -1,0 +1,12 @@
+{
+    "id": "AQ",
+    "countryCode": "AQ",
+    "cities": [
+        {
+            "Code": "151734",
+            "Name": "Teniente R  Marsh",
+            "NameAr": "تينيينتي ر مارسه"
+        }
+    ],
+    "totalCities": 1
+}

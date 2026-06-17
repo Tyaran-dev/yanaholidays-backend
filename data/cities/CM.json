@@ -1,0 +1,67 @@
+{
+    "id": "CM",
+    "countryCode": "CM",
+    "cities": [
+        {
+            "Code": "149596",
+            "Name": "Bafoussam",
+            "NameAr": "بافووسسام"
+        },
+        {
+            "Code": "149597",
+            "Name": "Bafut",
+            "NameAr": "بافوت"
+        },
+        {
+            "Code": "149600",
+            "Name": "Bamenda",
+            "NameAr": "باميندا"
+        },
+        {
+            "Code": "149612",
+            "Name": "Bonaberi",
+            "NameAr": "بونابيري"
+        },
+        {
+            "Code": "144960",
+            "Name": "Douala",
+            "NameAr": "دووالا"
+        },
+        {
+            "Code": "149641",
+            "Name": "Dschang",
+            "NameAr": "دسكهانج"
+        },
+        {
+            "Code": "104963",
+            "Name": "Ebolowa",
+            "NameAr": "يبولووا"
+        },
+        {
+            "Code": "102398",
+            "Name": "Foumban",
+            "NameAr": "فوومبان"
+        },
+        {
+            "Code": "123905",
+            "Name": "Kribi",
+            "NameAr": "كريبي"
+        },
+        {
+            "Code": "125584",
+            "Name": "Limbe",
+            "NameAr": "ليمبي"
+        },
+        {
+            "Code": "149731",
+            "Name": "Maroua",
+            "NameAr": "مارووا"
+        },
+        {
+            "Code": "143797",
+            "Name": "Yaounde",
+            "NameAr": "ياووندي"
+        }
+    ],
+    "totalCities": 12
+}

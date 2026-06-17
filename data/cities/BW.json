@@ -1,0 +1,142 @@
+{
+    "id": "BW",
+    "countryCode": "BW",
+    "cities": [
+        {
+            "Code": "112468",
+            "Name": "Boro River",
+            "NameAr": "بورو ريفير"
+        },
+        {
+            "Code": "112329",
+            "Name": "Botswana",
+            "NameAr": "بوتسوانا"
+        },
+        {
+            "Code": "114914",
+            "Name": "Central Kalahari Game Reserve",
+            "NameAr": "كينترال كالاهاري جامي ريسيرفي"
+        },
+        {
+            "Code": "152727",
+            "Name": "Chobe District",
+            "NameAr": "كهوبي ديستريكت"
+        },
+        {
+            "Code": "114275",
+            "Name": "Chobe River",
+            "NameAr": "كهوبي ريفير"
+        },
+        {
+            "Code": "145254",
+            "Name": "Francistown",
+            "NameAr": "فرانكيستوون"
+        },
+        {
+            "Code": "119049",
+            "Name": "Gaborone",
+            "NameAr": "جابوروني"
+        },
+        {
+            "Code": "119656",
+            "Name": "Ghanzi",
+            "NameAr": "جهانزي"
+        },
+        {
+            "Code": "149676",
+            "Name": "Hainaveld Game Farm",
+            "NameAr": "هاينافيلد جامي فارم"
+        },
+        {
+            "Code": "122796",
+            "Name": "Jwaneng",
+            "NameAr": "جوانينج"
+        },
+        {
+            "Code": "106180",
+            "Name": "Kang",
+            "NameAr": "كانج"
+        },
+        {
+            "Code": "122535",
+            "Name": "Kasane",
+            "NameAr": "كاساني"
+        },
+        {
+            "Code": "126572",
+            "Name": "Linyanti Area",
+            "NameAr": "لينيانتي اريا"
+        },
+        {
+            "Code": "126264",
+            "Name": "Mahalapye",
+            "NameAr": "ماهالابيي"
+        },
+        {
+            "Code": "146442",
+            "Name": "Makgadikgadi-Pans-Nationalpark",
+            "NameAr": "ماكجاديكجادي-بانس-ناتيونالبارك"
+        },
+        {
+            "Code": "128160",
+            "Name": "Maun",
+            "NameAr": "ماون"
+        },
+        {
+            "Code": "104362",
+            "Name": "Mogoditshane",
+            "NameAr": "موجوديتسهاني"
+        },
+        {
+            "Code": "149747",
+            "Name": "Motopi",
+            "NameAr": "موتوبي"
+        },
+        {
+            "Code": "130027",
+            "Name": "Northern Tuli Game Reserve",
+            "NameAr": "نورتهيرن تولي جامي ريسيرفي"
+        },
+        {
+            "Code": "130923",
+            "Name": "Nxai-Pan Nationalpark",
+            "NameAr": "نكساي-بان ناتيونالبارك"
+        },
+        {
+            "Code": "146986",
+            "Name": "Okavango",
+            "NameAr": "وكافانجو"
+        },
+        {
+            "Code": "130317",
+            "Name": "Palapye",
+            "NameAr": "بالابيي"
+        },
+        {
+            "Code": "149771",
+            "Name": "Pandamatenga",
+            "NameAr": "بانداماتينجا"
+        },
+        {
+            "Code": "136574",
+            "Name": "Savuti",
+            "NameAr": "سافوتي"
+        },
+        {
+            "Code": "136991",
+            "Name": "Selebi Phikwe",
+            "NameAr": "سيليبي بهيكوي"
+        },
+        {
+            "Code": "136771",
+            "Name": "Serowe",
+            "NameAr": "سيرووي"
+        },
+        {
+            "Code": "137382",
+            "Name": "Shakawe",
+            "NameAr": "سهاكاوي"
+        }
+    ],
+    "totalCities": 27
+}

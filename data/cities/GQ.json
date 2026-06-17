@@ -1,0 +1,22 @@
+{
+    "id": "GQ",
+    "countryCode": "GQ",
+    "cities": [
+        {
+            "Code": "110811",
+            "Name": "Bata",
+            "NameAr": "باتا"
+        },
+        {
+            "Code": "382263",
+            "Name": "Djibloho",
+            "NameAr": "دجيبلوهو"
+        },
+        {
+            "Code": "126779",
+            "Name": "Malabo",
+            "NameAr": "مالابو"
+        }
+    ],
+    "totalCities": 3
+}

@@ -1,0 +1,792 @@
+{
+    "id": "CR",
+    "countryCode": "CR",
+    "cities": [
+        {
+            "Code": "104699",
+            "Name": "Agua Buena",
+            "NameAr": "اجوا بوينا"
+        },
+        {
+            "Code": "100079",
+            "Name": "Alajuela",
+            "NameAr": "الاجويلا"
+        },
+        {
+            "Code": "109510",
+            "Name": "Arenal",
+            "NameAr": "ارينال"
+        },
+        {
+            "Code": "109987",
+            "Name": "Aserri",
+            "NameAr": "اسيرري"
+        },
+        {
+            "Code": "105177",
+            "Name": "Atenas",
+            "NameAr": "اتيناس"
+        },
+        {
+            "Code": "111077",
+            "Name": "Bagaces",
+            "NameAr": "باجاكيس"
+        },
+        {
+            "Code": "111082",
+            "Name": "Bahia Ballena",
+            "NameAr": "باهيا باللينا"
+        },
+        {
+            "Code": "110957",
+            "Name": "Bahia Salinas",
+            "NameAr": "باهيا ساليناس"
+        },
+        {
+            "Code": "111093",
+            "Name": "Bajos del Toro",
+            "NameAr": "باجوس ديل تورو"
+        },
+        {
+            "Code": "151060",
+            "Name": "Barra Colorado",
+            "NameAr": "باررا كولورادو"
+        },
+        {
+            "Code": "144246",
+            "Name": "Bijagua de Upala",
+            "NameAr": "بيجاجوا دي وبالا"
+        },
+        {
+            "Code": "144292",
+            "Name": "Boca Arenal",
+            "NameAr": "بوكا ارينال"
+        },
+        {
+            "Code": "144294",
+            "Name": "Boca Tapada",
+            "NameAr": "بوكا تابادا"
+        },
+        {
+            "Code": "105689",
+            "Name": "Cabuya",
+            "NameAr": "كابويا"
+        },
+        {
+            "Code": "112859",
+            "Name": "Cahuita",
+            "NameAr": "كاهويتا"
+        },
+        {
+            "Code": "144508",
+            "Name": "Canas",
+            "NameAr": "كاناس"
+        },
+        {
+            "Code": "112824",
+            "Name": "Cano Negro",
+            "NameAr": "كانو نيجرو"
+        },
+        {
+            "Code": "113506",
+            "Name": "Carara",
+            "NameAr": "كارارا"
+        },
+        {
+            "Code": "144531",
+            "Name": "Carate",
+            "NameAr": "كاراتي"
+        },
+        {
+            "Code": "113970",
+            "Name": "Carrillo",
+            "NameAr": "كارريللو"
+        },
+        {
+            "Code": "112937",
+            "Name": "Cartago",
+            "NameAr": "كارتاجو"
+        },
+        {
+            "Code": "114916",
+            "Name": "Centro Colon",
+            "NameAr": "كينترو كولون"
+        },
+        {
+            "Code": "114795",
+            "Name": "Chilamate",
+            "NameAr": "كهيلاماتي"
+        },
+        {
+            "Code": "102277",
+            "Name": "Ciudad Cariari",
+            "NameAr": "كيوداد كارياري"
+        },
+        {
+            "Code": "106219",
+            "Name": "Ciudad Cortes",
+            "NameAr": "كيوداد كورتيس"
+        },
+        {
+            "Code": "114451",
+            "Name": "Copey De Dota",
+            "NameAr": "كوبيي دي دوتا"
+        },
+        {
+            "Code": "106234",
+            "Name": "Costa Rica",
+            "NameAr": "كوستا ريكا"
+        },
+        {
+            "Code": "105996",
+            "Name": "Daniel Flores",
+            "NameAr": "دانييل فلوريس"
+        },
+        {
+            "Code": "115734",
+            "Name": "Dominical",
+            "NameAr": "دومينيكال"
+        },
+        {
+            "Code": "116913",
+            "Name": "Drake Bay",
+            "NameAr": "دراكي باي"
+        },
+        {
+            "Code": "105800",
+            "Name": "El Castillo",
+            "NameAr": "يل كاستيللو"
+        },
+        {
+            "Code": "417909",
+            "Name": "El Roble",
+            "NameAr": "يل روبلي"
+        },
+        {
+            "Code": "117723",
+            "Name": "Escazu",
+            "NameAr": "يسكازو"
+        },
+        {
+            "Code": "117263",
+            "Name": "Esterillos",
+            "NameAr": "يستيريللوس"
+        },
+        {
+            "Code": "117640",
+            "Name": "Flamingo",
+            "NameAr": "فلامينجو"
+        },
+        {
+            "Code": "105892",
+            "Name": "Florencia",
+            "NameAr": "فلورينكيا"
+        },
+        {
+            "Code": "119161",
+            "Name": "Golfito",
+            "NameAr": "جولفيتو"
+        },
+        {
+            "Code": "119307",
+            "Name": "Golfo Dulce",
+            "NameAr": "جولفو دولكي"
+        },
+        {
+            "Code": "101760",
+            "Name": "Grecia",
+            "NameAr": "جريكيا"
+        },
+        {
+            "Code": "145476",
+            "Name": "Guacimo",
+            "NameAr": "جواكيمو"
+        },
+        {
+            "Code": "120150",
+            "Name": "Guanacaste",
+            "NameAr": "جواناكاستي"
+        },
+        {
+            "Code": "119758",
+            "Name": "Guapiles",
+            "NameAr": "جوابيليس"
+        },
+        {
+            "Code": "119538",
+            "Name": "Halbinsel Nicoya",
+            "NameAr": "هالبينسيل نيكويا"
+        },
+        {
+            "Code": "120181",
+            "Name": "Halbinsel Osa",
+            "NameAr": "هالبينسيل وسا"
+        },
+        {
+            "Code": "121329",
+            "Name": "Heredia",
+            "NameAr": "هيريديا"
+        },
+        {
+            "Code": "121331",
+            "Name": "Herradura",
+            "NameAr": "هيررادورا"
+        },
+        {
+            "Code": "121669",
+            "Name": "Horquetas",
+            "NameAr": "هورقويتاس"
+        },
+        {
+            "Code": "121779",
+            "Name": "Jaco",
+            "NameAr": "جاكو"
+        },
+        {
+            "Code": "101942",
+            "Name": "Jicaral",
+            "NameAr": "جيكارال"
+        },
+        {
+            "Code": "101710",
+            "Name": "La Ese",
+            "NameAr": "لا يسي"
+        },
+        {
+            "Code": "123936",
+            "Name": "La Fortuna",
+            "NameAr": "لا فورتونا"
+        },
+        {
+            "Code": "124347",
+            "Name": "La Garita",
+            "NameAr": "لا جاريتا"
+        },
+        {
+            "Code": "146072",
+            "Name": "La Paz",
+            "NameAr": "لا باز"
+        },
+        {
+            "Code": "103742",
+            "Name": "La Tigra",
+            "NameAr": "لا تيجرا"
+        },
+        {
+            "Code": "125728",
+            "Name": "La Virgen",
+            "NameAr": "لا فيرجين"
+        },
+        {
+            "Code": "125994",
+            "Name": "Liberia",
+            "NameAr": "ليبيريا"
+        },
+        {
+            "Code": "125856",
+            "Name": "Limon",
+            "NameAr": "ليمون"
+        },
+        {
+            "Code": "150628",
+            "Name": "Los Chiles",
+            "NameAr": "لوس كهيليس"
+        },
+        {
+            "Code": "106453",
+            "Name": "Los Mogos",
+            "NameAr": "لوس موجوس"
+        },
+        {
+            "Code": "127392",
+            "Name": "Mal Pais",
+            "NameAr": "مال بايس"
+        },
+        {
+            "Code": "127123",
+            "Name": "Manuel Antonio",
+            "NameAr": "مانويل انتونيو"
+        },
+        {
+            "Code": "146473",
+            "Name": "Manzanillo",
+            "NameAr": "مانزانيللو"
+        },
+        {
+            "Code": "126405",
+            "Name": "Marbella",
+            "NameAr": "ماربيللا"
+        },
+        {
+            "Code": "127670",
+            "Name": "Miramar",
+            "NameAr": "ميرامار"
+        },
+        {
+            "Code": "128919",
+            "Name": "Moin",
+            "NameAr": "موين"
+        },
+        {
+            "Code": "129600",
+            "Name": "Monteverde",
+            "NameAr": "مونتيفيردي"
+        },
+        {
+            "Code": "128505",
+            "Name": "Montezuma",
+            "NameAr": "مونتيزوما"
+        },
+        {
+            "Code": "104266",
+            "Name": "Naranjito de Aguirre",
+            "NameAr": "نارانجيتو دي اجويرري"
+        },
+        {
+            "Code": "129741",
+            "Name": "National Park Volcan Tenorio",
+            "NameAr": "ناتيونال بارك فولكان تينوريو"
+        },
+        {
+            "Code": "129171",
+            "Name": "Nationalpark Volcan Poas",
+            "NameAr": "ناتيونالبارك فولكان بواس"
+        },
+        {
+            "Code": "150911",
+            "Name": "Nicoya",
+            "NameAr": "نيكويا"
+        },
+        {
+            "Code": "130573",
+            "Name": "Nosara",
+            "NameAr": "نوسارا"
+        },
+        {
+            "Code": "130046",
+            "Name": "Nuevo Arenal",
+            "NameAr": "نويفو ارينال"
+        },
+        {
+            "Code": "129989",
+            "Name": "Ojochal",
+            "NameAr": "وجوكهال"
+        },
+        {
+            "Code": "102069",
+            "Name": "Orosi",
+            "NameAr": "وروسي"
+        },
+        {
+            "Code": "131308",
+            "Name": "Orosi Tal",
+            "NameAr": "وروسي تال"
+        },
+        {
+            "Code": "131689",
+            "Name": "Ostional",
+            "NameAr": "وستيونال"
+        },
+        {
+            "Code": "151549",
+            "Name": "Palmar",
+            "NameAr": "بالمار"
+        },
+        {
+            "Code": "132037",
+            "Name": "Palo Seco",
+            "NameAr": "بالو سيكو"
+        },
+        {
+            "Code": "130878",
+            "Name": "Panama Beach",
+            "NameAr": "باناما بياكه"
+        },
+        {
+            "Code": "131404",
+            "Name": "Paquera",
+            "NameAr": "باقويرا"
+        },
+        {
+            "Code": "131459",
+            "Name": "Parrita",
+            "NameAr": "بارريتا"
+        },
+        {
+            "Code": "131595",
+            "Name": "Perez Zeledon",
+            "NameAr": "بيريز زيليدون"
+        },
+        {
+            "Code": "133445",
+            "Name": "Playa Arenilla",
+            "NameAr": "بلايا ارينيللا"
+        },
+        {
+            "Code": "103064",
+            "Name": "Playa Avellana",
+            "NameAr": "بلايا افيللانا"
+        },
+        {
+            "Code": "132337",
+            "Name": "Playa Blanca",
+            "NameAr": "بلايا بلانكا"
+        },
+        {
+            "Code": "133447",
+            "Name": "Playa Bolanos",
+            "NameAr": "بلايا بولانوس"
+        },
+        {
+            "Code": "103286",
+            "Name": "Playa Brasilito",
+            "NameAr": "بلايا براسيليتو"
+        },
+        {
+            "Code": "132243",
+            "Name": "Playa Buena",
+            "NameAr": "بلايا بوينا"
+        },
+        {
+            "Code": "102758",
+            "Name": "Playa Carrillo",
+            "NameAr": "بلايا كارريللو"
+        },
+        {
+            "Code": "102760",
+            "Name": "Playa Cocles",
+            "NameAr": "بلايا كوكليس"
+        },
+        {
+            "Code": "147225",
+            "Name": "Playa Conchal",
+            "NameAr": "بلايا كونكهال"
+        },
+        {
+            "Code": "132246",
+            "Name": "Playa de Matapalo",
+            "NameAr": "بلايا دي ماتابالو"
+        },
+        {
+            "Code": "132249",
+            "Name": "Playa El Ocotal",
+            "NameAr": "بلايا يل وكوتال"
+        },
+        {
+            "Code": "132204",
+            "Name": "Playa Estero Negro",
+            "NameAr": "بلايا يستيرو نيجرو"
+        },
+        {
+            "Code": "132250",
+            "Name": "Playa Grande",
+            "NameAr": "بلايا جراندي"
+        },
+        {
+            "Code": "102761",
+            "Name": "Playa Guiones",
+            "NameAr": "بلايا جويونيس"
+        },
+        {
+            "Code": "132251",
+            "Name": "Playa Hermosa",
+            "NameAr": "بلايا هيرموسا"
+        },
+        {
+            "Code": "131779",
+            "Name": "Playa Herradura",
+            "NameAr": "بلايا هيررادورا"
+        },
+        {
+            "Code": "104224",
+            "Name": "Playa Manzanillo de Cobano",
+            "NameAr": "بلايا مانزانيللو دي كوبانو"
+        },
+        {
+            "Code": "132208",
+            "Name": "Playa Ocotal",
+            "NameAr": "بلايا وكوتال"
+        },
+        {
+            "Code": "132209",
+            "Name": "Playa Pajaros",
+            "NameAr": "بلايا باجاروس"
+        },
+        {
+            "Code": "132253",
+            "Name": "Playa Pan de Azucar",
+            "NameAr": "بلايا بان دي ازوكار"
+        },
+        {
+            "Code": "131780",
+            "Name": "Playa Papagayo",
+            "NameAr": "بلايا باباجايو"
+        },
+        {
+            "Code": "133456",
+            "Name": "Playa Potrero",
+            "NameAr": "بلايا بوتريرو"
+        },
+        {
+            "Code": "132254",
+            "Name": "Playa Real",
+            "NameAr": "بلايا ريال"
+        },
+        {
+            "Code": "132863",
+            "Name": "Playa Samara",
+            "NameAr": "بلايا سامارا"
+        },
+        {
+            "Code": "132848",
+            "Name": "Playa Tamarindo",
+            "NameAr": "بلايا تاماريندو"
+        },
+        {
+            "Code": "147235",
+            "Name": "Playa Tambor",
+            "NameAr": "بلايا تامبور"
+        },
+        {
+            "Code": "131781",
+            "Name": "Playa Zancudo",
+            "NameAr": "بلايا زانكودو"
+        },
+        {
+            "Code": "131782",
+            "Name": "Playas del Coco",
+            "NameAr": "بلاياس ديل كوكو"
+        },
+        {
+            "Code": "103085",
+            "Name": "Puerto Coyote",
+            "NameAr": "بويرتو كويوتي"
+        },
+        {
+            "Code": "132571",
+            "Name": "Puerto Jimenez",
+            "NameAr": "بويرتو جيمينيز"
+        },
+        {
+            "Code": "133622",
+            "Name": "Puerto Limon",
+            "NameAr": "بويرتو ليمون"
+        },
+        {
+            "Code": "134356",
+            "Name": "Puerto Viejo de Sarapiqui",
+            "NameAr": "بويرتو فييجو دي سارابيقوي"
+        },
+        {
+            "Code": "133623",
+            "Name": "Puerto Viejo de Talamanca",
+            "NameAr": "بويرتو فييجو دي تالامانكا"
+        },
+        {
+            "Code": "103322",
+            "Name": "Punta Banco",
+            "NameAr": "بونتا بانكو"
+        },
+        {
+            "Code": "133995",
+            "Name": "Punta Islita",
+            "NameAr": "بونتا يسليتا"
+        },
+        {
+            "Code": "133637",
+            "Name": "Punta Uva",
+            "NameAr": "بونتا وفا"
+        },
+        {
+            "Code": "133638",
+            "Name": "Puntarenas",
+            "NameAr": "بونتاريناس"
+        },
+        {
+            "Code": "134185",
+            "Name": "Quepos",
+            "NameAr": "قويبوس"
+        },
+        {
+            "Code": "103110",
+            "Name": "Quesada",
+            "NameAr": "قويسادا"
+        },
+        {
+            "Code": "134776",
+            "Name": "Rincon de la Vieja",
+            "NameAr": "رينكون دي لا فييجا"
+        },
+        {
+            "Code": "102692",
+            "Name": "Rio Celeste",
+            "NameAr": "ريو كيليستي"
+        },
+        {
+            "Code": "108434",
+            "Name": "Rio Segundo",
+            "NameAr": "ريو سيجوندو"
+        },
+        {
+            "Code": "134870",
+            "Name": "Samara",
+            "NameAr": "سامارا"
+        },
+        {
+            "Code": "134879",
+            "Name": "San Antonio de Belen",
+            "NameAr": "سان انتونيو دي بيلين"
+        },
+        {
+            "Code": "135406",
+            "Name": "San Carlos",
+            "NameAr": "سان كارلوس"
+        },
+        {
+            "Code": "135942",
+            "Name": "San Gerardo de Dota",
+            "NameAr": "سان جيراردو دي دوتا"
+        },
+        {
+            "Code": "108484",
+            "Name": "San Gerardo de Rivas",
+            "NameAr": "سان جيراردو دي ريفاس"
+        },
+        {
+            "Code": "135888",
+            "Name": "San Isidro de El General",
+            "NameAr": "سان يسيدرو دي يل جينيرال"
+        },
+        {
+            "Code": "135889",
+            "Name": "San Jose",
+            "NameAr": "سان جوسي"
+        },
+        {
+            "Code": "136187",
+            "Name": "San Jose de la Montana",
+            "NameAr": "سان جوسي دي لا مونتانا"
+        },
+        {
+            "Code": "103546",
+            "Name": "San Pablo",
+            "NameAr": "سان بابلو"
+        },
+        {
+            "Code": "107337",
+            "Name": "San Pedro",
+            "NameAr": "سان بيدرو"
+        },
+        {
+            "Code": "103147",
+            "Name": "San Rafael",
+            "NameAr": "سان رافايل"
+        },
+        {
+            "Code": "136204",
+            "Name": "San Ramon",
+            "NameAr": "سان رامون"
+        },
+        {
+            "Code": "151325",
+            "Name": "San Vito",
+            "NameAr": "سان فيتو"
+        },
+        {
+            "Code": "149797",
+            "Name": "Santa Ana",
+            "NameAr": "سانتا انا"
+        },
+        {
+            "Code": "136364",
+            "Name": "Santa Barbara",
+            "NameAr": "سانتا باربارا"
+        },
+        {
+            "Code": "108496",
+            "Name": "Santa Clara",
+            "NameAr": "سانتا كلارا"
+        },
+        {
+            "Code": "136369",
+            "Name": "Santa Cruz",
+            "NameAr": "سانتا كروز"
+        },
+        {
+            "Code": "136516",
+            "Name": "Santa Elena",
+            "NameAr": "سانتا يلينا"
+        },
+        {
+            "Code": "107347",
+            "Name": "Santa Maria",
+            "NameAr": "سانتا ماريا"
+        },
+        {
+            "Code": "137167",
+            "Name": "Santa Teresa",
+            "NameAr": "سانتا تيريسا"
+        },
+        {
+            "Code": "150217",
+            "Name": "Sarapiqui",
+            "NameAr": "سارابيقوي"
+        },
+        {
+            "Code": "147786",
+            "Name": "Savegre",
+            "NameAr": "سافيجري"
+        },
+        {
+            "Code": "103178",
+            "Name": "Sierpe",
+            "NameAr": "سييربي"
+        },
+        {
+            "Code": "138713",
+            "Name": "Siquirres",
+            "NameAr": "سيقويرريس"
+        },
+        {
+            "Code": "139678",
+            "Name": "Tambor",
+            "NameAr": "تامبور"
+        },
+        {
+            "Code": "106946",
+            "Name": "Tarcoles",
+            "NameAr": "تاركوليس"
+        },
+        {
+            "Code": "140761",
+            "Name": "Tilaran",
+            "NameAr": "تيلاران"
+        },
+        {
+            "Code": "140795",
+            "Name": "Tortuguero",
+            "NameAr": "تورتوجويرو"
+        },
+        {
+            "Code": "139844",
+            "Name": "Turrialba",
+            "NameAr": "تورريالبا"
+        },
+        {
+            "Code": "151681",
+            "Name": "Upala",
+            "NameAr": "وبالا"
+        },
+        {
+            "Code": "141580",
+            "Name": "Uvita",
+            "NameAr": "وفيتا"
+        },
+        {
+            "Code": "141624",
+            "Name": "Varra Blanca",
+            "NameAr": "فاررا بلانكا"
+        }
+    ],
+    "totalCities": 157
+}

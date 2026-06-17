@@ -1,0 +1,2647 @@
+{
+    "id": "SE",
+    "countryCode": "SE",
+    "cities": [
+        {
+            "Code": "104694",
+            "Name": "Abbekas",
+            "NameAr": "اببيكاس"
+        },
+        {
+            "Code": "100441",
+            "Name": "Abisko",
+            "NameAr": "ابيسكو"
+        },
+        {
+            "Code": "106067",
+            "Name": "Aby",
+            "NameAr": "ابي"
+        },
+        {
+            "Code": "104979",
+            "Name": "Adelso",
+            "NameAr": "اديلسو"
+        },
+        {
+            "Code": "100478",
+            "Name": "Ahus",
+            "NameAr": "اهوس"
+        },
+        {
+            "Code": "100806",
+            "Name": "Akersberga",
+            "NameAr": "اكيرسبيرجا"
+        },
+        {
+            "Code": "100185",
+            "Name": "Alfta",
+            "NameAr": "الفتا"
+        },
+        {
+            "Code": "105150",
+            "Name": "Alghult",
+            "NameAr": "الجهولت"
+        },
+        {
+            "Code": "100519",
+            "Name": "Alingsas",
+            "NameAr": "الينجساس"
+        },
+        {
+            "Code": "109404",
+            "Name": "Almhult",
+            "NameAr": "المهولت"
+        },
+        {
+            "Code": "105085",
+            "Name": "Alsterbro",
+            "NameAr": "الستيربرو"
+        },
+        {
+            "Code": "100870",
+            "Name": "Alvdalen",
+            "NameAr": "الفدالين"
+        },
+        {
+            "Code": "291040",
+            "Name": "Alvesta",
+            "NameAr": "الفيستا"
+        },
+        {
+            "Code": "100872",
+            "Name": "Alvsbyn",
+            "NameAr": "الفسبين"
+        },
+        {
+            "Code": "109189",
+            "Name": "Alvsjo",
+            "NameAr": "الفسجو"
+        },
+        {
+            "Code": "100981",
+            "Name": "Amal",
+            "NameAr": "امال"
+        },
+        {
+            "Code": "101351",
+            "Name": "Ammarnas",
+            "NameAr": "اممارناس"
+        },
+        {
+            "Code": "109331",
+            "Name": "Anderslov",
+            "NameAr": "انديرسلوف"
+        },
+        {
+            "Code": "101137",
+            "Name": "Anderstorp",
+            "NameAr": "انديرستورب"
+        },
+        {
+            "Code": "109335",
+            "Name": "Aneby",
+            "NameAr": "انيبي"
+        },
+        {
+            "Code": "109212",
+            "Name": "Ange",
+            "NameAr": "انجي"
+        },
+        {
+            "Code": "101139",
+            "Name": "Angelholm",
+            "NameAr": "انجيلهولم"
+        },
+        {
+            "Code": "101043",
+            "Name": "Arboga",
+            "NameAr": "اربوجا"
+        },
+        {
+            "Code": "109509",
+            "Name": "Are",
+            "NameAr": "اري"
+        },
+        {
+            "Code": "109263",
+            "Name": "Arjang",
+            "NameAr": "ارجانج"
+        },
+        {
+            "Code": "109398",
+            "Name": "Arjeplog",
+            "NameAr": "ارجيبلوج"
+        },
+        {
+            "Code": "110290",
+            "Name": "Arla",
+            "NameAr": "ارلا"
+        },
+        {
+            "Code": "109860",
+            "Name": "Arlanda",
+            "NameAr": "ارلاندا"
+        },
+        {
+            "Code": "109883",
+            "Name": "Arvidsjaur",
+            "NameAr": "ارفيدسجاور"
+        },
+        {
+            "Code": "110209",
+            "Name": "Arvika",
+            "NameAr": "ارفيكا"
+        },
+        {
+            "Code": "109283",
+            "Name": "Asarna",
+            "NameAr": "اسارنا"
+        },
+        {
+            "Code": "109895",
+            "Name": "Askersund",
+            "NameAr": "اسكيرسوند"
+        },
+        {
+            "Code": "143969",
+            "Name": "Aspa Bruk",
+            "NameAr": "اسبا بروك"
+        },
+        {
+            "Code": "102181",
+            "Name": "Astorp",
+            "NameAr": "استورب"
+        },
+        {
+            "Code": "110084",
+            "Name": "Atvidaberg",
+            "NameAr": "اتفيدابيرج"
+        },
+        {
+            "Code": "109669",
+            "Name": "Avesta",
+            "NameAr": "افيستا"
+        },
+        {
+            "Code": "110527",
+            "Name": "Bastad",
+            "NameAr": "باستاد"
+        },
+        {
+            "Code": "110887",
+            "Name": "Batskarsnas",
+            "NameAr": "باتسكارسناس"
+        },
+        {
+            "Code": "105287",
+            "Name": "Bengtsfors",
+            "NameAr": "بينجتسفورس"
+        },
+        {
+            "Code": "111906",
+            "Name": "Berg",
+            "NameAr": "بيرج"
+        },
+        {
+            "Code": "144249",
+            "Name": "Billdal",
+            "NameAr": "بيللدال"
+        },
+        {
+            "Code": "105298",
+            "Name": "Bjasta",
+            "NameAr": "بجاستا"
+        },
+        {
+            "Code": "111590",
+            "Name": "Bjorkliden",
+            "NameAr": "بجوركليدين"
+        },
+        {
+            "Code": "111591",
+            "Name": "Bjursas",
+            "NameAr": "بجورساس"
+        },
+        {
+            "Code": "111222",
+            "Name": "Bjurvik",
+            "NameAr": "بجورفيك"
+        },
+        {
+            "Code": "111785",
+            "Name": "Bjuv",
+            "NameAr": "بجوف"
+        },
+        {
+            "Code": "112411",
+            "Name": "Blentarp",
+            "NameAr": "بلينتارب"
+        },
+        {
+            "Code": "105746",
+            "Name": "Blomstermala",
+            "NameAr": "بلومستيرمالا"
+        },
+        {
+            "Code": "112432",
+            "Name": "Boden",
+            "NameAr": "بودين"
+        },
+        {
+            "Code": "111260",
+            "Name": "Bollnas",
+            "NameAr": "بوللناس"
+        },
+        {
+            "Code": "111278",
+            "Name": "Boras",
+            "NameAr": "بوراس"
+        },
+        {
+            "Code": "104861",
+            "Name": "Borensberg",
+            "NameAr": "بورينسبيرج"
+        },
+        {
+            "Code": "112316",
+            "Name": "Borgholm",
+            "NameAr": "بورجهولم"
+        },
+        {
+            "Code": "111383",
+            "Name": "Borlange",
+            "NameAr": "بورلانجي"
+        },
+        {
+            "Code": "144325",
+            "Name": "Borrby",
+            "NameAr": "بورربي"
+        },
+        {
+            "Code": "144327",
+            "Name": "Borstahusen",
+            "NameAr": "بورستاهوسين"
+        },
+        {
+            "Code": "112524",
+            "Name": "Boxholm",
+            "NameAr": "بوكسهولم"
+        },
+        {
+            "Code": "112268",
+            "Name": "Bracke",
+            "NameAr": "براككي"
+        },
+        {
+            "Code": "112348",
+            "Name": "Brakne Hoby",
+            "NameAr": "براكني هوبي"
+        },
+        {
+            "Code": "112354",
+            "Name": "Brandon",
+            "NameAr": "براندون"
+        },
+        {
+            "Code": "111979",
+            "Name": "Brastad",
+            "NameAr": "براستاد"
+        },
+        {
+            "Code": "105669",
+            "Name": "Bredaryd",
+            "NameAr": "بريداريد"
+        },
+        {
+            "Code": "112012",
+            "Name": "Broby",
+            "NameAr": "بروبي"
+        },
+        {
+            "Code": "112125",
+            "Name": "Brokind",
+            "NameAr": "بروكيند"
+        },
+        {
+            "Code": "112019",
+            "Name": "Bromma",
+            "NameAr": "برومما"
+        },
+        {
+            "Code": "113182",
+            "Name": "Bromolla",
+            "NameAr": "بروموللا"
+        },
+        {
+            "Code": "112025",
+            "Name": "Brosarp",
+            "NameAr": "بروسارب"
+        },
+        {
+            "Code": "112034",
+            "Name": "Bruksvallarna",
+            "NameAr": "بروكسفاللارنا"
+        },
+        {
+            "Code": "112749",
+            "Name": "Byske",
+            "NameAr": "بيسكي"
+        },
+        {
+            "Code": "113477",
+            "Name": "Byxelkrok",
+            "NameAr": "بيكسيلكروك"
+        },
+        {
+            "Code": "114616",
+            "Name": "Charlottenberg",
+            "NameAr": "كهارلوتتينبيرج"
+        },
+        {
+            "Code": "115098",
+            "Name": "Dala Husby",
+            "NameAr": "دالا هوسبي"
+        },
+        {
+            "Code": "116133",
+            "Name": "Dala-Floda",
+            "NameAr": "دالا-فلودا"
+        },
+        {
+            "Code": "115179",
+            "Name": "Dalaro",
+            "NameAr": "دالارو"
+        },
+        {
+            "Code": "105992",
+            "Name": "Dalby",
+            "NameAr": "دالبي"
+        },
+        {
+            "Code": "105993",
+            "Name": "Dalhem",
+            "NameAr": "دالهيم"
+        },
+        {
+            "Code": "116253",
+            "Name": "Dals Rostock",
+            "NameAr": "دالس روستوكك"
+        },
+        {
+            "Code": "115630",
+            "Name": "Danderyd",
+            "NameAr": "دانديريد"
+        },
+        {
+            "Code": "106250",
+            "Name": "Degerhamn",
+            "NameAr": "ديجيرهامن"
+        },
+        {
+            "Code": "115712",
+            "Name": "Dio",
+            "NameAr": "ديو"
+        },
+        {
+            "Code": "116199",
+            "Name": "Djurhamn",
+            "NameAr": "دجورهامن"
+        },
+        {
+            "Code": "116668",
+            "Name": "Djursholm",
+            "NameAr": "دجورسهولم"
+        },
+        {
+            "Code": "106013",
+            "Name": "Docksta",
+            "NameAr": "دوككستا"
+        },
+        {
+            "Code": "115747",
+            "Name": "Dorotea",
+            "NameAr": "دوروتيا"
+        },
+        {
+            "Code": "116412",
+            "Name": "Duved",
+            "NameAr": "دوفيد"
+        },
+        {
+            "Code": "116751",
+            "Name": "Edsbruk",
+            "NameAr": "يدسبروك"
+        },
+        {
+            "Code": "116968",
+            "Name": "Edsbyn",
+            "NameAr": "يدسبين"
+        },
+        {
+            "Code": "105797",
+            "Name": "Edsleskog",
+            "NameAr": "يدسليسكوج"
+        },
+        {
+            "Code": "145048",
+            "Name": "Ekero",
+            "NameAr": "يكيرو"
+        },
+        {
+            "Code": "116764",
+            "Name": "Eksharad",
+            "NameAr": "يكسهاراد"
+        },
+        {
+            "Code": "118040",
+            "Name": "Eksjo",
+            "NameAr": "يكسجو"
+        },
+        {
+            "Code": "148862",
+            "Name": "Ellos",
+            "NameAr": "يللوس"
+        },
+        {
+            "Code": "117227",
+            "Name": "Emmaboda",
+            "NameAr": "يممابودا"
+        },
+        {
+            "Code": "118086",
+            "Name": "Enkoping",
+            "NameAr": "ينكوبينج"
+        },
+        {
+            "Code": "117171",
+            "Name": "Enskede",
+            "NameAr": "ينسكيدي"
+        },
+        {
+            "Code": "116875",
+            "Name": "Eskilstuna",
+            "NameAr": "يسكيلستونا"
+        },
+        {
+            "Code": "117508",
+            "Name": "Eslov",
+            "NameAr": "يسلوف"
+        },
+        {
+            "Code": "117750",
+            "Name": "Fagersta",
+            "NameAr": "فاجيرستا"
+        },
+        {
+            "Code": "117553",
+            "Name": "Falkenberg",
+            "NameAr": "فالكينبيرج"
+        },
+        {
+            "Code": "117761",
+            "Name": "Falkoping",
+            "NameAr": "فالكوبينج"
+        },
+        {
+            "Code": "118124",
+            "Name": "Falsterbo",
+            "NameAr": "فالستيربو"
+        },
+        {
+            "Code": "117763",
+            "Name": "Falun",
+            "NameAr": "فالون"
+        },
+        {
+            "Code": "118128",
+            "Name": "Fargelanda",
+            "NameAr": "فارجيلاندا"
+        },
+        {
+            "Code": "108236",
+            "Name": "Farhult",
+            "NameAr": "فارهولت"
+        },
+        {
+            "Code": "102385",
+            "Name": "Farjestaden",
+            "NameAr": "فارجيستادين"
+        },
+        {
+            "Code": "118562",
+            "Name": "Figeholm",
+            "NameAr": "فيجيهولم"
+        },
+        {
+            "Code": "118566",
+            "Name": "Filipstad",
+            "NameAr": "فيليبستاد"
+        },
+        {
+            "Code": "145190",
+            "Name": "Finspang",
+            "NameAr": "فينسبانج"
+        },
+        {
+            "Code": "118279",
+            "Name": "Fiskebackskil",
+            "NameAr": "فيسكيباككسكيل"
+        },
+        {
+            "Code": "145201",
+            "Name": "Fjallbacka",
+            "NameAr": "فجاللباككا"
+        },
+        {
+            "Code": "118463",
+            "Name": "Flen",
+            "NameAr": "فلين"
+        },
+        {
+            "Code": "105891",
+            "Name": "Fleninge",
+            "NameAr": "فلينينجي"
+        },
+        {
+            "Code": "102232",
+            "Name": "Floda",
+            "NameAr": "فلودا"
+        },
+        {
+            "Code": "118302",
+            "Name": "Follinge",
+            "NameAr": "فوللينجي"
+        },
+        {
+            "Code": "102471",
+            "Name": "Frillesas",
+            "NameAr": "فريلليساس"
+        },
+        {
+            "Code": "118378",
+            "Name": "Froson",
+            "NameAr": "فروسون"
+        },
+        {
+            "Code": "118386",
+            "Name": "Funasdalen",
+            "NameAr": "فوناسدالين"
+        },
+        {
+            "Code": "105899",
+            "Name": "Furudal",
+            "NameAr": "فورودال"
+        },
+        {
+            "Code": "294899",
+            "Name": "Furusund",
+            "NameAr": "فوروسوند"
+        },
+        {
+            "Code": "106092",
+            "Name": "Gaddede",
+            "NameAr": "جادديدي"
+        },
+        {
+            "Code": "118924",
+            "Name": "Gallivare",
+            "NameAr": "جالليفاري"
+        },
+        {
+            "Code": "106096",
+            "Name": "Gamleby",
+            "NameAr": "جامليبي"
+        },
+        {
+            "Code": "118420",
+            "Name": "Gavle",
+            "NameAr": "جافلي"
+        },
+        {
+            "Code": "403649",
+            "Name": "Gävleborg County",
+            "NameAr": "ج فليبورج كوونتي"
+        },
+        {
+            "Code": "119638",
+            "Name": "Gemla",
+            "NameAr": "جيملا"
+        },
+        {
+            "Code": "145336",
+            "Name": "Genarp",
+            "NameAr": "جينارب"
+        },
+        {
+            "Code": "119778",
+            "Name": "Gimo",
+            "NameAr": "جيمو"
+        },
+        {
+            "Code": "119395",
+            "Name": "Gislaved",
+            "NameAr": "جيسلافيد"
+        },
+        {
+            "Code": "119664",
+            "Name": "Gnesta",
+            "NameAr": "جنيستا"
+        },
+        {
+            "Code": "119431",
+            "Name": "Goteborg",
+            "NameAr": "جوتيبورج"
+        },
+        {
+            "Code": "105918",
+            "Name": "Gotene",
+            "NameAr": "جوتيني"
+        },
+        {
+            "Code": "151094",
+            "Name": "Gothenburg",
+            "NameAr": "جوتهينبورج"
+        },
+        {
+            "Code": "119849",
+            "Name": "Grangarde",
+            "NameAr": "جرانجاردي"
+        },
+        {
+            "Code": "120097",
+            "Name": "Granna",
+            "NameAr": "جراننا"
+        },
+        {
+            "Code": "119448",
+            "Name": "Grano",
+            "NameAr": "جرانو"
+        },
+        {
+            "Code": "120104",
+            "Name": "Grasmark",
+            "NameAr": "جراسمارك"
+        },
+        {
+            "Code": "120008",
+            "Name": "Grebbestad",
+            "NameAr": "جريببيستاد"
+        },
+        {
+            "Code": "101535",
+            "Name": "Grums",
+            "NameAr": "جرومس"
+        },
+        {
+            "Code": "101763",
+            "Name": "Grundsund",
+            "NameAr": "جروندسوند"
+        },
+        {
+            "Code": "101764",
+            "Name": "Gryt",
+            "NameAr": "جريت"
+        },
+        {
+            "Code": "119908",
+            "Name": "Grythyttan",
+            "NameAr": "جريتهيتتان"
+        },
+        {
+            "Code": "108278",
+            "Name": "Gunnarsbyn",
+            "NameAr": "جوننارسبين"
+        },
+        {
+            "Code": "121146",
+            "Name": "Habo",
+            "NameAr": "هابو"
+        },
+        {
+            "Code": "105939",
+            "Name": "Hacksvik",
+            "NameAr": "هاككسفيك"
+        },
+        {
+            "Code": "106134",
+            "Name": "Hagersten",
+            "NameAr": "هاجيرستين"
+        },
+        {
+            "Code": "121150",
+            "Name": "Hagfors",
+            "NameAr": "هاجفورس"
+        },
+        {
+            "Code": "119943",
+            "Name": "Halbinsel Vikbolandet",
+            "NameAr": "هالبينسيل فيكبولانديت"
+        },
+        {
+            "Code": "156188",
+            "Name": "Halland County",
+            "NameAr": "هاللاند كوونتي"
+        },
+        {
+            "Code": "119542",
+            "Name": "Hallefors",
+            "NameAr": "هالليفورس"
+        },
+        {
+            "Code": "228919",
+            "Name": "Hälleviksstrand",
+            "NameAr": "ه لليفيكسستراند"
+        },
+        {
+            "Code": "120191",
+            "Name": "Hallsberg",
+            "NameAr": "هاللسبيرج"
+        },
+        {
+            "Code": "119546",
+            "Name": "Hallstahammar",
+            "NameAr": "هاللستاهاممار"
+        },
+        {
+            "Code": "120458",
+            "Name": "Hallstavik",
+            "NameAr": "هاللستافيك"
+        },
+        {
+            "Code": "145514",
+            "Name": "Halmstad",
+            "NameAr": "هالمستاد"
+        },
+        {
+            "Code": "105837",
+            "Name": "Hammar",
+            "NameAr": "هاممار"
+        },
+        {
+            "Code": "108284",
+            "Name": "Hammarstrand",
+            "NameAr": "هاممارستراند"
+        },
+        {
+            "Code": "108285",
+            "Name": "Hammenhog",
+            "NameAr": "هاممينهوج"
+        },
+        {
+            "Code": "145529",
+            "Name": "Hamra",
+            "NameAr": "هامرا"
+        },
+        {
+            "Code": "120605",
+            "Name": "Haparanda",
+            "NameAr": "هاباراندا"
+        },
+        {
+            "Code": "119963",
+            "Name": "Harads",
+            "NameAr": "هارادس"
+        },
+        {
+            "Code": "119969",
+            "Name": "Harnosand",
+            "NameAr": "هارنوساند"
+        },
+        {
+            "Code": "120613",
+            "Name": "Harryda",
+            "NameAr": "هارريدا"
+        },
+        {
+            "Code": "120786",
+            "Name": "Hassleholm",
+            "NameAr": "هاسسليهولم"
+        },
+        {
+            "Code": "108291",
+            "Name": "Havdhem",
+            "NameAr": "هافدهيم"
+        },
+        {
+            "Code": "106139",
+            "Name": "Haverud",
+            "NameAr": "هافيرود"
+        },
+        {
+            "Code": "120810",
+            "Name": "Hede",
+            "NameAr": "هيدي"
+        },
+        {
+            "Code": "120645",
+            "Name": "Hedemora",
+            "NameAr": "هيديمورا"
+        },
+        {
+            "Code": "120822",
+            "Name": "Helsingborg",
+            "NameAr": "هيلسينجبورج"
+        },
+        {
+            "Code": "145586",
+            "Name": "Hemavan",
+            "NameAr": "هيمافان"
+        },
+        {
+            "Code": "121209",
+            "Name": "Herrljunga",
+            "NameAr": "هيررلجونجا"
+        },
+        {
+            "Code": "120842",
+            "Name": "Hestra",
+            "NameAr": "هيسترا"
+        },
+        {
+            "Code": "102454",
+            "Name": "Hillerstorp",
+            "NameAr": "هيلليرستورب"
+        },
+        {
+            "Code": "108296",
+            "Name": "Hindas",
+            "NameAr": "هينداس"
+        },
+        {
+            "Code": "121360",
+            "Name": "Hisings Backa",
+            "NameAr": "هيسينجس باككا"
+        },
+        {
+            "Code": "120951",
+            "Name": "Hjarnarp",
+            "NameAr": "هجارنارب"
+        },
+        {
+            "Code": "121920",
+            "Name": "Hjo",
+            "NameAr": "هجو"
+        },
+        {
+            "Code": "105855",
+            "Name": "Hofors",
+            "NameAr": "هوفورس"
+        },
+        {
+            "Code": "120721",
+            "Name": "Hoganas",
+            "NameAr": "هوجاناس"
+        },
+        {
+            "Code": "120967",
+            "Name": "Hok",
+            "NameAr": "هوك"
+        },
+        {
+            "Code": "102518",
+            "Name": "Hollviken",
+            "NameAr": "هوللفيكين"
+        },
+        {
+            "Code": "102519",
+            "Name": "Holsbybrunn",
+            "NameAr": "هولسبيبرونن"
+        },
+        {
+            "Code": "102444",
+            "Name": "Hono",
+            "NameAr": "هونو"
+        },
+        {
+            "Code": "121946",
+            "Name": "Hoor",
+            "NameAr": "هوور"
+        },
+        {
+            "Code": "120997",
+            "Name": "Horby",
+            "NameAr": "هوربي"
+        },
+        {
+            "Code": "122635",
+            "Name": "Huddinge",
+            "NameAr": "هوددينجي"
+        },
+        {
+            "Code": "121961",
+            "Name": "Hudiksvall",
+            "NameAr": "هوديكسفالل"
+        },
+        {
+            "Code": "121029",
+            "Name": "Hultsfred",
+            "NameAr": "هولتسفريد"
+        },
+        {
+            "Code": "102336",
+            "Name": "Hunnebostrand",
+            "NameAr": "هوننيبوستراند"
+        },
+        {
+            "Code": "121434",
+            "Name": "Huskvarna",
+            "NameAr": "هوسكفارنا"
+        },
+        {
+            "Code": "121977",
+            "Name": "Hylletofta",
+            "NameAr": "هيلليتوفتا"
+        },
+        {
+            "Code": "105963",
+            "Name": "Hyllinge",
+            "NameAr": "هيللينجي"
+        },
+        {
+            "Code": "121047",
+            "Name": "Idre",
+            "NameAr": "يدري"
+        },
+        {
+            "Code": "105601",
+            "Name": "Ingaro - Lillangen",
+            "NameAr": "ينجارو - ليللانجين"
+        },
+        {
+            "Code": "122113",
+            "Name": "Ingelstad",
+            "NameAr": "ينجيلستاد"
+        },
+        {
+            "Code": "122695",
+            "Name": "Insel Flaton",
+            "NameAr": "ينسيل فلاتون"
+        },
+        {
+            "Code": "121475",
+            "Name": "Insel Hogbonden",
+            "NameAr": "ينسيل هوجبوندين"
+        },
+        {
+            "Code": "121520",
+            "Name": "Jarfalla",
+            "NameAr": "جارفاللا"
+        },
+        {
+            "Code": "122454",
+            "Name": "Jarpen",
+            "NameAr": "جاربين"
+        },
+        {
+            "Code": "122747",
+            "Name": "Jarvso",
+            "NameAr": "جارفسو"
+        },
+        {
+            "Code": "108340",
+            "Name": "Jattendal",
+            "NameAr": "جاتتيندال"
+        },
+        {
+            "Code": "122210",
+            "Name": "Jokkmokk",
+            "NameAr": "جوككموكك"
+        },
+        {
+            "Code": "123452",
+            "Name": "Jonaker",
+            "NameAr": "جوناكير"
+        },
+        {
+            "Code": "122782",
+            "Name": "Jonkoping",
+            "NameAr": "جونكوبينج"
+        },
+        {
+            "Code": "122893",
+            "Name": "Jukkasjarvi",
+            "NameAr": "جوككاسجارفي"
+        },
+        {
+            "Code": "122911",
+            "Name": "Kalix",
+            "NameAr": "كاليكس"
+        },
+        {
+            "Code": "122393",
+            "Name": "Kalmar",
+            "NameAr": "كالمار"
+        },
+        {
+            "Code": "122937",
+            "Name": "Karesuando",
+            "NameAr": "كاريسواندو"
+        },
+        {
+            "Code": "404364",
+            "Name": "Karlsborg",
+            "NameAr": "كارلسبورج"
+        },
+        {
+            "Code": "122273",
+            "Name": "Karlshamn",
+            "NameAr": "كارلسهامن"
+        },
+        {
+            "Code": "123508",
+            "Name": "Karlskoga",
+            "NameAr": "كارلسكوجا"
+        },
+        {
+            "Code": "122843",
+            "Name": "Karlskrona",
+            "NameAr": "كارلسكرونا"
+        },
+        {
+            "Code": "123094",
+            "Name": "Karlstad",
+            "NameAr": "كارلستاد"
+        },
+        {
+            "Code": "124185",
+            "Name": "Katrineholm",
+            "NameAr": "كاترينيهولم"
+        },
+        {
+            "Code": "103954",
+            "Name": "Kavlinge",
+            "NameAr": "كافلينجي"
+        },
+        {
+            "Code": "123552",
+            "Name": "Kil",
+            "NameAr": "كيل"
+        },
+        {
+            "Code": "101955",
+            "Name": "Killeberg",
+            "NameAr": "كيلليبيرج"
+        },
+        {
+            "Code": "123173",
+            "Name": "Kinna",
+            "NameAr": "كيننا"
+        },
+        {
+            "Code": "145960",
+            "Name": "Kiruna",
+            "NameAr": "كيرونا"
+        },
+        {
+            "Code": "122608",
+            "Name": "Kista",
+            "NameAr": "كيستا"
+        },
+        {
+            "Code": "124260",
+            "Name": "Kittelfjall",
+            "NameAr": "كيتتيلفجالل"
+        },
+        {
+            "Code": "123035",
+            "Name": "Kivik",
+            "NameAr": "كيفيك"
+        },
+        {
+            "Code": "123293",
+            "Name": "Klacken",
+            "NameAr": "كلاككين"
+        },
+        {
+            "Code": "122614",
+            "Name": "Kladesholmen",
+            "NameAr": "كلاديسهولمين"
+        },
+        {
+            "Code": "123718",
+            "Name": "Klintehamn",
+            "NameAr": "كلينتيهامن"
+        },
+        {
+            "Code": "123719",
+            "Name": "Klippan",
+            "NameAr": "كليببان"
+        },
+        {
+            "Code": "123725",
+            "Name": "Klovedal",
+            "NameAr": "كلوفيدال"
+        },
+        {
+            "Code": "103974",
+            "Name": "Klovsjo",
+            "NameAr": "كلوفسجو"
+        },
+        {
+            "Code": "101683",
+            "Name": "Knared",
+            "NameAr": "كناريد"
+        },
+        {
+            "Code": "123964",
+            "Name": "Knistad",
+            "NameAr": "كنيستاد"
+        },
+        {
+            "Code": "123048",
+            "Name": "Knivsta",
+            "NameAr": "كنيفستا"
+        },
+        {
+            "Code": "103718",
+            "Name": "Kolback",
+            "NameAr": "كولباكك"
+        },
+        {
+            "Code": "123615",
+            "Name": "Kolsva",
+            "NameAr": "كولسفا"
+        },
+        {
+            "Code": "123996",
+            "Name": "Koping",
+            "NameAr": "كوبينج"
+        },
+        {
+            "Code": "146005",
+            "Name": "Kopingsvik",
+            "NameAr": "كوبينجسفيك"
+        },
+        {
+            "Code": "146016",
+            "Name": "Kosta",
+            "NameAr": "كوستا"
+        },
+        {
+            "Code": "124017",
+            "Name": "Kramfors",
+            "NameAr": "كرامفورس"
+        },
+        {
+            "Code": "123907",
+            "Name": "Kristianstad",
+            "NameAr": "كريستيانستاد"
+        },
+        {
+            "Code": "123335",
+            "Name": "Kristinehamn",
+            "NameAr": "كريستينيهامن"
+        },
+        {
+            "Code": "123336",
+            "Name": "Krokom",
+            "NameAr": "كروكوم"
+        },
+        {
+            "Code": "156122",
+            "Name": "Kronoberg County",
+            "NameAr": "كرونوبيرج كوونتي"
+        },
+        {
+            "Code": "104133",
+            "Name": "Kumla",
+            "NameAr": "كوملا"
+        },
+        {
+            "Code": "124444",
+            "Name": "Kungalv",
+            "NameAr": "كونجالف"
+        },
+        {
+            "Code": "101974",
+            "Name": "Kungsangen",
+            "NameAr": "كونجسانجين"
+        },
+        {
+            "Code": "123777",
+            "Name": "Kungsbacka",
+            "NameAr": "كونجسباككا"
+        },
+        {
+            "Code": "124445",
+            "Name": "Kungshamn",
+            "NameAr": "كونجسهامن"
+        },
+        {
+            "Code": "124455",
+            "Name": "Kvanum",
+            "NameAr": "كفانوم"
+        },
+        {
+            "Code": "124633",
+            "Name": "Lagan",
+            "NameAr": "لاجان"
+        },
+        {
+            "Code": "124081",
+            "Name": "Laholm - Skummelov",
+            "NameAr": "لاهولم - سكومميلوف"
+        },
+        {
+            "Code": "124789",
+            "Name": "Lammhult",
+            "NameAr": "لاممهولت"
+        },
+        {
+            "Code": "124665",
+            "Name": "Landskrona",
+            "NameAr": "لاندسكرونا"
+        },
+        {
+            "Code": "103752",
+            "Name": "Lappe",
+            "NameAr": "لاببي"
+        },
+        {
+            "Code": "146158",
+            "Name": "Larbro",
+            "NameAr": "لاربرو"
+        },
+        {
+            "Code": "124153",
+            "Name": "Lassekrog",
+            "NameAr": "لاسسيكروج"
+        },
+        {
+            "Code": "103761",
+            "Name": "Laxa",
+            "NameAr": "لاكسا"
+        },
+        {
+            "Code": "125391",
+            "Name": "Leksand",
+            "NameAr": "ليكساند"
+        },
+        {
+            "Code": "103991",
+            "Name": "Lergrav - Farosund",
+            "NameAr": "ليرجراف - فاروسوند"
+        },
+        {
+            "Code": "126519",
+            "Name": "Lerum",
+            "NameAr": "ليروم"
+        },
+        {
+            "Code": "124905",
+            "Name": "Lidingo",
+            "NameAr": "ليدينجو"
+        },
+        {
+            "Code": "146275",
+            "Name": "Lidkoping",
+            "NameAr": "ليدكوبينج"
+        },
+        {
+            "Code": "126553",
+            "Name": "Lilla Edet",
+            "NameAr": "ليللا يديت"
+        },
+        {
+            "Code": "102647",
+            "Name": "Lindesberg",
+            "NameAr": "لينديسبيرج"
+        },
+        {
+            "Code": "126272",
+            "Name": "Linkoping",
+            "NameAr": "لينكوبينج"
+        },
+        {
+            "Code": "106442",
+            "Name": "Linneryd",
+            "NameAr": "ليننيريد"
+        },
+        {
+            "Code": "125332",
+            "Name": "Ljugarn",
+            "NameAr": "لجوجارن"
+        },
+        {
+            "Code": "126295",
+            "Name": "Ljungby",
+            "NameAr": "لجونجبي"
+        },
+        {
+            "Code": "125879",
+            "Name": "Ljungbyhed",
+            "NameAr": "لجونجبيهيد"
+        },
+        {
+            "Code": "126296",
+            "Name": "Ljungskile",
+            "NameAr": "لجونجسكيلي"
+        },
+        {
+            "Code": "126605",
+            "Name": "Ljusnedal",
+            "NameAr": "لجوسنيدال"
+        },
+        {
+            "Code": "127268",
+            "Name": "Loddekopinge",
+            "NameAr": "لودديكوبينجي"
+        },
+        {
+            "Code": "125599",
+            "Name": "Loderup",
+            "NameAr": "لوديروب"
+        },
+        {
+            "Code": "127270",
+            "Name": "Lofsdalen",
+            "NameAr": "لوفسدالين"
+        },
+        {
+            "Code": "146343",
+            "Name": "Lomselenas",
+            "NameAr": "لومسيليناس"
+        },
+        {
+            "Code": "146354",
+            "Name": "Lonneberga",
+            "NameAr": "لوننيبيرجا"
+        },
+        {
+            "Code": "104005",
+            "Name": "Lottorp",
+            "NameAr": "لوتتورب"
+        },
+        {
+            "Code": "126668",
+            "Name": "Ludvika",
+            "NameAr": "لودفيكا"
+        },
+        {
+            "Code": "126717",
+            "Name": "Lulea",
+            "NameAr": "لوليا"
+        },
+        {
+            "Code": "126230",
+            "Name": "Lund",
+            "NameAr": "لوند"
+        },
+        {
+            "Code": "104307",
+            "Name": "Lundsbrunn",
+            "NameAr": "لوندسبرونن"
+        },
+        {
+            "Code": "102594",
+            "Name": "Lyckeby",
+            "NameAr": "ليككيبي"
+        },
+        {
+            "Code": "126085",
+            "Name": "Lycksele",
+            "NameAr": "ليككسيلي"
+        },
+        {
+            "Code": "125662",
+            "Name": "Lysekil",
+            "NameAr": "ليسيكيل"
+        },
+        {
+            "Code": "146444",
+            "Name": "Mala",
+            "NameAr": "مالا"
+        },
+        {
+            "Code": "127400",
+            "Name": "Malilla",
+            "NameAr": "ماليللا"
+        },
+        {
+            "Code": "127102",
+            "Name": "Malmkoping",
+            "NameAr": "مالمكوبينج"
+        },
+        {
+            "Code": "126382",
+            "Name": "Malmo",
+            "NameAr": "مالمو"
+        },
+        {
+            "Code": "126957",
+            "Name": "Malung",
+            "NameAr": "مالونج"
+        },
+        {
+            "Code": "128048",
+            "Name": "Mantorp",
+            "NameAr": "مانتورب"
+        },
+        {
+            "Code": "127489",
+            "Name": "Mariefred",
+            "NameAr": "مارييفريد"
+        },
+        {
+            "Code": "127145",
+            "Name": "Marieholm",
+            "NameAr": "مارييهولم"
+        },
+        {
+            "Code": "146502",
+            "Name": "Mariestad",
+            "NameAr": "مارييستاد"
+        },
+        {
+            "Code": "128072",
+            "Name": "Markaryd",
+            "NameAr": "ماركاريد"
+        },
+        {
+            "Code": "106484",
+            "Name": "Marsta",
+            "NameAr": "مارستا"
+        },
+        {
+            "Code": "127837",
+            "Name": "Marstrand",
+            "NameAr": "مارستراند"
+        },
+        {
+            "Code": "104767",
+            "Name": "Mellbystrand",
+            "NameAr": "ميللبيستراند"
+        },
+        {
+            "Code": "127571",
+            "Name": "Mellerud",
+            "NameAr": "ميلليرود"
+        },
+        {
+            "Code": "127689",
+            "Name": "Mjolby",
+            "NameAr": "مجولبي"
+        },
+        {
+            "Code": "127808",
+            "Name": "Molle",
+            "NameAr": "موللي"
+        },
+        {
+            "Code": "128326",
+            "Name": "Mollosund",
+            "NameAr": "موللوسوند"
+        },
+        {
+            "Code": "128900",
+            "Name": "Molndal",
+            "NameAr": "مولندال"
+        },
+        {
+            "Code": "146671",
+            "Name": "Molnlycke",
+            "NameAr": "مولنليككي"
+        },
+        {
+            "Code": "146682",
+            "Name": "Monsteras",
+            "NameAr": "مونستيراس"
+        },
+        {
+            "Code": "128995",
+            "Name": "Mora",
+            "NameAr": "مورا"
+        },
+        {
+            "Code": "129375",
+            "Name": "Morbylanga",
+            "NameAr": "موربيلانجا"
+        },
+        {
+            "Code": "102993",
+            "Name": "Morrum",
+            "NameAr": "مورروم"
+        },
+        {
+            "Code": "129389",
+            "Name": "Motala",
+            "NameAr": "موتالا"
+        },
+        {
+            "Code": "128570",
+            "Name": "Mullsjo",
+            "NameAr": "موللسجو"
+        },
+        {
+            "Code": "102022",
+            "Name": "Munkedal",
+            "NameAr": "مونكيدال"
+        },
+        {
+            "Code": "128029",
+            "Name": "Munkfors",
+            "NameAr": "مونكفورس"
+        },
+        {
+            "Code": "128470",
+            "Name": "Muodoslompolo",
+            "NameAr": "موودوسلومبولو"
+        },
+        {
+            "Code": "130350",
+            "Name": "Nacka Strand",
+            "NameAr": "ناككا ستراند"
+        },
+        {
+            "Code": "146816",
+            "Name": "Nassjo",
+            "NameAr": "ناسسجو"
+        },
+        {
+            "Code": "129490",
+            "Name": "Nora",
+            "NameAr": "نورا"
+        },
+        {
+            "Code": "130550",
+            "Name": "Norberg",
+            "NameAr": "نوربيرج"
+        },
+        {
+            "Code": "130551",
+            "Name": "Nordanstig",
+            "NameAr": "نوردانستيج"
+        },
+        {
+            "Code": "102881",
+            "Name": "Nordmaling",
+            "NameAr": "نوردمالينج"
+        },
+        {
+            "Code": "106553",
+            "Name": "Norrahamar",
+            "NameAr": "نورراهامار"
+        },
+        {
+            "Code": "156114",
+            "Name": "Norrbotten County",
+            "NameAr": "نورربوتتين كوونتي"
+        },
+        {
+            "Code": "146908",
+            "Name": "Norrkoping",
+            "NameAr": "نورركوبينج"
+        },
+        {
+            "Code": "103029",
+            "Name": "Norrskedika",
+            "NameAr": "نوررسكيديكا"
+        },
+        {
+            "Code": "106554",
+            "Name": "Norsborg",
+            "NameAr": "نورسبورج"
+        },
+        {
+            "Code": "130511",
+            "Name": "Norsjo",
+            "NameAr": "نورسجو"
+        },
+        {
+            "Code": "130512",
+            "Name": "Nortallje",
+            "NameAr": "نورتاللجي"
+        },
+        {
+            "Code": "131176",
+            "Name": "Nossebro",
+            "NameAr": "نوسسيبرو"
+        },
+        {
+            "Code": "104821",
+            "Name": "Nosund",
+            "NameAr": "نوسوند"
+        },
+        {
+            "Code": "131189",
+            "Name": "Nyadal",
+            "NameAr": "نيادال"
+        },
+        {
+            "Code": "129535",
+            "Name": "Nybro",
+            "NameAr": "نيبرو"
+        },
+        {
+            "Code": "131191",
+            "Name": "Nyhamnslage",
+            "NameAr": "نيهامنسلاجي"
+        },
+        {
+            "Code": "131194",
+            "Name": "Nykoping",
+            "NameAr": "نيكوبينج"
+        },
+        {
+            "Code": "104552",
+            "Name": "Nykvarn",
+            "NameAr": "نيكفارن"
+        },
+        {
+            "Code": "146936",
+            "Name": "Nynashamn",
+            "NameAr": "نيناسهامن"
+        },
+        {
+            "Code": "104292",
+            "Name": "Ockelbo",
+            "NameAr": "وككيلبو"
+        },
+        {
+            "Code": "130214",
+            "Name": "Odeshog",
+            "NameAr": "وديسهوج"
+        },
+        {
+            "Code": "131260",
+            "Name": "Oland",
+            "NameAr": "ولاند"
+        },
+        {
+            "Code": "130974",
+            "Name": "Olofstrom",
+            "NameAr": "ولوفستروم"
+        },
+        {
+            "Code": "102066",
+            "Name": "Onsala",
+            "NameAr": "ونسالا"
+        },
+        {
+            "Code": "104568",
+            "Name": "Orby",
+            "NameAr": "وربي"
+        },
+        {
+            "Code": "147020",
+            "Name": "Orebro",
+            "NameAr": "وريبرو"
+        },
+        {
+            "Code": "103396",
+            "Name": "Oregrund",
+            "NameAr": "وريجروند"
+        },
+        {
+            "Code": "287224",
+            "Name": "Örkelljunga Municipality",
+            "NameAr": "ركيللجونجا مونيكيباليتي"
+        },
+        {
+            "Code": "130259",
+            "Name": "Ornskoldsvik",
+            "NameAr": "ورنسكولدسفيك"
+        },
+        {
+            "Code": "131945",
+            "Name": "Orsa",
+            "NameAr": "ورسا"
+        },
+        {
+            "Code": "130814",
+            "Name": "Osby",
+            "NameAr": "وسبي"
+        },
+        {
+            "Code": "130271",
+            "Name": "Oskarshamn",
+            "NameAr": "وسكارسهامن"
+        },
+        {
+            "Code": "130702",
+            "Name": "Osmo",
+            "NameAr": "وسمو"
+        },
+        {
+            "Code": "131318",
+            "Name": "Osta",
+            "NameAr": "وستا"
+        },
+        {
+            "Code": "131962",
+            "Name": "Osterbybruk",
+            "NameAr": "وستيربيبروك"
+        },
+        {
+            "Code": "131345",
+            "Name": "Osterfarnebo",
+            "NameAr": "وستيرفارنيبو"
+        },
+        {
+            "Code": "131686",
+            "Name": "Ostersund",
+            "NameAr": "وستيرسوند"
+        },
+        {
+            "Code": "131688",
+            "Name": "Osthammar",
+            "NameAr": "وستهاممار"
+        },
+        {
+            "Code": "102072",
+            "Name": "Ostra Amtervik",
+            "NameAr": "وسترا امتيرفيك"
+        },
+        {
+            "Code": "130732",
+            "Name": "Overkalix",
+            "NameAr": "وفيركاليكس"
+        },
+        {
+            "Code": "131978",
+            "Name": "Overlida",
+            "NameAr": "وفيرليدا"
+        },
+        {
+            "Code": "147047",
+            "Name": "Overtornea",
+            "NameAr": "وفيرتورنيا"
+        },
+        {
+            "Code": "131709",
+            "Name": "Oxelosund",
+            "NameAr": "وكسيلوسوند"
+        },
+        {
+            "Code": "130864",
+            "Name": "Pajala",
+            "NameAr": "باجالا"
+        },
+        {
+            "Code": "106661",
+            "Name": "Paskallavik",
+            "NameAr": "باسكاللافيك"
+        },
+        {
+            "Code": "131504",
+            "Name": "Perstorp",
+            "NameAr": "بيرستورب"
+        },
+        {
+            "Code": "131653",
+            "Name": "Pitea",
+            "NameAr": "بيتيا"
+        },
+        {
+            "Code": "108419",
+            "Name": "Rada",
+            "NameAr": "رادا"
+        },
+        {
+            "Code": "133180",
+            "Name": "Ramkvilla",
+            "NameAr": "رامكفيللا"
+        },
+        {
+            "Code": "132622",
+            "Name": "Ramnas",
+            "NameAr": "رامناس"
+        },
+        {
+            "Code": "133759",
+            "Name": "Ramvik",
+            "NameAr": "رامفيك"
+        },
+        {
+            "Code": "133775",
+            "Name": "Rattvik - Martansberg",
+            "NameAr": "راتتفيك - مارتانسبيرج"
+        },
+        {
+            "Code": "102681",
+            "Name": "Reftele",
+            "NameAr": "ريفتيلي"
+        },
+        {
+            "Code": "133923",
+            "Name": "Riksgransen",
+            "NameAr": "ريكسجرانسين"
+        },
+        {
+            "Code": "133355",
+            "Name": "Rimforsa",
+            "NameAr": "ريمفورسا"
+        },
+        {
+            "Code": "106728",
+            "Name": "Risudden",
+            "NameAr": "ريسوددين"
+        },
+        {
+            "Code": "106736",
+            "Name": "Ronnang",
+            "NameAr": "روننانج"
+        },
+        {
+            "Code": "135431",
+            "Name": "Ronneby",
+            "NameAr": "روننيبي"
+        },
+        {
+            "Code": "135440",
+            "Name": "Rosersberg",
+            "NameAr": "روسيرسبيرج"
+        },
+        {
+            "Code": "102964",
+            "Name": "Rostanga",
+            "NameAr": "روستانجا"
+        },
+        {
+            "Code": "103227",
+            "Name": "Ryd",
+            "NameAr": "ريد"
+        },
+        {
+            "Code": "135237",
+            "Name": "Saffle",
+            "NameAr": "ساففلي"
+        },
+        {
+            "Code": "135489",
+            "Name": "Safsen-Frederiksberg",
+            "NameAr": "سافسين-فريديريكسبيرج"
+        },
+        {
+            "Code": "136444",
+            "Name": "Sala",
+            "NameAr": "سالا"
+        },
+        {
+            "Code": "135383",
+            "Name": "Salbohed",
+            "NameAr": "سالبوهيد"
+        },
+        {
+            "Code": "135917",
+            "Name": "Salen",
+            "NameAr": "سالين"
+        },
+        {
+            "Code": "107322",
+            "Name": "Saltsjo-boo",
+            "NameAr": "سالتسجو-بوو"
+        },
+        {
+            "Code": "135396",
+            "Name": "Saltsjobaden",
+            "NameAr": "سالتسجوبادين"
+        },
+        {
+            "Code": "136351",
+            "Name": "Sandhamn",
+            "NameAr": "ساندهامن"
+        },
+        {
+            "Code": "137137",
+            "Name": "Sandoverken",
+            "NameAr": "ساندوفيركين"
+        },
+        {
+            "Code": "147720",
+            "Name": "Sandviken",
+            "NameAr": "ساندفيكين"
+        },
+        {
+            "Code": "136639",
+            "Name": "Sarna",
+            "NameAr": "سارنا"
+        },
+        {
+            "Code": "136552",
+            "Name": "Saro",
+            "NameAr": "سارو"
+        },
+        {
+            "Code": "103524",
+            "Name": "Satila",
+            "NameAr": "ساتيلا"
+        },
+        {
+            "Code": "108507",
+            "Name": "Save",
+            "NameAr": "سافي"
+        },
+        {
+            "Code": "137219",
+            "Name": "Savsjo",
+            "NameAr": "سافسجو"
+        },
+        {
+            "Code": "136922",
+            "Name": "Saxemara",
+            "NameAr": "ساكسيمارا"
+        },
+        {
+            "Code": "136575",
+            "Name": "Saxnas",
+            "NameAr": "ساكسناس"
+        },
+        {
+            "Code": "108521",
+            "Name": "See Bergsjon",
+            "NameAr": "سيي بيرجسجون"
+        },
+        {
+            "Code": "417292",
+            "Name": "Segeltorp",
+            "NameAr": "سيجيلتورب"
+        },
+        {
+            "Code": "137764",
+            "Name": "Sigtuna",
+            "NameAr": "سيجتونا"
+        },
+        {
+            "Code": "137767",
+            "Name": "Siljansee",
+            "NameAr": "سيلجانسيي"
+        },
+        {
+            "Code": "138000",
+            "Name": "Simlangsdalen",
+            "NameAr": "سيملانجسدالين"
+        },
+        {
+            "Code": "138422",
+            "Name": "Simrishamn",
+            "NameAr": "سيمريسهامن"
+        },
+        {
+            "Code": "137481",
+            "Name": "Sjohultet-Asljunga",
+            "NameAr": "سجوهولتيت-اسلجونجا"
+        },
+        {
+            "Code": "137441",
+            "Name": "Sjuntorp",
+            "NameAr": "سجونتورب"
+        },
+        {
+            "Code": "138102",
+            "Name": "Skagersbrunn",
+            "NameAr": "سكاجيرسبرونن"
+        },
+        {
+            "Code": "156219",
+            "Name": "Skane County",
+            "NameAr": "سكاني كوونتي"
+        },
+        {
+            "Code": "107721",
+            "Name": "Skanninge",
+            "NameAr": "سكاننينجي"
+        },
+        {
+            "Code": "138017",
+            "Name": "Skanor",
+            "NameAr": "سكانور"
+        },
+        {
+            "Code": "138717",
+            "Name": "Skara",
+            "NameAr": "سكارا"
+        },
+        {
+            "Code": "108546",
+            "Name": "Skarhamn",
+            "NameAr": "سكارهامن"
+        },
+        {
+            "Code": "147937",
+            "Name": "Skelleftea",
+            "NameAr": "سكيلليفتيا"
+        },
+        {
+            "Code": "147938",
+            "Name": "Skillingaryd",
+            "NameAr": "سكيللينجاريد"
+        },
+        {
+            "Code": "138107",
+            "Name": "Skinnskatteberg",
+            "NameAr": "سكيننسكاتتيبيرج"
+        },
+        {
+            "Code": "108547",
+            "Name": "Skivarp",
+            "NameAr": "سكيفارب"
+        },
+        {
+            "Code": "137630",
+            "Name": "Skoldinge",
+            "NameAr": "سكولدينجي"
+        },
+        {
+            "Code": "138452",
+            "Name": "Skovde",
+            "NameAr": "سكوفدي"
+        },
+        {
+            "Code": "106653",
+            "Name": "Skultuna",
+            "NameAr": "سكولتونا"
+        },
+        {
+            "Code": "137633",
+            "Name": "Skurup",
+            "NameAr": "سكوروب"
+        },
+        {
+            "Code": "108548",
+            "Name": "Slite",
+            "NameAr": "سليتي"
+        },
+        {
+            "Code": "106902",
+            "Name": "Slussfors",
+            "NameAr": "سلوسسفورس"
+        },
+        {
+            "Code": "137054",
+            "Name": "Smaland/Trollebo",
+            "NameAr": "سمالاند ترولليبو"
+        },
+        {
+            "Code": "137643",
+            "Name": "Smedjebacken",
+            "NameAr": "سميدجيباككين"
+        },
+        {
+            "Code": "137499",
+            "Name": "Smogen",
+            "NameAr": "سموجين"
+        },
+        {
+            "Code": "138040",
+            "Name": "Soderakra",
+            "NameAr": "سوديراكرا"
+        },
+        {
+            "Code": "138125",
+            "Name": "Soderbarke",
+            "NameAr": "سوديرباركي"
+        },
+        {
+            "Code": "137061",
+            "Name": "Soderfors",
+            "NameAr": "سوديرفورس"
+        },
+        {
+            "Code": "138463",
+            "Name": "Soderhamn",
+            "NameAr": "سوديرهامن"
+        },
+        {
+            "Code": "138464",
+            "Name": "Soderkoping",
+            "NameAr": "سوديركوبينج"
+        },
+        {
+            "Code": "138747",
+            "Name": "Sodertalje",
+            "NameAr": "سوديرتالجي"
+        },
+        {
+            "Code": "138751",
+            "Name": "Solleftea",
+            "NameAr": "سولليفتيا"
+        },
+        {
+            "Code": "138752",
+            "Name": "Sollentuna",
+            "NameAr": "سوللينتونا"
+        },
+        {
+            "Code": "137506",
+            "Name": "Solna",
+            "NameAr": "سولنا"
+        },
+        {
+            "Code": "137510",
+            "Name": "Solvesborg",
+            "NameAr": "سولفيسبورج"
+        },
+        {
+            "Code": "107241",
+            "Name": "Soraker",
+            "NameAr": "سوراكير"
+        },
+        {
+            "Code": "138327",
+            "Name": "Sorsele",
+            "NameAr": "سورسيلي"
+        },
+        {
+            "Code": "107254",
+            "Name": "Stanga",
+            "NameAr": "ستانجا"
+        },
+        {
+            "Code": "138822",
+            "Name": "Stenungsund",
+            "NameAr": "ستينونجسوند"
+        },
+        {
+            "Code": "137827",
+            "Name": "Stockholm",
+            "NameAr": "ستوككهولم"
+        },
+        {
+            "Code": "156118",
+            "Name": "Stockholm County",
+            "NameAr": "ستوككهولم كوونتي"
+        },
+        {
+            "Code": "139264",
+            "Name": "Stollet",
+            "NameAr": "ستولليت"
+        },
+        {
+            "Code": "139111",
+            "Name": "Storfors",
+            "NameAr": "ستورفورس"
+        },
+        {
+            "Code": "107261",
+            "Name": "Storlien",
+            "NameAr": "ستورليين"
+        },
+        {
+            "Code": "151337",
+            "Name": "Storuman",
+            "NameAr": "ستورومان"
+        },
+        {
+            "Code": "140209",
+            "Name": "Strangnas",
+            "NameAr": "سترانجناس"
+        },
+        {
+            "Code": "139125",
+            "Name": "Stromstad",
+            "NameAr": "سترومستاد"
+        },
+        {
+            "Code": "139126",
+            "Name": "Stromsund",
+            "NameAr": "سترومسوند"
+        },
+        {
+            "Code": "138289",
+            "Name": "Styrso",
+            "NameAr": "ستيرسو"
+        },
+        {
+            "Code": "138968",
+            "Name": "Sundbyberg",
+            "NameAr": "سوندبيبيرج"
+        },
+        {
+            "Code": "139149",
+            "Name": "Sundsvall",
+            "NameAr": "سوندسفالل"
+        },
+        {
+            "Code": "138970",
+            "Name": "Sunne",
+            "NameAr": "سونني"
+        },
+        {
+            "Code": "137877",
+            "Name": "Surte",
+            "NameAr": "سورتي"
+        },
+        {
+            "Code": "139532",
+            "Name": "Svalov",
+            "NameAr": "سفالوف"
+        },
+        {
+            "Code": "139533",
+            "Name": "Svarta",
+            "NameAr": "سفارتا"
+        },
+        {
+            "Code": "151513",
+            "Name": "Sveg",
+            "NameAr": "سفيج"
+        },
+        {
+            "Code": "139880",
+            "Name": "Sydkoster",
+            "NameAr": "سيدكوستير"
+        },
+        {
+            "Code": "138549",
+            "Name": "Syssleback",
+            "NameAr": "سيسسليباكك"
+        },
+        {
+            "Code": "139547",
+            "Name": "Taby",
+            "NameAr": "تابي"
+        },
+        {
+            "Code": "139011",
+            "Name": "Tallberg",
+            "NameAr": "تاللبيرج"
+        },
+        {
+            "Code": "148150",
+            "Name": "Tannas",
+            "NameAr": "تانناس"
+        },
+        {
+            "Code": "139561",
+            "Name": "Tanndalen",
+            "NameAr": "تانندالين"
+        },
+        {
+            "Code": "139919",
+            "Name": "Tanumshede",
+            "NameAr": "تانومسهيدي"
+        },
+        {
+            "Code": "107161",
+            "Name": "Tarnaby",
+            "NameAr": "تارنابي"
+        },
+        {
+            "Code": "107173",
+            "Name": "Tibro",
+            "NameAr": "تيبرو"
+        },
+        {
+            "Code": "151599",
+            "Name": "Tierp",
+            "NameAr": "تييرب"
+        },
+        {
+            "Code": "140040",
+            "Name": "Tingsryd",
+            "NameAr": "تينجسريد"
+        },
+        {
+            "Code": "108611",
+            "Name": "Tingstade",
+            "NameAr": "تينجستادي"
+        },
+        {
+            "Code": "216099",
+            "Name": "Tived",
+            "NameAr": "تيفيد"
+        },
+        {
+            "Code": "141064",
+            "Name": "Tocksfors",
+            "NameAr": "توككسفورس"
+        },
+        {
+            "Code": "140050",
+            "Name": "Tofta",
+            "NameAr": "توفتا"
+        },
+        {
+            "Code": "141070",
+            "Name": "Tomelilla",
+            "NameAr": "توميليللا"
+        },
+        {
+            "Code": "139334",
+            "Name": "Tommarp",
+            "NameAr": "توممارب"
+        },
+        {
+            "Code": "140063",
+            "Name": "Toreboda",
+            "NameAr": "توريبودا"
+        },
+        {
+            "Code": "140331",
+            "Name": "Torekov",
+            "NameAr": "توريكوف"
+        },
+        {
+            "Code": "107106",
+            "Name": "Torpshammar",
+            "NameAr": "توربسهاممار"
+        },
+        {
+            "Code": "140071",
+            "Name": "Torsby",
+            "NameAr": "تورسبي"
+        },
+        {
+            "Code": "139368",
+            "Name": "Tranas",
+            "NameAr": "تراناس"
+        },
+        {
+            "Code": "140518",
+            "Name": "Trehorningsjo",
+            "NameAr": "تريهورنينجسجو"
+        },
+        {
+            "Code": "140641",
+            "Name": "Trelleborg",
+            "NameAr": "تريلليبورج"
+        },
+        {
+            "Code": "141193",
+            "Name": "Trensum",
+            "NameAr": "ترينسوم"
+        },
+        {
+            "Code": "140380",
+            "Name": "Trollhattan",
+            "NameAr": "تروللهاتتان"
+        },
+        {
+            "Code": "141206",
+            "Name": "Trosa",
+            "NameAr": "تروسا"
+        },
+        {
+            "Code": "107802",
+            "Name": "Tvaaker",
+            "NameAr": "تفااكير"
+        },
+        {
+            "Code": "141236",
+            "Name": "Tynningo - Vaxholm Island",
+            "NameAr": "تيننينجو - فاكسهولم يسلاند"
+        },
+        {
+            "Code": "141237",
+            "Name": "Tyringe",
+            "NameAr": "تيرينجي"
+        },
+        {
+            "Code": "108634",
+            "Name": "Uddeholm",
+            "NameAr": "ودديهولم"
+        },
+        {
+            "Code": "141240",
+            "Name": "Uddevalla",
+            "NameAr": "ودديفاللا"
+        },
+        {
+            "Code": "141089",
+            "Name": "Ukna",
+            "NameAr": "وكنا"
+        },
+        {
+            "Code": "108638",
+            "Name": "Ullanger",
+            "NameAr": "وللانجير"
+        },
+        {
+            "Code": "141091",
+            "Name": "Ullared",
+            "NameAr": "وللاريد"
+        },
+        {
+            "Code": "140534",
+            "Name": "Ulricehamn",
+            "NameAr": "ولريكيهامن"
+        },
+        {
+            "Code": "107932",
+            "Name": "Ulvohamn",
+            "NameAr": "ولفوهامن"
+        },
+        {
+            "Code": "141834",
+            "Name": "Umea",
+            "NameAr": "وميا"
+        },
+        {
+            "Code": "141257",
+            "Name": "Undenas - Karlsborg",
+            "NameAr": "ونديناس - كارلسبورج"
+        },
+        {
+            "Code": "141098",
+            "Name": "Undersaker",
+            "NameAr": "ونديرساكير"
+        },
+        {
+            "Code": "141845",
+            "Name": "Uppsala",
+            "NameAr": "وببسالا"
+        },
+        {
+            "Code": "140142",
+            "Name": "Uto",
+            "NameAr": "وتو"
+        },
+        {
+            "Code": "148404",
+            "Name": "Vadstena",
+            "NameAr": "فادستينا"
+        },
+        {
+            "Code": "107946",
+            "Name": "Valadalen",
+            "NameAr": "فالادالين"
+        },
+        {
+            "Code": "140579",
+            "Name": "Valdemarsvik",
+            "NameAr": "فالديمارسفيك"
+        },
+        {
+            "Code": "107850",
+            "Name": "Vallentuna",
+            "NameAr": "فاللينتونا"
+        },
+        {
+            "Code": "140171",
+            "Name": "Vallsta",
+            "NameAr": "فاللستا"
+        },
+        {
+            "Code": "141616",
+            "Name": "Vanersborg",
+            "NameAr": "فانيرسبورج"
+        },
+        {
+            "Code": "107679",
+            "Name": "Vannas",
+            "NameAr": "فانناس"
+        },
+        {
+            "Code": "107127",
+            "Name": "Vansbro",
+            "NameAr": "فانسبرو"
+        },
+        {
+            "Code": "371048",
+            "Name": "Vara",
+            "NameAr": "فارا"
+        },
+        {
+            "Code": "141972",
+            "Name": "Varberg",
+            "NameAr": "فاربيرج"
+        },
+        {
+            "Code": "106876",
+            "Name": "Varby",
+            "NameAr": "فاربي"
+        },
+        {
+            "Code": "141150",
+            "Name": "Vargarda",
+            "NameAr": "فارجاردا"
+        },
+        {
+            "Code": "140182",
+            "Name": "Vargon",
+            "NameAr": "فارجون"
+        },
+        {
+            "Code": "141623",
+            "Name": "Varmdo",
+            "NameAr": "فارمدو"
+        },
+        {
+            "Code": "156431",
+            "Name": "Varmland County",
+            "NameAr": "فارملاند كوونتي"
+        },
+        {
+            "Code": "141454",
+            "Name": "Varnamo",
+            "NameAr": "فارنامو"
+        },
+        {
+            "Code": "141982",
+            "Name": "Vasteras",
+            "NameAr": "فاستيراس"
+        },
+        {
+            "Code": "148439",
+            "Name": "Vasterhaninge",
+            "NameAr": "فاستيرهانينجي"
+        },
+        {
+            "Code": "141458",
+            "Name": "Vasterlanda",
+            "NameAr": "فاستيرلاندا"
+        },
+        {
+            "Code": "148440",
+            "Name": "Vastervik",
+            "NameAr": "فاستيرفيك"
+        },
+        {
+            "Code": "140612",
+            "Name": "Vaxjo",
+            "NameAr": "فاكسجو"
+        },
+        {
+            "Code": "237429",
+            "Name": "Vedevag",
+            "NameAr": "فيديفاج"
+        },
+        {
+            "Code": "107954",
+            "Name": "Vejbystrand",
+            "NameAr": "فيجبيستراند"
+        },
+        {
+            "Code": "148458",
+            "Name": "Vellinge",
+            "NameAr": "فيللينجي"
+        },
+        {
+            "Code": "141165",
+            "Name": "Vemdalen",
+            "NameAr": "فيمدالين"
+        },
+        {
+            "Code": "142008",
+            "Name": "Vetlanda",
+            "NameAr": "فيتلاندا"
+        },
+        {
+            "Code": "140887",
+            "Name": "Vidsel",
+            "NameAr": "فيدسيل"
+        },
+        {
+            "Code": "141333",
+            "Name": "Vilhelmina",
+            "NameAr": "فيلهيلمينا"
+        },
+        {
+            "Code": "141895",
+            "Name": "Vimmerby",
+            "NameAr": "فيمميربي"
+        },
+        {
+            "Code": "107578",
+            "Name": "Vindeln",
+            "NameAr": "فينديلن"
+        },
+        {
+            "Code": "141361",
+            "Name": "Vingaker",
+            "NameAr": "فينجاكير"
+        },
+        {
+            "Code": "141366",
+            "Name": "Virserum",
+            "NameAr": "فيرسيروم"
+        },
+        {
+            "Code": "142068",
+            "Name": "Visby",
+            "NameAr": "فيسبي"
+        },
+        {
+            "Code": "142071",
+            "Name": "Visingso",
+            "NameAr": "فيسينجسو"
+        },
+        {
+            "Code": "107974",
+            "Name": "Vitemolla",
+            "NameAr": "فيتيموللا"
+        },
+        {
+            "Code": "142225",
+            "Name": "Vrigstad",
+            "NameAr": "فريجستاد"
+        },
+        {
+            "Code": "142462",
+            "Name": "Yngsjo",
+            "NameAr": "ينجسجو"
+        },
+        {
+            "Code": "143904",
+            "Name": "Ystad",
+            "NameAr": "يستاد"
+        },
+        {
+            "Code": "143810",
+            "Name": "Ytterby",
+            "NameAr": "يتتيربي"
+        }
+    ],
+    "totalCities": 528
+}

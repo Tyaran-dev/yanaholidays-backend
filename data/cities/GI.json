@@ -1,0 +1,12 @@
+{
+    "id": "GI",
+    "countryCode": "GI",
+    "cities": [
+        {
+            "Code": "118976",
+            "Name": "Gibraltar",
+            "NameAr": "جيبرالتار"
+        }
+    ],
+    "totalCities": 1
+}

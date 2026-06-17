@@ -1,0 +1,2102 @@
+{
+    "id": "ZA",
+    "countryCode": "ZA",
+    "cities": [
+        {
+            "Code": "100658",
+            "Name": "Addo Elephant National Park",
+            "NameAr": "اددو يليبهانت ناتيونال بارك"
+        },
+        {
+            "Code": "295075",
+            "Name": "Adelaide",
+            "NameAr": "اديلايدي"
+        },
+        {
+            "Code": "148845",
+            "Name": "Aggeneys",
+            "NameAr": "اججينييس"
+        },
+        {
+            "Code": "100172",
+            "Name": "Albertina",
+            "NameAr": "البيرتينا"
+        },
+        {
+            "Code": "100705",
+            "Name": "Alberton",
+            "NameAr": "البيرتون"
+        },
+        {
+            "Code": "151050",
+            "Name": "Alexander Bay",
+            "NameAr": "اليكساندير باي"
+        },
+        {
+            "Code": "100193",
+            "Name": "Alicedale",
+            "NameAr": "اليكيدالي"
+        },
+        {
+            "Code": "151413",
+            "Name": "Alldays",
+            "NameAr": "اللدايس"
+        },
+        {
+            "Code": "109192",
+            "Name": "Amakhala Game Reserve",
+            "NameAr": "اماكهالا جامي ريسيرفي"
+        },
+        {
+            "Code": "109310",
+            "Name": "Amanzimtoti",
+            "NameAr": "امانزيمتوتي"
+        },
+        {
+            "Code": "110295",
+            "Name": "Arniston",
+            "NameAr": "ارنيستون"
+        },
+        {
+            "Code": "109627",
+            "Name": "Ashkam",
+            "NameAr": "اسهكام"
+        },
+        {
+            "Code": "403240",
+            "Name": "Augrabies",
+            "NameAr": "اوجرابييس"
+        },
+        {
+            "Code": "109782",
+            "Name": "Babanango",
+            "NameAr": "بابانانجو"
+        },
+        {
+            "Code": "110741",
+            "Name": "Badplaas",
+            "NameAr": "بادبلااس"
+        },
+        {
+            "Code": "101488",
+            "Name": "Balfour",
+            "NameAr": "بالفوور"
+        },
+        {
+            "Code": "110173",
+            "Name": "Ballito",
+            "NameAr": "بالليتو"
+        },
+        {
+            "Code": "109835",
+            "Name": "Balule Nature Reserve",
+            "NameAr": "بالولي ناتوري ريسيرفي"
+        },
+        {
+            "Code": "144102",
+            "Name": "Barberton",
+            "NameAr": "باربيرتون"
+        },
+        {
+            "Code": "110803",
+            "Name": "Barrydale",
+            "NameAr": "بارريدالي"
+        },
+        {
+            "Code": "110903",
+            "Name": "Beaufort West",
+            "NameAr": "بياوفورت ويست"
+        },
+        {
+            "Code": "111864",
+            "Name": "Bedfordview",
+            "NameAr": "بيدفوردفييو"
+        },
+        {
+            "Code": "110563",
+            "Name": "Behoudeniskloof",
+            "NameAr": "بيهوودينيسكلووف"
+        },
+        {
+            "Code": "110477",
+            "Name": "Bela-Bela",
+            "NameAr": "بيلا-بيلا"
+        },
+        {
+            "Code": "111900",
+            "Name": "Benoni",
+            "NameAr": "بينوني"
+        },
+        {
+            "Code": "110509",
+            "Name": "Bereaville",
+            "NameAr": "بيريافيللي"
+        },
+        {
+            "Code": "111671",
+            "Name": "Bergville",
+            "NameAr": "بيرجفيللي"
+        },
+        {
+            "Code": "105044",
+            "Name": "Bethal",
+            "NameAr": "بيتهال"
+        },
+        {
+            "Code": "111747",
+            "Name": "Bethlehem",
+            "NameAr": "بيتهليهيم"
+        },
+        {
+            "Code": "111477",
+            "Name": "Betty's Bay",
+            "NameAr": "بيتتيس باي"
+        },
+        {
+            "Code": "150485",
+            "Name": "Bisho",
+            "NameAr": "بيسهو"
+        },
+        {
+            "Code": "111333",
+            "Name": "Bloemfontein",
+            "NameAr": "بلويمفونتيين"
+        },
+        {
+            "Code": "389246",
+            "Name": "Bloemhof",
+            "NameAr": "بلويمهوف"
+        },
+        {
+            "Code": "111239",
+            "Name": "Bloubergstrand",
+            "NameAr": "بلووبيرجستراند"
+        },
+        {
+            "Code": "272377",
+            "Name": "Blue Horizon Bay",
+            "NameAr": "بلوي هوريزون باي"
+        },
+        {
+            "Code": "144287",
+            "Name": "Blythedale Beach",
+            "NameAr": "بليتهيدالي بياكه"
+        },
+        {
+            "Code": "287221",
+            "Name": "Bojanala",
+            "NameAr": "بوجانالا"
+        },
+        {
+            "Code": "111818",
+            "Name": "Boksburg",
+            "NameAr": "بوكسبورج"
+        },
+        {
+            "Code": "112234",
+            "Name": "Bonnievale",
+            "NameAr": "بوننييفالي"
+        },
+        {
+            "Code": "112248",
+            "Name": "Botha's Hill",
+            "NameAr": "بوتهاس هيلل"
+        },
+        {
+            "Code": "112472",
+            "Name": "Botrivier",
+            "NameAr": "بوتريفيير"
+        },
+        {
+            "Code": "112547",
+            "Name": "Bredasdorp",
+            "NameAr": "بريداسدورب"
+        },
+        {
+            "Code": "105318",
+            "Name": "Brits",
+            "NameAr": "بريتس"
+        },
+        {
+            "Code": "105210",
+            "Name": "Broederstroom",
+            "NameAr": "برويديرسترووم"
+        },
+        {
+            "Code": "112579",
+            "Name": "Bronkhorstspruit",
+            "NameAr": "برونكهورستسبرويت"
+        },
+        {
+            "Code": "112983",
+            "Name": "Bryanston",
+            "NameAr": "بريانستون"
+        },
+        {
+            "Code": "113001",
+            "Name": "Bulwer",
+            "NameAr": "بولوير"
+        },
+        {
+            "Code": "112730",
+            "Name": "Burgersfort",
+            "NameAr": "بورجيرسفورت"
+        },
+        {
+            "Code": "150425",
+            "Name": "Butterworth",
+            "NameAr": "بوتتيروورته"
+        },
+        {
+            "Code": "114140",
+            "Name": "Caledon",
+            "NameAr": "كاليدون"
+        },
+        {
+            "Code": "144476",
+            "Name": "Calitzdorp",
+            "NameAr": "كاليتزدورب"
+        },
+        {
+            "Code": "113718",
+            "Name": "Calvinia",
+            "NameAr": "كالفينيا"
+        },
+        {
+            "Code": "144527",
+            "Name": "Cape Town",
+            "NameAr": "كيب تاون"
+        },
+        {
+            "Code": "114575",
+            "Name": "Cederberg",
+            "NameAr": "كيديربيرج"
+        },
+        {
+            "Code": "144600",
+            "Name": "Centurion (near Pretoria)",
+            "NameAr": "كينتوريون نيار بريتوريا"
+        },
+        {
+            "Code": "114085",
+            "Name": "Ceres",
+            "NameAr": "كيريس"
+        },
+        {
+            "Code": "114951",
+            "Name": "Chartwell",
+            "NameAr": "كهارتويلل"
+        },
+        {
+            "Code": "114662",
+            "Name": "Chintsa Bay",
+            "NameAr": "كهينتسا باي"
+        },
+        {
+            "Code": "114762",
+            "Name": "Christiana",
+            "NameAr": "كهريستيانا"
+        },
+        {
+            "Code": "114375",
+            "Name": "Citrusdal",
+            "NameAr": "كيتروسدال"
+        },
+        {
+            "Code": "144700",
+            "Name": "Ciudad del Cabo",
+            "NameAr": "كيوداد ديل كابو"
+        },
+        {
+            "Code": "115223",
+            "Name": "Clanwilliam",
+            "NameAr": "كلانويلليام"
+        },
+        {
+            "Code": "115225",
+            "Name": "Clarens",
+            "NameAr": "كلارينس"
+        },
+        {
+            "Code": "115805",
+            "Name": "Clifton",
+            "NameAr": "كليفتون"
+        },
+        {
+            "Code": "144731",
+            "Name": "Coffee Bay",
+            "NameAr": "كوففيي باي"
+        },
+        {
+            "Code": "115318",
+            "Name": "Cowies Hill",
+            "NameAr": "كووييس هيلل"
+        },
+        {
+            "Code": "115058",
+            "Name": "Cradock",
+            "NameAr": "كرادوكك"
+        },
+        {
+            "Code": "116114",
+            "Name": "Culinan",
+            "NameAr": "كولينان"
+        },
+        {
+            "Code": "116116",
+            "Name": "Cullinan",
+            "NameAr": "كوللينان"
+        },
+        {
+            "Code": "116147",
+            "Name": "Darling",
+            "NameAr": "دارلينج"
+        },
+        {
+            "Code": "115646",
+            "Name": "De Aaar",
+            "NameAr": "دي ااار"
+        },
+        {
+            "Code": "116055",
+            "Name": "De Hoop",
+            "NameAr": "دي هووب"
+        },
+        {
+            "Code": "116640",
+            "Name": "De Kelders",
+            "NameAr": "دي كيلديرس"
+        },
+        {
+            "Code": "116056",
+            "Name": "De Rust",
+            "NameAr": "دي روست"
+        },
+        {
+            "Code": "144964",
+            "Name": "Draaikraal",
+            "NameAr": "دراايكراال"
+        },
+        {
+            "Code": "116385",
+            "Name": "Draasloot",
+            "NameAr": "درااسلووت"
+        },
+        {
+            "Code": "144966",
+            "Name": "Drakensberg",
+            "NameAr": "دراكينسبيرج"
+        },
+        {
+            "Code": "115945",
+            "Name": "Dullstroom",
+            "NameAr": "دوللسترووم"
+        },
+        {
+            "Code": "102322",
+            "Name": "Dundee",
+            "NameAr": "دونديي"
+        },
+        {
+            "Code": "115957",
+            "Name": "Durban",
+            "NameAr": "دوربان"
+        },
+        {
+            "Code": "117434",
+            "Name": "Durbanville",
+            "NameAr": "دوربانفيللي"
+        },
+        {
+            "Code": "117441",
+            "Name": "East London",
+            "NameAr": "ياست لوندون"
+        },
+        {
+            "Code": "117058",
+            "Name": "Eastern Cape",
+            "NameAr": "ياستيرن كابي"
+        },
+        {
+            "Code": "145033",
+            "Name": "Edenvale",
+            "NameAr": "يدينفالي"
+        },
+        {
+            "Code": "117145",
+            "Name": "Elands Bay",
+            "NameAr": "يلاندس باي"
+        },
+        {
+            "Code": "397169",
+            "Name": "Elgin",
+            "NameAr": "يلجين"
+        },
+        {
+            "Code": "145083",
+            "Name": "Elysium",
+            "NameAr": "يليسيوم"
+        },
+        {
+            "Code": "117231",
+            "Name": "Empangeni",
+            "NameAr": "يمبانجيني"
+        },
+        {
+            "Code": "117182",
+            "Name": "Ermelo",
+            "NameAr": "يرميلو"
+        },
+        {
+            "Code": "118106",
+            "Name": "Eshowe",
+            "NameAr": "يسهووي"
+        },
+        {
+            "Code": "117850",
+            "Name": "Estcourt",
+            "NameAr": "يستكوورت"
+        },
+        {
+            "Code": "145128",
+            "Name": "Evander",
+            "NameAr": "يفاندير"
+        },
+        {
+            "Code": "118558",
+            "Name": "Ficksburg",
+            "NameAr": "فيككسبورج"
+        },
+        {
+            "Code": "145196",
+            "Name": "Fish Hoek",
+            "NameAr": "فيسه هويك"
+        },
+        {
+            "Code": "118492",
+            "Name": "Fort Nottingham",
+            "NameAr": "فورت نوتتينجهام"
+        },
+        {
+            "Code": "118611",
+            "Name": "Fouriesburg",
+            "NameAr": "فوورييسبورج"
+        },
+        {
+            "Code": "118201",
+            "Name": "Fourways",
+            "NameAr": "فووروايس"
+        },
+        {
+            "Code": "118356",
+            "Name": "Franschhoek",
+            "NameAr": "فرانسكههويك"
+        },
+        {
+            "Code": "119010",
+            "Name": "Franskraal",
+            "NameAr": "فرانسكراال"
+        },
+        {
+            "Code": "118658",
+            "Name": "Gaansbai",
+            "NameAr": "جاانسباي"
+        },
+        {
+            "Code": "119223",
+            "Name": "Gansbaai",
+            "NameAr": "جانسبااي"
+        },
+        {
+            "Code": "348640",
+            "Name": "Gariepdam",
+            "NameAr": "جارييبدام"
+        },
+        {
+            "Code": "119085",
+            "Name": "Gateway",
+            "NameAr": "جاتيواي"
+        },
+        {
+            "Code": "119628",
+            "Name": "Gauteng",
+            "NameAr": "جاوتينج"
+        },
+        {
+            "Code": "119644",
+            "Name": "George",
+            "NameAr": "جيورجي"
+        },
+        {
+            "Code": "119278",
+            "Name": "Giyani",
+            "NameAr": "جيياني"
+        },
+        {
+            "Code": "120353",
+            "Name": "Golden Gate Highlands",
+            "NameAr": "جولدين جاتي هيجهلاندس"
+        },
+        {
+            "Code": "119315",
+            "Name": "Gordon''s Bay",
+            "NameAr": "جوردونس باي"
+        },
+        {
+            "Code": "119177",
+            "Name": "Graaff - Reinet",
+            "NameAr": "جراافف - ريينيت"
+        },
+        {
+            "Code": "145407",
+            "Name": "Grahamstown",
+            "NameAr": "جراهامستوون"
+        },
+        {
+            "Code": "145425",
+            "Name": "Graskop",
+            "NameAr": "جراسكوب"
+        },
+        {
+            "Code": "119713",
+            "Name": "Gravelotte",
+            "NameAr": "جرافيلوتتي"
+        },
+        {
+            "Code": "120127",
+            "Name": "Greyton",
+            "NameAr": "جرييتون"
+        },
+        {
+            "Code": "145503",
+            "Name": "Haenertsburg",
+            "NameAr": "هاينيرتسبورج"
+        },
+        {
+            "Code": "120077",
+            "Name": "Haga Haga",
+            "NameAr": "هاجا هاجا"
+        },
+        {
+            "Code": "108283",
+            "Name": "Hammanskraal",
+            "NameAr": "هاممانسكراال"
+        },
+        {
+            "Code": "121181",
+            "Name": "Hanover",
+            "NameAr": "هانوفير"
+        },
+        {
+            "Code": "119966",
+            "Name": "Harding",
+            "NameAr": "هاردينج"
+        },
+        {
+            "Code": "120611",
+            "Name": "Harrismith",
+            "NameAr": "هارريسميته"
+        },
+        {
+            "Code": "120217",
+            "Name": "Hartbeespoort",
+            "NameAr": "هارتبييسبوورت"
+        },
+        {
+            "Code": "102432",
+            "Name": "Hartenbos",
+            "NameAr": "هارتينبوس"
+        },
+        {
+            "Code": "121866",
+            "Name": "Hazyview",
+            "NameAr": "هازيفييو"
+        },
+        {
+            "Code": "120520",
+            "Name": "Hectorspruit",
+            "NameAr": "هيكتورسبرويت"
+        },
+        {
+            "Code": "121875",
+            "Name": "Heidelberg (Gauteng)",
+            "NameAr": "هييديلبيرج جاوتينج"
+        },
+        {
+            "Code": "417355",
+            "Name": "Heilbron",
+            "NameAr": "هييلبرون"
+        },
+        {
+            "Code": "120677",
+            "Name": "Hermanus",
+            "NameAr": "هيرمانوس"
+        },
+        {
+            "Code": "120681",
+            "Name": "Hermon",
+            "NameAr": "هيرمون"
+        },
+        {
+            "Code": "145616",
+            "Name": "Hillcrest",
+            "NameAr": "هيللكريست"
+        },
+        {
+            "Code": "145619",
+            "Name": "Himeville",
+            "NameAr": "هيميفيللي"
+        },
+        {
+            "Code": "121237",
+            "Name": "Hluhluwe",
+            "NameAr": "هلوهلووي"
+        },
+        {
+            "Code": "145635",
+            "Name": "Hoedspruit",
+            "NameAr": "هويدسبرويت"
+        },
+        {
+            "Code": "121368",
+            "Name": "Hogsback",
+            "NameAr": "هوجسباكك"
+        },
+        {
+            "Code": "121411",
+            "Name": "Hout Bay",
+            "NameAr": "هووت باي"
+        },
+        {
+            "Code": "122024",
+            "Name": "Inyati",
+            "NameAr": "ينياتي"
+        },
+        {
+            "Code": "121748",
+            "Name": "Irene",
+            "NameAr": "يريني"
+        },
+        {
+            "Code": "122032",
+            "Name": "Isandlwana",
+            "NameAr": "يساندلوانا"
+        },
+        {
+            "Code": "145786",
+            "Name": "Ithala Game Reserve",
+            "NameAr": "يتهالا جامي ريسيرفي"
+        },
+        {
+            "Code": "145804",
+            "Name": "Jacobs Bay",
+            "NameAr": "جاكوبس باي"
+        },
+        {
+            "Code": "122173",
+            "Name": "Jagersrust",
+            "NameAr": "جاجيرسروست"
+        },
+        {
+            "Code": "149940",
+            "Name": "Jamestown",
+            "NameAr": "جاميستوون"
+        },
+        {
+            "Code": "122860",
+            "Name": "Jeffreys Bay",
+            "NameAr": "جيففرييس باي"
+        },
+        {
+            "Code": "145838",
+            "Name": "Johannesburg",
+            "NameAr": "جوهانسبرغ"
+        },
+        {
+            "Code": "122484",
+            "Name": "Jongensfontein",
+            "NameAr": "جونجينسفونتيين"
+        },
+        {
+            "Code": "122891",
+            "Name": "Jozini",
+            "NameAr": "جوزيني"
+        },
+        {
+            "Code": "122898",
+            "Name": "Kaapmuiden",
+            "NameAr": "كاابمويدين"
+        },
+        {
+            "Code": "329513",
+            "Name": "Kai !Garib",
+            "NameAr": "كاي جاريب"
+        },
+        {
+            "Code": "122803",
+            "Name": "Kakamas",
+            "NameAr": "كاكاماس"
+        },
+        {
+            "Code": "121842",
+            "Name": "Kamberg",
+            "NameAr": "كامبيرج"
+        },
+        {
+            "Code": "122839",
+            "Name": "Kariega Game Reserve",
+            "NameAr": "كارييجا جامي ريسيرفي"
+        },
+        {
+            "Code": "122276",
+            "Name": "Karongwe Game Reserve",
+            "NameAr": "كارونجوي جامي ريسيرفي"
+        },
+        {
+            "Code": "290581",
+            "Name": "Kathu",
+            "NameAr": "كاتهو"
+        },
+        {
+            "Code": "103956",
+            "Name": "Kayser's Beach",
+            "NameAr": "كايسيرس بياكه"
+        },
+        {
+            "Code": "124201",
+            "Name": "Kei Mouth",
+            "NameAr": "كيي مووته"
+        },
+        {
+            "Code": "124202",
+            "Name": "Keimoes",
+            "NameAr": "كييمويس"
+        },
+        {
+            "Code": "123532",
+            "Name": "Kelso",
+            "NameAr": "كيلسو"
+        },
+        {
+            "Code": "122974",
+            "Name": "Kempton Park",
+            "NameAr": "كيمبتون بارك"
+        },
+        {
+            "Code": "122561",
+            "Name": "Kenton on Sea",
+            "NameAr": "كينتون ون سيا"
+        },
+        {
+            "Code": "124218",
+            "Name": "Kenton-on-Sea",
+            "NameAr": "كينتون-ون-سيا"
+        },
+        {
+            "Code": "123256",
+            "Name": "Kgalagadi",
+            "NameAr": "كجالاجادي"
+        },
+        {
+            "Code": "103963",
+            "Name": "Kidd's Beach",
+            "NameAr": "كيددس بياكه"
+        },
+        {
+            "Code": "123261",
+            "Name": "Kiepersol",
+            "NameAr": "كييبيرسول"
+        },
+        {
+            "Code": "145947",
+            "Name": "Kimberley",
+            "NameAr": "كيمبيرليي"
+        },
+        {
+            "Code": "123285",
+            "Name": "Kirkwood",
+            "NameAr": "كيركووود"
+        },
+        {
+            "Code": "123711",
+            "Name": "Klaserie Private Nature Reserve",
+            "NameAr": "كلاسيريي بريفاتي ناتوري ريسيرفي"
+        },
+        {
+            "Code": "101681",
+            "Name": "Klawer",
+            "NameAr": "كلاوير"
+        },
+        {
+            "Code": "145975",
+            "Name": "Klein Drakenstein",
+            "NameAr": "كليين دراكينستيين"
+        },
+        {
+            "Code": "122616",
+            "Name": "Kleinmond",
+            "NameAr": "كليينموند"
+        },
+        {
+            "Code": "151130",
+            "Name": "Kleinzee",
+            "NameAr": "كليينزيي"
+        },
+        {
+            "Code": "123592",
+            "Name": "Klerksdorp",
+            "NameAr": "كليركسدورب"
+        },
+        {
+            "Code": "103973",
+            "Name": "Kloof",
+            "NameAr": "كلووف"
+        },
+        {
+            "Code": "123971",
+            "Name": "Knysna",
+            "NameAr": "كنيسنا"
+        },
+        {
+            "Code": "145995",
+            "Name": "Kokstad",
+            "NameAr": "كوكستاد"
+        },
+        {
+            "Code": "123743",
+            "Name": "Komatipoort",
+            "NameAr": "كوماتيبوورت"
+        },
+        {
+            "Code": "123618",
+            "Name": "Kommetjie",
+            "NameAr": "كومميتجيي"
+        },
+        {
+            "Code": "124962",
+            "Name": "Kosi Bay",
+            "NameAr": "كوسي باي"
+        },
+        {
+            "Code": "146023",
+            "Name": "Kransberg Nationalpark",
+            "NameAr": "كرانسبيرج ناتيونالبارك"
+        },
+        {
+            "Code": "382176",
+            "Name": "Kroonstad",
+            "NameAr": "كروونستاد"
+        },
+        {
+            "Code": "124029",
+            "Name": "Kruger National Park",
+            "NameAr": "كروجير ناتيونال بارك"
+        },
+        {
+            "Code": "146038",
+            "Name": "Krugersdorp",
+            "NameAr": "كروجيرسدورب"
+        },
+        {
+            "Code": "124037",
+            "Name": "Kuils River",
+            "NameAr": "كويلس ريفير"
+        },
+        {
+            "Code": "123782",
+            "Name": "Kuruman",
+            "NameAr": "كورومان"
+        },
+        {
+            "Code": "125020",
+            "Name": "Kwa-Madwala-Wildreservat",
+            "NameAr": "كوا-مادوالا-ويلدريسيرفات"
+        },
+        {
+            "Code": "123788",
+            "Name": "KwaDukuza",
+            "NameAr": "كوادوكوزا"
+        },
+        {
+            "Code": "124326",
+            "Name": "Kwazulu Natal",
+            "NameAr": "كوازولو ناتال"
+        },
+        {
+            "Code": "125749",
+            "Name": "L'Agulhas",
+            "NameAr": "لاجولهاس"
+        },
+        {
+            "Code": "146094",
+            "Name": "Ladismith",
+            "NameAr": "لاديسميته"
+        },
+        {
+            "Code": "124388",
+            "Name": "Ladybrand",
+            "NameAr": "لاديبراند"
+        },
+        {
+            "Code": "124072",
+            "Name": "Ladysmith",
+            "NameAr": "لاديسميته"
+        },
+        {
+            "Code": "125750",
+            "Name": "Laingsburg",
+            "NameAr": "لاينجسبورج"
+        },
+        {
+            "Code": "125191",
+            "Name": "Lalibela Game Reserve",
+            "NameAr": "لاليبيلا جامي ريسيرفي"
+        },
+        {
+            "Code": "124786",
+            "Name": "Lamberts Bay",
+            "NameAr": "لامبيرتس باي"
+        },
+        {
+            "Code": "124799",
+            "Name": "Langebaan",
+            "NameAr": "لانجيباان"
+        },
+        {
+            "Code": "146137",
+            "Name": "Langebaanweg",
+            "NameAr": "لانجيباانويج"
+        },
+        {
+            "Code": "124129",
+            "Name": "Lanseria",
+            "NameAr": "لانسيريا"
+        },
+        {
+            "Code": "125544",
+            "Name": "Lephalale",
+            "NameAr": "ليبهالالي"
+        },
+        {
+            "Code": "125558",
+            "Name": "Letsitele",
+            "NameAr": "ليتسيتيلي"
+        },
+        {
+            "Code": "146268",
+            "Name": "Lichtenburg",
+            "NameAr": "ليكهتينبورج"
+        },
+        {
+            "Code": "126559",
+            "Name": "Limpopo (Provinz)",
+            "NameAr": "ليمبوبو بروفينز"
+        },
+        {
+            "Code": "126046",
+            "Name": "Louis Trichardt",
+            "NameAr": "لوويس تريكهاردت"
+        },
+        {
+            "Code": "150893",
+            "Name": "Lusikisiki",
+            "NameAr": "لوسيكيسيكي"
+        },
+        {
+            "Code": "104311",
+            "Name": "Lutsheni",
+            "NameAr": "لوتسهيني"
+        },
+        {
+            "Code": "126080",
+            "Name": "Lutzville",
+            "NameAr": "لوتزفيللي"
+        },
+        {
+            "Code": "127054",
+            "Name": "Lydenburg",
+            "NameAr": "ليدينبورج"
+        },
+        {
+            "Code": "126741",
+            "Name": "Mabibi",
+            "NameAr": "مابيبي"
+        },
+        {
+            "Code": "126742",
+            "Name": "Mabula Game Reserve",
+            "NameAr": "مابولا جامي ريسيرفي"
+        },
+        {
+            "Code": "125670",
+            "Name": "Machadodorp",
+            "NameAr": "ماكهادودورب"
+        },
+        {
+            "Code": "149939",
+            "Name": "Machame",
+            "NameAr": "ماكهامي"
+        },
+        {
+            "Code": "126752",
+            "Name": "Madikwe Game Reserve",
+            "NameAr": "ماديكوي جامي ريسيرفي"
+        },
+        {
+            "Code": "146420",
+            "Name": "Mafikeng",
+            "NameAr": "مافيكينج"
+        },
+        {
+            "Code": "127074",
+            "Name": "Magaliesburg",
+            "NameAr": "ماجالييسبورج"
+        },
+        {
+            "Code": "127089",
+            "Name": "Makhado",
+            "NameAr": "ماكهادو"
+        },
+        {
+            "Code": "127358",
+            "Name": "Malelane",
+            "NameAr": "ماليلاني"
+        },
+        {
+            "Code": "146471",
+            "Name": "Manyeleti Game Reserve",
+            "NameAr": "مانييليتي جامي ريسيرفي"
+        },
+        {
+            "Code": "128051",
+            "Name": "Mapungubwe Nationalpark",
+            "NameAr": "مابونجوبوي ناتيونالبارك"
+        },
+        {
+            "Code": "127433",
+            "Name": "Maputaland",
+            "NameAr": "مابوتالاند"
+        },
+        {
+            "Code": "127436",
+            "Name": "Marakele Nationalpark",
+            "NameAr": "ماراكيلي ناتيونالبارك"
+        },
+        {
+            "Code": "127134",
+            "Name": "Marble Hall",
+            "NameAr": "ماربلي هالل"
+        },
+        {
+            "Code": "146497",
+            "Name": "Margate",
+            "NameAr": "مارجاتي"
+        },
+        {
+            "Code": "128079",
+            "Name": "Marloth Park",
+            "NameAr": "مارلوته بارك"
+        },
+        {
+            "Code": "146547",
+            "Name": "Matjiesfontein",
+            "NameAr": "ماتجييسفونتيين"
+        },
+        {
+            "Code": "126464",
+            "Name": "Matlhagame",
+            "NameAr": "ماتلهاجامي"
+        },
+        {
+            "Code": "128135",
+            "Name": "McGregor",
+            "NameAr": "مكجريجور"
+        },
+        {
+            "Code": "127160",
+            "Name": "Melkbosstrand",
+            "NameAr": "ميلكبوسستراند"
+        },
+        {
+            "Code": "126931",
+            "Name": "Melmoth",
+            "NameAr": "ميلموته"
+        },
+        {
+            "Code": "104772",
+            "Name": "Meyerton",
+            "NameAr": "ميييرتون"
+        },
+        {
+            "Code": "128583",
+            "Name": "Middelburg",
+            "NameAr": "ميدديلبورج"
+        },
+        {
+            "Code": "127193",
+            "Name": "Midrand",
+            "NameAr": "ميدراند"
+        },
+        {
+            "Code": "103817",
+            "Name": "Millvale",
+            "NameAr": "ميللفالي"
+        },
+        {
+            "Code": "128246",
+            "Name": "Milnerton",
+            "NameAr": "ميلنيرتون"
+        },
+        {
+            "Code": "151283",
+            "Name": "Mkambati",
+            "NameAr": "مكامباتي"
+        },
+        {
+            "Code": "146655",
+            "Name": "Mkhuhlu",
+            "NameAr": "مكهوهلو"
+        },
+        {
+            "Code": "127797",
+            "Name": "Mkuze",
+            "NameAr": "مكوزي"
+        },
+        {
+            "Code": "150637",
+            "Name": "Mmabatho",
+            "NameAr": "مماباتهو"
+        },
+        {
+            "Code": "127799",
+            "Name": "Mmamatlakala",
+            "NameAr": "مماماتلاكالا"
+        },
+        {
+            "Code": "128313",
+            "Name": "Modimolle",
+            "NameAr": "موديموللي"
+        },
+        {
+            "Code": "128921",
+            "Name": "Mokala",
+            "NameAr": "موكالا"
+        },
+        {
+            "Code": "146684",
+            "Name": "Montagu",
+            "NameAr": "مونتاجو"
+        },
+        {
+            "Code": "128989",
+            "Name": "Mooi River",
+            "NameAr": "مووي ريفير"
+        },
+        {
+            "Code": "129029",
+            "Name": "Mookgopong",
+            "NameAr": "مووكجوبونج"
+        },
+        {
+            "Code": "128531",
+            "Name": "Morgan Bay",
+            "NameAr": "مورجان باي"
+        },
+        {
+            "Code": "146731",
+            "Name": "Morning Sun Nature Reserve",
+            "NameAr": "مورنينج سون ناتوري ريسيرفي"
+        },
+        {
+            "Code": "128542",
+            "Name": "Mossel Bay",
+            "NameAr": "موسسيل باي"
+        },
+        {
+            "Code": "127997",
+            "Name": "Mount Edgecombe",
+            "NameAr": "موونت يدجيكومبي"
+        },
+        {
+            "Code": "129398",
+            "Name": "Mount Moreland",
+            "NameAr": "موونت موريلاند"
+        },
+        {
+            "Code": "129657",
+            "Name": "Mountain Zebra National Park",
+            "NameAr": "موونتاين زيبرا ناتيونال بارك"
+        },
+        {
+            "Code": "146760",
+            "Name": "Mpumalanga",
+            "NameAr": "مبومالانجا"
+        },
+        {
+            "Code": "128011",
+            "Name": "Mtubatuba",
+            "NameAr": "متوباتوبا"
+        },
+        {
+            "Code": "129683",
+            "Name": "Mtunzini",
+            "NameAr": "متونزيني"
+        },
+        {
+            "Code": "130322",
+            "Name": "Muldersdrift",
+            "NameAr": "مولديرسدريفت"
+        },
+        {
+            "Code": "129715",
+            "Name": "Musina",
+            "NameAr": "موسينا"
+        },
+        {
+            "Code": "106539",
+            "Name": "Napier",
+            "NameAr": "نابيير"
+        },
+        {
+            "Code": "130391",
+            "Name": "Nelspruit",
+            "NameAr": "نيلسبرويت"
+        },
+        {
+            "Code": "130456",
+            "Name": "Newcastle",
+            "NameAr": "نيوكاستلي"
+        },
+        {
+            "Code": "155716",
+            "Name": "Ngaka Modiri Molema",
+            "NameAr": "نجاكا موديري موليما"
+        },
+        {
+            "Code": "129991",
+            "Name": "Ngala",
+            "NameAr": "نجالا"
+        },
+        {
+            "Code": "129899",
+            "Name": "Nigel",
+            "NameAr": "نيجيل"
+        },
+        {
+            "Code": "130498",
+            "Name": "Noordhoek",
+            "NameAr": "نووردهويك"
+        },
+        {
+            "Code": "130534",
+            "Name": "Nottingham Road",
+            "NameAr": "نوتتينجهام رواد"
+        },
+        {
+            "Code": "130924",
+            "Name": "Nylstroom",
+            "NameAr": "نيلسترووم"
+        },
+        {
+            "Code": "130615",
+            "Name": "Ohrigstad",
+            "NameAr": "وهريجستاد"
+        },
+        {
+            "Code": "130100",
+            "Name": "Okiep",
+            "NameAr": "وكييب"
+        },
+        {
+            "Code": "131327",
+            "Name": "Oribi Gorge",
+            "NameAr": "وريبي جورجي"
+        },
+        {
+            "Code": "130288",
+            "Name": "Oudtshoorn",
+            "NameAr": "وودتسهوورن"
+        },
+        {
+            "Code": "132012",
+            "Name": "Oyster Bay",
+            "NameAr": "ويستير باي"
+        },
+        {
+            "Code": "130302",
+            "Name": "Paarl",
+            "NameAr": "باارل"
+        },
+        {
+            "Code": "132057",
+            "Name": "Parys",
+            "NameAr": "باريس"
+        },
+        {
+            "Code": "160863",
+            "Name": "Patensie\t\t",
+            "NameAr": "باتينسيي"
+        },
+        {
+            "Code": "131422",
+            "Name": "Paternoster",
+            "NameAr": "باتيرنوستير"
+        },
+        {
+            "Code": "131425",
+            "Name": "Paulpietersburg",
+            "NameAr": "باولبييتيرسبورج"
+        },
+        {
+            "Code": "147147",
+            "Name": "Pennington",
+            "NameAr": "بيننينجتون"
+        },
+        {
+            "Code": "132489",
+            "Name": "Phalaborwa",
+            "NameAr": "بهالابوروا"
+        },
+        {
+            "Code": "382247",
+            "Name": "Philippolis",
+            "NameAr": "بهيليببوليس"
+        },
+        {
+            "Code": "133410",
+            "Name": "Piet Retief",
+            "NameAr": "بييت ريتييف"
+        },
+        {
+            "Code": "131538",
+            "Name": "Pietermaritzburg",
+            "NameAr": "بييتيرماريتزبورج"
+        },
+        {
+            "Code": "101187",
+            "Name": "Pietersburg",
+            "NameAr": "بييتيرسبورج"
+        },
+        {
+            "Code": "132178",
+            "Name": "Piketberg",
+            "NameAr": "بيكيتبيرج"
+        },
+        {
+            "Code": "147196",
+            "Name": "Pilanesberg",
+            "NameAr": "بيلانيسبيرج"
+        },
+        {
+            "Code": "131543",
+            "Name": "Pilgrim' s Rest",
+            "NameAr": "بيلجريم س ريست"
+        },
+        {
+            "Code": "132792",
+            "Name": "Pimville",
+            "NameAr": "بيمفيللي"
+        },
+        {
+            "Code": "133423",
+            "Name": "Pinetown",
+            "NameAr": "بينيتوون"
+        },
+        {
+            "Code": "132334",
+            "Name": "Plattekloof",
+            "NameAr": "بلاتتيكلووف"
+        },
+        {
+            "Code": "132864",
+            "Name": "Plettenberg Bay",
+            "NameAr": "بليتتينبيرج باي"
+        },
+        {
+            "Code": "133509",
+            "Name": "Plumstead",
+            "NameAr": "بلومستياد"
+        },
+        {
+            "Code": "132881",
+            "Name": "Polokwane",
+            "NameAr": "بولوكواني"
+        },
+        {
+            "Code": "147271",
+            "Name": "Pongola",
+            "NameAr": "بونجولا"
+        },
+        {
+            "Code": "147287",
+            "Name": "Port Alfred",
+            "NameAr": "بورت الفريد"
+        },
+        {
+            "Code": "133504",
+            "Name": "Port Edward",
+            "NameAr": "بورت يدوارد"
+        },
+        {
+            "Code": "132393",
+            "Name": "Port Elizabeth",
+            "NameAr": "بورت يليزابيته"
+        },
+        {
+            "Code": "106635",
+            "Name": "Port Nolloth",
+            "NameAr": "بورت نوللوته"
+        },
+        {
+            "Code": "133255",
+            "Name": "Port Shepstone",
+            "NameAr": "بورت سهيبستوني"
+        },
+        {
+            "Code": "133564",
+            "Name": "Port St. Johns",
+            "NameAr": "بورت ست جوهنس"
+        },
+        {
+            "Code": "134294",
+            "Name": "Postmasburg",
+            "NameAr": "بوستماسبورج"
+        },
+        {
+            "Code": "147331",
+            "Name": "Potchefstroom",
+            "NameAr": "بوتكهيفسترووم"
+        },
+        {
+            "Code": "133013",
+            "Name": "Pretoria",
+            "NameAr": "بريتوريا"
+        },
+        {
+            "Code": "133099",
+            "Name": "Primrose",
+            "NameAr": "بريمروسي"
+        },
+        {
+            "Code": "133021",
+            "Name": "Prince Albert",
+            "NameAr": "برينكي البيرت"
+        },
+        {
+            "Code": "132552",
+            "Name": "Pringle Bay",
+            "NameAr": "برينجلي باي"
+        },
+        {
+            "Code": "133130",
+            "Name": "Pumba Private Game Reserve",
+            "NameAr": "بومبا بريفاتي جامي ريسيرفي"
+        },
+        {
+            "Code": "160846",
+            "Name": "Qolora Mouth",
+            "NameAr": "قولورا مووته"
+        },
+        {
+            "Code": "150669",
+            "Name": "Queenstown",
+            "NameAr": "قويينستوون"
+        },
+        {
+            "Code": "135044",
+            "Name": "Randburg",
+            "NameAr": "راندبورج"
+        },
+        {
+            "Code": "134259",
+            "Name": "Rheenendal",
+            "NameAr": "رهيينيندال"
+        },
+        {
+            "Code": "134389",
+            "Name": "Richards Bay",
+            "NameAr": "ريكهاردس باي"
+        },
+        {
+            "Code": "133914",
+            "Name": "Riebeeck West",
+            "NameAr": "رييبييكك ويست"
+        },
+        {
+            "Code": "389083",
+            "Name": "Riebeek Kasteel",
+            "NameAr": "رييبييك كاستييل"
+        },
+        {
+            "Code": "102799",
+            "Name": "Riebeek West",
+            "NameAr": "رييبييك ويست"
+        },
+        {
+            "Code": "134938",
+            "Name": "Riversdale",
+            "NameAr": "ريفيرسدالي"
+        },
+        {
+            "Code": "133371",
+            "Name": "Rivonia",
+            "NameAr": "ريفونيا"
+        },
+        {
+            "Code": "135726",
+            "Name": "Robertson",
+            "NameAr": "روبيرتسون"
+        },
+        {
+            "Code": "134970",
+            "Name": "Rondebosch East",
+            "NameAr": "رونديبوسكه ياست"
+        },
+        {
+            "Code": "134461",
+            "Name": "Roodepoort",
+            "NameAr": "رووديبوورت"
+        },
+        {
+            "Code": "135434",
+            "Name": "Rorke's Drift",
+            "NameAr": "روركيس دريفت"
+        },
+        {
+            "Code": "134470",
+            "Name": "Rosebank",
+            "NameAr": "روسيبانك"
+        },
+        {
+            "Code": "134648",
+            "Name": "Royal Natal",
+            "NameAr": "رويال ناتال"
+        },
+        {
+            "Code": "135788",
+            "Name": "Rustenburg",
+            "NameAr": "روستينبورج"
+        },
+        {
+            "Code": "135157",
+            "Name": "Sabi Sands Game Reserve",
+            "NameAr": "سابي ساندس جامي ريسيرفي"
+        },
+        {
+            "Code": "134678",
+            "Name": "Sabie",
+            "NameAr": "سابيي"
+        },
+        {
+            "Code": "135624",
+            "Name": "Saint Helena Bay",
+            "NameAr": "ساينت هيلينا باي"
+        },
+        {
+            "Code": "135627",
+            "Name": "Saint James",
+            "NameAr": "ساينت جاميس"
+        },
+        {
+            "Code": "134848",
+            "Name": "Saldanha",
+            "NameAr": "سالدانها"
+        },
+        {
+            "Code": "135983",
+            "Name": "Sandton",
+            "NameAr": "ساندتون"
+        },
+        {
+            "Code": "137142",
+            "Name": "Sanipass",
+            "NameAr": "سانيباسس"
+        },
+        {
+            "Code": "103373",
+            "Name": "Sasolburg",
+            "NameAr": "ساسولبورج"
+        },
+        {
+            "Code": "136910",
+            "Name": "Schoemanshoek",
+            "NameAr": "سكهويمانسهويك"
+        },
+        {
+            "Code": "136720",
+            "Name": "Schoemanskloof",
+            "NameAr": "سكهويمانسكلووف"
+        },
+        {
+            "Code": "137929",
+            "Name": "Scottburgh",
+            "NameAr": "سكوتتبورجه"
+        },
+        {
+            "Code": "136249",
+            "Name": "Secunda",
+            "NameAr": "سيكوندا"
+        },
+        {
+            "Code": "136749",
+            "Name": "Sedgefield",
+            "NameAr": "سيدجيفييلد"
+        },
+        {
+            "Code": "137381",
+            "Name": "Shakas Rock",
+            "NameAr": "سهاكاس روكك"
+        },
+        {
+            "Code": "138653",
+            "Name": "Shamwari Game",
+            "NameAr": "سهامواري جامي"
+        },
+        {
+            "Code": "137323",
+            "Name": "Sidbury",
+            "NameAr": "سيدبوري"
+        },
+        {
+            "Code": "138697",
+            "Name": "Simondium",
+            "NameAr": "سيمونديوم"
+        },
+        {
+            "Code": "137032",
+            "Name": "Sir Lowry Pass",
+            "NameAr": "سير لووري باسس"
+        },
+        {
+            "Code": "151668",
+            "Name": "Sishen",
+            "NameAr": "سيسهين"
+        },
+        {
+            "Code": "137048",
+            "Name": "Skukuza",
+            "NameAr": "سكوكوزا"
+        },
+        {
+            "Code": "377223",
+            "Name": "Smithfield",
+            "NameAr": "سميتهفييلد"
+        },
+        {
+            "Code": "138503",
+            "Name": "Southbroom",
+            "NameAr": "سووتهبرووم"
+        },
+        {
+            "Code": "137536",
+            "Name": "Soutpansberg",
+            "NameAr": "سووتبانسبيرج"
+        },
+        {
+            "Code": "138507",
+            "Name": "Soweto",
+            "NameAr": "سوويتو"
+        },
+        {
+            "Code": "147990",
+            "Name": "Springbok",
+            "NameAr": "سبرينجبوك"
+        },
+        {
+            "Code": "139199",
+            "Name": "St. Francis Bay",
+            "NameAr": "ست فرانكيس باي"
+        },
+        {
+            "Code": "137782",
+            "Name": "St. Lucia Wetland Park",
+            "NameAr": "ست لوكيا ويتلاند بارك"
+        },
+        {
+            "Code": "138791",
+            "Name": "Stanford",
+            "NameAr": "ستانفورد"
+        },
+        {
+            "Code": "148059",
+            "Name": "Stellenbosch",
+            "NameAr": "ستيللينبوسكه"
+        },
+        {
+            "Code": "107071",
+            "Name": "Steytlerville",
+            "NameAr": "ستييتليرفيللي"
+        },
+        {
+            "Code": "139517",
+            "Name": "Stilbaai",
+            "NameAr": "ستيلبااي"
+        },
+        {
+            "Code": "140205",
+            "Name": "Storms River",
+            "NameAr": "ستورمس ريفير"
+        },
+        {
+            "Code": "137839",
+            "Name": "Stormsrivier",
+            "NameAr": "ستورمسريفيير"
+        },
+        {
+            "Code": "138933",
+            "Name": "Strand",
+            "NameAr": "ستراند"
+        },
+        {
+            "Code": "137856",
+            "Name": "Struisbaai",
+            "NameAr": "سترويسبااي"
+        },
+        {
+            "Code": "140234",
+            "Name": "Sun City",
+            "NameAr": "سون كيتي"
+        },
+        {
+            "Code": "402461",
+            "Name": "Sutherland",
+            "NameAr": "سوتهيرلاند"
+        },
+        {
+            "Code": "148118",
+            "Name": "Swellendam",
+            "NameAr": "سويلليندام"
+        },
+        {
+            "Code": "148167",
+            "Name": "Taung",
+            "NameAr": "تاونج"
+        },
+        {
+            "Code": "139070",
+            "Name": "Thaba Nchu",
+            "NameAr": "تهابا نكهو"
+        },
+        {
+            "Code": "138639",
+            "Name": "Thohoyandou",
+            "NameAr": "تهوهوياندوو"
+        },
+        {
+            "Code": "141031",
+            "Name": "Thornhill",
+            "NameAr": "تهورنهيلل"
+        },
+        {
+            "Code": "140750",
+            "Name": "Thornybush",
+            "NameAr": "تهورنيبوسه"
+        },
+        {
+            "Code": "139310",
+            "Name": "Timbavati Game Reserve",
+            "NameAr": "تيمبافاتي جامي ريسيرفي"
+        },
+        {
+            "Code": "139326",
+            "Name": "Tokai",
+            "NameAr": "توكاي"
+        },
+        {
+            "Code": "140497",
+            "Name": "Touws River",
+            "NameAr": "توووس ريفير"
+        },
+        {
+            "Code": "140664",
+            "Name": "Tshipsie",
+            "NameAr": "تسهيبسيي"
+        },
+        {
+            "Code": "139833",
+            "Name": "Tsitsikamma",
+            "NameAr": "تسيتسيكامما"
+        },
+        {
+            "Code": "140395",
+            "Name": "Tulbagh",
+            "NameAr": "تولباجه"
+        },
+        {
+            "Code": "139838",
+            "Name": "Tuli Block",
+            "NameAr": "تولي بلوكك"
+        },
+        {
+            "Code": "139850",
+            "Name": "Twee Rivieren",
+            "NameAr": "تويي ريفييرين"
+        },
+        {
+            "Code": "148359",
+            "Name": "Tzaneen",
+            "NameAr": "تزانيين"
+        },
+        {
+            "Code": "141245",
+            "Name": "Uitenhage",
+            "NameAr": "ويتينهاجي"
+        },
+        {
+            "Code": "140536",
+            "Name": "Ulundi",
+            "NameAr": "ولوندي"
+        },
+        {
+            "Code": "140537",
+            "Name": "Ulusaba",
+            "NameAr": "ولوسابا"
+        },
+        {
+            "Code": "141254",
+            "Name": "Umdloti",
+            "NameAr": "ومدلوتي"
+        },
+        {
+            "Code": "141094",
+            "Name": "Umhali Beach",
+            "NameAr": "ومهالي بياكه"
+        },
+        {
+            "Code": "150218",
+            "Name": "Umhlanga",
+            "NameAr": "ومهلانجا"
+        },
+        {
+            "Code": "141835",
+            "Name": "Umhlanga Rocks",
+            "NameAr": "ومهلانجا روككس"
+        },
+        {
+            "Code": "141558",
+            "Name": "Umhloti",
+            "NameAr": "ومهلوتي"
+        },
+        {
+            "Code": "284139",
+            "Name": "Umkhanyakude District Municipality",
+            "NameAr": "ومكهانياكودي ديستريكت مونيكيباليتي"
+        },
+        {
+            "Code": "141095",
+            "Name": "Umkomaas",
+            "NameAr": "ومكومااس"
+        },
+        {
+            "Code": "141559",
+            "Name": "Umtata",
+            "NameAr": "ومتاتا"
+        },
+        {
+            "Code": "107444",
+            "Name": "Umtentweni",
+            "NameAr": "ومتينتويني"
+        },
+        {
+            "Code": "107445",
+            "Name": "Umzimkhulu",
+            "NameAr": "ومزيمكهولو"
+        },
+        {
+            "Code": "140116",
+            "Name": "Underberg",
+            "NameAr": "ونديربيرج"
+        },
+        {
+            "Code": "107842",
+            "Name": "Uniondale",
+            "NameAr": "ونيوندالي"
+        },
+        {
+            "Code": "141264",
+            "Name": "Upington",
+            "NameAr": "وبينجتون"
+        },
+        {
+            "Code": "141585",
+            "Name": "Vaal Marina",
+            "NameAr": "فاال مارينا"
+        },
+        {
+            "Code": "140571",
+            "Name": "Vaalwater",
+            "NameAr": "فاالواتير"
+        },
+        {
+            "Code": "107951",
+            "Name": "Van Reenen",
+            "NameAr": "فان ريينين"
+        },
+        {
+            "Code": "140178",
+            "Name": "Van Wyksdorp",
+            "NameAr": "فان ويكسدورب"
+        },
+        {
+            "Code": "148430",
+            "Name": "Van Zylsrus",
+            "NameAr": "فان زيلسروس"
+        },
+        {
+            "Code": "141970",
+            "Name": "Vanderbijlpark",
+            "NameAr": "فانديربيجلبارك"
+        },
+        {
+            "Code": "142533",
+            "Name": "Vanrhynsdorp",
+            "NameAr": "فانرهينسدورب"
+        },
+        {
+            "Code": "140613",
+            "Name": "Veehraal",
+            "NameAr": "فييهراال"
+        },
+        {
+            "Code": "107856",
+            "Name": "Velddrif",
+            "NameAr": "فيلددريف"
+        },
+        {
+            "Code": "148470",
+            "Name": "Vereeniging",
+            "NameAr": "فيريينيجينج"
+        },
+        {
+            "Code": "107972",
+            "Name": "Villiersdorp",
+            "NameAr": "فيللييرسدورب"
+        },
+        {
+            "Code": "142752",
+            "Name": "Vredehoek",
+            "NameAr": "فريديهويك"
+        },
+        {
+            "Code": "142226",
+            "Name": "Vryheid",
+            "NameAr": "فريهييد"
+        },
+        {
+            "Code": "142767",
+            "Name": "Wakkerstroom",
+            "NameAr": "واككيرسترووم"
+        },
+        {
+            "Code": "155722",
+            "Name": "Waterberg District,   Limpopo",
+            "NameAr": "واتيربيرج ديستريكت ليمبوبو"
+        },
+        {
+            "Code": "142091",
+            "Name": "Waterberge",
+            "NameAr": "واتيربيرجي"
+        },
+        {
+            "Code": "143103",
+            "Name": "Waterfall Estate",
+            "NameAr": "واتيرفالل يستاتي"
+        },
+        {
+            "Code": "142807",
+            "Name": "Waterval Boven",
+            "NameAr": "واتيرفال بوفين"
+        },
+        {
+            "Code": "148625",
+            "Name": "Waterval Onder",
+            "NameAr": "واتيرفال وندير"
+        },
+        {
+            "Code": "142118",
+            "Name": "Welgevonden Game Reserve",
+            "NameAr": "ويلجيفوندين جامي ريسيرفي"
+        },
+        {
+            "Code": "151526",
+            "Name": "Welkom",
+            "NameAr": "ويلكوم"
+        },
+        {
+            "Code": "143686",
+            "Name": "Wellington",
+            "NameAr": "ويللينجتون"
+        },
+        {
+            "Code": "143397",
+            "Name": "Western Cape",
+            "NameAr": "ويستيرن كابي"
+        },
+        {
+            "Code": "142156",
+            "Name": "White River",
+            "NameAr": "وهيتي ريفير"
+        },
+        {
+            "Code": "142998",
+            "Name": "Whitsand",
+            "NameAr": "وهيتساند"
+        },
+        {
+            "Code": "143738",
+            "Name": "Wilderness",
+            "NameAr": "ويلديرنيسس"
+        },
+        {
+            "Code": "143018",
+            "Name": "Willowmore",
+            "NameAr": "ويللووموري"
+        },
+        {
+            "Code": "148715",
+            "Name": "Winterton",
+            "NameAr": "وينتيرتون"
+        },
+        {
+            "Code": "143602",
+            "Name": "Witbank",
+            "NameAr": "ويتبانك"
+        },
+        {
+            "Code": "143462",
+            "Name": "Witelsbos",
+            "NameAr": "ويتيلسبوس"
+        },
+        {
+            "Code": "141745",
+            "Name": "Witsand",
+            "NameAr": "ويتساند"
+        },
+        {
+            "Code": "148740",
+            "Name": "Worcester",
+            "NameAr": "ووركيستير"
+        },
+        {
+            "Code": "148784",
+            "Name": "Yzerfontein",
+            "NameAr": "يزيرفونتيين"
+        },
+        {
+            "Code": "148813",
+            "Name": "Zinkwazi",
+            "NameAr": "زينكوازي"
+        },
+        {
+            "Code": "143941",
+            "Name": "Zulu Nyala Game",
+            "NameAr": "زولو نيالا جامي"
+        },
+        {
+            "Code": "142508",
+            "Name": "Zululand",
+            "NameAr": "زولولاند"
+        }
+    ],
+    "totalCities": 419
+}

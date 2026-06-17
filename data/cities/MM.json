@@ -1,0 +1,257 @@
+{
+    "id": "MM",
+    "countryCode": "MM",
+    "cities": [
+        {
+            "Code": "100057",
+            "Name": "Ahlone",
+            "NameAr": "اهلوني"
+        },
+        {
+            "Code": "149205",
+            "Name": "Anesakhan",
+            "NameAr": "انيساكهان"
+        },
+        {
+            "Code": "105113",
+            "Name": "Aung Ban",
+            "NameAr": "اونج بان"
+        },
+        {
+            "Code": "110147",
+            "Name": "Bagan",
+            "NameAr": "باجان"
+        },
+        {
+            "Code": "111079",
+            "Name": "Bago",
+            "NameAr": "باجو"
+        },
+        {
+            "Code": "114636",
+            "Name": "Chaungtha",
+            "NameAr": "كهاونجتها"
+        },
+        {
+            "Code": "149183",
+            "Name": "Dawei",
+            "NameAr": "داويي"
+        },
+        {
+            "Code": "149188",
+            "Name": "Gyeiktaw",
+            "NameAr": "جيييكتاو"
+        },
+        {
+            "Code": "104056",
+            "Name": "Hpa An",
+            "NameAr": "هبا ان"
+        },
+        {
+            "Code": "149196",
+            "Name": "Hsipaw",
+            "NameAr": "هسيباو"
+        },
+        {
+            "Code": "121619",
+            "Name": "Inle Lake",
+            "NameAr": "ينلي لاكي"
+        },
+        {
+            "Code": "122810",
+            "Name": "Kalaw",
+            "NameAr": "كالاو"
+        },
+        {
+            "Code": "149185",
+            "Name": "Kengtung",
+            "NameAr": "كينجتونج"
+        },
+        {
+            "Code": "151828",
+            "Name": "Kyaikhtiyo",
+            "NameAr": "كيايكهتييو"
+        },
+        {
+            "Code": "123790",
+            "Name": "Kyaikhto",
+            "NameAr": "كيايكهتو"
+        },
+        {
+            "Code": "124683",
+            "Name": "Lashio",
+            "NameAr": "لاسهيو"
+        },
+        {
+            "Code": "149209",
+            "Name": "Letkokkon",
+            "NameAr": "ليتكوككون"
+        },
+        {
+            "Code": "126274",
+            "Name": "Lintha",
+            "NameAr": "لينتها"
+        },
+        {
+            "Code": "149176",
+            "Name": "Loikaw",
+            "NameAr": "لويكاو"
+        },
+        {
+            "Code": "127061",
+            "Name": "Macload Island",
+            "NameAr": "ماكلواد يسلاند"
+        },
+        {
+            "Code": "127416",
+            "Name": "Mandalay",
+            "NameAr": "ماندالاي"
+        },
+        {
+            "Code": "106491",
+            "Name": "Mawlamyine",
+            "NameAr": "ماولامييني"
+        },
+        {
+            "Code": "151824",
+            "Name": "Meiktila",
+            "NameAr": "مييكتيلا"
+        },
+        {
+            "Code": "149203",
+            "Name": "Monywa",
+            "NameAr": "مونيوا"
+        },
+        {
+            "Code": "104253",
+            "Name": "Mrauk U",
+            "NameAr": "مراوك و"
+        },
+        {
+            "Code": "149210",
+            "Name": "Mrauk-U",
+            "NameAr": "مراوك-و"
+        },
+        {
+            "Code": "129113",
+            "Name": "Myanmar",
+            "NameAr": "ميانمار"
+        },
+        {
+            "Code": "149201",
+            "Name": "Myeik",
+            "NameAr": "ميييك"
+        },
+        {
+            "Code": "149190",
+            "Name": "Myitkyina",
+            "NameAr": "مييتكيينا"
+        },
+        {
+            "Code": "129180",
+            "Name": "Nay Pyi Taw",
+            "NameAr": "ناي بيي تاو"
+        },
+        {
+            "Code": "146881",
+            "Name": "Ngapali",
+            "NameAr": "نجابالي"
+        },
+        {
+            "Code": "129992",
+            "Name": "Ngwe Saung",
+            "NameAr": "نجوي ساونج"
+        },
+        {
+            "Code": "146934",
+            "Name": "Nyaung Shwe",
+            "NameAr": "نياونج سهوي"
+        },
+        {
+            "Code": "104825",
+            "Name": "Nyaung U",
+            "NameAr": "نياونج و"
+        },
+        {
+            "Code": "104553",
+            "Name": "Oattara Thiri",
+            "NameAr": "واتتارا تهيري"
+        },
+        {
+            "Code": "149206",
+            "Name": "Oattara Thiri Township",
+            "NameAr": "واتتارا تهيري توونسهيب"
+        },
+        {
+            "Code": "149207",
+            "Name": "Pakokku",
+            "NameAr": "باكوككو"
+        },
+        {
+            "Code": "149197",
+            "Name": "Pathein",
+            "NameAr": "باتهيين"
+        },
+        {
+            "Code": "132213",
+            "Name": "Pindaya",
+            "NameAr": "بيندايا"
+        },
+        {
+            "Code": "134368",
+            "Name": "Putao",
+            "NameAr": "بوتاو"
+        },
+        {
+            "Code": "133645",
+            "Name": "Pyay",
+            "NameAr": "بياي"
+        },
+        {
+            "Code": "149186",
+            "Name": "Pyin Oo Lwin",
+            "NameAr": "بيين وو لوين"
+        },
+        {
+            "Code": "102783",
+            "Name": "Pyin U Lwin",
+            "NameAr": "بيين و لوين"
+        },
+        {
+            "Code": "149208",
+            "Name": "Sittwe",
+            "NameAr": "سيتتوي"
+        },
+        {
+            "Code": "108593",
+            "Name": "Taunggyi",
+            "NameAr": "تاونججيي"
+        },
+        {
+            "Code": "149173",
+            "Name": "Taungoo",
+            "NameAr": "تاونجوو"
+        },
+        {
+            "Code": "149180",
+            "Name": "Thahtay Kyun",
+            "NameAr": "تهاهتاي كيون"
+        },
+        {
+            "Code": "149172",
+            "Name": "Thanlyin",
+            "NameAr": "تهانليين"
+        },
+        {
+            "Code": "134222",
+            "Name": "Yangon",
+            "NameAr": "يانجون"
+        },
+        {
+            "Code": "149184",
+            "Name": "Zi Phyu Kone",
+            "NameAr": "زي بهيو كوني"
+        }
+    ],
+    "totalCities": 50
+}

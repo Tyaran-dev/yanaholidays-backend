@@ -1,0 +1,112 @@
+{
+    "id": "SO",
+    "countryCode": "SO",
+    "cities": [
+        {
+            "Code": "151738",
+            "Name": "Alula",
+            "NameAr": "الولا"
+        },
+        {
+            "Code": "151739",
+            "Name": "Baidoa",
+            "NameAr": "بايدوا"
+        },
+        {
+            "Code": "151740",
+            "Name": "Bardera",
+            "NameAr": "بارديرا"
+        },
+        {
+            "Code": "151741",
+            "Name": "Berbera",
+            "NameAr": "بيربيرا"
+        },
+        {
+            "Code": "151742",
+            "Name": "Borama",
+            "NameAr": "بوراما"
+        },
+        {
+            "Code": "151743",
+            "Name": "Bossaso",
+            "NameAr": "بوسساسو"
+        },
+        {
+            "Code": "151744",
+            "Name": "Burao",
+            "NameAr": "بوراو"
+        },
+        {
+            "Code": "151745",
+            "Name": "Candala",
+            "NameAr": "كاندالا"
+        },
+        {
+            "Code": "151746",
+            "Name": "Eil",
+            "NameAr": "ييل"
+        },
+        {
+            "Code": "151747",
+            "Name": "Erigavo",
+            "NameAr": "يريجافو"
+        },
+        {
+            "Code": "151748",
+            "Name": "Galcaio",
+            "NameAr": "جالكايو"
+        },
+        {
+            "Code": "151749",
+            "Name": "Garbaharey",
+            "NameAr": "جارباهاريي"
+        },
+        {
+            "Code": "151750",
+            "Name": "Gardo",
+            "NameAr": "جاردو"
+        },
+        {
+            "Code": "151751",
+            "Name": "Garoe",
+            "NameAr": "جاروي"
+        },
+        {
+            "Code": "151752",
+            "Name": "Hargeisa",
+            "NameAr": "هارجييسا"
+        },
+        {
+            "Code": "151753",
+            "Name": "Kismayu",
+            "NameAr": "كيسمايو"
+        },
+        {
+            "Code": "151754",
+            "Name": "Las Khoreh",
+            "NameAr": "لاس كهوريه"
+        },
+        {
+            "Code": "151755",
+            "Name": "Lugh Ganane",
+            "NameAr": "لوجه جاناني"
+        },
+        {
+            "Code": "151756",
+            "Name": "Mogadishu",
+            "NameAr": "موجاديسهو"
+        },
+        {
+            "Code": "151757",
+            "Name": "Obbia",
+            "NameAr": "وببيا"
+        },
+        {
+            "Code": "151758",
+            "Name": "Scusciuban",
+            "NameAr": "سكوسكيوبان"
+        }
+    ],
+    "totalCities": 21
+}

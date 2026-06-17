@@ -1,0 +1,52 @@
+{
+    "id": "AI",
+    "countryCode": "AI",
+    "cities": [
+        {
+            "Code": "109128",
+            "Name": "Anguilla",
+            "NameAr": "انجويللا"
+        },
+        {
+            "Code": "144283",
+            "Name": "Blowing Point Village",
+            "NameAr": "بلووينج بوينت فيللاجي"
+        },
+        {
+            "Code": "126471",
+            "Name": "Maundays Bay",
+            "NameAr": "ماوندايس باي"
+        },
+        {
+            "Code": "133328",
+            "Name": "Rendezvous Bay",
+            "NameAr": "رينديزفووس باي"
+        },
+        {
+            "Code": "137399",
+            "Name": "Shoal Bay",
+            "NameAr": "سهوال باي"
+        },
+        {
+            "Code": "106916",
+            "Name": "South Hill",
+            "NameAr": "سووته هيلل"
+        },
+        {
+            "Code": "139076",
+            "Name": "The Cove",
+            "NameAr": "تهي كوفي"
+        },
+        {
+            "Code": "148202",
+            "Name": "The Valley  West Ind",
+            "NameAr": "تهي فالليي ويست يند"
+        },
+        {
+            "Code": "142664",
+            "Name": "West End Village",
+            "NameAr": "ويست يند فيللاجي"
+        }
+    ],
+    "totalCities": 9
+}

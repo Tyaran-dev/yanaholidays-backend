@@ -1,0 +1,22 @@
+{
+    "id": "SR",
+    "countryCode": "SR",
+    "cities": [
+        {
+            "Code": "110356",
+            "Name": "Awaradam",
+            "NameAr": "اوارادام"
+        },
+        {
+            "Code": "122500",
+            "Name": "Kabalebo Naturreservat",
+            "NameAr": "كاباليبو ناتورريسيرفات"
+        },
+        {
+            "Code": "131754",
+            "Name": "Paramaribo",
+            "NameAr": "باراماريبو"
+        }
+    ],
+    "totalCities": 3
+}

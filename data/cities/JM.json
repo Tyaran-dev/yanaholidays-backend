@@ -1,0 +1,192 @@
+{
+    "id": "JM",
+    "countryCode": "JM",
+    "cities": [
+        {
+            "Code": "148986",
+            "Name": "Belmont",
+            "NameAr": "بيلمونت"
+        },
+        {
+            "Code": "144265",
+            "Name": "Black River",
+            "NameAr": "بلاكك ريفير"
+        },
+        {
+            "Code": "112638",
+            "Name": "Blue Mountains",
+            "NameAr": "بلوي موونتاينس"
+        },
+        {
+            "Code": "112415",
+            "Name": "Bluefields",
+            "NameAr": "بلويفييلدس"
+        },
+        {
+            "Code": "108077",
+            "Name": "Boscobel",
+            "NameAr": "بوسكوبيل"
+        },
+        {
+            "Code": "116195",
+            "Name": "Discovery Bay",
+            "NameAr": "ديسكوفيري باي"
+        },
+        {
+            "Code": "117876",
+            "Name": "Falmouth",
+            "NameAr": "فالمووته"
+        },
+        {
+            "Code": "408962",
+            "Name": "Green Island",
+            "NameAr": "جريين يسلاند"
+        },
+        {
+            "Code": "120012",
+            "Name": "Greenwood",
+            "NameAr": "جريينووود"
+        },
+        {
+            "Code": "221619",
+            "Name": "Hellshire",
+            "NameAr": "هيللسهيري"
+        },
+        {
+            "Code": "123275",
+            "Name": "Kingston",
+            "NameAr": "كينجستون"
+        },
+        {
+            "Code": "125983",
+            "Name": "Lethe",
+            "NameAr": "ليتهي"
+        },
+        {
+            "Code": "102654",
+            "Name": "Long Bay",
+            "NameAr": "لونج باي"
+        },
+        {
+            "Code": "127312",
+            "Name": "Lucea",
+            "NameAr": "لوكيا"
+        },
+        {
+            "Code": "104148",
+            "Name": "Lyssons",
+            "NameAr": "ليسسونس"
+        },
+        {
+            "Code": "127370",
+            "Name": "Mandeville",
+            "NameAr": "مانديفيللي"
+        },
+        {
+            "Code": "126909",
+            "Name": "Mavis Bank",
+            "NameAr": "مافيس بانك"
+        },
+        {
+            "Code": "128682",
+            "Name": "Montego Bay",
+            "NameAr": "مونتيجو باي"
+        },
+        {
+            "Code": "129287",
+            "Name": "Negril",
+            "NameAr": "نيجريل"
+        },
+        {
+            "Code": "146968",
+            "Name": "Ocho Rios",
+            "NameAr": "وكهو ريوس"
+        },
+        {
+            "Code": "131932",
+            "Name": "Oracabessa",
+            "NameAr": "وراكابيسسا"
+        },
+        {
+            "Code": "132908",
+            "Name": "Port Antonio",
+            "NameAr": "بورت انتونيو"
+        },
+        {
+            "Code": "132914",
+            "Name": "Port Maria",
+            "NameAr": "بورت ماريا"
+        },
+        {
+            "Code": "133563",
+            "Name": "Port Royal",
+            "NameAr": "بورت رويال"
+        },
+        {
+            "Code": "133964",
+            "Name": "Priory",
+            "NameAr": "بريوري"
+        },
+        {
+            "Code": "133358",
+            "Name": "Rio Bueno,   Trelawney",
+            "NameAr": "ريو بوينو تريلاونيي"
+        },
+        {
+            "Code": "133378",
+            "Name": "Robin''s Bay",
+            "NameAr": "روبينس باي"
+        },
+        {
+            "Code": "147587",
+            "Name": "Runaway Bay",
+            "NameAr": "روناواي باي"
+        },
+        {
+            "Code": "136653",
+            "Name": "Savanna la Mar",
+            "NameAr": "سافاننا لا مار"
+        },
+        {
+            "Code": "106919",
+            "Name": "Southfield",
+            "NameAr": "سووتهفييلد"
+        },
+        {
+            "Code": "137125",
+            "Name": "St. Ann's Bay",
+            "NameAr": "ست اننس باي"
+        },
+        {
+            "Code": "138533",
+            "Name": "St. Elizabeth",
+            "NameAr": "ست يليزابيته"
+        },
+        {
+            "Code": "103613",
+            "Name": "St. Thomas",
+            "NameAr": "ست تهوماس"
+        },
+        {
+            "Code": "107189",
+            "Name": "Tower Isle",
+            "NameAr": "تووير يسلي"
+        },
+        {
+            "Code": "140511",
+            "Name": "Treasure Beach",
+            "NameAr": "ترياسوري بياكه"
+        },
+        {
+            "Code": "140360",
+            "Name": "Trelawny Bay",
+            "NameAr": "تريلاوني باي"
+        },
+        {
+            "Code": "142689",
+            "Name": "Whitehouse",
+            "NameAr": "وهيتيهووسي"
+        }
+    ],
+    "totalCities": 37
+}

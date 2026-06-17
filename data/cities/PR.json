@@ -1,0 +1,227 @@
+{
+    "id": "PR",
+    "countryCode": "PR",
+    "cities": [
+        {
+            "Code": "100035",
+            "Name": "Adjuntas",
+            "NameAr": "ادجونتاس"
+        },
+        {
+            "Code": "105064",
+            "Name": "Aguada",
+            "NameAr": "اجوادا"
+        },
+        {
+            "Code": "100679",
+            "Name": "Aguadilla",
+            "NameAr": "اجواديللا"
+        },
+        {
+            "Code": "104715",
+            "Name": "Anasco",
+            "NameAr": "اناسكو"
+        },
+        {
+            "Code": "109155",
+            "Name": "Aquadilla",
+            "NameAr": "اقواديللا"
+        },
+        {
+            "Code": "150410",
+            "Name": "Arecibo",
+            "NameAr": "اريكيبو"
+        },
+        {
+            "Code": "105132",
+            "Name": "Barranquitas",
+            "NameAr": "باررانقويتاس"
+        },
+        {
+            "Code": "111846",
+            "Name": "Bayamon",
+            "NameAr": "بايامون"
+        },
+        {
+            "Code": "112454",
+            "Name": "Boqueron",
+            "NameAr": "بوقويرون"
+        },
+        {
+            "Code": "112851",
+            "Name": "Cabo Rojo",
+            "NameAr": "كابو روجو"
+        },
+        {
+            "Code": "113111",
+            "Name": "Caguas",
+            "NameAr": "كاجواس"
+        },
+        {
+            "Code": "113521",
+            "Name": "Carolina",
+            "NameAr": "كارولينا"
+        },
+        {
+            "Code": "144593",
+            "Name": "Ceiba",
+            "NameAr": "كييبا"
+        },
+        {
+            "Code": "115003",
+            "Name": "Condado",
+            "NameAr": "كوندادو"
+        },
+        {
+            "Code": "115164",
+            "Name": "Culebra",
+            "NameAr": "كوليبرا"
+        },
+        {
+            "Code": "144952",
+            "Name": "Dorado",
+            "NameAr": "دورادو"
+        },
+        {
+            "Code": "117286",
+            "Name": "Fajardo",
+            "NameAr": "فاجاردو"
+        },
+        {
+            "Code": "119913",
+            "Name": "Guanica",
+            "NameAr": "جوانيكا"
+        },
+        {
+            "Code": "120558",
+            "Name": "Guayanilla",
+            "NameAr": "جوايانيللا"
+        },
+        {
+            "Code": "120622",
+            "Name": "Hatillo",
+            "NameAr": "هاتيللو"
+        },
+        {
+            "Code": "121030",
+            "Name": "Humacao",
+            "NameAr": "هوماكاو"
+        },
+        {
+            "Code": "121755",
+            "Name": "Isabela",
+            "NameAr": "يسابيلا"
+        },
+        {
+            "Code": "145778",
+            "Name": "Isla Verde",
+            "NameAr": "يسلا فيردي"
+        },
+        {
+            "Code": "121791",
+            "Name": "Jayuya",
+            "NameAr": "جايويا"
+        },
+        {
+            "Code": "125751",
+            "Name": "Lajas",
+            "NameAr": "لاجاس"
+        },
+        {
+            "Code": "146106",
+            "Name": "Lajas Arriba",
+            "NameAr": "لاجاس ارريبا"
+        },
+        {
+            "Code": "104614",
+            "Name": "Loiza",
+            "NameAr": "لويزا"
+        },
+        {
+            "Code": "104751",
+            "Name": "Manati",
+            "NameAr": "ماناتي"
+        },
+        {
+            "Code": "126413",
+            "Name": "Maricao",
+            "NameAr": "ماريكاو"
+        },
+        {
+            "Code": "127545",
+            "Name": "Mayaguez",
+            "NameAr": "ماياجويز"
+        },
+        {
+            "Code": "132065",
+            "Name": "Patillas",
+            "NameAr": "باتيللاس"
+        },
+        {
+            "Code": "133534",
+            "Name": "Ponce",
+            "NameAr": "بونكي"
+        },
+        {
+            "Code": "134353",
+            "Name": "Puerto Real",
+            "NameAr": "بويرتو ريال"
+        },
+        {
+            "Code": "133124",
+            "Name": "Puerto Rico",
+            "NameAr": "بويرتو ريكو"
+        },
+        {
+            "Code": "133151",
+            "Name": "Quebradillas",
+            "NameAr": "قويبراديللاس"
+        },
+        {
+            "Code": "134775",
+            "Name": "Rincon",
+            "NameAr": "رينكون"
+        },
+        {
+            "Code": "133363",
+            "Name": "Rio Grande",
+            "NameAr": "ريو جراندي"
+        },
+        {
+            "Code": "136322",
+            "Name": "San German",
+            "NameAr": "سان جيرمان"
+        },
+        {
+            "Code": "136188",
+            "Name": "San Juan",
+            "NameAr": "سان جوان"
+        },
+        {
+            "Code": "135971",
+            "Name": "San Sebastian",
+            "NameAr": "سان سيباستيان"
+        },
+        {
+            "Code": "140566",
+            "Name": "Utuado",
+            "NameAr": "وتوادو"
+        },
+        {
+            "Code": "107463",
+            "Name": "Vega Alta",
+            "NameAr": "فيجا التا"
+        },
+        {
+            "Code": "142322",
+            "Name": "Vieques",
+            "NameAr": "فييقويس"
+        },
+        {
+            "Code": "142449",
+            "Name": "Yabucoa",
+            "NameAr": "يابوكوا"
+        }
+    ],
+    "totalCities": 44
+}

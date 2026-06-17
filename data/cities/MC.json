@@ -1,0 +1,22 @@
+{
+    "id": "MC",
+    "countryCode": "MC",
+    "cities": [
+        {
+            "Code": "389268",
+            "Name": "Fontvieille",
+            "NameAr": "فونتفيييللي"
+        },
+        {
+            "Code": "146675",
+            "Name": "Monaco",
+            "NameAr": "موناكو"
+        },
+        {
+            "Code": "128383",
+            "Name": "Monte Carlo",
+            "NameAr": "مونتي كارلو"
+        }
+    ],
+    "totalCities": 3
+}

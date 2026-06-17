@@ -1,0 +1,82 @@
+{
+    "id": "LS",
+    "countryCode": "LS",
+    "cities": [
+        {
+            "Code": "111365",
+            "Name": "Bokong",
+            "NameAr": "بوكونج"
+        },
+        {
+            "Code": "346299",
+            "Name": "Butha Buthe",
+            "NameAr": "بوتها بوتهي"
+        },
+        {
+            "Code": "414002",
+            "Name": "Butha-Buthe District",
+            "NameAr": "بوتها-بوتهي ديستريكت"
+        },
+        {
+            "Code": "119525",
+            "Name": "Ha Mohale",
+            "NameAr": "ها موهالي"
+        },
+        {
+            "Code": "104051",
+            "Name": "Hlotse",
+            "NameAr": "هلوتسي"
+        },
+        {
+            "Code": "151136",
+            "Name": "Lesobeng",
+            "NameAr": "ليسوبينج"
+        },
+        {
+            "Code": "150895",
+            "Name": "Mafeteng",
+            "NameAr": "مافيتينج"
+        },
+        {
+            "Code": "126893",
+            "Name": "Maseru",
+            "NameAr": "ماسيرو"
+        },
+        {
+            "Code": "151531",
+            "Name": "Matsaile",
+            "NameAr": "ماتسايلي"
+        },
+        {
+            "Code": "102818",
+            "Name": "Mohale's Hoek",
+            "NameAr": "موهاليس هويك"
+        },
+        {
+            "Code": "151284",
+            "Name": "Mokhotlong",
+            "NameAr": "موكهوتلونج"
+        },
+        {
+            "Code": "130299",
+            "Name": "Oxbow",
+            "NameAr": "وكسبوو"
+        },
+        {
+            "Code": "151665",
+            "Name": "Sehonghong",
+            "NameAr": "سيهونجهونج"
+        },
+        {
+            "Code": "151030",
+            "Name": "Thaba Tseka",
+            "NameAr": "تهابا تسيكا"
+        },
+        {
+            "Code": "140390",
+            "Name": "Tsehlanyane Nationalpark",
+            "NameAr": "تسيهلانياني ناتيونالبارك"
+        }
+    ],
+    "totalCities": 15
+}

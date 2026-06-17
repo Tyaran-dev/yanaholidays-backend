@@ -1,0 +1,122 @@
+{
+            "id": "AD",
+            "countryCode": "AD",
+            "cities": [
+                {
+                    "Code": "151415",
+                    "Name": "Andorra",
+                    "NameAr": "اندوررا"
+                },
+                {
+                    "Code": "109455",
+                    "Name": "Andorra La Vella",
+                    "NameAr": "اندوررا لا فيللا"
+                },
+                {
+                    "Code": "109467",
+                    "Name": "Ansalonga",
+                    "NameAr": "انسالونجا"
+                },
+                {
+                    "Code": "109374",
+                    "Name": "Arans",
+                    "NameAr": "ارانس"
+                },
+                {
+                    "Code": "109855",
+                    "Name": "Arinsal",
+                    "NameAr": "ارينسال"
+                },
+                {
+                    "Code": "111831",
+                    "Name": "Bordes de Envalira",
+                    "NameAr": "بورديس دي ينفاليرا"
+                },
+                {
+                    "Code": "144513",
+                    "Name": "Canillo",
+                    "NameAr": "كانيللو"
+                },
+                {
+                    "Code": "145061",
+                    "Name": "El Serrat",
+                    "NameAr": "يل سيررات"
+                },
+                {
+                    "Code": "118053",
+                    "Name": "El Tarter",
+                    "NameAr": "يل تارتير"
+                },
+                {
+                    "Code": "117688",
+                    "Name": "Encamp",
+                    "NameAr": "ينكامب"
+                },
+                {
+                    "Code": "117838",
+                    "Name": "Erts",
+                    "NameAr": "يرتس"
+                },
+                {
+                    "Code": "119712",
+                    "Name": "Grau Roig",
+                    "NameAr": "جراو رويج"
+                },
+                {
+                    "Code": "124649",
+                    "Name": "L'Aldosa",
+                    "NameAr": "لالدوسا"
+                },
+                {
+                    "Code": "124065",
+                    "Name": "La Cortinada",
+                    "NameAr": "لا كورتينادا"
+                },
+                {
+                    "Code": "123810",
+                    "Name": "La Massana",
+                    "NameAr": "لا ماسسانا"
+                },
+                {
+                    "Code": "125817",
+                    "Name": "Les Escaldes",
+                    "NameAr": "ليس يسكالديس"
+                },
+                {
+                    "Code": "126595",
+                    "Name": "Llorts",
+                    "NameAr": "للورتس"
+                },
+                {
+                    "Code": "131324",
+                    "Name": "Ordino",
+                    "NameAr": "وردينو"
+                },
+                {
+                    "Code": "131416",
+                    "Name": "Pas de la Casa",
+                    "NameAr": "باس دي لا كاسا"
+                },
+                {
+                    "Code": "133765",
+                    "Name": "Ransol",
+                    "NameAr": "رانسول"
+                },
+                {
+                    "Code": "136055",
+                    "Name": "Sant Julia de Loria",
+                    "NameAr": "سانت جوليا دي لوريا"
+                },
+                {
+                    "Code": "138471",
+                    "Name": "Soldeu",
+                    "NameAr": "سولديو"
+                },
+                {
+                    "Code": "141431",
+                    "Name": "Vall d' Incles",
+                    "NameAr": "فالل د ينكليس"
+                }
+            ],
+            "totalCities": 23
+        }

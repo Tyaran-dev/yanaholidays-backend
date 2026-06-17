@@ -1,0 +1,62 @@
+{
+    "id": "IQ",
+    "countryCode": "IQ",
+    "cities": [
+        {
+            "Code": "417050",
+            "Name": "Amarah",
+            "NameAr": "اماراه"
+        },
+        {
+            "Code": "110398",
+            "Name": "Baghdad",
+            "NameAr": "بغداد"
+        },
+        {
+            "Code": "110878",
+            "Name": "Basra",
+            "NameAr": "باسرا"
+        },
+        {
+            "Code": "115727",
+            "Name": "Dohuk",
+            "NameAr": "دوهوك"
+        },
+        {
+            "Code": "106268",
+            "Name": "Duhok",
+            "NameAr": "دوهوك"
+        },
+        {
+            "Code": "151818",
+            "Name": "Erbil/Arbil",
+            "NameAr": "يربيل اربيل"
+        },
+        {
+            "Code": "123090",
+            "Name": "Karbala",
+            "NameAr": "كاربالا"
+        },
+        {
+            "Code": "122604",
+            "Name": "Kirkuk",
+            "NameAr": "كيركوك"
+        },
+        {
+            "Code": "417888",
+            "Name": "Mosul",
+            "NameAr": "موسول"
+        },
+        {
+            "Code": "417054",
+            "Name": "Najaf",
+            "NameAr": "ناجاف"
+        },
+        {
+            "Code": "138862",
+            "Name": "Sulaymaniyah,   Kurdistan Region",
+            "NameAr": "سولايمانيياه كورديستان ريجيون"
+        }
+    ],
+    "totalCities": 11
+}

@@ -1,0 +1,92 @@
+{
+    "id": "AO",
+    "countryCode": "AO",
+    "cities": [
+        {
+            "Code": "105038",
+            "Name": "Belas",
+            "NameAr": "بيلاس"
+        },
+        {
+            "Code": "110949",
+            "Name": "Benguela",
+            "NameAr": "بينجويلا"
+        },
+        {
+            "Code": "114146",
+            "Name": "Calulo",
+            "NameAr": "كالولو"
+        },
+        {
+            "Code": "114675",
+            "Name": "Cela",
+            "NameAr": "كيلا"
+        },
+        {
+            "Code": "122633",
+            "Name": "Huambo",
+            "NameAr": "هوامبو"
+        },
+        {
+            "Code": "150609",
+            "Name": "Kuito",
+            "NameAr": "كويتو"
+        },
+        {
+            "Code": "126213",
+            "Name": "Luanda",
+            "NameAr": "لواندا"
+        },
+        {
+            "Code": "104636",
+            "Name": "Malanje",
+            "NameAr": "مالانجي"
+        },
+        {
+            "Code": "149738",
+            "Name": "Menongue",
+            "NameAr": "مينونجوي"
+        },
+        {
+            "Code": "129442",
+            "Name": "Muxima",
+            "NameAr": "موكسيما"
+        },
+        {
+            "Code": "149753",
+            "Name": "Namibe",
+            "NameAr": "ناميبي"
+        },
+        {
+            "Code": "151290",
+            "Name": "Negage",
+            "NameAr": "نيجاجي"
+        },
+        {
+            "Code": "151588",
+            "Name": "Soyo",
+            "NameAr": "سويو"
+        },
+        {
+            "Code": "148100",
+            "Name": "Sumbe",
+            "NameAr": "سومبي"
+        },
+        {
+            "Code": "151497",
+            "Name": "Uige",
+            "NameAr": "ويجي"
+        },
+        {
+            "Code": "149844",
+            "Name": "Viana",
+            "NameAr": "فيانا"
+        },
+        {
+            "Code": "149854",
+            "Name": "Waco Kungo",
+            "NameAr": "واكو كونجو"
+        }
+    ],
+    "totalCities": 17
+}

@@ -1,0 +1,12 @@
+{
+    "id": "YT",
+    "countryCode": "YT",
+    "cities": [
+        {
+            "Code": "149123",
+            "Name": "Mamoudzou",
+            "NameAr": "ماموودزوو"
+        }
+    ],
+    "totalCities": 1
+}

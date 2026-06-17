@@ -1,0 +1,3772 @@
+{
+    "id": "PL",
+    "countryCode": "PL",
+    "cities": [
+        {
+            "Code": "101089",
+            "Name": "Allenstein (Olsztyn)",
+            "NameAr": "اللينستيين ولسزتين"
+        },
+        {
+            "Code": "109175",
+            "Name": "Alt Jucha",
+            "NameAr": "الت جوكها"
+        },
+        {
+            "Code": "101628",
+            "Name": "Alt Schalkowitz",
+            "NameAr": "الت سكهالكوويتز"
+        },
+        {
+            "Code": "104717",
+            "Name": "Andreasfeld",
+            "NameAr": "اندرياسفيلد"
+        },
+        {
+            "Code": "101138",
+            "Name": "Andrychow",
+            "NameAr": "اندريكهوو"
+        },
+        {
+            "Code": "109884",
+            "Name": "Arys",
+            "NameAr": "اريس"
+        },
+        {
+            "Code": "110014",
+            "Name": "Augustow",
+            "NameAr": "اوجوستوو"
+        },
+        {
+            "Code": "110046",
+            "Name": "Babice Nowe",
+            "NameAr": "بابيكي نووي"
+        },
+        {
+            "Code": "109683",
+            "Name": "Babimost",
+            "NameAr": "بابيموست"
+        },
+        {
+            "Code": "109943",
+            "Name": "Bad Altheide (Polanica Zdroj)",
+            "NameAr": "باد التهييدي بولانيكا زدروج"
+        },
+        {
+            "Code": "110379",
+            "Name": "Bad Kudowa",
+            "NameAr": "باد كودووا"
+        },
+        {
+            "Code": "110629",
+            "Name": "Bad Polzin",
+            "NameAr": "باد بولزين"
+        },
+        {
+            "Code": "110386",
+            "Name": "Bad Reinerz",
+            "NameAr": "باد ريينيرز"
+        },
+        {
+            "Code": "111069",
+            "Name": "Bad Warmbrunn - Cieplice",
+            "NameAr": "باد وارمبرونن - كييبليكي"
+        },
+        {
+            "Code": "105027",
+            "Name": "Baniocha",
+            "NameAr": "بانيوكها"
+        },
+        {
+            "Code": "110696",
+            "Name": "Baranowo k. Poznania",
+            "NameAr": "بارانووو ك بوزنانيا"
+        },
+        {
+            "Code": "110701",
+            "Name": "Barczewo",
+            "NameAr": "باركزيوو"
+        },
+        {
+            "Code": "148883",
+            "Name": "Barlinek",
+            "NameAr": "بارلينيك"
+        },
+        {
+            "Code": "111027",
+            "Name": "Bartoszyce",
+            "NameAr": "بارتوسزيكي"
+        },
+        {
+            "Code": "110833",
+            "Name": "Bedzin",
+            "NameAr": "بيدزين"
+        },
+        {
+            "Code": "110478",
+            "Name": "Belchatow",
+            "NameAr": "بيلكهاتوو"
+        },
+        {
+            "Code": "255908",
+            "Name": "Belsk Duzy",
+            "NameAr": "بيلسك دوزي"
+        },
+        {
+            "Code": "105288",
+            "Name": "Bentschen",
+            "NameAr": "بينتسكهين"
+        },
+        {
+            "Code": "144231",
+            "Name": "Biala Podlaska",
+            "NameAr": "بيالا بودلاسكا"
+        },
+        {
+            "Code": "108058",
+            "Name": "Biale Blota (Bydgoszcz)",
+            "NameAr": "بيالي بلوتا بيدجوسزكز"
+        },
+        {
+            "Code": "111756",
+            "Name": "Bialka Tatrzanska",
+            "NameAr": "بيالكا تاترزانسكا"
+        },
+        {
+            "Code": "111197",
+            "Name": "Bialobrzegi",
+            "NameAr": "بيالوبرزيجي"
+        },
+        {
+            "Code": "111559",
+            "Name": "Bialowieza",
+            "NameAr": "بيالووييزا"
+        },
+        {
+            "Code": "144232",
+            "Name": "Bialy Dunajec",
+            "NameAr": "بيالي دوناجيك"
+        },
+        {
+            "Code": "111560",
+            "Name": "Bialystok",
+            "NameAr": "بياليستوك"
+        },
+        {
+            "Code": "144239",
+            "Name": "Biedrusko",
+            "NameAr": "بييدروسكو"
+        },
+        {
+            "Code": "111945",
+            "Name": "Bielitz-Biala",
+            "NameAr": "بييليتز-بيالا"
+        },
+        {
+            "Code": "111946",
+            "Name": "Bielsk Podlaski",
+            "NameAr": "بييلسك بودلاسكي"
+        },
+        {
+            "Code": "101215",
+            "Name": "Bielsko-Biala",
+            "NameAr": "بييلسكو-بيالا"
+        },
+        {
+            "Code": "111568",
+            "Name": "Bierna",
+            "NameAr": "بييرنا"
+        },
+        {
+            "Code": "111952",
+            "Name": "Bilgoraj",
+            "NameAr": "بيلجوراج"
+        },
+        {
+            "Code": "111725",
+            "Name": "Biskupiec",
+            "NameAr": "بيسكوبييك"
+        },
+        {
+            "Code": "105655",
+            "Name": "Blonie",
+            "NameAr": "بلونيي"
+        },
+        {
+            "Code": "111347",
+            "Name": "Bochnia",
+            "NameAr": "بوكهنيا"
+        },
+        {
+            "Code": "105056",
+            "Name": "Bodland",
+            "NameAr": "بودلاند"
+        },
+        {
+            "Code": "101417",
+            "Name": "Bogatynia",
+            "NameAr": "بوجاتينيا"
+        },
+        {
+            "Code": "105057",
+            "Name": "Boguchwala",
+            "NameAr": "بوجوكهوالا"
+        },
+        {
+            "Code": "105749",
+            "Name": "Boleslawiec (Powiat Wieruszowski)",
+            "NameAr": "بوليسلاوييك بوويات وييروسزووسكي"
+        },
+        {
+            "Code": "112446",
+            "Name": "Bolkow",
+            "NameAr": "بولكوو"
+        },
+        {
+            "Code": "112682",
+            "Name": "Borkowo",
+            "NameAr": "بوركووو"
+        },
+        {
+            "Code": "105306",
+            "Name": "Borne Sulinowo",
+            "NameAr": "بورني سولينووو"
+        },
+        {
+            "Code": "105668",
+            "Name": "Braunsberg",
+            "NameAr": "براونسبيرج"
+        },
+        {
+            "Code": "112725",
+            "Name": "Brenna",
+            "NameAr": "بريننا"
+        },
+        {
+            "Code": "105320",
+            "Name": "Brodnica Dolna",
+            "NameAr": "برودنيكا دولنا"
+        },
+        {
+            "Code": "112964",
+            "Name": "Brodnica Gorna",
+            "NameAr": "برودنيكا جورنا"
+        },
+        {
+            "Code": "101434",
+            "Name": "Brodowo",
+            "NameAr": "برودووو"
+        },
+        {
+            "Code": "113404",
+            "Name": "Brojce",
+            "NameAr": "بروجكي"
+        },
+        {
+            "Code": "112037",
+            "Name": "Brzeg",
+            "NameAr": "برزيج"
+        },
+        {
+            "Code": "104654",
+            "Name": "Brzeszcze",
+            "NameAr": "برزيسزكزي"
+        },
+        {
+            "Code": "112145",
+            "Name": "Brzeziny",
+            "NameAr": "برزيزيني"
+        },
+        {
+            "Code": "105213",
+            "Name": "Brzozie",
+            "NameAr": "برزوزيي"
+        },
+        {
+            "Code": "108090",
+            "Name": "Brzozow",
+            "NameAr": "برزوزوو"
+        },
+        {
+            "Code": "144415",
+            "Name": "Budzyn",
+            "NameAr": "بودزين"
+        },
+        {
+            "Code": "113214",
+            "Name": "Bukowina Tatrzanska",
+            "NameAr": "بوكووينا تاترزانسكا"
+        },
+        {
+            "Code": "113003",
+            "Name": "Bunzlau",
+            "NameAr": "بونزلاو"
+        },
+        {
+            "Code": "112740",
+            "Name": "Busko-Zdroj",
+            "NameAr": "بوسكو-زدروج"
+        },
+        {
+            "Code": "144449",
+            "Name": "Bydgoszcz",
+            "NameAr": "بيدجوسزكز"
+        },
+        {
+            "Code": "113240",
+            "Name": "Bystrzyca Klodzka",
+            "NameAr": "بيسترزيكا كلودزكا"
+        },
+        {
+            "Code": "382719",
+            "Name": "Bytom",
+            "NameAr": "بيتوم"
+        },
+        {
+            "Code": "112845",
+            "Name": "Bytow",
+            "NameAr": "بيتوو"
+        },
+        {
+            "Code": "144592",
+            "Name": "Cedynia",
+            "NameAr": "كيدينيا"
+        },
+        {
+            "Code": "114246",
+            "Name": "Charzykowy",
+            "NameAr": "كهارزيكووي"
+        },
+        {
+            "Code": "108139",
+            "Name": "Checiny",
+            "NameAr": "كهيكيني"
+        },
+        {
+            "Code": "103656",
+            "Name": "Chelm",
+            "NameAr": "كهيلم"
+        },
+        {
+            "Code": "105253",
+            "Name": "Chelmsko Slaskie",
+            "NameAr": "كهيلمسكو سلاسكيي"
+        },
+        {
+            "Code": "113707",
+            "Name": "Chelmza",
+            "NameAr": "كهيلمزا"
+        },
+        {
+            "Code": "102262",
+            "Name": "Chem",
+            "NameAr": "كهيم"
+        },
+        {
+            "Code": "102267",
+            "Name": "Chlapowo",
+            "NameAr": "كهلابووو"
+        },
+        {
+            "Code": "102270",
+            "Name": "Chmielno",
+            "NameAr": "كهمييلنو"
+        },
+        {
+            "Code": "114757",
+            "Name": "Chociwel",
+            "NameAr": "كهوكيويل"
+        },
+        {
+            "Code": "114809",
+            "Name": "Choczewo",
+            "NameAr": "كهوكزيوو"
+        },
+        {
+            "Code": "101817",
+            "Name": "Chojnice",
+            "NameAr": "كهوجنيكي"
+        },
+        {
+            "Code": "106214",
+            "Name": "Choroszcz",
+            "NameAr": "كهوروسزكز"
+        },
+        {
+            "Code": "114812",
+            "Name": "Chorzow",
+            "NameAr": "كهورزوو"
+        },
+        {
+            "Code": "114821",
+            "Name": "Chrzastowice",
+            "NameAr": "كهرزاستوويكي"
+        },
+        {
+            "Code": "114282",
+            "Name": "Chynowie",
+            "NameAr": "كهينوويي"
+        },
+        {
+            "Code": "114769",
+            "Name": "Ciche",
+            "NameAr": "كيكهي"
+        },
+        {
+            "Code": "101818",
+            "Name": "Ciechanowiec",
+            "NameAr": "كييكهانووييك"
+        },
+        {
+            "Code": "114770",
+            "Name": "Ciechocinek",
+            "NameAr": "كييكهوكينيك"
+        },
+        {
+            "Code": "114771",
+            "Name": "Cierpice",
+            "NameAr": "كييربيكي"
+        },
+        {
+            "Code": "144693",
+            "Name": "Cieszyn",
+            "NameAr": "كييسزين"
+        },
+        {
+            "Code": "101827",
+            "Name": "Colmar",
+            "NameAr": "كولمار"
+        },
+        {
+            "Code": "116244",
+            "Name": "Czaplinek",
+            "NameAr": "كزابلينيك"
+        },
+        {
+            "Code": "116601",
+            "Name": "Czarna Dsbrowka",
+            "NameAr": "كزارنا دسبرووكا"
+        },
+        {
+            "Code": "144843",
+            "Name": "Czarna Gora",
+            "NameAr": "كزارنا جورا"
+        },
+        {
+            "Code": "106243",
+            "Name": "Czarnowasy",
+            "NameAr": "كزارنوواسي"
+        },
+        {
+            "Code": "116026",
+            "Name": "Czechowice",
+            "NameAr": "كزيكهوويكي"
+        },
+        {
+            "Code": "116125",
+            "Name": "Czeladz",
+            "NameAr": "كزيلادز"
+        },
+        {
+            "Code": "116027",
+            "Name": "Czernichow",
+            "NameAr": "كزيرنيكهوو"
+        },
+        {
+            "Code": "116602",
+            "Name": "Czestochowa",
+            "NameAr": "كزيستوكهووا"
+        },
+        {
+            "Code": "115093",
+            "Name": "Czeszow",
+            "NameAr": "كزيسزوو"
+        },
+        {
+            "Code": "116246",
+            "Name": "Czluchow",
+            "NameAr": "كزلوكهوو"
+        },
+        {
+            "Code": "144844",
+            "Name": "Czorsztyn",
+            "NameAr": "كزورسزتين"
+        },
+        {
+            "Code": "144845",
+            "Name": "Czosnow",
+            "NameAr": "كزوسنوو"
+        },
+        {
+            "Code": "115174",
+            "Name": "Dabki",
+            "NameAr": "دابكي"
+        },
+        {
+            "Code": "105765",
+            "Name": "Dabrowa Gornicza",
+            "NameAr": "دابرووا جورنيكزا"
+        },
+        {
+            "Code": "116126",
+            "Name": "Dabrowa Tarnowska",
+            "NameAr": "دابرووا تارنووسكا"
+        },
+        {
+            "Code": "104937",
+            "Name": "Dadaj",
+            "NameAr": "داداج"
+        },
+        {
+            "Code": "116149",
+            "Name": "Darlowko",
+            "NameAr": "دارلووكو"
+        },
+        {
+            "Code": "115191",
+            "Name": "Darlowo",
+            "NameAr": "دارلووو"
+        },
+        {
+            "Code": "105773",
+            "Name": "Debica",
+            "NameAr": "ديبيكا"
+        },
+        {
+            "Code": "106012",
+            "Name": "Dlutow",
+            "NameAr": "دلوتوو"
+        },
+        {
+            "Code": "106259",
+            "Name": "Dobczyce",
+            "NameAr": "دوبكزيكي"
+        },
+        {
+            "Code": "116363",
+            "Name": "Dobiegniew",
+            "NameAr": "دوبييجنييو"
+        },
+        {
+            "Code": "101862",
+            "Name": "Dobron",
+            "NameAr": "دوبرون"
+        },
+        {
+            "Code": "104950",
+            "Name": "Dobroszyce",
+            "NameAr": "دوبروسزيكي"
+        },
+        {
+            "Code": "116695",
+            "Name": "Dramburg",
+            "NameAr": "درامبورج"
+        },
+        {
+            "Code": "116915",
+            "Name": "Dramburger See",
+            "NameAr": "درامبورجير سيي"
+        },
+        {
+            "Code": "144970",
+            "Name": "Drawnik-Borowiec",
+            "NameAr": "دراونيك-بورووييك"
+        },
+        {
+            "Code": "116390",
+            "Name": "Drengfurth",
+            "NameAr": "درينجفورته"
+        },
+        {
+            "Code": "116703",
+            "Name": "Drzonkow",
+            "NameAr": "درزونكوو"
+        },
+        {
+            "Code": "116704",
+            "Name": "dt. Gnesen",
+            "NameAr": "دت جنيسين"
+        },
+        {
+            "Code": "105792",
+            "Name": "Dwikozy",
+            "NameAr": "دويكوزي"
+        },
+        {
+            "Code": "145008",
+            "Name": "Dymnica",
+            "NameAr": "ديمنيكا"
+        },
+        {
+            "Code": "145009",
+            "Name": "Dzialdowo",
+            "NameAr": "دزيالدووو"
+        },
+        {
+            "Code": "115969",
+            "Name": "Dziwnow",
+            "NameAr": "دزيونوو"
+        },
+        {
+            "Code": "117051",
+            "Name": "Dziwnowek",
+            "NameAr": "دزيونوويك"
+        },
+        {
+            "Code": "116470",
+            "Name": "Dzwirzyno",
+            "NameAr": "دزويرزينو"
+        },
+        {
+            "Code": "145064",
+            "Name": "Elbing",
+            "NameAr": "يلبينج"
+        },
+        {
+            "Code": "150991",
+            "Name": "Elblag",
+            "NameAr": "يلبلاج"
+        },
+        {
+            "Code": "117674",
+            "Name": "Elk",
+            "NameAr": "يلك"
+        },
+        {
+            "Code": "117591",
+            "Name": "Falenty",
+            "NameAr": "فالينتي"
+        },
+        {
+            "Code": "108241",
+            "Name": "Flatow",
+            "NameAr": "فلاتوو"
+        },
+        {
+            "Code": "105431",
+            "Name": "Frankenstein in Schlesien",
+            "NameAr": "فرانكينستيين ين سكهليسيين"
+        },
+        {
+            "Code": "119032",
+            "Name": "Frombork",
+            "NameAr": "فرومبورك"
+        },
+        {
+            "Code": "119592",
+            "Name": "Gabin",
+            "NameAr": "جابين"
+        },
+        {
+            "Code": "119615",
+            "Name": "Garbow (Powiat Lubelski)",
+            "NameAr": "جاربوو بوويات لوبيلسكي"
+        },
+        {
+            "Code": "145323",
+            "Name": "Garwolin",
+            "NameAr": "جاروولين"
+        },
+        {
+            "Code": "118940",
+            "Name": "Gdansk",
+            "NameAr": "جدانسك"
+        },
+        {
+            "Code": "118941",
+            "Name": "Gdow",
+            "NameAr": "جدوو"
+        },
+        {
+            "Code": "118422",
+            "Name": "Gdynia",
+            "NameAr": "جدينيا"
+        },
+        {
+            "Code": "118980",
+            "Name": "Giersdorf",
+            "NameAr": "جييرسدورف"
+        },
+        {
+            "Code": "118982",
+            "Name": "Gietrzwald",
+            "NameAr": "جييترزوالد"
+        },
+        {
+            "Code": "145359",
+            "Name": "Gizycko",
+            "NameAr": "جيزيككو"
+        },
+        {
+            "Code": "119409",
+            "Name": "Gliwice",
+            "NameAr": "جليويكي"
+        },
+        {
+            "Code": "119800",
+            "Name": "Glogau",
+            "NameAr": "جلوجاو"
+        },
+        {
+            "Code": "145371",
+            "Name": "Glogow Malopolski",
+            "NameAr": "جلوجوو مالوبولسكي"
+        },
+        {
+            "Code": "101747",
+            "Name": "Glucholazy",
+            "NameAr": "جلوكهولازي"
+        },
+        {
+            "Code": "119803",
+            "Name": "Gmina Gasawa",
+            "NameAr": "جمينا جاساوا"
+        },
+        {
+            "Code": "102482",
+            "Name": "Gmina Kurow",
+            "NameAr": "جمينا كوروو"
+        },
+        {
+            "Code": "119416",
+            "Name": "Gniewino",
+            "NameAr": "جنييوينو"
+        },
+        {
+            "Code": "296746",
+            "Name": "Gniewkowo",
+            "NameAr": "جنييوكووو"
+        },
+        {
+            "Code": "273012",
+            "Name": "Gniezno",
+            "NameAr": "جنييزنو"
+        },
+        {
+            "Code": "105912",
+            "Name": "Gogolin",
+            "NameAr": "جوجولين"
+        },
+        {
+            "Code": "119670",
+            "Name": "Goldap",
+            "NameAr": "جولداب"
+        },
+        {
+            "Code": "101750",
+            "Name": "Golina",
+            "NameAr": "جولينا"
+        },
+        {
+            "Code": "119678",
+            "Name": "Golub-Dobrzyn",
+            "NameAr": "جولوب-دوبرزين"
+        },
+        {
+            "Code": "119683",
+            "Name": "Goniadz",
+            "NameAr": "جونيادز"
+        },
+        {
+            "Code": "102485",
+            "Name": "Gorzno",
+            "NameAr": "جورزنو"
+        },
+        {
+            "Code": "119319",
+            "Name": "Gorzow Slaski",
+            "NameAr": "جورزوو سلاسكي"
+        },
+        {
+            "Code": "108263",
+            "Name": "Gostingen",
+            "NameAr": "جوستينجين"
+        },
+        {
+            "Code": "118750",
+            "Name": "Gostynin",
+            "NameAr": "جوستينين"
+        },
+        {
+            "Code": "119202",
+            "Name": "Graudenz",
+            "NameAr": "جراودينز"
+        },
+        {
+            "Code": "108270",
+            "Name": "Grebow",
+            "NameAr": "جريبوو"
+        },
+        {
+            "Code": "295831",
+            "Name": "Grodek Nad Dunajcem",
+            "NameAr": "جروديك ناد دوناجكيم"
+        },
+        {
+            "Code": "145454",
+            "Name": "Grodkow",
+            "NameAr": "جرودكوو"
+        },
+        {
+            "Code": "106118",
+            "Name": "Grodziec",
+            "NameAr": "جرودزييك"
+        },
+        {
+            "Code": "101762",
+            "Name": "Grodzisk Mazowiecki",
+            "NameAr": "جرودزيسك مازووييككي"
+        },
+        {
+            "Code": "108273",
+            "Name": "Grodzisk Wielkopolski",
+            "NameAr": "جرودزيسك وييلكوبولسكي"
+        },
+        {
+            "Code": "120039",
+            "Name": "Gryfow Slaski",
+            "NameAr": "جريفوو سلاسكي"
+        },
+        {
+            "Code": "119486",
+            "Name": "Grzybowo",
+            "NameAr": "جرزيبووو"
+        },
+        {
+            "Code": "102424",
+            "Name": "Guben",
+            "NameAr": "جوبين"
+        },
+        {
+            "Code": "120437",
+            "Name": "Guzowy Piec",
+            "NameAr": "جوزووي بييك"
+        },
+        {
+            "Code": "102504",
+            "Name": "Halbau",
+            "NameAr": "هالباو"
+        },
+        {
+            "Code": "120891",
+            "Name": "Heidebrink (Miedzywodzie)",
+            "NameAr": "هييديبرينك مييدزيوودزيي"
+        },
+        {
+            "Code": "120259",
+            "Name": "Hel",
+            "NameAr": "هيل"
+        },
+        {
+            "Code": "120269",
+            "Name": "Henkenhagen",
+            "NameAr": "هينكينهاجين"
+        },
+        {
+            "Code": "121914",
+            "Name": "Hindenburg (Zabrze)",
+            "NameAr": "هيندينبورج زابرزي"
+        },
+        {
+            "Code": "108305",
+            "Name": "Horbow-Kolonia",
+            "NameAr": "هوربوو-كولونيا"
+        },
+        {
+            "Code": "105862",
+            "Name": "Hrubieszow",
+            "NameAr": "هروبييسزوو"
+        },
+        {
+            "Code": "105867",
+            "Name": "Humniska",
+            "NameAr": "هومنيسكا"
+        },
+        {
+            "Code": "121052",
+            "Name": "Ilawa",
+            "NameAr": "يلاوا"
+        },
+        {
+            "Code": "122007",
+            "Name": "Inowroclaw",
+            "NameAr": "ينووروكلاو"
+        },
+        {
+            "Code": "381018",
+            "Name": "Istebna",
+            "NameAr": "يستيبنا"
+        },
+        {
+            "Code": "105878",
+            "Name": "Iwonicz-Zdroj",
+            "NameAr": "يوونيكز-زدروج"
+        },
+        {
+            "Code": "103928",
+            "Name": "Jachranka",
+            "NameAr": "جاكهرانكا"
+        },
+        {
+            "Code": "121785",
+            "Name": "Janki",
+            "NameAr": "جانكي"
+        },
+        {
+            "Code": "101939",
+            "Name": "Jankowice (powiat raciborski)",
+            "NameAr": "جانكوويكي بوويات راكيبورسكي"
+        },
+        {
+            "Code": "123423",
+            "Name": "Janow Lubelski",
+            "NameAr": "جانوو لوبيلسكي"
+        },
+        {
+            "Code": "382175",
+            "Name": "Janow Podlaski",
+            "NameAr": "جانوو بودلاسكي"
+        },
+        {
+            "Code": "105883",
+            "Name": "Jarnoltowek",
+            "NameAr": "جارنولتوويك"
+        },
+        {
+            "Code": "105617",
+            "Name": "Jaroslaw",
+            "NameAr": "جاروسلاو"
+        },
+        {
+            "Code": "122334",
+            "Name": "Jaroslawiec",
+            "NameAr": "جاروسلاوييك"
+        },
+        {
+            "Code": "102354",
+            "Name": "Jarotschin",
+            "NameAr": "جاروتسكهين"
+        },
+        {
+            "Code": "145814",
+            "Name": "Jaslo",
+            "NameAr": "جاسلو"
+        },
+        {
+            "Code": "121790",
+            "Name": "Jastarnia",
+            "NameAr": "جاستارنيا"
+        },
+        {
+            "Code": "145816",
+            "Name": "Jastrzebia Gora",
+            "NameAr": "جاسترزيبيا جورا"
+        },
+        {
+            "Code": "122455",
+            "Name": "Jastrzebie-Zdroj",
+            "NameAr": "جاسترزيبيي-زدروج"
+        },
+        {
+            "Code": "122185",
+            "Name": "Jawor",
+            "NameAr": "جاوور"
+        },
+        {
+            "Code": "122456",
+            "Name": "Jaworze",
+            "NameAr": "جاوورزي"
+        },
+        {
+            "Code": "123429",
+            "Name": "Jaworzno",
+            "NameAr": "جاوورزنو"
+        },
+        {
+            "Code": "104078",
+            "Name": "Jedlicze",
+            "NameAr": "جيدليكزي"
+        },
+        {
+            "Code": "122752",
+            "Name": "Jedwabno",
+            "NameAr": "جيدوابنو"
+        },
+        {
+            "Code": "108341",
+            "Name": "Jelcz-Laskowice",
+            "NameAr": "جيلكز-لاسكوويكي"
+        },
+        {
+            "Code": "122862",
+            "Name": "Jelenia Gora",
+            "NameAr": "جيلينيا جورا"
+        },
+        {
+            "Code": "122466",
+            "Name": "Jerzmanowice",
+            "NameAr": "جيرزمانوويكي"
+        },
+        {
+            "Code": "105622",
+            "Name": "Jeziory Wielkie",
+            "NameAr": "جيزيوري وييلكيي"
+        },
+        {
+            "Code": "122786",
+            "Name": "Jozefow",
+            "NameAr": "جوزيفوو"
+        },
+        {
+            "Code": "145846",
+            "Name": "Jugowice",
+            "NameAr": "جوجوويكي"
+        },
+        {
+            "Code": "122495",
+            "Name": "Jurata",
+            "NameAr": "جوراتا"
+        },
+        {
+            "Code": "122503",
+            "Name": "Kadyny",
+            "NameAr": "كاديني"
+        },
+        {
+            "Code": "145864",
+            "Name": "Kalisz",
+            "NameAr": "كاليسز"
+        },
+        {
+            "Code": "121832",
+            "Name": "Kalisz Pomorski",
+            "NameAr": "كاليسز بومورسكي"
+        },
+        {
+            "Code": "123487",
+            "Name": "Kalwaria Zebrzydowska",
+            "NameAr": "كالواريا زيبرزيدووسكا"
+        },
+        {
+            "Code": "123490",
+            "Name": "Kamien Pomorski",
+            "NameAr": "كاميين بومورسكي"
+        },
+        {
+            "Code": "108354",
+            "Name": "Kamin in Westpreu?en",
+            "NameAr": "كامين ين ويستبريوين"
+        },
+        {
+            "Code": "103949",
+            "Name": "Karczew",
+            "NameAr": "كاركزيو"
+        },
+        {
+            "Code": "122531",
+            "Name": "Karpacz",
+            "NameAr": "كارباكز"
+        },
+        {
+            "Code": "150237",
+            "Name": "Katowice",
+            "NameAr": "كاتوويكي"
+        },
+        {
+            "Code": "123112",
+            "Name": "Kattowitz",
+            "NameAr": "كاتتوويتز"
+        },
+        {
+            "Code": "122544",
+            "Name": "Katy Rybackie",
+            "NameAr": "كاتي ريباككيي"
+        },
+        {
+            "Code": "123115",
+            "Name": "Katy Wroclawskie",
+            "NameAr": "كاتي وروكلاوسكيي"
+        },
+        {
+            "Code": "122547",
+            "Name": "Kazimierz Dolny",
+            "NameAr": "كازيمييرز دولني"
+        },
+        {
+            "Code": "122968",
+            "Name": "Kazimierza Wielka",
+            "NameAr": "كازيمييرزا وييلكا"
+        },
+        {
+            "Code": "123645",
+            "Name": "Kedzierzyn-Kozle",
+            "NameAr": "كيدزييرزين-كوزلي"
+        },
+        {
+            "Code": "122987",
+            "Name": "Ketrzyn",
+            "NameAr": "كيترزين"
+        },
+        {
+            "Code": "123670",
+            "Name": "Kety",
+            "NameAr": "كيتي"
+        },
+        {
+            "Code": "103961",
+            "Name": "Kickelsee",
+            "NameAr": "كيككيلسيي"
+        },
+        {
+            "Code": "123156",
+            "Name": "Kielce",
+            "NameAr": "كييلكي"
+        },
+        {
+            "Code": "417481",
+            "Name": "Kielce County",
+            "NameAr": "كييلكي كوونتي"
+        },
+        {
+            "Code": "104113",
+            "Name": "Klaj",
+            "NameAr": "كلاج"
+        },
+        {
+            "Code": "295830",
+            "Name": "Klekotki",
+            "NameAr": "كليكوتكي"
+        },
+        {
+            "Code": "101959",
+            "Name": "Kleszczow",
+            "NameAr": "كليسزكزوو"
+        },
+        {
+            "Code": "123858",
+            "Name": "Kliczkow",
+            "NameAr": "كليكزكوو"
+        },
+        {
+            "Code": "124277",
+            "Name": "Klodawa",
+            "NameAr": "كلوداوا"
+        },
+        {
+            "Code": "124278",
+            "Name": "Klodzko",
+            "NameAr": "كلودزكو"
+        },
+        {
+            "Code": "123604",
+            "Name": "Kluczbork",
+            "NameAr": "كلوكزبورك"
+        },
+        {
+            "Code": "104116",
+            "Name": "Knybawa",
+            "NameAr": "كنيباوا"
+        },
+        {
+            "Code": "160852",
+            "Name": "Kobulty",
+            "NameAr": "كوبولتي"
+        },
+        {
+            "Code": "104118",
+            "Name": "Kobylany",
+            "NameAr": "كوبيلاني"
+        },
+        {
+            "Code": "103874",
+            "Name": "Kock",
+            "NameAr": "كوكك"
+        },
+        {
+            "Code": "123977",
+            "Name": "Koleczkowo",
+            "NameAr": "كوليكزكووو"
+        },
+        {
+            "Code": "123739",
+            "Name": "Kolno",
+            "NameAr": "كولنو"
+        },
+        {
+            "Code": "123878",
+            "Name": "Kolobrzeg",
+            "NameAr": "كولوبرزيج"
+        },
+        {
+            "Code": "103876",
+            "Name": "Kolonowskie",
+            "NameAr": "كولونووسكيي"
+        },
+        {
+            "Code": "123062",
+            "Name": "Komorno",
+            "NameAr": "كومورنو"
+        },
+        {
+            "Code": "124955",
+            "Name": "Konin",
+            "NameAr": "كونين"
+        },
+        {
+            "Code": "101691",
+            "Name": "Konina-Polanki",
+            "NameAr": "كونينا-بولانكي"
+        },
+        {
+            "Code": "160785",
+            "Name": "Konopnica",
+            "NameAr": "كونوبنيكا"
+        },
+        {
+            "Code": "123992",
+            "Name": "Konskie",
+            "NameAr": "كونسكيي"
+        },
+        {
+            "Code": "124956",
+            "Name": "Konstancin-Jeziorna",
+            "NameAr": "كونستانكين-جيزيورنا"
+        },
+        {
+            "Code": "101693",
+            "Name": "Konstantynow Lodzki",
+            "NameAr": "كونستانتينوو لودزكي"
+        },
+        {
+            "Code": "123306",
+            "Name": "Korbielow",
+            "NameAr": "كوربييلوو"
+        },
+        {
+            "Code": "103651",
+            "Name": "Koronowo",
+            "NameAr": "كورونووو"
+        },
+        {
+            "Code": "123072",
+            "Name": "Korzkiew",
+            "NameAr": "كورزكييو"
+        },
+        {
+            "Code": "123888",
+            "Name": "Kosakowo",
+            "NameAr": "كوساكووو"
+        },
+        {
+            "Code": "124004",
+            "Name": "Koscian",
+            "NameAr": "كوسكيان"
+        },
+        {
+            "Code": "146011",
+            "Name": "Koscielisko",
+            "NameAr": "كوسكييليسكو"
+        },
+        {
+            "Code": "103720",
+            "Name": "Koscielna Wies",
+            "NameAr": "كوسكييلنا وييس"
+        },
+        {
+            "Code": "123627",
+            "Name": "Koscierzyna",
+            "NameAr": "كوسكييرزينا"
+        },
+        {
+            "Code": "123311",
+            "Name": "Kosobudz",
+            "NameAr": "كوسوبودز"
+        },
+        {
+            "Code": "103881",
+            "Name": "Kostrzyn",
+            "NameAr": "كوسترزين"
+        },
+        {
+            "Code": "124408",
+            "Name": "Kostrzyn nad Odra",
+            "NameAr": "كوسترزين ناد ودرا"
+        },
+        {
+            "Code": "124964",
+            "Name": "Koszalin",
+            "NameAr": "كوسزالين"
+        },
+        {
+            "Code": "123898",
+            "Name": "Kowary",
+            "NameAr": "كوواري"
+        },
+        {
+            "Code": "101698",
+            "Name": "Kozieglowy",
+            "NameAr": "كوزييجلووي"
+        },
+        {
+            "Code": "103723",
+            "Name": "Kraczkowa",
+            "NameAr": "كراكزكووا"
+        },
+        {
+            "Code": "124418",
+            "Name": "Krag",
+            "NameAr": "كراج"
+        },
+        {
+            "Code": "124293",
+            "Name": "Krakow",
+            "NameAr": "كراكوو"
+        },
+        {
+            "Code": "124019",
+            "Name": "Krasiczyn",
+            "NameAr": "كراسيكزين"
+        },
+        {
+            "Code": "124429",
+            "Name": "Kroczyce",
+            "NameAr": "كروكزيكي"
+        },
+        {
+            "Code": "124430",
+            "Name": "Krokowa",
+            "NameAr": "كروكووا"
+        },
+        {
+            "Code": "160853",
+            "Name": "Kromerowo",
+            "NameAr": "كروميرووو"
+        },
+        {
+            "Code": "124432",
+            "Name": "Kroscienko nad Dunajcem",
+            "NameAr": "كروسكيينكو ناد دوناجكيم"
+        },
+        {
+            "Code": "146037",
+            "Name": "Krosno",
+            "NameAr": "كروسنو"
+        },
+        {
+            "Code": "124985",
+            "Name": "Krotoszyn",
+            "NameAr": "كروتوسزين"
+        },
+        {
+            "Code": "269390",
+            "Name": "Krubki-Górki",
+            "NameAr": "كروبكي-ج ركي"
+        },
+        {
+            "Code": "124031",
+            "Name": "Kruklanki",
+            "NameAr": "كروكلانكي"
+        },
+        {
+            "Code": "124308",
+            "Name": "Kruszyn",
+            "NameAr": "كروسزين"
+        },
+        {
+            "Code": "124989",
+            "Name": "Krutyn",
+            "NameAr": "كروتين"
+        },
+        {
+            "Code": "124309",
+            "Name": "Krynica Morska",
+            "NameAr": "كرينيكا مورسكا"
+        },
+        {
+            "Code": "124990",
+            "Name": "Krynica-Zdroj",
+            "NameAr": "كرينيكا-زدروج"
+        },
+        {
+            "Code": "123767",
+            "Name": "Ksiaz Wielki",
+            "NameAr": "كسياز وييلكي"
+        },
+        {
+            "Code": "124438",
+            "Name": "Ksiezyno",
+            "NameAr": "كسييزينو"
+        },
+        {
+            "Code": "313034",
+            "Name": "Kudowa Zdroj",
+            "NameAr": "كودووا زدروج"
+        },
+        {
+            "Code": "124313",
+            "Name": "Kuklowka Zarzeczna",
+            "NameAr": "كوكلووكا زارزيكزنا"
+        },
+        {
+            "Code": "123348",
+            "Name": "Kunow",
+            "NameAr": "كونوو"
+        },
+        {
+            "Code": "123783",
+            "Name": "Kuslin",
+            "NameAr": "كوسلين"
+        },
+        {
+            "Code": "146059",
+            "Name": "Kutno",
+            "NameAr": "كوتنو"
+        },
+        {
+            "Code": "101979",
+            "Name": "Kuty",
+            "NameAr": "كوتي"
+        },
+        {
+            "Code": "123789",
+            "Name": "Kwidzyn",
+            "NameAr": "كويدزين"
+        },
+        {
+            "Code": "125737",
+            "Name": "Lack",
+            "NameAr": "لاكك"
+        },
+        {
+            "Code": "125169",
+            "Name": "Ladek Zdroj",
+            "NameAr": "لاديك زدروج"
+        },
+        {
+            "Code": "125054",
+            "Name": "Lagow",
+            "NameAr": "لاجوو"
+        },
+        {
+            "Code": "146119",
+            "Name": "Laki",
+            "NameAr": "لاكي"
+        },
+        {
+            "Code": "125768",
+            "Name": "Lancut",
+            "NameAr": "لانكوت"
+        },
+        {
+            "Code": "146132",
+            "Name": "Landsberg an der Warthe",
+            "NameAr": "لاندسبيرج ان دير وارتهي"
+        },
+        {
+            "Code": "124801",
+            "Name": "Langenbielau",
+            "NameAr": "لانجينبييلاو"
+        },
+        {
+            "Code": "106421",
+            "Name": "Lapczyca",
+            "NameAr": "لابكزيكا"
+        },
+        {
+            "Code": "146156",
+            "Name": "Lapsze-Nizne",
+            "NameAr": "لابسزي-نيزني"
+        },
+        {
+            "Code": "125809",
+            "Name": "Lazy",
+            "NameAr": "لازي"
+        },
+        {
+            "Code": "124588",
+            "Name": "Leba",
+            "NameAr": "ليبا"
+        },
+        {
+            "Code": "103764",
+            "Name": "Leczna",
+            "NameAr": "ليكزنا"
+        },
+        {
+            "Code": "126492",
+            "Name": "Leczyca",
+            "NameAr": "ليكزيكا"
+        },
+        {
+            "Code": "146216",
+            "Name": "Legionowo",
+            "NameAr": "ليجيونووو"
+        },
+        {
+            "Code": "125383",
+            "Name": "Legowo",
+            "NameAr": "ليجووو"
+        },
+        {
+            "Code": "126528",
+            "Name": "Lesko",
+            "NameAr": "ليسكو"
+        },
+        {
+            "Code": "126530",
+            "Name": "Lesna Podlaska",
+            "NameAr": "ليسنا بودلاسكا"
+        },
+        {
+            "Code": "125556",
+            "Name": "Leszno",
+            "NameAr": "ليسزنو"
+        },
+        {
+            "Code": "102642",
+            "Name": "Lezajsk",
+            "NameAr": "ليزاجسك"
+        },
+        {
+            "Code": "104451",
+            "Name": "Leznica Wielka",
+            "NameAr": "ليزنيكا وييلكا"
+        },
+        {
+            "Code": "126549",
+            "Name": "Lidzbark",
+            "NameAr": "ليدزبارك"
+        },
+        {
+            "Code": "125839",
+            "Name": "Lidzbark Warminski",
+            "NameAr": "ليدزبارك وارمينسكي"
+        },
+        {
+            "Code": "125573",
+            "Name": "Liegnitz",
+            "NameAr": "لييجنيتز"
+        },
+        {
+            "Code": "102572",
+            "Name": "Lipno",
+            "NameAr": "ليبنو"
+        },
+        {
+            "Code": "125866",
+            "Name": "Lipowa",
+            "NameAr": "ليبووا"
+        },
+        {
+            "Code": "125887",
+            "Name": "Lochow",
+            "NameAr": "لوكهوو"
+        },
+        {
+            "Code": "126619",
+            "Name": "Lodz",
+            "NameAr": "لودز"
+        },
+        {
+            "Code": "125608",
+            "Name": "Lomianki",
+            "NameAr": "لوميانكي"
+        },
+        {
+            "Code": "126178",
+            "Name": "Lomza",
+            "NameAr": "لومزا"
+        },
+        {
+            "Code": "103769",
+            "Name": "Loslau",
+            "NameAr": "لوسلاو"
+        },
+        {
+            "Code": "126203",
+            "Name": "Lotzen",
+            "NameAr": "لوتزين"
+        },
+        {
+            "Code": "126051",
+            "Name": "Lowenberg in Schlesien",
+            "NameAr": "لووينبيرج ين سكهليسيين"
+        },
+        {
+            "Code": "103770",
+            "Name": "Lowicz",
+            "NameAr": "لوويكز"
+        },
+        {
+            "Code": "104469",
+            "Name": "Luban",
+            "NameAr": "لوبان"
+        },
+        {
+            "Code": "146375",
+            "Name": "Lubenia",
+            "NameAr": "لوبينيا"
+        },
+        {
+            "Code": "127310",
+            "Name": "Lubin",
+            "NameAr": "لوبين"
+        },
+        {
+            "Code": "125637",
+            "Name": "Lublin",
+            "NameAr": "لوبلين"
+        },
+        {
+            "Code": "125638",
+            "Name": "Lubomierz",
+            "NameAr": "لوبومييرز"
+        },
+        {
+            "Code": "126669",
+            "Name": "Ludwigsdorf",
+            "NameAr": "لودويجسدورف"
+        },
+        {
+            "Code": "126674",
+            "Name": "Lukecin",
+            "NameAr": "لوكيكين"
+        },
+        {
+            "Code": "103772",
+            "Name": "Lukow",
+            "NameAr": "لوكوو"
+        },
+        {
+            "Code": "125647",
+            "Name": "Lukta",
+            "NameAr": "لوكتا"
+        },
+        {
+            "Code": "104310",
+            "Name": "Lutowiska",
+            "NameAr": "لوتوويسكا"
+        },
+        {
+            "Code": "146399",
+            "Name": "Lysomice",
+            "NameAr": "ليسوميكي"
+        },
+        {
+            "Code": "104152",
+            "Name": "Makow Podhalanski",
+            "NameAr": "ماكوو بودهالانسكي"
+        },
+        {
+            "Code": "104154",
+            "Name": "Malogoszcz",
+            "NameAr": "مالوجوسزكز"
+        },
+        {
+            "Code": "146493",
+            "Name": "Marcinowice",
+            "NameAr": "ماركينوويكي"
+        },
+        {
+            "Code": "104030",
+            "Name": "Margonin",
+            "NameAr": "مارجونين"
+        },
+        {
+            "Code": "127147",
+            "Name": "Marienburg",
+            "NameAr": "ماريينبورج"
+        },
+        {
+            "Code": "128075",
+            "Name": "Marklissa",
+            "NameAr": "ماركليسسا"
+        },
+        {
+            "Code": "146535",
+            "Name": "Maslow",
+            "NameAr": "ماسلوو"
+        },
+        {
+            "Code": "104337",
+            "Name": "Massow",
+            "NameAr": "ماسسوو"
+        },
+        {
+            "Code": "128150",
+            "Name": "Masuren",
+            "NameAr": "ماسورين"
+        },
+        {
+            "Code": "128837",
+            "Name": "Mezowo",
+            "NameAr": "ميزووو"
+        },
+        {
+            "Code": "103812",
+            "Name": "Michalowice",
+            "NameAr": "ميكهالوويكي"
+        },
+        {
+            "Code": "104500",
+            "Name": "Miedziana Gora",
+            "NameAr": "مييدزيانا جورا"
+        },
+        {
+            "Code": "127763",
+            "Name": "Miedzybrodzie Bialskie",
+            "NameAr": "مييدزيبرودزيي بيالسكيي"
+        },
+        {
+            "Code": "127643",
+            "Name": "Miedzychod",
+            "NameAr": "مييدزيكهود"
+        },
+        {
+            "Code": "128847",
+            "Name": "Miedzygorze",
+            "NameAr": "مييدزيجورزي"
+        },
+        {
+            "Code": "128848",
+            "Name": "Miedzyrzec Podlaski",
+            "NameAr": "مييدزيرزيك بودلاسكي"
+        },
+        {
+            "Code": "127196",
+            "Name": "Miedzyzdroje",
+            "NameAr": "مييدزيزدروجي"
+        },
+        {
+            "Code": "127197",
+            "Name": "Mielec",
+            "NameAr": "مييليك"
+        },
+        {
+            "Code": "127645",
+            "Name": "Mielno",
+            "NameAr": "مييلنو"
+        },
+        {
+            "Code": "128854",
+            "Name": "Mikolajki",
+            "NameAr": "ميكولاجكي"
+        },
+        {
+            "Code": "102626",
+            "Name": "Mikolow",
+            "NameAr": "ميكولوو"
+        },
+        {
+            "Code": "104349",
+            "Name": "Milicz",
+            "NameAr": "ميليكز"
+        },
+        {
+            "Code": "128599",
+            "Name": "Milkow",
+            "NameAr": "ميلكوو"
+        },
+        {
+            "Code": "127657",
+            "Name": "Milomlyn",
+            "NameAr": "ميلوملين"
+        },
+        {
+            "Code": "146634",
+            "Name": "Milowka",
+            "NameAr": "ميلووكا"
+        },
+        {
+            "Code": "106507",
+            "Name": "Minsk Mazowiecki",
+            "NameAr": "مينسك مازووييككي"
+        },
+        {
+            "Code": "104785",
+            "Name": "Mlawa",
+            "NameAr": "ملاوا"
+        },
+        {
+            "Code": "106512",
+            "Name": "Mniow",
+            "NameAr": "منيوو"
+        },
+        {
+            "Code": "127234",
+            "Name": "Modlnica",
+            "NameAr": "مودلنيكا"
+        },
+        {
+            "Code": "128631",
+            "Name": "Mohrungen (Morag)",
+            "NameAr": "موهرونجين موراج"
+        },
+        {
+            "Code": "127258",
+            "Name": "Monki",
+            "NameAr": "مونكي"
+        },
+        {
+            "Code": "129408",
+            "Name": "Mragowo",
+            "NameAr": "مراجووو"
+        },
+        {
+            "Code": "129409",
+            "Name": "Mrezyno",
+            "NameAr": "مريزينو"
+        },
+        {
+            "Code": "160825",
+            "Name": "Mrzezino\t",
+            "NameAr": "مرزيزينو"
+        },
+        {
+            "Code": "146761",
+            "Name": "Mrzezyno",
+            "NameAr": "مرزيزينو"
+        },
+        {
+            "Code": "128565",
+            "Name": "Mszana Dolna",
+            "NameAr": "مسزانا دولنا"
+        },
+        {
+            "Code": "146762",
+            "Name": "Mszczonow",
+            "NameAr": "مسزكزونوو"
+        },
+        {
+            "Code": "146785",
+            "Name": "Murowana Goslina",
+            "NameAr": "مورووانا جوسلينا"
+        },
+        {
+            "Code": "128689",
+            "Name": "Murzasichle",
+            "NameAr": "مورزاسيكهلي"
+        },
+        {
+            "Code": "129716",
+            "Name": "Muszyna",
+            "NameAr": "موسزينا"
+        },
+        {
+            "Code": "129117",
+            "Name": "Myslakowice",
+            "NameAr": "ميسلاكوويكي"
+        },
+        {
+            "Code": "129719",
+            "Name": "Myslenice",
+            "NameAr": "ميسلينيكي"
+        },
+        {
+            "Code": "102850",
+            "Name": "Mysliborz",
+            "NameAr": "ميسليبورز"
+        },
+        {
+            "Code": "129258",
+            "Name": "Naleczow",
+            "NameAr": "ناليكزوو"
+        },
+        {
+            "Code": "130360",
+            "Name": "Namyslow",
+            "NameAr": "ناميسلوو"
+        },
+        {
+            "Code": "104510",
+            "Name": "Nasielsk",
+            "NameAr": "ناسييلسك"
+        },
+        {
+            "Code": "103014",
+            "Name": "Neumittelwalde",
+            "NameAr": "نيوميتتيلوالدي"
+        },
+        {
+            "Code": "129843",
+            "Name": "Neurode",
+            "NameAr": "نيورودي"
+        },
+        {
+            "Code": "130415",
+            "Name": "Neustadt an der Warthe",
+            "NameAr": "نيوستادت ان دير وارتهي"
+        },
+        {
+            "Code": "104372",
+            "Name": "Neustadt in Oberschlesien",
+            "NameAr": "نيوستادت ين وبيرسكهليسيين"
+        },
+        {
+            "Code": "129317",
+            "Name": "Neustettin",
+            "NameAr": "نيوستيتتين"
+        },
+        {
+            "Code": "103016",
+            "Name": "Nieborow",
+            "NameAr": "نييبوروو"
+        },
+        {
+            "Code": "131122",
+            "Name": "Niechorze",
+            "NameAr": "نييكهورزي"
+        },
+        {
+            "Code": "103017",
+            "Name": "Niedrzwica Duza",
+            "NameAr": "نييدرزويكا دوزا"
+        },
+        {
+            "Code": "131126",
+            "Name": "Niedzica",
+            "NameAr": "نييدزيكا"
+        },
+        {
+            "Code": "103018",
+            "Name": "Niemce",
+            "NameAr": "نييمكي"
+        },
+        {
+            "Code": "129468",
+            "Name": "Niepolomice",
+            "NameAr": "نييبولوميكي"
+        },
+        {
+            "Code": "129880",
+            "Name": "Niewiesze",
+            "NameAr": "نييوييسزي"
+        },
+        {
+            "Code": "104532",
+            "Name": "Nimptsch",
+            "NameAr": "نيمبتسكه"
+        },
+        {
+            "Code": "106549",
+            "Name": "Niwy",
+            "NameAr": "نيوي"
+        },
+        {
+            "Code": "129520",
+            "Name": "Nowe",
+            "NameAr": "نووي"
+        },
+        {
+            "Code": "129521",
+            "Name": "Nowe Brzesko",
+            "NameAr": "نووي برزيسكو"
+        },
+        {
+            "Code": "102049",
+            "Name": "Nowe Skalmierzyce",
+            "NameAr": "نووي سكالمييرزيكي"
+        },
+        {
+            "Code": "130538",
+            "Name": "Nowecin",
+            "NameAr": "نوويكين"
+        },
+        {
+            "Code": "131184",
+            "Name": "Nowogard",
+            "NameAr": "نوووجارد"
+        },
+        {
+            "Code": "131185",
+            "Name": "Nowogrod",
+            "NameAr": "نوووجرود"
+        },
+        {
+            "Code": "130580",
+            "Name": "Nowogrodziec",
+            "NameAr": "نوووجرودزييك"
+        },
+        {
+            "Code": "131186",
+            "Name": "Nowy Dwor Mazowiecki",
+            "NameAr": "نووي دوور مازووييككي"
+        },
+        {
+            "Code": "131210",
+            "Name": "Nowy Sacz",
+            "NameAr": "نووي ساكز"
+        },
+        {
+            "Code": "130581",
+            "Name": "Nowy Targ",
+            "NameAr": "نووي تارج"
+        },
+        {
+            "Code": "130582",
+            "Name": "Nowy Tomysl",
+            "NameAr": "نووي توميسل"
+        },
+        {
+            "Code": "131196",
+            "Name": "Nysa",
+            "NameAr": "نيسا"
+        },
+        {
+            "Code": "130064",
+            "Name": "Ober Kahlbude",
+            "NameAr": "وبير كاهلبودي"
+        },
+        {
+            "Code": "104830",
+            "Name": "Ogrodzieniec",
+            "NameAr": "وجرودزيينييك"
+        },
+        {
+            "Code": "104558",
+            "Name": "Okuninka",
+            "NameAr": "وكونينكا"
+        },
+        {
+            "Code": "130769",
+            "Name": "Olawa",
+            "NameAr": "ولاوا"
+        },
+        {
+            "Code": "130968",
+            "Name": "Olecko",
+            "NameAr": "وليككو"
+        },
+        {
+            "Code": "131910",
+            "Name": "Olesnica",
+            "NameAr": "وليسنيكا"
+        },
+        {
+            "Code": "130772",
+            "Name": "Olesno",
+            "NameAr": "وليسنو"
+        },
+        {
+            "Code": "130778",
+            "Name": "Olkusz",
+            "NameAr": "ولكوسز"
+        },
+        {
+            "Code": "150917",
+            "Name": "Olsztyn",
+            "NameAr": "ولسزتين"
+        },
+        {
+            "Code": "130665",
+            "Name": "Olsztynek",
+            "NameAr": "ولسزتينيك"
+        },
+        {
+            "Code": "147008",
+            "Name": "Opatow",
+            "NameAr": "وباتوو"
+        },
+        {
+            "Code": "130642",
+            "Name": "Opoczno",
+            "NameAr": "وبوكزنو"
+        },
+        {
+            "Code": "151548",
+            "Name": "Opole",
+            "NameAr": "وبولي"
+        },
+        {
+            "Code": "130786",
+            "Name": "Oppeln",
+            "NameAr": "وببيلن"
+        },
+        {
+            "Code": "130804",
+            "Name": "Orneta",
+            "NameAr": "ورنيتا"
+        },
+        {
+            "Code": "104303",
+            "Name": "Oronsko",
+            "NameAr": "ورونسكو"
+        },
+        {
+            "Code": "103400",
+            "Name": "Orzesche",
+            "NameAr": "ورزيسكهي"
+        },
+        {
+            "Code": "131956",
+            "Name": "Osiecznica",
+            "NameAr": "وسييكزنيكا"
+        },
+        {
+            "Code": "130269",
+            "Name": "Osieki",
+            "NameAr": "وسييكي"
+        },
+        {
+            "Code": "130703",
+            "Name": "Osno Lubuskie",
+            "NameAr": "وسنو لوبوسكيي"
+        },
+        {
+            "Code": "130280",
+            "Name": "Ostroda",
+            "NameAr": "وسترودا"
+        },
+        {
+            "Code": "130712",
+            "Name": "Ostroleka",
+            "NameAr": "وستروليكا"
+        },
+        {
+            "Code": "131964",
+            "Name": "Ostrow Mazowiecka",
+            "NameAr": "وستروو مازووييككا"
+        },
+        {
+            "Code": "131692",
+            "Name": "Ostrow Wielki",
+            "NameAr": "وستروو وييلكي"
+        },
+        {
+            "Code": "131693",
+            "Name": "Ostrowiec Swietokrzyski",
+            "NameAr": "وسترووييك سوييتوكرزيسكي"
+        },
+        {
+            "Code": "130713",
+            "Name": "Ostrowo",
+            "NameAr": "وسترووو"
+        },
+        {
+            "Code": "131966",
+            "Name": "Ostrzeszow",
+            "NameAr": "وسترزيسزوو"
+        },
+        {
+            "Code": "104837",
+            "Name": "Ostrzyce",
+            "NameAr": "وسترزيكي"
+        },
+        {
+            "Code": "103405",
+            "Name": "Owinska",
+            "NameAr": "ووينسكا"
+        },
+        {
+            "Code": "147055",
+            "Name": "Ozarow Mazowiecki",
+            "NameAr": "وزاروو مازووييككي"
+        },
+        {
+            "Code": "130738",
+            "Name": "Pabianice",
+            "NameAr": "بابيانيكي"
+        },
+        {
+            "Code": "132023",
+            "Name": "Pakoslawice",
+            "NameAr": "باكوسلاويكي"
+        },
+        {
+            "Code": "132060",
+            "Name": "Paslek",
+            "NameAr": "باسليك"
+        },
+        {
+            "Code": "131025",
+            "Name": "Paszkowka",
+            "NameAr": "باسزكووكا"
+        },
+        {
+            "Code": "103421",
+            "Name": "Pawlowiczki",
+            "NameAr": "باولوويكزكي"
+        },
+        {
+            "Code": "102900",
+            "Name": "Petznik",
+            "NameAr": "بيتزنيك"
+        },
+        {
+            "Code": "132495",
+            "Name": "Piaseczno",
+            "NameAr": "بياسيكزنو"
+        },
+        {
+            "Code": "133403",
+            "Name": "Piaski",
+            "NameAr": "بياسكي"
+        },
+        {
+            "Code": "132785",
+            "Name": "Piechowice",
+            "NameAr": "بييكهوويكي"
+        },
+        {
+            "Code": "132172",
+            "Name": "Piekary Slaskie",
+            "NameAr": "بييكاري سلاسكيي"
+        },
+        {
+            "Code": "104856",
+            "Name": "Piekoszow",
+            "NameAr": "بييكوسزوو"
+        },
+        {
+            "Code": "104857",
+            "Name": "Pieszyce",
+            "NameAr": "بييسزيكي"
+        },
+        {
+            "Code": "147199",
+            "Name": "Pilzno",
+            "NameAr": "بيلزنو"
+        },
+        {
+            "Code": "133429",
+            "Name": "Piotrkow Trybunalski",
+            "NameAr": "بيوتركوو تريبونالسكي"
+        },
+        {
+            "Code": "132815",
+            "Name": "Pisz",
+            "NameAr": "بيسز"
+        },
+        {
+            "Code": "102006",
+            "Name": "Pitschen",
+            "NameAr": "بيتسكهين"
+        },
+        {
+            "Code": "147211",
+            "Name": "Piwniczna Zdroj",
+            "NameAr": "بيونيكزنا زدروج"
+        },
+        {
+            "Code": "132855",
+            "Name": "Pleszew",
+            "NameAr": "بليسزيو"
+        },
+        {
+            "Code": "106621",
+            "Name": "Plewiska",
+            "NameAr": "بليويسكا"
+        },
+        {
+            "Code": "147243",
+            "Name": "Plock",
+            "NameAr": "بلوكك"
+        },
+        {
+            "Code": "133464",
+            "Name": "Plonsk",
+            "NameAr": "بلونسك"
+        },
+        {
+            "Code": "104227",
+            "Name": "Pobiedziska",
+            "NameAr": "بوبييدزيسكا"
+        },
+        {
+            "Code": "147252",
+            "Name": "Pobierowo",
+            "NameAr": "بوبييرووو"
+        },
+        {
+            "Code": "131797",
+            "Name": "Poddebice",
+            "NameAr": "بودديبيكي"
+        },
+        {
+            "Code": "131798",
+            "Name": "Podkowa Lesna",
+            "NameAr": "بودكووا ليسنا"
+        },
+        {
+            "Code": "106622",
+            "Name": "Podstolice",
+            "NameAr": "بودستوليكي"
+        },
+        {
+            "Code": "133518",
+            "Name": "Pogorzelica",
+            "NameAr": "بوجورزيليكا"
+        },
+        {
+            "Code": "103440",
+            "Name": "Polanczyk",
+            "NameAr": "بولانكزيك"
+        },
+        {
+            "Code": "102088",
+            "Name": "Poland",
+            "NameAr": "بولاند"
+        },
+        {
+            "Code": "132363",
+            "Name": "Polanow",
+            "NameAr": "بولانوو"
+        },
+        {
+            "Code": "132279",
+            "Name": "Polczyn",
+            "NameAr": "بولكزين"
+        },
+        {
+            "Code": "417546",
+            "Name": "Police",
+            "NameAr": "بوليكي"
+        },
+        {
+            "Code": "102089",
+            "Name": "Polnisch Neudorf",
+            "NameAr": "بولنيسكه نيودورف"
+        },
+        {
+            "Code": "133532",
+            "Name": "Pomlewo",
+            "NameAr": "بومليوو"
+        },
+        {
+            "Code": "133487",
+            "Name": "Poniatowa",
+            "NameAr": "بونياتووا"
+        },
+        {
+            "Code": "103302",
+            "Name": "Poronin",
+            "NameAr": "بورونين"
+        },
+        {
+            "Code": "133281",
+            "Name": "Postolowo",
+            "NameAr": "بوستولووو"
+        },
+        {
+            "Code": "132423",
+            "Name": "Powidz",
+            "NameAr": "بوويدز"
+        },
+        {
+            "Code": "133077",
+            "Name": "Pozezdrze",
+            "NameAr": "بوزيزدرزي"
+        },
+        {
+            "Code": "132946",
+            "Name": "Poznan",
+            "NameAr": "بوزنان"
+        },
+        {
+            "Code": "155533",
+            "Name": "Poznan County",
+            "NameAr": "بوزنان كوونتي"
+        },
+        {
+            "Code": "103081",
+            "Name": "Prochowice",
+            "NameAr": "بروكهوويكي"
+        },
+        {
+            "Code": "147382",
+            "Name": "Prusice",
+            "NameAr": "بروسيكي"
+        },
+        {
+            "Code": "133976",
+            "Name": "Pruszkow",
+            "NameAr": "بروسزكوو"
+        },
+        {
+            "Code": "133035",
+            "Name": "Przechlewo",
+            "NameAr": "برزيكهليوو"
+        },
+        {
+            "Code": "108411",
+            "Name": "Przemet",
+            "NameAr": "برزيميت"
+        },
+        {
+            "Code": "133113",
+            "Name": "Przemysl",
+            "NameAr": "برزيميسل"
+        },
+        {
+            "Code": "133114",
+            "Name": "Przeworsk",
+            "NameAr": "برزيوورسك"
+        },
+        {
+            "Code": "133608",
+            "Name": "Przezmierowo",
+            "NameAr": "برزيزمييرووو"
+        },
+        {
+            "Code": "103456",
+            "Name": "Przykona",
+            "NameAr": "برزيكونا"
+        },
+        {
+            "Code": "102775",
+            "Name": "Przylekow",
+            "NameAr": "برزيليكوو"
+        },
+        {
+            "Code": "103317",
+            "Name": "Przysiek",
+            "NameAr": "برزيسييك"
+        },
+        {
+            "Code": "147383",
+            "Name": "Przyszowice",
+            "NameAr": "برزيسزوويكي"
+        },
+        {
+            "Code": "133977",
+            "Name": "Pszczyna",
+            "NameAr": "بسزكزينا"
+        },
+        {
+            "Code": "133118",
+            "Name": "Puck",
+            "NameAr": "بوكك"
+        },
+        {
+            "Code": "103320",
+            "Name": "Pulawy",
+            "NameAr": "بولاوي"
+        },
+        {
+            "Code": "134171",
+            "Name": "Pultusk",
+            "NameAr": "بولتوسك"
+        },
+        {
+            "Code": "132614",
+            "Name": "Rabka",
+            "NameAr": "رابكا"
+        },
+        {
+            "Code": "135033",
+            "Name": "Raciborz",
+            "NameAr": "راكيبورز"
+        },
+        {
+            "Code": "147438",
+            "Name": "Raclawice",
+            "NameAr": "راكلاويكي"
+        },
+        {
+            "Code": "133664",
+            "Name": "Radom",
+            "NameAr": "رادوم"
+        },
+        {
+            "Code": "133665",
+            "Name": "Radomsko",
+            "NameAr": "رادومسكو"
+        },
+        {
+            "Code": "102671",
+            "Name": "Radymno",
+            "NameAr": "راديمنو"
+        },
+        {
+            "Code": "160816",
+            "Name": "Radzieje\t",
+            "NameAr": "رادزييجي"
+        },
+        {
+            "Code": "133291",
+            "Name": "Rastenburg",
+            "NameAr": "راستينبورج"
+        },
+        {
+            "Code": "134708",
+            "Name": "Raszyn",
+            "NameAr": "راسزين"
+        },
+        {
+            "Code": "102676",
+            "Name": "Rauscha",
+            "NameAr": "راوسكها"
+        },
+        {
+            "Code": "135061",
+            "Name": "Rawa Mazowiecka",
+            "NameAr": "راوا مازووييككا"
+        },
+        {
+            "Code": "133867",
+            "Name": "Reda",
+            "NameAr": "ريدا"
+        },
+        {
+            "Code": "134241",
+            "Name": "Reichenbach",
+            "NameAr": "رييكهينباكه"
+        },
+        {
+            "Code": "103116",
+            "Name": "Reimannshau",
+            "NameAr": "رييماننسهاو"
+        },
+        {
+            "Code": "103099",
+            "Name": "Rejowiec Fabryczny",
+            "NameAr": "ريجووييك فابريكزني"
+        },
+        {
+            "Code": "147492",
+            "Name": "Rekowo",
+            "NameAr": "ريكووو"
+        },
+        {
+            "Code": "133885",
+            "Name": "Renska Wies",
+            "NameAr": "رينسكا وييس"
+        },
+        {
+            "Code": "134744",
+            "Name": "Reppen",
+            "NameAr": "ريببين"
+        },
+        {
+            "Code": "134380",
+            "Name": "Rewal",
+            "NameAr": "ريوال"
+        },
+        {
+            "Code": "134450",
+            "Name": "Rogowo",
+            "NameAr": "روجووو"
+        },
+        {
+            "Code": "135419",
+            "Name": "Rokitno",
+            "NameAr": "روكيتنو"
+        },
+        {
+            "Code": "134573",
+            "Name": "Rowy",
+            "NameAr": "رووي"
+        },
+        {
+            "Code": "135461",
+            "Name": "Ruciane",
+            "NameAr": "روكياني"
+        },
+        {
+            "Code": "135784",
+            "Name": "Rumia",
+            "NameAr": "روميا"
+        },
+        {
+            "Code": "135142",
+            "Name": "Runowo Krajenskie",
+            "NameAr": "رونووو كراجينسكيي"
+        },
+        {
+            "Code": "135793",
+            "Name": "Rybnik",
+            "NameAr": "ريبنيك"
+        },
+        {
+            "Code": "106745",
+            "Name": "Rychwald",
+            "NameAr": "ريكهوالد"
+        },
+        {
+            "Code": "135151",
+            "Name": "Rydzewo",
+            "NameAr": "ريدزيوو"
+        },
+        {
+            "Code": "134672",
+            "Name": "Rydzyna",
+            "NameAr": "ريدزينا"
+        },
+        {
+            "Code": "135479",
+            "Name": "Ryn",
+            "NameAr": "رين"
+        },
+        {
+            "Code": "102966",
+            "Name": "Rytro",
+            "NameAr": "ريترو"
+        },
+        {
+            "Code": "108459",
+            "Name": "Rytwiany",
+            "NameAr": "ريتوياني"
+        },
+        {
+            "Code": "135229",
+            "Name": "Rzeszow",
+            "NameAr": "رزيسزوو"
+        },
+        {
+            "Code": "135488",
+            "Name": "Sadlinki",
+            "NameAr": "سادلينكي"
+        },
+        {
+            "Code": "106998",
+            "Name": "Sadowie",
+            "NameAr": "سادوويي"
+        },
+        {
+            "Code": "106999",
+            "Name": "Sagor",
+            "NameAr": "ساجور"
+        },
+        {
+            "Code": "135981",
+            "Name": "Sandomierz",
+            "NameAr": "ساندومييرز"
+        },
+        {
+            "Code": "103360",
+            "Name": "Sanok",
+            "NameAr": "سانوك"
+        },
+        {
+            "Code": "136635",
+            "Name": "Sarbinowo",
+            "NameAr": "ساربينووو"
+        },
+        {
+            "Code": "108504",
+            "Name": "Sarnaki",
+            "NameAr": "سارناكي"
+        },
+        {
+            "Code": "147777",
+            "Name": "Sasino",
+            "NameAr": "ساسينو"
+        },
+        {
+            "Code": "107356",
+            "Name": "Schiedlowietz",
+            "NameAr": "سكهييدلووييتز"
+        },
+        {
+            "Code": "108513",
+            "Name": "Schlehen",
+            "NameAr": "سكهليهين"
+        },
+        {
+            "Code": "137227",
+            "Name": "Schneidemuhl",
+            "NameAr": "سكهنييديموهل"
+        },
+        {
+            "Code": "108514",
+            "Name": "Schonberg",
+            "NameAr": "سكهونبيرج"
+        },
+        {
+            "Code": "107357",
+            "Name": "Schonlanke",
+            "NameAr": "سكهونلانكي"
+        },
+        {
+            "Code": "136734",
+            "Name": "Schweidnitz",
+            "NameAr": "سكهوييدنيتز"
+        },
+        {
+            "Code": "137695",
+            "Name": "Sedziszow Malopolski",
+            "NameAr": "سيدزيسزوو مالوبولسكي"
+        },
+        {
+            "Code": "103167",
+            "Name": "Seitenberg)",
+            "NameAr": "سييتينبيرج"
+        },
+        {
+            "Code": "103529",
+            "Name": "Sekocin Stary",
+            "NameAr": "سيكوكين ستاري"
+        },
+        {
+            "Code": "136270",
+            "Name": "Sepolno Krajenskie",
+            "NameAr": "سيبولنو كراجينسكيي"
+        },
+        {
+            "Code": "137012",
+            "Name": "Serock",
+            "NameAr": "سيروكك"
+        },
+        {
+            "Code": "147899",
+            "Name": "Sianozety",
+            "NameAr": "سيانوزيتي"
+        },
+        {
+            "Code": "106320",
+            "Name": "Siedlce",
+            "NameAr": "سييدلكي"
+        },
+        {
+            "Code": "147903",
+            "Name": "Siemianowice Slaskie",
+            "NameAr": "سييميانوويكي سلاسكيي"
+        },
+        {
+            "Code": "137455",
+            "Name": "Siemiatycze",
+            "NameAr": "سييمياتيكزي"
+        },
+        {
+            "Code": "137760",
+            "Name": "Sieniawa",
+            "NameAr": "سيينياوا"
+        },
+        {
+            "Code": "137456",
+            "Name": "Siennica",
+            "NameAr": "سييننيكا"
+        },
+        {
+            "Code": "137593",
+            "Name": "Sieradz",
+            "NameAr": "سييرادز"
+        },
+        {
+            "Code": "138688",
+            "Name": "Sierakow",
+            "NameAr": "سييراكوو"
+        },
+        {
+            "Code": "138689",
+            "Name": "Siewierz",
+            "NameAr": "سييوييرز"
+        },
+        {
+            "Code": "108544",
+            "Name": "Sitkowka-Nowiny",
+            "NameAr": "سيتكووكا-نوويني"
+        },
+        {
+            "Code": "108545",
+            "Name": "Skarbimierz",
+            "NameAr": "سكاربيمييرز"
+        },
+        {
+            "Code": "107232",
+            "Name": "Skarzysko-Kamienna",
+            "NameAr": "سكارزيسكو-كامييننا"
+        },
+        {
+            "Code": "138103",
+            "Name": "Skawina",
+            "NameAr": "سكاوينا"
+        },
+        {
+            "Code": "106899",
+            "Name": "Skierniewice",
+            "NameAr": "سكييرنييويكي"
+        },
+        {
+            "Code": "106652",
+            "Name": "Skomielna Czarna",
+            "NameAr": "سكومييلنا كزارنا"
+        },
+        {
+            "Code": "147939",
+            "Name": "Skwierzyna",
+            "NameAr": "سكوييرزينا"
+        },
+        {
+            "Code": "106901",
+            "Name": "Slawice",
+            "NameAr": "سلاويكي"
+        },
+        {
+            "Code": "137495",
+            "Name": "Slawno",
+            "NameAr": "سلاونو"
+        },
+        {
+            "Code": "147942",
+            "Name": "Slesin",
+            "NameAr": "سليسين"
+        },
+        {
+            "Code": "138025",
+            "Name": "Sleza",
+            "NameAr": "سليزا"
+        },
+        {
+            "Code": "138114",
+            "Name": "Slubice",
+            "NameAr": "سلوبيكي"
+        },
+        {
+            "Code": "107725",
+            "Name": "Slupca",
+            "NameAr": "سلوبكا"
+        },
+        {
+            "Code": "151014",
+            "Name": "Slupsk",
+            "NameAr": "سلوبسك"
+        },
+        {
+            "Code": "392626",
+            "Name": "Smoldzino",
+            "NameAr": "سمولدزينو"
+        },
+        {
+            "Code": "106332",
+            "Name": "Sobotka",
+            "NameAr": "سوبوتكا"
+        },
+        {
+            "Code": "138746",
+            "Name": "Sochaczew",
+            "NameAr": "سوكهاكزيو"
+        },
+        {
+            "Code": "138131",
+            "Name": "Solec-Zdroj",
+            "NameAr": "سوليك-زدروج"
+        },
+        {
+            "Code": "139419",
+            "Name": "Sopot",
+            "NameAr": "سوبوت"
+        },
+        {
+            "Code": "137530",
+            "Name": "Sosnicowice",
+            "NameAr": "سوسنيكوويكي"
+        },
+        {
+            "Code": "138147",
+            "Name": "Sosnowiec",
+            "NameAr": "سوسنووييك"
+        },
+        {
+            "Code": "138170",
+            "Name": "Spala",
+            "NameAr": "سبالا"
+        },
+        {
+            "Code": "138210",
+            "Name": "Spychowo",
+            "NameAr": "سبيكهووو"
+        },
+        {
+            "Code": "107248",
+            "Name": "Srebrna Gora",
+            "NameAr": "سريبرنا جورا"
+        },
+        {
+            "Code": "139455",
+            "Name": "Srem",
+            "NameAr": "سريم"
+        },
+        {
+            "Code": "103610",
+            "Name": "Sroda Slaska",
+            "NameAr": "سرودا سلاسكا"
+        },
+        {
+            "Code": "138188",
+            "Name": "Sroda Wielkopolska",
+            "NameAr": "سرودا وييلكوبولسكا"
+        },
+        {
+            "Code": "103611",
+            "Name": "Sromowice Nizne",
+            "NameAr": "سروموويكي نيزني"
+        },
+        {
+            "Code": "150684",
+            "Name": "Stalowa Wola",
+            "NameAr": "ستالووا وولا"
+        },
+        {
+            "Code": "148043",
+            "Name": "Starachowice",
+            "NameAr": "ستاراكهوويكي"
+        },
+        {
+            "Code": "138251",
+            "Name": "Stare Czarnowo",
+            "NameAr": "ستاري كزارنووو"
+        },
+        {
+            "Code": "138413",
+            "Name": "Stare Jablonki",
+            "NameAr": "ستاري جابلونكي"
+        },
+        {
+            "Code": "148044",
+            "Name": "Stargard Szczecinski",
+            "NameAr": "ستارجارد سزكزيكينسكي"
+        },
+        {
+            "Code": "138894",
+            "Name": "Starogard Gdanski",
+            "NameAr": "ستاروجارد جدانسكي"
+        },
+        {
+            "Code": "137803",
+            "Name": "Stary Lichen",
+            "NameAr": "ستاري ليكهين"
+        },
+        {
+            "Code": "139244",
+            "Name": "Stawiguda",
+            "NameAr": "ستاويجودا"
+        },
+        {
+            "Code": "139246",
+            "Name": "Stegna",
+            "NameAr": "ستيجنا"
+        },
+        {
+            "Code": "139513",
+            "Name": "Steszew",
+            "NameAr": "ستيسزيو"
+        },
+        {
+            "Code": "138267",
+            "Name": "Stewignole",
+            "NameAr": "ستيويجنولي"
+        },
+        {
+            "Code": "140199",
+            "Name": "Stolp",
+            "NameAr": "ستولب"
+        },
+        {
+            "Code": "108573",
+            "Name": "Stopnica",
+            "NameAr": "ستوبنيكا"
+        },
+        {
+            "Code": "108575",
+            "Name": "Strasburg in Westpreu?en",
+            "NameAr": "ستراسبورج ين ويستبريوين"
+        },
+        {
+            "Code": "139119",
+            "Name": "Straschin",
+            "NameAr": "ستراسكهين"
+        },
+        {
+            "Code": "107076",
+            "Name": "Strehlen",
+            "NameAr": "ستريهلين"
+        },
+        {
+            "Code": "140215",
+            "Name": "Stronie Slaskie",
+            "NameAr": "سترونيي سلاسكيي"
+        },
+        {
+            "Code": "107749",
+            "Name": "Strykow",
+            "NameAr": "ستريكوو"
+        },
+        {
+            "Code": "138946",
+            "Name": "Strzegowo",
+            "NameAr": "سترزيجووو"
+        },
+        {
+            "Code": "106353",
+            "Name": "Strzelce Krajenskie",
+            "NameAr": "سترزيلكي كراجينسكيي"
+        },
+        {
+            "Code": "107267",
+            "Name": "Strzyzow",
+            "NameAr": "سترزيزوو"
+        },
+        {
+            "Code": "140221",
+            "Name": "Sucha Beskidzka",
+            "NameAr": "سوكها بيسكيدزكا"
+        },
+        {
+            "Code": "107750",
+            "Name": "Suchedniow",
+            "NameAr": "سوكهيدنيوو"
+        },
+        {
+            "Code": "139139",
+            "Name": "Sulechow",
+            "NameAr": "سوليكهوو"
+        },
+        {
+            "Code": "137864",
+            "Name": "Sulecin",
+            "NameAr": "سوليكين"
+        },
+        {
+            "Code": "138960",
+            "Name": "Suleczyno",
+            "NameAr": "سوليكزينو"
+        },
+        {
+            "Code": "139140",
+            "Name": "Sulejowek",
+            "NameAr": "سوليجوويك"
+        },
+        {
+            "Code": "139294",
+            "Name": "Sulkowice",
+            "NameAr": "سولكوويكي"
+        },
+        {
+            "Code": "139524",
+            "Name": "Suprasl",
+            "NameAr": "سوبراسل"
+        },
+        {
+            "Code": "139155",
+            "Name": "Suwalki",
+            "NameAr": "سووالكي"
+        },
+        {
+            "Code": "148117",
+            "Name": "Swarzedz",
+            "NameAr": "سوارزيدز"
+        },
+        {
+            "Code": "107147",
+            "Name": "Swidnik",
+            "NameAr": "سويدنيك"
+        },
+        {
+            "Code": "140254",
+            "Name": "Swiebodzin",
+            "NameAr": "سوييبودزين"
+        },
+        {
+            "Code": "139650",
+            "Name": "Swieradow Zdroj",
+            "NameAr": "سوييرادوو زدروج"
+        },
+        {
+            "Code": "148119",
+            "Name": "Swierzawa",
+            "NameAr": "سوييرزاوا"
+        },
+        {
+            "Code": "139164",
+            "Name": "Swierzno",
+            "NameAr": "سوييرزنو"
+        },
+        {
+            "Code": "138542",
+            "Name": "Swieszyno",
+            "NameAr": "سوييسزينو"
+        },
+        {
+            "Code": "140255",
+            "Name": "Swietajno (Powiat Olecki)",
+            "NameAr": "سوييتاجنو بوويات وليككي"
+        },
+        {
+            "Code": "140257",
+            "Name": "Swilcza",
+            "NameAr": "سويلكزا"
+        },
+        {
+            "Code": "138545",
+            "Name": "Swinoujscie",
+            "NameAr": "سوينووجسكيي"
+        },
+        {
+            "Code": "106936",
+            "Name": "Sycow",
+            "NameAr": "سيكوو"
+        },
+        {
+            "Code": "108583",
+            "Name": "Syrin",
+            "NameAr": "سيرين"
+        },
+        {
+            "Code": "139168",
+            "Name": "Szabruk",
+            "NameAr": "سزابروك"
+        },
+        {
+            "Code": "139657",
+            "Name": "Szaflary",
+            "NameAr": "سزافلاري"
+        },
+        {
+            "Code": "106817",
+            "Name": "Szamotuly",
+            "NameAr": "سزاموتولي"
+        },
+        {
+            "Code": "138551",
+            "Name": "Szczaniec",
+            "NameAr": "سزكزانييك"
+        },
+        {
+            "Code": "139170",
+            "Name": "Szczawnica",
+            "NameAr": "سزكزاونيكا"
+        },
+        {
+            "Code": "139658",
+            "Name": "Szczawno-Zdroj",
+            "NameAr": "سزكزاونو-زدروج"
+        },
+        {
+            "Code": "139883",
+            "Name": "Szczecin",
+            "NameAr": "سزكزيكين"
+        },
+        {
+            "Code": "148124",
+            "Name": "Szczyrk",
+            "NameAr": "سزكزيرك"
+        },
+        {
+            "Code": "139884",
+            "Name": "Szelkow",
+            "NameAr": "سزيلكوو"
+        },
+        {
+            "Code": "139172",
+            "Name": "Szklarska Poreba",
+            "NameAr": "سزكلارسكا بوريبا"
+        },
+        {
+            "Code": "106938",
+            "Name": "Szpegawa",
+            "NameAr": "سزبيجاوا"
+        },
+        {
+            "Code": "139885",
+            "Name": "Szprotawa",
+            "NameAr": "سزبروتاوا"
+        },
+        {
+            "Code": "139173",
+            "Name": "Sztumskie Pole",
+            "NameAr": "سزتومسكيي بولي"
+        },
+        {
+            "Code": "139886",
+            "Name": "Sztutowo",
+            "NameAr": "سزتوتووو"
+        },
+        {
+            "Code": "106361",
+            "Name": "Szydlow",
+            "NameAr": "سزيدلوو"
+        },
+        {
+            "Code": "139905",
+            "Name": "Talty",
+            "NameAr": "تالتي"
+        },
+        {
+            "Code": "139028",
+            "Name": "Tarczyn",
+            "NameAr": "تاركزين"
+        },
+        {
+            "Code": "151518",
+            "Name": "Tarnobrzeg",
+            "NameAr": "تارنوبرزيج"
+        },
+        {
+            "Code": "138586",
+            "Name": "Tarnow",
+            "NameAr": "تارنوو"
+        },
+        {
+            "Code": "139032",
+            "Name": "Tarnowskie Gory",
+            "NameAr": "تارنووسكيي جوري"
+        },
+        {
+            "Code": "139986",
+            "Name": "Tczew",
+            "NameAr": "تكزيو"
+        },
+        {
+            "Code": "138641",
+            "Name": "Thorn",
+            "NameAr": "تهورن"
+        },
+        {
+            "Code": "107641",
+            "Name": "Titschnersdorf",
+            "NameAr": "تيتسكهنيرسدورف"
+        },
+        {
+            "Code": "148244",
+            "Name": "Tluszcz",
+            "NameAr": "تلوسزكز"
+        },
+        {
+            "Code": "140461",
+            "Name": "Tolkmicko",
+            "NameAr": "تولكميككو"
+        },
+        {
+            "Code": "108614",
+            "Name": "Tomaszow Lubelski",
+            "NameAr": "توماسزوو لوبيلسكي"
+        },
+        {
+            "Code": "141069",
+            "Name": "Tomaszow Mazowiecki",
+            "NameAr": "توماسزوو مازووييككي"
+        },
+        {
+            "Code": "148255",
+            "Name": "Tomaszowice",
+            "NameAr": "توماسزوويكي"
+        },
+        {
+            "Code": "107645",
+            "Name": "Tomice",
+            "NameAr": "توميكي"
+        },
+        {
+            "Code": "139793",
+            "Name": "Torun",
+            "NameAr": "تورون"
+        },
+        {
+            "Code": "106844",
+            "Name": "Trebnitz",
+            "NameAr": "تريبنيتز"
+        },
+        {
+            "Code": "106850",
+            "Name": "Truppenfeld",
+            "NameAr": "تروببينفيلد"
+        },
+        {
+            "Code": "141211",
+            "Name": "Trzebiatow",
+            "NameAr": "ترزيبياتوو"
+        },
+        {
+            "Code": "107797",
+            "Name": "Trzebownisko",
+            "NameAr": "ترزيبوونيسكو"
+        },
+        {
+            "Code": "139829",
+            "Name": "Trzesacz",
+            "NameAr": "ترزيساكز"
+        },
+        {
+            "Code": "140393",
+            "Name": "Tuchola",
+            "NameAr": "توكهولا"
+        },
+        {
+            "Code": "141227",
+            "Name": "Turawa",
+            "NameAr": "توراوا"
+        },
+        {
+            "Code": "107801",
+            "Name": "Tuszyn",
+            "NameAr": "توسزين"
+        },
+        {
+            "Code": "140412",
+            "Name": "Tychy",
+            "NameAr": "تيكهي"
+        },
+        {
+            "Code": "108637",
+            "Name": "Ulan Majorat",
+            "NameAr": "ولان ماجورات"
+        },
+        {
+            "Code": "107203",
+            "Name": "Ulanow",
+            "NameAr": "ولانوو"
+        },
+        {
+            "Code": "238879",
+            "Name": "Uniejow",
+            "NameAr": "ونييجوو"
+        },
+        {
+            "Code": "140713",
+            "Name": "Uniescie",
+            "NameAr": "ونييسكيي"
+        },
+        {
+            "Code": "148396",
+            "Name": "Ustka",
+            "NameAr": "وستكا"
+        },
+        {
+            "Code": "140734",
+            "Name": "Ustron",
+            "NameAr": "وسترون"
+        },
+        {
+            "Code": "107939",
+            "Name": "Ustrzyki Dolne",
+            "NameAr": "وسترزيكي دولني"
+        },
+        {
+            "Code": "148586",
+            "Name": "Wadowice",
+            "NameAr": "وادوويكي"
+        },
+        {
+            "Code": "142760",
+            "Name": "Waglikowice",
+            "NameAr": "واجليكوويكي"
+        },
+        {
+            "Code": "142397",
+            "Name": "Wagrowiec",
+            "NameAr": "واجرووييك"
+        },
+        {
+            "Code": "107522",
+            "Name": "Wal-Ruda",
+            "NameAr": "وال-رودا"
+        },
+        {
+            "Code": "143245",
+            "Name": "Waldenburg",
+            "NameAr": "والدينبورج"
+        },
+        {
+            "Code": "143251",
+            "Name": "Walim",
+            "NameAr": "واليم"
+        },
+        {
+            "Code": "142791",
+            "Name": "Warchaly",
+            "NameAr": "واركهالي"
+        },
+        {
+            "Code": "148609",
+            "Name": "Warka",
+            "NameAr": "واركا"
+        },
+        {
+            "Code": "148614",
+            "Name": "Warsaw",
+            "NameAr": "وارساو"
+        },
+        {
+            "Code": "107984",
+            "Name": "Wartha",
+            "NameAr": "وارتها"
+        },
+        {
+            "Code": "107985",
+            "Name": "Wasilkow",
+            "NameAr": "واسيلكوو"
+        },
+        {
+            "Code": "143281",
+            "Name": "Wegorzewo",
+            "NameAr": "ويجورزيوو"
+        },
+        {
+            "Code": "142281",
+            "Name": "Wegrow",
+            "NameAr": "ويجروو"
+        },
+        {
+            "Code": "148648",
+            "Name": "Wejherowo",
+            "NameAr": "ويجهيرووو"
+        },
+        {
+            "Code": "148666",
+            "Name": "Wetlina",
+            "NameAr": "ويتلينا"
+        },
+        {
+            "Code": "160813",
+            "Name": "Wiartel",
+            "NameAr": "ويارتيل"
+        },
+        {
+            "Code": "148682",
+            "Name": "Wiazowna",
+            "NameAr": "ويازوونا"
+        },
+        {
+            "Code": "143003",
+            "Name": "Wicko",
+            "NameAr": "ويككو"
+        },
+        {
+            "Code": "143007",
+            "Name": "Wieliczka",
+            "NameAr": "وييليكزكا"
+        },
+        {
+            "Code": "142695",
+            "Name": "Wielki Gleboczek",
+            "NameAr": "وييلكي جليبوكزيك"
+        },
+        {
+            "Code": "141712",
+            "Name": "Wielun",
+            "NameAr": "وييلون"
+        },
+        {
+            "Code": "283147",
+            "Name": "Wielun County",
+            "NameAr": "وييلون كوونتي"
+        },
+        {
+            "Code": "143734",
+            "Name": "Wierzenica",
+            "NameAr": "وييرزينيكا"
+        },
+        {
+            "Code": "107601",
+            "Name": "Wilcze",
+            "NameAr": "ويلكزي"
+        },
+        {
+            "Code": "141720",
+            "Name": "Wilga",
+            "NameAr": "ويلجا"
+        },
+        {
+            "Code": "143739",
+            "Name": "Wilhelmsthal",
+            "NameAr": "ويلهيلمستهال"
+        },
+        {
+            "Code": "143740",
+            "Name": "Wilkasy",
+            "NameAr": "ويلكاسي"
+        },
+        {
+            "Code": "160815",
+            "Name": "Wilnowo\t",
+            "NameAr": "ويلنووو"
+        },
+        {
+            "Code": "141744",
+            "Name": "Wiselka",
+            "NameAr": "ويسيلكا"
+        },
+        {
+            "Code": "143041",
+            "Name": "Wisla",
+            "NameAr": "ويسلا"
+        },
+        {
+            "Code": "107505",
+            "Name": "Wisznice",
+            "NameAr": "ويسزنيكي"
+        },
+        {
+            "Code": "143603",
+            "Name": "Witkowo",
+            "NameAr": "ويتكووو"
+        },
+        {
+            "Code": "107714",
+            "Name": "Witnica",
+            "NameAr": "ويتنيكا"
+        },
+        {
+            "Code": "143760",
+            "Name": "Wladyslawowo",
+            "NameAr": "ولاديسلاوووو"
+        },
+        {
+            "Code": "143604",
+            "Name": "Wloclawek",
+            "NameAr": "ولوكلاويك"
+        },
+        {
+            "Code": "143465",
+            "Name": "Wlodawa",
+            "NameAr": "ولوداوا"
+        },
+        {
+            "Code": "142403",
+            "Name": "Wloszakowice",
+            "NameAr": "ولوسزاكوويكي"
+        },
+        {
+            "Code": "142862",
+            "Name": "Wloszczowa",
+            "NameAr": "ولوسزكزووا"
+        },
+        {
+            "Code": "107407",
+            "Name": "Wojcieszow",
+            "NameAr": "ووجكييسزوو"
+        },
+        {
+            "Code": "417854",
+            "Name": "Wojcieszyce",
+            "NameAr": "ووجكييسزيكي"
+        },
+        {
+            "Code": "107716",
+            "Name": "Wola Krzysztoporska",
+            "NameAr": "وولا كرزيسزتوبورسكا"
+        },
+        {
+            "Code": "107991",
+            "Name": "Wolborz",
+            "NameAr": "وولبورز"
+        },
+        {
+            "Code": "107507",
+            "Name": "Wolka Panienska",
+            "NameAr": "وولكا بانيينسكا"
+        },
+        {
+            "Code": "107533",
+            "Name": "Wolomin",
+            "NameAr": "وولومين"
+        },
+        {
+            "Code": "143773",
+            "Name": "Worliny",
+            "NameAr": "وورليني"
+        },
+        {
+            "Code": "107606",
+            "Name": "Woskrzenice Duze",
+            "NameAr": "ووسكرزينيكي دوزي"
+        },
+        {
+            "Code": "107993",
+            "Name": "Woszczyce",
+            "NameAr": "ووسزكزيكي"
+        },
+        {
+            "Code": "108015",
+            "Name": "Wrocki",
+            "NameAr": "وروككي"
+        },
+        {
+            "Code": "143776",
+            "Name": "Wroclaw",
+            "NameAr": "وروكلاو"
+        },
+        {
+            "Code": "143496",
+            "Name": "Wronki",
+            "NameAr": "ورونكي"
+        },
+        {
+            "Code": "143623",
+            "Name": "Wrzesnia",
+            "NameAr": "ورزيسنيا"
+        },
+        {
+            "Code": "108687",
+            "Name": "Wschowa",
+            "NameAr": "وسكهووا"
+        },
+        {
+            "Code": "142885",
+            "Name": "Wydminy",
+            "NameAr": "ويدميني"
+        },
+        {
+            "Code": "143314",
+            "Name": "Wyrzysk",
+            "NameAr": "ويرزيسك"
+        },
+        {
+            "Code": "108017",
+            "Name": "Wyszkow",
+            "NameAr": "ويسزكوو"
+        },
+        {
+            "Code": "143910",
+            "Name": "Zab",
+            "NameAr": "زاب"
+        },
+        {
+            "Code": "143522",
+            "Name": "Zabia Wola",
+            "NameAr": "زابيا وولا"
+        },
+        {
+            "Code": "107805",
+            "Name": "Zagan",
+            "NameAr": "زاجان"
+        },
+        {
+            "Code": "143658",
+            "Name": "Zakopane",
+            "NameAr": "زاكوباني"
+        },
+        {
+            "Code": "148790",
+            "Name": "Zakret",
+            "NameAr": "زاكريت"
+        },
+        {
+            "Code": "142482",
+            "Name": "Zamosc",
+            "NameAr": "زاموسك"
+        },
+        {
+            "Code": "143823",
+            "Name": "Zaniemysl",
+            "NameAr": "زانييميسل"
+        },
+        {
+            "Code": "142484",
+            "Name": "Zarnowska",
+            "NameAr": "زارنووسكا"
+        },
+        {
+            "Code": "143918",
+            "Name": "Zary",
+            "NameAr": "زاري"
+        },
+        {
+            "Code": "108007",
+            "Name": "Zasutowo",
+            "NameAr": "زاسوتووو"
+        },
+        {
+            "Code": "142935",
+            "Name": "Zawiercie",
+            "NameAr": "زاوييركيي"
+        },
+        {
+            "Code": "143666",
+            "Name": "Zawoja",
+            "NameAr": "زاووجا"
+        },
+        {
+            "Code": "148794",
+            "Name": "Zblewo",
+            "NameAr": "زبليوو"
+        },
+        {
+            "Code": "107424",
+            "Name": "Zbuczyn",
+            "NameAr": "زبوكزين"
+        },
+        {
+            "Code": "108032",
+            "Name": "Zbylitowska Gora",
+            "NameAr": "زبيليتووسكا جورا"
+        },
+        {
+            "Code": "143350",
+            "Name": "Zduny",
+            "NameAr": "زدوني"
+        },
+        {
+            "Code": "143921",
+            "Name": "Zegrze",
+            "NameAr": "زيجرزي"
+        },
+        {
+            "Code": "108010",
+            "Name": "Zelechow",
+            "NameAr": "زيليكهوو"
+        },
+        {
+            "Code": "108011",
+            "Name": "Zerkow",
+            "NameAr": "زيركوو"
+        },
+        {
+            "Code": "143858",
+            "Name": "Zgierz",
+            "NameAr": "زجييرز"
+        },
+        {
+            "Code": "143540",
+            "Name": "Zgorzelec",
+            "NameAr": "زجورزيليك"
+        },
+        {
+            "Code": "107928",
+            "Name": "Zichenau",
+            "NameAr": "زيكهيناو"
+        },
+        {
+            "Code": "143846",
+            "Name": "Zielona Gora",
+            "NameAr": "زييلونا جورا"
+        },
+        {
+            "Code": "143546",
+            "Name": "Zielonka",
+            "NameAr": "زييلونكا"
+        },
+        {
+            "Code": "107562",
+            "Name": "Zillerthal",
+            "NameAr": "زيلليرتهال"
+        },
+        {
+            "Code": "143368",
+            "Name": "Zlockie",
+            "NameAr": "زلوككيي"
+        },
+        {
+            "Code": "143550",
+            "Name": "Zlotoryja",
+            "NameAr": "زلوتوريجا"
+        },
+        {
+            "Code": "148819",
+            "Name": "Znin",
+            "NameAr": "زنين"
+        },
+        {
+            "Code": "143939",
+            "Name": "Zory",
+            "NameAr": "زوري"
+        },
+        {
+            "Code": "143876",
+            "Name": "Zukowo",
+            "NameAr": "زوكووو"
+        },
+        {
+            "Code": "143565",
+            "Name": "Zyrardow",
+            "NameAr": "زيراردوو"
+        },
+        {
+            "Code": "143566",
+            "Name": "Zywiec",
+            "NameAr": "زيوييك"
+        }
+    ],
+    "totalCities": 753
+}

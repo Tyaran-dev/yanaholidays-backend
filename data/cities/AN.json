@@ -1,0 +1,32 @@
+{
+    "id": "AN",
+    "countryCode": "AN",
+    "cities": [
+        {
+            "Code": "151730",
+            "Name": "Curacao",
+            "NameAr": "كوراكاو"
+        },
+        {
+            "Code": "151731",
+            "Name": "Saba Island",
+            "NameAr": "سابا يسلاند"
+        },
+        {
+            "Code": "151732",
+            "Name": "St Eustatius",
+            "NameAr": "ست يوستاتيوس"
+        },
+        {
+            "Code": "151733",
+            "Name": "St Maarten",
+            "NameAr": "ست ماارتين"
+        },
+        {
+            "Code": "417952",
+            "Name": "Willemstad",
+            "NameAr": "ويلليمستاد"
+        }
+    ],
+    "totalCities": 5
+}

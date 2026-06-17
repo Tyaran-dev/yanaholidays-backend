@@ -1,0 +1,42 @@
+{
+    "id": "ST",
+    "countryCode": "ST",
+    "cities": [
+        {
+            "Code": "149511",
+            "Name": "Caue Ilheu Das Rolas",
+            "NameAr": "كاوي يلهيو داس رولاس"
+        },
+        {
+            "Code": "133003",
+            "Name": "Praia Jale",
+            "NameAr": "برايا جالي"
+        },
+        {
+            "Code": "134330",
+            "Name": "Principe",
+            "NameAr": "برينكيبي"
+        },
+        {
+            "Code": "135420",
+            "Name": "Rolas",
+            "NameAr": "رولاس"
+        },
+        {
+            "Code": "136532",
+            "Name": "Santo Antonio",
+            "NameAr": "سانتو انتونيو"
+        },
+        {
+            "Code": "136538",
+            "Name": "Sao Joao De Angolares",
+            "NameAr": "ساو جواو دي انجولاريس"
+        },
+        {
+            "Code": "136543",
+            "Name": "Sao Tome",
+            "NameAr": "ساو تومي"
+        }
+    ],
+    "totalCities": 7
+}

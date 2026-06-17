@@ -1,0 +1,22 @@
+{
+    "id": "MN",
+    "countryCode": "MN",
+    "cities": [
+        {
+            "Code": "417203",
+            "Name": "Darkhan",
+            "NameAr": "داركهان"
+        },
+        {
+            "Code": "139597",
+            "Name": "Terelj",
+            "NameAr": "تيريلج"
+        },
+        {
+            "Code": "141090",
+            "Name": "Ulaanbaatar",
+            "NameAr": "ولاانبااتار"
+        }
+    ],
+    "totalCities": 3
+}

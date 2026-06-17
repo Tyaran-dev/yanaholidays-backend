@@ -1,0 +1,127 @@
+{
+    "id": "GP",
+    "countryCode": "GP",
+    "cities": [
+        {
+            "Code": "309762",
+            "Name": "Anse-Bertrand",
+            "NameAr": "انسي-بيرتراند"
+        },
+        {
+            "Code": "110727",
+            "Name": "Basse Terre",
+            "NameAr": "باسسي تيرري"
+        },
+        {
+            "Code": "112514",
+            "Name": "Bouillante",
+            "NameAr": "بوويللانتي"
+        },
+        {
+            "Code": "105701",
+            "Name": "Capesterre-Belle-Eau",
+            "NameAr": "كابيستيرري-بيللي-ياو"
+        },
+        {
+            "Code": "116565",
+            "Name": "Cousteau",
+            "NameAr": "كووستياو"
+        },
+        {
+            "Code": "144907",
+            "Name": "Deshaies",
+            "NameAr": "ديسهاييس"
+        },
+        {
+            "Code": "145179",
+            "Name": "Ferry",
+            "NameAr": "فيرري"
+        },
+        {
+            "Code": "119430",
+            "Name": "Gosier",
+            "NameAr": "جوسيير"
+        },
+        {
+            "Code": "119441",
+            "Name": "Grand-Bourg",
+            "NameAr": "جراند-بوورج"
+        },
+        {
+            "Code": "119196",
+            "Name": "Grande Anse",
+            "NameAr": "جراندي انسي"
+        },
+        {
+            "Code": "145755",
+            "Name": "Insel Marie Galante",
+            "NameAr": "ينسيل ماريي جالانتي"
+        },
+        {
+            "Code": "151267",
+            "Name": "La Desirade",
+            "NameAr": "لا ديسيرادي"
+        },
+        {
+            "Code": "333267",
+            "Name": "Le Gosier",
+            "NameAr": "لي جوسيير"
+        },
+        {
+            "Code": "127533",
+            "Name": "Matouba",
+            "NameAr": "ماتووبا"
+        },
+        {
+            "Code": "417356",
+            "Name": "Petit-Bourg",
+            "NameAr": "بيتيت-بوورج"
+        },
+        {
+            "Code": "133212",
+            "Name": "Pointe-a-Pitre",
+            "NameAr": "بوينتي-ا-بيتري"
+        },
+        {
+            "Code": "147262",
+            "Name": "Pointe-Noire",
+            "NameAr": "بوينتي-نويري"
+        },
+        {
+            "Code": "103335",
+            "Name": "Saint-Louis",
+            "NameAr": "ساينت-لوويس"
+        },
+        {
+            "Code": "135330",
+            "Name": "Sainte Anne de Guadeloupe",
+            "NameAr": "ساينتي انني دي جواديلووبي"
+        },
+        {
+            "Code": "135332",
+            "Name": "Sainte Rose",
+            "NameAr": "ساينتي روسي"
+        },
+        {
+            "Code": "148009",
+            "Name": "St. Francois",
+            "NameAr": "ست فرانكويس"
+        },
+        {
+            "Code": "137786",
+            "Name": "St. Rose",
+            "NameAr": "ست روسي"
+        },
+        {
+            "Code": "139065",
+            "Name": "Terre-de-Haut",
+            "NameAr": "تيرري-دي-هاوت"
+        },
+        {
+            "Code": "141203",
+            "Name": "Trois Revieres",
+            "NameAr": "ترويس ريفييريس"
+        }
+    ],
+    "totalCities": 24
+}

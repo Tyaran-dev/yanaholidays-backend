@@ -1,0 +1,117 @@
+{
+    "id": "PG",
+    "countryCode": "PG",
+    "cities": [
+        {
+            "Code": "149398",
+            "Name": "Alotau",
+            "NameAr": "الوتاو"
+        },
+        {
+            "Code": "150429",
+            "Name": "Cape Gloucester",
+            "NameAr": "كابي جلووكيستير"
+        },
+        {
+            "Code": "150583",
+            "Name": "Efogi",
+            "NameAr": "يفوجي"
+        },
+        {
+            "Code": "150741",
+            "Name": "Esa'ala",
+            "NameAr": "يساالا"
+        },
+        {
+            "Code": "119317",
+            "Name": "Goroka",
+            "NameAr": "جوروكا"
+        },
+        {
+            "Code": "150872",
+            "Name": "Jacquinot Bay",
+            "NameAr": "جاكقوينوت باي"
+        },
+        {
+            "Code": "124191",
+            "Name": "Kavieng",
+            "NameAr": "كافيينج"
+        },
+        {
+            "Code": "145946",
+            "Name": "Kimbe Bay",
+            "NameAr": "كيمبي باي"
+        },
+        {
+            "Code": "149406",
+            "Name": "Kiunga",
+            "NameAr": "كيونجا"
+        },
+        {
+            "Code": "124946",
+            "Name": "Kokopo",
+            "NameAr": "كوكوبو"
+        },
+        {
+            "Code": "123844",
+            "Name": "Lae",
+            "NameAr": "لاي"
+        },
+        {
+            "Code": "125674",
+            "Name": "Madang",
+            "NameAr": "مادانج"
+        },
+        {
+            "Code": "151627",
+            "Name": "Manga",
+            "NameAr": "مانجا"
+        },
+        {
+            "Code": "128245",
+            "Name": "Milne Bay",
+            "NameAr": "ميلني باي"
+        },
+        {
+            "Code": "129650",
+            "Name": "Mount Hagen",
+            "NameAr": "موونت هاجين"
+        },
+        {
+            "Code": "104402",
+            "Name": "Omili",
+            "NameAr": "وميلي"
+        },
+        {
+            "Code": "150921",
+            "Name": "Pambwa",
+            "NameAr": "بامبوا"
+        },
+        {
+            "Code": "131838",
+            "Name": "Port Moresby",
+            "NameAr": "بورت موريسبي"
+        },
+        {
+            "Code": "133159",
+            "Name": "Rabaul",
+            "NameAr": "راباول"
+        },
+        {
+            "Code": "149358",
+            "Name": "Tingwon Island",
+            "NameAr": "تينجوون يسلاند"
+        },
+        {
+            "Code": "141808",
+            "Name": "Tufi",
+            "NameAr": "توفي"
+        },
+        {
+            "Code": "149467",
+            "Name": "Wewak",
+            "NameAr": "ويواك"
+        }
+    ],
+    "totalCities": 22
+}

@@ -1,0 +1,37 @@
+{
+    "id": "KW",
+    "countryCode": "KW",
+    "cities": [
+        {
+            "Code": "100379",
+            "Name": "Al Jahra",
+            "NameAr": "ال جاهرا"
+        },
+        {
+            "Code": "149914",
+            "Name": "Al Khiran",
+            "NameAr": "ال كهيران"
+        },
+        {
+            "Code": "144871",
+            "Name": "Dasman",
+            "NameAr": "داسمان"
+        },
+        {
+            "Code": "105944",
+            "Name": "Hawally",
+            "NameAr": "هاواللي"
+        },
+        {
+            "Code": "123359",
+            "Name": "Kuwait City",
+            "NameAr": "كووايت كيتي"
+        },
+        {
+            "Code": "103130",
+            "Name": "Salmiya",
+            "NameAr": "سالمييا"
+        }
+    ],
+    "totalCities": 6
+}

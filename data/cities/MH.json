@@ -1,0 +1,27 @@
+{
+    "id": "MH",
+    "countryCode": "MH",
+    "cities": [
+        {
+            "Code": "150541",
+            "Name": "Airok",
+            "NameAr": "ايروك"
+        },
+        {
+            "Code": "151122",
+            "Name": "Kaben",
+            "NameAr": "كابين"
+        },
+        {
+            "Code": "149100",
+            "Name": "Kwajalein",
+            "NameAr": "كواجاليين"
+        },
+        {
+            "Code": "149102",
+            "Name": "Majuro",
+            "NameAr": "ماجورو"
+        }
+    ],
+    "totalCities": 4
+}

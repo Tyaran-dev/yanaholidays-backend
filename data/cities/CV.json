@@ -1,0 +1,172 @@
+{
+    "id": "CV",
+    "countryCode": "CV",
+    "cities": [
+        {
+            "Code": "105174",
+            "Name": "Assomada",
+            "NameAr": "اسسومادا"
+        },
+        {
+            "Code": "111608",
+            "Name": "Boavista",
+            "NameAr": "بوافيستا"
+        },
+        {
+            "Code": "101384",
+            "Name": "Calheta de Sao Miguel",
+            "NameAr": "كالهيتا دي ساو ميجويل"
+        },
+        {
+            "Code": "114927",
+            "Name": "Cha das Caldeiras",
+            "NameAr": "كها داس كالدييراس"
+        },
+        {
+            "Code": "115777",
+            "Name": "Cidade Velha",
+            "NameAr": "كيدادي فيلها"
+        },
+        {
+            "Code": "117255",
+            "Name": "Espargos",
+            "NameAr": "يسبارجوس"
+        },
+        {
+            "Code": "291081",
+            "Name": "Espingueira",
+            "NameAr": "يسبينجوييرا"
+        },
+        {
+            "Code": "121055",
+            "Name": "Ilha de Brava",
+            "NameAr": "يلها دي برافا"
+        },
+        {
+            "Code": "121624",
+            "Name": "Insel Fogo",
+            "NameAr": "ينسيل فوجو"
+        },
+        {
+            "Code": "126773",
+            "Name": "Maio",
+            "NameAr": "مايو"
+        },
+        {
+            "Code": "127667",
+            "Name": "Mindelo / Sao Vicente",
+            "NameAr": "مينديلو ساو فيكينتي"
+        },
+        {
+            "Code": "146781",
+            "Name": "Murdeira",
+            "NameAr": "موردييرا"
+        },
+        {
+            "Code": "130756",
+            "Name": "Palmarejo Baixo da Paria",
+            "NameAr": "بالماريجو بايكسو دا باريا"
+        },
+        {
+            "Code": "132102",
+            "Name": "Pedra Badejo",
+            "NameAr": "بيدرا باديجو"
+        },
+        {
+            "Code": "133483",
+            "Name": "Pombas",
+            "NameAr": "بومباس"
+        },
+        {
+            "Code": "149775",
+            "Name": "Ponta do Sol",
+            "NameAr": "بونتا دو سول"
+        },
+        {
+            "Code": "133576",
+            "Name": "Porto Novo / Santo Antao",
+            "NameAr": "بورتو نوفو سانتو انتاو"
+        },
+        {
+            "Code": "133288",
+            "Name": "Praia",
+            "NameAr": "برايا"
+        },
+        {
+            "Code": "133002",
+            "Name": "Praia de Chaves",
+            "NameAr": "برايا دي كهافيس"
+        },
+        {
+            "Code": "147507",
+            "Name": "Ribeira Brava / Sao Nicolau",
+            "NameAr": "ريبييرا برافا ساو نيكولاو"
+        },
+        {
+            "Code": "133907",
+            "Name": "Riberia Grande / Sao Antao",
+            "NameAr": "ريبيريا جراندي ساو انتاو"
+        },
+        {
+            "Code": "135783",
+            "Name": "Rui Vaz",
+            "NameAr": "روي فاز"
+        },
+        {
+            "Code": "135848",
+            "Name": "Sal",
+            "NameAr": "سال"
+        },
+        {
+            "Code": "135314",
+            "Name": "Sal Rei",
+            "NameAr": "سال ريي"
+        },
+        {
+            "Code": "136375",
+            "Name": "Santa Maria",
+            "NameAr": "سانتا ماريا"
+        },
+        {
+            "Code": "136389",
+            "Name": "Santiago",
+            "NameAr": "سانتياجو"
+        },
+        {
+            "Code": "136531",
+            "Name": "Santo Antao",
+            "NameAr": "سانتو انتاو"
+        },
+        {
+            "Code": "136631",
+            "Name": "Sao Filipe / Fogo",
+            "NameAr": "ساو فيليبي فوجو"
+        },
+        {
+            "Code": "135574",
+            "Name": "Sao Pedro",
+            "NameAr": "ساو بيدرو"
+        },
+        {
+            "Code": "137192",
+            "Name": "Sao Vicente",
+            "NameAr": "ساو فيكينتي"
+        },
+        {
+            "Code": "148159",
+            "Name": "Tarrafal",
+            "NameAr": "تاررافال"
+        },
+        {
+            "Code": "142024",
+            "Name": "Vila do Maio / Maio",
+            "NameAr": "فيلا دو مايو مايو"
+        },
+        {
+            "Code": "107963",
+            "Name": "Vila Nova Sintra",
+            "NameAr": "فيلا نوفا سينترا"
+        }
+    ],
+    "totalCities": 33
+}

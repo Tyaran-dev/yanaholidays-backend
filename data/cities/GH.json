@@ -1,0 +1,167 @@
+{
+    "id": "GH",
+    "countryCode": "GH",
+    "cities": [
+        {
+            "Code": "377166",
+            "Name": "Aburi",
+            "NameAr": "ابوري"
+        },
+        {
+            "Code": "100768",
+            "Name": "Accra",
+            "NameAr": "اككرا"
+        },
+        {
+            "Code": "100450",
+            "Name": "Ada Foah",
+            "NameAr": "ادا فواه"
+        },
+        {
+            "Code": "106070",
+            "Name": "Afienya",
+            "NameAr": "افيينيا"
+        },
+        {
+            "Code": "148952",
+            "Name": "Akosombo",
+            "NameAr": "اكوسومبو"
+        },
+        {
+            "Code": "104995",
+            "Name": "Amedzofe",
+            "NameAr": "اميدزوفي"
+        },
+        {
+            "Code": "148948",
+            "Name": "Anomabo",
+            "NameAr": "انومابو"
+        },
+        {
+            "Code": "102167",
+            "Name": "Anomabu",
+            "NameAr": "انومابو"
+        },
+        {
+            "Code": "417114",
+            "Name": "Apam",
+            "NameAr": "ابام"
+        },
+        {
+            "Code": "110030",
+            "Name": "Axim",
+            "NameAr": "اكسيم"
+        },
+        {
+            "Code": "111311",
+            "Name": "Biriwa",
+            "NameAr": "بيريوا"
+        },
+        {
+            "Code": "101418",
+            "Name": "Bogoso",
+            "NameAr": "بوجوسو"
+        },
+        {
+            "Code": "112445",
+            "Name": "Bolgatanga",
+            "NameAr": "بولجاتانجا"
+        },
+        {
+            "Code": "112743",
+            "Name": "Busua",
+            "NameAr": "بوسوا"
+        },
+        {
+            "Code": "112904",
+            "Name": "Cape Coast",
+            "NameAr": "كابي كواست"
+        },
+        {
+            "Code": "105481",
+            "Name": "Denu",
+            "NameAr": "دينو"
+        },
+        {
+            "Code": "148947",
+            "Name": "Ejisu",
+            "NameAr": "يجيسو"
+        },
+        {
+            "Code": "117677",
+            "Name": "Elmina",
+            "NameAr": "يلمينا"
+        },
+        {
+            "Code": "118739",
+            "Name": "Gomoa Fetteh",
+            "NameAr": "جوموا فيتتيه"
+        },
+        {
+            "Code": "102533",
+            "Name": "Kaneshie",
+            "NameAr": "كانيسهيي"
+        },
+        {
+            "Code": "123609",
+            "Name": "Koforidua",
+            "NameAr": "كوفوريدوا"
+        },
+        {
+            "Code": "146049",
+            "Name": "Kumasi",
+            "NameAr": "كوماسي"
+        },
+        {
+            "Code": "124641",
+            "Name": "Lake Bosomtwe",
+            "NameAr": "لاكي بوسومتوي"
+        },
+        {
+            "Code": "127243",
+            "Name": "Mole",
+            "NameAr": "مولي"
+        },
+        {
+            "Code": "148949",
+            "Name": "Moree",
+            "NameAr": "موريي"
+        },
+        {
+            "Code": "129852",
+            "Name": "New Abirem",
+            "NameAr": "نيو ابيريم"
+        },
+        {
+            "Code": "148951",
+            "Name": "Obosomase",
+            "NameAr": "وبوسوماسي"
+        },
+        {
+            "Code": "130606",
+            "Name": "Obuasi",
+            "NameAr": "وبواسي"
+        },
+        {
+            "Code": "148942",
+            "Name": "Sunyani",
+            "NameAr": "سونياني"
+        },
+        {
+            "Code": "140279",
+            "Name": "Takoradi",
+            "NameAr": "تاكورادي"
+        },
+        {
+            "Code": "148946",
+            "Name": "Tamale",
+            "NameAr": "تامالي"
+        },
+        {
+            "Code": "140993",
+            "Name": "Tema",
+            "NameAr": "تيما"
+        }
+    ],
+    "totalCities": 32
+}

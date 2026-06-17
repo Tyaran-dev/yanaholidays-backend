@@ -1,0 +1,17 @@
+{
+        "id": "SH",
+        "countryCode": "SH",
+        "cities": [
+            {
+                "Code": "150588",
+                "Name": "Georgetown",
+                "NameAr": "جيورجيتوون"
+            },
+            {
+                "Code": "149941",
+                "Name": "Jamestown",
+                "NameAr": "جاميستوون"
+            }
+        ],
+        "totalCities": 2
+    }

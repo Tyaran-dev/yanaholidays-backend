@@ -1,0 +1,157 @@
+{
+    "id": "AE",
+    "countryCode": "AE",
+    "cities": [
+        {
+            "Code": "100765",
+            "Name": "Abu Dhabi",
+            "NameAr": "ابو دهابي"
+        },
+        {
+            "Code": "100687",
+            "Name": "Ajman",
+            "NameAr": "اجمان"
+        },
+        {
+            "Code": "100812",
+            "Name": "Al Agah",
+            "NameAr": "ال اجاه"
+        },
+        {
+            "Code": "100692",
+            "Name": "Al Ain",
+            "NameAr": "ال اين"
+        },
+        {
+            "Code": "337162",
+            "Name": "Al Karama",
+            "NameAr": "ال كاراما"
+        },
+        {
+            "Code": "266001",
+            "Name": "Al Madam",
+            "NameAr": "ال مادام"
+        },
+        {
+            "Code": "100381",
+            "Name": "Al Marjan Islands",
+            "NameAr": "ال مارجان يسلاندس"
+        },
+        {
+            "Code": "100492",
+            "Name": "Al Mirfa",
+            "NameAr": "ال ميرفا"
+        },
+        {
+            "Code": "368181",
+            "Name": "Al Ruwais",
+            "NameAr": "ال رووايس"
+        },
+        {
+            "Code": "364445",
+            "Name": "Corniche Beach",
+            "NameAr": "كورنيكهي بياكه"
+        },
+        {
+            "Code": "116319",
+            "Name": "Deira",
+            "NameAr": "دييرا"
+        },
+        {
+            "Code": "116339",
+            "Name": "Dibba",
+            "NameAr": "ديببا"
+        },
+        {
+            "Code": "115936",
+            "Name": "Dubai",
+            "NameAr": "دوباي"
+        },
+        {
+            "Code": "221830",
+            "Name": "Dubai Internet City",
+            "NameAr": "دوباي ينتيرنيت كيتي"
+        },
+        {
+            "Code": "346887",
+            "Name": "Dubai Marina",
+            "NameAr": "دوباي مارينا"
+        },
+        {
+            "Code": "119041",
+            "Name": "Fujairah",
+            "NameAr": "فوجايراه"
+        },
+        {
+            "Code": "105810",
+            "Name": "Ghayathi",
+            "NameAr": "جهاياتهي"
+        },
+        {
+            "Code": "120624",
+            "Name": "Hatta",
+            "NameAr": "هاتتا"
+        },
+        {
+            "Code": "121792",
+            "Name": "Jebel Ali",
+            "NameAr": "جيبيل الي"
+        },
+        {
+            "Code": "122339",
+            "Name": "Jebel Dhanna",
+            "NameAr": "جيبيل دهاننا"
+        },
+        {
+            "Code": "337165",
+            "Name": "Jumeirah",
+            "NameAr": "جومييراه"
+        },
+        {
+            "Code": "323994",
+            "Name": "Khor Fakkan",
+            "NameAr": "كهور فاككان"
+        },
+        {
+            "Code": "123151",
+            "Name": "Khorfakkan",
+            "NameAr": "كهورفاككان"
+        },
+        {
+            "Code": "146321",
+            "Name": "Liwa",
+            "NameAr": "ليوا"
+        },
+        {
+            "Code": "126753",
+            "Name": "Madinat Zayed",
+            "NameAr": "مادينات زاييد"
+        },
+        {
+            "Code": "128835",
+            "Name": "Mezairaa",
+            "NameAr": "ميزايراا"
+        },
+        {
+            "Code": "369509",
+            "Name": "Palm Jumeirah",
+            "NameAr": "بالم جومييراه"
+        },
+        {
+            "Code": "133770",
+            "Name": "Ras al Khaimah",
+            "NameAr": "راس ال كهايماه"
+        },
+        {
+            "Code": "137741",
+            "Name": "Sharjah",
+            "NameAr": "سهارجاه"
+        },
+        {
+            "Code": "140710",
+            "Name": "Umm al-Quwain",
+            "NameAr": "ومم ال-قوواين"
+        }
+    ],
+    "totalCities": 30
+}

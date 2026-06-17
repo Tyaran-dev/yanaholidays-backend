@@ -1,0 +1,12 @@
+{
+    "id": "EH",
+    "countryCode": "EH",
+    "cities": [
+        {
+            "Code": "116765",
+            "Name": "El Aaiun",
+            "NameAr": "يل اايون"
+        }
+    ],
+    "totalCities": 1
+}

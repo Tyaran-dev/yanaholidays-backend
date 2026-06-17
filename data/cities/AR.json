@@ -1,0 +1,1452 @@
+{
+    "id": "AR",
+    "countryCode": "AR",
+    "cities": [
+        {
+            "Code": "102144",
+            "Name": "Aimogasta",
+            "NameAr": "ايموجاستا"
+        },
+        {
+            "Code": "105151",
+            "Name": "Allen",
+            "NameAr": "اللين"
+        },
+        {
+            "Code": "109177",
+            "Name": "Alta Gracia",
+            "NameAr": "التا جراكيا"
+        },
+        {
+            "Code": "109086",
+            "Name": "Alto Ongamira",
+            "NameAr": "التو ونجاميرا"
+        },
+        {
+            "Code": "104998",
+            "Name": "Anelo",
+            "NameAr": "انيلو"
+        },
+        {
+            "Code": "417198",
+            "Name": "Armstrong",
+            "NameAr": "ارمسترونج"
+        },
+        {
+            "Code": "105105",
+            "Name": "Arroyo Seco",
+            "NameAr": "اررويو سيكو"
+        },
+        {
+            "Code": "109887",
+            "Name": "Ascochinga",
+            "NameAr": "اسكوكهينجا"
+        },
+        {
+            "Code": "109778",
+            "Name": "Azul",
+            "NameAr": "ازول"
+        },
+        {
+            "Code": "111083",
+            "Name": "Bahia Blanca",
+            "NameAr": "باهيا بلانكا"
+        },
+        {
+            "Code": "148888",
+            "Name": "Balcarce",
+            "NameAr": "بالكاركي"
+        },
+        {
+            "Code": "110433",
+            "Name": "Bariloche",
+            "NameAr": "باريلوكهي"
+        },
+        {
+            "Code": "105282",
+            "Name": "Belen de Escobar",
+            "NameAr": "بيلين دي يسكوبار"
+        },
+        {
+            "Code": "111293",
+            "Name": "Bialet Masse",
+            "NameAr": "بياليت ماسسي"
+        },
+        {
+            "Code": "150957",
+            "Name": "Bragado",
+            "NameAr": "براجادو"
+        },
+        {
+            "Code": "144349",
+            "Name": "Brandsen",
+            "NameAr": "براندسين"
+        },
+        {
+            "Code": "112153",
+            "Name": "Buenos Aires",
+            "NameAr": "بوينس آيرس"
+        },
+        {
+            "Code": "113487",
+            "Name": "Cachi",
+            "NameAr": "كاكهي"
+        },
+        {
+            "Code": "112762",
+            "Name": "Cafayate",
+            "NameAr": "كافاياتي"
+        },
+        {
+            "Code": "144494",
+            "Name": "Campana",
+            "NameAr": "كامبانا"
+        },
+        {
+            "Code": "113945",
+            "Name": "Canuelas",
+            "NameAr": "كانويلاس"
+        },
+        {
+            "Code": "113754",
+            "Name": "Capilla del Monte",
+            "NameAr": "كابيللا ديل مونتي"
+        },
+        {
+            "Code": "112908",
+            "Name": "Capilla del Senor",
+            "NameAr": "كابيللا ديل سينور"
+        },
+        {
+            "Code": "113836",
+            "Name": "Carabelas",
+            "NameAr": "كارابيلاس"
+        },
+        {
+            "Code": "108114",
+            "Name": "Carhue",
+            "NameAr": "كارهوي"
+        },
+        {
+            "Code": "144537",
+            "Name": "Carilo",
+            "NameAr": "كاريلو"
+        },
+        {
+            "Code": "113518",
+            "Name": "Carmen De Areco",
+            "NameAr": "كارمين دي اريكو"
+        },
+        {
+            "Code": "150567",
+            "Name": "Carmen De Patagones",
+            "NameAr": "كارمين دي باتاجونيس"
+        },
+        {
+            "Code": "104681",
+            "Name": "Carpinteria",
+            "NameAr": "كاربينتيريا"
+        },
+        {
+            "Code": "114021",
+            "Name": "Catamarca",
+            "NameAr": "كاتاماركا"
+        },
+        {
+            "Code": "113572",
+            "Name": "Caviahue",
+            "NameAr": "كافياهوي"
+        },
+        {
+            "Code": "114567",
+            "Name": "Cayasta",
+            "NameAr": "كاياستا"
+        },
+        {
+            "Code": "105358",
+            "Name": "Ceibas",
+            "NameAr": "كييباس"
+        },
+        {
+            "Code": "113589",
+            "Name": "Cerro Chapelco",
+            "NameAr": "كيررو كهابيلكو"
+        },
+        {
+            "Code": "144611",
+            "Name": "Chacras de Coria",
+            "NameAr": "كهاكراس دي كوريا"
+        },
+        {
+            "Code": "417434",
+            "Name": "Charata",
+            "NameAr": "كهاراتا"
+        },
+        {
+            "Code": "144636",
+            "Name": "Chascomus",
+            "NameAr": "كهاسكوموس"
+        },
+        {
+            "Code": "114748",
+            "Name": "Chilecito",
+            "NameAr": "كهيليكيتو"
+        },
+        {
+            "Code": "106291",
+            "Name": "Chos Malal",
+            "NameAr": "كهوس مالال"
+        },
+        {
+            "Code": "115781",
+            "Name": "Cipolletti",
+            "NameAr": "كيبولليتتي"
+        },
+        {
+            "Code": "106221",
+            "Name": "Ciudad Perico",
+            "NameAr": "كيوداد بيريكو"
+        },
+        {
+            "Code": "114337",
+            "Name": "Colon",
+            "NameAr": "كولون"
+        },
+        {
+            "Code": "114875",
+            "Name": "Colonia Carlos Pellegrini",
+            "NameAr": "كولونيا كارلوس بيلليجريني"
+        },
+        {
+            "Code": "150574",
+            "Name": "Colonia Catriel",
+            "NameAr": "كولونيا كاترييل"
+        },
+        {
+            "Code": "115845",
+            "Name": "Comodoro Rivadavia",
+            "NameAr": "كومودورو ريفادافيا"
+        },
+        {
+            "Code": "102284",
+            "Name": "Concepcion del Uruguay",
+            "NameAr": "كونكيبكيون ديل وروجواي"
+        },
+        {
+            "Code": "115272",
+            "Name": "Concordia",
+            "NameAr": "كونكورديا"
+        },
+        {
+            "Code": "115015",
+            "Name": "Copahue",
+            "NameAr": "كوباهوي"
+        },
+        {
+            "Code": "115288",
+            "Name": "Cordoba",
+            "NameAr": "كوردوبا"
+        },
+        {
+            "Code": "115297",
+            "Name": "Coronel Moldes",
+            "NameAr": "كورونيل مولديس"
+        },
+        {
+            "Code": "116552",
+            "Name": "Coronel Vidal",
+            "NameAr": "كورونيل فيدال"
+        },
+        {
+            "Code": "115034",
+            "Name": "Corrientes",
+            "NameAr": "كورريينتيس"
+        },
+        {
+            "Code": "104923",
+            "Name": "Cosquin",
+            "NameAr": "كوسقوين"
+        },
+        {
+            "Code": "150725",
+            "Name": "Cutral",
+            "NameAr": "كوترال"
+        },
+        {
+            "Code": "115732",
+            "Name": "Dolores",
+            "NameAr": "دولوريس"
+        },
+        {
+            "Code": "117131",
+            "Name": "El Bolson",
+            "NameAr": "يل بولسون"
+        },
+        {
+            "Code": "116516",
+            "Name": "El Bordo",
+            "NameAr": "يل بوردو"
+        },
+        {
+            "Code": "145052",
+            "Name": "El Calafate",
+            "NameAr": "يل كالافاتي"
+        },
+        {
+            "Code": "101877",
+            "Name": "El Challao",
+            "NameAr": "يل كهاللاو"
+        },
+        {
+            "Code": "116519",
+            "Name": "El Chalten",
+            "NameAr": "يل كهالتين"
+        },
+        {
+            "Code": "151367",
+            "Name": "El Maiten",
+            "NameAr": "يل مايتين"
+        },
+        {
+            "Code": "105513",
+            "Name": "El Mollar",
+            "NameAr": "يل موللار"
+        },
+        {
+            "Code": "106277",
+            "Name": "El Soberbio",
+            "NameAr": "يل سوبيربيو"
+        },
+        {
+            "Code": "148858",
+            "Name": "El Volcan",
+            "NameAr": "يل فولكان"
+        },
+        {
+            "Code": "150739",
+            "Name": "Eldorado",
+            "NameAr": "يلدورادو"
+        },
+        {
+            "Code": "145086",
+            "Name": "Empedrado",
+            "NameAr": "يمبيدرادو"
+        },
+        {
+            "Code": "145093",
+            "Name": "Entre Rios",
+            "NameAr": "ينتري ريوس"
+        },
+        {
+            "Code": "117729",
+            "Name": "Esquel",
+            "NameAr": "يسقويل"
+        },
+        {
+            "Code": "118111",
+            "Name": "Esquina",
+            "NameAr": "يسقوينا"
+        },
+        {
+            "Code": "346793",
+            "Name": "Ezeiza",
+            "NameAr": "يزييزا"
+        },
+        {
+            "Code": "145160",
+            "Name": "Fatima",
+            "NameAr": "فاتيما"
+        },
+        {
+            "Code": "118139",
+            "Name": "Federacion",
+            "NameAr": "فيديراكيون"
+        },
+        {
+            "Code": "102390",
+            "Name": "Fiambala",
+            "NameAr": "فيامبالا"
+        },
+        {
+            "Code": "117650",
+            "Name": "Florentino Ameghino",
+            "NameAr": "فلورينتينو اميجهينو"
+        },
+        {
+            "Code": "149655",
+            "Name": "Florida",
+            "NameAr": "فلوريدا"
+        },
+        {
+            "Code": "118482",
+            "Name": "Formosa",
+            "NameAr": "فورموسا"
+        },
+        {
+            "Code": "102470",
+            "Name": "Frias",
+            "NameAr": "فرياس"
+        },
+        {
+            "Code": "119586",
+            "Name": "Funes",
+            "NameAr": "فونيس"
+        },
+        {
+            "Code": "392882",
+            "Name": "General Guemes",
+            "NameAr": "جينيرال جويميس"
+        },
+        {
+            "Code": "101741",
+            "Name": "General Juan Madariaga",
+            "NameAr": "جينيرال جوان مادارياجا"
+        },
+        {
+            "Code": "152443",
+            "Name": "General Las Heras",
+            "NameAr": "جينيرال لاس هيراس"
+        },
+        {
+            "Code": "106102",
+            "Name": "General Pico",
+            "NameAr": "جينيرال بيكو"
+        },
+        {
+            "Code": "151378",
+            "Name": "General Roca",
+            "NameAr": "جينيرال روكا"
+        },
+        {
+            "Code": "119837",
+            "Name": "Goya",
+            "NameAr": "جويا"
+        },
+        {
+            "Code": "120552",
+            "Name": "Gualeguaychu",
+            "NameAr": "جواليجوايكهو"
+        },
+        {
+            "Code": "119498",
+            "Name": "Guerrero",
+            "NameAr": "جويرريرو"
+        },
+        {
+            "Code": "121403",
+            "Name": "Huacalera",
+            "NameAr": "هواكاليرا"
+        },
+        {
+            "Code": "121962",
+            "Name": "Huerta Grande",
+            "NameAr": "هويرتا جراندي"
+        },
+        {
+            "Code": "121031",
+            "Name": "Humahuaca",
+            "NameAr": "هوماهواكا"
+        },
+        {
+            "Code": "145711",
+            "Name": "Ibarlucea",
+            "NameAr": "يبارلوكيا"
+        },
+        {
+            "Code": "151386",
+            "Name": "Iguazu",
+            "NameAr": "يجوازو"
+        },
+        {
+            "Code": "145773",
+            "Name": "Iruya",
+            "NameAr": "يرويا"
+        },
+        {
+            "Code": "121772",
+            "Name": "Ituzaingo",
+            "NameAr": "يتوزاينجو"
+        },
+        {
+            "Code": "102360",
+            "Name": "Jesus Maria",
+            "NameAr": "جيسوس ماريا"
+        },
+        {
+            "Code": "151196",
+            "Name": "Jujuy",
+            "NameAr": "جوجوي"
+        },
+        {
+            "Code": "122372",
+            "Name": "Junin",
+            "NameAr": "جونين"
+        },
+        {
+            "Code": "123467",
+            "Name": "Junin de los Andes",
+            "NameAr": "جونين دي لوس انديس"
+        },
+        {
+            "Code": "105543",
+            "Name": "La Adela",
+            "NameAr": "لا اديلا"
+        },
+        {
+            "Code": "125032",
+            "Name": "La Carrera (Catamarca)",
+            "NameAr": "لا كارريرا كاتاماركا"
+        },
+        {
+            "Code": "123381",
+            "Name": "La Cumbre",
+            "NameAr": "لا كومبري"
+        },
+        {
+            "Code": "125038",
+            "Name": "La Cumbrecita",
+            "NameAr": "لا كومبريكيتا"
+        },
+        {
+            "Code": "101982",
+            "Name": "La Falda",
+            "NameAr": "لا فالدا"
+        },
+        {
+            "Code": "101984",
+            "Name": "La Granja",
+            "NameAr": "لا جرانجا"
+        },
+        {
+            "Code": "101985",
+            "Name": "La Merced",
+            "NameAr": "لا ميركيد"
+        },
+        {
+            "Code": "124354",
+            "Name": "La Plata",
+            "NameAr": "لا بلاتا"
+        },
+        {
+            "Code": "124358",
+            "Name": "La Quiaca",
+            "NameAr": "لا قوياكا"
+        },
+        {
+            "Code": "146076",
+            "Name": "La Rioja",
+            "NameAr": "لا ريوجا"
+        },
+        {
+            "Code": "124392",
+            "Name": "Lago Puelo",
+            "NameAr": "لاجو بويلو"
+        },
+        {
+            "Code": "103756",
+            "Name": "Las Flores",
+            "NameAr": "لاس فلوريس"
+        },
+        {
+            "Code": "102558",
+            "Name": "Las Grutas",
+            "NameAr": "لاس جروتاس"
+        },
+        {
+            "Code": "151270",
+            "Name": "Las Heras",
+            "NameAr": "لاس هيراس"
+        },
+        {
+            "Code": "125098",
+            "Name": "Las Rosas",
+            "NameAr": "لاس روساس"
+        },
+        {
+            "Code": "103907",
+            "Name": "Las Toninas",
+            "NameAr": "لاس تونيناس"
+        },
+        {
+            "Code": "103985",
+            "Name": "Leandro N. Alem",
+            "NameAr": "لياندرو ن اليم"
+        },
+        {
+            "Code": "124901",
+            "Name": "Libertador General San Martin",
+            "NameAr": "ليبيرتادور جينيرال سان مارتين"
+        },
+        {
+            "Code": "103995",
+            "Name": "Lincoln",
+            "NameAr": "لينكولن"
+        },
+        {
+            "Code": "126304",
+            "Name": "Lobos",
+            "NameAr": "لوبوس"
+        },
+        {
+            "Code": "102578",
+            "Name": "Loma Bola",
+            "NameAr": "لوما بولا"
+        },
+        {
+            "Code": "146385",
+            "Name": "Lujan",
+            "NameAr": "لوجان"
+        },
+        {
+            "Code": "125646",
+            "Name": "Lujan de Cuyo",
+            "NameAr": "لوجان دي كويو"
+        },
+        {
+            "Code": "102595",
+            "Name": "Macachin",
+            "NameAr": "ماكاكهين"
+        },
+        {
+            "Code": "126770",
+            "Name": "Maimara",
+            "NameAr": "مايمارا"
+        },
+        {
+            "Code": "102598",
+            "Name": "Maipu",
+            "NameAr": "مايبو"
+        },
+        {
+            "Code": "126782",
+            "Name": "Malargue",
+            "NameAr": "مالارجوي"
+        },
+        {
+            "Code": "126837",
+            "Name": "Mar De Ajo",
+            "NameAr": "مار دي اجو"
+        },
+        {
+            "Code": "127434",
+            "Name": "Mar de las Pampas",
+            "NameAr": "مار دي لاس بامباس"
+        },
+        {
+            "Code": "128052",
+            "Name": "Mar de Plata",
+            "NameAr": "مار دي بلاتا"
+        },
+        {
+            "Code": "127474",
+            "Name": "Martinez",
+            "NameAr": "مارتينيز"
+        },
+        {
+            "Code": "146590",
+            "Name": "Mendoza",
+            "NameAr": "ميندوزا"
+        },
+        {
+            "Code": "151282",
+            "Name": "Mercedes",
+            "NameAr": "ميركيديس"
+        },
+        {
+            "Code": "128212",
+            "Name": "Merlo",
+            "NameAr": "ميرلو"
+        },
+        {
+            "Code": "127663",
+            "Name": "Mina Clavero",
+            "NameAr": "مينا كلافيرو"
+        },
+        {
+            "Code": "150786",
+            "Name": "Miramar",
+            "NameAr": "ميرامار"
+        },
+        {
+            "Code": "128609",
+            "Name": "Misiones",
+            "NameAr": "ميسيونيس"
+        },
+        {
+            "Code": "146658",
+            "Name": "Mocona-Wasserfall",
+            "NameAr": "موكونا-واسسيرفالل"
+        },
+        {
+            "Code": "128323",
+            "Name": "Molinos",
+            "NameAr": "مولينوس"
+        },
+        {
+            "Code": "102639",
+            "Name": "Monte Caseros",
+            "NameAr": "مونتي كاسيروس"
+        },
+        {
+            "Code": "101899",
+            "Name": "Montecarlo",
+            "NameAr": "مونتيكارلو"
+        },
+        {
+            "Code": "101907",
+            "Name": "Moreno",
+            "NameAr": "مورينو"
+        },
+        {
+            "Code": "130135",
+            "Name": "Necochea",
+            "NameAr": "نيكوكهيا"
+        },
+        {
+            "Code": "129210",
+            "Name": "Neuquen",
+            "NameAr": "نيوقوين"
+        },
+        {
+            "Code": "103027",
+            "Name": "Nogoli",
+            "NameAr": "نوجولي"
+        },
+        {
+            "Code": "102879",
+            "Name": "Nono",
+            "NameAr": "نونو"
+        },
+        {
+            "Code": "106560",
+            "Name": "Nueve de Julio",
+            "NameAr": "نويفي دي جوليو"
+        },
+        {
+            "Code": "129542",
+            "Name": "Obera",
+            "NameAr": "وبيرا"
+        },
+        {
+            "Code": "131261",
+            "Name": "Olavarria",
+            "NameAr": "ولافارريا"
+        },
+        {
+            "Code": "130236",
+            "Name": "Oliveros",
+            "NameAr": "وليفيروس"
+        },
+        {
+            "Code": "150797",
+            "Name": "Olivos",
+            "NameAr": "وليفوس"
+        },
+        {
+            "Code": "104564",
+            "Name": "Oncativo",
+            "NameAr": "ونكاتيفو"
+        },
+        {
+            "Code": "130784",
+            "Name": "Open Door",
+            "NameAr": "وبين دوور"
+        },
+        {
+            "Code": "104410",
+            "Name": "Ostende",
+            "NameAr": "وستيندي"
+        },
+        {
+            "Code": "104580",
+            "Name": "Palpala",
+            "NameAr": "بالبالا"
+        },
+        {
+            "Code": "147096",
+            "Name": "Parana",
+            "NameAr": "بارانا"
+        },
+        {
+            "Code": "131021",
+            "Name": "Paso De La Patria",
+            "NameAr": "باسو دي لا باتريا"
+        },
+        {
+            "Code": "151244",
+            "Name": "Paso De Los Libres",
+            "NameAr": "باسو دي لوس ليبريس"
+        },
+        {
+            "Code": "147128",
+            "Name": "Pcia de Santa Cruz",
+            "NameAr": "بكيا دي سانتا كروز"
+        },
+        {
+            "Code": "103265",
+            "Name": "Pehuajo",
+            "NameAr": "بيهواجو"
+        },
+        {
+            "Code": "106597",
+            "Name": "Pergamino",
+            "NameAr": "بيرجامينو"
+        },
+        {
+            "Code": "150665",
+            "Name": "Perito Moreno",
+            "NameAr": "بيريتو مورينو"
+        },
+        {
+            "Code": "131542",
+            "Name": "Pilar",
+            "NameAr": "بيلار"
+        },
+        {
+            "Code": "147200",
+            "Name": "Pinamar",
+            "NameAr": "بينامار"
+        },
+        {
+            "Code": "132419",
+            "Name": "Posadas",
+            "NameAr": "بوساداس"
+        },
+        {
+            "Code": "133584",
+            "Name": "Potrerillos",
+            "NameAr": "بوتريريللوس"
+        },
+        {
+            "Code": "134350",
+            "Name": "Puerto Deseado",
+            "NameAr": "بويرتو ديسيادو"
+        },
+        {
+            "Code": "133049",
+            "Name": "Puerto Iguazu",
+            "NameAr": "بويرتو يجوازو"
+        },
+        {
+            "Code": "133621",
+            "Name": "Puerto Libertad",
+            "NameAr": "بويرتو ليبيرتاد"
+        },
+        {
+            "Code": "134352",
+            "Name": "Puerto Madryn",
+            "NameAr": "بويرتو مادرين"
+        },
+        {
+            "Code": "147396",
+            "Name": "Puerto Piramides",
+            "NameAr": "بويرتو بيراميديس"
+        },
+        {
+            "Code": "132574",
+            "Name": "Puerto Rico",
+            "NameAr": "بويرتو ريكو"
+        },
+        {
+            "Code": "134354",
+            "Name": "Puerto San Julian",
+            "NameAr": "بويرتو سان جوليان"
+        },
+        {
+            "Code": "103463",
+            "Name": "Punilla Valley",
+            "NameAr": "بونيللا فالليي"
+        },
+        {
+            "Code": "103321",
+            "Name": "Punta Alta",
+            "NameAr": "بونتا التا"
+        },
+        {
+            "Code": "147407",
+            "Name": "Punta Delgada",
+            "NameAr": "بونتا ديلجادا"
+        },
+        {
+            "Code": "133068",
+            "Name": "Purmamarca",
+            "NameAr": "بورماماركا"
+        },
+        {
+            "Code": "103471",
+            "Name": "Rafaela",
+            "NameAr": "رافايلا"
+        },
+        {
+            "Code": "147448",
+            "Name": "Ramallo",
+            "NameAr": "راماللو"
+        },
+        {
+            "Code": "103474",
+            "Name": "Rancul",
+            "NameAr": "رانكول"
+        },
+        {
+            "Code": "103478",
+            "Name": "Rawson",
+            "NameAr": "راوسون"
+        },
+        {
+            "Code": "103479",
+            "Name": "Reconquista",
+            "NameAr": "ريكونقويستا"
+        },
+        {
+            "Code": "133889",
+            "Name": "Resistencia",
+            "NameAr": "ريسيستينكيا"
+        },
+        {
+            "Code": "151656",
+            "Name": "Rincon De Los Sauces",
+            "NameAr": "رينكون دي لوس ساوكيس"
+        },
+        {
+            "Code": "134780",
+            "Name": "Rio Ceballos",
+            "NameAr": "ريو كيباللوس"
+        },
+        {
+            "Code": "102955",
+            "Name": "Rio Colorado",
+            "NameAr": "ريو كولورادو"
+        },
+        {
+            "Code": "133359",
+            "Name": "Rio Cuarto",
+            "NameAr": "ريو كوارتو"
+        },
+        {
+            "Code": "134922",
+            "Name": "Rio Gallegos",
+            "NameAr": "ريو جالليجوس"
+        },
+        {
+            "Code": "134498",
+            "Name": "Rio Grande",
+            "NameAr": "ريو جراندي"
+        },
+        {
+            "Code": "147527",
+            "Name": "Rio Mayo",
+            "NameAr": "ريو مايو"
+        },
+        {
+            "Code": "417186",
+            "Name": "Río Tercero",
+            "NameAr": "ر و تيركيرو"
+        },
+        {
+            "Code": "151173",
+            "Name": "Rio Turbio",
+            "NameAr": "ريو توربيو"
+        },
+        {
+            "Code": "106735",
+            "Name": "Romang",
+            "NameAr": "رومانج"
+        },
+        {
+            "Code": "135435",
+            "Name": "Rosario",
+            "NameAr": "روساريو"
+        },
+        {
+            "Code": "134541",
+            "Name": "Rosario de la Frontera",
+            "NameAr": "روساريو دي لا فرونتيرا"
+        },
+        {
+            "Code": "134542",
+            "Name": "Rosario de Lerma",
+            "NameAr": "روساريو دي ليرما"
+        },
+        {
+            "Code": "135689",
+            "Name": "Saladillo",
+            "NameAr": "سالاديللو"
+        },
+        {
+            "Code": "134861",
+            "Name": "Salta",
+            "NameAr": "سالتا"
+        },
+        {
+            "Code": "134864",
+            "Name": "Salto",
+            "NameAr": "سالتو"
+        },
+        {
+            "Code": "135401",
+            "Name": "San Andres de Giles",
+            "NameAr": "سان اندريس دي جيليس"
+        },
+        {
+            "Code": "135708",
+            "Name": "San Antonio de Areco",
+            "NameAr": "سان انتونيو دي اريكو"
+        },
+        {
+            "Code": "150829",
+            "Name": "San Antonio Oeste",
+            "NameAr": "سان انتونيو ويستي"
+        },
+        {
+            "Code": "135874",
+            "Name": "San Bernardo del Tuyu",
+            "NameAr": "سان بيرناردو ديل تويو"
+        },
+        {
+            "Code": "136471",
+            "Name": "San Carlos de Bariloche",
+            "NameAr": "سان كارلوس دي باريلوكهي"
+        },
+        {
+            "Code": "136175",
+            "Name": "San Clemente del Tuyu",
+            "NameAr": "سان كليمينتي ديل تويو"
+        },
+        {
+            "Code": "135940",
+            "Name": "San Fernando",
+            "NameAr": "سان فيرناندو"
+        },
+        {
+            "Code": "208857",
+            "Name": "San Francisco",
+            "NameAr": "سان فرانكيسكو"
+        },
+        {
+            "Code": "103139",
+            "Name": "San Ignacio",
+            "NameAr": "سان يجناكيو"
+        },
+        {
+            "Code": "135945",
+            "Name": "San Isidro",
+            "NameAr": "سان يسيدرو"
+        },
+        {
+            "Code": "317612",
+            "Name": "San Javier",
+            "NameAr": "سان جافيير"
+        },
+        {
+            "Code": "147697",
+            "Name": "San Juan",
+            "NameAr": "سان جوان"
+        },
+        {
+            "Code": "103542",
+            "Name": "San Lorenzo",
+            "NameAr": "سان لورينزو"
+        },
+        {
+            "Code": "147703",
+            "Name": "San Luis",
+            "NameAr": "سان لويس"
+        },
+        {
+            "Code": "107333",
+            "Name": "San Marcos Sierras",
+            "NameAr": "سان ماركوس سييرراس"
+        },
+        {
+            "Code": "147705",
+            "Name": "San Martin (Mendoza)",
+            "NameAr": "سان مارتين ميندوزا"
+        },
+        {
+            "Code": "136482",
+            "Name": "San Martin de los Andes",
+            "NameAr": "سان مارتين دي لوس انديس"
+        },
+        {
+            "Code": "134901",
+            "Name": "San Miguel de Tucuman",
+            "NameAr": "سان ميجويل دي توكومان"
+        },
+        {
+            "Code": "107336",
+            "Name": "San Miguel del Monte",
+            "NameAr": "سان ميجويل ديل مونتي"
+        },
+        {
+            "Code": "136335",
+            "Name": "San Nicolas de los Arroyos",
+            "NameAr": "سان نيكولاس دي لوس اررويوس"
+        },
+        {
+            "Code": "135967",
+            "Name": "San Patricio del Chanar",
+            "NameAr": "سان باتريكيو ديل كهانار"
+        },
+        {
+            "Code": "136338",
+            "Name": "San Pedro",
+            "NameAr": "سان بيدرو"
+        },
+        {
+            "Code": "103506",
+            "Name": "San Pedro de Jujuy",
+            "NameAr": "سان بيدرو دي جوجوي"
+        },
+        {
+            "Code": "136342",
+            "Name": "San Rafael",
+            "NameAr": "سان رافايل"
+        },
+        {
+            "Code": "136345",
+            "Name": "San Salvador de Jujuy",
+            "NameAr": "سان سالفادور دي جوجوي"
+        },
+        {
+            "Code": "136365",
+            "Name": "Santa Catalina",
+            "NameAr": "سانتا كاتالينا"
+        },
+        {
+            "Code": "103509",
+            "Name": "Santa Clara del Mar",
+            "NameAr": "سانتا كلارا ديل مار"
+        },
+        {
+            "Code": "137159",
+            "Name": "Santa Fe",
+            "NameAr": "سانتا في"
+        },
+        {
+            "Code": "136618",
+            "Name": "Santa Rosa",
+            "NameAr": "سانتا روسا"
+        },
+        {
+            "Code": "108499",
+            "Name": "Santa Rosa de Calamuchita",
+            "NameAr": "سانتا روسا دي كالاموكهيتا"
+        },
+        {
+            "Code": "137168",
+            "Name": "Santa Teresita",
+            "NameAr": "سانتا تيريسيتا"
+        },
+        {
+            "Code": "135561",
+            "Name": "Santiago del Estero",
+            "NameAr": "سانتياجو ديل يستيرو"
+        },
+        {
+            "Code": "136391",
+            "Name": "Santo Tome",
+            "NameAr": "سانتو تومي"
+        },
+        {
+            "Code": "417028",
+            "Name": "Sarah,   La Pampa",
+            "NameAr": "ساراه لا بامبا"
+        },
+        {
+            "Code": "107043",
+            "Name": "Sauce Viejo",
+            "NameAr": "ساوكي فييجو"
+        },
+        {
+            "Code": "107222",
+            "Name": "Sierra de la Ventana",
+            "NameAr": "سييررا دي لا فينتانا"
+        },
+        {
+            "Code": "108538",
+            "Name": "Sierra de los padres",
+            "NameAr": "سييررا دي لوس بادريس"
+        },
+        {
+            "Code": "107225",
+            "Name": "Sinsacate",
+            "NameAr": "سينساكاتي"
+        },
+        {
+            "Code": "108577",
+            "Name": "Suipacha",
+            "NameAr": "سويباكها"
+        },
+        {
+            "Code": "148131",
+            "Name": "Tafi del Valle",
+            "NameAr": "تافي ديل فاللي"
+        },
+        {
+            "Code": "148148",
+            "Name": "Tandil",
+            "NameAr": "تانديل"
+        },
+        {
+            "Code": "106947",
+            "Name": "Tartagal",
+            "NameAr": "تارتاجال"
+        },
+        {
+            "Code": "148192",
+            "Name": "Termas de Reyes",
+            "NameAr": "تيرماس دي ريييس"
+        },
+        {
+            "Code": "141005",
+            "Name": "Termas de Rio Hondo",
+            "NameAr": "تيرماس دي ريو هوندو"
+        },
+        {
+            "Code": "140303",
+            "Name": "Tigre",
+            "NameAr": "تيجري"
+        },
+        {
+            "Code": "140304",
+            "Name": "Tilcara",
+            "NameAr": "تيلكارا"
+        },
+        {
+            "Code": "107101",
+            "Name": "Tolhuin",
+            "NameAr": "تولهوين"
+        },
+        {
+            "Code": "107820",
+            "Name": "Tornquist",
+            "NameAr": "تورنقويست"
+        },
+        {
+            "Code": "140807",
+            "Name": "Trapiche",
+            "NameAr": "ترابيكهي"
+        },
+        {
+            "Code": "148306",
+            "Name": "Trelew",
+            "NameAr": "تريليو"
+        },
+        {
+            "Code": "141783",
+            "Name": "Trenque Lauquen",
+            "NameAr": "ترينقوي لاوقوين"
+        },
+        {
+            "Code": "151493",
+            "Name": "Tucuman",
+            "NameAr": "توكومان"
+        },
+        {
+            "Code": "140398",
+            "Name": "Tunuyan",
+            "NameAr": "تونويان"
+        },
+        {
+            "Code": "140136",
+            "Name": "Ushuaia",
+            "NameAr": "وسهوايا"
+        },
+        {
+            "Code": "140137",
+            "Name": "Uspallata",
+            "NameAr": "وسباللاتا"
+        },
+        {
+            "Code": "141294",
+            "Name": "Valdes",
+            "NameAr": "فالديس"
+        },
+        {
+            "Code": "107671",
+            "Name": "Valeria del Mar",
+            "NameAr": "فاليريا ديل مار"
+        },
+        {
+            "Code": "107456",
+            "Name": "Valle de Paravachasca",
+            "NameAr": "فاللي دي بارافاكهاسكا"
+        },
+        {
+            "Code": "140164",
+            "Name": "Valle de Trevelin",
+            "NameAr": "فاللي دي تريفيلين"
+        },
+        {
+            "Code": "107675",
+            "Name": "Valle Hermoso",
+            "NameAr": "فاللي هيرموسو"
+        },
+        {
+            "Code": "107858",
+            "Name": "Venado Tuerto",
+            "NameAr": "فينادو تويرتو"
+        },
+        {
+            "Code": "107862",
+            "Name": "Vera",
+            "NameAr": "فيرا"
+        },
+        {
+            "Code": "142574",
+            "Name": "Vicente Lopez",
+            "NameAr": "فيكينتي لوبيز"
+        },
+        {
+            "Code": "141859",
+            "Name": "Viedma",
+            "NameAr": "فييدما"
+        },
+        {
+            "Code": "107965",
+            "Name": "Villa Angela",
+            "NameAr": "فيللا انجيلا"
+        },
+        {
+            "Code": "140902",
+            "Name": "Villa Carlos Paz",
+            "NameAr": "فيللا كارلوس باز"
+        },
+        {
+            "Code": "142029",
+            "Name": "Villa Catedral",
+            "NameAr": "فيللا كاتيدرال"
+        },
+        {
+            "Code": "107966",
+            "Name": "Villa Ciudad de America",
+            "NameAr": "فيللا كيوداد دي اميريكا"
+        },
+        {
+            "Code": "417838",
+            "Name": "Villa Constitucion",
+            "NameAr": "فيللا كونستيتوكيون"
+        },
+        {
+            "Code": "108667",
+            "Name": "Villa Cura Brochero",
+            "NameAr": "فيللا كورا بروكهيرو"
+        },
+        {
+            "Code": "107384",
+            "Name": "Villa de Las Rosas",
+            "NameAr": "فيللا دي لاس روساس"
+        },
+        {
+            "Code": "141334",
+            "Name": "Villa Del Dique",
+            "NameAr": "فيللا ديل ديقوي"
+        },
+        {
+            "Code": "107693",
+            "Name": "Villa del Totoral",
+            "NameAr": "فيللا ديل توتورال"
+        },
+        {
+            "Code": "107870",
+            "Name": "Villa Dolores",
+            "NameAr": "فيللا دولوريس"
+        },
+        {
+            "Code": "141336",
+            "Name": "Villa General Belgrano",
+            "NameAr": "فيللا جينيرال بيلجرانو"
+        },
+        {
+            "Code": "142594",
+            "Name": "Villa Gesell",
+            "NameAr": "فيللا جيسيلل"
+        },
+        {
+            "Code": "142595",
+            "Name": "Villa Giardino",
+            "NameAr": "فيللا جياردينو"
+        },
+        {
+            "Code": "141337",
+            "Name": "Villa Gral Belgrano",
+            "NameAr": "فيللا جرال بيلجرانو"
+        },
+        {
+            "Code": "148508",
+            "Name": "Villa La Angostura",
+            "NameAr": "فيللا لا انجوستورا"
+        },
+        {
+            "Code": "142033",
+            "Name": "Villa Maria",
+            "NameAr": "فيللا ماريا"
+        },
+        {
+            "Code": "148509",
+            "Name": "Villa Mercedes",
+            "NameAr": "فيللا ميركيديس"
+        },
+        {
+            "Code": "107575",
+            "Name": "Villa Paranacito",
+            "NameAr": "فيللا باراناكيتو"
+        },
+        {
+            "Code": "107967",
+            "Name": "Villa Pehuenia",
+            "NameAr": "فيللا بيهوينيا"
+        },
+        {
+            "Code": "394675",
+            "Name": "Villa Rumipal",
+            "NameAr": "فيللا روميبال"
+        },
+        {
+            "Code": "148510",
+            "Name": "Villa San Agustin",
+            "NameAr": "فيللا سان اجوستين"
+        },
+        {
+            "Code": "142034",
+            "Name": "Villa San Lorenzo",
+            "NameAr": "فيللا سان لورينزو"
+        },
+        {
+            "Code": "107473",
+            "Name": "Villa Union",
+            "NameAr": "فيللا ونيون"
+        },
+        {
+            "Code": "107981",
+            "Name": "Wanda",
+            "NameAr": "واندا"
+        },
+        {
+            "Code": "106308",
+            "Name": "Yacanto de Calamuchita",
+            "NameAr": "ياكانتو دي كالاموكهيتا"
+        },
+        {
+            "Code": "107916",
+            "Name": "Yerba Buena",
+            "NameAr": "ييربا بوينا"
+        },
+        {
+            "Code": "143662",
+            "Name": "Zapala",
+            "NameAr": "زابالا"
+        },
+        {
+            "Code": "228834",
+            "Name": "Zárate",
+            "NameAr": "ز راتي"
+        },
+        {
+            "Code": "108008",
+            "Name": "Zavalla",
+            "NameAr": "زافاللا"
+        }
+    ],
+    "totalCities": 289
+}

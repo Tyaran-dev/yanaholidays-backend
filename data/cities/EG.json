@@ -1,0 +1,352 @@
+{
+    "id": "EG",
+    "countryCode": "EG",
+    "cities": [
+        {
+            "Code": "100639",
+            "Name": "6th of October City",
+            "NameAr": "ته وف وكتوبير كيتي"
+        },
+        {
+            "Code": "100332",
+            "Name": "Abu Dabab",
+            "NameAr": "ابو داباب"
+        },
+        {
+            "Code": "100119",
+            "Name": "Abu Simbel",
+            "NameAr": "ابو سيمبيل"
+        },
+        {
+            "Code": "100224",
+            "Name": "Abu Soma",
+            "NameAr": "ابو سوما"
+        },
+        {
+            "Code": "100602",
+            "Name": "Ain El Sukhna (Ain Soukhna)",
+            "NameAr": "اين يل سوكهنا اين سووكهنا"
+        },
+        {
+            "Code": "149581",
+            "Name": "Al Bawiti",
+            "NameAr": "ال باويتي"
+        },
+        {
+            "Code": "269167",
+            "Name": "Al-Hammam",
+            "NameAr": "ال-هاممام"
+        },
+        {
+            "Code": "109064",
+            "Name": "Al-Minya",
+            "NameAr": "ال-مينيا"
+        },
+        {
+            "Code": "100103",
+            "Name": "Alexandria",
+            "NameAr": "الإسكندرية"
+        },
+        {
+            "Code": "109642",
+            "Name": "Aswan",
+            "NameAr": "اسوان"
+        },
+        {
+            "Code": "249305",
+            "Name": "Asyut",
+            "NameAr": "اسيوت"
+        },
+        {
+            "Code": "102209",
+            "Name": "Bawiti",
+            "NameAr": "باويتي"
+        },
+        {
+            "Code": "105642",
+            "Name": "Beni Suef",
+            "NameAr": "بيني سويف"
+        },
+        {
+            "Code": "111535",
+            "Name": "Berenice",
+            "NameAr": "بيرينيكي"
+        },
+        {
+            "Code": "112676",
+            "Name": "Borg El Arab",
+            "NameAr": "بورج يل اراب"
+        },
+        {
+            "Code": "113116",
+            "Name": "Cairo",
+            "NameAr": "القاهرة"
+        },
+        {
+            "Code": "115097",
+            "Name": "Dahab",
+            "NameAr": "داهاب"
+        },
+        {
+            "Code": "118041",
+            "Name": "El Alamein",
+            "NameAr": "يل الاميين"
+        },
+        {
+            "Code": "117087",
+            "Name": "El Arish",
+            "NameAr": "يل اريسه"
+        },
+        {
+            "Code": "117135",
+            "Name": "El Gouna",
+            "NameAr": "يل جوونا"
+        },
+        {
+            "Code": "149649",
+            "Name": "El Kharga",
+            "NameAr": "يل كهارجا"
+        },
+        {
+            "Code": "116815",
+            "Name": "El Naaba",
+            "NameAr": "يل ناابا"
+        },
+        {
+            "Code": "118054",
+            "Name": "El Tur",
+            "NameAr": "يل تور"
+        },
+        {
+            "Code": "108218",
+            "Name": "El-Bawiti",
+            "NameAr": "يل-باويتي"
+        },
+        {
+            "Code": "108220",
+            "Name": "El-Tor",
+            "NameAr": "يل-تور"
+        },
+        {
+            "Code": "150266",
+            "Name": "Giza",
+            "NameAr": "الجيزة"
+        },
+        {
+            "Code": "153385",
+            "Name": "Giza Governorate",
+            "NameAr": "جيزا جوفيرنوراتي"
+        },
+        {
+            "Code": "119129",
+            "Name": "Gizeh",
+            "NameAr": "جيزيه"
+        },
+        {
+            "Code": "145518",
+            "Name": "Hamata",
+            "NameAr": "هاماتا"
+        },
+        {
+            "Code": "121580",
+            "Name": "Hurghada",
+            "NameAr": "هورجهادا"
+        },
+        {
+            "Code": "122160",
+            "Name": "Ismailia",
+            "NameAr": "يسمايليا"
+        },
+        {
+            "Code": "121830",
+            "Name": "Kalawy",
+            "NameAr": "كالاوي"
+        },
+        {
+            "Code": "145928",
+            "Name": "Kharga Oasis",
+            "NameAr": "كهارجا واسيس"
+        },
+        {
+            "Code": "125658",
+            "Name": "Luxor",
+            "NameAr": "لوكسور"
+        },
+        {
+            "Code": "104314",
+            "Name": "Madinat al-Aschir min Ramadan",
+            "NameAr": "مادينات ال-اسكهير مين رامادان"
+        },
+        {
+            "Code": "146414",
+            "Name": "Madinat Coraya",
+            "NameAr": "مادينات كورايا"
+        },
+        {
+            "Code": "146440",
+            "Name": "Makadi Bay",
+            "NameAr": "ماكادي باي"
+        },
+        {
+            "Code": "127509",
+            "Name": "Marsa Alam",
+            "NameAr": "مارسا الام"
+        },
+        {
+            "Code": "127009",
+            "Name": "Marsa Matrouh",
+            "NameAr": "مارسا ماترووه"
+        },
+        {
+            "Code": "357398",
+            "Name": "Marsa Matruh (MUH)",
+            "NameAr": "مارسا ماتروه موه"
+        },
+        {
+            "Code": "150398",
+            "Name": "Mirage City",
+            "NameAr": "ميراجي كيتي"
+        },
+        {
+            "Code": "129119",
+            "Name": "Na'ama Bay",
+            "NameAr": "نااما باي"
+        },
+        {
+            "Code": "412023",
+            "Name": "New Cairo",
+            "NameAr": "نيو كايرو"
+        },
+        {
+            "Code": "146932",
+            "Name": "Nuweiba",
+            "NameAr": "نووييبا"
+        },
+        {
+            "Code": "131222",
+            "Name": "Oase Fayoum",
+            "NameAr": "واسي فايووم"
+        },
+        {
+            "Code": "132911",
+            "Name": "Port Ghalib",
+            "NameAr": "بورت جهاليب"
+        },
+        {
+            "Code": "133253",
+            "Name": "Port Said",
+            "NameAr": "بورت سايد"
+        },
+        {
+            "Code": "153396",
+            "Name": "Qena Governorate",
+            "NameAr": "قينا جوفيرنوراتي"
+        },
+        {
+            "Code": "134029",
+            "Name": "Quseir",
+            "NameAr": "قوسيير"
+        },
+        {
+            "Code": "133684",
+            "Name": "Ras Banas",
+            "NameAr": "راس باناس"
+        },
+        {
+            "Code": "103475",
+            "Name": "Ras El Bar",
+            "NameAr": "راس يل بار"
+        },
+        {
+            "Code": "147464",
+            "Name": "Ras Sudr",
+            "NameAr": "راس سودر"
+        },
+        {
+            "Code": "135165",
+            "Name": "Safaga",
+            "NameAr": "سافاجا"
+        },
+        {
+            "Code": "135168",
+            "Name": "Sahl Hasheesh",
+            "NameAr": "ساهل هاسهييسه"
+        },
+        {
+            "Code": "149796",
+            "Name": "Sanhur",
+            "NameAr": "سانهور"
+        },
+        {
+            "Code": "137742",
+            "Name": "Sharm el Naga",
+            "NameAr": "سهارم يل ناجا"
+        },
+        {
+            "Code": "136797",
+            "Name": "Sharm El-Sheikh",
+            "NameAr": "سهارم يل-سهييكه"
+        },
+        {
+            "Code": "261141",
+            "Name": "Sharm El-Sheikh (SSH-Sharm El-Sheikh Intl.)",
+            "NameAr": "سهارم يل-سهييكه سسه-سهارم يل-سهييكه ينتل"
+        },
+        {
+            "Code": "138701",
+            "Name": "Sinai",
+            "NameAr": "سيناي"
+        },
+        {
+            "Code": "137624",
+            "Name": "Siwa Oasis",
+            "NameAr": "سيوا واسيس"
+        },
+        {
+            "Code": "137072",
+            "Name": "Soma Bay",
+            "NameAr": "سوما باي"
+        },
+        {
+            "Code": "139209",
+            "Name": "St. Katherina",
+            "NameAr": "ست كاتهيرينا"
+        },
+        {
+            "Code": "138292",
+            "Name": "Suez",
+            "NameAr": "سويز"
+        },
+        {
+            "Code": "148127",
+            "Name": "Taba",
+            "NameAr": "تابا"
+        },
+        {
+            "Code": "138996",
+            "Name": "Taba Heights",
+            "NameAr": "تابا هييجهتس"
+        },
+        {
+            "Code": "294354",
+            "Name": "Tanta",
+            "NameAr": "تانتا"
+        },
+        {
+            "Code": "149829",
+            "Name": "Tenth of Ramadan City",
+            "NameAr": "تينته وف رامادان كيتي"
+        },
+        {
+            "Code": "139774",
+            "Name": "Tondoba Bay",
+            "NameAr": "توندوبا باي"
+        },
+        {
+            "Code": "148786",
+            "Name": "Zaafaranah",
+            "NameAr": "زاافاراناه"
+        }
+    ],
+    "totalCities": 69
+}

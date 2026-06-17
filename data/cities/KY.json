@@ -1,0 +1,62 @@
+{
+    "id": "KY",
+    "countryCode": "KY",
+    "cities": [
+        {
+            "Code": "108068",
+            "Name": "Bodden Town",
+            "NameAr": "بوددين توون"
+        },
+        {
+            "Code": "144587",
+            "Name": "Cayman Brac",
+            "NameAr": "كايمان براك"
+        },
+        {
+            "Code": "114899",
+            "Name": "Cayman Islands",
+            "NameAr": "كايمان يسلاندس"
+        },
+        {
+            "Code": "118955",
+            "Name": "George Town",
+            "NameAr": "جيورجي توون"
+        },
+        {
+            "Code": "118773",
+            "Name": "Grand Cayman",
+            "NameAr": "جراند كايمان"
+        },
+        {
+            "Code": "146314",
+            "Name": "Little Cayman",
+            "NameAr": "ليتتلي كايمان"
+        },
+        {
+            "Code": "130023",
+            "Name": "North Side",
+            "NameAr": "نورته سيدي"
+        },
+        {
+            "Code": "106311",
+            "Name": "Seven Mile Beach",
+            "NameAr": "سيفين ميلي بياكه"
+        },
+        {
+            "Code": "137987",
+            "Name": "Seven Miles",
+            "NameAr": "سيفين ميليس"
+        },
+        {
+            "Code": "137549",
+            "Name": "Spot Bay",
+            "NameAr": "سبوت باي"
+        },
+        {
+            "Code": "142139",
+            "Name": "West Bay",
+            "NameAr": "ويست باي"
+        }
+    ],
+    "totalCities": 11
+}

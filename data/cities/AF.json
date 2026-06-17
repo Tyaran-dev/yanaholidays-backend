@@ -1,0 +1,152 @@
+{
+    "id": "AF",
+    "countryCode": "AF",
+    "cities": [
+        {
+            "Code": "148837",
+            "Name": "Bamiyan",
+            "NameAr": "باميان"
+        },
+        {
+            "Code": "148838",
+            "Name": "Bost",
+            "NameAr": "بوست"
+        },
+        {
+            "Code": "148839",
+            "Name": "Chakcharan",
+            "NameAr": "چغچران"
+        },
+        {
+            "Code": "148840",
+            "Name": "Darwaz",
+            "NameAr": "درواز"
+        },
+        {
+            "Code": "148841",
+            "Name": "def",
+            "NameAr": "ديف"
+        },
+        {
+            "Code": "148842",
+            "Name": "Faizabad",
+            "NameAr": "فيض آباد"
+        },
+        {
+            "Code": "148843",
+            "Name": "Farah",
+            "NameAr": "فراه"
+        },
+        {
+            "Code": "150366",
+            "Name": "Gardez",
+            "NameAr": "گرديز"
+        },
+        {
+            "Code": "150367",
+            "Name": "Ghazni",
+            "NameAr": "غزني"
+        },
+        {
+            "Code": "120623",
+            "Name": "Hato,   Bonaire",
+            "NameAr": "هاتو بونايري"
+        },
+        {
+            "Code": "150369",
+            "Name": "Herat",
+            "NameAr": "هرات"
+        },
+        {
+            "Code": "150370",
+            "Name": "Jalalabad",
+            "NameAr": "جلال آباد"
+        },
+        {
+            "Code": "122379",
+            "Name": "Kabul",
+            "NameAr": "كابل"
+        },
+        {
+            "Code": "150371",
+            "Name": "Kandahar",
+            "NameAr": "قندهار"
+        },
+        {
+            "Code": "150372",
+            "Name": "Khost",
+            "NameAr": "خوست"
+        },
+        {
+            "Code": "150373",
+            "Name": "Khwahan",
+            "NameAr": "خواهان"
+        },
+        {
+            "Code": "150374",
+            "Name": "Kunduz",
+            "NameAr": "قندوز"
+        },
+        {
+            "Code": "150375",
+            "Name": "Kuran O Munjan",
+            "NameAr": "كوران و منجان"
+        },
+        {
+            "Code": "150376",
+            "Name": "Maimana",
+            "NameAr": "ميمنه"
+        },
+        {
+            "Code": "150377",
+            "Name": "Mazar I Sharif",
+            "NameAr": "مزار شريف"
+        },
+        {
+            "Code": "150378",
+            "Name": "Nimroz",
+            "NameAr": "نيمروز"
+        },
+        {
+            "Code": "150379",
+            "Name": "Qala Nau",
+            "NameAr": "قلعة نو"
+        },
+        {
+            "Code": "150380",
+            "Name": "Sardeh Band",
+            "NameAr": "سرده بند"
+        },
+        {
+            "Code": "150381",
+            "Name": "Sheghnan",
+            "NameAr": "شغنان"
+        },
+        {
+            "Code": "150382",
+            "Name": "Taluqan",
+            "NameAr": "تالقان"
+        },
+        {
+            "Code": "150383",
+            "Name": "Tirinkot",
+            "NameAr": "ترينكوت"
+        },
+        {
+            "Code": "150384",
+            "Name": "Urgoon",
+            "NameAr": "أورغون"
+        },
+        {
+            "Code": "150385",
+            "Name": "Uruzgan",
+            "NameAr": "أوروزغان"
+        },
+        {
+            "Code": "150386",
+            "Name": "Zaranj",
+            "NameAr": "زرنج"
+        }
+    ],
+    "totalCities": 29
+}

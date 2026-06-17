@@ -1,0 +1,47 @@
+{
+    "id": "BL",
+    "countryCode": "BL",
+    "cities": [
+        {
+            "Code": "109228",
+            "Name": "Anse des Cayes",
+            "NameAr": "انسي ديس كاييس"
+        },
+        {
+            "Code": "110958",
+            "Name": "Baie de Lorient",
+            "NameAr": "بايي دي لوريينت"
+        },
+        {
+            "Code": "110648",
+            "Name": "Baie des Flamand",
+            "NameAr": "بايي ديس فلاماند"
+        },
+        {
+            "Code": "116014",
+            "Name": "Cul de Sac",
+            "NameAr": "كول دي ساك"
+        },
+        {
+            "Code": "120163",
+            "Name": "Gustavia",
+            "NameAr": "جوستافيا"
+        },
+        {
+            "Code": "132276",
+            "Name": "Pointe Milou",
+            "NameAr": "بوينتي ميلوو"
+        },
+        {
+            "Code": "136427",
+            "Name": "Saint-Jean",
+            "NameAr": "ساينت-جيان"
+        },
+        {
+            "Code": "138195",
+            "Name": "St. Barthelemy",
+            "NameAr": "ست بارتهيليمي"
+        }
+    ],
+    "totalCities": 8
+}

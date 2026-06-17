@@ -1,0 +1,12 @@
+{
+    "id": "TM",
+    "countryCode": "TM",
+    "cities": [
+        {
+            "Code": "110314",
+            "Name": "Aschgabat",
+            "NameAr": "اسكهجابات"
+        }
+    ],
+    "totalCities": 1
+}

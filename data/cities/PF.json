@@ -1,0 +1,192 @@
+{
+    "id": "PF",
+    "countryCode": "PF",
+    "cities": [
+        {
+            "Code": "150470",
+            "Name": "Ahe",
+            "NameAr": "اهي"
+        },
+        {
+            "Code": "100473",
+            "Name": "Ahe-Tuamotu",
+            "NameAr": "اهي-تواموتو"
+        },
+        {
+            "Code": "148851",
+            "Name": "Anaa",
+            "NameAr": "اناا"
+        },
+        {
+            "Code": "150547",
+            "Name": "Apataki",
+            "NameAr": "اباتاكي"
+        },
+        {
+            "Code": "150694",
+            "Name": "Arutua",
+            "NameAr": "اروتوا"
+        },
+        {
+            "Code": "112456",
+            "Name": "Bora Bora",
+            "NameAr": "بورا بورا"
+        },
+        {
+            "Code": "150510",
+            "Name": "Fakahina",
+            "NameAr": "فاكاهينا"
+        },
+        {
+            "Code": "117287",
+            "Name": "Fakarava",
+            "NameAr": "فاكارافا"
+        },
+        {
+            "Code": "150511",
+            "Name": "Fangatau",
+            "NameAr": "فانجاتاو"
+        },
+        {
+            "Code": "145629",
+            "Name": "Hiva Oa",
+            "NameAr": "هيفا وا"
+        },
+        {
+            "Code": "121404",
+            "Name": "Huahine",
+            "NameAr": "هواهيني"
+        },
+        {
+            "Code": "127354",
+            "Name": "Makemo",
+            "NameAr": "ماكيمو"
+        },
+        {
+            "Code": "126150",
+            "Name": "Mangareva",
+            "NameAr": "مانجاريفا"
+        },
+        {
+            "Code": "126152",
+            "Name": "Manihi",
+            "NameAr": "مانيهي"
+        },
+        {
+            "Code": "126876",
+            "Name": "Marquesas",
+            "NameAr": "مارقويساس"
+        },
+        {
+            "Code": "128114",
+            "Name": "Mataiva",
+            "NameAr": "ماتايفا"
+        },
+        {
+            "Code": "126472",
+            "Name": "Maupiti",
+            "NameAr": "ماوبيتي"
+        },
+        {
+            "Code": "129031",
+            "Name": "Moorea",
+            "NameAr": "مووريا"
+        },
+        {
+            "Code": "130584",
+            "Name": "Nuku Hiva",
+            "NameAr": "نوكو هيفا"
+        },
+        {
+            "Code": "295669",
+            "Name": "Paopao",
+            "NameAr": "باوباو"
+        },
+        {
+            "Code": "131443",
+            "Name": "Papara",
+            "NameAr": "بابارا"
+        },
+        {
+            "Code": "131548",
+            "Name": "Papeete",
+            "NameAr": "بابييتي"
+        },
+        {
+            "Code": "133131",
+            "Name": "Punaauia",
+            "NameAr": "بونااويا"
+        },
+        {
+            "Code": "133670",
+            "Name": "Raiatea",
+            "NameAr": "راياتيا"
+        },
+        {
+            "Code": "134039",
+            "Name": "Raivavae",
+            "NameAr": "رايفافاي"
+        },
+        {
+            "Code": "134052",
+            "Name": "Rangiroa",
+            "NameAr": "رانجيروا"
+        },
+        {
+            "Code": "133354",
+            "Name": "Rimatara",
+            "NameAr": "ريماتارا"
+        },
+        {
+            "Code": "134660",
+            "Name": "Rurutu",
+            "NameAr": "روروتو"
+        },
+        {
+            "Code": "139000",
+            "Name": "Tahaa",
+            "NameAr": "تاهاا"
+        },
+        {
+            "Code": "138564",
+            "Name": "Tahiti",
+            "NameAr": "تاهيتي"
+        },
+        {
+            "Code": "151672",
+            "Name": "Takapoto",
+            "NameAr": "تاكابوتو"
+        },
+        {
+            "Code": "151023",
+            "Name": "Takaroa",
+            "NameAr": "تاكاروا"
+        },
+        {
+            "Code": "141015",
+            "Name": "Tetiaroa",
+            "NameAr": "تيتياروا"
+        },
+        {
+            "Code": "139308",
+            "Name": "Tikehau",
+            "NameAr": "تيكيهاو"
+        },
+        {
+            "Code": "141219",
+            "Name": "Tubuai",
+            "NameAr": "توبواي"
+        },
+        {
+            "Code": "148360",
+            "Name": "Ua Huka",
+            "NameAr": "وا هوكا"
+        },
+        {
+            "Code": "141540",
+            "Name": "Ua Pou",
+            "NameAr": "وا بوو"
+        }
+    ],
+    "totalCities": 37
+}

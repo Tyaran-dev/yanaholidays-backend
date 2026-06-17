@@ -1,0 +1,147 @@
+{
+    "id": "LA",
+    "countryCode": "LA",
+    "cities": [
+        {
+            "Code": "150300",
+            "Name": "Attapeu",
+            "NameAr": "اتتابيو"
+        },
+        {
+            "Code": "148879",
+            "Name": "Ban Khone",
+            "NameAr": "بان كهوني"
+        },
+        {
+            "Code": "105025",
+            "Name": "Ban Thangon",
+            "NameAr": "بان تهانجون"
+        },
+        {
+            "Code": "150293",
+            "Name": "Bokeo",
+            "NameAr": "بوكيو"
+        },
+        {
+            "Code": "114608",
+            "Name": "Champasak",
+            "NameAr": "كهامباساك"
+        },
+        {
+            "Code": "116887",
+            "Name": "Don Daeng",
+            "NameAr": "دون داينج"
+        },
+        {
+            "Code": "116678",
+            "Name": "Don Khong",
+            "NameAr": "دون كهونج"
+        },
+        {
+            "Code": "145680",
+            "Name": "Houaixay",
+            "NameAr": "هووايكساي"
+        },
+        {
+            "Code": "148995",
+            "Name": "Kenue Kang",
+            "NameAr": "كينوي كانج"
+        },
+        {
+            "Code": "124812",
+            "Name": "Laos",
+            "NameAr": "لاوس"
+        },
+        {
+            "Code": "126214",
+            "Name": "Luang Prabang",
+            "NameAr": "لوانج برابانج"
+        },
+        {
+            "Code": "128450",
+            "Name": "Muang Khong",
+            "NameAr": "موانج كهونج"
+        },
+        {
+            "Code": "102844",
+            "Name": "Muang Pakxan",
+            "NameAr": "موانج باككسان"
+        },
+        {
+            "Code": "106533",
+            "Name": "Muang Xay",
+            "NameAr": "موانج كساي"
+        },
+        {
+            "Code": "148996",
+            "Name": "Pak Ou",
+            "NameAr": "باك وو"
+        },
+        {
+            "Code": "132022",
+            "Name": "Pakbeng",
+            "NameAr": "باكبينج"
+        },
+        {
+            "Code": "150182",
+            "Name": "Paksan",
+            "NameAr": "باكسان"
+        },
+        {
+            "Code": "104198",
+            "Name": "Paksane district",
+            "NameAr": "باكساني ديستريكت"
+        },
+        {
+            "Code": "132024",
+            "Name": "Pakse",
+            "NameAr": "باكسي"
+        },
+        {
+            "Code": "104199",
+            "Name": "Paksong",
+            "NameAr": "باكسونج"
+        },
+        {
+            "Code": "131528",
+            "Name": "Phonsavan",
+            "NameAr": "بهونسافان"
+        },
+        {
+            "Code": "151580",
+            "Name": "Saravane",
+            "NameAr": "سارافاني"
+        },
+        {
+            "Code": "106321",
+            "Name": "Sieng Ngeum Village",
+            "NameAr": "سيينج نجيوم فيللاجي"
+        },
+        {
+            "Code": "148997",
+            "Name": "Thakhek",
+            "NameAr": "تهاكهيك"
+        },
+        {
+            "Code": "141971",
+            "Name": "Vang Vieng",
+            "NameAr": "فانج فيينج"
+        },
+        {
+            "Code": "142579",
+            "Name": "Vientiane",
+            "NameAr": "فيينتياني"
+        },
+        {
+            "Code": "150190",
+            "Name": "Xam Neua",
+            "NameAr": "كسام نيوا"
+        },
+        {
+            "Code": "107612",
+            "Name": "Xieng Khouang",
+            "NameAr": "كسيينج كهووانج"
+        }
+    ],
+    "totalCities": 28
+}

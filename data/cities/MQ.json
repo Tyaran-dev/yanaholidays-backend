@@ -1,0 +1,117 @@
+{
+    "id": "MQ",
+    "countryCode": "MQ",
+    "cities": [
+        {
+            "Code": "109468",
+            "Name": "Anse a l'Ane",
+            "NameAr": "انسي ا لاني"
+        },
+        {
+            "Code": "110880",
+            "Name": "Basse-Pointe",
+            "NameAr": "باسسي-بوينتي"
+        },
+        {
+            "Code": "104959",
+            "Name": "Ducos",
+            "NameAr": "دوكوس"
+        },
+        {
+            "Code": "145242",
+            "Name": "Fort-de-France",
+            "NameAr": "فورت-دي-فرانكي"
+        },
+        {
+            "Code": "124367",
+            "Name": "La Trinite",
+            "NameAr": "لا ترينيتي"
+        },
+        {
+            "Code": "125501",
+            "Name": "Le Carbet",
+            "NameAr": "لي كاربيت"
+        },
+        {
+            "Code": "146197",
+            "Name": "Le Diamant",
+            "NameAr": "لي ديامانت"
+        },
+        {
+            "Code": "146199",
+            "Name": "Le Francois",
+            "NameAr": "لي فرانكويس"
+        },
+        {
+            "Code": "125123",
+            "Name": "Le Lamentin",
+            "NameAr": "لي لامينتين"
+        },
+        {
+            "Code": "105560",
+            "Name": "Le Precheur",
+            "NameAr": "لي بريكهيور"
+        },
+        {
+            "Code": "125933",
+            "Name": "Le Vauclin",
+            "NameAr": "لي فاوكلين"
+        },
+        {
+            "Code": "124884",
+            "Name": "Les Trois llets",
+            "NameAr": "ليس ترويس لليتس"
+        },
+        {
+            "Code": "126418",
+            "Name": "Marigot",
+            "NameAr": "ماريجوت"
+        },
+        {
+            "Code": "128091",
+            "Name": "Martinique",
+            "NameAr": "مارتينيقوي"
+        },
+        {
+            "Code": "132274",
+            "Name": "Point du Bout",
+            "NameAr": "بوينت دو بووت"
+        },
+        {
+            "Code": "134333",
+            "Name": "Privatinsel Ilet Oscar",
+            "NameAr": "بريفاتينسيل يليت وسكار"
+        },
+        {
+            "Code": "107003",
+            "Name": "Saint Pierre",
+            "NameAr": "ساينت بييرري"
+        },
+        {
+            "Code": "135514",
+            "Name": "Sainte Anne de Martinique",
+            "NameAr": "ساينتي انني دي مارتينيقوي"
+        },
+        {
+            "Code": "135196",
+            "Name": "Sainte Luce",
+            "NameAr": "ساينتي لوكي"
+        },
+        {
+            "Code": "135331",
+            "Name": "Sainte Marie",
+            "NameAr": "ساينتي ماريي"
+        },
+        {
+            "Code": "417959",
+            "Name": "Sainte-Anne",
+            "NameAr": "ساينتي-انني"
+        },
+        {
+            "Code": "148160",
+            "Name": "Tartane",
+            "NameAr": "تارتاني"
+        }
+    ],
+    "totalCities": 22
+}

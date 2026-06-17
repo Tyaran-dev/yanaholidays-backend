@@ -1,0 +1,4452 @@
+{
+    "id": "BR",
+    "countryCode": "BR",
+    "cities": [
+        {
+            "Code": "104695",
+            "Name": "Abelardo Luz",
+            "NameAr": "ابيلاردو لوز"
+        },
+        {
+            "Code": "101609",
+            "Name": "Abre-Campo",
+            "NameAr": "ابري-كامبو"
+        },
+        {
+            "Code": "101611",
+            "Name": "Acailandia",
+            "NameAr": "اكايلانديا"
+        },
+        {
+            "Code": "106068",
+            "Name": "Acarau",
+            "NameAr": "اكاراو"
+        },
+        {
+            "Code": "279382",
+            "Name": "Adamantina",
+            "NameAr": "ادامانتينا"
+        },
+        {
+            "Code": "104980",
+            "Name": "Afogados da Ingazeira,   Pernambuco",
+            "NameAr": "افوجادوس دا ينجازييرا بيرنامبوكو"
+        },
+        {
+            "Code": "361448",
+            "Name": "Aguas da Prata",
+            "NameAr": "اجواس دا براتا"
+        },
+        {
+            "Code": "100472",
+            "Name": "Aguas de Lindoia",
+            "NameAr": "اجواس دي ليندويا"
+        },
+        {
+            "Code": "381984",
+            "Name": "Aguas de Santa Barbara",
+            "NameAr": "اجواس دي سانتا باربارا"
+        },
+        {
+            "Code": "102142",
+            "Name": "Aguas de Sao Pedro",
+            "NameAr": "اجواس دي ساو بيدرو"
+        },
+        {
+            "Code": "100078",
+            "Name": "Alagoinhas",
+            "NameAr": "الاجوينهاس"
+        },
+        {
+            "Code": "100713",
+            "Name": "Alcobaca",
+            "NameAr": "الكوباكا"
+        },
+        {
+            "Code": "100837",
+            "Name": "Alegrete",
+            "NameAr": "اليجريتي"
+        },
+        {
+            "Code": "150689",
+            "Name": "Alenquer",
+            "NameAr": "الينقوير"
+        },
+        {
+            "Code": "161037",
+            "Name": "Alexania,   Goiás",
+            "NameAr": "اليكسانيا جوي س"
+        },
+        {
+            "Code": "100514",
+            "Name": "Alfenas",
+            "NameAr": "الفيناس"
+        },
+        {
+            "Code": "101097",
+            "Name": "Alphaville",
+            "NameAr": "البهافيللي"
+        },
+        {
+            "Code": "109176",
+            "Name": "Alta Floresta",
+            "NameAr": "التا فلوريستا"
+        },
+        {
+            "Code": "151051",
+            "Name": "Altamira",
+            "NameAr": "التاميرا"
+        },
+        {
+            "Code": "105086",
+            "Name": "Alter do Chao",
+            "NameAr": "التير دو كهاو"
+        },
+        {
+            "Code": "101348",
+            "Name": "Alto Caparao",
+            "NameAr": "التو كاباراو"
+        },
+        {
+            "Code": "109426",
+            "Name": "Alto Paraiso de Goias",
+            "NameAr": "التو بارايسو دي جوياس"
+        },
+        {
+            "Code": "100878",
+            "Name": "Amargosa",
+            "NameAr": "امارجوسا"
+        },
+        {
+            "Code": "109106",
+            "Name": "Americana",
+            "NameAr": "اميريكانا"
+        },
+        {
+            "Code": "297545",
+            "Name": "Amontada",
+            "NameAr": "امونتادا"
+        },
+        {
+            "Code": "100891",
+            "Name": "Amparo",
+            "NameAr": "امبارو"
+        },
+        {
+            "Code": "101561",
+            "Name": "Analandia",
+            "NameAr": "انالانديا"
+        },
+        {
+            "Code": "109447",
+            "Name": "Anapolis",
+            "NameAr": "انابوليس"
+        },
+        {
+            "Code": "109327",
+            "Name": "Anchieta",
+            "NameAr": "انكهييتا"
+        },
+        {
+            "Code": "109332",
+            "Name": "Andradina",
+            "NameAr": "اندرادينا"
+        },
+        {
+            "Code": "101143",
+            "Name": "Angra dos Reis",
+            "NameAr": "انجرا دوس رييس"
+        },
+        {
+            "Code": "109143",
+            "Name": "Antonina",
+            "NameAr": "انتونينا"
+        },
+        {
+            "Code": "101635",
+            "Name": "Antonio Prado",
+            "NameAr": "انتونيو برادو"
+        },
+        {
+            "Code": "109146",
+            "Name": "Aparecida",
+            "NameAr": "اباريكيدا"
+        },
+        {
+            "Code": "160864",
+            "Name": "Aparecida Do Taboado",
+            "NameAr": "اباريكيدا دو تابوادو"
+        },
+        {
+            "Code": "109239",
+            "Name": "Apucarana",
+            "NameAr": "ابوكارانا"
+        },
+        {
+            "Code": "109156",
+            "Name": "Aquidauana",
+            "NameAr": "اقويداوانا"
+        },
+        {
+            "Code": "109484",
+            "Name": "Aquiraz,   Ceara",
+            "NameAr": "اقويراز كيارا"
+        },
+        {
+            "Code": "109485",
+            "Name": "Aracaju",
+            "NameAr": "اراكاجو"
+        },
+        {
+            "Code": "109600",
+            "Name": "Aracati",
+            "NameAr": "اراكاتي"
+        },
+        {
+            "Code": "109601",
+            "Name": "Aracatuba",
+            "NameAr": "اراكاتوبا"
+        },
+        {
+            "Code": "389599",
+            "Name": "Aracoiaba da Serra",
+            "NameAr": "اراكويابا دا سيررا"
+        },
+        {
+            "Code": "109486",
+            "Name": "Aracruz",
+            "NameAr": "اراكروز"
+        },
+        {
+            "Code": "104723",
+            "Name": "Aracui",
+            "NameAr": "اراكوي"
+        },
+        {
+            "Code": "109602",
+            "Name": "Araguaina",
+            "NameAr": "اراجواينا"
+        },
+        {
+            "Code": "109487",
+            "Name": "Araguari",
+            "NameAr": "اراجواري"
+        },
+        {
+            "Code": "150475",
+            "Name": "Arapiraca",
+            "NameAr": "ارابيراكا"
+        },
+        {
+            "Code": "109041",
+            "Name": "Arapongas",
+            "NameAr": "ارابونجاس"
+        },
+        {
+            "Code": "109162",
+            "Name": "Arapoti",
+            "NameAr": "ارابوتي"
+        },
+        {
+            "Code": "151416",
+            "Name": "Ararangua",
+            "NameAr": "ارارانجوا"
+        },
+        {
+            "Code": "109243",
+            "Name": "Araraquara",
+            "NameAr": "اراراقوارا"
+        },
+        {
+            "Code": "109375",
+            "Name": "Araras",
+            "NameAr": "اراراس"
+        },
+        {
+            "Code": "101569",
+            "Name": "Araripina,   Pernambuco",
+            "NameAr": "اراريبينا بيرنامبوكو"
+        },
+        {
+            "Code": "102170",
+            "Name": "Araruama",
+            "NameAr": "ارارواما"
+        },
+        {
+            "Code": "105098",
+            "Name": "Araukarien",
+            "NameAr": "اراوكاريين"
+        },
+        {
+            "Code": "100936",
+            "Name": "Araxa",
+            "NameAr": "اراكسا"
+        },
+        {
+            "Code": "101640",
+            "Name": "Arcos",
+            "NameAr": "اركوس"
+        },
+        {
+            "Code": "102171",
+            "Name": "Areia",
+            "NameAr": "ارييا"
+        },
+        {
+            "Code": "109173",
+            "Name": "Areia Branca",
+            "NameAr": "ارييا برانكا"
+        },
+        {
+            "Code": "109057",
+            "Name": "Arembepe",
+            "NameAr": "اريمبيبي"
+        },
+        {
+            "Code": "151342",
+            "Name": "Aripuana",
+            "NameAr": "اريبوانا"
+        },
+        {
+            "Code": "101465",
+            "Name": "Ariquemes",
+            "NameAr": "اريقويميس"
+        },
+        {
+            "Code": "113104",
+            "Name": "Armacao De Buzios",
+            "NameAr": "ارماكاو دي بوزيوس"
+        },
+        {
+            "Code": "110299",
+            "Name": "Arraial d'Ajuda",
+            "NameAr": "اررايال داجودا"
+        },
+        {
+            "Code": "109874",
+            "Name": "Arraial do Cabo",
+            "NameAr": "اررايال دو كابو"
+        },
+        {
+            "Code": "104734",
+            "Name": "Aruja",
+            "NameAr": "اروجا"
+        },
+        {
+            "Code": "143970",
+            "Name": "Assis",
+            "NameAr": "اسسيس"
+        },
+        {
+            "Code": "101580",
+            "Name": "Assu",
+            "NameAr": "اسسو"
+        },
+        {
+            "Code": "143980",
+            "Name": "Atibaia",
+            "NameAr": "اتيبايا"
+        },
+        {
+            "Code": "109666",
+            "Name": "Autazes",
+            "NameAr": "اوتازيس"
+        },
+        {
+            "Code": "102185",
+            "Name": "Avanhandava",
+            "NameAr": "افانهاندافا"
+        },
+        {
+            "Code": "110096",
+            "Name": "Avare",
+            "NameAr": "افاري"
+        },
+        {
+            "Code": "110047",
+            "Name": "Bacabal",
+            "NameAr": "باكابال"
+        },
+        {
+            "Code": "101483",
+            "Name": "Bage",
+            "NameAr": "باجي"
+        },
+        {
+            "Code": "153002",
+            "Name": "Bahia",
+            "NameAr": "باهيا"
+        },
+        {
+            "Code": "110155",
+            "Name": "Baia da Traicao",
+            "NameAr": "بايا دا ترايكاو"
+        },
+        {
+            "Code": "264771",
+            "Name": "Baia Formosa",
+            "NameAr": "بايا فورموسا"
+        },
+        {
+            "Code": "148889",
+            "Name": "Balneario Barra do Sul",
+            "NameAr": "بالنياريو باررا دو سول"
+        },
+        {
+            "Code": "110765",
+            "Name": "Balneario Camboriu",
+            "NameAr": "بالنياريو كامبوريو"
+        },
+        {
+            "Code": "110409",
+            "Name": "Balsas",
+            "NameAr": "بالساس"
+        },
+        {
+            "Code": "417057",
+            "Name": "Bambui,   Minas Gerais",
+            "NameAr": "بامبوي ميناس جيرايس"
+        },
+        {
+            "Code": "101598",
+            "Name": "Bananeiras",
+            "NameAr": "بانانييراس"
+        },
+        {
+            "Code": "256256",
+            "Name": "Bandeirantes",
+            "NameAr": "باندييرانتيس"
+        },
+        {
+            "Code": "160972",
+            "Name": "Barao de Cocais",
+            "NameAr": "باراو دي كوكايس"
+        },
+        {
+            "Code": "150555",
+            "Name": "Barbacena",
+            "NameAr": "بارباكينا"
+        },
+        {
+            "Code": "101667",
+            "Name": "Barbalha",
+            "NameAr": "باربالها"
+        },
+        {
+            "Code": "101669",
+            "Name": "Barcarena",
+            "NameAr": "باركارينا"
+        },
+        {
+            "Code": "148882",
+            "Name": "Barequecaba",
+            "NameAr": "باريقويكابا"
+        },
+        {
+            "Code": "105130",
+            "Name": "Barra de Santo Antonio",
+            "NameAr": "باررا دي سانتو انتونيو"
+        },
+        {
+            "Code": "111018",
+            "Name": "Barra de Sao Miguel,   Alagoas",
+            "NameAr": "باررا دي ساو ميجويل الاجواس"
+        },
+        {
+            "Code": "110439",
+            "Name": "Barra do Garcas",
+            "NameAr": "باررا دو جاركاس"
+        },
+        {
+            "Code": "110872",
+            "Name": "Barra do Pirai",
+            "NameAr": "باررا دو بيراي"
+        },
+        {
+            "Code": "105131",
+            "Name": "Barra Grande",
+            "NameAr": "باررا جراندي"
+        },
+        {
+            "Code": "150480",
+            "Name": "Barra Mansa",
+            "NameAr": "باررا مانسا"
+        },
+        {
+            "Code": "101497",
+            "Name": "Barra Nova",
+            "NameAr": "باررا نوفا"
+        },
+        {
+            "Code": "111019",
+            "Name": "Barra Velha",
+            "NameAr": "باررا فيلها"
+        },
+        {
+            "Code": "144116",
+            "Name": "Barreiras",
+            "NameAr": "باررييراس"
+        },
+        {
+            "Code": "111147",
+            "Name": "Barreirinhas",
+            "NameAr": "باررييرينهاس"
+        },
+        {
+            "Code": "111148",
+            "Name": "Barretos",
+            "NameAr": "بارريتوس"
+        },
+        {
+            "Code": "105133",
+            "Name": "Barrolandia",
+            "NameAr": "باررولانديا"
+        },
+        {
+            "Code": "160973",
+            "Name": "Barso de Cocais",
+            "NameAr": "بارسو دي كوكايس"
+        },
+        {
+            "Code": "110444",
+            "Name": "Barueri",
+            "NameAr": "بارويري"
+        },
+        {
+            "Code": "101603",
+            "Name": "Batatais",
+            "NameAr": "باتاتايس"
+        },
+        {
+            "Code": "160875",
+            "Name": "Baturite",
+            "NameAr": "باتوريتي"
+        },
+        {
+            "Code": "110815",
+            "Name": "Bauru",
+            "NameAr": "باورو"
+        },
+        {
+            "Code": "381977",
+            "Name": "Bebedouro",
+            "NameAr": "بيبيدوورو"
+        },
+        {
+            "Code": "110827",
+            "Name": "Beberibe",
+            "NameAr": "بيبيريبي"
+        },
+        {
+            "Code": "110929",
+            "Name": "Belem",
+            "NameAr": "بيليم"
+        },
+        {
+            "Code": "105284",
+            "Name": "Belmiro Braga",
+            "NameAr": "بيلميرو براجا"
+        },
+        {
+            "Code": "150953",
+            "Name": "Belmonte",
+            "NameAr": "بيلمونتي"
+        },
+        {
+            "Code": "144170",
+            "Name": "Belo Horizonte",
+            "NameAr": "بيلو هوريزونتي"
+        },
+        {
+            "Code": "111524",
+            "Name": "Benedito Novo",
+            "NameAr": "بينيديتو نوفو"
+        },
+        {
+            "Code": "110595",
+            "Name": "Bento Goncalves",
+            "NameAr": "بينتو جونكالفيس"
+        },
+        {
+            "Code": "111548",
+            "Name": "Bertioga",
+            "NameAr": "بيرتيوجا"
+        },
+        {
+            "Code": "110622",
+            "Name": "Betim",
+            "NameAr": "بيتيم"
+        },
+        {
+            "Code": "105294",
+            "Name": "Bezerros,   Pernambuco",
+            "NameAr": "بيزيرروس بيرنامبوكو"
+        },
+        {
+            "Code": "150484",
+            "Name": "Birigui",
+            "NameAr": "بيريجوي"
+        },
+        {
+            "Code": "105740",
+            "Name": "Biritiba-Mirim",
+            "NameAr": "بيريتيبا-ميريم"
+        },
+        {
+            "Code": "112418",
+            "Name": "Blumenau",
+            "NameAr": "بلوميناو"
+        },
+        {
+            "Code": "111341",
+            "Name": "Boa Vista",
+            "NameAr": "بوا فيستا"
+        },
+        {
+            "Code": "389874",
+            "Name": "Bodoquena",
+            "NameAr": "بودوقوينا"
+        },
+        {
+            "Code": "112662",
+            "Name": "Bom Jardim da Serra",
+            "NameAr": "بوم جارديم دا سيررا"
+        },
+        {
+            "Code": "101420",
+            "Name": "Bom Principio",
+            "NameAr": "بوم برينكيبيو"
+        },
+        {
+            "Code": "111263",
+            "Name": "Bombinhas",
+            "NameAr": "بومبينهاس"
+        },
+        {
+            "Code": "112310",
+            "Name": "Bonito",
+            "NameAr": "بونيتو"
+        },
+        {
+            "Code": "150712",
+            "Name": "Borba",
+            "NameAr": "بوربا"
+        },
+        {
+            "Code": "112069",
+            "Name": "Botucatu",
+            "NameAr": "بوتوكاتو"
+        },
+        {
+            "Code": "105204",
+            "Name": "Braganca",
+            "NameAr": "براجانكا"
+        },
+        {
+            "Code": "151428",
+            "Name": "Braganca Paulista",
+            "NameAr": "براجانكا باوليستا"
+        },
+        {
+            "Code": "112280",
+            "Name": "Brasilia",
+            "NameAr": "براسيليا"
+        },
+        {
+            "Code": "113412",
+            "Name": "Brotas",
+            "NameAr": "بروتاس"
+        },
+        {
+            "Code": "105324",
+            "Name": "Brumadinho",
+            "NameAr": "برومادينهو"
+        },
+        {
+            "Code": "151071",
+            "Name": "Brumado",
+            "NameAr": "برومادو"
+        },
+        {
+            "Code": "113425",
+            "Name": "Brusque",
+            "NameAr": "بروسقوي"
+        },
+        {
+            "Code": "104659",
+            "Name": "Buriti Alegre (Goias)",
+            "NameAr": "بوريتي اليجري جوياس"
+        },
+        {
+            "Code": "158050",
+            "Name": "Buzios,   Rio de Janeiro (state)",
+            "NameAr": "بوزيوس ريو دي جانييرو ستاتي"
+        },
+        {
+            "Code": "105331",
+            "Name": "Cabedelo",
+            "NameAr": "كابيديلو"
+        },
+        {
+            "Code": "362345",
+            "Name": "Cabo Branco",
+            "NameAr": "كابو برانكو"
+        },
+        {
+            "Code": "113028",
+            "Name": "Cabo de Santo Agostinho",
+            "NameAr": "كابو دي سانتو اجوستينهو"
+        },
+        {
+            "Code": "144455",
+            "Name": "Cabo Frio",
+            "NameAr": "كابو فريو"
+        },
+        {
+            "Code": "113294",
+            "Name": "Cabreuva",
+            "NameAr": "كابريوفا"
+        },
+        {
+            "Code": "112752",
+            "Name": "Cacador",
+            "NameAr": "كاكادور"
+        },
+        {
+            "Code": "113295",
+            "Name": "Caceres",
+            "NameAr": "كاكيريس"
+        },
+        {
+            "Code": "160949",
+            "Name": "Cacha Pregos",
+            "NameAr": "كاكها بريجوس"
+        },
+        {
+            "Code": "113033",
+            "Name": "Cachoeira",
+            "NameAr": "كاكهوييرا"
+        },
+        {
+            "Code": "101380",
+            "Name": "Cachoeira Alta",
+            "NameAr": "كاكهوييرا التا"
+        },
+        {
+            "Code": "104665",
+            "Name": "Cachoeira do Sul",
+            "NameAr": "كاكهوييرا دو سول"
+        },
+        {
+            "Code": "104666",
+            "Name": "Cachoeira Paulista",
+            "NameAr": "كاكهوييرا باوليستا"
+        },
+        {
+            "Code": "113488",
+            "Name": "Cachoeiras de Macacu",
+            "NameAr": "كاكهوييراس دي ماكاكو"
+        },
+        {
+            "Code": "113034",
+            "Name": "Cachoeiro de Itapemirim",
+            "NameAr": "كاكهوييرو دي يتابيميريم"
+        },
+        {
+            "Code": "150426",
+            "Name": "Cacoal",
+            "NameAr": "كاكوال"
+        },
+        {
+            "Code": "105334",
+            "Name": "Caetanopolis",
+            "NameAr": "كايتانوبوليس"
+        },
+        {
+            "Code": "101381",
+            "Name": "Caete",
+            "NameAr": "كايتي"
+        },
+        {
+            "Code": "105226",
+            "Name": "Caetite",
+            "NameAr": "كايتيتي"
+        },
+        {
+            "Code": "105690",
+            "Name": "Cairu",
+            "NameAr": "كايرو"
+        },
+        {
+            "Code": "108099",
+            "Name": "Cajazeiras",
+            "NameAr": "كاجازييراس"
+        },
+        {
+            "Code": "104886",
+            "Name": "Calarca",
+            "NameAr": "كالاركا"
+        },
+        {
+            "Code": "112869",
+            "Name": "Caldas Novas",
+            "NameAr": "كالداس نوفاس"
+        },
+        {
+            "Code": "112877",
+            "Name": "Camacan",
+            "NameAr": "كاماكان"
+        },
+        {
+            "Code": "113267",
+            "Name": "Camacari",
+            "NameAr": "كاماكاري"
+        },
+        {
+            "Code": "105693",
+            "Name": "Camamu",
+            "NameAr": "كامامو"
+        },
+        {
+            "Code": "112789",
+            "Name": "Camaqua",
+            "NameAr": "كاماقوا"
+        },
+        {
+            "Code": "104670",
+            "Name": "Camaragibe",
+            "NameAr": "كاماراجيبي"
+        },
+        {
+            "Code": "299861",
+            "Name": "Cambara",
+            "NameAr": "كامبارا"
+        },
+        {
+            "Code": "114150",
+            "Name": "Cambara do Sul",
+            "NameAr": "كامبارا دو سول"
+        },
+        {
+            "Code": "101386",
+            "Name": "Cambuquira",
+            "NameAr": "كامبوقويرا"
+        },
+        {
+            "Code": "112798",
+            "Name": "Camocim",
+            "NameAr": "كاموكيم"
+        },
+        {
+            "Code": "113925",
+            "Name": "Campina Grande",
+            "NameAr": "كامبينا جراندي"
+        },
+        {
+            "Code": "112802",
+            "Name": "Campinas",
+            "NameAr": "كامبيناس"
+        },
+        {
+            "Code": "417196",
+            "Name": "Campo Alegre,   Santa Catarina",
+            "NameAr": "كامبو اليجري سانتا كاتارينا"
+        },
+        {
+            "Code": "151431",
+            "Name": "Campo Bom",
+            "NameAr": "كامبو بوم"
+        },
+        {
+            "Code": "112804",
+            "Name": "Campo Grande",
+            "NameAr": "كامبو جراندي"
+        },
+        {
+            "Code": "144500",
+            "Name": "Campo Largo",
+            "NameAr": "كامبو لارجو"
+        },
+        {
+            "Code": "151432",
+            "Name": "Campo Mourao",
+            "NameAr": "كامبو مووراو"
+        },
+        {
+            "Code": "150428",
+            "Name": "Campos",
+            "NameAr": "كامبوس"
+        },
+        {
+            "Code": "112888",
+            "Name": "Campos do Jordao",
+            "NameAr": "كامبوس دو جورداو"
+        },
+        {
+            "Code": "112889",
+            "Name": "Campos dos Goytacazes",
+            "NameAr": "كامبوس دوس جويتاكازيس"
+        },
+        {
+            "Code": "144504",
+            "Name": "Campos Novos",
+            "NameAr": "كامبوس نوفوس"
+        },
+        {
+            "Code": "104673",
+            "Name": "Canaa dos Carajas",
+            "NameAr": "كاناا دوس كاراجاس"
+        },
+        {
+            "Code": "104674",
+            "Name": "Cananeia",
+            "NameAr": "كانانييا"
+        },
+        {
+            "Code": "160950",
+            "Name": "Canarias",
+            "NameAr": "كانارياس"
+        },
+        {
+            "Code": "114162",
+            "Name": "Canavieiras",
+            "NameAr": "كانافيييراس"
+        },
+        {
+            "Code": "104892",
+            "Name": "Candangolandia",
+            "NameAr": "كاندانجولانديا"
+        },
+        {
+            "Code": "113935",
+            "Name": "Canela",
+            "NameAr": "كانيلا"
+        },
+        {
+            "Code": "114172",
+            "Name": "Canoa Quebrada",
+            "NameAr": "كانوا قويبرادا"
+        },
+        {
+            "Code": "113743",
+            "Name": "Canoas",
+            "NameAr": "كانواس"
+        },
+        {
+            "Code": "104896",
+            "Name": "Canoinhas",
+            "NameAr": "كانوينهاس"
+        },
+        {
+            "Code": "391808",
+            "Name": "Cantagalo",
+            "NameAr": "كانتاجالو"
+        },
+        {
+            "Code": "105700",
+            "Name": "Capao Bonito",
+            "NameAr": "كاباو بونيتو"
+        },
+        {
+            "Code": "101789",
+            "Name": "Capao da Canoa",
+            "NameAr": "كاباو دا كانوا"
+        },
+        {
+            "Code": "114187",
+            "Name": "Capim Branco",
+            "NameAr": "كابيم برانكو"
+        },
+        {
+            "Code": "101790",
+            "Name": "Capinzal",
+            "NameAr": "كابينزال"
+        },
+        {
+            "Code": "101791",
+            "Name": "Capitolio",
+            "NameAr": "كابيتوليو"
+        },
+        {
+            "Code": "113759",
+            "Name": "Caraguatatuba",
+            "NameAr": "كاراجواتاتوبا"
+        },
+        {
+            "Code": "161004",
+            "Name": "CARAIVA,   Bahia",
+            "NameAr": "كارايفا باهيا"
+        },
+        {
+            "Code": "151074",
+            "Name": "Carajas",
+            "NameAr": "كاراجاس"
+        },
+        {
+            "Code": "105703",
+            "Name": "Carandai",
+            "NameAr": "كارانداي"
+        },
+        {
+            "Code": "150566",
+            "Name": "Caratinga",
+            "NameAr": "كاراتينجا"
+        },
+        {
+            "Code": "150966",
+            "Name": "Carauari",
+            "NameAr": "كاراواري"
+        },
+        {
+            "Code": "108113",
+            "Name": "Caraubas",
+            "NameAr": "كاراوباس"
+        },
+        {
+            "Code": "112914",
+            "Name": "Caravelas",
+            "NameAr": "كارافيلاس"
+        },
+        {
+            "Code": "113956",
+            "Name": "Carazinho",
+            "NameAr": "كارازينهو"
+        },
+        {
+            "Code": "114194",
+            "Name": "Careiro",
+            "NameAr": "كارييرو"
+        },
+        {
+            "Code": "150716",
+            "Name": "Cariacica",
+            "NameAr": "كارياكيكا"
+        },
+        {
+            "Code": "112923",
+            "Name": "Carmo do Rio Claro",
+            "NameAr": "كارمو دو ريو كلارو"
+        },
+        {
+            "Code": "113781",
+            "Name": "Caruaru,   Pernambuco",
+            "NameAr": "كاروارو بيرنامبوكو"
+        },
+        {
+            "Code": "113873",
+            "Name": "Cascavel,   Parana",
+            "NameAr": "كاسكافيل بارانا"
+        },
+        {
+            "Code": "159924",
+            "Name": "Cascavel,   Ceara (state)",
+            "NameAr": "كاسكافيل كيارا ستاتي"
+        },
+        {
+            "Code": "160851",
+            "Name": "Casimiro de Abreu\t",
+            "NameAr": "كاسيميرو دي ابريو"
+        },
+        {
+            "Code": "150493",
+            "Name": "Castanhal",
+            "NameAr": "كاستانهال"
+        },
+        {
+            "Code": "151075",
+            "Name": "Catalao",
+            "NameAr": "كاتالاو"
+        },
+        {
+            "Code": "113563",
+            "Name": "Catanduva",
+            "NameAr": "كاتاندوفا"
+        },
+        {
+            "Code": "114022",
+            "Name": "Caucaia",
+            "NameAr": "كاوكايا"
+        },
+        {
+            "Code": "114028",
+            "Name": "Cavalcante",
+            "NameAr": "كافالكانتي"
+        },
+        {
+            "Code": "101804",
+            "Name": "Caxambu",
+            "NameAr": "كاكسامبو"
+        },
+        {
+            "Code": "114068",
+            "Name": "Caxias do Sul",
+            "NameAr": "كاكسياس دو سول"
+        },
+        {
+            "Code": "114470",
+            "Name": "Cesario Lange",
+            "NameAr": "كيساريو لانجي"
+        },
+        {
+            "Code": "114493",
+            "Name": "Chapada Diamantina Nationalpark",
+            "NameAr": "كهابادا ديامانتينا ناتيونالبارك"
+        },
+        {
+            "Code": "160751",
+            "Name": "CHAPADA DOS GUIMARÃES",
+            "NameAr": "كهابادا دوس جويمار يس"
+        },
+        {
+            "Code": "160975",
+            "Name": "Chapadão do Céu",
+            "NameAr": "كهاباد و دو كيو"
+        },
+        {
+            "Code": "114112",
+            "Name": "Chapeco",
+            "NameAr": "كهابيكو"
+        },
+        {
+            "Code": "102276",
+            "Name": "Chui",
+            "NameAr": "كهوي"
+        },
+        {
+            "Code": "114283",
+            "Name": "Cianorte",
+            "NameAr": "كيانورتي"
+        },
+        {
+            "Code": "115246",
+            "Name": "Colatina",
+            "NameAr": "كولاتينا"
+        },
+        {
+            "Code": "105270",
+            "Name": "Colinas do Sul",
+            "NameAr": "كوليناس دو سول"
+        },
+        {
+            "Code": "105453",
+            "Name": "Colombo",
+            "NameAr": "كولومبو"
+        },
+        {
+            "Code": "160964",
+            "Name": "Colorado",
+            "NameAr": "كولورادو"
+        },
+        {
+            "Code": "115847",
+            "Name": "Conceicao da Barra",
+            "NameAr": "كونكييكاو دا باررا"
+        },
+        {
+            "Code": "160974",
+            "Name": "Conceicao do Mato Dentro",
+            "NameAr": "كونكييكاو دو ماتو دينترو"
+        },
+        {
+            "Code": "101830",
+            "Name": "Conchal",
+            "NameAr": "كونكهال"
+        },
+        {
+            "Code": "102285",
+            "Name": "Concordia",
+            "NameAr": "كونكورديا"
+        },
+        {
+            "Code": "105981",
+            "Name": "Conde",
+            "NameAr": "كوندي"
+        },
+        {
+            "Code": "105276",
+            "Name": "Congonhas",
+            "NameAr": "كونجونهاس"
+        },
+        {
+            "Code": "115010",
+            "Name": "Conselheiro Lafaiete",
+            "NameAr": "كونسيلهييرو لافاييتي"
+        },
+        {
+            "Code": "384709",
+            "Name": "Conservatoria",
+            "NameAr": "كونسيرفاتوريا"
+        },
+        {
+            "Code": "115858",
+            "Name": "Contagem",
+            "NameAr": "كونتاجيم"
+        },
+        {
+            "Code": "106304",
+            "Name": "Cornelio Procopio",
+            "NameAr": "كورنيليو بروكوبيو"
+        },
+        {
+            "Code": "106306",
+            "Name": "Coronel Freitas",
+            "NameAr": "كورونيل فرييتاس"
+        },
+        {
+            "Code": "115426",
+            "Name": "Corumba",
+            "NameAr": "كورومبا"
+        },
+        {
+            "Code": "101835",
+            "Name": "Corumba de Goias",
+            "NameAr": "كورومبا دي جوياس"
+        },
+        {
+            "Code": "115514",
+            "Name": "Coruripe",
+            "NameAr": "كوروريبي"
+        },
+        {
+            "Code": "115302",
+            "Name": "COSTA DO SAUIPE,   Bahia",
+            "NameAr": "كوستا دو ساويبي باهيا"
+        },
+        {
+            "Code": "115121",
+            "Name": "Costa Verde",
+            "NameAr": "كوستا فيردي"
+        },
+        {
+            "Code": "150983",
+            "Name": "Cotia",
+            "NameAr": "كوتيا"
+        },
+        {
+            "Code": "104927",
+            "Name": "Crato",
+            "NameAr": "كراتو"
+        },
+        {
+            "Code": "105756",
+            "Name": "Cravinhos",
+            "NameAr": "كرافينهوس"
+        },
+        {
+            "Code": "115145",
+            "Name": "Criciúma",
+            "NameAr": "كريكي ما"
+        },
+        {
+            "Code": "160958",
+            "Name": "Cristino Castro",
+            "NameAr": "كريستينو كاسترو"
+        },
+        {
+            "Code": "101840",
+            "Name": "Cruzeiro",
+            "NameAr": "كروزييرو"
+        },
+        {
+            "Code": "151363",
+            "Name": "Cruzeiro Do Sul",
+            "NameAr": "كروزييرو دو سول"
+        },
+        {
+            "Code": "144833",
+            "Name": "Cuiaba",
+            "NameAr": "كويابا"
+        },
+        {
+            "Code": "116236",
+            "Name": "Cunha",
+            "NameAr": "كونها"
+        },
+        {
+            "Code": "116239",
+            "Name": "Curitiba",
+            "NameAr": "كوريتيبا"
+        },
+        {
+            "Code": "102300",
+            "Name": "Curitibanos",
+            "NameAr": "كوريتيبانوس"
+        },
+        {
+            "Code": "116120",
+            "Name": "Currais Novos",
+            "NameAr": "كوررايس نوفوس"
+        },
+        {
+            "Code": "104933",
+            "Name": "Curvelo",
+            "NameAr": "كورفيلو"
+        },
+        {
+            "Code": "108184",
+            "Name": "Delmiro Gouveia",
+            "NameAr": "ديلميرو جووفييا"
+        },
+        {
+            "Code": "151084",
+            "Name": "Diadema",
+            "NameAr": "دياديما"
+        },
+        {
+            "Code": "106007",
+            "Name": "Diamantina",
+            "NameAr": "ديامانتينا"
+        },
+        {
+            "Code": "418066",
+            "Name": "Dionisio Cerqueira",
+            "NameAr": "ديونيسيو كيرقوييرا"
+        },
+        {
+            "Code": "150732",
+            "Name": "Divinopolis",
+            "NameAr": "ديفينوبوليس"
+        },
+        {
+            "Code": "106015",
+            "Name": "Dois Irmaos",
+            "NameAr": "دويس يرماوس"
+        },
+        {
+            "Code": "402579",
+            "Name": "Dois Vizinhos",
+            "NameAr": "دويس فيزينهوس"
+        },
+        {
+            "Code": "104953",
+            "Name": "Domingos Martins",
+            "NameAr": "دومينجوس مارتينس"
+        },
+        {
+            "Code": "116381",
+            "Name": "Dourado",
+            "NameAr": "دوورادو"
+        },
+        {
+            "Code": "117405",
+            "Name": "Dourados",
+            "NameAr": "دوورادوس"
+        },
+        {
+            "Code": "150734",
+            "Name": "Duque De Caxias",
+            "NameAr": "دوقوي دي كاكسياس"
+        },
+        {
+            "Code": "418016",
+            "Name": "Eldorado dos Carajas",
+            "NameAr": "يلدورادو دوس كاراجاس"
+        },
+        {
+            "Code": "117224",
+            "Name": "Embu",
+            "NameAr": "يمبو"
+        },
+        {
+            "Code": "148872",
+            "Name": "Embu-Guacu",
+            "NameAr": "يمبو-جواكو"
+        },
+        {
+            "Code": "101884",
+            "Name": "Engenho Velho",
+            "NameAr": "ينجينهو فيلهو"
+        },
+        {
+            "Code": "145102",
+            "Name": "Erechim",
+            "NameAr": "يريكهيم"
+        },
+        {
+            "Code": "117727",
+            "Name": "Espinosa",
+            "NameAr": "يسبينوسا"
+        },
+        {
+            "Code": "402373",
+            "Name": "Espirito Santo Do Pinhal",
+            "NameAr": "يسبيريتو سانتو دو بينهال"
+        },
+        {
+            "Code": "160959",
+            "Name": "Esplanada",
+            "NameAr": "يسبلانادا"
+        },
+        {
+            "Code": "117262",
+            "Name": "Esteio",
+            "NameAr": "يستييو"
+        },
+        {
+            "Code": "117563",
+            "Name": "Eunapolis",
+            "NameAr": "يونابوليس"
+        },
+        {
+            "Code": "148878",
+            "Name": "Extrema",
+            "NameAr": "يكستريما"
+        },
+        {
+            "Code": "108234",
+            "Name": "Extremoz",
+            "NameAr": "يكستريموز"
+        },
+        {
+            "Code": "105526",
+            "Name": "Farroupilha",
+            "NameAr": "فاررووبيلها"
+        },
+        {
+            "Code": "102460",
+            "Name": "Faxinal dos Guedes",
+            "NameAr": "فاكسينال دوس جويديس"
+        },
+        {
+            "Code": "145166",
+            "Name": "Feira de Santana",
+            "NameAr": "فييرا دي سانتانا"
+        },
+        {
+            "Code": "117315",
+            "Name": "Fernando de Noronha,   Pernambuco",
+            "NameAr": "فيرناندو دي نورونها بيرنامبوكو"
+        },
+        {
+            "Code": "106057",
+            "Name": "Fernandopolis",
+            "NameAr": "فيرناندوبوليس"
+        },
+        {
+            "Code": "118462",
+            "Name": "Flecheiras",
+            "NameAr": "فليكهييراس"
+        },
+        {
+            "Code": "106062",
+            "Name": "Flores da Cunha",
+            "NameAr": "فلوريس دا كونها"
+        },
+        {
+            "Code": "117910",
+            "Name": "Florestal",
+            "NameAr": "فلوريستال"
+        },
+        {
+            "Code": "118471",
+            "Name": "Florianopolis",
+            "NameAr": "فلوريانوبوليس"
+        },
+        {
+            "Code": "118321",
+            "Name": "Formiga",
+            "NameAr": "فورميجا"
+        },
+        {
+            "Code": "118345",
+            "Name": "Fortaleza",
+            "NameAr": "فورتاليزا"
+        },
+        {
+            "Code": "161016",
+            "Name": "Fortim,   Ceara",
+            "NameAr": "فورتيم كيارا"
+        },
+        {
+            "Code": "157785",
+            "Name": "Foz do Iguacu,   Parana (state)",
+            "NameAr": "فوز دو يجواكو بارانا ستاتي"
+        },
+        {
+            "Code": "118614",
+            "Name": "Foz do Iguaçu",
+            "NameAr": "فوز دو يجوا و"
+        },
+        {
+            "Code": "102238",
+            "Name": "Fraiburgo",
+            "NameAr": "فرايبورجو"
+        },
+        {
+            "Code": "117941",
+            "Name": "Franca",
+            "NameAr": "فرانكا"
+        },
+        {
+            "Code": "118207",
+            "Name": "Francisco Beltrao",
+            "NameAr": "فرانكيسكو بيلتراو"
+        },
+        {
+            "Code": "119569",
+            "Name": "Frederico Westphalen",
+            "NameAr": "فريديريكو ويستبهالين"
+        },
+        {
+            "Code": "117986",
+            "Name": "Galinhos",
+            "NameAr": "جالينهوس"
+        },
+        {
+            "Code": "150518",
+            "Name": "Garanhuns,   Pernambuco",
+            "NameAr": "جارانهونس بيرنامبوكو"
+        },
+        {
+            "Code": "381965",
+            "Name": "Garibaldi",
+            "NameAr": "جاريبالدي"
+        },
+        {
+            "Code": "145319",
+            "Name": "Garopaba",
+            "NameAr": "جاروبابا"
+        },
+        {
+            "Code": "101739",
+            "Name": "Gaspar",
+            "NameAr": "جاسبار"
+        },
+        {
+            "Code": "412461",
+            "Name": "Girua",
+            "NameAr": "جيروا"
+        },
+        {
+            "Code": "105821",
+            "Name": "Gloria de Dourados",
+            "NameAr": "جلوريا دي دوورادوس"
+        },
+        {
+            "Code": "108258",
+            "Name": "Goiana",
+            "NameAr": "جويانا"
+        },
+        {
+            "Code": "101749",
+            "Name": "Goianesia",
+            "NameAr": "جويانيسيا"
+        },
+        {
+            "Code": "105913",
+            "Name": "Goianesia do Para",
+            "NameAr": "جويانيسيا دو بارا"
+        },
+        {
+            "Code": "119417",
+            "Name": "Goiania",
+            "NameAr": "جويانيا"
+        },
+        {
+            "Code": "105914",
+            "Name": "Goiatuba",
+            "NameAr": "جوياتوبا"
+        },
+        {
+            "Code": "119175",
+            "Name": "Governador Celso Ramos",
+            "NameAr": "جوفيرنادور كيلسو راموس"
+        },
+        {
+            "Code": "160968",
+            "Name": "Governador Edison Lobao",
+            "NameAr": "جوفيرنادور يديسون لوباو"
+        },
+        {
+            "Code": "119691",
+            "Name": "Governador Valadares",
+            "NameAr": "جوفيرنادور فالاداريس"
+        },
+        {
+            "Code": "119184",
+            "Name": "Gramado",
+            "NameAr": "جرامادو"
+        },
+        {
+            "Code": "119203",
+            "Name": "Gravata,   Pernambuco",
+            "NameAr": "جرافاتا بيرنامبوكو"
+        },
+        {
+            "Code": "119204",
+            "Name": "Gravatai",
+            "NameAr": "جرافاتاي"
+        },
+        {
+            "Code": "108269",
+            "Name": "Gravatal",
+            "NameAr": "جرافاتال"
+        },
+        {
+            "Code": "372263",
+            "Name": "Guaibim",
+            "NameAr": "جوايبيم"
+        },
+        {
+            "Code": "120040",
+            "Name": "Guaira",
+            "NameAr": "جوايرا"
+        },
+        {
+            "Code": "120551",
+            "Name": "Guajara-Mirim",
+            "NameAr": "جواجارا-ميريم"
+        },
+        {
+            "Code": "160961",
+            "Name": "Guanambi",
+            "NameAr": "جوانامبي"
+        },
+        {
+            "Code": "101536",
+            "Name": "Guanhaes",
+            "NameAr": "جوانهايس"
+        },
+        {
+            "Code": "106122",
+            "Name": "Guaramiranga",
+            "NameAr": "جواراميرانجا"
+        },
+        {
+            "Code": "101537",
+            "Name": "Guaramirim",
+            "NameAr": "جواراميريم"
+        },
+        {
+            "Code": "120151",
+            "Name": "Guarapari",
+            "NameAr": "جواراباري"
+        },
+        {
+            "Code": "120555",
+            "Name": "Guarapuava",
+            "NameAr": "جوارابوافا"
+        },
+        {
+            "Code": "105930",
+            "Name": "Guararema",
+            "NameAr": "جواراريما"
+        },
+        {
+            "Code": "119759",
+            "Name": "Guaratingueta",
+            "NameAr": "جواراتينجويتا"
+        },
+        {
+            "Code": "120043",
+            "Name": "Guaratuba",
+            "NameAr": "جواراتوبا"
+        },
+        {
+            "Code": "101765",
+            "Name": "Guarda do Embau",
+            "NameAr": "جواردا دو يمباو"
+        },
+        {
+            "Code": "121125",
+            "Name": "Guaruja",
+            "NameAr": "جواروجا"
+        },
+        {
+            "Code": "119760",
+            "Name": "Guarulhos",
+            "NameAr": "جوارولهوس"
+        },
+        {
+            "Code": "105932",
+            "Name": "Guaxupe",
+            "NameAr": "جواكسوبي"
+        },
+        {
+            "Code": "151096",
+            "Name": "Gurupi",
+            "NameAr": "جوروبي"
+        },
+        {
+            "Code": "106153",
+            "Name": "Holambra",
+            "NameAr": "هولامبرا"
+        },
+        {
+            "Code": "101556",
+            "Name": "Hortolandia",
+            "NameAr": "هورتولانديا"
+        },
+        {
+            "Code": "104062",
+            "Name": "Ibate",
+            "NameAr": "يباتي"
+        },
+        {
+            "Code": "102528",
+            "Name": "Ibatiba",
+            "NameAr": "يباتيبا"
+        },
+        {
+            "Code": "417390",
+            "Name": "Ibitinga",
+            "NameAr": "يبيتينجا"
+        },
+        {
+            "Code": "105596",
+            "Name": "Ibiuna",
+            "NameAr": "يبيونا"
+        },
+        {
+            "Code": "102530",
+            "Name": "Icapui",
+            "NameAr": "يكابوي"
+        },
+        {
+            "Code": "412260",
+            "Name": "Icarai",
+            "NameAr": "يكاراي"
+        },
+        {
+            "Code": "417260",
+            "Name": "Icó",
+            "NameAr": "يك"
+        },
+        {
+            "Code": "105597",
+            "Name": "Igarape",
+            "NameAr": "يجارابي"
+        },
+        {
+            "Code": "121598",
+            "Name": "Igarassu",
+            "NameAr": "يجاراسسو"
+        },
+        {
+            "Code": "402374",
+            "Name": "Igarata",
+            "NameAr": "يجاراتا"
+        },
+        {
+            "Code": "105965",
+            "Name": "Igatu",
+            "NameAr": "يجاتو"
+        },
+        {
+            "Code": "101921",
+            "Name": "Igrejinha",
+            "NameAr": "يجريجينها"
+        },
+        {
+            "Code": "145721",
+            "Name": "Iguape",
+            "NameAr": "يجوابي"
+        },
+        {
+            "Code": "105600",
+            "Name": "Ilha Comprida",
+            "NameAr": "يلها كومبريدا"
+        },
+        {
+            "Code": "108317",
+            "Name": "Ilha de Boipeba",
+            "NameAr": "يلها دي بويبيبا"
+        },
+        {
+            "Code": "122103",
+            "Name": "Ilha de Comandatuba",
+            "NameAr": "يلها دي كومانداتوبا"
+        },
+        {
+            "Code": "121459",
+            "Name": "Ilha do Gipoia",
+            "NameAr": "يلها دو جيبويا"
+        },
+        {
+            "Code": "121990",
+            "Name": "Ilha do Mel",
+            "NameAr": "يلها دو ميل"
+        },
+        {
+            "Code": "122671",
+            "Name": "Ilha Grande",
+            "NameAr": "يلها جراندي"
+        },
+        {
+            "Code": "121991",
+            "Name": "Ilha Marajo",
+            "NameAr": "يلها ماراجو"
+        },
+        {
+            "Code": "106165",
+            "Name": "Ilha Solteira",
+            "NameAr": "يلها سولتييرا"
+        },
+        {
+            "Code": "121056",
+            "Name": "Ilhabela",
+            "NameAr": "يلهابيلا"
+        },
+        {
+            "Code": "121057",
+            "Name": "Ilheus",
+            "NameAr": "يلهيوس"
+        },
+        {
+            "Code": "121716",
+            "Name": "Imbassai",
+            "NameAr": "يمباسساي"
+        },
+        {
+            "Code": "105967",
+            "Name": "Imbe",
+            "NameAr": "يمبي"
+        },
+        {
+            "Code": "121717",
+            "Name": "Imbituba",
+            "NameAr": "يمبيتوبا"
+        },
+        {
+            "Code": "121462",
+            "Name": "Imperatriz",
+            "NameAr": "يمبيراتريز"
+        },
+        {
+            "Code": "379548",
+            "Name": "Indaial",
+            "NameAr": "يندايال"
+        },
+        {
+            "Code": "121065",
+            "Name": "Indaiatuba",
+            "NameAr": "ينداياتوبا"
+        },
+        {
+            "Code": "121488",
+            "Name": "Ipatinga",
+            "NameAr": "يباتينجا"
+        },
+        {
+            "Code": "417384",
+            "Name": "Ipiau",
+            "NameAr": "يبياو"
+        },
+        {
+            "Code": "145768",
+            "Name": "Ipojuca",
+            "NameAr": "يبوجوكا"
+        },
+        {
+            "Code": "105874",
+            "Name": "Iporanga",
+            "NameAr": "يبورانجا"
+        },
+        {
+            "Code": "103688",
+            "Name": "Irati",
+            "NameAr": "يراتي"
+        },
+        {
+            "Code": "104070",
+            "Name": "Irece",
+            "NameAr": "يريكي"
+        },
+        {
+            "Code": "160970",
+            "Name": "Iretama",
+            "NameAr": "يريتاما"
+        },
+        {
+            "Code": "381844",
+            "Name": "Ita",
+            "NameAr": "يتا"
+        },
+        {
+            "Code": "122424",
+            "Name": "Itabira",
+            "NameAr": "يتابيرا"
+        },
+        {
+            "Code": "104073",
+            "Name": "Itabirito",
+            "NameAr": "يتابيريتو"
+        },
+        {
+            "Code": "145785",
+            "Name": "Itaborai",
+            "NameAr": "يتابوراي"
+        },
+        {
+            "Code": "122055",
+            "Name": "Itabuna",
+            "NameAr": "يتابونا"
+        },
+        {
+            "Code": "122730",
+            "Name": "Itacare",
+            "NameAr": "يتاكاري"
+        },
+        {
+            "Code": "151389",
+            "Name": "Itacoatiara",
+            "NameAr": "يتاكواتيارا"
+        },
+        {
+            "Code": "105877",
+            "Name": "Itaguai",
+            "NameAr": "يتاجواي"
+        },
+        {
+            "Code": "151110",
+            "Name": "Itaituba",
+            "NameAr": "يتايتوبا"
+        },
+        {
+            "Code": "122056",
+            "Name": "Itajai",
+            "NameAr": "يتاجاي"
+        },
+        {
+            "Code": "158840",
+            "Name": "Itajai,   Santa Catarina (state)",
+            "NameAr": "يتاجاي سانتا كاتارينا ستاتي"
+        },
+        {
+            "Code": "122731",
+            "Name": "Itajuba",
+            "NameAr": "يتاجوبا"
+        },
+        {
+            "Code": "122308",
+            "Name": "Itanhaem",
+            "NameAr": "يتانهايم"
+        },
+        {
+            "Code": "122425",
+            "Name": "Itanhandu",
+            "NameAr": "يتانهاندو"
+        },
+        {
+            "Code": "101935",
+            "Name": "Itanhi",
+            "NameAr": "يتانهي"
+        },
+        {
+            "Code": "108330",
+            "Name": "Itaobim",
+            "NameAr": "يتاوبيم"
+        },
+        {
+            "Code": "122733",
+            "Name": "Itaparica",
+            "NameAr": "يتاباريكا"
+        },
+        {
+            "Code": "122734",
+            "Name": "Itapecerica da Serra",
+            "NameAr": "يتابيكيريكا دا سيررا"
+        },
+        {
+            "Code": "122057",
+            "Name": "Itapema",
+            "NameAr": "يتابيما"
+        },
+        {
+            "Code": "122426",
+            "Name": "Itapemirim",
+            "NameAr": "يتابيميريم"
+        },
+        {
+            "Code": "300925",
+            "Name": "Itaperuna",
+            "NameAr": "يتابيرونا"
+        },
+        {
+            "Code": "106085",
+            "Name": "Itapetininga",
+            "NameAr": "يتابيتينينجا"
+        },
+        {
+            "Code": "108331",
+            "Name": "Itapeva",
+            "NameAr": "يتابيفا"
+        },
+        {
+            "Code": "299081",
+            "Name": "Itapipoca",
+            "NameAr": "يتابيبوكا"
+        },
+        {
+            "Code": "122735",
+            "Name": "Itapira",
+            "NameAr": "يتابيرا"
+        },
+        {
+            "Code": "105606",
+            "Name": "Itapoa",
+            "NameAr": "يتابوا"
+        },
+        {
+            "Code": "160966",
+            "Name": "Itarema",
+            "NameAr": "يتاريما"
+        },
+        {
+            "Code": "108332",
+            "Name": "Itatiaia",
+            "NameAr": "يتاتيايا"
+        },
+        {
+            "Code": "105607",
+            "Name": "Itatiba",
+            "NameAr": "يتاتيبا"
+        },
+        {
+            "Code": "151193",
+            "Name": "Itauna",
+            "NameAr": "يتاونا"
+        },
+        {
+            "Code": "122431",
+            "Name": "Itu",
+            "NameAr": "يتو"
+        },
+        {
+            "Code": "121506",
+            "Name": "Itubera",
+            "NameAr": "يتوبيرا"
+        },
+        {
+            "Code": "361486",
+            "Name": "Ituiutaba",
+            "NameAr": "يتويوتابا"
+        },
+        {
+            "Code": "150870",
+            "Name": "Itumbiara",
+            "NameAr": "يتومبيارا"
+        },
+        {
+            "Code": "122432",
+            "Name": "Itupeva",
+            "NameAr": "يتوبيفا"
+        },
+        {
+            "Code": "105608",
+            "Name": "Ivoti",
+            "NameAr": "يفوتي"
+        },
+        {
+            "Code": "104075",
+            "Name": "Jaboatao dos Guararapes",
+            "NameAr": "جابواتاو دوس جوارارابيس"
+        },
+        {
+            "Code": "104076",
+            "Name": "Jaboticabal",
+            "NameAr": "جابوتيكابال"
+        },
+        {
+            "Code": "121510",
+            "Name": "Jaboticatubas",
+            "NameAr": "جابوتيكاتوباس"
+        },
+        {
+            "Code": "108334",
+            "Name": "Jacarei",
+            "NameAr": "جاكاريي"
+        },
+        {
+            "Code": "108335",
+            "Name": "Jacarezinho",
+            "NameAr": "جاكاريزينهو"
+        },
+        {
+            "Code": "105882",
+            "Name": "Jacobina",
+            "NameAr": "جاكوبينا"
+        },
+        {
+            "Code": "160948",
+            "Name": "Jacuma",
+            "NameAr": "جاكوما"
+        },
+        {
+            "Code": "103930",
+            "Name": "Jacutinga",
+            "NameAr": "جاكوتينجا"
+        },
+        {
+            "Code": "105611",
+            "Name": "Jaguarao",
+            "NameAr": "جاجواراو"
+        },
+        {
+            "Code": "122068",
+            "Name": "Jaguariaiva",
+            "NameAr": "جاجواريايفا"
+        },
+        {
+            "Code": "122442",
+            "Name": "Jaguariuna",
+            "NameAr": "جاجواريونا"
+        },
+        {
+            "Code": "299083",
+            "Name": "Jales",
+            "NameAr": "جاليس"
+        },
+        {
+            "Code": "408943",
+            "Name": "Jandira",
+            "NameAr": "جانديرا"
+        },
+        {
+            "Code": "145812",
+            "Name": "Japaratinga",
+            "NameAr": "جاباراتينجا"
+        },
+        {
+            "Code": "121519",
+            "Name": "Jaragua do Sul",
+            "NameAr": "جاراجوا دو سول"
+        },
+        {
+            "Code": "103934",
+            "Name": "Jardim",
+            "NameAr": "جارديم"
+        },
+        {
+            "Code": "121521",
+            "Name": "Jarinu",
+            "NameAr": "جارينو"
+        },
+        {
+            "Code": "151465",
+            "Name": "Jatai",
+            "NameAr": "جاتاي"
+        },
+        {
+            "Code": "103694",
+            "Name": "Jataizinho",
+            "NameAr": "جاتايزينهو"
+        },
+        {
+            "Code": "101941",
+            "Name": "Jau",
+            "NameAr": "جاو"
+        },
+        {
+            "Code": "160969",
+            "Name": "Jequia da Praia",
+            "NameAr": "جيقويا دا برايا"
+        },
+        {
+            "Code": "412575",
+            "Name": "Jequie",
+            "NameAr": "جيقويي"
+        },
+        {
+            "Code": "122465",
+            "Name": "Jericoacoara",
+            "NameAr": "جيريكواكوارا"
+        },
+        {
+            "Code": "150874",
+            "Name": "Ji Parana",
+            "NameAr": "جي بارانا"
+        },
+        {
+            "Code": "103938",
+            "Name": "Ji-Parana",
+            "NameAr": "جي-بارانا"
+        },
+        {
+            "Code": "103695",
+            "Name": "Jiquirica",
+            "NameAr": "جيقويريكا"
+        },
+        {
+            "Code": "122776",
+            "Name": "Joacaba",
+            "NameAr": "جواكابا"
+        },
+        {
+            "Code": "417195",
+            "Name": "Joanes",
+            "NameAr": "جوانيس"
+        },
+        {
+            "Code": "145835",
+            "Name": "Joao Monlevade",
+            "NameAr": "جواو مونليفادي"
+        },
+        {
+            "Code": "122207",
+            "Name": "Joao Pessoa",
+            "NameAr": "جواو بيسسوا"
+        },
+        {
+            "Code": "104082",
+            "Name": "Joao Pinheiro",
+            "NameAr": "جواو بينهييرو"
+        },
+        {
+            "Code": "122480",
+            "Name": "Joinville",
+            "NameAr": "جوينفيللي"
+        },
+        {
+            "Code": "103701",
+            "Name": "Juazeiro",
+            "NameAr": "جوازييرو"
+        },
+        {
+            "Code": "122788",
+            "Name": "Juazeiro do Norte",
+            "NameAr": "جوازييرو دو نورتي"
+        },
+        {
+            "Code": "150536",
+            "Name": "Juina",
+            "NameAr": "جوينا"
+        },
+        {
+            "Code": "122368",
+            "Name": "Juiz de Fora",
+            "NameAr": "جويز دي فورا"
+        },
+        {
+            "Code": "122493",
+            "Name": "Jundiai",
+            "NameAr": "جوندياي"
+        },
+        {
+            "Code": "124754",
+            "Name": "Lages",
+            "NameAr": "لاجيس"
+        },
+        {
+            "Code": "104432",
+            "Name": "Lagoa da Prata",
+            "NameAr": "لاجوا دا براتا"
+        },
+        {
+            "Code": "125050",
+            "Name": "Lagoa Santa",
+            "NameAr": "لاجوا سانتا"
+        },
+        {
+            "Code": "417193",
+            "Name": "Lagoa Vermelha,   Rio Grande do Sul",
+            "NameAr": "لاجوا فيرميلها ريو جراندي دو سول"
+        },
+        {
+            "Code": "146101",
+            "Name": "Laguna",
+            "NameAr": "لاجونا"
+        },
+        {
+            "Code": "104436",
+            "Name": "Lajeado",
+            "NameAr": "لاجيادو"
+        },
+        {
+            "Code": "124518",
+            "Name": "Lambari",
+            "NameAr": "لامباري"
+        },
+        {
+            "Code": "104444",
+            "Name": "Laranjal Paulista",
+            "NameAr": "لارانجال باوليستا"
+        },
+        {
+            "Code": "397971",
+            "Name": "Laranjeiras",
+            "NameAr": "لارانجييراس"
+        },
+        {
+            "Code": "103674",
+            "Name": "Laranjeiras do Sul",
+            "NameAr": "لارانجييراس دو سول"
+        },
+        {
+            "Code": "124165",
+            "Name": "Lauro de Freitas",
+            "NameAr": "لاورو دي فرييتاس"
+        },
+        {
+            "Code": "150624",
+            "Name": "Lavras",
+            "NameAr": "لافراس"
+        },
+        {
+            "Code": "399581",
+            "Name": "Leme",
+            "NameAr": "ليمي"
+        },
+        {
+            "Code": "125540",
+            "Name": "Lencois",
+            "NameAr": "لينكويس"
+        },
+        {
+            "Code": "104596",
+            "Name": "Lencois Paulista,   Sao Paulo",
+            "NameAr": "لينكويس باوليستا ساو باولو"
+        },
+        {
+            "Code": "126554",
+            "Name": "Lima Duarte",
+            "NameAr": "ليما دوارتي"
+        },
+        {
+            "Code": "125442",
+            "Name": "Limeira",
+            "NameAr": "ليمييرا"
+        },
+        {
+            "Code": "103921",
+            "Name": "Lindoia",
+            "NameAr": "ليندويا"
+        },
+        {
+            "Code": "125451",
+            "Name": "Linhares",
+            "NameAr": "لينهاريس"
+        },
+        {
+            "Code": "126025",
+            "Name": "Lins",
+            "NameAr": "لينس"
+        },
+        {
+            "Code": "151274",
+            "Name": "Livramento",
+            "NameAr": "ليفرامينتو"
+        },
+        {
+            "Code": "146345",
+            "Name": "Londrina",
+            "NameAr": "لوندرينا"
+        },
+        {
+            "Code": "104142",
+            "Name": "Lorena",
+            "NameAr": "لورينا"
+        },
+        {
+            "Code": "127311",
+            "Name": "Lucas do Rio Verde",
+            "NameAr": "لوكاس دو ريو فيردي"
+        },
+        {
+            "Code": "103771",
+            "Name": "Luis Correia",
+            "NameAr": "لويس كوررييا"
+        },
+        {
+            "Code": "102586",
+            "Name": "Luis Eduardo Magalhaes",
+            "NameAr": "لويس يدواردو ماجالهايس"
+        },
+        {
+            "Code": "106461",
+            "Name": "Lumiar",
+            "NameAr": "لوميار"
+        },
+        {
+            "Code": "102592",
+            "Name": "Luziania",
+            "NameAr": "لوزيانيا"
+        },
+        {
+            "Code": "126095",
+            "Name": "Macae",
+            "NameAr": "ماكاي"
+        },
+        {
+            "Code": "126250",
+            "Name": "Macapa",
+            "NameAr": "ماكابا"
+        },
+        {
+            "Code": "125669",
+            "Name": "Maceio",
+            "NameAr": "ماكييو"
+        },
+        {
+            "Code": "127072",
+            "Name": "Mafra",
+            "NameAr": "مافرا"
+        },
+        {
+            "Code": "126129",
+            "Name": "Mairinque",
+            "NameAr": "مايرينقوي"
+        },
+        {
+            "Code": "126774",
+            "Name": "Mairipora",
+            "NameAr": "مايريبورا"
+        },
+        {
+            "Code": "103789",
+            "Name": "Manacapuru",
+            "NameAr": "ماناكابورو"
+        },
+        {
+            "Code": "126141",
+            "Name": "Manaus",
+            "NameAr": "ماناوس"
+        },
+        {
+            "Code": "126806",
+            "Name": "Mangaratiba",
+            "NameAr": "مانجاراتيبا"
+        },
+        {
+            "Code": "128038",
+            "Name": "Mangue Seco",
+            "NameAr": "مانجوي سيكو"
+        },
+        {
+            "Code": "103793",
+            "Name": "Manhuacu",
+            "NameAr": "مانهواكو"
+        },
+        {
+            "Code": "127126",
+            "Name": "Maraba",
+            "NameAr": "مارابا"
+        },
+        {
+            "Code": "104484",
+            "Name": "Maracanau",
+            "NameAr": "ماراكاناو"
+        },
+        {
+            "Code": "126976",
+            "Name": "Maragogi",
+            "NameAr": "ماراجوجي"
+        },
+        {
+            "Code": "104324",
+            "Name": "Marapanim",
+            "NameAr": "مارابانيم"
+        },
+        {
+            "Code": "104325",
+            "Name": "Marau",
+            "NameAr": "ماراو"
+        },
+        {
+            "Code": "126846",
+            "Name": "Marechal Deodoro",
+            "NameAr": "ماريكهال ديودورو"
+        },
+        {
+            "Code": "127487",
+            "Name": "Mariana",
+            "NameAr": "ماريانا"
+        },
+        {
+            "Code": "126993",
+            "Name": "Marilia",
+            "NameAr": "ماريليا"
+        },
+        {
+            "Code": "128069",
+            "Name": "Maringa",
+            "NameAr": "مارينجا"
+        },
+        {
+            "Code": "128070",
+            "Name": "Mario Campos",
+            "NameAr": "ماريو كامبوس"
+        },
+        {
+            "Code": "127839",
+            "Name": "Martins",
+            "NameAr": "مارتينس"
+        },
+        {
+            "Code": "158571",
+            "Name": "Mata de Sao Joao,   Bahia (state)",
+            "NameAr": "ماتا دي ساو جواو باهيا ستاتي"
+        },
+        {
+            "Code": "104758",
+            "Name": "Matao",
+            "NameAr": "ماتاو"
+        },
+        {
+            "Code": "104168",
+            "Name": "Matelandia",
+            "NameAr": "ماتيلانديا"
+        },
+        {
+            "Code": "417290",
+            "Name": "Mateus Leme,   Minas Gerais",
+            "NameAr": "ماتيوس ليمي ميناس جيرايس"
+        },
+        {
+            "Code": "128118",
+            "Name": "Matinhos",
+            "NameAr": "ماتينهوس"
+        },
+        {
+            "Code": "150899",
+            "Name": "Matupa",
+            "NameAr": "ماتوبا"
+        },
+        {
+            "Code": "146551",
+            "Name": "Maues",
+            "NameAr": "ماويس"
+        },
+        {
+            "Code": "104762",
+            "Name": "Maxaranguape",
+            "NameAr": "ماكسارانجوابي"
+        },
+        {
+            "Code": "146571",
+            "Name": "Medianeira",
+            "NameAr": "ميديانييرا"
+        },
+        {
+            "Code": "152734",
+            "Name": "Minas Gerais",
+            "NameAr": "ميناس جيرايس"
+        },
+        {
+            "Code": "128871",
+            "Name": "Mineiros",
+            "NameAr": "مينييروس"
+        },
+        {
+            "Code": "128255",
+            "Name": "Miranda",
+            "NameAr": "ميراندا"
+        },
+        {
+            "Code": "128628",
+            "Name": "Mogi das Cruzes",
+            "NameAr": "موجي داس كروزيس"
+        },
+        {
+            "Code": "104367",
+            "Name": "Monsuaba",
+            "NameAr": "مونسوابا"
+        },
+        {
+            "Code": "150639",
+            "Name": "Monte Alegre",
+            "NameAr": "مونتي اليجري"
+        },
+        {
+            "Code": "102638",
+            "Name": "Monte Alegre do Sul",
+            "NameAr": "مونتي اليجري دو سول"
+        },
+        {
+            "Code": "151533",
+            "Name": "Monte Dourado",
+            "NameAr": "مونتي دوورادو"
+        },
+        {
+            "Code": "102825",
+            "Name": "Monte Siao",
+            "NameAr": "مونتي سياو"
+        },
+        {
+            "Code": "127934",
+            "Name": "Monte Verde",
+            "NameAr": "مونتي فيردي"
+        },
+        {
+            "Code": "128390",
+            "Name": "Montenegro",
+            "NameAr": "مونتينيجرو"
+        },
+        {
+            "Code": "128365",
+            "Name": "Montes Claros",
+            "NameAr": "مونتيس كلاروس"
+        },
+        {
+            "Code": "104796",
+            "Name": "Morretes",
+            "NameAr": "مورريتيس"
+        },
+        {
+            "Code": "128535",
+            "Name": "MORRO DE SÃO PAULO",
+            "NameAr": "موررو دي س و باولو"
+        },
+        {
+            "Code": "160955",
+            "Name": "Morro do Chapéu",
+            "NameAr": "موررو دو كهابيو"
+        },
+        {
+            "Code": "102837",
+            "Name": "Mosqueiro",
+            "NameAr": "موسقوييرو"
+        },
+        {
+            "Code": "129063",
+            "Name": "Mossoro",
+            "NameAr": "موسسورو"
+        },
+        {
+            "Code": "106534",
+            "Name": "Mucuge",
+            "NameAr": "موكوجي"
+        },
+        {
+            "Code": "160952",
+            "Name": "Mucuri",
+            "NameAr": "موكوري"
+        },
+        {
+            "Code": "129699",
+            "Name": "Mundau",
+            "NameAr": "مونداو"
+        },
+        {
+            "Code": "150643",
+            "Name": "Muriae",
+            "NameAr": "مورياي"
+        },
+        {
+            "Code": "130121",
+            "Name": "Natal",
+            "NameAr": "ناتال"
+        },
+        {
+            "Code": "160963",
+            "Name": "Natividade",
+            "NameAr": "ناتيفيدادي"
+        },
+        {
+            "Code": "294008",
+            "Name": "Navegantes",
+            "NameAr": "نافيجانتيس"
+        },
+        {
+            "Code": "397947",
+            "Name": "Navirai",
+            "NameAr": "نافيراي"
+        },
+        {
+            "Code": "295108",
+            "Name": "Nazaré",
+            "NameAr": "نازاري"
+        },
+        {
+            "Code": "104514",
+            "Name": "Nazare Paulista",
+            "NameAr": "نازاري باوليستا"
+        },
+        {
+            "Code": "104378",
+            "Name": "Nilopolis",
+            "NameAr": "نيلوبوليس"
+        },
+        {
+            "Code": "129906",
+            "Name": "Niteroi",
+            "NameAr": "نيتيروي"
+        },
+        {
+            "Code": "104283",
+            "Name": "Nova Alianca",
+            "NameAr": "نوفا اليانكا"
+        },
+        {
+            "Code": "412449",
+            "Name": "Nova Andradina",
+            "NameAr": "نوفا اندرادينا"
+        },
+        {
+            "Code": "146917",
+            "Name": "Nova Friburgo",
+            "NameAr": "نوفا فريبورجو"
+        },
+        {
+            "Code": "102883",
+            "Name": "Nova Hartz",
+            "NameAr": "نوفا هارتز"
+        },
+        {
+            "Code": "129513",
+            "Name": "Nova Iguacu",
+            "NameAr": "نوفا يجواكو"
+        },
+        {
+            "Code": "129515",
+            "Name": "Nova Lima",
+            "NameAr": "نوفا ليما"
+        },
+        {
+            "Code": "104542",
+            "Name": "Nova Odessa",
+            "NameAr": "نوفا وديسسا"
+        },
+        {
+            "Code": "130908",
+            "Name": "Nova Petropolis",
+            "NameAr": "نوفا بيتروبوليس"
+        },
+        {
+            "Code": "130576",
+            "Name": "Nova Prata",
+            "NameAr": "نوفا براتا"
+        },
+        {
+            "Code": "104284",
+            "Name": "Nova Serrana",
+            "NameAr": "نوفا سيررانا"
+        },
+        {
+            "Code": "104385",
+            "Name": "Nova Trento",
+            "NameAr": "نوفا ترينتو"
+        },
+        {
+            "Code": "106558",
+            "Name": "Nova Vicosa",
+            "NameAr": "نوفا فيكوسا"
+        },
+        {
+            "Code": "131180",
+            "Name": "Novo Airao",
+            "NameAr": "نوفو ايراو"
+        },
+        {
+            "Code": "130040",
+            "Name": "Novo Hamburgo",
+            "NameAr": "نوفو هامبورجو"
+        },
+        {
+            "Code": "104551",
+            "Name": "Nucleo Bandeirante",
+            "NameAr": "نوكليو باندييرانتي"
+        },
+        {
+            "Code": "151547",
+            "Name": "Oiapoque",
+            "NameAr": "ويابوقوي"
+        },
+        {
+            "Code": "146994",
+            "Name": "Olimpia Sao Paulo",
+            "NameAr": "وليمبيا ساو باولو"
+        },
+        {
+            "Code": "130662",
+            "Name": "Olinda",
+            "NameAr": "وليندا"
+        },
+        {
+            "Code": "104835",
+            "Name": "Orlandia",
+            "NameAr": "ورلانديا"
+        },
+        {
+            "Code": "131952",
+            "Name": "Osasco",
+            "NameAr": "وساسكو"
+        },
+        {
+            "Code": "418071",
+            "Name": "Osorio",
+            "NameAr": "وسوريو"
+        },
+        {
+            "Code": "103047",
+            "Name": "Otacilio Costa",
+            "NameAr": "وتاكيليو كوستا"
+        },
+        {
+            "Code": "147044",
+            "Name": "Ourinhos",
+            "NameAr": "وورينهوس"
+        },
+        {
+            "Code": "103403",
+            "Name": "Ouro Branco",
+            "NameAr": "وورو برانكو"
+        },
+        {
+            "Code": "130292",
+            "Name": "Ouro Preto",
+            "NameAr": "وورو بريتو"
+        },
+        {
+            "Code": "130871",
+            "Name": "Palhoca",
+            "NameAr": "بالهوكا"
+        },
+        {
+            "Code": "130874",
+            "Name": "Palmas",
+            "NameAr": "بالماس"
+        },
+        {
+            "Code": "160777",
+            "Name": "Palmeiras",
+            "NameAr": "بالمييراس"
+        },
+        {
+            "Code": "130882",
+            "Name": "Pantanal",
+            "NameAr": "بانتانال"
+        },
+        {
+            "Code": "104586",
+            "Name": "Para de Minas",
+            "NameAr": "بارا دي ميناس"
+        },
+        {
+            "Code": "106581",
+            "Name": "Paracambi",
+            "NameAr": "باراكامبي"
+        },
+        {
+            "Code": "102737",
+            "Name": "Paracatu",
+            "NameAr": "باراكاتو"
+        },
+        {
+            "Code": "131445",
+            "Name": "Paracuru",
+            "NameAr": "باراكورو"
+        },
+        {
+            "Code": "131550",
+            "Name": "Paragominas",
+            "NameAr": "باراجوميناس"
+        },
+        {
+            "Code": "374217",
+            "Name": "Paraisopolis",
+            "NameAr": "بارايسوبوليس"
+        },
+        {
+            "Code": "131448",
+            "Name": "Parajuru",
+            "NameAr": "باراجورو"
+        },
+        {
+            "Code": "147097",
+            "Name": "Paranagua",
+            "NameAr": "باراناجوا"
+        },
+        {
+            "Code": "103414",
+            "Name": "Paranapiacaba",
+            "NameAr": "بارانابياكابا"
+        },
+        {
+            "Code": "160946",
+            "Name": "Paranavai",
+            "NameAr": "بارانافاي"
+        },
+        {
+            "Code": "103415",
+            "Name": "Paranoa",
+            "NameAr": "بارانوا"
+        },
+        {
+            "Code": "102086",
+            "Name": "Paraopeba",
+            "NameAr": "باراوبيبا"
+        },
+        {
+            "Code": "131756",
+            "Name": "Paraty",
+            "NameAr": "باراتي"
+        },
+        {
+            "Code": "131453",
+            "Name": "Parauapebas",
+            "NameAr": "باراوابيباس"
+        },
+        {
+            "Code": "151302",
+            "Name": "Parintins",
+            "NameAr": "بارينتينس"
+        },
+        {
+            "Code": "131013",
+            "Name": "Paripueira",
+            "NameAr": "باريبوييرا"
+        },
+        {
+            "Code": "131410",
+            "Name": "Parnaiba",
+            "NameAr": "بارنايبا"
+        },
+        {
+            "Code": "151303",
+            "Name": "Parnamirim",
+            "NameAr": "بارناميريم"
+        },
+        {
+            "Code": "131022",
+            "Name": "Passa Quatro",
+            "NameAr": "باسسا قواترو"
+        },
+        {
+            "Code": "132701",
+            "Name": "Passo Fundo",
+            "NameAr": "باسسو فوندو"
+        },
+        {
+            "Code": "131465",
+            "Name": "Passos",
+            "NameAr": "باسسوس"
+        },
+        {
+            "Code": "103419",
+            "Name": "Pato Branco",
+            "NameAr": "باتو برانكو"
+        },
+        {
+            "Code": "103262",
+            "Name": "Patos",
+            "NameAr": "باتوس"
+        },
+        {
+            "Code": "151165",
+            "Name": "Patos De Minas",
+            "NameAr": "باتوس دي ميناس"
+        },
+        {
+            "Code": "102895",
+            "Name": "Patrocinio",
+            "NameAr": "باتروكينيو"
+        },
+        {
+            "Code": "106590",
+            "Name": "Pau dos Ferros",
+            "NameAr": "باو دوس فيرروس"
+        },
+        {
+            "Code": "132070",
+            "Name": "Paulinia",
+            "NameAr": "باولينيا"
+        },
+        {
+            "Code": "132071",
+            "Name": "Paulista",
+            "NameAr": "باوليستا"
+        },
+        {
+            "Code": "131571",
+            "Name": "Paulo Afonso",
+            "NameAr": "باولو افونسو"
+        },
+        {
+            "Code": "131580",
+            "Name": "Pecem",
+            "NameAr": "بيكيم"
+        },
+        {
+            "Code": "104215",
+            "Name": "Pedra Dourada",
+            "NameAr": "بيدرا دوورادا"
+        },
+        {
+            "Code": "305720",
+            "Name": "Pedro Leopoldo",
+            "NameAr": "بيدرو ليوبولدو"
+        },
+        {
+            "Code": "132112",
+            "Name": "Pelotas",
+            "NameAr": "بيلوتاس"
+        },
+        {
+            "Code": "132723",
+            "Name": "Penapolis",
+            "NameAr": "بينابوليس"
+        },
+        {
+            "Code": "147145",
+            "Name": "Penha",
+            "NameAr": "بينها"
+        },
+        {
+            "Code": "132454",
+            "Name": "Peninsula de Marau",
+            "NameAr": "بينينسولا دي ماراو"
+        },
+        {
+            "Code": "104850",
+            "Name": "Pequi",
+            "NameAr": "بيقوي"
+        },
+        {
+            "Code": "106671",
+            "Name": "Peruibe",
+            "NameAr": "بيرويبي"
+        },
+        {
+            "Code": "132769",
+            "Name": "Petrolina,   Pernambuco",
+            "NameAr": "بيترولينا بيرنامبوكو"
+        },
+        {
+            "Code": "132476",
+            "Name": "Petropolis",
+            "NameAr": "بيتروبوليس"
+        },
+        {
+            "Code": "131530",
+            "Name": "Piacabucu",
+            "NameAr": "بياكابوكو"
+        },
+        {
+            "Code": "132165",
+            "Name": "Picarras",
+            "NameAr": "بيكارراس"
+        },
+        {
+            "Code": "151306",
+            "Name": "Picos",
+            "NameAr": "بيكوس"
+        },
+        {
+            "Code": "106680",
+            "Name": "Piedade",
+            "NameAr": "بييدادي"
+        },
+        {
+            "Code": "102002",
+            "Name": "Pindamonhangaba",
+            "NameAr": "بيندامونهانجابا"
+        },
+        {
+            "Code": "366374",
+            "Name": "Pinhais",
+            "NameAr": "بينهايس"
+        },
+        {
+            "Code": "301103",
+            "Name": "Pinhalzinho",
+            "NameAr": "بينهالزينهو"
+        },
+        {
+            "Code": "132805",
+            "Name": "Piracicaba",
+            "NameAr": "بيراكيكابا"
+        },
+        {
+            "Code": "133432",
+            "Name": "Piraju",
+            "NameAr": "بيراجو"
+        },
+        {
+            "Code": "106683",
+            "Name": "Piranhas",
+            "NameAr": "بيرانهاس"
+        },
+        {
+            "Code": "131650",
+            "Name": "Pirassununga",
+            "NameAr": "بيراسسونونجا"
+        },
+        {
+            "Code": "133433",
+            "Name": "Piratuba",
+            "NameAr": "بيراتوبا"
+        },
+        {
+            "Code": "106617",
+            "Name": "Pirenopolis",
+            "NameAr": "بيرينوبوليس"
+        },
+        {
+            "Code": "102005",
+            "Name": "Piripiri",
+            "NameAr": "بيريبيري"
+        },
+        {
+            "Code": "102908",
+            "Name": "Pitimbu",
+            "NameAr": "بيتيمبو"
+        },
+        {
+            "Code": "106619",
+            "Name": "Piuma",
+            "NameAr": "بيوما"
+        },
+        {
+            "Code": "293193",
+            "Name": "Piumhi",
+            "NameAr": "بيومهي"
+        },
+        {
+            "Code": "160947",
+            "Name": "Planura",
+            "NameAr": "بلانورا"
+        },
+        {
+            "Code": "133515",
+            "Name": "Pocone",
+            "NameAr": "بوكوني"
+        },
+        {
+            "Code": "133469",
+            "Name": "Pocos de Caldas",
+            "NameAr": "بوكوس دي كالداس"
+        },
+        {
+            "Code": "160967",
+            "Name": "Pomerode",
+            "NameAr": "بوميرودي"
+        },
+        {
+            "Code": "160953",
+            "Name": "Ponta De Pedras",
+            "NameAr": "بونتا دي بيدراس"
+        },
+        {
+            "Code": "132293",
+            "Name": "Ponta Grossa",
+            "NameAr": "بونتا جروسسا"
+        },
+        {
+            "Code": "132294",
+            "Name": "Ponta Pora",
+            "NameAr": "بونتا بورا"
+        },
+        {
+            "Code": "133538",
+            "Name": "Pontal Do Parana",
+            "NameAr": "بونتال دو بارانا"
+        },
+        {
+            "Code": "300928",
+            "Name": "Ponte Nova",
+            "NameAr": "بونتي نوفا"
+        },
+        {
+            "Code": "102912",
+            "Name": "Pontes e Lacerda",
+            "NameAr": "بونتيس ي لاكيردا"
+        },
+        {
+            "Code": "103307",
+            "Name": "Portao",
+            "NameAr": "بورتاو"
+        },
+        {
+            "Code": "132926",
+            "Name": "Porto Alegre",
+            "NameAr": "بورتو اليجري"
+        },
+        {
+            "Code": "133574",
+            "Name": "Porto Belo",
+            "NameAr": "بورتو بيلو"
+        },
+        {
+            "Code": "132410",
+            "Name": "Porto De Galinhas,   Pernambuco",
+            "NameAr": "بورتو دي جالينهاس بيرنامبوكو"
+        },
+        {
+            "Code": "160960",
+            "Name": "Porto de Pedras",
+            "NameAr": "بورتو دي بيدراس"
+        },
+        {
+            "Code": "147313",
+            "Name": "Porto de Sauipe",
+            "NameAr": "بورتو دي ساويبي"
+        },
+        {
+            "Code": "133264",
+            "Name": "Porto Feliz",
+            "NameAr": "بورتو فيليز"
+        },
+        {
+            "Code": "102917",
+            "Name": "Porto Ferreira",
+            "NameAr": "بورتو فيررييرا"
+        },
+        {
+            "Code": "151565",
+            "Name": "Porto Nacional",
+            "NameAr": "بورتو ناكيونال"
+        },
+        {
+            "Code": "134282",
+            "Name": "Porto Real",
+            "NameAr": "بورتو ريال"
+        },
+        {
+            "Code": "131852",
+            "Name": "Porto Seguro",
+            "NameAr": "بورتو سيجورو"
+        },
+        {
+            "Code": "132975",
+            "Name": "Porto Uniao",
+            "NameAr": "بورتو ونياو"
+        },
+        {
+            "Code": "147316",
+            "Name": "Porto Velho",
+            "NameAr": "بورتو فيلهو"
+        },
+        {
+            "Code": "133285",
+            "Name": "Pouso Alegre",
+            "NameAr": "بووسو اليجري"
+        },
+        {
+            "Code": "133591",
+            "Name": "Prado",
+            "NameAr": "برادو"
+        },
+        {
+            "Code": "160818",
+            "Name": "Prados",
+            "NameAr": "برادوس"
+        },
+        {
+            "Code": "133289",
+            "Name": "Praia Da Jureia",
+            "NameAr": "برايا دا جورييا"
+        },
+        {
+            "Code": "147347",
+            "Name": "Praia das Minas",
+            "NameAr": "برايا داس ميناس"
+        },
+        {
+            "Code": "133083",
+            "Name": "Praia de Itacimirim",
+            "NameAr": "برايا دي يتاكيميريم"
+        },
+        {
+            "Code": "133084",
+            "Name": "Praia de Itaguacu",
+            "NameAr": "برايا دي يتاجواكو"
+        },
+        {
+            "Code": "133085",
+            "Name": "Praia de Porto das Dunas",
+            "NameAr": "برايا دي بورتو داس دوناس"
+        },
+        {
+            "Code": "102770",
+            "Name": "Praia de Tairu",
+            "NameAr": "برايا دي تايرو"
+        },
+        {
+            "Code": "103078",
+            "Name": "Praia de Tremembe",
+            "NameAr": "برايا دي تريميمبي"
+        },
+        {
+            "Code": "131867",
+            "Name": "Praia do Forte",
+            "NameAr": "برايا دو فورتي"
+        },
+        {
+            "Code": "133290",
+            "Name": "Praia do Prea",
+            "NameAr": "برايا دو بريا"
+        },
+        {
+            "Code": "133948",
+            "Name": "Praia Grande",
+            "NameAr": "برايا جراندي"
+        },
+        {
+            "Code": "133959",
+            "Name": "Presidente Epitacio",
+            "NameAr": "بريسيدينتي يبيتاكيو"
+        },
+        {
+            "Code": "134323",
+            "Name": "Presidente Prudente",
+            "NameAr": "بريسيدينتي برودينتي"
+        },
+        {
+            "Code": "147366",
+            "Name": "Primavera do Leste",
+            "NameAr": "بريمافيرا دو ليستي"
+        },
+        {
+            "Code": "417380",
+            "Name": "Protasio Alves",
+            "NameAr": "بروتاسيو الفيس"
+        },
+        {
+            "Code": "160957",
+            "Name": "Prudentopolis",
+            "NameAr": "برودينتوبوليس"
+        },
+        {
+            "Code": "134375",
+            "Name": "Quatro Barras",
+            "NameAr": "قواترو بارراس"
+        },
+        {
+            "Code": "103468",
+            "Name": "Quedas do Iguacu",
+            "NameAr": "قويداس دو يجواكو"
+        },
+        {
+            "Code": "102787",
+            "Name": "Quirinopolis",
+            "NameAr": "قويرينوبوليس"
+        },
+        {
+            "Code": "134028",
+            "Name": "Quixada",
+            "NameAr": "قويكسادا"
+        },
+        {
+            "Code": "417237",
+            "Name": "Rancharia",
+            "NameAr": "رانكهاريا"
+        },
+        {
+            "Code": "133864",
+            "Name": "Recife",
+            "NameAr": "ريكيفي"
+        },
+        {
+            "Code": "151254",
+            "Name": "Redencao",
+            "NameAr": "ريدينكاو"
+        },
+        {
+            "Code": "147485",
+            "Name": "Registro",
+            "NameAr": "ريجيسترو"
+        },
+        {
+            "Code": "134377",
+            "Name": "Resende",
+            "NameAr": "ريسيندي"
+        },
+        {
+            "Code": "133815",
+            "Name": "Riacho Doce",
+            "NameAr": "رياكهو دوكي"
+        },
+        {
+            "Code": "417857",
+            "Name": "Ribeirao Claro",
+            "NameAr": "ريبييراو كلارو"
+        },
+        {
+            "Code": "102952",
+            "Name": "Ribeirao Grande",
+            "NameAr": "ريبييراو جراندي"
+        },
+        {
+            "Code": "133819",
+            "Name": "Ribeirao Preto",
+            "NameAr": "ريبييراو بريتو"
+        },
+        {
+            "Code": "102691",
+            "Name": "Rio Bonito",
+            "NameAr": "ريو بونيتو"
+        },
+        {
+            "Code": "133928",
+            "Name": "Rio Branco",
+            "NameAr": "ريو برانكو"
+        },
+        {
+            "Code": "103125",
+            "Name": "Rio Branco do Sul",
+            "NameAr": "ريو برانكو دو سول"
+        },
+        {
+            "Code": "106726",
+            "Name": "Rio Casca",
+            "NameAr": "ريو كاسكا"
+        },
+        {
+            "Code": "134781",
+            "Name": "Rio Claro",
+            "NameAr": "ريو كلارو"
+        },
+        {
+            "Code": "133929",
+            "Name": "Rio das Flores",
+            "NameAr": "ريو داس فلوريس"
+        },
+        {
+            "Code": "133360",
+            "Name": "Rio das Ostras",
+            "NameAr": "ريو داس وستراس"
+        },
+        {
+            "Code": "103104",
+            "Name": "Rio das Pedras",
+            "NameAr": "ريو داس بيدراس"
+        },
+        {
+            "Code": "134921",
+            "Name": "Rio de Janeiro",
+            "NameAr": "ريو دي جانيرو"
+        },
+        {
+            "Code": "133361",
+            "Name": "Rio do Sul",
+            "NameAr": "ريو دو سول"
+        },
+        {
+            "Code": "102693",
+            "Name": "Rio dos Cedros",
+            "NameAr": "ريو دوس كيدروس"
+        },
+        {
+            "Code": "151172",
+            "Name": "Rio Grande",
+            "NameAr": "ريو جراندي"
+        },
+        {
+            "Code": "134923",
+            "Name": "Rio Negrinho",
+            "NameAr": "ريو نيجرينهو"
+        },
+        {
+            "Code": "134925",
+            "Name": "Rio Quente",
+            "NameAr": "ريو قوينتي"
+        },
+        {
+            "Code": "417238",
+            "Name": "Rio Tinto",
+            "NameAr": "ريو تينتو"
+        },
+        {
+            "Code": "134410",
+            "Name": "Rio Verde",
+            "NameAr": "ريو فيردي"
+        },
+        {
+            "Code": "311519",
+            "Name": "Rodeador Island",
+            "NameAr": "روديادور يسلاند"
+        },
+        {
+            "Code": "106986",
+            "Name": "Rolandia",
+            "NameAr": "رولانديا"
+        },
+        {
+            "Code": "147557",
+            "Name": "Rolim de Moura",
+            "NameAr": "روليم دي موورا"
+        },
+        {
+            "Code": "135744",
+            "Name": "Rondonopolis",
+            "NameAr": "روندونوبوليس"
+        },
+        {
+            "Code": "102702",
+            "Name": "Rosario do Sul",
+            "NameAr": "روساريو دو سول"
+        },
+        {
+            "Code": "106738",
+            "Name": "Roseira",
+            "NameAr": "روسييرا"
+        },
+        {
+            "Code": "417569",
+            "Name": "Ruropolis",
+            "NameAr": "روروبوليس"
+        },
+        {
+            "Code": "106996",
+            "Name": "Sabara",
+            "NameAr": "سابارا"
+        },
+        {
+            "Code": "103254",
+            "Name": "Sales Oliveira",
+            "NameAr": "ساليس وليفييرا"
+        },
+        {
+            "Code": "293906",
+            "Name": "Salinas da Margarida",
+            "NameAr": "ساليناس دا مارجاريدا"
+        },
+        {
+            "Code": "103342",
+            "Name": "Salinopolis",
+            "NameAr": "سالينوبوليس"
+        },
+        {
+            "Code": "103495",
+            "Name": "Salto",
+            "NameAr": "سالتو"
+        },
+        {
+            "Code": "151575",
+            "Name": "Salvador",
+            "NameAr": "سالفادور"
+        },
+        {
+            "Code": "107031",
+            "Name": "Santa Barbara d’Oeste",
+            "NameAr": "سانتا باربارا د ويستي"
+        },
+        {
+            "Code": "152984",
+            "Name": "Santa Catarina",
+            "NameAr": "سانتا كاتارينا"
+        },
+        {
+            "Code": "150675",
+            "Name": "Santa Cruz",
+            "NameAr": "سانتا كروز"
+        },
+        {
+            "Code": "135548",
+            "Name": "Santa Cruz Cabralia",
+            "NameAr": "سانتا كروز كابراليا"
+        },
+        {
+            "Code": "137157",
+            "Name": "Santa Cruz do Sul",
+            "NameAr": "سانتا كروز دو سول"
+        },
+        {
+            "Code": "103513",
+            "Name": "Santa Fe do Sul",
+            "NameAr": "سانتا في دو سول"
+        },
+        {
+            "Code": "136062",
+            "Name": "Santa Ines",
+            "NameAr": "سانتا ينيس"
+        },
+        {
+            "Code": "103514",
+            "Name": "Santa Luzia",
+            "NameAr": "سانتا لوزيا"
+        },
+        {
+            "Code": "136851",
+            "Name": "Santa Maria",
+            "NameAr": "سانتا ماريا"
+        },
+        {
+            "Code": "300724",
+            "Name": "Santa Maria da Vitoria",
+            "NameAr": "سانتا ماريا دا فيتوريا"
+        },
+        {
+            "Code": "107348",
+            "Name": "Santa Rita do Sapucai",
+            "NameAr": "سانتا ريتا دو سابوكاي"
+        },
+        {
+            "Code": "147748",
+            "Name": "Santa Rosa",
+            "NameAr": "سانتا روسا"
+        },
+        {
+            "Code": "136071",
+            "Name": "Santa Terezinha de Itaipu",
+            "NameAr": "سانتا تيريزينها دي يتايبو"
+        },
+        {
+            "Code": "392477",
+            "Name": "Santa Vitoria",
+            "NameAr": "سانتا فيتوريا"
+        },
+        {
+            "Code": "136384",
+            "Name": "Santana de Parnaiba",
+            "NameAr": "سانتانا دي بارنايبا"
+        },
+        {
+            "Code": "160956",
+            "Name": "Santana do Ipanema",
+            "NameAr": "سانتانا دو يبانيما"
+        },
+        {
+            "Code": "137172",
+            "Name": "Santana do Livramento",
+            "NameAr": "سانتانا دو ليفرامينتو"
+        },
+        {
+            "Code": "137175",
+            "Name": "Santarem",
+            "NameAr": "سانتاريم"
+        },
+        {
+            "Code": "147753",
+            "Name": "Santiago",
+            "NameAr": "سانتياجو"
+        },
+        {
+            "Code": "136078",
+            "Name": "Santo Andre",
+            "NameAr": "سانتو اندري"
+        },
+        {
+            "Code": "151663",
+            "Name": "Santo Angelo",
+            "NameAr": "سانتو انجيلو"
+        },
+        {
+            "Code": "136533",
+            "Name": "Santo Antonio de Jesus",
+            "NameAr": "سانتو انتونيو دي جيسوس"
+        },
+        {
+            "Code": "136534",
+            "Name": "Santo Antonio do Amparo",
+            "NameAr": "سانتو انتونيو دو امبارو"
+        },
+        {
+            "Code": "103152",
+            "Name": "Santo Antonio do Pinhal",
+            "NameAr": "سانتو انتونيو دو بينهال"
+        },
+        {
+            "Code": "103153",
+            "Name": "Santo Inacio",
+            "NameAr": "سانتو يناكيو"
+        },
+        {
+            "Code": "147760",
+            "Name": "Santos",
+            "NameAr": "سانتوس"
+        },
+        {
+            "Code": "147762",
+            "Name": "Sao Bento do Sapucai",
+            "NameAr": "ساو بينتو دو سابوكاي"
+        },
+        {
+            "Code": "136870",
+            "Name": "Sao Bento do Sul",
+            "NameAr": "ساو بينتو دو سول"
+        },
+        {
+            "Code": "135568",
+            "Name": "Sao Bernardo do Campo",
+            "NameAr": "ساو بيرناردو دو كامبو"
+        },
+        {
+            "Code": "106780",
+            "Name": "Sao Borja",
+            "NameAr": "ساو بورجا"
+        },
+        {
+            "Code": "103366",
+            "Name": "Sao Bras do Suacui",
+            "NameAr": "ساو براس دو سواكوي"
+        },
+        {
+            "Code": "135569",
+            "Name": "Sao Caetano do Sul",
+            "NameAr": "ساو كايتانو دو سول"
+        },
+        {
+            "Code": "147763",
+            "Name": "Sao Carlos",
+            "NameAr": "ساو كارلوس"
+        },
+        {
+            "Code": "136537",
+            "Name": "Sao Francisco de Paula",
+            "NameAr": "ساو فرانكيسكو دي باولا"
+        },
+        {
+            "Code": "136393",
+            "Name": "Sao Francisco do Sul",
+            "NameAr": "ساو فرانكيسكو دو سول"
+        },
+        {
+            "Code": "103520",
+            "Name": "Sao Gabriel",
+            "NameAr": "ساو جابرييل"
+        },
+        {
+            "Code": "417454",
+            "Name": "Sao Gabriel do Oeste,   Mato Grosso do Sul",
+            "NameAr": "ساو جابرييل دو ويستي ماتو جروسسو دو سول"
+        },
+        {
+            "Code": "151664",
+            "Name": "Sao Goncalo",
+            "NameAr": "ساو جونكالو"
+        },
+        {
+            "Code": "136394",
+            "Name": "Sao Goncalo do Amarante",
+            "NameAr": "ساو جونكالو دو امارانتي"
+        },
+        {
+            "Code": "160971",
+            "Name": "Sao Joao Batista",
+            "NameAr": "ساو جواو باتيستا"
+        },
+        {
+            "Code": "103560",
+            "Name": "Sao Joao da Boa Vista",
+            "NameAr": "ساو جواو دا بوا فيستا"
+        },
+        {
+            "Code": "103521",
+            "Name": "Sao Joao de Meriti",
+            "NameAr": "ساو جواو دي ميريتي"
+        },
+        {
+            "Code": "136539",
+            "Name": "Sao Joao del Rei",
+            "NameAr": "ساو جواو ديل ريي"
+        },
+        {
+            "Code": "106781",
+            "Name": "Sao Joao do Polesine",
+            "NameAr": "ساو جواو دو بوليسيني"
+        },
+        {
+            "Code": "160976",
+            "Name": "São Joaquim",
+            "NameAr": "س و جواقويم"
+        },
+        {
+            "Code": "103561",
+            "Name": "Sao Joaquim da Barra",
+            "NameAr": "ساو جواقويم دا باررا"
+        },
+        {
+            "Code": "103367",
+            "Name": "Sao Joaquim do Monte,   Pernambuco",
+            "NameAr": "ساو جواقويم دو مونتي بيرنامبوكو"
+        },
+        {
+            "Code": "136872",
+            "Name": "Sao Jose",
+            "NameAr": "ساو جوسي"
+        },
+        {
+            "Code": "161101",
+            "Name": "Sao Jose da Barra,   Minas Gerais",
+            "NameAr": "ساو جوسي دا باررا ميناس جيرايس"
+        },
+        {
+            "Code": "136540",
+            "Name": "Sao Jose do Rio Preto",
+            "NameAr": "ساو جوسي دو ريو بريتو"
+        },
+        {
+            "Code": "136541",
+            "Name": "Sao Jose dos Campos",
+            "NameAr": "ساو جوسي دوس كامبوس"
+        },
+        {
+            "Code": "147764",
+            "Name": "Sao Jose dos Pinhais",
+            "NameAr": "ساو جوسي دوس بينهايس"
+        },
+        {
+            "Code": "103154",
+            "Name": "Sao Jose dos Salgados",
+            "NameAr": "ساو جوسي دوس سالجادوس"
+        },
+        {
+            "Code": "135571",
+            "Name": "Sao Leopoldo",
+            "NameAr": "ساو ليوبولدو"
+        },
+        {
+            "Code": "136086",
+            "Name": "Sao Lourenco",
+            "NameAr": "ساو لوورينكو"
+        },
+        {
+            "Code": "103562",
+            "Name": "Sao Lourenco do Oeste",
+            "NameAr": "ساو لوورينكو دو ويستي"
+        },
+        {
+            "Code": "137188",
+            "Name": "Sao Luis",
+            "NameAr": "ساو لويس"
+        },
+        {
+            "Code": "147765",
+            "Name": "Sao Luiz do Paraitinga",
+            "NameAr": "ساو لويز دو بارايتينجا"
+        },
+        {
+            "Code": "151327",
+            "Name": "Sao Mateus",
+            "NameAr": "ساو ماتيوس"
+        },
+        {
+            "Code": "417236",
+            "Name": "Sao Mateus do Sul",
+            "NameAr": "ساو ماتيوس دو سول"
+        },
+        {
+            "Code": "107350",
+            "Name": "Sao Miguel das Missoes",
+            "NameAr": "ساو ميجويل داس ميسسويس"
+        },
+        {
+            "Code": "137189",
+            "Name": "Sao Miguel do Araguaia",
+            "NameAr": "ساو ميجويل دو اراجوايا"
+        },
+        {
+            "Code": "136395",
+            "Name": "Sao Miguel do Gostoso",
+            "NameAr": "ساو ميجويل دو جوستوسو"
+        },
+        {
+            "Code": "135573",
+            "Name": "Sao Miguel dos Milagres",
+            "NameAr": "ساو ميجويل دوس ميلاجريس"
+        },
+        {
+            "Code": "136873",
+            "Name": "Sao Paulo",
+            "NameAr": "ساو باولو"
+        },
+        {
+            "Code": "106782",
+            "Name": "Sao Pedro",
+            "NameAr": "ساو بيدرو"
+        },
+        {
+            "Code": "103563",
+            "Name": "Sao Pedro da Aldeia",
+            "NameAr": "ساو بيدرو دا الدييا"
+        },
+        {
+            "Code": "136633",
+            "Name": "Sao Pedro da Serra (Nova Friburgo)",
+            "NameAr": "ساو بيدرو دا سيررا نوفا فريبورجو"
+        },
+        {
+            "Code": "103368",
+            "Name": "Sao Raimundo Nonato",
+            "NameAr": "ساو رايموندو نوناتو"
+        },
+        {
+            "Code": "137191",
+            "Name": "Sao Roque",
+            "NameAr": "ساو روقوي"
+        },
+        {
+            "Code": "135576",
+            "Name": "Sao Sebastiao",
+            "NameAr": "ساو سيباستياو"
+        },
+        {
+            "Code": "103369",
+            "Name": "Sao Sebastiao do Paraiso",
+            "NameAr": "ساو سيباستياو دو بارايسو"
+        },
+        {
+            "Code": "106783",
+            "Name": "Sao Thome das Letras",
+            "NameAr": "ساو تهومي داس ليتراس"
+        },
+        {
+            "Code": "135578",
+            "Name": "Sao Vicente",
+            "NameAr": "ساو فيكينتي"
+        },
+        {
+            "Code": "103523",
+            "Name": "Sapiranga",
+            "NameAr": "سابيرانجا"
+        },
+        {
+            "Code": "103155",
+            "Name": "Sapucaia do Sul",
+            "NameAr": "سابوكايا دو سول"
+        },
+        {
+            "Code": "137194",
+            "Name": "Saquarema",
+            "NameAr": "ساقواريما"
+        },
+        {
+            "Code": "107039",
+            "Name": "Sarandi",
+            "NameAr": "ساراندي"
+        },
+        {
+            "Code": "107352",
+            "Name": "Sarapui",
+            "NameAr": "سارابوي"
+        },
+        {
+            "Code": "106790",
+            "Name": "Seabra",
+            "NameAr": "سيابرا"
+        },
+        {
+            "Code": "137341",
+            "Name": "Sebastiao de Lacerda",
+            "NameAr": "سيباستياو دي لاكيردا"
+        },
+        {
+            "Code": "103576",
+            "Name": "Senador Canedo",
+            "NameAr": "سينادور كانيدو"
+        },
+        {
+            "Code": "137975",
+            "Name": "Serra",
+            "NameAr": "سيررا"
+        },
+        {
+            "Code": "103533",
+            "Name": "Serra de Sao Bento",
+            "NameAr": "سيررا دي ساو بينتو"
+        },
+        {
+            "Code": "106796",
+            "Name": "Serra Negra",
+            "NameAr": "سيررا نيجرا"
+        },
+        {
+            "Code": "418113",
+            "Name": "Serra Talhada,   Pernambuco",
+            "NameAr": "سيررا تالهادا بيرنامبوكو"
+        },
+        {
+            "Code": "417285",
+            "Name": "Sertanopolis",
+            "NameAr": "سيرتانوبوليس"
+        },
+        {
+            "Code": "107366",
+            "Name": "Sertaozinho",
+            "NameAr": "سيرتاوزينهو"
+        },
+        {
+            "Code": "137983",
+            "Name": "Sete Lagoa",
+            "NameAr": "سيتي لاجوا"
+        },
+        {
+            "Code": "137373",
+            "Name": "Sete Lagoas",
+            "NameAr": "سيتي لاجواس"
+        },
+        {
+            "Code": "137610",
+            "Name": "Silves",
+            "NameAr": "سيلفيس"
+        },
+        {
+            "Code": "151331",
+            "Name": "Sinop",
+            "NameAr": "سينوب"
+        },
+        {
+            "Code": "103598",
+            "Name": "Sobradinho",
+            "NameAr": "سوبرادينهو"
+        },
+        {
+            "Code": "147955",
+            "Name": "Sobral",
+            "NameAr": "سوبرال"
+        },
+        {
+            "Code": "138123",
+            "Name": "Socorro",
+            "NameAr": "سوكوررو"
+        },
+        {
+            "Code": "103188",
+            "Name": "Soledade",
+            "NameAr": "سوليدادي"
+        },
+        {
+            "Code": "137527",
+            "Name": "Sorocaba",
+            "NameAr": "سوروكابا"
+        },
+        {
+            "Code": "417072",
+            "Name": "Sorriso,   Mato Grosso",
+            "NameAr": "سورريسو ماتو جروسسو"
+        },
+        {
+            "Code": "138499",
+            "Name": "Soure",
+            "NameAr": "سووري"
+        },
+        {
+            "Code": "106914",
+            "Name": "Sousa, Paraiba",
+            "NameAr": "سووسا بارايبا"
+        },
+        {
+            "Code": "160977",
+            "Name": "Subauma",
+            "NameAr": "سوباوما"
+        },
+        {
+            "Code": "139300",
+            "Name": "Sumare",
+            "NameAr": "سوماري"
+        },
+        {
+            "Code": "151699",
+            "Name": "Tabatinga",
+            "NameAr": "تاباتينجا"
+        },
+        {
+            "Code": "108585",
+            "Name": "Taboao da Serra",
+            "NameAr": "تابواو دا سيررا"
+        },
+        {
+            "Code": "148132",
+            "Name": "Taguatinga",
+            "NameAr": "تاجواتينجا"
+        },
+        {
+            "Code": "148137",
+            "Name": "Taiba",
+            "NameAr": "تايبا"
+        },
+        {
+            "Code": "138569",
+            "Name": "Tamandare",
+            "NameAr": "تامانداري"
+        },
+        {
+            "Code": "106369",
+            "Name": "Tangara da Serra",
+            "NameAr": "تانجارا دا سيررا"
+        },
+        {
+            "Code": "418027",
+            "Name": "TAQUARI",
+            "NameAr": "تاقواري"
+        },
+        {
+            "Code": "139929",
+            "Name": "Tatajuba",
+            "NameAr": "تاتاجوبا"
+        },
+        {
+            "Code": "148162",
+            "Name": "Taubate",
+            "NameAr": "تاوباتي"
+        },
+        {
+            "Code": "139581",
+            "Name": "Tefe",
+            "NameAr": "تيفي"
+        },
+        {
+            "Code": "138608",
+            "Name": "Teixeira de Freitas",
+            "NameAr": "تييكسييرا دي فرييتاس"
+        },
+        {
+            "Code": "151594",
+            "Name": "Telemaco Borba",
+            "NameAr": "تيليماكو بوربا"
+        },
+        {
+            "Code": "417288",
+            "Name": "Teodoro Sampaio,   Sao Paulo",
+            "NameAr": "تيودورو سامبايو ساو باولو"
+        },
+        {
+            "Code": "151029",
+            "Name": "Teofilo Otoni",
+            "NameAr": "تيوفيلو وتوني"
+        },
+        {
+            "Code": "140005",
+            "Name": "Teresina",
+            "NameAr": "تيريسينا"
+        },
+        {
+            "Code": "140006",
+            "Name": "Teresópolis",
+            "NameAr": "تيريس بوليس"
+        },
+        {
+            "Code": "138624",
+            "Name": "Teutonia",
+            "NameAr": "تيوتونيا"
+        },
+        {
+            "Code": "107635",
+            "Name": "Tiangua",
+            "NameAr": "تيانجوا"
+        },
+        {
+            "Code": "106389",
+            "Name": "Tibau",
+            "NameAr": "تيباو"
+        },
+        {
+            "Code": "139753",
+            "Name": "Tibau do Sul,   Rio Grande Do Norte (state)",
+            "NameAr": "تيباو دو سول ريو جراندي دو نورتي ستاتي"
+        },
+        {
+            "Code": "140760",
+            "Name": "Tijucas do Sul",
+            "NameAr": "تيجوكاس دو سول"
+        },
+        {
+            "Code": "151491",
+            "Name": "Timbo",
+            "NameAr": "تيمبو"
+        },
+        {
+            "Code": "139761",
+            "Name": "Tiradentes",
+            "NameAr": "تيرادينتيس"
+        },
+        {
+            "Code": "140054",
+            "Name": "Toledo",
+            "NameAr": "توليدو"
+        },
+        {
+            "Code": "140068",
+            "Name": "Torres",
+            "NameAr": "تورريس"
+        },
+        {
+            "Code": "148291",
+            "Name": "Touros",
+            "NameAr": "تووروس"
+        },
+        {
+            "Code": "148294",
+            "Name": "Trairi",
+            "NameAr": "ترايري"
+        },
+        {
+            "Code": "140350",
+            "Name": "Tramandai",
+            "NameAr": "ترامانداي"
+        },
+        {
+            "Code": "139804",
+            "Name": "Trancoso",
+            "NameAr": "ترانكوسو"
+        },
+        {
+            "Code": "107827",
+            "Name": "Tres Coracoes",
+            "NameAr": "تريس كوراكويس"
+        },
+        {
+            "Code": "107651",
+            "Name": "Tres Coroas",
+            "NameAr": "تريس كورواس"
+        },
+        {
+            "Code": "140642",
+            "Name": "Tres Lagoas",
+            "NameAr": "تريس لاجواس"
+        },
+        {
+            "Code": "160965",
+            "Name": "Tres Marias",
+            "NameAr": "تريس مارياس"
+        },
+        {
+            "Code": "141196",
+            "Name": "Tres Pontas",
+            "NameAr": "تريس بونتاس"
+        },
+        {
+            "Code": "140368",
+            "Name": "Treze Tilias",
+            "NameAr": "تريزي تيلياس"
+        },
+        {
+            "Code": "140647",
+            "Name": "Trindade",
+            "NameAr": "تريندادي"
+        },
+        {
+            "Code": "148340",
+            "Name": "Tubarao",
+            "NameAr": "توباراو"
+        },
+        {
+            "Code": "106853",
+            "Name": "Tucano",
+            "NameAr": "توكانو"
+        },
+        {
+            "Code": "151494",
+            "Name": "Tucurui",
+            "NameAr": "توكوروي"
+        },
+        {
+            "Code": "141815",
+            "Name": "Tupa",
+            "NameAr": "توبا"
+        },
+        {
+            "Code": "107800",
+            "Name": "Tupaciguara",
+            "NameAr": "توباكيجوارا"
+        },
+        {
+            "Code": "160885",
+            "Name": "Uba,   Minas Gerais",
+            "NameAr": "وبا ميناس جيرايس"
+        },
+        {
+            "Code": "108633",
+            "Name": "Ubaira",
+            "NameAr": "وبايرا"
+        },
+        {
+            "Code": "141541",
+            "Name": "Ubajara",
+            "NameAr": "وباجارا"
+        },
+        {
+            "Code": "141542",
+            "Name": "Ubatuba",
+            "NameAr": "وباتوبا"
+        },
+        {
+            "Code": "141543",
+            "Name": "Uberaba",
+            "NameAr": "وبيرابا"
+        },
+        {
+            "Code": "140096",
+            "Name": "Uberlandia",
+            "NameAr": "وبيرلانديا"
+        },
+        {
+            "Code": "140711",
+            "Name": "Umuarama",
+            "NameAr": "ومواراما"
+        },
+        {
+            "Code": "150853",
+            "Name": "Una",
+            "NameAr": "ونا"
+        },
+        {
+            "Code": "107660",
+            "Name": "Unai",
+            "NameAr": "وناي"
+        },
+        {
+            "Code": "150769",
+            "Name": "Uniao Da Vitoria",
+            "NameAr": "ونياو دا فيتوريا"
+        },
+        {
+            "Code": "107446",
+            "Name": "Uniao dos Palmares",
+            "NameAr": "ونياو دوس بالماريس"
+        },
+        {
+            "Code": "140731",
+            "Name": "Urubici",
+            "NameAr": "وروبيكي"
+        },
+        {
+            "Code": "417456",
+            "Name": "Urucara",
+            "NameAr": "وروكارا"
+        },
+        {
+            "Code": "150854",
+            "Name": "Uruguaiana",
+            "NameAr": "وروجوايانا"
+        },
+        {
+            "Code": "160951",
+            "Name": "Vale Do Capao",
+            "NameAr": "فالي دو كاباو"
+        },
+        {
+            "Code": "140582",
+            "Name": "Valenca,   State of Bahia",
+            "NameAr": "فالينكا ستاتي وف باهيا"
+        },
+        {
+            "Code": "401904",
+            "Name": "Valenca,   Rio de Janeiro State",
+            "NameAr": "فالينكا ريو دي جانييرو ستاتي"
+        },
+        {
+            "Code": "108645",
+            "Name": "Valinhos",
+            "NameAr": "فالينهوس"
+        },
+        {
+            "Code": "160962",
+            "Name": "Vargem Alta",
+            "NameAr": "فارجيم التا"
+        },
+        {
+            "Code": "107461",
+            "Name": "Vargem Bonita",
+            "NameAr": "فارجيم بونيتا"
+        },
+        {
+            "Code": "140181",
+            "Name": "Varginha",
+            "NameAr": "فارجينها"
+        },
+        {
+            "Code": "107854",
+            "Name": "Varzea Grande",
+            "NameAr": "فارزيا جراندي"
+        },
+        {
+            "Code": "141457",
+            "Name": "Vassouras",
+            "NameAr": "فاسسووراس"
+        },
+        {
+            "Code": "148454",
+            "Name": "Velha Boipeba",
+            "NameAr": "فيلها بويبيبا"
+        },
+        {
+            "Code": "141990",
+            "Name": "Venancio Aires",
+            "NameAr": "فينانكيو ايريس"
+        },
+        {
+            "Code": "107569",
+            "Name": "Venda Nova do Imigrante",
+            "NameAr": "فيندا نوفا دو يميجرانتي"
+        },
+        {
+            "Code": "141476",
+            "Name": "Vera Cruz",
+            "NameAr": "فيرا كروز"
+        },
+        {
+            "Code": "107688",
+            "Name": "Vespasiano",
+            "NameAr": "فيسباسيانو"
+        },
+        {
+            "Code": "108659",
+            "Name": "Viamao",
+            "NameAr": "فياماو"
+        },
+        {
+            "Code": "148484",
+            "Name": "Vicosa",
+            "NameAr": "فيكوسا"
+        },
+        {
+            "Code": "107961",
+            "Name": "Vicosa do Ceara",
+            "NameAr": "فيكوسا دو كيارا"
+        },
+        {
+            "Code": "106891",
+            "Name": "Videira",
+            "NameAr": "فيدييرا"
+        },
+        {
+            "Code": "107962",
+            "Name": "Vigia",
+            "NameAr": "فيجيا"
+        },
+        {
+            "Code": "160766",
+            "Name": "Vila Do Abraao",
+            "NameAr": "فيلا دو ابرااو"
+        },
+        {
+            "Code": "140895",
+            "Name": "Vila Velha",
+            "NameAr": "فيلا فيلها"
+        },
+        {
+            "Code": "151711",
+            "Name": "Vilhena",
+            "NameAr": "فيلهينا"
+        },
+        {
+            "Code": "108673",
+            "Name": "Vinhedo",
+            "NameAr": "فينهيدو"
+        },
+        {
+            "Code": "108675",
+            "Name": "Visconde de Maua",
+            "NameAr": "فيسكوندي دي ماوا"
+        },
+        {
+            "Code": "143190",
+            "Name": "Vitoria",
+            "NameAr": "فيتوريا"
+        },
+        {
+            "Code": "148546",
+            "Name": "Vitoria da Conquista",
+            "NameAr": "فيتوريا دا كونقويستا"
+        },
+        {
+            "Code": "160954",
+            "Name": "Vitorino",
+            "NameAr": "فيتورينو"
+        },
+        {
+            "Code": "151610",
+            "Name": "Volta Redonda",
+            "NameAr": "فولتا ريدوندا"
+        },
+        {
+            "Code": "148566",
+            "Name": "Votuporanga",
+            "NameAr": "فوتوبورانجا"
+        },
+        {
+            "Code": "108018",
+            "Name": "Xangri-la",
+            "NameAr": "كسانجري-لا"
+        },
+        {
+            "Code": "108689",
+            "Name": "Xanxere",
+            "NameAr": "كسانكسيري"
+        }
+    ],
+    "totalCities": 889
+}

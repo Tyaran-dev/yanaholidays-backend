@@ -1,0 +1,242 @@
+{
+    "id": "BS",
+    "countryCode": "BS",
+    "cities": [
+        {
+            "Code": "100111",
+            "Name": "Abaco Island",
+            "NameAr": "اباكو يسلاند"
+        },
+        {
+            "Code": "152544",
+            "Name": "Acklins Island",
+            "NameAr": "اككلينس يسلاند"
+        },
+        {
+            "Code": "100896",
+            "Name": "Andros",
+            "NameAr": "اندروس"
+        },
+        {
+            "Code": "150946",
+            "Name": "Andros Town",
+            "NameAr": "اندروس توون"
+        },
+        {
+            "Code": "110647",
+            "Name": "Bahamas",
+            "NameAr": "باهاماس"
+        },
+        {
+            "Code": "144214",
+            "Name": "Berry Islands",
+            "NameAr": "بيرري يسلاندس"
+        },
+        {
+            "Code": "111575",
+            "Name": "Bimini",
+            "NameAr": "بيميني"
+        },
+        {
+            "Code": "105347",
+            "Name": "Cartwright Settlement",
+            "NameAr": "كارتوريجهت سيتتليمينت"
+        },
+        {
+            "Code": "113562",
+            "Name": "Cat Island",
+            "NameAr": "كات يسلاند"
+        },
+        {
+            "Code": "105441",
+            "Name": "Cherokee Sound",
+            "NameAr": "كهيروكيي سووند"
+        },
+        {
+            "Code": "150977",
+            "Name": "Chub Cay",
+            "NameAr": "كهوب كاي"
+        },
+        {
+            "Code": "115835",
+            "Name": "Colonel Hill",
+            "NameAr": "كولونيل هيلل"
+        },
+        {
+            "Code": "150440",
+            "Name": "Crooked Island",
+            "NameAr": "كرووكيد يسلاند"
+        },
+        {
+            "Code": "150502",
+            "Name": "Deadmans Cay",
+            "NameAr": "ديادمانس كاي"
+        },
+        {
+            "Code": "105500",
+            "Name": "Dunmore Town",
+            "NameAr": "دونموري توون"
+        },
+        {
+            "Code": "145065",
+            "Name": "Eleuthera",
+            "NameAr": "يليوتهيرا"
+        },
+        {
+            "Code": "117938",
+            "Name": "Fowl Cay",
+            "NameAr": "فوول كاي"
+        },
+        {
+            "Code": "118364",
+            "Name": "Freeport City",
+            "NameAr": "فرييبورت كيتي"
+        },
+        {
+            "Code": "149657",
+            "Name": "Freetown",
+            "NameAr": "فرييتوون"
+        },
+        {
+            "Code": "118550",
+            "Name": "Gambier - Love Beach",
+            "NameAr": "جامبيير - لوفي بياكه"
+        },
+        {
+            "Code": "150753",
+            "Name": "George Town",
+            "NameAr": "جيورجي توون"
+        },
+        {
+            "Code": "119836",
+            "Name": "Governor's Harbour",
+            "NameAr": "جوفيرنورس هاربوور"
+        },
+        {
+            "Code": "119191",
+            "Name": "Grand Bahama",
+            "NameAr": "جراند باهاما"
+        },
+        {
+            "Code": "120007",
+            "Name": "Great Exuma",
+            "NameAr": "جريات يكسوما"
+        },
+        {
+            "Code": "119716",
+            "Name": "Green Turtle Cay",
+            "NameAr": "جريين تورتلي كاي"
+        },
+        {
+            "Code": "120119",
+            "Name": "Gregory Town",
+            "NameAr": "جريجوري توون"
+        },
+        {
+            "Code": "120772",
+            "Name": "Harbour Island",
+            "NameAr": "هاربوور يسلاند"
+        },
+        {
+            "Code": "121345",
+            "Name": "Highbourne Cay",
+            "NameAr": "هيجهبوورني كاي"
+        },
+        {
+            "Code": "104053",
+            "Name": "Hope Town",
+            "NameAr": "هوبي توون"
+        },
+        {
+            "Code": "145873",
+            "Name": "Kamalame Cay",
+            "NameAr": "كامالامي كاي"
+        },
+        {
+            "Code": "127277",
+            "Name": "Long Island",
+            "NameAr": "لونج يسلاند"
+        },
+        {
+            "Code": "151629",
+            "Name": "Mangrove Cay",
+            "NameAr": "مانجروفي كاي"
+        },
+        {
+            "Code": "146524",
+            "Name": "Marsh Harbour",
+            "NameAr": "مارسه هاربوور"
+        },
+        {
+            "Code": "150634",
+            "Name": "Mastic Point",
+            "NameAr": "ماستيك بوينت"
+        },
+        {
+            "Code": "130119",
+            "Name": "Nassau",
+            "NameAr": "ناسساو"
+        },
+        {
+            "Code": "128784",
+            "Name": "New Providence",
+            "NameAr": "نيو بروفيدينكي"
+        },
+        {
+            "Code": "131750",
+            "Name": "Paradise Island",
+            "NameAr": "باراديسي يسلاند"
+        },
+        {
+            "Code": "151245",
+            "Name": "Pitts Town",
+            "NameAr": "بيتتس توون"
+        },
+        {
+            "Code": "133390",
+            "Name": "Rock Sound",
+            "NameAr": "روكك سووند"
+        },
+        {
+            "Code": "151176",
+            "Name": "Rum Cay",
+            "NameAr": "روم كاي"
+        },
+        {
+            "Code": "151259",
+            "Name": "San Andros",
+            "NameAr": "سان اندروس"
+        },
+        {
+            "Code": "135903",
+            "Name": "San Salvador",
+            "NameAr": "سان سالفادور"
+        },
+        {
+            "Code": "150683",
+            "Name": "Spanish Wells",
+            "NameAr": "سبانيسه ويللس"
+        },
+        {
+            "Code": "151017",
+            "Name": "Spring Point",
+            "NameAr": "سبرينج بوينت"
+        },
+        {
+            "Code": "151671",
+            "Name": "Stella Maris",
+            "NameAr": "ستيللا ماريس"
+        },
+        {
+            "Code": "140815",
+            "Name": "Treasure Cay",
+            "NameAr": "ترياسوري كاي"
+        },
+        {
+            "Code": "151689",
+            "Name": "West End",
+            "NameAr": "ويست يند"
+        }
+    ],
+    "totalCities": 47
+}

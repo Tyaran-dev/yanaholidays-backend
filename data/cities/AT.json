@@ -1,0 +1,6877 @@
+{
+    "id": "AT",
+    "countryCode": "AT",
+    "cities": [
+        {
+            "Code": "100758",
+            "Name": "Abersee",
+            "NameAr": "ابيرسيي"
+        },
+        {
+            "Code": "100117",
+            "Name": "Abfaltersbach",
+            "NameAr": "ابفالتيرسباكه"
+        },
+        {
+            "Code": "100443",
+            "Name": "Absam",
+            "NameAr": "ابسام"
+        },
+        {
+            "Code": "100650",
+            "Name": "Abtenau",
+            "NameAr": "ابتيناو"
+        },
+        {
+            "Code": "100652",
+            "Name": "Ach",
+            "NameAr": "اكه"
+        },
+        {
+            "Code": "100023",
+            "Name": "Achau",
+            "NameAr": "اكهاو"
+        },
+        {
+            "Code": "100769",
+            "Name": "Achenkirch",
+            "NameAr": "اكهينكيركه"
+        },
+        {
+            "Code": "100240",
+            "Name": "Admont",
+            "NameAr": "ادمونت"
+        },
+        {
+            "Code": "100344",
+            "Name": "Adnet",
+            "NameAr": "ادنيت"
+        },
+        {
+            "Code": "100573",
+            "Name": "Afiesl",
+            "NameAr": "افييسل"
+        },
+        {
+            "Code": "100665",
+            "Name": "Aflenz",
+            "NameAr": "افلينز"
+        },
+        {
+            "Code": "100350",
+            "Name": "Afritz am See",
+            "NameAr": "افريتز ام سيي"
+        },
+        {
+            "Code": "100043",
+            "Name": "Aggsbach",
+            "NameAr": "اججسباكه"
+        },
+        {
+            "Code": "100264",
+            "Name": "Aich / Schladming",
+            "NameAr": "ايكه سكهلادمينج"
+        },
+        {
+            "Code": "104983",
+            "Name": "Aichdorf",
+            "NameAr": "ايكهدورف"
+        },
+        {
+            "Code": "100799",
+            "Name": "Aigen im Ennstal",
+            "NameAr": "ايجين يم يننستال"
+        },
+        {
+            "Code": "100682",
+            "Name": "Aigen im Muhlkreis",
+            "NameAr": "ايجين يم موهلكرييس"
+        },
+        {
+            "Code": "100065",
+            "Name": "Ainet",
+            "NameAr": "اينيت"
+        },
+        {
+            "Code": "100821",
+            "Name": "Alberschwende",
+            "NameAr": "البيرسكهويندي"
+        },
+        {
+            "Code": "100716",
+            "Name": "Aldrans",
+            "NameAr": "الدرانس"
+        },
+        {
+            "Code": "100730",
+            "Name": "Alland",
+            "NameAr": "اللاند"
+        },
+        {
+            "Code": "100201",
+            "Name": "Allerheiligen",
+            "NameAr": "الليرهييليجين"
+        },
+        {
+            "Code": "105152",
+            "Name": "Allhaming",
+            "NameAr": "اللهامينج"
+        },
+        {
+            "Code": "100748",
+            "Name": "Alpbach",
+            "NameAr": "البباكه"
+        },
+        {
+            "Code": "109071",
+            "Name": "Alpl",
+            "NameAr": "البل"
+        },
+        {
+            "Code": "101103",
+            "Name": "Altaussee",
+            "NameAr": "التاوسسيي"
+        },
+        {
+            "Code": "109295",
+            "Name": "Altenfelden",
+            "NameAr": "التينفيلدين"
+        },
+        {
+            "Code": "109083",
+            "Name": "Altenmarkt",
+            "NameAr": "التينماركت"
+        },
+        {
+            "Code": "109184",
+            "Name": "Altheim",
+            "NameAr": "التهييم"
+        },
+        {
+            "Code": "109186",
+            "Name": "Althofen",
+            "NameAr": "التهوفين"
+        },
+        {
+            "Code": "101112",
+            "Name": "Altlengbach",
+            "NameAr": "التلينجباكه"
+        },
+        {
+            "Code": "101113",
+            "Name": "Altmunster",
+            "NameAr": "التمونستير"
+        },
+        {
+            "Code": "100889",
+            "Name": "Amlach",
+            "NameAr": "املاكه"
+        },
+        {
+            "Code": "101127",
+            "Name": "Ampflwang",
+            "NameAr": "امبفلوانج"
+        },
+        {
+            "Code": "109324",
+            "Name": "Amstetten",
+            "NameAr": "امستيتتين"
+        },
+        {
+            "Code": "109449",
+            "Name": "Andelsbuch",
+            "NameAr": "انديلسبوكه"
+        },
+        {
+            "Code": "109120",
+            "Name": "Andorf",
+            "NameAr": "اندورف"
+        },
+        {
+            "Code": "109215",
+            "Name": "Anger",
+            "NameAr": "انجير"
+        },
+        {
+            "Code": "109216",
+            "Name": "Angerberg",
+            "NameAr": "انجيربيرج"
+        },
+        {
+            "Code": "109460",
+            "Name": "Anif",
+            "NameAr": "انيف"
+        },
+        {
+            "Code": "100904",
+            "Name": "Annaberg",
+            "NameAr": "اننابيرج"
+        },
+        {
+            "Code": "109134",
+            "Name": "Annenheim",
+            "NameAr": "اننينهييم"
+        },
+        {
+            "Code": "109465",
+            "Name": "Anras",
+            "NameAr": "انراس"
+        },
+        {
+            "Code": "109351",
+            "Name": "Ansfelden",
+            "NameAr": "انسفيلدين"
+        },
+        {
+            "Code": "109585",
+            "Name": "Anthering",
+            "NameAr": "انتهيرينج"
+        },
+        {
+            "Code": "109363",
+            "Name": "Apetlon",
+            "NameAr": "ابيتلون"
+        },
+        {
+            "Code": "109383",
+            "Name": "Ardagger",
+            "NameAr": "ارداججير"
+        },
+        {
+            "Code": "105003",
+            "Name": "Ardning",
+            "NameAr": "اردنينج"
+        },
+        {
+            "Code": "109968",
+            "Name": "Arnoldstein",
+            "NameAr": "ارنولدستيين"
+        },
+        {
+            "Code": "110302",
+            "Name": "Arriach",
+            "NameAr": "اررياكه"
+        },
+        {
+            "Code": "109878",
+            "Name": "Artstetten",
+            "NameAr": "ارتستيتتين"
+        },
+        {
+            "Code": "143958",
+            "Name": "Arzl",
+            "NameAr": "ارزل"
+        },
+        {
+            "Code": "110214",
+            "Name": "Aschach an der Donau",
+            "NameAr": "اسكهاكه ان دير دوناو"
+        },
+        {
+            "Code": "160819",
+            "Name": "Aschach An Der Steyr",
+            "NameAr": "اسكهاكه ان دير ستيير"
+        },
+        {
+            "Code": "109985",
+            "Name": "Aschau",
+            "NameAr": "اسكهاو"
+        },
+        {
+            "Code": "110322",
+            "Name": "Aspach",
+            "NameAr": "اسباكه"
+        },
+        {
+            "Code": "109897",
+            "Name": "Aspang-Markt",
+            "NameAr": "اسبانج-ماركت"
+        },
+        {
+            "Code": "110230",
+            "Name": "Assling",
+            "NameAr": "اسسلينج"
+        },
+        {
+            "Code": "110003",
+            "Name": "Attergau",
+            "NameAr": "اتتيرجاو"
+        },
+        {
+            "Code": "109909",
+            "Name": "Attersee (Lake Atter)",
+            "NameAr": "اتتيرسيي لاكي اتتير"
+        },
+        {
+            "Code": "109912",
+            "Name": "Attnang-Puchheim",
+            "NameAr": "اتتنانج-بوكههييم"
+        },
+        {
+            "Code": "109751",
+            "Name": "Au",
+            "NameAr": "او"
+        },
+        {
+            "Code": "144005",
+            "Name": "Au?ervillgraten",
+            "NameAr": "اويرفيللجراتين"
+        },
+        {
+            "Code": "110086",
+            "Name": "Auerbach",
+            "NameAr": "اويرباكه"
+        },
+        {
+            "Code": "110010",
+            "Name": "Auersbach",
+            "NameAr": "اويرسباكه"
+        },
+        {
+            "Code": "110087",
+            "Name": "Auffach",
+            "NameAr": "اوففاكه"
+        },
+        {
+            "Code": "109756",
+            "Name": "Auland",
+            "NameAr": "اولاند"
+        },
+        {
+            "Code": "109659",
+            "Name": "Aurach",
+            "NameAr": "اوراكه"
+        },
+        {
+            "Code": "110104",
+            "Name": "Axams",
+            "NameAr": "اكسامس"
+        },
+        {
+            "Code": "109682",
+            "Name": "Baad",
+            "NameAr": "بااد"
+        },
+        {
+            "Code": "110120",
+            "Name": "Bach im Lechtal",
+            "NameAr": "باكه يم ليكهتال"
+        },
+        {
+            "Code": "110271",
+            "Name": "Bad Aussee",
+            "NameAr": "باد اوسسيي"
+        },
+        {
+            "Code": "110275",
+            "Name": "Bad Bleiberg",
+            "NameAr": "باد بلييبيرج"
+        },
+        {
+            "Code": "144030",
+            "Name": "Bad Blumau",
+            "NameAr": "باد بلوماو"
+        },
+        {
+            "Code": "109950",
+            "Name": "Bad Deutsch-Altenburg",
+            "NameAr": "باد ديوتسكه-التينبورج"
+        },
+        {
+            "Code": "144036",
+            "Name": "Bad Durrnberg",
+            "NameAr": "باد دوررنبيرج"
+        },
+        {
+            "Code": "110051",
+            "Name": "Bad Erlach",
+            "NameAr": "باد يرلاكه"
+        },
+        {
+            "Code": "110127",
+            "Name": "Bad Gams",
+            "NameAr": "باد جامس"
+        },
+        {
+            "Code": "109792",
+            "Name": "Bad Gastein",
+            "NameAr": "باد جاستيين"
+        },
+        {
+            "Code": "110128",
+            "Name": "Bad Gleichenberg",
+            "NameAr": "باد جلييكهينبيرج"
+        },
+        {
+            "Code": "109695",
+            "Name": "Bad Goisern",
+            "NameAr": "باد جويسيرن"
+        },
+        {
+            "Code": "110055",
+            "Name": "Bad Gro?pertholz",
+            "NameAr": "باد جروبيرتهولز"
+        },
+        {
+            "Code": "109794",
+            "Name": "Bad Hall",
+            "NameAr": "باد هالل"
+        },
+        {
+            "Code": "110057",
+            "Name": "Bad Haring",
+            "NameAr": "باد هارينج"
+        },
+        {
+            "Code": "109796",
+            "Name": "Bad Hofgastein",
+            "NameAr": "باد هوفجاستيين"
+        },
+        {
+            "Code": "110130",
+            "Name": "Bad Ischl",
+            "NameAr": "باد يسكهل"
+        },
+        {
+            "Code": "110059",
+            "Name": "Bad Kleinkirchheim",
+            "NameAr": "باد كليينكيركههييم"
+        },
+        {
+            "Code": "109799",
+            "Name": "Bad Kreuzen",
+            "NameAr": "باد كريوزين"
+        },
+        {
+            "Code": "109956",
+            "Name": "Bad Leonfelden",
+            "NameAr": "باد ليونفيلدين"
+        },
+        {
+            "Code": "109701",
+            "Name": "Bad Mitterndorf",
+            "NameAr": "باد ميتتيرندورف"
+        },
+        {
+            "Code": "144043",
+            "Name": "Bad Pirawarth",
+            "NameAr": "باد بيراوارته"
+        },
+        {
+            "Code": "110066",
+            "Name": "Bad Radkersburg",
+            "NameAr": "باد رادكيرسبورج"
+        },
+        {
+            "Code": "109802",
+            "Name": "Bad Schallerbach",
+            "NameAr": "باد سكهالليرباكه"
+        },
+        {
+            "Code": "110736",
+            "Name": "Bad Schonau",
+            "NameAr": "باد سكهوناو"
+        },
+        {
+            "Code": "109707",
+            "Name": "Bad St. Leonhard im Lavanttal",
+            "NameAr": "باد ست ليونهارد يم لافانتتال"
+        },
+        {
+            "Code": "110739",
+            "Name": "Bad Tatzmannsdorf",
+            "NameAr": "باد تاتزماننسدورف"
+        },
+        {
+            "Code": "144050",
+            "Name": "Bad Vigaun",
+            "NameAr": "باد فيجاون"
+        },
+        {
+            "Code": "109806",
+            "Name": "Bad Voslau",
+            "NameAr": "باد فوسلاو"
+        },
+        {
+            "Code": "109808",
+            "Name": "Bad Waltersdorf",
+            "NameAr": "باد والتيرسدورف"
+        },
+        {
+            "Code": "111070",
+            "Name": "Bad Wimsbach-Neydharting",
+            "NameAr": "باد ويمسباكه-نييدهارتينج"
+        },
+        {
+            "Code": "109714",
+            "Name": "Bad Zell",
+            "NameAr": "باد زيلل"
+        },
+        {
+            "Code": "110142",
+            "Name": "Baden by Vienna",
+            "NameAr": "بادين بي فييننا"
+        },
+        {
+            "Code": "110962",
+            "Name": "Bairbach",
+            "NameAr": "بايرباكه"
+        },
+        {
+            "Code": "110666",
+            "Name": "Baldramsdorf",
+            "NameAr": "بالدرامسدورف"
+        },
+        {
+            "Code": "111145",
+            "Name": "Barnbach",
+            "NameAr": "بارنباكه"
+        },
+        {
+            "Code": "111016",
+            "Name": "Barnkopf",
+            "NameAr": "بارنكوبف"
+        },
+        {
+            "Code": "110442",
+            "Name": "Bartholomaberg",
+            "NameAr": "بارتهولومابيرج"
+        },
+        {
+            "Code": "111849",
+            "Name": "Bazora",
+            "NameAr": "بازورا"
+        },
+        {
+            "Code": "111667",
+            "Name": "Berg im Attergau",
+            "NameAr": "بيرج يم اتتيرجاو"
+        },
+        {
+            "Code": "111907",
+            "Name": "Berg im Drautal",
+            "NameAr": "بيرج يم دراوتال"
+        },
+        {
+            "Code": "111458",
+            "Name": "Bergheim",
+            "NameAr": "بيرجهييم"
+        },
+        {
+            "Code": "111915",
+            "Name": "Berndorf (Niederosterreich)",
+            "NameAr": "بيرندورف نييديروستيررييكه"
+        },
+        {
+            "Code": "110612",
+            "Name": "Berwang",
+            "NameAr": "بيروانج"
+        },
+        {
+            "Code": "111692",
+            "Name": "Bezau",
+            "NameAr": "بيزاو"
+        },
+        {
+            "Code": "111938",
+            "Name": "Biberwier",
+            "NameAr": "بيبيرويير"
+        },
+        {
+            "Code": "144237",
+            "Name": "Bichlbach",
+            "NameAr": "بيكهلباكه"
+        },
+        {
+            "Code": "144238",
+            "Name": "Biedermannsdorf",
+            "NameAr": "بييديرماننسدورف"
+        },
+        {
+            "Code": "111767",
+            "Name": "Bildstein",
+            "NameAr": "بيلدستيين"
+        },
+        {
+            "Code": "111579",
+            "Name": "Birgitz",
+            "NameAr": "بيرجيتز"
+        },
+        {
+            "Code": "111312",
+            "Name": "Birkfeld",
+            "NameAr": "بيركفيلد"
+        },
+        {
+            "Code": "112625",
+            "Name": "Birnbaum",
+            "NameAr": "بيرنباوم"
+        },
+        {
+            "Code": "111777",
+            "Name": "Bisamberg",
+            "NameAr": "بيسامبيرج"
+        },
+        {
+            "Code": "144262",
+            "Name": "Bizau",
+            "NameAr": "بيزاو"
+        },
+        {
+            "Code": "112410",
+            "Name": "Bleiburg",
+            "NameAr": "بلييبورج"
+        },
+        {
+            "Code": "152678",
+            "Name": "Bludenz District",
+            "NameAr": "بلودينز ديستريكت"
+        },
+        {
+            "Code": "111800",
+            "Name": "Bludenz-Burserberg",
+            "NameAr": "بلودينز-بورسيربيرج"
+        },
+        {
+            "Code": "112223",
+            "Name": "Bodensdorf",
+            "NameAr": "بودينسدورف"
+        },
+        {
+            "Code": "112433",
+            "Name": "Bodental",
+            "NameAr": "بودينتال"
+        },
+        {
+            "Code": "112535",
+            "Name": "Bramberg am Wildkogel",
+            "NameAr": "برامبيرج ام ويلدكوجيل"
+        },
+        {
+            "Code": "144346",
+            "Name": "Brand",
+            "NameAr": "براند"
+        },
+        {
+            "Code": "112713",
+            "Name": "Brandberg",
+            "NameAr": "براندبيرج"
+        },
+        {
+            "Code": "112352",
+            "Name": "Brandenberg",
+            "NameAr": "براندينبيرج"
+        },
+        {
+            "Code": "112281",
+            "Name": "Braunau am Inn",
+            "NameAr": "براوناو ام ينن"
+        },
+        {
+            "Code": "112543",
+            "Name": "Braz",
+            "NameAr": "براز"
+        },
+        {
+            "Code": "112286",
+            "Name": "Bregenz",
+            "NameAr": "بريجينز"
+        },
+        {
+            "Code": "111990",
+            "Name": "Breitenau",
+            "NameAr": "برييتيناو"
+        },
+        {
+            "Code": "112504",
+            "Name": "Breitenbach",
+            "NameAr": "برييتينباكه"
+        },
+        {
+            "Code": "112364",
+            "Name": "Breitenbrunn",
+            "NameAr": "برييتينبرونن"
+        },
+        {
+            "Code": "112554",
+            "Name": "Breitenfeld an der Rittschein",
+            "NameAr": "برييتينفيلد ان دير ريتتسكهيين"
+        },
+        {
+            "Code": "112289",
+            "Name": "Breitenwang",
+            "NameAr": "برييتينوانج"
+        },
+        {
+            "Code": "144387",
+            "Name": "Brixen im Thale",
+            "NameAr": "بريكسين يم تهالي"
+        },
+        {
+            "Code": "144388",
+            "Name": "Brixlegg",
+            "NameAr": "بريكسليجج"
+        },
+        {
+            "Code": "112384",
+            "Name": "Brodingberg",
+            "NameAr": "برودينجبيرج"
+        },
+        {
+            "Code": "113417",
+            "Name": "Bruck am Ziller",
+            "NameAr": "بروكك ام زيللير"
+        },
+        {
+            "Code": "144403",
+            "Name": "Bruck an der Glocknerstrasse",
+            "NameAr": "بروكك ان دير جلوككنيرستراسسي"
+        },
+        {
+            "Code": "113191",
+            "Name": "Bruck an der Leitha",
+            "NameAr": "بروكك ان دير لييتها"
+        },
+        {
+            "Code": "112975",
+            "Name": "Bruck an der Mur",
+            "NameAr": "بروكك ان دير مور"
+        },
+        {
+            "Code": "112590",
+            "Name": "Brunn am Gebirge",
+            "NameAr": "برونن ام جيبيرجي"
+        },
+        {
+            "Code": "112400",
+            "Name": "Brunn im Felde",
+            "NameAr": "برونن يم فيلدي"
+        },
+        {
+            "Code": "113431",
+            "Name": "Buch bei Jenbach",
+            "NameAr": "بوكه بيي جينباكه"
+        },
+        {
+            "Code": "113452",
+            "Name": "Burgauberg-Neudauberg",
+            "NameAr": "بورجاوبيرج-نيوداوبيرج"
+        },
+        {
+            "Code": "144434",
+            "Name": "Burs",
+            "NameAr": "بورس"
+        },
+        {
+            "Code": "113097",
+            "Name": "Burserberg",
+            "NameAr": "بورسيربيرج"
+        },
+        {
+            "Code": "116029",
+            "Name": "Dachstein - West",
+            "NameAr": "داكهستيين - ويست"
+        },
+        {
+            "Code": "116247",
+            "Name": "Dalaas",
+            "NameAr": "دالااس"
+        },
+        {
+            "Code": "116618",
+            "Name": "Damuls",
+            "NameAr": "دامولس"
+        },
+        {
+            "Code": "115675",
+            "Name": "Dellach",
+            "NameAr": "ديللاكه"
+        },
+        {
+            "Code": "115691",
+            "Name": "Deutsch Ehrensdorf",
+            "NameAr": "ديوتسكه يهرينسدورف"
+        },
+        {
+            "Code": "116297",
+            "Name": "Deutsch Schutzen-Eisenberg",
+            "NameAr": "ديوتسكه سكهوتزين-ييسينبيرج"
+        },
+        {
+            "Code": "116335",
+            "Name": "Deutsch-Wagram",
+            "NameAr": "ديوتسكه-واجرام"
+        },
+        {
+            "Code": "116333",
+            "Name": "Deutschkreutz",
+            "NameAr": "ديوتسكهكريوتز"
+        },
+        {
+            "Code": "116180",
+            "Name": "Deutschlandsberg",
+            "NameAr": "ديوتسكهلاندسبيرج"
+        },
+        {
+            "Code": "115890",
+            "Name": "Dienten",
+            "NameAr": "ديينتين"
+        },
+        {
+            "Code": "293766",
+            "Name": "Dienten am Hochkoenig",
+            "NameAr": "ديينتين ام هوكهكوينيج"
+        },
+        {
+            "Code": "117364",
+            "Name": "Dietachdorf",
+            "NameAr": "دييتاكهدورف"
+        },
+        {
+            "Code": "116092",
+            "Name": "Diex",
+            "NameAr": "دييكس"
+        },
+        {
+            "Code": "115722",
+            "Name": "Dobriach",
+            "NameAr": "دوبرياكه"
+        },
+        {
+            "Code": "144940",
+            "Name": "Dollach",
+            "NameAr": "دوللاكه"
+        },
+        {
+            "Code": "117005",
+            "Name": "Dolsach",
+            "NameAr": "دولساكه"
+        },
+        {
+            "Code": "117384",
+            "Name": "Dombim",
+            "NameAr": "دومبيم"
+        },
+        {
+            "Code": "116371",
+            "Name": "Donnersbach",
+            "NameAr": "دوننيرسباكه"
+        },
+        {
+            "Code": "116895",
+            "Name": "Donnersbachwald",
+            "NameAr": "دوننيرسباكهوالد"
+        },
+        {
+            "Code": "116896",
+            "Name": "Donnerskirchen",
+            "NameAr": "دوننيرسكيركهين"
+        },
+        {
+            "Code": "117395",
+            "Name": "Doren",
+            "NameAr": "دورين"
+        },
+        {
+            "Code": "116900",
+            "Name": "Dorfgastein",
+            "NameAr": "دورفجاستيين"
+        },
+        {
+            "Code": "151364",
+            "Name": "Dornbirn",
+            "NameAr": "دورنبيرن"
+        },
+        {
+            "Code": "116916",
+            "Name": "Dra?markt",
+            "NameAr": "دراماركت"
+        },
+        {
+            "Code": "116436",
+            "Name": "Drobollach",
+            "NameAr": "دروبوللاكه"
+        },
+        {
+            "Code": "117026",
+            "Name": "Drosendorf",
+            "NameAr": "دروسيندورف"
+        },
+        {
+            "Code": "117436",
+            "Name": "Durnstein",
+            "NameAr": "دورنستيين"
+        },
+        {
+            "Code": "116949",
+            "Name": "Durnstein in der Steiermark",
+            "NameAr": "دورنستيين ين دير ستيييرمارك"
+        },
+        {
+            "Code": "116483",
+            "Name": "Ebbs",
+            "NameAr": "يببس"
+        },
+        {
+            "Code": "116957",
+            "Name": "Eben",
+            "NameAr": "يبين"
+        },
+        {
+            "Code": "116425",
+            "Name": "Eben am Achensee",
+            "NameAr": "يبين ام اكهينسيي"
+        },
+        {
+            "Code": "116776",
+            "Name": "Ebenau",
+            "NameAr": "يبيناو"
+        },
+        {
+            "Code": "116738",
+            "Name": "Ebene Reichenau",
+            "NameAr": "يبيني رييكهيناو"
+        },
+        {
+            "Code": "118012",
+            "Name": "Ebensee",
+            "NameAr": "يبينسيي"
+        },
+        {
+            "Code": "145025",
+            "Name": "Ebenthal",
+            "NameAr": "يبينتهال"
+        },
+        {
+            "Code": "117062",
+            "Name": "Eberau",
+            "NameAr": "يبيراو"
+        },
+        {
+            "Code": "116427",
+            "Name": "Eberndorf-Mokriach",
+            "NameAr": "يبيرندورف-موكرياكه"
+        },
+        {
+            "Code": "116740",
+            "Name": "Ebersdorf",
+            "NameAr": "يبيرسدورف"
+        },
+        {
+            "Code": "116741",
+            "Name": "Eberstein",
+            "NameAr": "يبيرستيين"
+        },
+        {
+            "Code": "118014",
+            "Name": "Ebreichsdorf",
+            "NameAr": "يبرييكهسدورف"
+        },
+        {
+            "Code": "118017",
+            "Name": "Eckartsau",
+            "NameAr": "يككارتساو"
+        },
+        {
+            "Code": "117111",
+            "Name": "Edelschrott",
+            "NameAr": "يديلسكهروتت"
+        },
+        {
+            "Code": "117068",
+            "Name": "Edlbach",
+            "NameAr": "يدلباكه"
+        },
+        {
+            "Code": "117116",
+            "Name": "Eferding",
+            "NameAr": "يفيردينج"
+        },
+        {
+            "Code": "116970",
+            "Name": "Egg",
+            "NameAr": "يجج"
+        },
+        {
+            "Code": "116497",
+            "Name": "Egg (by Faaker Lake)",
+            "NameAr": "يجج بي فااكير لاكي"
+        },
+        {
+            "Code": "116499",
+            "Name": "Eggelsberg",
+            "NameAr": "يججيلسبيرج"
+        },
+        {
+            "Code": "145041",
+            "Name": "Eggenburg",
+            "NameAr": "يججينبورج"
+        },
+        {
+            "Code": "116789",
+            "Name": "Eggern",
+            "NameAr": "يججيرن"
+        },
+        {
+            "Code": "116757",
+            "Name": "Ehenbichl",
+            "NameAr": "يهينبيكهل"
+        },
+        {
+            "Code": "118035",
+            "Name": "Ehrenhausen",
+            "NameAr": "يهرينهاوسين"
+        },
+        {
+            "Code": "145044",
+            "Name": "Ehrwald",
+            "NameAr": "يهروالد"
+        },
+        {
+            "Code": "116505",
+            "Name": "Eibiswald",
+            "NameAr": "ييبيسوالد"
+        },
+        {
+            "Code": "117082",
+            "Name": "Eichberg-Trautenburg",
+            "NameAr": "ييكهبيرج-تراوتينبورج"
+        },
+        {
+            "Code": "117123",
+            "Name": "Eichenberg",
+            "NameAr": "ييكهينبيرج"
+        },
+        {
+            "Code": "118038",
+            "Name": "Eichgraben",
+            "NameAr": "ييكهجرابين"
+        },
+        {
+            "Code": "117125",
+            "Name": "Eidenberg",
+            "NameAr": "ييدينبيرج"
+        },
+        {
+            "Code": "117128",
+            "Name": "Eisbach-Rein",
+            "NameAr": "ييسباكه-ريين"
+        },
+        {
+            "Code": "117084",
+            "Name": "Eisenerz",
+            "NameAr": "ييسينيرز"
+        },
+        {
+            "Code": "117086",
+            "Name": "Eisenkappel",
+            "NameAr": "ييسينكاببيل"
+        },
+        {
+            "Code": "117130",
+            "Name": "Eisenstadt",
+            "NameAr": "ييسينستادت"
+        },
+        {
+            "Code": "116802",
+            "Name": "Eisentratten",
+            "NameAr": "ييسينتراتتين"
+        },
+        {
+            "Code": "116989",
+            "Name": "Elbigenalp",
+            "NameAr": "يلبيجينالب"
+        },
+        {
+            "Code": "145067",
+            "Name": "Elixhausen",
+            "NameAr": "يليكسهاوسين"
+        },
+        {
+            "Code": "117792",
+            "Name": "Ellbogen",
+            "NameAr": "يللبوجين"
+        },
+        {
+            "Code": "117461",
+            "Name": "Ellmau",
+            "NameAr": "يللماو"
+        },
+        {
+            "Code": "117466",
+            "Name": "Elsbethen",
+            "NameAr": "يلسبيتهين"
+        },
+        {
+            "Code": "145080",
+            "Name": "Eltendorf",
+            "NameAr": "يلتيندورف"
+        },
+        {
+            "Code": "118071",
+            "Name": "Embach",
+            "NameAr": "يمباكه"
+        },
+        {
+            "Code": "117230",
+            "Name": "Emmersdorf",
+            "NameAr": "يمميرسدورف"
+        },
+        {
+            "Code": "117165",
+            "Name": "Engelhartszell",
+            "NameAr": "ينجيلهارتسزيلل"
+        },
+        {
+            "Code": "118081",
+            "Name": "Engerwitzdorf",
+            "NameAr": "ينجيرويتزدورف"
+        },
+        {
+            "Code": "145090",
+            "Name": "Enns",
+            "NameAr": "يننس"
+        },
+        {
+            "Code": "117696",
+            "Name": "Ennstal",
+            "NameAr": "يننستال"
+        },
+        {
+            "Code": "118096",
+            "Name": "Erl",
+            "NameAr": "يرل"
+        },
+        {
+            "Code": "117183",
+            "Name": "Erpendorf",
+            "NameAr": "يربيندورف"
+        },
+        {
+            "Code": "117267",
+            "Name": "Etmi?l",
+            "NameAr": "يتميل"
+        },
+        {
+            "Code": "117529",
+            "Name": "Eugendorf",
+            "NameAr": "يوجيندورف"
+        },
+        {
+            "Code": "145127",
+            "Name": "Euratsfeld",
+            "NameAr": "يوراتسفيلد"
+        },
+        {
+            "Code": "145140",
+            "Name": "Faak am See",
+            "NameAr": "فااك ام سيي"
+        },
+        {
+            "Code": "117281",
+            "Name": "Faaker Lake",
+            "NameAr": "فااكير لاكي"
+        },
+        {
+            "Code": "117547",
+            "Name": "Faistenau",
+            "NameAr": "فايستيناو"
+        },
+        {
+            "Code": "117592",
+            "Name": "Falkenstein (Niederosterreich)",
+            "NameAr": "فالكينستيين نييديروستيررييكه"
+        },
+        {
+            "Code": "117759",
+            "Name": "Falkertsee",
+            "NameAr": "فالكيرتسيي"
+        },
+        {
+            "Code": "117887",
+            "Name": "Feffernitz",
+            "NameAr": "فيففيرنيتز"
+        },
+        {
+            "Code": "118253",
+            "Name": "Fehring",
+            "NameAr": "فيهرينج"
+        },
+        {
+            "Code": "145165",
+            "Name": "Feichten",
+            "NameAr": "فييكهتين"
+        },
+        {
+            "Code": "117776",
+            "Name": "Feistritz",
+            "NameAr": "فييستريتز"
+        },
+        {
+            "Code": "118140",
+            "Name": "Feld am See",
+            "NameAr": "فيلد ام سيي"
+        },
+        {
+            "Code": "118256",
+            "Name": "Feldbach",
+            "NameAr": "فيلدباكه"
+        },
+        {
+            "Code": "117610",
+            "Name": "Feldkirch",
+            "NameAr": "فيلدكيركه"
+        },
+        {
+            "Code": "117780",
+            "Name": "Feldkirchen",
+            "NameAr": "فيلدكيركهين"
+        },
+        {
+            "Code": "145167",
+            "Name": "Feldkirchen an der Donau",
+            "NameAr": "فيلدكيركهين ان دير دوناو"
+        },
+        {
+            "Code": "207680",
+            "Name": "Feldkirchen bei Graz",
+            "NameAr": "فيلدكيركهين بيي جراز"
+        },
+        {
+            "Code": "117613",
+            "Name": "Fendels",
+            "NameAr": "فينديلس"
+        },
+        {
+            "Code": "117893",
+            "Name": "Ferlach",
+            "NameAr": "فيرلاكه"
+        },
+        {
+            "Code": "118271",
+            "Name": "Fieberbrunn",
+            "NameAr": "فييبيربرونن"
+        },
+        {
+            "Code": "118450",
+            "Name": "Filzmoos",
+            "NameAr": "فيلزمووس"
+        },
+        {
+            "Code": "118276",
+            "Name": "Finkenberg",
+            "NameAr": "فينكينبيرج"
+        },
+        {
+            "Code": "117328",
+            "Name": "Finkenstein",
+            "NameAr": "فينكينستيين"
+        },
+        {
+            "Code": "117629",
+            "Name": "Fischamend",
+            "NameAr": "فيسكهاميند"
+        },
+        {
+            "Code": "118831",
+            "Name": "Fischbach",
+            "NameAr": "فيسكهباكه"
+        },
+        {
+            "Code": "118832",
+            "Name": "Fiss",
+            "NameAr": "فيسس"
+        },
+        {
+            "Code": "118283",
+            "Name": "Flachau",
+            "NameAr": "فلاكهاو"
+        },
+        {
+            "Code": "118836",
+            "Name": "Fladnitz an der Teichalm",
+            "NameAr": "فلادنيتز ان دير تييكهالم"
+        },
+        {
+            "Code": "118286",
+            "Name": "Flattach",
+            "NameAr": "فلاتتاكه"
+        },
+        {
+            "Code": "118574",
+            "Name": "Flattnitz",
+            "NameAr": "فلاتتنيتز"
+        },
+        {
+            "Code": "118461",
+            "Name": "Flaurling",
+            "NameAr": "فلاورلينج"
+        },
+        {
+            "Code": "118843",
+            "Name": "Fliess",
+            "NameAr": "فلييسس"
+        },
+        {
+            "Code": "118469",
+            "Name": "Flirsch",
+            "NameAr": "فليرسكه"
+        },
+        {
+            "Code": "118474",
+            "Name": "Fohnsdorf",
+            "NameAr": "فوهنسدورف"
+        },
+        {
+            "Code": "118863",
+            "Name": "Fontanella",
+            "NameAr": "فونتانيللا"
+        },
+        {
+            "Code": "145223",
+            "Name": "Fontanella-Faschina",
+            "NameAr": "فونتانيللا-فاسكهينا"
+        },
+        {
+            "Code": "118314",
+            "Name": "Forchtenstein",
+            "NameAr": "فوركهتينستيين"
+        },
+        {
+            "Code": "118189",
+            "Name": "Forolach",
+            "NameAr": "فورولاكه"
+        },
+        {
+            "Code": "118875",
+            "Name": "Forstau",
+            "NameAr": "فورستاو"
+        },
+        {
+            "Code": "118351",
+            "Name": "Frankenau",
+            "NameAr": "فرانكيناو"
+        },
+        {
+            "Code": "118616",
+            "Name": "Frankenfels",
+            "NameAr": "فرانكينفيلس"
+        },
+        {
+            "Code": "118617",
+            "Name": "Frankenmarkt",
+            "NameAr": "فرانكينماركت"
+        },
+        {
+            "Code": "118618",
+            "Name": "Franking",
+            "NameAr": "فرانكينج"
+        },
+        {
+            "Code": "102469",
+            "Name": "Frastanz",
+            "NameAr": "فراستانز"
+        },
+        {
+            "Code": "118213",
+            "Name": "Frauenkirchen",
+            "NameAr": "فراوينكيركهين"
+        },
+        {
+            "Code": "118507",
+            "Name": "Frauental",
+            "NameAr": "فراوينتال"
+        },
+        {
+            "Code": "118515",
+            "Name": "Freinberg",
+            "NameAr": "فريينبيرج"
+        },
+        {
+            "Code": "145268",
+            "Name": "Freistadt",
+            "NameAr": "فرييستادت"
+        },
+        {
+            "Code": "119574",
+            "Name": "Friedberg (Steiermark)",
+            "NameAr": "فرييدبيرج ستيييرمارك"
+        },
+        {
+            "Code": "119026",
+            "Name": "Friedersbach",
+            "NameAr": "فرييديرسباكه"
+        },
+        {
+            "Code": "117959",
+            "Name": "Friesach",
+            "NameAr": "فرييساكه"
+        },
+        {
+            "Code": "119031",
+            "Name": "Frohnleiten",
+            "NameAr": "فروهنلييتين"
+        },
+        {
+            "Code": "118913",
+            "Name": "Fu?ach",
+            "NameAr": "فواكه"
+        },
+        {
+            "Code": "145283",
+            "Name": "Fugen",
+            "NameAr": "فوجين"
+        },
+        {
+            "Code": "118902",
+            "Name": "Fugenberg",
+            "NameAr": "فوجينبيرج"
+        },
+        {
+            "Code": "145286",
+            "Name": "Fulpmes",
+            "NameAr": "فولبميس"
+        },
+        {
+            "Code": "117973",
+            "Name": "Furstenfeld",
+            "NameAr": "فورستينفيلد"
+        },
+        {
+            "Code": "118653",
+            "Name": "Furth bei Gottweig",
+            "NameAr": "فورته بيي جوتتوييج"
+        },
+        {
+            "Code": "117975",
+            "Name": "Fusch an der Grossglocknerstrasse",
+            "NameAr": "فوسكه ان دير جروسسجلوككنيرستراسسي"
+        },
+        {
+            "Code": "118654",
+            "Name": "Fuschl am See",
+            "NameAr": "فوسكهل ام سيي"
+        },
+        {
+            "Code": "118537",
+            "Name": "Gaal",
+            "NameAr": "جاال"
+        },
+        {
+            "Code": "119051",
+            "Name": "Gabersdorf",
+            "NameAr": "جابيرسدورف"
+        },
+        {
+            "Code": "119593",
+            "Name": "Gablitz",
+            "NameAr": "جابليتز"
+        },
+        {
+            "Code": "117981",
+            "Name": "Gai",
+            "NameAr": "جاي"
+        },
+        {
+            "Code": "145296",
+            "Name": "Gaimberg",
+            "NameAr": "جايمبيرج"
+        },
+        {
+            "Code": "119602",
+            "Name": "Gaisberg",
+            "NameAr": "جايسبيرج"
+        },
+        {
+            "Code": "145301",
+            "Name": "Gallbrunn",
+            "NameAr": "جاللبرونن"
+        },
+        {
+            "Code": "118925",
+            "Name": "Gallspach",
+            "NameAr": "جاللسباكه"
+        },
+        {
+            "Code": "117989",
+            "Name": "Galtur",
+            "NameAr": "جالتور"
+        },
+        {
+            "Code": "145306",
+            "Name": "Gaming",
+            "NameAr": "جامينج"
+        },
+        {
+            "Code": "117990",
+            "Name": "Gamlitz",
+            "NameAr": "جامليتز"
+        },
+        {
+            "Code": "117995",
+            "Name": "Ganserndorf",
+            "NameAr": "جانسيرندورف"
+        },
+        {
+            "Code": "119225",
+            "Name": "Garanas",
+            "NameAr": "جاراناس"
+        },
+        {
+            "Code": "119348",
+            "Name": "Gargellen",
+            "NameAr": "جارجيللين"
+        },
+        {
+            "Code": "118935",
+            "Name": "Gars am Kamp",
+            "NameAr": "جارس ام كامب"
+        },
+        {
+            "Code": "119081",
+            "Name": "Garsten",
+            "NameAr": "جارستين"
+        },
+        {
+            "Code": "119083",
+            "Name": "Gaschurn",
+            "NameAr": "جاسكهورن"
+        },
+        {
+            "Code": "118936",
+            "Name": "Gasen",
+            "NameAr": "جاسين"
+        },
+        {
+            "Code": "118938",
+            "Name": "Gatschach",
+            "NameAr": "جاتسكهاكه"
+        },
+        {
+            "Code": "119626",
+            "Name": "Gattererberg",
+            "NameAr": "جاتتيريربيرج"
+        },
+        {
+            "Code": "119360",
+            "Name": "Geboltskirchen",
+            "NameAr": "جيبولتسكيركهين"
+        },
+        {
+            "Code": "119247",
+            "Name": "Geinberg",
+            "NameAr": "جيينبيرج"
+        },
+        {
+            "Code": "119647",
+            "Name": "Geras",
+            "NameAr": "جيراس"
+        },
+        {
+            "Code": "106103",
+            "Name": "Gerasdorf bei Wien",
+            "NameAr": "جيراسدورف بيي ويين"
+        },
+        {
+            "Code": "118961",
+            "Name": "Gerlitze",
+            "NameAr": "جيرليتزي"
+        },
+        {
+            "Code": "118441",
+            "Name": "Gerlos",
+            "NameAr": "جيرلوس"
+        },
+        {
+            "Code": "118706",
+            "Name": "Ginzling",
+            "NameAr": "جينزلينج"
+        },
+        {
+            "Code": "120331",
+            "Name": "Glanegg",
+            "NameAr": "جلانيجج"
+        },
+        {
+            "Code": "119787",
+            "Name": "Glanz an der Weinstra?e",
+            "NameAr": "جلانز ان دير ويينستراي"
+        },
+        {
+            "Code": "120334",
+            "Name": "Gleins",
+            "NameAr": "جليينس"
+        },
+        {
+            "Code": "119282",
+            "Name": "Gleinstatten",
+            "NameAr": "جليينستاتتين"
+        },
+        {
+            "Code": "119402",
+            "Name": "Gleisdorf",
+            "NameAr": "جلييسدورف"
+        },
+        {
+            "Code": "120343",
+            "Name": "Glodnitz",
+            "NameAr": "جلودنيتز"
+        },
+        {
+            "Code": "119410",
+            "Name": "Gloggnitz",
+            "NameAr": "جلوججنيتز"
+        },
+        {
+            "Code": "118727",
+            "Name": "Gmund",
+            "NameAr": "جموند"
+        },
+        {
+            "Code": "145374",
+            "Name": "Gmund in Karnten",
+            "NameAr": "جموند ين كارنتين"
+        },
+        {
+            "Code": "101172",
+            "Name": "Gmunden",
+            "NameAr": "جموندين"
+        },
+        {
+            "Code": "145375",
+            "Name": "Gmunden am Traunsee (by Lake Traun)",
+            "NameAr": "جموندين ام تراونسيي بي لاكي تراون"
+        },
+        {
+            "Code": "119414",
+            "Name": "Gnadenwald",
+            "NameAr": "جنادينوالد"
+        },
+        {
+            "Code": "119151",
+            "Name": "Gnas",
+            "NameAr": "جناس"
+        },
+        {
+            "Code": "119804",
+            "Name": "Gnesau",
+            "NameAr": "جنيساو"
+        },
+        {
+            "Code": "119299",
+            "Name": "Godersdorf",
+            "NameAr": "جوديرسدورف"
+        },
+        {
+            "Code": "120350",
+            "Name": "Going",
+            "NameAr": "جوينج"
+        },
+        {
+            "Code": "118736",
+            "Name": "Goldegg",
+            "NameAr": "جولديجج"
+        },
+        {
+            "Code": "119813",
+            "Name": "Gollersdorf",
+            "NameAr": "جولليرسدورف"
+        },
+        {
+            "Code": "119676",
+            "Name": "Golling an der Salzach",
+            "NameAr": "جوللينج ان دير سالزاكه"
+        },
+        {
+            "Code": "119814",
+            "Name": "Gols",
+            "NameAr": "جولس"
+        },
+        {
+            "Code": "145395",
+            "Name": "Goriach",
+            "NameAr": "جورياكه"
+        },
+        {
+            "Code": "119828",
+            "Name": "Gortipohl",
+            "NameAr": "جورتيبوهل"
+        },
+        {
+            "Code": "119167",
+            "Name": "Gortschach",
+            "NameAr": "جورتسكهاكه"
+        },
+        {
+            "Code": "119429",
+            "Name": "Gosau",
+            "NameAr": "جوساو"
+        },
+        {
+            "Code": "120376",
+            "Name": "Gosdorf",
+            "NameAr": "جوسدورف"
+        },
+        {
+            "Code": "119169",
+            "Name": "Gosing",
+            "NameAr": "جوسينج"
+        },
+        {
+            "Code": "119322",
+            "Name": "Gossendorf",
+            "NameAr": "جوسسيندورف"
+        },
+        {
+            "Code": "120380",
+            "Name": "Gostling/Ybbs",
+            "NameAr": "جوستلينج يببس"
+        },
+        {
+            "Code": "119831",
+            "Name": "Gotzendorf an der Leitha",
+            "NameAr": "جوتزيندورف ان دير لييتها"
+        },
+        {
+            "Code": "118753",
+            "Name": "Gotzens",
+            "NameAr": "جوتزينس"
+        },
+        {
+            "Code": "118754",
+            "Name": "Gotzis",
+            "NameAr": "جوتزيس"
+        },
+        {
+            "Code": "102418",
+            "Name": "Grades",
+            "NameAr": "جراديس"
+        },
+        {
+            "Code": "119986",
+            "Name": "Grafendorf",
+            "NameAr": "جرافيندورف"
+        },
+        {
+            "Code": "119842",
+            "Name": "Grafenegg",
+            "NameAr": "جرافينيجج"
+        },
+        {
+            "Code": "119181",
+            "Name": "Grafenstein",
+            "NameAr": "جرافينستيين"
+        },
+        {
+            "Code": "119698",
+            "Name": "Grafenworth",
+            "NameAr": "جرافينوورته"
+        },
+        {
+            "Code": "119186",
+            "Name": "Gran",
+            "NameAr": "جران"
+        },
+        {
+            "Code": "119854",
+            "Name": "Gratwein",
+            "NameAr": "جراتويين"
+        },
+        {
+            "Code": "119858",
+            "Name": "Graz",
+            "NameAr": "جراز"
+        },
+        {
+            "Code": "250520",
+            "Name": "Graz-Umgebung District",
+            "NameAr": "جراز-ومجيبونج ديستريكت"
+        },
+        {
+            "Code": "120120",
+            "Name": "Greifenburg",
+            "NameAr": "جرييفينبورج"
+        },
+        {
+            "Code": "120121",
+            "Name": "Grein",
+            "NameAr": "جريين"
+        },
+        {
+            "Code": "119863",
+            "Name": "Grein an der Donau",
+            "NameAr": "جريين ان دير دوناو"
+        },
+        {
+            "Code": "145439",
+            "Name": "Greisdorf",
+            "NameAr": "جرييسدورف"
+        },
+        {
+            "Code": "121094",
+            "Name": "Gries am Brenner",
+            "NameAr": "جرييس ام بريننير"
+        },
+        {
+            "Code": "119884",
+            "Name": "Gries im Sellrain",
+            "NameAr": "جرييس يم سيللراين"
+        },
+        {
+            "Code": "119728",
+            "Name": "Grieselstein",
+            "NameAr": "جرييسيلستيين"
+        },
+        {
+            "Code": "120020",
+            "Name": "Grieskirchen",
+            "NameAr": "جرييسكيركهين"
+        },
+        {
+            "Code": "119871",
+            "Name": "Grins",
+            "NameAr": "جرينس"
+        },
+        {
+            "Code": "119472",
+            "Name": "Gro? Gerungs",
+            "NameAr": "جرو جيرونجس"
+        },
+        {
+            "Code": "120025",
+            "Name": "Gro? Sankt Florian",
+            "NameAr": "جرو سانكت فلوريان"
+        },
+        {
+            "Code": "121103",
+            "Name": "Gro?arl",
+            "NameAr": "جروارل"
+        },
+        {
+            "Code": "120137",
+            "Name": "Gro?kirchenheim",
+            "NameAr": "جروكيركهينهييم"
+        },
+        {
+            "Code": "145465",
+            "Name": "Gro?mutschen",
+            "NameAr": "جروموتسكهين"
+        },
+        {
+            "Code": "119477",
+            "Name": "Gro?petersdorf",
+            "NameAr": "جروبيتيرسدورف"
+        },
+        {
+            "Code": "119730",
+            "Name": "Grobming",
+            "NameAr": "جروبمينج"
+        },
+        {
+            "Code": "119469",
+            "Name": "Grodig",
+            "NameAr": "جروديج"
+        },
+        {
+            "Code": "119891",
+            "Name": "Gross-Enzersdorf",
+            "NameAr": "جروسس-ينزيرسدورف"
+        },
+        {
+            "Code": "120135",
+            "Name": "Grossgmain",
+            "NameAr": "جروسسجماين"
+        },
+        {
+            "Code": "119742",
+            "Name": "Grossraming",
+            "NameAr": "جروسسرامينج"
+        },
+        {
+            "Code": "121112",
+            "Name": "Grub an der March",
+            "NameAr": "جروب ان دير ماركه"
+        },
+        {
+            "Code": "120545",
+            "Name": "Gruberau",
+            "NameAr": "جروبيراو"
+        },
+        {
+            "Code": "145470",
+            "Name": "Grunau im Almtal",
+            "NameAr": "جروناو يم المتال"
+        },
+        {
+            "Code": "120034",
+            "Name": "Grunbach",
+            "NameAr": "جرونباكه"
+        },
+        {
+            "Code": "120145",
+            "Name": "Grunbach am Schneeberg",
+            "NameAr": "جرونباكه ام سكهنييبيرج"
+        },
+        {
+            "Code": "119482",
+            "Name": "Grunburg",
+            "NameAr": "جرونبورج"
+        },
+        {
+            "Code": "120035",
+            "Name": "Grundlsee (Grundl Lake)",
+            "NameAr": "جروندلسيي جروندل لاكي"
+        },
+        {
+            "Code": "121114",
+            "Name": "Gschnitz",
+            "NameAr": "جسكهنيتز"
+        },
+        {
+            "Code": "119499",
+            "Name": "Guglwald",
+            "NameAr": "جوجلوالد"
+        },
+        {
+            "Code": "120157",
+            "Name": "Gumpoldskirchen",
+            "NameAr": "جومبولدسكيركهين"
+        },
+        {
+            "Code": "120061",
+            "Name": "Gundersheim",
+            "NameAr": "جونديرسهييم"
+        },
+        {
+            "Code": "120436",
+            "Name": "Guntramsdorf",
+            "NameAr": "جونترامسدورف"
+        },
+        {
+            "Code": "145489",
+            "Name": "Gurk",
+            "NameAr": "جورك"
+        },
+        {
+            "Code": "119516",
+            "Name": "Gurtis",
+            "NameAr": "جورتيس"
+        },
+        {
+            "Code": "120066",
+            "Name": "Gussing",
+            "NameAr": "جوسسينج"
+        },
+        {
+            "Code": "120575",
+            "Name": "Gutau",
+            "NameAr": "جوتاو"
+        },
+        {
+            "Code": "120166",
+            "Name": "Gutenbrunn",
+            "NameAr": "جوتينبرونن"
+        },
+        {
+            "Code": "367958",
+            "Name": "Hagenberg im Muhlkreis",
+            "NameAr": "هاجينبيرج يم موهلكرييس"
+        },
+        {
+            "Code": "120178",
+            "Name": "Haibach ob der Donau",
+            "NameAr": "هايباكه وب دير دوناو"
+        },
+        {
+            "Code": "119939",
+            "Name": "Haiming",
+            "NameAr": "هايمينج"
+        },
+        {
+            "Code": "121158",
+            "Name": "Hainburg an der Donau",
+            "NameAr": "هاينبورج ان دير دوناو"
+        },
+        {
+            "Code": "121161",
+            "Name": "Hainzenberg",
+            "NameAr": "هاينزينبيرج"
+        },
+        {
+            "Code": "119944",
+            "Name": "Halbturn",
+            "NameAr": "هالبتورن"
+        },
+        {
+            "Code": "119945",
+            "Name": "Haldensee",
+            "NameAr": "هالدينسيي"
+        },
+        {
+            "Code": "120185",
+            "Name": "Hall by Innsbruck",
+            "NameAr": "هالل بي يننسبروكك"
+        },
+        {
+            "Code": "119948",
+            "Name": "Hallein",
+            "NameAr": "هالليين"
+        },
+        {
+            "Code": "119949",
+            "Name": "Haller am Haldensee",
+            "NameAr": "هاللير ام هالدينسيي"
+        },
+        {
+            "Code": "145513",
+            "Name": "Hallstatt",
+            "NameAr": "هاللستاتت"
+        },
+        {
+            "Code": "119547",
+            "Name": "Hallwang",
+            "NameAr": "هاللوانج"
+        },
+        {
+            "Code": "119965",
+            "Name": "Harbach",
+            "NameAr": "هارباكه"
+        },
+        {
+            "Code": "120209",
+            "Name": "Hard",
+            "NameAr": "هارد"
+        },
+        {
+            "Code": "121190",
+            "Name": "Hart bei Graz",
+            "NameAr": "هارت بيي جراز"
+        },
+        {
+            "Code": "120615",
+            "Name": "Hart im Zillertal",
+            "NameAr": "هارت يم زيلليرتال"
+        },
+        {
+            "Code": "120489",
+            "Name": "Hartberg",
+            "NameAr": "هارتبيرج"
+        },
+        {
+            "Code": "120784",
+            "Name": "Haselgehr",
+            "NameAr": "هاسيلجيهر"
+        },
+        {
+            "Code": "145547",
+            "Name": "Haslach",
+            "NameAr": "هاسلاكه"
+        },
+        {
+            "Code": "120626",
+            "Name": "Hatting",
+            "NameAr": "هاتتينج"
+        },
+        {
+            "Code": "121858",
+            "Name": "Hatzendorf",
+            "NameAr": "هاتزيندورف"
+        },
+        {
+            "Code": "120627",
+            "Name": "Haugschlag",
+            "NameAr": "هاوجسكهلاج"
+        },
+        {
+            "Code": "119976",
+            "Name": "Haus",
+            "NameAr": "هاوس"
+        },
+        {
+            "Code": "120506",
+            "Name": "Hausruckwald (Hausruckforest)",
+            "NameAr": "هاوسروككوالد هاوسروككفوريست"
+        },
+        {
+            "Code": "120814",
+            "Name": "Heidenreichstein",
+            "NameAr": "هييدينرييكهستيين"
+        },
+        {
+            "Code": "121311",
+            "Name": "Heilbrunn",
+            "NameAr": "هييلبرونن"
+        },
+        {
+            "Code": "120655",
+            "Name": "Heiligenblut",
+            "NameAr": "هييليجينبلوت"
+        },
+        {
+            "Code": "120816",
+            "Name": "Heiligenbrunn",
+            "NameAr": "هييليجينبرونن"
+        },
+        {
+            "Code": "145578",
+            "Name": "Heiligenkreuz im Lafnitztal",
+            "NameAr": "هييليجينكريوز يم لافنيتزتال"
+        },
+        {
+            "Code": "121315",
+            "Name": "Heimschuh",
+            "NameAr": "هييمسكهوه"
+        },
+        {
+            "Code": "120659",
+            "Name": "Heiterwang",
+            "NameAr": "هييتيروانج"
+        },
+        {
+            "Code": "121318",
+            "Name": "Heldenberg",
+            "NameAr": "هيلدينبيرج"
+        },
+        {
+            "Code": "145582",
+            "Name": "Helfenberg im Muhviertel",
+            "NameAr": "هيلفينبيرج يم موهفييرتيل"
+        },
+        {
+            "Code": "120896",
+            "Name": "Hellmonsodt",
+            "NameAr": "هيللمونسودت"
+        },
+        {
+            "Code": "121887",
+            "Name": "Henndorf am Wallersee",
+            "NameAr": "هينندورف ام والليرسيي"
+        },
+        {
+            "Code": "121202",
+            "Name": "Hermagor",
+            "NameAr": "هيرماجور"
+        },
+        {
+            "Code": "120923",
+            "Name": "Herrnbaumgarten",
+            "NameAr": "هيررنباومجارتين"
+        },
+        {
+            "Code": "120703",
+            "Name": "Himberg",
+            "NameAr": "هيمبيرج"
+        },
+        {
+            "Code": "120704",
+            "Name": "Himmelberg",
+            "NameAr": "هيمميلبيرج"
+        },
+        {
+            "Code": "121227",
+            "Name": "Himmelreich",
+            "NameAr": "هيمميلرييكه"
+        },
+        {
+            "Code": "145624",
+            "Name": "Hinterbruhl",
+            "NameAr": "هينتيربروهل"
+        },
+        {
+            "Code": "121356",
+            "Name": "Hinterglemm",
+            "NameAr": "هينتيرجليمم"
+        },
+        {
+            "Code": "120858",
+            "Name": "Hinterhornbach",
+            "NameAr": "هينتيرهورنباكه"
+        },
+        {
+            "Code": "120946",
+            "Name": "Hinterriss",
+            "NameAr": "هينتيرريسس"
+        },
+        {
+            "Code": "145626",
+            "Name": "Hintersee",
+            "NameAr": "هينتيرسيي"
+        },
+        {
+            "Code": "120860",
+            "Name": "Hinterstoder",
+            "NameAr": "هينتيرستودير"
+        },
+        {
+            "Code": "120706",
+            "Name": "Hinterthal",
+            "NameAr": "هينتيرتهال"
+        },
+        {
+            "Code": "121230",
+            "Name": "Hinterthiersee",
+            "NameAr": "هينتيرتهييرسيي"
+        },
+        {
+            "Code": "121231",
+            "Name": "Hintertux",
+            "NameAr": "هينتيرتوكس"
+        },
+        {
+            "Code": "120948",
+            "Name": "Hippach",
+            "NameAr": "هيبباكه"
+        },
+        {
+            "Code": "120301",
+            "Name": "Hirschegg",
+            "NameAr": "هيرسكهيجج"
+        },
+        {
+            "Code": "121361",
+            "Name": "Hittisau",
+            "NameAr": "هيتتيساو"
+        },
+        {
+            "Code": "121238",
+            "Name": "Hochfilzen",
+            "NameAr": "هوكهفيلزين"
+        },
+        {
+            "Code": "121365",
+            "Name": "Hochfugen",
+            "NameAr": "هوكهفوجين"
+        },
+        {
+            "Code": "120716",
+            "Name": "Hochgallmigg",
+            "NameAr": "هوكهجاللميجج"
+        },
+        {
+            "Code": "120952",
+            "Name": "Hochgurgl",
+            "NameAr": "هوكهجورجل"
+        },
+        {
+            "Code": "121639",
+            "Name": "Hochkrimml",
+            "NameAr": "هوكهكريممل"
+        },
+        {
+            "Code": "145633",
+            "Name": "Hochpillberg",
+            "NameAr": "هوكهبيللبيرج"
+        },
+        {
+            "Code": "105852",
+            "Name": "Hochrindl",
+            "NameAr": "هوكهريندل"
+        },
+        {
+            "Code": "120954",
+            "Name": "Hochsolden",
+            "NameAr": "هوكهسولدين"
+        },
+        {
+            "Code": "120309",
+            "Name": "Hochst",
+            "NameAr": "هوكهست"
+        },
+        {
+            "Code": "120955",
+            "Name": "Hof bei (by) Salzburg",
+            "NameAr": "هوف بيي بي سالزبورج"
+        },
+        {
+            "Code": "145638",
+            "Name": "Hofen",
+            "NameAr": "هوفين"
+        },
+        {
+            "Code": "145639",
+            "Name": "Hofkirchen im Muhlkreis",
+            "NameAr": "هوفكيركهين يم موهلكرييس"
+        },
+        {
+            "Code": "121646",
+            "Name": "Hohenems",
+            "NameAr": "هوهينيمس"
+        },
+        {
+            "Code": "121930",
+            "Name": "Hohentauern",
+            "NameAr": "هوهينتاويرن"
+        },
+        {
+            "Code": "121258",
+            "Name": "Hollabrunn",
+            "NameAr": "هوللابرونن"
+        },
+        {
+            "Code": "121377",
+            "Name": "Hollbruck",
+            "NameAr": "هوللبروكك"
+        },
+        {
+            "Code": "121933",
+            "Name": "Hollersbach",
+            "NameAr": "هولليرسباكه"
+        },
+        {
+            "Code": "307853",
+            "Name": "Hollersbach im Pinzgau",
+            "NameAr": "هولليرسباكه يم بينزجاو"
+        },
+        {
+            "Code": "145654",
+            "Name": "Holzgau",
+            "NameAr": "هولزجاو"
+        },
+        {
+            "Code": "121948",
+            "Name": "Hopfgarten",
+            "NameAr": "هوبفجارتين"
+        },
+        {
+            "Code": "120994",
+            "Name": "Hopfgarten in Defereggen",
+            "NameAr": "هوبفجارتين ين ديفيريججين"
+        },
+        {
+            "Code": "145667",
+            "Name": "Horbranz",
+            "NameAr": "هوربرانز"
+        },
+        {
+            "Code": "121552",
+            "Name": "Horn",
+            "NameAr": "هورن"
+        },
+        {
+            "Code": "122634",
+            "Name": "Huben",
+            "NameAr": "هوبين"
+        },
+        {
+            "Code": "121037",
+            "Name": "Huttau",
+            "NameAr": "هوتتاو"
+        },
+        {
+            "Code": "122652",
+            "Name": "Huttenberg",
+            "NameAr": "هوتتينبيرج"
+        },
+        {
+            "Code": "121039",
+            "Name": "Huttschlag",
+            "NameAr": "هوتتسكهلاج"
+        },
+        {
+            "Code": "121061",
+            "Name": "Illmitz",
+            "NameAr": "يللميتز"
+        },
+        {
+            "Code": "121720",
+            "Name": "Imst",
+            "NameAr": "يمست"
+        },
+        {
+            "Code": "121721",
+            "Name": "Imsterberg",
+            "NameAr": "يمستيربيرج"
+        },
+        {
+            "Code": "121621",
+            "Name": "Inneralpbach",
+            "NameAr": "يننيرالبباكه"
+        },
+        {
+            "Code": "122005",
+            "Name": "Innerbraz",
+            "NameAr": "يننيربراز"
+        },
+        {
+            "Code": "121622",
+            "Name": "Innerkrems",
+            "NameAr": "يننيركريمس"
+        },
+        {
+            "Code": "121730",
+            "Name": "Innerschwand am Mondsee",
+            "NameAr": "يننيرسكهواند ام موندسيي"
+        },
+        {
+            "Code": "121623",
+            "Name": "Innervillgraten",
+            "NameAr": "يننيرفيللجراتين"
+        },
+        {
+            "Code": "122691",
+            "Name": "Innsbruck",
+            "NameAr": "يننسبروكك"
+        },
+        {
+            "Code": "122025",
+            "Name": "Inzersdorf",
+            "NameAr": "ينزيرسدورف"
+        },
+        {
+            "Code": "122141",
+            "Name": "Inzing",
+            "NameAr": "ينزينج"
+        },
+        {
+            "Code": "122295",
+            "Name": "Irdning",
+            "NameAr": "يردنينج"
+        },
+        {
+            "Code": "121752",
+            "Name": "Irschen",
+            "NameAr": "يرسكهين"
+        },
+        {
+            "Code": "122033",
+            "Name": "Ischgl",
+            "NameAr": "يسكهجل"
+        },
+        {
+            "Code": "121758",
+            "Name": "Iselsberg",
+            "NameAr": "يسيلسبيرج"
+        },
+        {
+            "Code": "122429",
+            "Name": "Itter",
+            "NameAr": "يتتير"
+        },
+        {
+            "Code": "123428",
+            "Name": "Jausern (Saalbach)",
+            "NameAr": "جاوسيرن ساالباكه"
+        },
+        {
+            "Code": "122189",
+            "Name": "Jenbach",
+            "NameAr": "جينباكه"
+        },
+        {
+            "Code": "121795",
+            "Name": "Jenig",
+            "NameAr": "جينيج"
+        },
+        {
+            "Code": "122865",
+            "Name": "Jennersdorf",
+            "NameAr": "جيننيرسدورف"
+        },
+        {
+            "Code": "145823",
+            "Name": "Jerzens",
+            "NameAr": "جيرزينس"
+        },
+        {
+            "Code": "122354",
+            "Name": "Jochberg",
+            "NameAr": "جوكهبيرج"
+        },
+        {
+            "Code": "122481",
+            "Name": "Jois",
+            "NameAr": "جويس"
+        },
+        {
+            "Code": "123462",
+            "Name": "Judenburg",
+            "NameAr": "جودينبورج"
+        },
+        {
+            "Code": "122790",
+            "Name": "Judendorf-Stra?engel",
+            "NameAr": "جوديندورف-ستراينجيل"
+        },
+        {
+            "Code": "122490",
+            "Name": "Julbach",
+            "NameAr": "جولباكه"
+        },
+        {
+            "Code": "122371",
+            "Name": "Jungholz",
+            "NameAr": "جونجهولز"
+        },
+        {
+            "Code": "122801",
+            "Name": "Kaindorf",
+            "NameAr": "كايندورف"
+        },
+        {
+            "Code": "122916",
+            "Name": "Kals",
+            "NameAr": "كالس"
+        },
+        {
+            "Code": "336788",
+            "Name": "Kals am Grossglockner",
+            "NameAr": "كالس ام جروسسجلوككنير"
+        },
+        {
+            "Code": "103945",
+            "Name": "Kalsdorf bei Graz",
+            "NameAr": "كالسدورف بيي جراز"
+        },
+        {
+            "Code": "122244",
+            "Name": "Kaltenbach",
+            "NameAr": "كالتينباكه"
+        },
+        {
+            "Code": "122396",
+            "Name": "Kaltenberg",
+            "NameAr": "كالتينبيرج"
+        },
+        {
+            "Code": "106177",
+            "Name": "Kammern im Liesingtal",
+            "NameAr": "كامميرن يم لييسينجتال"
+        },
+        {
+            "Code": "123495",
+            "Name": "Kamp",
+            "NameAr": "كامب"
+        },
+        {
+            "Code": "122828",
+            "Name": "Kanzelhohe",
+            "NameAr": "كانزيلهوهي"
+        },
+        {
+            "Code": "298074",
+            "Name": "Kapelln",
+            "NameAr": "كابيللن"
+        },
+        {
+            "Code": "123199",
+            "Name": "Kapfenberg",
+            "NameAr": "كابفينبيرج"
+        },
+        {
+            "Code": "122261",
+            "Name": "Kapfenstein",
+            "NameAr": "كابفينستيين"
+        },
+        {
+            "Code": "122831",
+            "Name": "Kappl",
+            "NameAr": "كاببل"
+        },
+        {
+            "Code": "122263",
+            "Name": "Kaprun",
+            "NameAr": "كابرون"
+        },
+        {
+            "Code": "122530",
+            "Name": "Karl",
+            "NameAr": "كارل"
+        },
+        {
+            "Code": "123512",
+            "Name": "Kartitssch",
+            "NameAr": "كارتيتسسكه"
+        },
+        {
+            "Code": "122283",
+            "Name": "Kasten bei Boheimkirchen",
+            "NameAr": "كاستين بيي بوهييمكيركهين"
+        },
+        {
+            "Code": "122289",
+            "Name": "Katschberg",
+            "NameAr": "كاتسكهبيرج"
+        },
+        {
+            "Code": "122962",
+            "Name": "Katsdorf",
+            "NameAr": "كاتسدورف"
+        },
+        {
+            "Code": "123521",
+            "Name": "Kaumberg",
+            "NameAr": "كاومبيرج"
+        },
+        {
+            "Code": "123522",
+            "Name": "Kaunerberg",
+            "NameAr": "كاونيربيرج"
+        },
+        {
+            "Code": "124188",
+            "Name": "Kaunertal",
+            "NameAr": "كاونيرتال"
+        },
+        {
+            "Code": "122290",
+            "Name": "Kauns",
+            "NameAr": "كاونس"
+        },
+        {
+            "Code": "123530",
+            "Name": "Kelchsau",
+            "NameAr": "كيلكهساو"
+        },
+        {
+            "Code": "123241",
+            "Name": "Kellerberg",
+            "NameAr": "كيلليربيرج"
+        },
+        {
+            "Code": "123123",
+            "Name": "Kematen",
+            "NameAr": "كيماتين"
+        },
+        {
+            "Code": "122565",
+            "Name": "Kernhof",
+            "NameAr": "كيرنهوف"
+        },
+        {
+            "Code": "122573",
+            "Name": "Keutschach",
+            "NameAr": "كيوتسكهاكه"
+        },
+        {
+            "Code": "123278",
+            "Name": "Kirchbach",
+            "NameAr": "كيركهباكه"
+        },
+        {
+            "Code": "123572",
+            "Name": "Kirchberg",
+            "NameAr": "كيركهبيرج"
+        },
+        {
+            "Code": "123020",
+            "Name": "Kirchberg am Wagram",
+            "NameAr": "كيركهبيرج ام واجرام"
+        },
+        {
+            "Code": "123573",
+            "Name": "Kirchberg am Wechsel",
+            "NameAr": "كيركهبيرج ام ويكهسيل"
+        },
+        {
+            "Code": "122593",
+            "Name": "Kirchberg an der Pielach",
+            "NameAr": "كيركهبيرج ان دير بييلاكه"
+        },
+        {
+            "Code": "103968",
+            "Name": "Kirchberg an der Raab",
+            "NameAr": "كيركهبيرج ان دير رااب"
+        },
+        {
+            "Code": "122594",
+            "Name": "Kirchbichl",
+            "NameAr": "كيركهبيكهل"
+        },
+        {
+            "Code": "124253",
+            "Name": "Kirchdorf",
+            "NameAr": "كيركهدورف"
+        },
+        {
+            "Code": "123574",
+            "Name": "Kirchdorf am Inn",
+            "NameAr": "كيركهدورف ام ينن"
+        },
+        {
+            "Code": "122595",
+            "Name": "Kirchdorf an der Krems",
+            "NameAr": "كيركهدورف ان دير كريمس"
+        },
+        {
+            "Code": "123577",
+            "Name": "Kirchheim",
+            "NameAr": "كيركههييم"
+        },
+        {
+            "Code": "123032",
+            "Name": "Kirschentheuer",
+            "NameAr": "كيرسكهينتهيوير"
+        },
+        {
+            "Code": "123292",
+            "Name": "Kitzbuhel",
+            "NameAr": "كيتزبوهيل"
+        },
+        {
+            "Code": "123186",
+            "Name": "Kitzeck im Sausal",
+            "NameAr": "كيتزيكك يم ساوسال"
+        },
+        {
+            "Code": "123853",
+            "Name": "Klaffer am Hochficht",
+            "NameAr": "كلاففير ام هوكهفيكهت"
+        },
+        {
+            "Code": "123707",
+            "Name": "Klagenfurt",
+            "NameAr": "كلاجينفورت"
+        },
+        {
+            "Code": "122615",
+            "Name": "Klaus",
+            "NameAr": "كلاوس"
+        },
+        {
+            "Code": "123041",
+            "Name": "Klein-Pochlarn",
+            "NameAr": "كليين-بوكهلارن"
+        },
+        {
+            "Code": "123591",
+            "Name": "Klein-Wien",
+            "NameAr": "كليين-ويين"
+        },
+        {
+            "Code": "145976",
+            "Name": "Kleinarl",
+            "NameAr": "كليينارل"
+        },
+        {
+            "Code": "123298",
+            "Name": "Kleindiex",
+            "NameAr": "كلييندييكس"
+        },
+        {
+            "Code": "123855",
+            "Name": "Kleinlobming",
+            "NameAr": "كليينلوبمينج"
+        },
+        {
+            "Code": "123042",
+            "Name": "Kleinsolk",
+            "NameAr": "كليينسولك"
+        },
+        {
+            "Code": "123590",
+            "Name": "Kleinwalsertal",
+            "NameAr": "كليينوالسيرتال"
+        },
+        {
+            "Code": "124273",
+            "Name": "Kleinzell",
+            "NameAr": "كليينزيلل"
+        },
+        {
+            "Code": "123717",
+            "Name": "Klingenbach",
+            "NameAr": "كلينجينباكه"
+        },
+        {
+            "Code": "123599",
+            "Name": "Kloch",
+            "NameAr": "كلوكه"
+        },
+        {
+            "Code": "122619",
+            "Name": "Klopeiner See (Klopsteiner Lake)",
+            "NameAr": "كلوبيينير سيي كلوبستيينير لاكي"
+        },
+        {
+            "Code": "123962",
+            "Name": "Klosterle",
+            "NameAr": "كلوستيرلي"
+        },
+        {
+            "Code": "123861",
+            "Name": "Klosterneuburg",
+            "NameAr": "كلوستيرنيوبورج"
+        },
+        {
+            "Code": "124280",
+            "Name": "Knappenberg",
+            "NameAr": "كناببينبيرج"
+        },
+        {
+            "Code": "123965",
+            "Name": "Knittelfeld",
+            "NameAr": "كنيتتيلفيلد"
+        },
+        {
+            "Code": "123606",
+            "Name": "Koblach",
+            "NameAr": "كوبلاكه"
+        },
+        {
+            "Code": "123973",
+            "Name": "Koenigsdorf",
+            "NameAr": "كوينيجسدورف"
+        },
+        {
+            "Code": "123869",
+            "Name": "Koflach",
+            "NameAr": "كوفلاكه"
+        },
+        {
+            "Code": "123610",
+            "Name": "Kohfidisch",
+            "NameAr": "كوهفيديسكه"
+        },
+        {
+            "Code": "123060",
+            "Name": "Kolbnitz",
+            "NameAr": "كولبنيتز"
+        },
+        {
+            "Code": "123061",
+            "Name": "Kollerschlag",
+            "NameAr": "كولليرسكهلاج"
+        },
+        {
+            "Code": "145999",
+            "Name": "Kolsass",
+            "NameAr": "كولساسس"
+        },
+        {
+            "Code": "123986",
+            "Name": "Kolsassberg",
+            "NameAr": "كولساسسبيرج"
+        },
+        {
+            "Code": "124952",
+            "Name": "Konigsleiten",
+            "NameAr": "كونيجسلييتين"
+        },
+        {
+            "Code": "123064",
+            "Name": "Konigswiesen",
+            "NameAr": "كونيجسوييسين"
+        },
+        {
+            "Code": "123883",
+            "Name": "Kopfing im Innviertel",
+            "NameAr": "كوبفينج يم يننفييرتيل"
+        },
+        {
+            "Code": "146006",
+            "Name": "Koppl",
+            "NameAr": "كوببل"
+        },
+        {
+            "Code": "123309",
+            "Name": "Korneuburg",
+            "NameAr": "كورنيوبورج"
+        },
+        {
+            "Code": "146015",
+            "Name": "Kossen",
+            "NameAr": "كوسسين"
+        },
+        {
+            "Code": "123630",
+            "Name": "Kostendorf",
+            "NameAr": "كوستيندورف"
+        },
+        {
+            "Code": "124009",
+            "Name": "Kotschach-Mauthen",
+            "NameAr": "كوتسكهاكه-ماوتهين"
+        },
+        {
+            "Code": "160812",
+            "Name": "Kottes",
+            "NameAr": "كوتتيس"
+        },
+        {
+            "Code": "124409",
+            "Name": "Kottingbrunn",
+            "NameAr": "كوتتينجبرونن"
+        },
+        {
+            "Code": "123892",
+            "Name": "Kottmannsdorf",
+            "NameAr": "كوتتماننسدورف"
+        },
+        {
+            "Code": "123317",
+            "Name": "Krakaudorf",
+            "NameAr": "كراكاودورف"
+        },
+        {
+            "Code": "124016",
+            "Name": "Krakauebene",
+            "NameAr": "كراكاويبيني"
+        },
+        {
+            "Code": "123750",
+            "Name": "Krakauschatten",
+            "NameAr": "كراكاوسكهاتتين"
+        },
+        {
+            "Code": "124294",
+            "Name": "Kramesau",
+            "NameAr": "كراميساو"
+        },
+        {
+            "Code": "124295",
+            "Name": "Kramsach",
+            "NameAr": "كرامساكه"
+        },
+        {
+            "Code": "123903",
+            "Name": "Krems",
+            "NameAr": "كريمس"
+        },
+        {
+            "Code": "123326",
+            "Name": "Krems in Karnten",
+            "NameAr": "كريمس ين كارنتين"
+        },
+        {
+            "Code": "124300",
+            "Name": "Kremsmunster",
+            "NameAr": "كريمسمونستير"
+        },
+        {
+            "Code": "123330",
+            "Name": "Krieglach",
+            "NameAr": "كرييجلاكه"
+        },
+        {
+            "Code": "123331",
+            "Name": "Krimml",
+            "NameAr": "كريممل"
+        },
+        {
+            "Code": "123906",
+            "Name": "Krispl",
+            "NameAr": "كريسبل"
+        },
+        {
+            "Code": "124024",
+            "Name": "Kritzendorf",
+            "NameAr": "كريتزيندورف"
+        },
+        {
+            "Code": "123761",
+            "Name": "Kroatisch Minihof",
+            "NameAr": "كرواتيسكه مينيهوف"
+        },
+        {
+            "Code": "146034",
+            "Name": "Kronstorf",
+            "NameAr": "كرونستورف"
+        },
+        {
+            "Code": "123910",
+            "Name": "Krumbach (Niederosterreich)",
+            "NameAr": "كرومباكه نييديروستيررييكه"
+        },
+        {
+            "Code": "123337",
+            "Name": "Krumbach (Vorarlberg)",
+            "NameAr": "كرومباكه فورارلبيرج"
+        },
+        {
+            "Code": "123911",
+            "Name": "Krumpendorf",
+            "NameAr": "كرومبيندورف"
+        },
+        {
+            "Code": "146043",
+            "Name": "Kuchl",
+            "NameAr": "كوكهل"
+        },
+        {
+            "Code": "146044",
+            "Name": "Kufstein",
+            "NameAr": "كوفستيين"
+        },
+        {
+            "Code": "124314",
+            "Name": "Kukmirn",
+            "NameAr": "كوكميرن"
+        },
+        {
+            "Code": "124550",
+            "Name": "La?nitzhohe",
+            "NameAr": "لانيتزهوهي"
+        },
+        {
+            "Code": "124747",
+            "Name": "Laa an der Thaya",
+            "NameAr": "لاا ان دير تهايا"
+        },
+        {
+            "Code": "124748",
+            "Name": "Laaben",
+            "NameAr": "لاابين"
+        },
+        {
+            "Code": "125738",
+            "Name": "Lackenhof",
+            "NameAr": "لاككينهوف"
+        },
+        {
+            "Code": "125740",
+            "Name": "Ladis",
+            "NameAr": "لاديس"
+        },
+        {
+            "Code": "359820",
+            "Name": "Lake Faak",
+            "NameAr": "لاكي فااك"
+        },
+        {
+            "Code": "125068",
+            "Name": "Lamm",
+            "NameAr": "لامم"
+        },
+        {
+            "Code": "146127",
+            "Name": "Landeck",
+            "NameAr": "لانديكك"
+        },
+        {
+            "Code": "124523",
+            "Name": "Landl",
+            "NameAr": "لاندل"
+        },
+        {
+            "Code": "125775",
+            "Name": "Langenegg",
+            "NameAr": "لانجينيجج"
+        },
+        {
+            "Code": "124118",
+            "Name": "Langenfeld",
+            "NameAr": "لانجينفيلد"
+        },
+        {
+            "Code": "125207",
+            "Name": "Langenlebarn",
+            "NameAr": "لانجينليبارن"
+        },
+        {
+            "Code": "125776",
+            "Name": "Langenlois",
+            "NameAr": "لانجينلويس"
+        },
+        {
+            "Code": "124804",
+            "Name": "Langenwang",
+            "NameAr": "لانجينوانج"
+        },
+        {
+            "Code": "146141",
+            "Name": "Langkampfen",
+            "NameAr": "لانجكامبفين"
+        },
+        {
+            "Code": "124806",
+            "Name": "Langschlag",
+            "NameAr": "لانجسكهلاج"
+        },
+        {
+            "Code": "125085",
+            "Name": "Lannach",
+            "NameAr": "لانناكه"
+        },
+        {
+            "Code": "125086",
+            "Name": "Lans",
+            "NameAr": "لانس"
+        },
+        {
+            "Code": "124536",
+            "Name": "Lanzenkirchen",
+            "NameAr": "لانزينكيركهين"
+        },
+        {
+            "Code": "124152",
+            "Name": "Lasberg",
+            "NameAr": "لاسبيرج"
+        },
+        {
+            "Code": "160826",
+            "Name": "Lassnitzhohe",
+            "NameAr": "لاسسنيتزهوهي"
+        },
+        {
+            "Code": "124685",
+            "Name": "Laterns",
+            "NameAr": "لاتيرنس"
+        },
+        {
+            "Code": "124552",
+            "Name": "Latschach am Faakersee",
+            "NameAr": "لاتسكهاكه ام فااكيرسيي"
+        },
+        {
+            "Code": "103759",
+            "Name": "Launsdorf",
+            "NameAr": "لاونسدورف"
+        },
+        {
+            "Code": "125237",
+            "Name": "Laussa",
+            "NameAr": "لاوسسا"
+        },
+        {
+            "Code": "124167",
+            "Name": "Lauterach",
+            "NameAr": "لاوتيراكه"
+        },
+        {
+            "Code": "124170",
+            "Name": "Lavamund",
+            "NameAr": "لافاموند"
+        },
+        {
+            "Code": "124697",
+            "Name": "Lavant",
+            "NameAr": "لافانت"
+        },
+        {
+            "Code": "124592",
+            "Name": "Lebring",
+            "NameAr": "ليبرينج"
+        },
+        {
+            "Code": "124850",
+            "Name": "Lech",
+            "NameAr": "ليكه"
+        },
+        {
+            "Code": "124851",
+            "Name": "Lechaschau",
+            "NameAr": "ليكهاسكهاو"
+        },
+        {
+            "Code": "125534",
+            "Name": "Leiben",
+            "NameAr": "لييبين"
+        },
+        {
+            "Code": "126500",
+            "Name": "Leibnitz",
+            "NameAr": "لييبنيتز"
+        },
+        {
+            "Code": "152660",
+            "Name": "Leibnitz District",
+            "NameAr": "لييبنيتز ديستريكت"
+        },
+        {
+            "Code": "124859",
+            "Name": "Lembach",
+            "NameAr": "ليمباكه"
+        },
+        {
+            "Code": "126509",
+            "Name": "Lend",
+            "NameAr": "ليند"
+        },
+        {
+            "Code": "125395",
+            "Name": "Lendorf",
+            "NameAr": "ليندورف"
+        },
+        {
+            "Code": "103990",
+            "Name": "Lengau",
+            "NameAr": "لينجاو"
+        },
+        {
+            "Code": "125153",
+            "Name": "Lenzing",
+            "NameAr": "لينزينج"
+        },
+        {
+            "Code": "125154",
+            "Name": "Leoben",
+            "NameAr": "ليوبين"
+        },
+        {
+            "Code": "146231",
+            "Name": "Leogang",
+            "NameAr": "ليوجانج"
+        },
+        {
+            "Code": "103913",
+            "Name": "Leonding",
+            "NameAr": "ليوندينج"
+        },
+        {
+            "Code": "103914",
+            "Name": "Leonstein",
+            "NameAr": "ليونستيين"
+        },
+        {
+            "Code": "125970",
+            "Name": "Lermos",
+            "NameAr": "ليرموس"
+        },
+        {
+            "Code": "125561",
+            "Name": "Leutasch",
+            "NameAr": "ليوتاسكه"
+        },
+        {
+            "Code": "125284",
+            "Name": "Leutschach",
+            "NameAr": "ليوتسكهاكه"
+        },
+        {
+            "Code": "125997",
+            "Name": "Lichtenberg",
+            "NameAr": "ليكهتينبيرج"
+        },
+        {
+            "Code": "125840",
+            "Name": "Liebenau",
+            "NameAr": "لييبيناو"
+        },
+        {
+            "Code": "125295",
+            "Name": "Liebenfels",
+            "NameAr": "لييبينفيلس"
+        },
+        {
+            "Code": "126001",
+            "Name": "Lienz",
+            "NameAr": "ليينز"
+        },
+        {
+            "Code": "125846",
+            "Name": "Liesing Im Lesachtal",
+            "NameAr": "لييسينج يم ليساكهتال"
+        },
+        {
+            "Code": "124910",
+            "Name": "Liezen",
+            "NameAr": "لييزين"
+        },
+        {
+            "Code": "126007",
+            "Name": "Ligist",
+            "NameAr": "ليجيست"
+        },
+        {
+            "Code": "146297",
+            "Name": "Lingenau",
+            "NameAr": "لينجيناو"
+        },
+        {
+            "Code": "126275",
+            "Name": "Lintsching",
+            "NameAr": "لينتسكهينج"
+        },
+        {
+            "Code": "125863",
+            "Name": "Linz",
+            "NameAr": "لينز"
+        },
+        {
+            "Code": "125876",
+            "Name": "Litschau",
+            "NameAr": "ليتسكهاو"
+        },
+        {
+            "Code": "125885",
+            "Name": "Lochau am Bodensee",
+            "NameAr": "لوكهاو ام بودينسيي"
+        },
+        {
+            "Code": "125596",
+            "Name": "Lochen",
+            "NameAr": "لوكهين"
+        },
+        {
+            "Code": "125597",
+            "Name": "Lockenhaus",
+            "NameAr": "لوككينهاوس"
+        },
+        {
+            "Code": "126166",
+            "Name": "Lofer",
+            "NameAr": "لوفير"
+        },
+        {
+            "Code": "126624",
+            "Name": "Loibichl",
+            "NameAr": "لويبيكهل"
+        },
+        {
+            "Code": "125604",
+            "Name": "Loich",
+            "NameAr": "لويكه"
+        },
+        {
+            "Code": "101255",
+            "Name": "Loipersdorf",
+            "NameAr": "لويبيرسدورف"
+        },
+        {
+            "Code": "126174",
+            "Name": "Loipersdorf bei Furstenfeld",
+            "NameAr": "لويبيرسدورف بيي فورستينفيلد"
+        },
+        {
+            "Code": "126643",
+            "Name": "Loosdorf",
+            "NameAr": "لووسدورف"
+        },
+        {
+            "Code": "126650",
+            "Name": "Losenstein",
+            "NameAr": "لوسينستيين"
+        },
+        {
+            "Code": "126231",
+            "Name": "Lungotz",
+            "NameAr": "لونجوتز"
+        },
+        {
+            "Code": "126678",
+            "Name": "Lunz am See",
+            "NameAr": "لونز ام سيي"
+        },
+        {
+            "Code": "126235",
+            "Name": "Lustenau",
+            "NameAr": "لوستيناو"
+        },
+        {
+            "Code": "125656",
+            "Name": "Lutzmannsburg",
+            "NameAr": "لوتزماننسبورج"
+        },
+        {
+            "Code": "127066",
+            "Name": "Madseit",
+            "NameAr": "مادسييت"
+        },
+        {
+            "Code": "127348",
+            "Name": "Maiernigg",
+            "NameAr": "ماييرنيجج"
+        },
+        {
+            "Code": "126266",
+            "Name": "Mailberg",
+            "NameAr": "مايلبيرج"
+        },
+        {
+            "Code": "127084",
+            "Name": "Maishofen",
+            "NameAr": "مايسهوفين"
+        },
+        {
+            "Code": "126934",
+            "Name": "Maissau",
+            "NameAr": "مايسساو"
+        },
+        {
+            "Code": "127361",
+            "Name": "Mallnitz",
+            "NameAr": "ماللنيتز"
+        },
+        {
+            "Code": "127364",
+            "Name": "Malta",
+            "NameAr": "مالتا"
+        },
+        {
+            "Code": "126801",
+            "Name": "Mandarfen",
+            "NameAr": "ماندارفين"
+        },
+        {
+            "Code": "126966",
+            "Name": "Manhartsbrunn",
+            "NameAr": "مانهارتسبرونن"
+        },
+        {
+            "Code": "128044",
+            "Name": "Mank",
+            "NameAr": "مانك"
+        },
+        {
+            "Code": "126821",
+            "Name": "Marbach an der Donau",
+            "NameAr": "مارباكه ان دير دوناو"
+        },
+        {
+            "Code": "126842",
+            "Name": "Marchegg",
+            "NameAr": "ماركهيجج"
+        },
+        {
+            "Code": "104755",
+            "Name": "Marchtrenk",
+            "NameAr": "ماركهترينك"
+        },
+        {
+            "Code": "126852",
+            "Name": "Maria Alm",
+            "NameAr": "ماريا الم"
+        },
+        {
+            "Code": "126988",
+            "Name": "Maria Enzersdorf am Gebirge",
+            "NameAr": "ماريا ينزيرسدورف ام جيبيرجي"
+        },
+        {
+            "Code": "128059",
+            "Name": "Maria Laach",
+            "NameAr": "ماريا لااكه"
+        },
+        {
+            "Code": "127449",
+            "Name": "Maria Lankowitz",
+            "NameAr": "ماريا لانكوويتز"
+        },
+        {
+            "Code": "127141",
+            "Name": "Maria Luggau",
+            "NameAr": "ماريا لوججاو"
+        },
+        {
+            "Code": "127142",
+            "Name": "Maria Neustift",
+            "NameAr": "ماريا نيوستيفت"
+        },
+        {
+            "Code": "127450",
+            "Name": "Maria Rain",
+            "NameAr": "ماريا راين"
+        },
+        {
+            "Code": "127143",
+            "Name": "Maria Saal",
+            "NameAr": "ماريا ساال"
+        },
+        {
+            "Code": "126853",
+            "Name": "Maria Taferl",
+            "NameAr": "ماريا تافيرل"
+        },
+        {
+            "Code": "127451",
+            "Name": "Maria Worth",
+            "NameAr": "ماريا وورته"
+        },
+        {
+            "Code": "127452",
+            "Name": "Maria-Lanzendorf",
+            "NameAr": "ماريا-لانزيندورف"
+        },
+        {
+            "Code": "127486",
+            "Name": "Mariahof",
+            "NameAr": "مارياهوف"
+        },
+        {
+            "Code": "126412",
+            "Name": "Mariapfarr",
+            "NameAr": "ماريابفارر"
+        },
+        {
+            "Code": "127455",
+            "Name": "Mariastein",
+            "NameAr": "مارياستيين"
+        },
+        {
+            "Code": "128060",
+            "Name": "Mariazell",
+            "NameAr": "ماريازيلل"
+        },
+        {
+            "Code": "127827",
+            "Name": "Markt St. Martin",
+            "NameAr": "ماركت ست مارتين"
+        },
+        {
+            "Code": "126890",
+            "Name": "Marz",
+            "NameAr": "مارز"
+        },
+        {
+            "Code": "146546",
+            "Name": "Mathon",
+            "NameAr": "ماتهون"
+        },
+        {
+            "Code": "127031",
+            "Name": "Matrei",
+            "NameAr": "ماتريي"
+        },
+        {
+            "Code": "127860",
+            "Name": "Matrei in Osttirol",
+            "NameAr": "ماتريي ين وستتيرول"
+        },
+        {
+            "Code": "146549",
+            "Name": "Mattersburg",
+            "NameAr": "ماتتيرسبورج"
+        },
+        {
+            "Code": "128120",
+            "Name": "Mattighofen",
+            "NameAr": "ماتتيجهوفين"
+        },
+        {
+            "Code": "128157",
+            "Name": "Mattsee",
+            "NameAr": "ماتتسيي"
+        },
+        {
+            "Code": "127538",
+            "Name": "Mauerbach",
+            "NameAr": "ماويرباكه"
+        },
+        {
+            "Code": "104171",
+            "Name": "Mauerkirchen",
+            "NameAr": "ماويركيركهين"
+        },
+        {
+            "Code": "128122",
+            "Name": "Maurach",
+            "NameAr": "ماوراكه"
+        },
+        {
+            "Code": "127036",
+            "Name": "Mautern an der Donau",
+            "NameAr": "ماوتيرن ان دير دوناو"
+        },
+        {
+            "Code": "127543",
+            "Name": "Mautern in Steiermark",
+            "NameAr": "ماوتيرن ين ستيييرمارك"
+        },
+        {
+            "Code": "127544",
+            "Name": "Mauterndorf",
+            "NameAr": "ماوتيرندورف"
+        },
+        {
+            "Code": "127037",
+            "Name": "Mauthausen",
+            "NameAr": "ماوتهاوسين"
+        },
+        {
+            "Code": "128126",
+            "Name": "Mayerling",
+            "NameAr": "ماييرلينج"
+        },
+        {
+            "Code": "127547",
+            "Name": "Mayrhofen",
+            "NameAr": "مايرهوفين"
+        },
+        {
+            "Code": "128194",
+            "Name": "Melk",
+            "NameAr": "ميلك"
+        },
+        {
+            "Code": "127896",
+            "Name": "Mellau",
+            "NameAr": "ميللاو"
+        },
+        {
+            "Code": "128222",
+            "Name": "Metnitz",
+            "NameAr": "ميتنيتز"
+        },
+        {
+            "Code": "104771",
+            "Name": "Mettmach",
+            "NameAr": "ميتتماكه"
+        },
+        {
+            "Code": "127631",
+            "Name": "Micheldorf",
+            "NameAr": "ميكهيلدورف"
+        },
+        {
+            "Code": "385040",
+            "Name": "Micheldorf in Oberoesterreich",
+            "NameAr": "ميكهيلدورف ين وبيرويستيررييكه"
+        },
+        {
+            "Code": "146620",
+            "Name": "Micklauzhof",
+            "NameAr": "ميككلاوزهوف"
+        },
+        {
+            "Code": "128269",
+            "Name": "Mieders",
+            "NameAr": "مييديرس"
+        },
+        {
+            "Code": "128849",
+            "Name": "Mieming",
+            "NameAr": "مييمينج"
+        },
+        {
+            "Code": "128851",
+            "Name": "Miesenbach",
+            "NameAr": "مييسينباكه"
+        },
+        {
+            "Code": "128239",
+            "Name": "Miesenbach bei Birkfeld",
+            "NameAr": "مييسينباكه بيي بيركفيلد"
+        },
+        {
+            "Code": "128864",
+            "Name": "Millstatt",
+            "NameAr": "ميللستاتت"
+        },
+        {
+            "Code": "146636",
+            "Name": "Mils",
+            "NameAr": "ميلس"
+        },
+        {
+            "Code": "128613",
+            "Name": "Mistelbach",
+            "NameAr": "ميستيلباكه"
+        },
+        {
+            "Code": "127792",
+            "Name": "Mittelberg",
+            "NameAr": "ميتتيلبيرج"
+        },
+        {
+            "Code": "104196",
+            "Name": "Mitterbach am Erlaufsee",
+            "NameAr": "ميتتيرباكه ام يرلاوفسيي"
+        },
+        {
+            "Code": "128884",
+            "Name": "Mitterberg",
+            "NameAr": "ميتتيربيرج"
+        },
+        {
+            "Code": "127229",
+            "Name": "Mitterkirchen im Machland",
+            "NameAr": "ميتتيركيركهين يم ماكهلاند"
+        },
+        {
+            "Code": "146654",
+            "Name": "Mittersill",
+            "NameAr": "ميتتيرسيلل"
+        },
+        {
+            "Code": "127687",
+            "Name": "Mittertrixen",
+            "NameAr": "ميتتيرتريكسين"
+        },
+        {
+            "Code": "128627",
+            "Name": "Modling",
+            "NameAr": "مودلينج"
+        },
+        {
+            "Code": "128315",
+            "Name": "Moggers",
+            "NameAr": "موججيرس"
+        },
+        {
+            "Code": "146670",
+            "Name": "Mollbrucke",
+            "NameAr": "موللبروككي"
+        },
+        {
+            "Code": "127810",
+            "Name": "Molln",
+            "NameAr": "موللن"
+        },
+        {
+            "Code": "128369",
+            "Name": "Monchhof",
+            "NameAr": "مونكههوف"
+        },
+        {
+            "Code": "128646",
+            "Name": "Mondsee",
+            "NameAr": "موندسيي"
+        },
+        {
+            "Code": "128940",
+            "Name": "Monichkirchen",
+            "NameAr": "مونيكهكيركهين"
+        },
+        {
+            "Code": "127256",
+            "Name": "Monichwald",
+            "NameAr": "مونيكهوالد"
+        },
+        {
+            "Code": "128524",
+            "Name": "Moorbad Harbach",
+            "NameAr": "موورباد هارباكه"
+        },
+        {
+            "Code": "146720",
+            "Name": "Moosburg",
+            "NameAr": "مووسبورج"
+        },
+        {
+            "Code": "129374",
+            "Name": "Morbisch",
+            "NameAr": "موربيسكه"
+        },
+        {
+            "Code": "129040",
+            "Name": "Morbisch am See",
+            "NameAr": "موربيسكه ام سيي"
+        },
+        {
+            "Code": "129055",
+            "Name": "Mortschach",
+            "NameAr": "مورتسكهاكه"
+        },
+        {
+            "Code": "128430",
+            "Name": "Mosern bei Seefeld",
+            "NameAr": "موسيرن بيي سييفيلد"
+        },
+        {
+            "Code": "128455",
+            "Name": "Muhlbach",
+            "NameAr": "موهلباكه"
+        },
+        {
+            "Code": "128457",
+            "Name": "Muhlbach im Pinzgau",
+            "NameAr": "موهلباكه يم بينزجاو"
+        },
+        {
+            "Code": "129686",
+            "Name": "Muhldorf",
+            "NameAr": "موهلدورف"
+        },
+        {
+            "Code": "146766",
+            "Name": "Muhldorf bei Feldbach",
+            "NameAr": "موهلدورف بيي فيلدباكه"
+        },
+        {
+            "Code": "129664",
+            "Name": "Muhlen",
+            "NameAr": "موهلين"
+        },
+        {
+            "Code": "128461",
+            "Name": "Muhltal",
+            "NameAr": "موهلتال"
+        },
+        {
+            "Code": "129423",
+            "Name": "Munchendorf",
+            "NameAr": "مونكهيندورف"
+        },
+        {
+            "Code": "130327",
+            "Name": "Munichreith-Laimbach",
+            "NameAr": "مونيكهرييته-لايمباكه"
+        },
+        {
+            "Code": "129428",
+            "Name": "Munster",
+            "NameAr": "مونستير"
+        },
+        {
+            "Code": "129705",
+            "Name": "Murau",
+            "NameAr": "موراو"
+        },
+        {
+            "Code": "103847",
+            "Name": "Mureck",
+            "NameAr": "موريكك"
+        },
+        {
+            "Code": "130338",
+            "Name": "Murzsteg",
+            "NameAr": "مورزستيج"
+        },
+        {
+            "Code": "146787",
+            "Name": "Murzzuschlag",
+            "NameAr": "مورززوسكهلاج"
+        },
+        {
+            "Code": "129112",
+            "Name": "Mutters",
+            "NameAr": "موتتيرس"
+        },
+        {
+            "Code": "128702",
+            "Name": "Naarn im Machlande",
+            "NameAr": "ناارن يم ماكهلاندي"
+        },
+        {
+            "Code": "130120",
+            "Name": "Nassereith",
+            "NameAr": "ناسسيرييته"
+        },
+        {
+            "Code": "129272",
+            "Name": "Nassfeld",
+            "NameAr": "ناسسفيلد"
+        },
+        {
+            "Code": "130127",
+            "Name": "Natternbach",
+            "NameAr": "ناتتيرنباكه"
+        },
+        {
+            "Code": "129172",
+            "Name": "Natters",
+            "NameAr": "ناتتيرس"
+        },
+        {
+            "Code": "129173",
+            "Name": "Nauders",
+            "NameAr": "ناوديرس"
+        },
+        {
+            "Code": "129751",
+            "Name": "Neckenmarkt",
+            "NameAr": "نيككينماركت"
+        },
+        {
+            "Code": "128752",
+            "Name": "Nesselwangle",
+            "NameAr": "نيسسيلوانجلي"
+        },
+        {
+            "Code": "104273",
+            "Name": "Nestelbach bei Graz",
+            "NameAr": "نيستيلباكه بيي جراز"
+        },
+        {
+            "Code": "129201",
+            "Name": "Neuberg an der Murz",
+            "NameAr": "نيوبيرج ان دير مورز"
+        },
+        {
+            "Code": "130151",
+            "Name": "Neudorfl",
+            "NameAr": "نيودورفل"
+        },
+        {
+            "Code": "104525",
+            "Name": "Neufeld an der Leitha",
+            "NameAr": "نيوفيلد ان دير لييتها"
+        },
+        {
+            "Code": "129836",
+            "Name": "Neuhaus am Klausenbach",
+            "NameAr": "نيوهاوس ام كلاوسينباكه"
+        },
+        {
+            "Code": "146854",
+            "Name": "Neuhofen an der Ybbs",
+            "NameAr": "نيوهوفين ان دير يببس"
+        },
+        {
+            "Code": "130405",
+            "Name": "Neuhofen bei Ried",
+            "NameAr": "نيوهوفين بيي رييد"
+        },
+        {
+            "Code": "405059",
+            "Name": "Neukirchen am Grossvenediger",
+            "NameAr": "نيوكيركهين ام جروسسفينيديجير"
+        },
+        {
+            "Code": "104526",
+            "Name": "Neukirchen am Walde",
+            "NameAr": "نيوكيركهين ام والدي"
+        },
+        {
+            "Code": "160774",
+            "Name": "Neukirchen An Der Vockla",
+            "NameAr": "نيوكيركهين ان دير فوككلا"
+        },
+        {
+            "Code": "130406",
+            "Name": "Neulengbach",
+            "NameAr": "نيولينجباكه"
+        },
+        {
+            "Code": "130407",
+            "Name": "Neumarkt",
+            "NameAr": "نيوماركت"
+        },
+        {
+            "Code": "129209",
+            "Name": "Neumarkt in Steiermark",
+            "NameAr": "نيوماركت ين ستيييرمارك"
+        },
+        {
+            "Code": "102037",
+            "Name": "Neunkirchen",
+            "NameAr": "نيونكيركهين"
+        },
+        {
+            "Code": "152679",
+            "Name": "Neunkirchen District",
+            "NameAr": "نيونكيركهين ديستريكت"
+        },
+        {
+            "Code": "129211",
+            "Name": "Neusiedel am See/Neusiedler Lake",
+            "NameAr": "نيوسييديل ام سيي نيوسييدلير لاكي"
+        },
+        {
+            "Code": "130161",
+            "Name": "Neustift",
+            "NameAr": "نيوستيفت"
+        },
+        {
+            "Code": "130162",
+            "Name": "Neustift im Muhlkreis",
+            "NameAr": "نيوستيفت يم موهلكرييس"
+        },
+        {
+            "Code": "128771",
+            "Name": "Neutal",
+            "NameAr": "نيوتال"
+        },
+        {
+            "Code": "129458",
+            "Name": "Niederau",
+            "NameAr": "نييديراو"
+        },
+        {
+            "Code": "146884",
+            "Name": "Niederbreitenbach",
+            "NameAr": "نييديربرييتينباكه"
+        },
+        {
+            "Code": "130188",
+            "Name": "Niederndorf",
+            "NameAr": "نييديرندورف"
+        },
+        {
+            "Code": "146885",
+            "Name": "Niedernfritz",
+            "NameAr": "نييديرنفريتز"
+        },
+        {
+            "Code": "129461",
+            "Name": "Niedernsill",
+            "NameAr": "نييديرنسيلل"
+        },
+        {
+            "Code": "104817",
+            "Name": "Niederoblarn",
+            "NameAr": "نييديروبلارن"
+        },
+        {
+            "Code": "129462",
+            "Name": "Niederranna",
+            "NameAr": "نييديرراننا"
+        },
+        {
+            "Code": "129878",
+            "Name": "Niederthai",
+            "NameAr": "نييديرتهاي"
+        },
+        {
+            "Code": "131125",
+            "Name": "Niederwaldkirchen",
+            "NameAr": "نييديروالدكيركهين"
+        },
+        {
+            "Code": "129879",
+            "Name": "Niederwolz",
+            "NameAr": "نييديروولز"
+        },
+        {
+            "Code": "130541",
+            "Name": "Niklasdorf",
+            "NameAr": "نيكلاسدورف"
+        },
+        {
+            "Code": "131132",
+            "Name": "Nikolsdorf",
+            "NameAr": "نيكولسدورف"
+        },
+        {
+            "Code": "129911",
+            "Name": "Nochling",
+            "NameAr": "نوكهلينج"
+        },
+        {
+            "Code": "130202",
+            "Name": "Nockberge National Park",
+            "NameAr": "نوككبيرجي ناتيونال بارك"
+        },
+        {
+            "Code": "104278",
+            "Name": "Nondorf",
+            "NameAr": "نوندورف"
+        },
+        {
+            "Code": "146916",
+            "Name": "Notsch",
+            "NameAr": "نوتسكه"
+        },
+        {
+            "Code": "342943",
+            "Name": "Notsch im Gailtal",
+            "NameAr": "نوتسكه يم جايلتال"
+        },
+        {
+            "Code": "130920",
+            "Name": "Nu?dorf am Attersee",
+            "NameAr": "نودورف ام اتتيرسيي"
+        },
+        {
+            "Code": "131188",
+            "Name": "Nuziders",
+            "NameAr": "نوزيديرس"
+        },
+        {
+            "Code": "130588",
+            "Name": "Nuzidersberg",
+            "NameAr": "نوزيديرسبيرج"
+        },
+        {
+            "Code": "129541",
+            "Name": "Obdach",
+            "NameAr": "وبداكه"
+        },
+        {
+            "Code": "146944",
+            "Name": "Oberaichwald",
+            "NameAr": "وبيرايكهوالد"
+        },
+        {
+            "Code": "129967",
+            "Name": "Oberau",
+            "NameAr": "وبيراو"
+        },
+        {
+            "Code": "129546",
+            "Name": "Oberdrauburg",
+            "NameAr": "وبيردراوبورج"
+        },
+        {
+            "Code": "129550",
+            "Name": "Obergurgl",
+            "NameAr": "وبيرجورجل"
+        },
+        {
+            "Code": "129551",
+            "Name": "Oberhabach",
+            "NameAr": "وبيرهاباكه"
+        },
+        {
+            "Code": "131206",
+            "Name": "Oberhofen",
+            "NameAr": "وبيرهوفين"
+        },
+        {
+            "Code": "131228",
+            "Name": "Oberhofen im Inntal",
+            "NameAr": "وبيرهوفين يم يننتال"
+        },
+        {
+            "Code": "129970",
+            "Name": "Oberlech",
+            "NameAr": "وبيرليكه"
+        },
+        {
+            "Code": "130073",
+            "Name": "Obermieming",
+            "NameAr": "وبيرمييمينج"
+        },
+        {
+            "Code": "131229",
+            "Name": "Obermuhl",
+            "NameAr": "وبيرموهل"
+        },
+        {
+            "Code": "131876",
+            "Name": "Obernberg am Brenner",
+            "NameAr": "وبيرنبيرج ام بريننير"
+        },
+        {
+            "Code": "146951",
+            "Name": "Obernberg am Inn",
+            "NameAr": "وبيرنبيرج ام ينن"
+        },
+        {
+            "Code": "130600",
+            "Name": "Obernberg im Wipptal",
+            "NameAr": "وبيرنبيرج يم ويببتال"
+        },
+        {
+            "Code": "129555",
+            "Name": "Oberndorf",
+            "NameAr": "وبيرندورف"
+        },
+        {
+            "Code": "131878",
+            "Name": "Oberperfuss",
+            "NameAr": "وبيربيرفوسس"
+        },
+        {
+            "Code": "146954",
+            "Name": "Oberpullendorf",
+            "NameAr": "وبيربولليندورف"
+        },
+        {
+            "Code": "129973",
+            "Name": "Obersammelsdorf",
+            "NameAr": "وبيرسامميلسدورف"
+        },
+        {
+            "Code": "129976",
+            "Name": "Obertilliach",
+            "NameAr": "وبيرتيللياكه"
+        },
+        {
+            "Code": "146957",
+            "Name": "Obertraun",
+            "NameAr": "وبيرتراون"
+        },
+        {
+            "Code": "146958",
+            "Name": "Obertrum",
+            "NameAr": "وبيرتروم"
+        },
+        {
+            "Code": "146959",
+            "Name": "Obervellach",
+            "NameAr": "وبيرفيللاكه"
+        },
+        {
+            "Code": "130937",
+            "Name": "Oberwang",
+            "NameAr": "وبيروانج"
+        },
+        {
+            "Code": "130211",
+            "Name": "Oberwart",
+            "NameAr": "وبيروارت"
+        },
+        {
+            "Code": "130938",
+            "Name": "Oberwolz",
+            "NameAr": "وبيروولز"
+        },
+        {
+            "Code": "130939",
+            "Name": "Oberzeiring",
+            "NameAr": "وبيرزييرينج"
+        },
+        {
+            "Code": "146965",
+            "Name": "Obsteig",
+            "NameAr": "وبستييج"
+        },
+        {
+            "Code": "130945",
+            "Name": "Ochsengarten",
+            "NameAr": "وكهسينجارتين"
+        },
+        {
+            "Code": "130218",
+            "Name": "Oetz",
+            "NameAr": "ويتز"
+        },
+        {
+            "Code": "146999",
+            "Name": "Ollern",
+            "NameAr": "ولليرن"
+        },
+        {
+            "Code": "147000",
+            "Name": "Ollersdorf",
+            "NameAr": "ولليرسدورف"
+        },
+        {
+            "Code": "147027",
+            "Name": "Ort im Innkreis",
+            "NameAr": "ورت يم يننكرييس"
+        },
+        {
+            "Code": "131674",
+            "Name": "Orth an der Donau",
+            "NameAr": "ورته ان دير دوناو"
+        },
+        {
+            "Code": "131341",
+            "Name": "Ossiach",
+            "NameAr": "وسسياكه"
+        },
+        {
+            "Code": "130830",
+            "Name": "Ottenschlag",
+            "NameAr": "وتتينسكهلاج"
+        },
+        {
+            "Code": "147038",
+            "Name": "Ottensheim",
+            "NameAr": "وتتينسهييم"
+        },
+        {
+            "Code": "131725",
+            "Name": "Paldau",
+            "NameAr": "بالداو"
+        },
+        {
+            "Code": "131389",
+            "Name": "Palfau",
+            "NameAr": "بالفاو"
+        },
+        {
+            "Code": "132665",
+            "Name": "Palt",
+            "NameAr": "بالت"
+        },
+        {
+            "Code": "130760",
+            "Name": "Pamhagen",
+            "NameAr": "بامهاجين"
+        },
+        {
+            "Code": "131456",
+            "Name": "Parndorf",
+            "NameAr": "بارندورف"
+        },
+        {
+            "Code": "131460",
+            "Name": "Partenen",
+            "NameAr": "بارتينين"
+        },
+        {
+            "Code": "103418",
+            "Name": "Pasching",
+            "NameAr": "باسكهينج"
+        },
+        {
+            "Code": "132062",
+            "Name": "Passail",
+            "NameAr": "باسسايل"
+        },
+        {
+            "Code": "132064",
+            "Name": "Patergassen",
+            "NameAr": "باتيرجاسسين"
+        },
+        {
+            "Code": "131565",
+            "Name": "Paternion",
+            "NameAr": "باتيرنيون"
+        },
+        {
+            "Code": "131423",
+            "Name": "Patsch",
+            "NameAr": "باتسكه"
+        },
+        {
+            "Code": "131474",
+            "Name": "Payerbach",
+            "NameAr": "باييرباكه"
+        },
+        {
+            "Code": "132443",
+            "Name": "Pellendorf",
+            "NameAr": "بيلليندورف"
+        },
+        {
+            "Code": "132091",
+            "Name": "Penk",
+            "NameAr": "بينك"
+        },
+        {
+            "Code": "132095",
+            "Name": "Perchtoldsdorf",
+            "NameAr": "بيركهتولدسدورف"
+        },
+        {
+            "Code": "132130",
+            "Name": "Perg",
+            "NameAr": "بيرج"
+        },
+        {
+            "Code": "132735",
+            "Name": "Pernitz",
+            "NameAr": "بيرنيتز"
+        },
+        {
+            "Code": "132740",
+            "Name": "Persenbeug-Gottsdorf",
+            "NameAr": "بيرسينبيوج-جوتتسدورف"
+        },
+        {
+            "Code": "147163",
+            "Name": "Pertisau",
+            "NameAr": "بيرتيساو"
+        },
+        {
+            "Code": "131061",
+            "Name": "Perwang am Grabensee",
+            "NameAr": "بيروانج ام جرابينسيي"
+        },
+        {
+            "Code": "131611",
+            "Name": "Petronell-Carnuntum",
+            "NameAr": "بيترونيلل-كارنونتوم"
+        },
+        {
+            "Code": "132147",
+            "Name": "Pettenbach",
+            "NameAr": "بيتتينباكه"
+        },
+        {
+            "Code": "132750",
+            "Name": "Pettneu",
+            "NameAr": "بيتتنيو"
+        },
+        {
+            "Code": "132149",
+            "Name": "Pfaffenhofen",
+            "NameAr": "بفاففينهوفين"
+        },
+        {
+            "Code": "132482",
+            "Name": "Pfarrwerfen",
+            "NameAr": "بفاررويرفين"
+        },
+        {
+            "Code": "132485",
+            "Name": "Pflach",
+            "NameAr": "بفلاكه"
+        },
+        {
+            "Code": "131520",
+            "Name": "Pfons",
+            "NameAr": "بفونس"
+        },
+        {
+            "Code": "131615",
+            "Name": "Pfunds",
+            "NameAr": "بفوندس"
+        },
+        {
+            "Code": "132498",
+            "Name": "Pichl",
+            "NameAr": "بيكهل"
+        },
+        {
+            "Code": "147187",
+            "Name": "Piesendorf",
+            "NameAr": "بييسيندورف"
+        },
+        {
+            "Code": "131638",
+            "Name": "Pill",
+            "NameAr": "بيلل"
+        },
+        {
+            "Code": "131639",
+            "Name": "Pillersee",
+            "NameAr": "بيلليرسيي"
+        },
+        {
+            "Code": "132521",
+            "Name": "Pinkafeld",
+            "NameAr": "بينكافيلد"
+        },
+        {
+            "Code": "132184",
+            "Name": "Pinswang",
+            "NameAr": "بينسوانج"
+        },
+        {
+            "Code": "132524",
+            "Name": "Pirkdorfer See",
+            "NameAr": "بيركدورفير سيي"
+        },
+        {
+            "Code": "132810",
+            "Name": "Pischeldorf",
+            "NameAr": "بيسكهيلدورف"
+        },
+        {
+            "Code": "131652",
+            "Name": "Pischelsdorf",
+            "NameAr": "بيسكهيلسدورف"
+        },
+        {
+            "Code": "147254",
+            "Name": "Pochlarn",
+            "NameAr": "بوكهلارن"
+        },
+        {
+            "Code": "133471",
+            "Name": "Podersdorf",
+            "NameAr": "بوديرسدورف"
+        },
+        {
+            "Code": "147257",
+            "Name": "Poggstall",
+            "NameAr": "بوججستالل"
+        },
+        {
+            "Code": "133220",
+            "Name": "Pollau",
+            "NameAr": "بوللاو"
+        },
+        {
+            "Code": "132879",
+            "Name": "Polling im Innkreis",
+            "NameAr": "بوللينج يم يننكرييس"
+        },
+        {
+            "Code": "132882",
+            "Name": "Pols",
+            "NameAr": "بولس"
+        },
+        {
+            "Code": "133549",
+            "Name": "Poppendorf",
+            "NameAr": "بوببيندورف"
+        },
+        {
+            "Code": "132939",
+            "Name": "Portschach",
+            "NameAr": "بورتسكهاكه"
+        },
+        {
+            "Code": "132994",
+            "Name": "Poysdorf",
+            "NameAr": "بويسدورف"
+        },
+        {
+            "Code": "133287",
+            "Name": "Pragraten",
+            "NameAr": "براجراتين"
+        },
+        {
+            "Code": "134320",
+            "Name": "Prebl",
+            "NameAr": "بريبل"
+        },
+        {
+            "Code": "132538",
+            "Name": "Predlitz",
+            "NameAr": "بريدليتز"
+        },
+        {
+            "Code": "147359",
+            "Name": "Pressbaum",
+            "NameAr": "بريسسباوم"
+        },
+        {
+            "Code": "133109",
+            "Name": "Proleb",
+            "NameAr": "بروليب"
+        },
+        {
+            "Code": "133033",
+            "Name": "Pruggern",
+            "NameAr": "بروججيرن"
+        },
+        {
+            "Code": "132557",
+            "Name": "Prutz",
+            "NameAr": "بروتز"
+        },
+        {
+            "Code": "132558",
+            "Name": "Puch bei Hallein",
+            "NameAr": "بوكه بيي هالليين"
+        },
+        {
+            "Code": "133117",
+            "Name": "Puch bei Weiz",
+            "NameAr": "بوكه بيي وييز"
+        },
+        {
+            "Code": "132559",
+            "Name": "Puchberg",
+            "NameAr": "بوكهبيرج"
+        },
+        {
+            "Code": "133978",
+            "Name": "Puchenstuben",
+            "NameAr": "بوكهينستوبين"
+        },
+        {
+            "Code": "133137",
+            "Name": "Purbach am Neusiedler See",
+            "NameAr": "بورباكه ام نيوسييدلير سيي"
+        },
+        {
+            "Code": "133138",
+            "Name": "Purgstall an der Erlauf",
+            "NameAr": "بورجستالل ان دير يرلاوف"
+        },
+        {
+            "Code": "132594",
+            "Name": "Purkersdorf",
+            "NameAr": "بوركيرسدورف"
+        },
+        {
+            "Code": "134192",
+            "Name": "Raabs an der Thaya",
+            "NameAr": "راابس ان دير تهايا"
+        },
+        {
+            "Code": "134031",
+            "Name": "Rabenstein",
+            "NameAr": "رابينستيين"
+        },
+        {
+            "Code": "134034",
+            "Name": "Radenthein",
+            "NameAr": "رادينتهيين"
+        },
+        {
+            "Code": "133663",
+            "Name": "Radfeld",
+            "NameAr": "رادفيلد"
+        },
+        {
+            "Code": "134204",
+            "Name": "Radstadt",
+            "NameAr": "رادستادت"
+        },
+        {
+            "Code": "133667",
+            "Name": "Raggal",
+            "NameAr": "راججال"
+        },
+        {
+            "Code": "160832",
+            "Name": "Ragnitz",
+            "NameAr": "راجنيتز"
+        },
+        {
+            "Code": "133671",
+            "Name": "Rainbach im Muhlkreis",
+            "NameAr": "راينباكه يم موهلكرييس"
+        },
+        {
+            "Code": "133674",
+            "Name": "Ramingstein",
+            "NameAr": "رامينجستيين"
+        },
+        {
+            "Code": "134048",
+            "Name": "Ramsau",
+            "NameAr": "رامساو"
+        },
+        {
+            "Code": "132627",
+            "Name": "Ramsau am Dachstein",
+            "NameAr": "رامساو ام داكهستيين"
+        },
+        {
+            "Code": "132635",
+            "Name": "Rangersdorf",
+            "NameAr": "رانجيرسدورف"
+        },
+        {
+            "Code": "132636",
+            "Name": "Rankweil",
+            "NameAr": "رانكوييل"
+        },
+        {
+            "Code": "135050",
+            "Name": "Ranten",
+            "NameAr": "رانتين"
+        },
+        {
+            "Code": "134054",
+            "Name": "Rappottenstein",
+            "NameAr": "راببوتتينستيين"
+        },
+        {
+            "Code": "133292",
+            "Name": "Rastenfeld",
+            "NameAr": "راستينفيلد"
+        },
+        {
+            "Code": "135059",
+            "Name": "Ratten",
+            "NameAr": "راتتين"
+        },
+        {
+            "Code": "133850",
+            "Name": "Rattenberg",
+            "NameAr": "راتتينبيرج"
+        },
+        {
+            "Code": "133851",
+            "Name": "Rattendorf",
+            "NameAr": "راتتيندورف"
+        },
+        {
+            "Code": "133778",
+            "Name": "Rauris",
+            "NameAr": "راوريس"
+        },
+        {
+            "Code": "133784",
+            "Name": "Rechberg",
+            "NameAr": "ريكهبيرج"
+        },
+        {
+            "Code": "133709",
+            "Name": "Reichenau",
+            "NameAr": "رييكهيناو"
+        },
+        {
+            "Code": "133710",
+            "Name": "Reichenau-Hellmonsodt",
+            "NameAr": "رييكهيناو-هيللمونسودت"
+        },
+        {
+            "Code": "133711",
+            "Name": "Reichenfels",
+            "NameAr": "رييكهينفيلس"
+        },
+        {
+            "Code": "133878",
+            "Name": "Reichraming",
+            "NameAr": "رييكهرامينج"
+        },
+        {
+            "Code": "134242",
+            "Name": "Reifnitz",
+            "NameAr": "رييفنيتز"
+        },
+        {
+            "Code": "133716",
+            "Name": "Reindlmuhl",
+            "NameAr": "رييندلموهل"
+        },
+        {
+            "Code": "133321",
+            "Name": "Reisseck",
+            "NameAr": "رييسسيكك"
+        },
+        {
+            "Code": "147491",
+            "Name": "Reith",
+            "NameAr": "رييته"
+        },
+        {
+            "Code": "135078",
+            "Name": "Reith bei (by) Seefeld",
+            "NameAr": "رييته بيي بي سييفيلد"
+        },
+        {
+            "Code": "134246",
+            "Name": "Reith im Alpbachtal",
+            "NameAr": "رييته يم البباكهتال"
+        },
+        {
+            "Code": "133722",
+            "Name": "Rennweg",
+            "NameAr": "ريننويج"
+        },
+        {
+            "Code": "133723",
+            "Name": "Rennweg am Katschberg",
+            "NameAr": "ريننويج ام كاتسكهبيرج"
+        },
+        {
+            "Code": "133804",
+            "Name": "Retz",
+            "NameAr": "ريتز"
+        },
+        {
+            "Code": "134750",
+            "Name": "Reuthe",
+            "NameAr": "ريوتهي"
+        },
+        {
+            "Code": "133808",
+            "Name": "Reutte",
+            "NameAr": "ريوتتي"
+        },
+        {
+            "Code": "135107",
+            "Name": "Ried",
+            "NameAr": "رييد"
+        },
+        {
+            "Code": "133915",
+            "Name": "Ried im Innkreis",
+            "NameAr": "رييد يم يننكرييس"
+        },
+        {
+            "Code": "134767",
+            "Name": "Ried im Traunkreis",
+            "NameAr": "رييد يم تراونكرييس"
+        },
+        {
+            "Code": "135108",
+            "Name": "Ried im Zillertal",
+            "NameAr": "رييد يم زيلليرتال"
+        },
+        {
+            "Code": "134398",
+            "Name": "Riefensberg",
+            "NameAr": "رييفينسبيرج"
+        },
+        {
+            "Code": "134914",
+            "Name": "Riegersburg",
+            "NameAr": "رييجيرسبورج"
+        },
+        {
+            "Code": "134399",
+            "Name": "Riegersburg / Hardegg",
+            "NameAr": "رييجيرسبورج هارديجج"
+        },
+        {
+            "Code": "147522",
+            "Name": "Rietz",
+            "NameAr": "رييتز"
+        },
+        {
+            "Code": "134401",
+            "Name": "Riezlern",
+            "NameAr": "رييزليرن"
+        },
+        {
+            "Code": "134778",
+            "Name": "Rinn",
+            "NameAr": "رينن"
+        },
+        {
+            "Code": "134056",
+            "Name": "Rohr im Gebirge",
+            "NameAr": "روهر يم جيبيرجي"
+        },
+        {
+            "Code": "134959",
+            "Name": "Rohrbach",
+            "NameAr": "روهرباكه"
+        },
+        {
+            "Code": "333134",
+            "Name": "Rohrbach District",
+            "NameAr": "روهرباكه ديستريكت"
+        },
+        {
+            "Code": "134057",
+            "Name": "Rohrmoos",
+            "NameAr": "روهرمووس"
+        },
+        {
+            "Code": "134539",
+            "Name": "Roppen",
+            "NameAr": "روببين"
+        },
+        {
+            "Code": "134626",
+            "Name": "Rosegg",
+            "NameAr": "روسيجج"
+        },
+        {
+            "Code": "134546",
+            "Name": "Rosenau am Hengstpa?",
+            "NameAr": "روسيناو ام هينجستبا"
+        },
+        {
+            "Code": "135443",
+            "Name": "Rossatz",
+            "NameAr": "روسساتز"
+        },
+        {
+            "Code": "134632",
+            "Name": "Rossleithen",
+            "NameAr": "روسسلييتهين"
+        },
+        {
+            "Code": "134559",
+            "Name": "Rothenthurn",
+            "NameAr": "روتهينتهورن"
+        },
+        {
+            "Code": "134636",
+            "Name": "Rothis",
+            "NameAr": "روتهيس"
+        },
+        {
+            "Code": "135787",
+            "Name": "Ru?bach",
+            "NameAr": "روباكه"
+        },
+        {
+            "Code": "135464",
+            "Name": "Ruden-St. Martin",
+            "NameAr": "رودين-ست مارتين"
+        },
+        {
+            "Code": "147585",
+            "Name": "Rum",
+            "NameAr": "روم"
+        },
+        {
+            "Code": "233484",
+            "Name": "Russbach am Pass Gschutt",
+            "NameAr": "روسسباكه ام باسس جسكهوتت"
+        },
+        {
+            "Code": "134107",
+            "Name": "Rust",
+            "NameAr": "روست"
+        },
+        {
+            "Code": "135150",
+            "Name": "Rutzenham",
+            "NameAr": "روتزينهام"
+        },
+        {
+            "Code": "134109",
+            "Name": "Rutzenmoos",
+            "NameAr": "روتزينمووس"
+        },
+        {
+            "Code": "135230",
+            "Name": "Saalbach",
+            "NameAr": "ساالباكه"
+        },
+        {
+            "Code": "135011",
+            "Name": "Saalfelden",
+            "NameAr": "ساالفيلدين"
+        },
+        {
+            "Code": "245460",
+            "Name": "Saalfelden am Steinernen Meer",
+            "NameAr": "ساالفيلدين ام ستيينيرنين ميير"
+        },
+        {
+            "Code": "103628",
+            "Name": "Sachsenburg",
+            "NameAr": "ساكهسينبورج"
+        },
+        {
+            "Code": "136456",
+            "Name": "Salzburg",
+            "NameAr": "سالزبورج"
+        },
+        {
+            "Code": "137143",
+            "Name": "Sankt Agatha",
+            "NameAr": "سانكت اجاتها"
+        },
+        {
+            "Code": "160791",
+            "Name": "Sankt Christophe",
+            "NameAr": "سانكت كهريستوبهي"
+        },
+        {
+            "Code": "136502",
+            "Name": "Sankt Gallen",
+            "NameAr": "سانكت جاللين"
+        },
+        {
+            "Code": "136047",
+            "Name": "Sankt Georgen ob Murau",
+            "NameAr": "سانكت جيورجين وب موراو"
+        },
+        {
+            "Code": "135989",
+            "Name": "Sankt Gerold",
+            "NameAr": "سانكت جيرولد"
+        },
+        {
+            "Code": "135535",
+            "Name": "Sankt Jakob im Walde",
+            "NameAr": "سانكت جاكوب يم والدي"
+        },
+        {
+            "Code": "147722",
+            "Name": "Sankt Jakob in Haus",
+            "NameAr": "سانكت جاكوب ين هاوس"
+        },
+        {
+            "Code": "136829",
+            "Name": "Sankt Jodok am Brenner",
+            "NameAr": "سانكت جودوك ام بريننير"
+        },
+        {
+            "Code": "136353",
+            "Name": "Sankt Johann bei Herberstein",
+            "NameAr": "سانكت جوهانن بيي هيربيرستيين"
+        },
+        {
+            "Code": "408041",
+            "Name": "Sankt Johann in Tirol",
+            "NameAr": "سانكت جوهانن ين تيرول"
+        },
+        {
+            "Code": "147724",
+            "Name": "Sankt Lorenzen im Lesachtal",
+            "NameAr": "سانكت لورينزين يم ليساكهتال"
+        },
+        {
+            "Code": "135536",
+            "Name": "Sankt Lorenzen ob Murau",
+            "NameAr": "سانكت لورينزين وب موراو"
+        },
+        {
+            "Code": "137145",
+            "Name": "Sankt Magdalena am Lemberg",
+            "NameAr": "سانكت ماجدالينا ام ليمبيرج"
+        },
+        {
+            "Code": "136830",
+            "Name": "Sankt Margarethen im Lavanttal",
+            "NameAr": "سانكت مارجاريتهين يم لافانتتال"
+        },
+        {
+            "Code": "135990",
+            "Name": "Sankt Martin an der Raab",
+            "NameAr": "سانكت مارتين ان دير رااب"
+        },
+        {
+            "Code": "136048",
+            "Name": "Sankt Nikola an der Donau",
+            "NameAr": "سانكت نيكولا ان دير دوناو"
+        },
+        {
+            "Code": "137146",
+            "Name": "Sankt Oswald",
+            "NameAr": "سانكت وسوالد"
+        },
+        {
+            "Code": "136354",
+            "Name": "Sankt Oswald bei Freistadt",
+            "NameAr": "سانكت وسوالد بيي فرييستادت"
+        },
+        {
+            "Code": "136503",
+            "Name": "Sankt Oswald-Moderbrugg",
+            "NameAr": "سانكت وسوالد-موديربروجج"
+        },
+        {
+            "Code": "136049",
+            "Name": "Sankt Pankraz",
+            "NameAr": "سانكت بانكراز"
+        },
+        {
+            "Code": "136050",
+            "Name": "Sankt Peter im Sulmtal",
+            "NameAr": "سانكت بيتير يم سولمتال"
+        },
+        {
+            "Code": "160873",
+            "Name": "Sankt Primus Am Turnersee\t\t",
+            "NameAr": "سانكت بريموس ام تورنيرسيي"
+        },
+        {
+            "Code": "135537",
+            "Name": "Sankt Radegund bei Graz",
+            "NameAr": "سانكت راديجوند بيي جراز"
+        },
+        {
+            "Code": "135538",
+            "Name": "Sankt Ruprecht an der Raab",
+            "NameAr": "سانكت روبريكهت ان دير رااب"
+        },
+        {
+            "Code": "136831",
+            "Name": "Sankt Stefan im Rosental",
+            "NameAr": "سانكت ستيفان يم روسينتال"
+        },
+        {
+            "Code": "137147",
+            "Name": "Sankt Stefan ob Stainz",
+            "NameAr": "سانكت ستيفان وب ستاينز"
+        },
+        {
+            "Code": "135991",
+            "Name": "Sankt Ulrich (Feldkirchen)",
+            "NameAr": "سانكت ولريكه فيلدكيركهين"
+        },
+        {
+            "Code": "136832",
+            "Name": "Sankt Ulrich (Villach)",
+            "NameAr": "سانكت ولريكه فيللاكه"
+        },
+        {
+            "Code": "135992",
+            "Name": "Sankt Ulrich am Pillersee",
+            "NameAr": "سانكت ولريكه ام بيلليرسيي"
+        },
+        {
+            "Code": "135993",
+            "Name": "Sankt Valentin",
+            "NameAr": "سانكت فالينتين"
+        },
+        {
+            "Code": "101291",
+            "Name": "Sankt Veit an der Glan",
+            "NameAr": "سانكت فييت ان دير جلان"
+        },
+        {
+            "Code": "159836",
+            "Name": "Sankt Veit im Pongau,   Salzburg (state)",
+            "NameAr": "سانكت فييت يم بونجاو سالزبورج ستاتي"
+        },
+        {
+            "Code": "136833",
+            "Name": "Sankt Veit in Defereggen",
+            "NameAr": "سانكت فييت ين ديفيريججين"
+        },
+        {
+            "Code": "136355",
+            "Name": "Sankt Wolfgang-Kienberg",
+            "NameAr": "سانكت وولفجانج-كيينبيرج"
+        },
+        {
+            "Code": "136881",
+            "Name": "Sattendorf",
+            "NameAr": "ساتتيندورف"
+        },
+        {
+            "Code": "136561",
+            "Name": "Sattledt",
+            "NameAr": "ساتتليدت"
+        },
+        {
+            "Code": "136104",
+            "Name": "Sautens",
+            "NameAr": "ساوتينس"
+        },
+        {
+            "Code": "136581",
+            "Name": "Schardenberg",
+            "NameAr": "سكهاردينبيرج"
+        },
+        {
+            "Code": "136929",
+            "Name": "Scharding",
+            "NameAr": "سكهاردينج"
+        },
+        {
+            "Code": "136930",
+            "Name": "Scharnitz",
+            "NameAr": "سكهارنيتز"
+        },
+        {
+            "Code": "137882",
+            "Name": "Schattwald",
+            "NameAr": "سكهاتتوالد"
+        },
+        {
+            "Code": "136666",
+            "Name": "Scheffau",
+            "NameAr": "سكهيففاو"
+        },
+        {
+            "Code": "136670",
+            "Name": "Scheifling",
+            "NameAr": "سكهييفلينج"
+        },
+        {
+            "Code": "136935",
+            "Name": "Schiefling",
+            "NameAr": "سكهييفلينج"
+        },
+        {
+            "Code": "136902",
+            "Name": "Schladming",
+            "NameAr": "سكهلادمينج"
+        },
+        {
+            "Code": "137895",
+            "Name": "Schlierbach",
+            "NameAr": "سكهلييرباكه"
+        },
+        {
+            "Code": "136716",
+            "Name": "Schlitters",
+            "NameAr": "سكهليتتيرس"
+        },
+        {
+            "Code": "136906",
+            "Name": "Schlogen",
+            "NameAr": "سكهلوجين"
+        },
+        {
+            "Code": "147808",
+            "Name": "Schloss Rosenau",
+            "NameAr": "سكهلوسس روسيناو"
+        },
+        {
+            "Code": "136210",
+            "Name": "Schlusslberg",
+            "NameAr": "سكهلوسسلبيرج"
+        },
+        {
+            "Code": "137901",
+            "Name": "Schnifis",
+            "NameAr": "سكهنيفيس"
+        },
+        {
+            "Code": "137902",
+            "Name": "Schoder",
+            "NameAr": "سكهودير"
+        },
+        {
+            "Code": "136723",
+            "Name": "Schonau im Muhlkreis",
+            "NameAr": "سكهوناو يم موهلكرييس"
+        },
+        {
+            "Code": "136724",
+            "Name": "Schonbach",
+            "NameAr": "سكهونباكه"
+        },
+        {
+            "Code": "147812",
+            "Name": "Schonberg",
+            "NameAr": "سكهونبيرج"
+        },
+        {
+            "Code": "136947",
+            "Name": "Schonberg am Kamp",
+            "NameAr": "سكهونبيرج ام كامب"
+        },
+        {
+            "Code": "136948",
+            "Name": "Schonberg-Lachtal",
+            "NameAr": "سكهونبيرج-لاكهتال"
+        },
+        {
+            "Code": "136725",
+            "Name": "Schonbuhel",
+            "NameAr": "سكهونبوهيل"
+        },
+        {
+            "Code": "136728",
+            "Name": "Schoppernau",
+            "NameAr": "سكهوببيرناو"
+        },
+        {
+            "Code": "137672",
+            "Name": "Schorfling",
+            "NameAr": "سكهورفلينج"
+        },
+        {
+            "Code": "136225",
+            "Name": "Schrocken",
+            "NameAr": "سكهروككين"
+        },
+        {
+            "Code": "137912",
+            "Name": "Schruns",
+            "NameAr": "سكهرونس"
+        },
+        {
+            "Code": "137232",
+            "Name": "Schuttdorf",
+            "NameAr": "سكهوتتدورف"
+        },
+        {
+            "Code": "136228",
+            "Name": "Schwanberg",
+            "NameAr": "سكهوانبيرج"
+        },
+        {
+            "Code": "136233",
+            "Name": "Schwarzenberg",
+            "NameAr": "سكهوارزينبيرج"
+        },
+        {
+            "Code": "137335",
+            "Name": "Schwarzenberg im Bohmerwald (in the Bohemian nForest)",
+            "NameAr": "سكهوارزينبيرج يم بوهميروالد ين تهي بوهيميان نفوريست"
+        },
+        {
+            "Code": "137682",
+            "Name": "Schwaz",
+            "NameAr": "سكهواز"
+        },
+        {
+            "Code": "136733",
+            "Name": "Schwechat",
+            "NameAr": "سكهويكهات"
+        },
+        {
+            "Code": "137337",
+            "Name": "Schwendau",
+            "NameAr": "سكهوينداو"
+        },
+        {
+            "Code": "137238",
+            "Name": "Schwendt",
+            "NameAr": "سكهويندت"
+        },
+        {
+            "Code": "137684",
+            "Name": "Schwoich",
+            "NameAr": "سكهوويكه"
+        },
+        {
+            "Code": "137342",
+            "Name": "Sebersdorf",
+            "NameAr": "سيبيرسدورف"
+        },
+        {
+            "Code": "137343",
+            "Name": "Seckau",
+            "NameAr": "سيككاو"
+        },
+        {
+            "Code": "147836",
+            "Name": "See",
+            "NameAr": "سيي"
+        },
+        {
+            "Code": "137943",
+            "Name": "See /Ischgl",
+            "NameAr": "سيي يسكهجل"
+        },
+        {
+            "Code": "147837",
+            "Name": "Seeboden",
+            "NameAr": "سييبودين"
+        },
+        {
+            "Code": "136976",
+            "Name": "Seefeld",
+            "NameAr": "سييفيلد"
+        },
+        {
+            "Code": "136978",
+            "Name": "Seefeld-Kadolz",
+            "NameAr": "سييفيلد-كادولز"
+        },
+        {
+            "Code": "136979",
+            "Name": "Seeham",
+            "NameAr": "سييهام"
+        },
+        {
+            "Code": "147840",
+            "Name": "Seekirchen",
+            "NameAr": "سييكيركهين"
+        },
+        {
+            "Code": "137347",
+            "Name": "Seelach",
+            "NameAr": "سييلاكه"
+        },
+        {
+            "Code": "136981",
+            "Name": "Seewalchen",
+            "NameAr": "سييوالكهين"
+        },
+        {
+            "Code": "137701",
+            "Name": "Seewiesen",
+            "NameAr": "سييوييسين"
+        },
+        {
+            "Code": "137352",
+            "Name": "Seiersberg",
+            "NameAr": "سيييرسبيرج"
+        },
+        {
+            "Code": "136753",
+            "Name": "Seitenstetten",
+            "NameAr": "سييتينستيتتين"
+        },
+        {
+            "Code": "136759",
+            "Name": "Semmering",
+            "NameAr": "سيمميرينج"
+        },
+        {
+            "Code": "137965",
+            "Name": "Semriach",
+            "NameAr": "سيمرياكه"
+        },
+        {
+            "Code": "136764",
+            "Name": "Senftenberg",
+            "NameAr": "سينفتينبيرج"
+        },
+        {
+            "Code": "137367",
+            "Name": "Serfaus",
+            "NameAr": "سيرفاوس"
+        },
+        {
+            "Code": "138681",
+            "Name": "Sibratsgfall",
+            "NameAr": "سيبراتسجفالل"
+        },
+        {
+            "Code": "137411",
+            "Name": "Siegenfeld",
+            "NameAr": "سييجينفيلد"
+        },
+        {
+            "Code": "147904",
+            "Name": "Sierning",
+            "NameAr": "سييرنينج"
+        },
+        {
+            "Code": "138690",
+            "Name": "Siezenheim",
+            "NameAr": "سييزينهييم"
+        },
+        {
+            "Code": "137461",
+            "Name": "Silbertal",
+            "NameAr": "سيلبيرتال"
+        },
+        {
+            "Code": "137463",
+            "Name": "Sillian",
+            "NameAr": "سيلليان"
+        },
+        {
+            "Code": "137019",
+            "Name": "Sillian-Heinfels",
+            "NameAr": "سيلليان-هيينفيلس"
+        },
+        {
+            "Code": "137022",
+            "Name": "Silz",
+            "NameAr": "سيلز"
+        },
+        {
+            "Code": "137479",
+            "Name": "Sirnitz",
+            "NameAr": "سيرنيتز"
+        },
+        {
+            "Code": "138038",
+            "Name": "Sochau",
+            "NameAr": "سوكهاو"
+        },
+        {
+            "Code": "137660",
+            "Name": "Solden",
+            "NameAr": "سولدين"
+        },
+        {
+            "Code": "138473",
+            "Name": "Soll",
+            "NameAr": "سولل"
+        },
+        {
+            "Code": "137521",
+            "Name": "Sonntag",
+            "NameAr": "سوننتاج"
+        },
+        {
+            "Code": "137108",
+            "Name": "Spielberg bei Knittelfeld",
+            "NameAr": "سبييلبيرج بيي كنيتتيلفيلد"
+        },
+        {
+            "Code": "137544",
+            "Name": "Spiss",
+            "NameAr": "سبيسس"
+        },
+        {
+            "Code": "138175",
+            "Name": "Spital am Pyhrn",
+            "NameAr": "سبيتال ام بيهرن"
+        },
+        {
+            "Code": "139444",
+            "Name": "Spital/Semmering",
+            "NameAr": "سبيتال سيمميرينج"
+        },
+        {
+            "Code": "137110",
+            "Name": "Spittal an der Drau",
+            "NameAr": "سبيتتال ان دير دراو"
+        },
+        {
+            "Code": "147988",
+            "Name": "Spitz",
+            "NameAr": "سبيتز"
+        },
+        {
+            "Code": "137121",
+            "Name": "St Georgen im Lavanttal",
+            "NameAr": "ست جيورجين يم لافانتتال"
+        },
+        {
+            "Code": "138527",
+            "Name": "St Koloman",
+            "NameAr": "ست كولومان"
+        },
+        {
+            "Code": "138528",
+            "Name": "St. Aegyd am Neuwalde",
+            "NameAr": "ست ايجيد ام نيووالدي"
+        },
+        {
+            "Code": "138193",
+            "Name": "St. Andra",
+            "NameAr": "ست اندرا"
+        },
+        {
+            "Code": "138372",
+            "Name": "St. Andra am Zicksee",
+            "NameAr": "ست اندرا ام زيككسيي"
+        },
+        {
+            "Code": "106922",
+            "Name": "St. Andra im Sausal",
+            "NameAr": "ست اندرا يم ساوسال"
+        },
+        {
+            "Code": "137127",
+            "Name": "St. Anton (am Arlberg)",
+            "NameAr": "ست انتون ام ارلبيرج"
+        },
+        {
+            "Code": "138100",
+            "Name": "St. Anton im Montafon",
+            "NameAr": "ست انتون يم مونتافون"
+        },
+        {
+            "Code": "138532",
+            "Name": "St. Blasen",
+            "NameAr": "ست بلاسين"
+        },
+        {
+            "Code": "139466",
+            "Name": "St. Christoph",
+            "NameAr": "ست كهريستوبه"
+        },
+        {
+            "Code": "148005",
+            "Name": "St. Corona am Wechsel",
+            "NameAr": "ست كورونا ام ويكهسيل"
+        },
+        {
+            "Code": "138381",
+            "Name": "St. Egyden",
+            "NameAr": "ست يجيدين"
+        },
+        {
+            "Code": "148008",
+            "Name": "St. Florian",
+            "NameAr": "ست فلوريان"
+        },
+        {
+            "Code": "137775",
+            "Name": "St. Gallenkirch",
+            "NameAr": "ست جاللينكيركه"
+        },
+        {
+            "Code": "139200",
+            "Name": "St. Georgen am Langsee (by Lake Lang)",
+            "NameAr": "ست جيورجين ام لانجسيي بي لاكي لانج"
+        },
+        {
+            "Code": "139201",
+            "Name": "St. Georgen im Attergau",
+            "NameAr": "ست جيورجين يم اتتيرجاو"
+        },
+        {
+            "Code": "139469",
+            "Name": "St. Gertraud",
+            "NameAr": "ست جيرتراود"
+        },
+        {
+            "Code": "138766",
+            "Name": "St. Gilgen",
+            "NameAr": "ست جيلجين"
+        },
+        {
+            "Code": "139471",
+            "Name": "St. Gotthard",
+            "NameAr": "ست جوتتهارد"
+        },
+        {
+            "Code": "138388",
+            "Name": "St. Jakob",
+            "NameAr": "ست جاكوب"
+        },
+        {
+            "Code": "138202",
+            "Name": "St. Jakob in Defereggen",
+            "NameAr": "ست جاكوب ين ديفيريججين"
+        },
+        {
+            "Code": "138768",
+            "Name": "St. Jakob In Haus",
+            "NameAr": "ست جاكوب ين هاوس"
+        },
+        {
+            "Code": "137779",
+            "Name": "St. Johann",
+            "NameAr": "ست جوهانن"
+        },
+        {
+            "Code": "138204",
+            "Name": "St. Johann am Tauern",
+            "NameAr": "ست جوهانن ام تاويرن"
+        },
+        {
+            "Code": "139207",
+            "Name": "St. Johann im Pongau",
+            "NameAr": "ست جوهانن يم بونجاو"
+        },
+        {
+            "Code": "139208",
+            "Name": "St. Johann in der Haide",
+            "NameAr": "ست جوهانن ين دير هايدي"
+        },
+        {
+            "Code": "148011",
+            "Name": "St. Kanzian",
+            "NameAr": "ست كانزيان"
+        },
+        {
+            "Code": "103201",
+            "Name": "St. Kathrein am Hauenstein",
+            "NameAr": "ست كاتهريين ام هاوينستيين"
+        },
+        {
+            "Code": "137780",
+            "Name": "St. Kathrein am Offenegg",
+            "NameAr": "ست كاتهريين ام وففينيجج"
+        },
+        {
+            "Code": "148013",
+            "Name": "St. Lambrecht",
+            "NameAr": "ست لامبريكهت"
+        },
+        {
+            "Code": "137781",
+            "Name": "St. Leonhard",
+            "NameAr": "ست ليونهارد"
+        },
+        {
+            "Code": "138772",
+            "Name": "St. Lorenz (Oberosterreich)",
+            "NameAr": "ست لورينز وبيروستيررييكه"
+        },
+        {
+            "Code": "148015",
+            "Name": "St. Lorenzen",
+            "NameAr": "ست لورينزين"
+        },
+        {
+            "Code": "138232",
+            "Name": "St. Margarethen",
+            "NameAr": "ست مارجاريتهين"
+        },
+        {
+            "Code": "138233",
+            "Name": "St. Marienkirchen bei Scharding",
+            "NameAr": "ست ماريينكيركهين بيي سكهاردينج"
+        },
+        {
+            "Code": "139213",
+            "Name": "St. Martin am Grimming",
+            "NameAr": "ست مارتين ام جريممينج"
+        },
+        {
+            "Code": "138870",
+            "Name": "St. Martin am Tennengebirge",
+            "NameAr": "ست مارتين ام تيننينجيبيرجي"
+        },
+        {
+            "Code": "148017",
+            "Name": "St. Martin bei (by) Lofer",
+            "NameAr": "ست مارتين بيي بي لوفير"
+        },
+        {
+            "Code": "139214",
+            "Name": "St. Martin im Sulmtal",
+            "NameAr": "ست مارتين يم سولمتال"
+        },
+        {
+            "Code": "139215",
+            "Name": "St. Michael",
+            "NameAr": "ست ميكهايل"
+        },
+        {
+            "Code": "139216",
+            "Name": "St. Michael ob Bleiburg",
+            "NameAr": "ست ميكهايل وب بلييبورج"
+        },
+        {
+            "Code": "137784",
+            "Name": "St. Nikolai im Sausal",
+            "NameAr": "ست نيكولاي يم ساوسال"
+        },
+        {
+            "Code": "139480",
+            "Name": "St. Oswald",
+            "NameAr": "ست وسوالد"
+        },
+        {
+            "Code": "138394",
+            "Name": "St. Paul im Lavanttal",
+            "NameAr": "ست باول يم لافانتتال"
+        },
+        {
+            "Code": "138777",
+            "Name": "St. Peter am Kammersberg",
+            "NameAr": "ست بيتير ام كامميرسبيرج"
+        },
+        {
+            "Code": "139219",
+            "Name": "St. Peter-Freienstein",
+            "NameAr": "ست بيتير-فرييينستيين"
+        },
+        {
+            "Code": "148023",
+            "Name": "St. Polten",
+            "NameAr": "ست بولتين"
+        },
+        {
+            "Code": "139486",
+            "Name": "St. Primus",
+            "NameAr": "ست بريموس"
+        },
+        {
+            "Code": "138876",
+            "Name": "St. Salvator",
+            "NameAr": "ست سالفاتور"
+        },
+        {
+            "Code": "148027",
+            "Name": "St. Sebastian",
+            "NameAr": "ست سيباستيان"
+        },
+        {
+            "Code": "137788",
+            "Name": "St. Sigmund",
+            "NameAr": "ست سيجموند"
+        },
+        {
+            "Code": "139222",
+            "Name": "St. Stefan",
+            "NameAr": "ست ستيفان"
+        },
+        {
+            "Code": "137789",
+            "Name": "St. Stefan am Walde",
+            "NameAr": "ست ستيفان ام والدي"
+        },
+        {
+            "Code": "137790",
+            "Name": "St. Stefan im Lavanttal",
+            "NameAr": "ست ستيفان يم لافانتتال"
+        },
+        {
+            "Code": "137791",
+            "Name": "St. Ulrich im Muhlkreis",
+            "NameAr": "ست ولريكه يم موهلكرييس"
+        },
+        {
+            "Code": "139224",
+            "Name": "St. Urban",
+            "NameAr": "ست وربان"
+        },
+        {
+            "Code": "137792",
+            "Name": "St. Veit",
+            "NameAr": "ست فييت"
+        },
+        {
+            "Code": "139489",
+            "Name": "St. Veit a. d. Glan",
+            "NameAr": "ست فييت ا د جلان"
+        },
+        {
+            "Code": "137793",
+            "Name": "St. Wolfgang",
+            "NameAr": "ست وولفجانج"
+        },
+        {
+            "Code": "138243",
+            "Name": "Stadl an der Mur",
+            "NameAr": "ستادل ان دير مور"
+        },
+        {
+            "Code": "139229",
+            "Name": "Stadtschlaining",
+            "NameAr": "ستادتسكهلاينينج"
+        },
+        {
+            "Code": "139230",
+            "Name": "Stainz",
+            "NameAr": "ستاينز"
+        },
+        {
+            "Code": "139491",
+            "Name": "Stall",
+            "NameAr": "ستالل"
+        },
+        {
+            "Code": "139233",
+            "Name": "Stallhofen",
+            "NameAr": "ستاللهوفين"
+        },
+        {
+            "Code": "139492",
+            "Name": "Stams",
+            "NameAr": "ستامس"
+        },
+        {
+            "Code": "138883",
+            "Name": "Stans",
+            "NameAr": "ستانس"
+        },
+        {
+            "Code": "107066",
+            "Name": "Stanzach",
+            "NameAr": "ستانزاكه"
+        },
+        {
+            "Code": "139500",
+            "Name": "Steeg",
+            "NameAr": "ستييج"
+        },
+        {
+            "Code": "139503",
+            "Name": "Stegersbach",
+            "NameAr": "ستيجيرسباكه"
+        },
+        {
+            "Code": "137814",
+            "Name": "Stein an der Enns",
+            "NameAr": "ستيين ان دير يننس"
+        },
+        {
+            "Code": "148051",
+            "Name": "Steinach",
+            "NameAr": "ستييناكه"
+        },
+        {
+            "Code": "138253",
+            "Name": "Steinakirchen am Forst",
+            "NameAr": "ستييناكيركهين ام فورست"
+        },
+        {
+            "Code": "148053",
+            "Name": "Steinbach",
+            "NameAr": "ستيينباكه"
+        },
+        {
+            "Code": "138255",
+            "Name": "Steinbach an der Steyr",
+            "NameAr": "ستيينباكه ان دير ستيير"
+        },
+        {
+            "Code": "138816",
+            "Name": "Steinberg",
+            "NameAr": "ستيينبيرج"
+        },
+        {
+            "Code": "138817",
+            "Name": "Steindorf",
+            "NameAr": "ستييندورف"
+        },
+        {
+            "Code": "138902",
+            "Name": "Steindorf-Stiegl",
+            "NameAr": "ستييندورف-ستييجل"
+        },
+        {
+            "Code": "139249",
+            "Name": "Steinhaus am Semmering",
+            "NameAr": "ستيينهاوس ام سيمميرينج"
+        },
+        {
+            "Code": "148065",
+            "Name": "Stetten",
+            "NameAr": "ستيتتين"
+        },
+        {
+            "Code": "139098",
+            "Name": "Steyr",
+            "NameAr": "ستيير"
+        },
+        {
+            "Code": "138913",
+            "Name": "Steyregg",
+            "NameAr": "ستييريجج"
+        },
+        {
+            "Code": "138271",
+            "Name": "Stockerau",
+            "NameAr": "ستوككيراو"
+        },
+        {
+            "Code": "137826",
+            "Name": "Stockern",
+            "NameAr": "ستوككيرن"
+        },
+        {
+            "Code": "139109",
+            "Name": "Stoob",
+            "NameAr": "ستووب"
+        },
+        {
+            "Code": "138833",
+            "Name": "Stra? im Attergau",
+            "NameAr": "سترا يم اتتيرجاو"
+        },
+        {
+            "Code": "138834",
+            "Name": "Stra? im Stra?ertale",
+            "NameAr": "سترا يم سترايرتالي"
+        },
+        {
+            "Code": "140210",
+            "Name": "Stra? in Steiermark",
+            "NameAr": "سترا ين ستيييرمارك"
+        },
+        {
+            "Code": "107136",
+            "Name": "Stra?walchen",
+            "NameAr": "ستراوالكهين"
+        },
+        {
+            "Code": "138830",
+            "Name": "Straden",
+            "NameAr": "سترادين"
+        },
+        {
+            "Code": "138932",
+            "Name": "Strallegg",
+            "NameAr": "سترالليجج"
+        },
+        {
+            "Code": "139273",
+            "Name": "Strass",
+            "NameAr": "ستراسس"
+        },
+        {
+            "Code": "139274",
+            "Name": "Strassen",
+            "NameAr": "ستراسسين"
+        },
+        {
+            "Code": "138835",
+            "Name": "Strasshof",
+            "NameAr": "ستراسسهوف"
+        },
+        {
+            "Code": "148083",
+            "Name": "Strengen",
+            "NameAr": "سترينجين"
+        },
+        {
+            "Code": "137852",
+            "Name": "Strobl",
+            "NameAr": "ستروبل"
+        },
+        {
+            "Code": "148088",
+            "Name": "Stuben",
+            "NameAr": "ستوبين"
+        },
+        {
+            "Code": "148089",
+            "Name": "Stubenberg",
+            "NameAr": "ستوبينبيرج"
+        },
+        {
+            "Code": "137858",
+            "Name": "Stuhlfelden",
+            "NameAr": "ستوهلفيلدين"
+        },
+        {
+            "Code": "138849",
+            "Name": "Stumm",
+            "NameAr": "ستومم"
+        },
+        {
+            "Code": "417523",
+            "Name": "Suben",
+            "NameAr": "سوبين"
+        },
+        {
+            "Code": "138298",
+            "Name": "Sulzberg",
+            "NameAr": "سولزبيرج"
+        },
+        {
+            "Code": "160808",
+            "Name": "Tainach",
+            "NameAr": "تايناكه"
+        },
+        {
+            "Code": "139015",
+            "Name": "Tamsweg",
+            "NameAr": "تامسويج"
+        },
+        {
+            "Code": "139918",
+            "Name": "Tannheim",
+            "NameAr": "تاننهييم"
+        },
+        {
+            "Code": "139979",
+            "Name": "Tarrenz",
+            "NameAr": "تاررينز"
+        },
+        {
+            "Code": "148168",
+            "Name": "Tauplitz",
+            "NameAr": "تاوبليتز"
+        },
+        {
+            "Code": "148173",
+            "Name": "Taxenbach",
+            "NameAr": "تاكسينباكه"
+        },
+        {
+            "Code": "148177",
+            "Name": "Techelsberg",
+            "NameAr": "تيكهيلسبيرج"
+        },
+        {
+            "Code": "140982",
+            "Name": "Techendorf",
+            "NameAr": "تيكهيندورف"
+        },
+        {
+            "Code": "140986",
+            "Name": "Teichalm",
+            "NameAr": "تييكهالم"
+        },
+        {
+            "Code": "139047",
+            "Name": "Telfes",
+            "NameAr": "تيلفيس"
+        },
+        {
+            "Code": "139586",
+            "Name": "Telfs",
+            "NameAr": "تيلفس"
+        },
+        {
+            "Code": "141002",
+            "Name": "Terfens",
+            "NameAr": "تيرفينس"
+        },
+        {
+            "Code": "141009",
+            "Name": "Ternberg",
+            "NameAr": "تيرنبيرج"
+        },
+        {
+            "Code": "140017",
+            "Name": "Texingtal",
+            "NameAr": "تيكسينجتال"
+        },
+        {
+            "Code": "139964",
+            "Name": "Thalgau",
+            "NameAr": "تهالجاو"
+        },
+        {
+            "Code": "148200",
+            "Name": "Thaur",
+            "NameAr": "تهاور"
+        },
+        {
+            "Code": "139612",
+            "Name": "Thierbach",
+            "NameAr": "تهييرباكه"
+        },
+        {
+            "Code": "140414",
+            "Name": "Thiersee",
+            "NameAr": "تهييرسيي"
+        },
+        {
+            "Code": "140746",
+            "Name": "Thondorf",
+            "NameAr": "تهوندورف"
+        },
+        {
+            "Code": "140754",
+            "Name": "Thumersbach",
+            "NameAr": "تهوميرسباكه"
+        },
+        {
+            "Code": "148221",
+            "Name": "Thuringerberg",
+            "NameAr": "تهورينجيربيرج"
+        },
+        {
+            "Code": "138646",
+            "Name": "Thurn",
+            "NameAr": "تهورن"
+        },
+        {
+            "Code": "148229",
+            "Name": "Tiefgraben",
+            "NameAr": "تييفجرابين"
+        },
+        {
+            "Code": "139304",
+            "Name": "Tieschen",
+            "NameAr": "تييسكهين"
+        },
+        {
+            "Code": "148230",
+            "Name": "Tiffen",
+            "NameAr": "تيففين"
+        },
+        {
+            "Code": "140306",
+            "Name": "Timelkam",
+            "NameAr": "تيميلكام"
+        },
+        {
+            "Code": "140317",
+            "Name": "Tobadill",
+            "NameAr": "توباديلل"
+        },
+        {
+            "Code": "139353",
+            "Name": "Tosens",
+            "NameAr": "توسينس"
+        },
+        {
+            "Code": "140805",
+            "Name": "Trahutten",
+            "NameAr": "تراهوتتين"
+        },
+        {
+            "Code": "140502",
+            "Name": "Traiskirchen",
+            "NameAr": "ترايسكيركهين"
+        },
+        {
+            "Code": "140079",
+            "Name": "Traismauer",
+            "NameAr": "ترايسماوير"
+        },
+        {
+            "Code": "140354",
+            "Name": "Trattenbach",
+            "NameAr": "تراتتينباكه"
+        },
+        {
+            "Code": "148298",
+            "Name": "Traun",
+            "NameAr": "تراون"
+        },
+        {
+            "Code": "140506",
+            "Name": "Traunkirchen",
+            "NameAr": "تراونكيركهين"
+        },
+        {
+            "Code": "140507",
+            "Name": "Trausdorf an der Wulka",
+            "NameAr": "تراوسدورف ان دير وولكا"
+        },
+        {
+            "Code": "140509",
+            "Name": "Trautmannsdorf an der Leitha",
+            "NameAr": "تراوتماننسدورف ان دير لييتها"
+        },
+        {
+            "Code": "141774",
+            "Name": "Trebesing",
+            "NameAr": "تريبيسينج"
+        },
+        {
+            "Code": "140357",
+            "Name": "Treffen",
+            "NameAr": "تريففين"
+        },
+        {
+            "Code": "139812",
+            "Name": "Trenkwald",
+            "NameAr": "ترينكوالد"
+        },
+        {
+            "Code": "139815",
+            "Name": "Trieben",
+            "NameAr": "ترييبين"
+        },
+        {
+            "Code": "140374",
+            "Name": "Trins",
+            "NameAr": "ترينس"
+        },
+        {
+            "Code": "148324",
+            "Name": "Tristach",
+            "NameAr": "تريستاكه"
+        },
+        {
+            "Code": "148329",
+            "Name": "Tropolach",
+            "NameAr": "تروبولاكه"
+        },
+        {
+            "Code": "148334",
+            "Name": "Trumer Seenland",
+            "NameAr": "ترومير سيينلاند"
+        },
+        {
+            "Code": "141215",
+            "Name": "Tschagguns",
+            "NameAr": "تسكهاججونس"
+        },
+        {
+            "Code": "141224",
+            "Name": "Tulfes",
+            "NameAr": "تولفيس"
+        },
+        {
+            "Code": "140671",
+            "Name": "Tulln an der Donau",
+            "NameAr": "توللن ان دير دوناو"
+        },
+        {
+            "Code": "140672",
+            "Name": "Tullnerbach",
+            "NameAr": "توللنيرباكه"
+        },
+        {
+            "Code": "140086",
+            "Name": "Turnau",
+            "NameAr": "تورناو"
+        },
+        {
+            "Code": "140404",
+            "Name": "Turnitz",
+            "NameAr": "تورنيتز"
+        },
+        {
+            "Code": "140088",
+            "Name": "Turracher Hohe",
+            "NameAr": "تورراكهير هوهي"
+        },
+        {
+            "Code": "141534",
+            "Name": "Tux",
+            "NameAr": "توكس"
+        },
+        {
+            "Code": "141232",
+            "Name": "Tux- Lanersbach",
+            "NameAr": "توكس- لانيرسباكه"
+        },
+        {
+            "Code": "148355",
+            "Name": "Tweng",
+            "NameAr": "توينج"
+        },
+        {
+            "Code": "148357",
+            "Name": "Twimberg",
+            "NameAr": "تويمبيرج"
+        },
+        {
+            "Code": "160996",
+            "Name": "Tyrol",
+            "NameAr": "تيرول"
+        },
+        {
+            "Code": "139855",
+            "Name": "Ubelbach",
+            "NameAr": "وبيلباكه"
+        },
+        {
+            "Code": "140523",
+            "Name": "Uderns",
+            "NameAr": "وديرنس"
+        },
+        {
+            "Code": "141551",
+            "Name": "Ulmerfeld",
+            "NameAr": "ولميرفيلد"
+        },
+        {
+            "Code": "141554",
+            "Name": "Ulrichsberg",
+            "NameAr": "ولريكهسبيرج"
+        },
+        {
+            "Code": "141557",
+            "Name": "Umhausen",
+            "NameAr": "ومهاوسين"
+        },
+        {
+            "Code": "140123",
+            "Name": "Unken",
+            "NameAr": "ونكين"
+        },
+        {
+            "Code": "140124",
+            "Name": "Unterach",
+            "NameAr": "ونتيراكه"
+        },
+        {
+            "Code": "140543",
+            "Name": "Unterbergen",
+            "NameAr": "ونتيربيرجين"
+        },
+        {
+            "Code": "140125",
+            "Name": "Unterburg",
+            "NameAr": "ونتيربورج"
+        },
+        {
+            "Code": "148377",
+            "Name": "Unterkohlstatten",
+            "NameAr": "ونتيركوهلستاتتين"
+        },
+        {
+            "Code": "141840",
+            "Name": "Unterlamm",
+            "NameAr": "ونتيرلامم"
+        },
+        {
+            "Code": "141841",
+            "Name": "Unternberg",
+            "NameAr": "ونتيرنبيرج"
+        },
+        {
+            "Code": "140549",
+            "Name": "Unterpremstatten",
+            "NameAr": "ونتيربريمستاتتين"
+        },
+        {
+            "Code": "141262",
+            "Name": "Untersiebenbrunn",
+            "NameAr": "ونتيرسييبينبرونن"
+        },
+        {
+            "Code": "141569",
+            "Name": "Untertauern",
+            "NameAr": "ونتيرتاويرن"
+        },
+        {
+            "Code": "141570",
+            "Name": "Untertilliach",
+            "NameAr": "ونتيرتيللياكه"
+        },
+        {
+            "Code": "140127",
+            "Name": "Unterweissenbach",
+            "NameAr": "ونتيروييسسينباكه"
+        },
+        {
+            "Code": "141854",
+            "Name": "Uttendorf",
+            "NameAr": "وتتيندورف"
+        },
+        {
+            "Code": "141145",
+            "Name": "Vandans",
+            "NameAr": "فاندانس"
+        },
+        {
+            "Code": "141158",
+            "Name": "Veitsch",
+            "NameAr": "فييتسكه"
+        },
+        {
+            "Code": "142553",
+            "Name": "Velden",
+            "NameAr": "فيلدين"
+        },
+        {
+            "Code": "141474",
+            "Name": "Vent",
+            "NameAr": "فينت"
+        },
+        {
+            "Code": "141309",
+            "Name": "Verditz",
+            "NameAr": "فيرديتز"
+        },
+        {
+            "Code": "142315",
+            "Name": "Vichtenstein",
+            "NameAr": "فيكهتينستيين"
+        },
+        {
+            "Code": "142578",
+            "Name": "Viehhofen",
+            "NameAr": "فييههوفين"
+        },
+        {
+            "Code": "140888",
+            "Name": "Vienna",
+            "NameAr": "فييننا"
+        },
+        {
+            "Code": "148501",
+            "Name": "Viktorsberg",
+            "NameAr": "فيكتورسبيرج"
+        },
+        {
+            "Code": "142597",
+            "Name": "Villach",
+            "NameAr": "فيللاكه"
+        },
+        {
+            "Code": "152681",
+            "Name": "Villach-Land District,   Carinthia",
+            "NameAr": "فيللاكه-لاند ديستريكت كارينتهيا"
+        },
+        {
+            "Code": "141357",
+            "Name": "Vils",
+            "NameAr": "فيلس"
+        },
+        {
+            "Code": "141365",
+            "Name": "Virgen",
+            "NameAr": "فيرجين"
+        },
+        {
+            "Code": "141910",
+            "Name": "Vocklabruck",
+            "NameAr": "فوككلابروكك"
+        },
+        {
+            "Code": "140941",
+            "Name": "Voitsberg",
+            "NameAr": "فويتسبيرج"
+        },
+        {
+            "Code": "142368",
+            "Name": "Volders",
+            "NameAr": "فولديرس"
+        },
+        {
+            "Code": "107393",
+            "Name": "Volkermarkt",
+            "NameAr": "فولكيرماركت"
+        },
+        {
+            "Code": "141385",
+            "Name": "Vomp",
+            "NameAr": "فومب"
+        },
+        {
+            "Code": "148563",
+            "Name": "Vorau",
+            "NameAr": "فوراو"
+        },
+        {
+            "Code": "142373",
+            "Name": "Vorchdorf",
+            "NameAr": "فوركهدورف"
+        },
+        {
+            "Code": "417183",
+            "Name": "Vorderberg",
+            "NameAr": "فورديربيرج"
+        },
+        {
+            "Code": "142374",
+            "Name": "Vordernberg",
+            "NameAr": "فورديرنبيرج"
+        },
+        {
+            "Code": "140943",
+            "Name": "Vordernebelberg",
+            "NameAr": "فورديرنيبيلبيرج"
+        },
+        {
+            "Code": "142218",
+            "Name": "Vorderstoder",
+            "NameAr": "فورديرستودير"
+        },
+        {
+            "Code": "142376",
+            "Name": "Vosendorf",
+            "NameAr": "فوسيندورف"
+        },
+        {
+            "Code": "141930",
+            "Name": "Wagrain",
+            "NameAr": "واجراين"
+        },
+        {
+            "Code": "143229",
+            "Name": "Waidhofen an der Thaya",
+            "NameAr": "وايدهوفين ان دير تهايا"
+        },
+        {
+            "Code": "143230",
+            "Name": "Waidhofen an der Ybbs (Waidhofen on Ybbs)",
+            "NameAr": "وايدهوفين ان دير يببس وايدهوفين ون يببس"
+        },
+        {
+            "Code": "143231",
+            "Name": "Waidring",
+            "NameAr": "وايدرينج"
+        },
+        {
+            "Code": "142769",
+            "Name": "Walchsee",
+            "NameAr": "والكهسيي"
+        },
+        {
+            "Code": "142238",
+            "Name": "Wald am Arlberg",
+            "NameAr": "والد ام ارلبيرج"
+        },
+        {
+            "Code": "143241",
+            "Name": "Wald im Pinzgau",
+            "NameAr": "والد يم بينزجاو"
+        },
+        {
+            "Code": "148592",
+            "Name": "Waldhausen",
+            "NameAr": "والدهاوسين"
+        },
+        {
+            "Code": "141941",
+            "Name": "Waldkirchen am Wesen",
+            "NameAr": "والدكيركهين ام ويسين"
+        },
+        {
+            "Code": "143074",
+            "Name": "Waldzell",
+            "NameAr": "والدزيلل"
+        },
+        {
+            "Code": "141416",
+            "Name": "Wallern",
+            "NameAr": "والليرن"
+        },
+        {
+            "Code": "148602",
+            "Name": "Wals",
+            "NameAr": "والس"
+        },
+        {
+            "Code": "142076",
+            "Name": "Wangle",
+            "NameAr": "وانجلي"
+        },
+        {
+            "Code": "142796",
+            "Name": "Warmbad",
+            "NameAr": "وارمباد"
+        },
+        {
+            "Code": "142084",
+            "Name": "Warth",
+            "NameAr": "وارته"
+        },
+        {
+            "Code": "142633",
+            "Name": "Wattens",
+            "NameAr": "واتتينس"
+        },
+        {
+            "Code": "143110",
+            "Name": "Waxenberg",
+            "NameAr": "واكسينبيرج"
+        },
+        {
+            "Code": "142277",
+            "Name": "Weer",
+            "NameAr": "ويير"
+        },
+        {
+            "Code": "142817",
+            "Name": "Weerberg",
+            "NameAr": "وييربيرج"
+        },
+        {
+            "Code": "142643",
+            "Name": "Wei?bach bei Lofer",
+            "NameAr": "وييباكه بيي لوفير"
+        },
+        {
+            "Code": "143680",
+            "Name": "Wei?briach",
+            "NameAr": "وييبرياكه"
+        },
+        {
+            "Code": "142285",
+            "Name": "Wei?enbach am Lech",
+            "NameAr": "وييينباكه ام ليكه"
+        },
+        {
+            "Code": "142286",
+            "Name": "Wei?enkirchen i. d. Wachau",
+            "NameAr": "وييينكيركهين ي د واكهاو"
+        },
+        {
+            "Code": "143282",
+            "Name": "Weiden am See",
+            "NameAr": "وييدين ام سيي"
+        },
+        {
+            "Code": "107707",
+            "Name": "Weikersdorf am Steinfelde",
+            "NameAr": "وييكيرسدورف ام ستيينفيلدي"
+        },
+        {
+            "Code": "143123",
+            "Name": "Weissenbach am Attersee",
+            "NameAr": "وييسسينباكه ام اتتيرسيي"
+        },
+        {
+            "Code": "142824",
+            "Name": "Weissenbach an der Triesting",
+            "NameAr": "وييسسينباكه ان دير ترييستينج"
+        },
+        {
+            "Code": "148647",
+            "Name": "Weissensee",
+            "NameAr": "وييسسينسيي"
+        },
+        {
+            "Code": "142826",
+            "Name": "Weisskirchen",
+            "NameAr": "وييسسكيركهين"
+        },
+        {
+            "Code": "142287",
+            "Name": "Weitenegg",
+            "NameAr": "وييتينيجج"
+        },
+        {
+            "Code": "142288",
+            "Name": "Weitenfeld",
+            "NameAr": "وييتينفيلد"
+        },
+        {
+            "Code": "143683",
+            "Name": "Weitra",
+            "NameAr": "وييترا"
+        },
+        {
+            "Code": "142827",
+            "Name": "Weiz",
+            "NameAr": "وييز"
+        },
+        {
+            "Code": "142122",
+            "Name": "Wels",
+            "NameAr": "ويلس"
+        },
+        {
+            "Code": "142293",
+            "Name": "Weng",
+            "NameAr": "وينج"
+        },
+        {
+            "Code": "141679",
+            "Name": "Wenigzell",
+            "NameAr": "وينيجزيلل"
+        },
+        {
+            "Code": "148651",
+            "Name": "Wenns",
+            "NameAr": "ويننس"
+        },
+        {
+            "Code": "142960",
+            "Name": "Weppersdorf",
+            "NameAr": "ويببيرسدورف"
+        },
+        {
+            "Code": "148655",
+            "Name": "Werfen",
+            "NameAr": "ويرفين"
+        },
+        {
+            "Code": "143699",
+            "Name": "Werfenweng",
+            "NameAr": "ويرفينوينج"
+        },
+        {
+            "Code": "142133",
+            "Name": "Wernberg",
+            "NameAr": "ويرنبيرج"
+        },
+        {
+            "Code": "142839",
+            "Name": "Wernstein",
+            "NameAr": "ويرنستيين"
+        },
+        {
+            "Code": "143139",
+            "Name": "Wesenufer",
+            "NameAr": "ويسينوفير"
+        },
+        {
+            "Code": "143394",
+            "Name": "Westendorf",
+            "NameAr": "ويستيندورف"
+        },
+        {
+            "Code": "142683",
+            "Name": "Weyregg",
+            "NameAr": "وييريجج"
+        },
+        {
+            "Code": "143569",
+            "Name": "Wiener Neustadt",
+            "NameAr": "ويينير نيوستادت"
+        },
+        {
+            "Code": "141715",
+            "Name": "Wieselburg",
+            "NameAr": "وييسيلبورج"
+        },
+        {
+            "Code": "141717",
+            "Name": "Wiesing",
+            "NameAr": "وييسينج"
+        },
+        {
+            "Code": "143433",
+            "Name": "Wildalpen",
+            "NameAr": "ويلدالبين"
+        },
+        {
+            "Code": "143010",
+            "Name": "Wildermieming",
+            "NameAr": "ويلديرمييمينج"
+        },
+        {
+            "Code": "142701",
+            "Name": "Wildon",
+            "NameAr": "ويلدون"
+        },
+        {
+            "Code": "143574",
+            "Name": "Wildschonau",
+            "NameAr": "ويلدسكهوناو"
+        },
+        {
+            "Code": "143577",
+            "Name": "Wilfersdorf",
+            "NameAr": "ويلفيرسدورف"
+        },
+        {
+            "Code": "141738",
+            "Name": "Windischgarsten",
+            "NameAr": "وينديسكهجارستين"
+        },
+        {
+            "Code": "143452",
+            "Name": "Winklern",
+            "NameAr": "وينكليرن"
+        },
+        {
+            "Code": "142845",
+            "Name": "Winklern bei (by)Treffen",
+            "NameAr": "وينكليرن بيي بي تريففين"
+        },
+        {
+            "Code": "143029",
+            "Name": "Winklern-Iselsberg",
+            "NameAr": "وينكليرن-يسيلسبيرج"
+        },
+        {
+            "Code": "143049",
+            "Name": "Wolfern",
+            "NameAr": "وولفيرن"
+        },
+        {
+            "Code": "143050",
+            "Name": "Wolfsberg",
+            "NameAr": "وولفسبيرج"
+        },
+        {
+            "Code": "142411",
+            "Name": "Wolfsegg am Hausruck",
+            "NameAr": "وولفسيجج ام هاوسروكك"
+        },
+        {
+            "Code": "143764",
+            "Name": "Wolfurt",
+            "NameAr": "وولفورت"
+        },
+        {
+            "Code": "143767",
+            "Name": "Wolkersdorf im Weinviertel",
+            "NameAr": "وولكيرسدورف يم ويينفييرتيل"
+        },
+        {
+            "Code": "143618",
+            "Name": "Wordern",
+            "NameAr": "وورديرن"
+        },
+        {
+            "Code": "143301",
+            "Name": "Worgl",
+            "NameAr": "وورجل"
+        },
+        {
+            "Code": "142420",
+            "Name": "Worschach",
+            "NameAr": "وورسكهاكه"
+        },
+        {
+            "Code": "142421",
+            "Name": "Worth",
+            "NameAr": "وورته"
+        },
+        {
+            "Code": "143064",
+            "Name": "Worthersee (Lake Worther)",
+            "NameAr": "وورتهيرسيي لاكي وورتهير"
+        },
+        {
+            "Code": "143643",
+            "Name": "Ybbs an der Donau",
+            "NameAr": "يببس ان دير دوناو"
+        },
+        {
+            "Code": "142457",
+            "Name": "Ybbsitz",
+            "NameAr": "يببسيتز"
+        },
+        {
+            "Code": "143903",
+            "Name": "Yspertal",
+            "NameAr": "يسبيرتال"
+        },
+        {
+            "Code": "143821",
+            "Name": "Zams bei Landeck",
+            "NameAr": "زامس بيي لانديكك"
+        },
+        {
+            "Code": "143349",
+            "Name": "Zauchensee",
+            "NameAr": "زاوكهينسيي"
+        },
+        {
+            "Code": "148795",
+            "Name": "Zederhaus",
+            "NameAr": "زيديرهاوس"
+        },
+        {
+            "Code": "143352",
+            "Name": "Zelking",
+            "NameAr": "زيلكينج"
+        },
+        {
+            "Code": "142939",
+            "Name": "Zell am Moos",
+            "NameAr": "زيلل ام مووس"
+        },
+        {
+            "Code": "143670",
+            "Name": "Zell am See",
+            "NameAr": "زيلل ام سيي"
+        },
+        {
+            "Code": "143671",
+            "Name": "Zell am Ziller",
+            "NameAr": "زيلل ام زيللير"
+        },
+        {
+            "Code": "143835",
+            "Name": "Zellberg",
+            "NameAr": "زيللبيرج"
+        },
+        {
+            "Code": "148800",
+            "Name": "Zellerndorf",
+            "NameAr": "زيلليرندورف"
+        },
+        {
+            "Code": "143354",
+            "Name": "Zeltweg",
+            "NameAr": "زيلتويج"
+        },
+        {
+            "Code": "143935",
+            "Name": "Zipf",
+            "NameAr": "زيبف"
+        },
+        {
+            "Code": "143365",
+            "Name": "Zirl",
+            "NameAr": "زيرل"
+        },
+        {
+            "Code": "143549",
+            "Name": "Zistersdorf",
+            "NameAr": "زيستيرسدورف"
+        },
+        {
+            "Code": "142502",
+            "Name": "Zlan",
+            "NameAr": "زلان"
+        },
+        {
+            "Code": "143370",
+            "Name": "Zobern",
+            "NameAr": "زوبيرن"
+        },
+        {
+            "Code": "148820",
+            "Name": "Zoblen",
+            "NameAr": "زوبلين"
+        },
+        {
+            "Code": "148827",
+            "Name": "Zurs",
+            "NameAr": "زورس"
+        },
+        {
+            "Code": "143943",
+            "Name": "Zwentendorf an der Donau",
+            "NameAr": "زوينتيندورف ان دير دوناو"
+        },
+        {
+            "Code": "148829",
+            "Name": "Zwettl",
+            "NameAr": "زويتتل"
+        },
+        {
+            "Code": "160833",
+            "Name": "Zwettl An Der Rodl",
+            "NameAr": "زويتتل ان دير رودل"
+        },
+        {
+            "Code": "142513",
+            "Name": "Zwischenwasser",
+            "NameAr": "زويسكهينواسسير"
+        }
+    ],
+    "totalCities": 1374
+}

@@ -1,0 +1,967 @@
+{
+    "id": "PH",
+    "countryCode": "PH",
+    "cities": [
+        {
+            "Code": "228826",
+            "Name": "Alaminos",
+            "NameAr": "الامينوس"
+        },
+        {
+            "Code": "100834",
+            "Name": "Alcoy",
+            "NameAr": "الكوي"
+        },
+        {
+            "Code": "150332",
+            "Name": "Anda",
+            "NameAr": "اندا"
+        },
+        {
+            "Code": "109214",
+            "Name": "Angeles City",
+            "NameAr": "انجيليس كيتي"
+        },
+        {
+            "Code": "150327",
+            "Name": "Antipolo",
+            "NameAr": "انتيبولو"
+        },
+        {
+            "Code": "109365",
+            "Name": "Apo Island",
+            "NameAr": "ابو يسلاند"
+        },
+        {
+            "Code": "109154",
+            "Name": "Apulit Island",
+            "NameAr": "ابوليت يسلاند"
+        },
+        {
+            "Code": "392243",
+            "Name": "Argao",
+            "NameAr": "ارجاو"
+        },
+        {
+            "Code": "110301",
+            "Name": "Arrecife",
+            "NameAr": "ارريكيفي"
+        },
+        {
+            "Code": "109941",
+            "Name": "Bacolod",
+            "NameAr": "باكولود"
+        },
+        {
+            "Code": "105018",
+            "Name": "Bacoor",
+            "NameAr": "باكوور"
+        },
+        {
+            "Code": "110637",
+            "Name": "Badian",
+            "NameAr": "باديان"
+        },
+        {
+            "Code": "282902",
+            "Name": "Bagong Pag-asa",
+            "NameAr": "باجونج باج-اسا"
+        },
+        {
+            "Code": "109722",
+            "Name": "Baguio",
+            "NameAr": "باجويو"
+        },
+        {
+            "Code": "148887",
+            "Name": "Balanga",
+            "NameAr": "بالانجا"
+        },
+        {
+            "Code": "150294",
+            "Name": "Baler",
+            "NameAr": "بالير"
+        },
+        {
+            "Code": "110769",
+            "Name": "Banaue",
+            "NameAr": "باناوي"
+        },
+        {
+            "Code": "101599",
+            "Name": "Bantay",
+            "NameAr": "بانتاي"
+        },
+        {
+            "Code": "150337",
+            "Name": "Bantayan Island",
+            "NameAr": "بانتايان يسلاند"
+        },
+        {
+            "Code": "151346",
+            "Name": "Basco",
+            "NameAr": "باسكو"
+        },
+        {
+            "Code": "111034",
+            "Name": "Batangas",
+            "NameAr": "باتانجاس"
+        },
+        {
+            "Code": "102210",
+            "Name": "Baybay City",
+            "NameAr": "بايباي كيتي"
+        },
+        {
+            "Code": "235712",
+            "Name": "Binan City",
+            "NameAr": "بينان كيتي"
+        },
+        {
+            "Code": "363368",
+            "Name": "Binangonan",
+            "NameAr": "بينانجونان"
+        },
+        {
+            "Code": "150559",
+            "Name": "Bislig",
+            "NameAr": "بيسليج"
+        },
+        {
+            "Code": "111815",
+            "Name": "Bohol",
+            "NameAr": "بوهول"
+        },
+        {
+            "Code": "112673",
+            "Name": "Boracay Island",
+            "NameAr": "بوراكاي يسلاند"
+        },
+        {
+            "Code": "150313",
+            "Name": "Bulacan",
+            "NameAr": "بولاكان"
+        },
+        {
+            "Code": "144442",
+            "Name": "Busuanga",
+            "NameAr": "بوسوانجا"
+        },
+        {
+            "Code": "113286",
+            "Name": "Butuan",
+            "NameAr": "بوتوان"
+        },
+        {
+            "Code": "112847",
+            "Name": "Cabanatuan",
+            "NameAr": "كاباناتوان"
+        },
+        {
+            "Code": "144454",
+            "Name": "Cabilao",
+            "NameAr": "كابيلاو"
+        },
+        {
+            "Code": "113110",
+            "Name": "Cagayan de Oro",
+            "NameAr": "كاجايان دي ورو"
+        },
+        {
+            "Code": "112763",
+            "Name": "Cagraray Island",
+            "NameAr": "كاجراراي يسلاند"
+        },
+        {
+            "Code": "113495",
+            "Name": "Cainta",
+            "NameAr": "كاينتا"
+        },
+        {
+            "Code": "112867",
+            "Name": "Calamba",
+            "NameAr": "كالامبا"
+        },
+        {
+            "Code": "113125",
+            "Name": "Calapan",
+            "NameAr": "كالابان"
+        },
+        {
+            "Code": "368812",
+            "Name": "Calasiao",
+            "NameAr": "كالاسياو"
+        },
+        {
+            "Code": "150565",
+            "Name": "Calbayog",
+            "NameAr": "كالبايوج"
+        },
+        {
+            "Code": "144490",
+            "Name": "Camiguin",
+            "NameAr": "كاميجوين"
+        },
+        {
+            "Code": "150316",
+            "Name": "Camotes Islands",
+            "NameAr": "كاموتيس يسلاندس"
+        },
+        {
+            "Code": "104893",
+            "Name": "Candon",
+            "NameAr": "كاندون"
+        },
+        {
+            "Code": "412571",
+            "Name": "Carabao Island",
+            "NameAr": "كاراباو يسلاند"
+        },
+        {
+            "Code": "150312",
+            "Name": "Caramoan",
+            "NameAr": "كاراموان"
+        },
+        {
+            "Code": "150967",
+            "Name": "Casiguran",
+            "NameAr": "كاسيجوران"
+        },
+        {
+            "Code": "150494",
+            "Name": "Catarman",
+            "NameAr": "كاتارمان"
+        },
+        {
+            "Code": "150718",
+            "Name": "Caticlan",
+            "NameAr": "كاتيكلان"
+        },
+        {
+            "Code": "151076",
+            "Name": "Cauayan",
+            "NameAr": "كاوايان"
+        },
+        {
+            "Code": "113573",
+            "Name": "Cavite",
+            "NameAr": "كافيتي"
+        },
+        {
+            "Code": "114570",
+            "Name": "Cebu City",
+            "NameAr": "كيبو كيتي"
+        },
+        {
+            "Code": "113651",
+            "Name": "Cebu Island",
+            "NameAr": "كيبو يسلاند"
+        },
+        {
+            "Code": "115344",
+            "Name": "Clark Field",
+            "NameAr": "كلارك فييلد"
+        },
+        {
+            "Code": "101829",
+            "Name": "Compostela",
+            "NameAr": "كومبوستيلا"
+        },
+        {
+            "Code": "336937",
+            "Name": "Cordova",
+            "NameAr": "كوردوفا"
+        },
+        {
+            "Code": "115413",
+            "Name": "Coron",
+            "NameAr": "كورون"
+        },
+        {
+            "Code": "115577",
+            "Name": "Cotabato",
+            "NameAr": "كوتاباتو"
+        },
+        {
+            "Code": "115168",
+            "Name": "Currimao",
+            "NameAr": "كورريماو"
+        },
+        {
+            "Code": "150726",
+            "Name": "Daet",
+            "NameAr": "دايت"
+        },
+        {
+            "Code": "115096",
+            "Name": "Dagupan",
+            "NameAr": "داجوبان"
+        },
+        {
+            "Code": "115188",
+            "Name": "Dapitan",
+            "NameAr": "دابيتان"
+        },
+        {
+            "Code": "108181",
+            "Name": "Dasmarinas",
+            "NameAr": "داسماريناس"
+        },
+        {
+            "Code": "116633",
+            "Name": "Dauin",
+            "NameAr": "داوين"
+        },
+        {
+            "Code": "150247",
+            "Name": "Dauis",
+            "NameAr": "داويس"
+        },
+        {
+            "Code": "115638",
+            "Name": "Davao",
+            "NameAr": "دافاو"
+        },
+        {
+            "Code": "104948",
+            "Name": "Digos",
+            "NameAr": "ديجوس"
+        },
+        {
+            "Code": "116352",
+            "Name": "Dimakya Island",
+            "NameAr": "ديماكيا يسلاند"
+        },
+        {
+            "Code": "116994",
+            "Name": "Dipolog",
+            "NameAr": "ديبولوج"
+        },
+        {
+            "Code": "117390",
+            "Name": "Donsol",
+            "NameAr": "دونسول"
+        },
+        {
+            "Code": "116712",
+            "Name": "Dumaguete",
+            "NameAr": "دوماجويتي"
+        },
+        {
+            "Code": "116816",
+            "Name": "El Nido",
+            "NameAr": "يل نيدو"
+        },
+        {
+            "Code": "105907",
+            "Name": "General Luna (Cabuntog)",
+            "NameAr": "جينيرال لونا كابونتوج"
+        },
+        {
+            "Code": "119095",
+            "Name": "General Santos City (Dadiangas)",
+            "NameAr": "جينيرال سانتوس كيتي داديانجاس"
+        },
+        {
+            "Code": "101538",
+            "Name": "Guimaras",
+            "NameAr": "جويماراس"
+        },
+        {
+            "Code": "150343",
+            "Name": "Guimaras Island",
+            "NameAr": "جويماراس يسلاند"
+        },
+        {
+            "Code": "120298",
+            "Name": "Hinunangan",
+            "NameAr": "هينونانجان"
+        },
+        {
+            "Code": "238393",
+            "Name": "Iba",
+            "NameAr": "يبا"
+        },
+        {
+            "Code": "150597",
+            "Name": "Iligan",
+            "NameAr": "يليجان"
+        },
+        {
+            "Code": "155150",
+            "Name": "Ilocos Sur",
+            "NameAr": "يلوكوس سور"
+        },
+        {
+            "Code": "121063",
+            "Name": "Iloilo City",
+            "NameAr": "يلويلو كيتي"
+        },
+        {
+            "Code": "121736",
+            "Name": "Insel Marinduque",
+            "NameAr": "ينسيل ماريندوقوي"
+        },
+        {
+            "Code": "121082",
+            "Name": "Insel Sipaway",
+            "NameAr": "ينسيل سيباواي"
+        },
+        {
+            "Code": "121631",
+            "Name": "Insel Sumilon",
+            "NameAr": "ينسيل سوميلون"
+        },
+        {
+            "Code": "104068",
+            "Name": "Ipil",
+            "NameAr": "يبيل"
+        },
+        {
+            "Code": "151111",
+            "Name": "Jolo",
+            "NameAr": "جولو"
+        },
+        {
+            "Code": "150319",
+            "Name": "Kalibo",
+            "NameAr": "كاليبو"
+        },
+        {
+            "Code": "103962",
+            "Name": "Kidapawan",
+            "NameAr": "كيداباوان"
+        },
+        {
+            "Code": "150183",
+            "Name": "La Union",
+            "NameAr": "لا ونيون"
+        },
+        {
+            "Code": "123847",
+            "Name": "Lagen Island",
+            "NameAr": "لاجين يسلاند"
+        },
+        {
+            "Code": "125088",
+            "Name": "Laoag",
+            "NameAr": "لاواج"
+        },
+        {
+            "Code": "125090",
+            "Name": "Lapu-Lapu City",
+            "NameAr": "لابو-لابو كيتي"
+        },
+        {
+            "Code": "125220",
+            "Name": "Larena",
+            "NameAr": "لارينا"
+        },
+        {
+            "Code": "124543",
+            "Name": "Las Pinas",
+            "NameAr": "لاس بيناس"
+        },
+        {
+            "Code": "125531",
+            "Name": "Legaspi",
+            "NameAr": "ليجاسبي"
+        },
+        {
+            "Code": "102645",
+            "Name": "Liloan",
+            "NameAr": "ليلوان"
+        },
+        {
+            "Code": "104605",
+            "Name": "Lipa",
+            "NameAr": "ليبا"
+        },
+        {
+            "Code": "150341",
+            "Name": "Loboc",
+            "NameAr": "لوبوك"
+        },
+        {
+            "Code": "105591",
+            "Name": "Loon",
+            "NameAr": "لوون"
+        },
+        {
+            "Code": "150297",
+            "Name": "Los Banos",
+            "NameAr": "لوس بانوس"
+        },
+        {
+            "Code": "102662",
+            "Name": "Lucena City",
+            "NameAr": "لوكينا كيتي"
+        },
+        {
+            "Code": "126723",
+            "Name": "Lungsod ng Naga",
+            "NameAr": "لونجسود نج ناجا"
+        },
+        {
+            "Code": "151623",
+            "Name": "Luzon",
+            "NameAr": "لوزون"
+        },
+        {
+            "Code": "104012",
+            "Name": "Maasin",
+            "NameAr": "مااسين"
+        },
+        {
+            "Code": "383702",
+            "Name": "Mabalacat City",
+            "NameAr": "مابالاكات كيتي"
+        },
+        {
+            "Code": "126748",
+            "Name": "Mactan",
+            "NameAr": "ماكتان"
+        },
+        {
+            "Code": "125693",
+            "Name": "Makati",
+            "NameAr": "ماكاتي"
+        },
+        {
+            "Code": "151143",
+            "Name": "Malabang",
+            "NameAr": "مالابانج"
+        },
+        {
+            "Code": "126945",
+            "Name": "Malapascua",
+            "NameAr": "مالاباسكوا"
+        },
+        {
+            "Code": "146448",
+            "Name": "Malay",
+            "NameAr": "مالاي"
+        },
+        {
+            "Code": "104637",
+            "Name": "Malaybalay City",
+            "NameAr": "مالايبالاي كيتي"
+        },
+        {
+            "Code": "104155",
+            "Name": "Mambajao",
+            "NameAr": "مامباجاو"
+        },
+        {
+            "Code": "151626",
+            "Name": "Mamburao",
+            "NameAr": "مامبوراو"
+        },
+        {
+            "Code": "150234",
+            "Name": "Mandaluyong",
+            "NameAr": "ماندالويونج"
+        },
+        {
+            "Code": "126392",
+            "Name": "Mandaluyong City",
+            "NameAr": "ماندالويونج كيتي"
+        },
+        {
+            "Code": "126964",
+            "Name": "Mandaue City",
+            "NameAr": "مانداوي كيتي"
+        },
+        {
+            "Code": "127116",
+            "Name": "Manila",
+            "NameAr": "مانيلا"
+        },
+        {
+            "Code": "151148",
+            "Name": "Masbate",
+            "NameAr": "ماسباتي"
+        },
+        {
+            "Code": "104489",
+            "Name": "Masbate City",
+            "NameAr": "ماسباتي كيتي"
+        },
+        {
+            "Code": "150783",
+            "Name": "Mati",
+            "NameAr": "ماتي"
+        },
+        {
+            "Code": "128870",
+            "Name": "Mindoro",
+            "NameAr": "ميندورو"
+        },
+        {
+            "Code": "127782",
+            "Name": "Miniloc Island",
+            "NameAr": "مينيلوك يسلاند"
+        },
+        {
+            "Code": "127691",
+            "Name": "Moalboal",
+            "NameAr": "موالبوال"
+        },
+        {
+            "Code": "376950",
+            "Name": "Morong",
+            "NameAr": "مورونج"
+        },
+        {
+            "Code": "146778",
+            "Name": "Muntinlupa City",
+            "NameAr": "مونتينلوبا كيتي"
+        },
+        {
+            "Code": "151538",
+            "Name": "Naga",
+            "NameAr": "ناجا"
+        },
+        {
+            "Code": "129270",
+            "Name": "Narra",
+            "NameAr": "ناررا"
+        },
+        {
+            "Code": "102857",
+            "Name": "Naval",
+            "NameAr": "نافال"
+        },
+        {
+            "Code": "130386",
+            "Name": "Negros",
+            "NameAr": "نيجروس"
+        },
+        {
+            "Code": "130975",
+            "Name": "Olongapo City",
+            "NameAr": "ولونجابو كيتي"
+        },
+        {
+            "Code": "385229",
+            "Name": "Opol",
+            "NameAr": "وبول"
+        },
+        {
+            "Code": "150919",
+            "Name": "Ormoc",
+            "NameAr": "ورموك"
+        },
+        {
+            "Code": "104408",
+            "Name": "Oslob",
+            "NameAr": "وسلوب"
+        },
+        {
+            "Code": "102729",
+            "Name": "Ozamis",
+            "NameAr": "وزاميس"
+        },
+        {
+            "Code": "150400",
+            "Name": "Ozamis City",
+            "NameAr": "وزاميس كيتي"
+        },
+        {
+            "Code": "151300",
+            "Name": "Pagadian",
+            "NameAr": "باجاديان"
+        },
+        {
+            "Code": "104577",
+            "Name": "Pagudpud",
+            "NameAr": "باجودبود"
+        },
+        {
+            "Code": "131386",
+            "Name": "Palawan",
+            "NameAr": "بالاوان"
+        },
+        {
+            "Code": "130876",
+            "Name": "Pamalican Island",
+            "NameAr": "باماليكان يسلاند"
+        },
+        {
+            "Code": "326595",
+            "Name": "Pandan",
+            "NameAr": "باندان"
+        },
+        {
+            "Code": "132043",
+            "Name": "Panglao",
+            "NameAr": "بانجلاو"
+        },
+        {
+            "Code": "150262",
+            "Name": "Paranaque",
+            "NameAr": "باراناقوي"
+        },
+        {
+            "Code": "131563",
+            "Name": "Pasay City",
+            "NameAr": "باساي كيتي"
+        },
+        {
+            "Code": "131020",
+            "Name": "Pasig City",
+            "NameAr": "باسيج كيتي"
+        },
+        {
+            "Code": "132708",
+            "Name": "Payao",
+            "NameAr": "باياو"
+        },
+        {
+            "Code": "132522",
+            "Name": "Pintuyan",
+            "NameAr": "بينتويان"
+        },
+        {
+            "Code": "133987",
+            "Name": "Puerto Galera",
+            "NameAr": "بويرتو جاليرا"
+        },
+        {
+            "Code": "133123",
+            "Name": "Puerto Princesa",
+            "NameAr": "بويرتو برينكيسا"
+        },
+        {
+            "Code": "135021",
+            "Name": "Quezon City",
+            "NameAr": "قويزون كيتي"
+        },
+        {
+            "Code": "135425",
+            "Name": "Romblon Island",
+            "NameAr": "رومبلون يسلاند"
+        },
+        {
+            "Code": "135436",
+            "Name": "Rosario",
+            "NameAr": "روساريو"
+        },
+        {
+            "Code": "134998",
+            "Name": "Roxas City",
+            "NameAr": "روكساس كيتي"
+        },
+        {
+            "Code": "135013",
+            "Name": "Sabang",
+            "NameAr": "سابانج"
+        },
+        {
+            "Code": "135703",
+            "Name": "Samal Island",
+            "NameAr": "سامال يسلاند"
+        },
+        {
+            "Code": "412066",
+            "Name": "San Carlos City",
+            "NameAr": "سان كارلوس كيتي"
+        },
+        {
+            "Code": "135883",
+            "Name": "San Fernando",
+            "NameAr": "سان فيرناندو"
+        },
+        {
+            "Code": "136018",
+            "Name": "San Isidro",
+            "NameAr": "سان يسيدرو"
+        },
+        {
+            "Code": "135946",
+            "Name": "San Jacinto",
+            "NameAr": "سان جاكينتو"
+        },
+        {
+            "Code": "151180",
+            "Name": "San Jose",
+            "NameAr": "سان جوسي"
+        },
+        {
+            "Code": "136019",
+            "Name": "San Juan",
+            "NameAr": "سان جوان"
+        },
+        {
+            "Code": "103144",
+            "Name": "San Leonardo",
+            "NameAr": "سان ليوناردو"
+        },
+        {
+            "Code": "107028",
+            "Name": "San Remigio",
+            "NameAr": "سان ريميجيو"
+        },
+        {
+            "Code": "136344",
+            "Name": "San Roque",
+            "NameAr": "سان روقوي"
+        },
+        {
+            "Code": "150311",
+            "Name": "San Vicente",
+            "NameAr": "سان فيكينتي"
+        },
+        {
+            "Code": "377267",
+            "Name": "Santa Catalina",
+            "NameAr": "سانتا كاتالينا"
+        },
+        {
+            "Code": "136069",
+            "Name": "Santa Rosa City",
+            "NameAr": "سانتا روسا كيتي"
+        },
+        {
+            "Code": "147758",
+            "Name": "Santo Tomas",
+            "NameAr": "سانتو توماس"
+        },
+        {
+            "Code": "137989",
+            "Name": "Silang",
+            "NameAr": "سيلانج"
+        },
+        {
+            "Code": "137031",
+            "Name": "Siquijor",
+            "NameAr": "سيقويجور"
+        },
+        {
+            "Code": "138041",
+            "Name": "Sogod Bay",
+            "NameAr": "سوجود باي"
+        },
+        {
+            "Code": "150295",
+            "Name": "Sorsogon",
+            "NameAr": "سورسوجون"
+        },
+        {
+            "Code": "108576",
+            "Name": "Subic",
+            "NameAr": "سوبيك"
+        },
+        {
+            "Code": "139286",
+            "Name": "Subic Bay",
+            "NameAr": "سوبيك باي"
+        },
+        {
+            "Code": "139528",
+            "Name": "Surigao",
+            "NameAr": "سوريجاو"
+        },
+        {
+            "Code": "350291",
+            "Name": "Tabaco City",
+            "NameAr": "تاباكو كيتي"
+        },
+        {
+            "Code": "150686",
+            "Name": "Tablas",
+            "NameAr": "تابلاس"
+        },
+        {
+            "Code": "106821",
+            "Name": "Tabogon",
+            "NameAr": "تابوجون"
+        },
+        {
+            "Code": "138560",
+            "Name": "Tacloban",
+            "NameAr": "تاكلوبان"
+        },
+        {
+            "Code": "140270",
+            "Name": "Tagaytay",
+            "NameAr": "تاجايتاي"
+        },
+        {
+            "Code": "150238",
+            "Name": "Tagbilaran",
+            "NameAr": "تاجبيلاران"
+        },
+        {
+            "Code": "139892",
+            "Name": "Taguig City",
+            "NameAr": "تاجويج كيتي"
+        },
+        {
+            "Code": "107152",
+            "Name": "Tagum",
+            "NameAr": "تاجوم"
+        },
+        {
+            "Code": "139672",
+            "Name": "Talisay",
+            "NameAr": "تاليساي"
+        },
+        {
+            "Code": "151702",
+            "Name": "Tandag",
+            "NameAr": "تانداج"
+        },
+        {
+            "Code": "139976",
+            "Name": "Tarlac",
+            "NameAr": "تارلاك"
+        },
+        {
+            "Code": "150762",
+            "Name": "Tawitawi",
+            "NameAr": "تاويتاوي"
+        },
+        {
+            "Code": "106854",
+            "Name": "Tuguegarao",
+            "NameAr": "توجويجاراو"
+        },
+        {
+            "Code": "150347",
+            "Name": "Tuguegarao City",
+            "NameAr": "توجويجاراو كيتي"
+        },
+        {
+            "Code": "107670",
+            "Name": "Valencia",
+            "NameAr": "فالينكيا"
+        },
+        {
+            "Code": "150340",
+            "Name": "Vigan",
+            "NameAr": "فيجان"
+        },
+        {
+            "Code": "107865",
+            "Name": "Vigan City",
+            "NameAr": "فيجان كيتي"
+        },
+        {
+            "Code": "151500",
+            "Name": "Virac",
+            "NameAr": "فيراك"
+        },
+        {
+            "Code": "143660",
+            "Name": "Zamboanga",
+            "NameAr": "زامبوانجا"
+        },
+        {
+            "Code": "107920",
+            "Name": "Zamboanguita",
+            "NameAr": "زامبوانجويتا"
+        }
+    ],
+    "totalCities": 192
+}

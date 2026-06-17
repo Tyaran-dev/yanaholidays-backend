@@ -1,0 +1,12 @@
+{
+    "id": "MS",
+    "countryCode": "MS",
+    "cities": [
+        {
+            "Code": "129610",
+            "Name": "Montserrat",
+            "NameAr": "مونتسيررات"
+        }
+    ],
+    "totalCities": 1
+}

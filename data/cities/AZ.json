@@ -1,0 +1,157 @@
+{
+    "id": "AZ",
+    "countryCode": "AZ",
+    "cities": [
+        {
+            "Code": "110755",
+            "Name": "Baku,   Baku",
+            "NameAr": "باكو باكو"
+        },
+        {
+            "Code": "110964",
+            "Name": "Balakan,   Balakan",
+            "NameAr": "بالاكان بالاكان"
+        },
+        {
+            "Code": "102118",
+            "Name": "Bas Kungut,   Sheki",
+            "NameAr": "باس كونجوت سهيكي"
+        },
+        {
+            "Code": "149658",
+            "Name": "Gabala,   Gabala",
+            "NameAr": "جابالا جابالا"
+        },
+        {
+            "Code": "145309",
+            "Name": "Ganja,   Ganja",
+            "NameAr": "جانجا جانجا"
+        },
+        {
+            "Code": "119250",
+            "Name": "Gence,   Ganja",
+            "NameAr": "جينكي جانجا"
+        },
+        {
+            "Code": "286798",
+            "Name": "Goygol,   Goygol",
+            "NameAr": "جويجول جويجول"
+        },
+        {
+            "Code": "267810",
+            "Name": "Ismailli",
+            "NameAr": "يسمايللي"
+        },
+        {
+            "Code": "149816",
+            "Name": "Khankendi (Stepanakert),   Nagorno-Karabakh",
+            "NameAr": "كهانكيندي ستيباناكيرت ناجورنو-كاراباكه"
+        },
+        {
+            "Code": "124994",
+            "Name": "Kuba,   Quba",
+            "NameAr": "كوبا قوبا"
+        },
+        {
+            "Code": "149710",
+            "Name": "Lankaran,   Lankaran",
+            "NameAr": "لانكاران لانكاران"
+        },
+        {
+            "Code": "127018",
+            "Name": "Masalli,   Masalli",
+            "NameAr": "ماساللي ماساللي"
+        },
+        {
+            "Code": "104230",
+            "Name": "Mingachevir,   Mingachevir",
+            "NameAr": "مينجاكهيفير مينجاكهيفير"
+        },
+        {
+            "Code": "128704",
+            "Name": "Naftalan,   Naftalan",
+            "NameAr": "نافتالان نافتالان"
+        },
+        {
+            "Code": "149752",
+            "Name": "Nakhchivan,   Nakhchivan",
+            "NameAr": "ناكهكهيفان ناكهكهيفان"
+        },
+        {
+            "Code": "128723",
+            "Name": "Nardaran,   Baku",
+            "NameAr": "نارداران باكو"
+        },
+        {
+            "Code": "103011",
+            "Name": "Naxcivan,   Nakhchivan",
+            "NameAr": "ناكسكيفان ناكهكهيفان"
+        },
+        {
+            "Code": "104544",
+            "Name": "Novxani,   Baku",
+            "NameAr": "نوفكساني باكو"
+        },
+        {
+            "Code": "417884",
+            "Name": "Pirabadil",
+            "NameAr": "بيراباديل"
+        },
+        {
+            "Code": "147418",
+            "Name": "Qax,   Qax",
+            "NameAr": "قاكس قاكس"
+        },
+        {
+            "Code": "151852",
+            "Name": "Quba,   Quba",
+            "NameAr": "قوبا قوبا"
+        },
+        {
+            "Code": "149782",
+            "Name": "Qusar,   Qusar",
+            "NameAr": "قوسار قوسار"
+        },
+        {
+            "Code": "151862",
+            "Name": "Shabran,   Shabran",
+            "NameAr": "سهابران سهابران"
+        },
+        {
+            "Code": "149795",
+            "Name": "Shamakhi,   Shamakhi",
+            "NameAr": "سهاماكهي سهاماكهي"
+        },
+        {
+            "Code": "404124",
+            "Name": "Shamkir,   Shamkir",
+            "NameAr": "سهامكير سهامكير"
+        },
+        {
+            "Code": "137303",
+            "Name": "Sheki,   Sheki",
+            "NameAr": "سهيكي سهيكي"
+        },
+        {
+            "Code": "138667",
+            "Name": "Shemakha,   Shamakhi",
+            "NameAr": "سهيماكها سهاماكهي"
+        },
+        {
+            "Code": "107753",
+            "Name": "Sumqayit,   Sumqayit",
+            "NameAr": "سومقاييت سومقاييت"
+        },
+        {
+            "Code": "107536",
+            "Name": "Xacmaz,   Khachmaz",
+            "NameAr": "كساكماز كهاكهماز"
+        },
+        {
+            "Code": "149861",
+            "Name": "Zaqatala",
+            "NameAr": "زاقاتالا"
+        }
+    ],
+    "totalCities": 30
+}

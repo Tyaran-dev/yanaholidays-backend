@@ -1,0 +1,12 @@
+{
+    "id": "ER",
+    "countryCode": "ER",
+    "cities": [
+        {
+            "Code": "110320",
+            "Name": "Asmara",
+            "NameAr": "اسمارا"
+        }
+    ],
+    "totalCities": 1
+}

@@ -1,0 +1,37 @@
+{
+    "id": "FM",
+    "countryCode": "FM",
+    "cities": [
+        {
+            "Code": "114420",
+            "Name": "Colonia (Yap)",
+            "NameAr": "كولونيا ياب"
+        },
+        {
+            "Code": "124406",
+            "Name": "Kosrae",
+            "NameAr": "كوسراي"
+        },
+        {
+            "Code": "103783",
+            "Name": "Majuro",
+            "NameAr": "ماجورو"
+        },
+        {
+            "Code": "133477",
+            "Name": "Pohnpei",
+            "NameAr": "بوهنبيي"
+        },
+        {
+            "Code": "142959",
+            "Name": "Weno",
+            "NameAr": "وينو"
+        },
+        {
+            "Code": "148758",
+            "Name": "Yap",
+            "NameAr": "ياب"
+        }
+    ],
+    "totalCities": 6
+}

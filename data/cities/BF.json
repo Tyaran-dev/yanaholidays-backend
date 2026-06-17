@@ -1,0 +1,17 @@
+{
+    "id": "BF",
+    "countryCode": "BF",
+    "cities": [
+        {
+            "Code": "151065",
+            "Name": "Bobo Dioulasso",
+            "NameAr": "بوبو ديوولاسسو"
+        },
+        {
+            "Code": "147041",
+            "Name": "Ouagadougou",
+            "NameAr": "وواجادووجوو"
+        }
+    ],
+    "totalCities": 2
+}

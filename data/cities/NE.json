@@ -1,0 +1,17 @@
+{
+    "id": "NE",
+    "countryCode": "NE",
+    "cities": [
+        {
+            "Code": "417180",
+            "Name": "Bennekom",
+            "NameAr": "بيننيكوم"
+        },
+        {
+            "Code": "129453",
+            "Name": "Niamey",
+            "NameAr": "نياميي"
+        }
+    ],
+    "totalCities": 2
+}

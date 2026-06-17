@@ -1,0 +1,132 @@
+{
+    "id": "ZM",
+    "countryCode": "ZM",
+    "cities": [
+        {
+            "Code": "150067",
+            "Name": "Chiawa",
+            "NameAr": "كهياوا"
+        },
+        {
+            "Code": "114989",
+            "Name": "Chingola",
+            "NameAr": "كهينجولا"
+        },
+        {
+            "Code": "114991",
+            "Name": "Chipata",
+            "NameAr": "كهيباتا"
+        },
+        {
+            "Code": "150073",
+            "Name": "Chisamba",
+            "NameAr": "كهيسامبا"
+        },
+        {
+            "Code": "114365",
+            "Name": "Choma",
+            "NameAr": "كهوما"
+        },
+        {
+            "Code": "150078",
+            "Name": "Jeki",
+            "NameAr": "جيكي"
+        },
+        {
+            "Code": "121823",
+            "Name": "Kafue National Park",
+            "NameAr": "كافوي ناتيونال بارك"
+        },
+        {
+            "Code": "123099",
+            "Name": "Kasanka-Nationalpark",
+            "NameAr": "كاسانكا-ناتيونالبارك"
+        },
+        {
+            "Code": "150070",
+            "Name": "Kazungula",
+            "NameAr": "كازونجولا"
+        },
+        {
+            "Code": "150083",
+            "Name": "Kitwe",
+            "NameAr": "كيتوي"
+        },
+        {
+            "Code": "150069",
+            "Name": "Komanyana",
+            "NameAr": "كومانيانا"
+        },
+        {
+            "Code": "125481",
+            "Name": "Livingstone",
+            "NameAr": "ليفينجستوني"
+        },
+        {
+            "Code": "126681",
+            "Name": "Lusaka",
+            "NameAr": "لوساكا"
+        },
+        {
+            "Code": "127185",
+            "Name": "Mfue",
+            "NameAr": "مفوي"
+        },
+        {
+            "Code": "150636",
+            "Name": "Mfuwe",
+            "NameAr": "مفووي"
+        },
+        {
+            "Code": "146679",
+            "Name": "Mongu",
+            "NameAr": "مونجو"
+        },
+        {
+            "Code": "128541",
+            "Name": "Mosi-oa-Tunya-Nationalpark",
+            "NameAr": "موسي-وا-تونيا-ناتيونالبارك"
+        },
+        {
+            "Code": "130344",
+            "Name": "Mwandi",
+            "NameAr": "مواندي"
+        },
+        {
+            "Code": "128739",
+            "Name": "Ndola",
+            "NameAr": "ندولا"
+        },
+        {
+            "Code": "147865",
+            "Name": "Sesheke",
+            "NameAr": "سيسهيكي"
+        },
+        {
+            "Code": "150066",
+            "Name": "Siavonga",
+            "NameAr": "سيافونجا"
+        },
+        {
+            "Code": "150072",
+            "Name": "Solwezi",
+            "NameAr": "سولويزي"
+        },
+        {
+            "Code": "138338",
+            "Name": "South Luangwa National Park",
+            "NameAr": "سووته لوانجوا ناتيونال بارك"
+        },
+        {
+            "Code": "142320",
+            "Name": "Victoria Falls",
+            "NameAr": "فيكتوريا فاللس"
+        },
+        {
+            "Code": "142931",
+            "Name": "Zambezi",
+            "NameAr": "زامبيزي"
+        }
+    ],
+    "totalCities": 25
+}

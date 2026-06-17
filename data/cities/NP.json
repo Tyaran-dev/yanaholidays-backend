@@ -1,0 +1,197 @@
+{
+    "id": "NP",
+    "countryCode": "NP",
+    "cities": [
+        {
+            "Code": "105024",
+            "Name": "Balthali",
+            "NameAr": "بالتهالي"
+        },
+        {
+            "Code": "110413",
+            "Name": "Bandipur",
+            "NameAr": "بانديبور"
+        },
+        {
+            "Code": "150322",
+            "Name": "Bardia",
+            "NameAr": "بارديا"
+        },
+        {
+            "Code": "105045",
+            "Name": "Bhairahawa",
+            "NameAr": "بهايراهاوا"
+        },
+        {
+            "Code": "144226",
+            "Name": "Bhaktapur",
+            "NameAr": "بهاكتابور"
+        },
+        {
+            "Code": "150482",
+            "Name": "Bharatpur",
+            "NameAr": "بهاراتبور"
+        },
+        {
+            "Code": "105401",
+            "Name": "Bhimeshwar",
+            "NameAr": "بهيميسهوار"
+        },
+        {
+            "Code": "105685",
+            "Name": "Butwal",
+            "NameAr": "بوتوال"
+        },
+        {
+            "Code": "298503",
+            "Name": "Chitwan District",
+            "NameAr": "كهيتوان ديستريكت"
+        },
+        {
+            "Code": "114755",
+            "Name": "Chitwan Nationalpark",
+            "NameAr": "كهيتوان ناتيونالبارك"
+        },
+        {
+            "Code": "102309",
+            "Name": "Dhangadhi",
+            "NameAr": "دهانجادهي"
+        },
+        {
+            "Code": "117357",
+            "Name": "Dhulikhel",
+            "NameAr": "دهوليكهيل"
+        },
+        {
+            "Code": "150303",
+            "Name": "Everest Region",
+            "NameAr": "يفيريست ريجيون"
+        },
+        {
+            "Code": "149233",
+            "Name": "Janakpur",
+            "NameAr": "جاناكبور"
+        },
+        {
+            "Code": "103952",
+            "Name": "Kaski",
+            "NameAr": "كاسكي"
+        },
+        {
+            "Code": "145898",
+            "Name": "Kathmandu",
+            "NameAr": "كاتهماندو"
+        },
+        {
+            "Code": "123675",
+            "Name": "Khawa",
+            "NameAr": "كهاوا"
+        },
+        {
+            "Code": "124782",
+            "Name": "Lalitpur",
+            "NameAr": "لاليتبور"
+        },
+        {
+            "Code": "149243",
+            "Name": "Lekhnath",
+            "NameAr": "ليكهناته"
+        },
+        {
+            "Code": "105572",
+            "Name": "Lete",
+            "NameAr": "ليتي"
+        },
+        {
+            "Code": "149241",
+            "Name": "Listikot",
+            "NameAr": "ليستيكوت"
+        },
+        {
+            "Code": "149250",
+            "Name": "Lukla",
+            "NameAr": "لوكلا"
+        },
+        {
+            "Code": "126720",
+            "Name": "Lumbini",
+            "NameAr": "لومبيني"
+        },
+        {
+            "Code": "128796",
+            "Name": "Meghauli",
+            "NameAr": "ميجهاولي"
+        },
+        {
+            "Code": "150328",
+            "Name": "Nagarkot",
+            "NameAr": "ناجاركوت"
+        },
+        {
+            "Code": "104522",
+            "Name": "Nepalgunj",
+            "NameAr": "نيبالجونج"
+        },
+        {
+            "Code": "160805",
+            "Name": "Panauti\t",
+            "NameAr": "باناوتي"
+        },
+        {
+            "Code": "103430",
+            "Name": "Phakding",
+            "NameAr": "بهاكدينج"
+        },
+        {
+            "Code": "263533",
+            "Name": "Pipara Simara",
+            "NameAr": "بيبارا سيمارا"
+        },
+        {
+            "Code": "132362",
+            "Name": "Pokhara",
+            "NameAr": "بوكهارا"
+        },
+        {
+            "Code": "108455",
+            "Name": "Rupakot",
+            "NameAr": "روباكوت"
+        },
+        {
+            "Code": "245354",
+            "Name": "Sankhu",
+            "NameAr": "سانكهو"
+        },
+        {
+            "Code": "107044",
+            "Name": "Sauraha",
+            "NameAr": "ساوراها"
+        },
+        {
+            "Code": "150679",
+            "Name": "Simara",
+            "NameAr": "سيمارا"
+        },
+        {
+            "Code": "139965",
+            "Name": "Thamal",
+            "NameAr": "تهامال"
+        },
+        {
+            "Code": "106953",
+            "Name": "Thame",
+            "NameAr": "تهامي"
+        },
+        {
+            "Code": "149248",
+            "Name": "Thulo Syabru",
+            "NameAr": "تهولو سيابرو"
+        },
+        {
+            "Code": "149232",
+            "Name": "Tikapur",
+            "NameAr": "تيكابور"
+        }
+    ],
+    "totalCities": 38
+}

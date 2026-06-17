@@ -1,0 +1,1887 @@
+{
+    "id": "TR",
+    "countryCode": "TR",
+    "cities": [
+        {
+            "Code": "101328",
+            "Name": "Abant",
+            "NameAr": "ابانت"
+        },
+        {
+            "Code": "160874",
+            "Name": "Acipayam\t",
+            "NameAr": "اكيبايام"
+        },
+        {
+            "Code": "101331",
+            "Name": "Adalar",
+            "NameAr": "ادالار"
+        },
+        {
+            "Code": "100237",
+            "Name": "Adana",
+            "NameAr": "ادانا"
+        },
+        {
+            "Code": "100339",
+            "Name": "Adapazari",
+            "NameAr": "ادابازاري"
+        },
+        {
+            "Code": "100034",
+            "Name": "Adiyaman",
+            "NameAr": "ادييامان"
+        },
+        {
+            "Code": "100351",
+            "Name": "Afyon",
+            "NameAr": "افيون"
+        },
+        {
+            "Code": "100575",
+            "Name": "Afyonkarahisar",
+            "NameAr": "افيونكاراهيسار"
+        },
+        {
+            "Code": "100674",
+            "Name": "Aglasun",
+            "NameAr": "اجلاسون"
+        },
+        {
+            "Code": "104981",
+            "Name": "Agri",
+            "NameAr": "اجري"
+        },
+        {
+            "Code": "100375",
+            "Name": "Akbuk",
+            "NameAr": "اكبوك"
+        },
+        {
+            "Code": "104984",
+            "Name": "Akcaabat",
+            "NameAr": "اككاابات"
+        },
+        {
+            "Code": "104985",
+            "Name": "Akcakoca",
+            "NameAr": "اككاكوكا"
+        },
+        {
+            "Code": "105072",
+            "Name": "Akcay",
+            "NameAr": "اككاي"
+        },
+        {
+            "Code": "102148",
+            "Name": "Akhisar",
+            "NameAr": "اكهيسار"
+        },
+        {
+            "Code": "100377",
+            "Name": "Aksaray",
+            "NameAr": "اكساراي"
+        },
+        {
+            "Code": "100487",
+            "Name": "Aksu",
+            "NameAr": "اكسو"
+        },
+        {
+            "Code": "100279",
+            "Name": "Akyaka",
+            "NameAr": "اكياكا"
+        },
+        {
+            "Code": "100811",
+            "Name": "Akyarlar",
+            "NameAr": "اكيارلار"
+        },
+        {
+            "Code": "307025",
+            "Name": "Akyurt",
+            "NameAr": "اكيورت"
+        },
+        {
+            "Code": "363241",
+            "Name": "Alacati,   Izmir",
+            "NameAr": "الاكاتي يزمير"
+        },
+        {
+            "Code": "100816",
+            "Name": "Alanya",
+            "NameAr": "الانيا"
+        },
+        {
+            "Code": "100281",
+            "Name": "Alanya-Kargicak",
+            "NameAr": "الانيا-كارجيكاك"
+        },
+        {
+            "Code": "100383",
+            "Name": "Alara",
+            "NameAr": "الارا"
+        },
+        {
+            "Code": "100384",
+            "Name": "Alasehir",
+            "NameAr": "الاسيهير"
+        },
+        {
+            "Code": "105079",
+            "Name": "Aliaga",
+            "NameAr": "الياجا"
+        },
+        {
+            "Code": "101110",
+            "Name": "Altinkum",
+            "NameAr": "التينكوم"
+        },
+        {
+            "Code": "104708",
+            "Name": "Altinoluk",
+            "NameAr": "التينولوك"
+        },
+        {
+            "Code": "101346",
+            "Name": "Altinova",
+            "NameAr": "التينوفا"
+        },
+        {
+            "Code": "109547",
+            "Name": "Amasra",
+            "NameAr": "اماسرا"
+        },
+        {
+            "Code": "109548",
+            "Name": "Amasya",
+            "NameAr": "اماسيا"
+        },
+        {
+            "Code": "109563",
+            "Name": "Anamur",
+            "NameAr": "انامور"
+        },
+        {
+            "Code": "109340",
+            "Name": "Ankara",
+            "NameAr": "انكارا"
+        },
+        {
+            "Code": "109583",
+            "Name": "Antakya",
+            "NameAr": "انتاكيا"
+        },
+        {
+            "Code": "109471",
+            "Name": "Antalya",
+            "NameAr": "انتاليا"
+        },
+        {
+            "Code": "353042",
+            "Name": "Antalya Region",
+            "NameAr": "انتاليا ريجيون"
+        },
+        {
+            "Code": "105166",
+            "Name": "Arakli",
+            "NameAr": "اراكلي"
+        },
+        {
+            "Code": "109503",
+            "Name": "Ardahan",
+            "NameAr": "ارداهان"
+        },
+        {
+            "Code": "101573",
+            "Name": "Ardesen",
+            "NameAr": "ارديسين"
+        },
+        {
+            "Code": "160100",
+            "Name": "Arhavi,   Artvin (province)",
+            "NameAr": "ارهافي ارتفين بروفينكي"
+        },
+        {
+            "Code": "100952",
+            "Name": "Armutalan",
+            "NameAr": "ارموتالان"
+        },
+        {
+            "Code": "293344",
+            "Name": "Arnavutkoy",
+            "NameAr": "ارنافوتكوي"
+        },
+        {
+            "Code": "100965",
+            "Name": "Artvin",
+            "NameAr": "ارتفين"
+        },
+        {
+            "Code": "105009",
+            "Name": "Assos",
+            "NameAr": "اسسوس"
+        },
+        {
+            "Code": "110022",
+            "Name": "Avanos",
+            "NameAr": "افانوس"
+        },
+        {
+            "Code": "342197",
+            "Name": "Avcilar",
+            "NameAr": "افكيلار"
+        },
+        {
+            "Code": "105115",
+            "Name": "Avsa Adasi",
+            "NameAr": "افسا اداسي"
+        },
+        {
+            "Code": "110355",
+            "Name": "Avsallar",
+            "NameAr": "افساللار"
+        },
+        {
+            "Code": "105017",
+            "Name": "Ayancik",
+            "NameAr": "ايانكيك"
+        },
+        {
+            "Code": "101585",
+            "Name": "Ayas",
+            "NameAr": "اياس"
+        },
+        {
+            "Code": "144018",
+            "Name": "Aydin",
+            "NameAr": "ايدين"
+        },
+        {
+            "Code": "105183",
+            "Name": "Aydincik",
+            "NameAr": "ايدينكيك"
+        },
+        {
+            "Code": "109679",
+            "Name": "Ayvacik",
+            "NameAr": "ايفاكيك"
+        },
+        {
+            "Code": "144022",
+            "Name": "Ayvalik",
+            "NameAr": "ايفاليك"
+        },
+        {
+            "Code": "101587",
+            "Name": "Babakale",
+            "NameAr": "باباكالي"
+        },
+        {
+            "Code": "102191",
+            "Name": "Bademli",
+            "NameAr": "باديملي"
+        },
+        {
+            "Code": "111103",
+            "Name": "Balikesir",
+            "NameAr": "باليكيسير"
+        },
+        {
+            "Code": "111122",
+            "Name": "Bandirma",
+            "NameAr": "بانديرما"
+        },
+        {
+            "Code": "102116",
+            "Name": "Bartin",
+            "NameAr": "بارتين"
+        },
+        {
+            "Code": "110885",
+            "Name": "Batman",
+            "NameAr": "باتمان"
+        },
+        {
+            "Code": "105036",
+            "Name": "Bayburt",
+            "NameAr": "بايبورت"
+        },
+        {
+            "Code": "101502",
+            "Name": "Bayindir",
+            "NameAr": "باييندير"
+        },
+        {
+            "Code": "111422",
+            "Name": "Behramkale",
+            "NameAr": "بيهرامكالي"
+        },
+        {
+            "Code": "144158",
+            "Name": "Beldibi",
+            "NameAr": "بيلديبي"
+        },
+        {
+            "Code": "111426",
+            "Name": "Belek",
+            "NameAr": "بيليك"
+        },
+        {
+            "Code": "110603",
+            "Name": "Bergama",
+            "NameAr": "بيرجاما"
+        },
+        {
+            "Code": "102130",
+            "Name": "Besiktas",
+            "NameAr": "بيسيكتاس"
+        },
+        {
+            "Code": "111289",
+            "Name": "Beypazari",
+            "NameAr": "بييبازاري"
+        },
+        {
+            "Code": "108055",
+            "Name": "Beysehir",
+            "NameAr": "بييسيهير"
+        },
+        {
+            "Code": "373827",
+            "Name": "Biga",
+            "NameAr": "بيجا"
+        },
+        {
+            "Code": "111303",
+            "Name": "Bilecik",
+            "NameAr": "بيليكيك"
+        },
+        {
+            "Code": "111710",
+            "Name": "Bingol",
+            "NameAr": "بينجول"
+        },
+        {
+            "Code": "108063",
+            "Name": "Birgi",
+            "NameAr": "بيرجي"
+        },
+        {
+            "Code": "111319",
+            "Name": "Bitez",
+            "NameAr": "بيتيز"
+        },
+        {
+            "Code": "112629",
+            "Name": "Bitlis",
+            "NameAr": "بيتليس"
+        },
+        {
+            "Code": "144297",
+            "Name": "Bodrum",
+            "NameAr": "بودروم"
+        },
+        {
+            "Code": "144298",
+            "Name": "Bogazak",
+            "NameAr": "بوجازاك"
+        },
+        {
+            "Code": "111616",
+            "Name": "Bogazici",
+            "NameAr": "بوجازيكي"
+        },
+        {
+            "Code": "108070",
+            "Name": "Bogazkale",
+            "NameAr": "بوجازكالي"
+        },
+        {
+            "Code": "112647",
+            "Name": "Bogazkent",
+            "NameAr": "بوجازكينت"
+        },
+        {
+            "Code": "144305",
+            "Name": "Bolu",
+            "NameAr": "بولو"
+        },
+        {
+            "Code": "111832",
+            "Name": "Bordubet",
+            "NameAr": "بوردوبيت"
+        },
+        {
+            "Code": "112266",
+            "Name": "Bozcaada",
+            "NameAr": "بوزكاادا"
+        },
+        {
+            "Code": "396382",
+            "Name": "Bozuyuk",
+            "NameAr": "بوزويوك"
+        },
+        {
+            "Code": "112343",
+            "Name": "Bozyazi",
+            "NameAr": "بوزيازي"
+        },
+        {
+            "Code": "105218",
+            "Name": "Bulancak",
+            "NameAr": "بولانكاك"
+        },
+        {
+            "Code": "108095",
+            "Name": "Burdur",
+            "NameAr": "بوردور"
+        },
+        {
+            "Code": "105681",
+            "Name": "Burgaz Adasi",
+            "NameAr": "بورجاز اداسي"
+        },
+        {
+            "Code": "113006",
+            "Name": "Burhaniye",
+            "NameAr": "بورهانييي"
+        },
+        {
+            "Code": "112736",
+            "Name": "Bursa",
+            "NameAr": "بورسا"
+        },
+        {
+            "Code": "113024",
+            "Name": "Buyukeceli",
+            "NameAr": "بويوكيكيلي"
+        },
+        {
+            "Code": "105339",
+            "Name": "Camlihemsin",
+            "NameAr": "كامليهيمسين"
+        },
+        {
+            "Code": "112810",
+            "Name": "Camyuva",
+            "NameAr": "كاميوفا"
+        },
+        {
+            "Code": "114157",
+            "Name": "Canakkale",
+            "NameAr": "كاناككالي"
+        },
+        {
+            "Code": "101391",
+            "Name": "Candarli",
+            "NameAr": "كاندارلي"
+        },
+        {
+            "Code": "114167",
+            "Name": "Cankiri",
+            "NameAr": "كانكيري"
+        },
+        {
+            "Code": "150283",
+            "Name": "Cappadocia",
+            "NameAr": "كاببادوكيا"
+        },
+        {
+            "Code": "113645",
+            "Name": "Cavusin",
+            "NameAr": "كافوسين"
+        },
+        {
+            "Code": "114898",
+            "Name": "Cavuskoy",
+            "NameAr": "كافوسكوي"
+        },
+        {
+            "Code": "102247",
+            "Name": "Caykara",
+            "NameAr": "كايكارا"
+        },
+        {
+            "Code": "160796",
+            "Name": "Cekmekoey\t",
+            "NameAr": "كيكميكويي"
+        },
+        {
+            "Code": "114587",
+            "Name": "Cerkezkoy",
+            "NameAr": "كيركيزكوي"
+        },
+        {
+            "Code": "144609",
+            "Name": "Cesme",
+            "NameAr": "كيسمي"
+        },
+        {
+            "Code": "113592",
+            "Name": "Cesme-Ilica",
+            "NameAr": "كيسمي-يليكا"
+        },
+        {
+            "Code": "114471",
+            "Name": "Cesmealti",
+            "NameAr": "كيسميالتي"
+        },
+        {
+            "Code": "114556",
+            "Name": "Cide",
+            "NameAr": "كيدي"
+        },
+        {
+            "Code": "105445",
+            "Name": "Ciftehan",
+            "NameAr": "كيفتيهان"
+        },
+        {
+            "Code": "417999",
+            "Name": "Cimenli",
+            "NameAr": "كيمينلي"
+        },
+        {
+            "Code": "115245",
+            "Name": "Colakli",
+            "NameAr": "كولاكلي"
+        },
+        {
+            "Code": "115504",
+            "Name": "Corlu",
+            "NameAr": "كورلو"
+        },
+        {
+            "Code": "144782",
+            "Name": "Corum",
+            "NameAr": "كوروم"
+        },
+        {
+            "Code": "101843",
+            "Name": "Cunda Adasi",
+            "NameAr": "كوندا اداسي"
+        },
+        {
+            "Code": "115617",
+            "Name": "Daday",
+            "NameAr": "داداي"
+        },
+        {
+            "Code": "116248",
+            "Name": "Dalaman",
+            "NameAr": "دالامان"
+        },
+        {
+            "Code": "115625",
+            "Name": "Dalyan",
+            "NameAr": "داليان"
+        },
+        {
+            "Code": "105999",
+            "Name": "Darende",
+            "NameAr": "داريندي"
+        },
+        {
+            "Code": "115653",
+            "Name": "Darica",
+            "NameAr": "داريكا"
+        },
+        {
+            "Code": "116268",
+            "Name": "Datca",
+            "NameAr": "داتكا"
+        },
+        {
+            "Code": "115196",
+            "Name": "Davraz",
+            "NameAr": "دافراز"
+        },
+        {
+            "Code": "116279",
+            "Name": "Defne",
+            "NameAr": "ديفني"
+        },
+        {
+            "Code": "105776",
+            "Name": "Demirkapi, Caykara",
+            "NameAr": "ديميركابي كايكارا"
+        },
+        {
+            "Code": "160104",
+            "Name": "Demirkoy",
+            "NameAr": "ديميركوي"
+        },
+        {
+            "Code": "116328",
+            "Name": "Demre",
+            "NameAr": "ديمري"
+        },
+        {
+            "Code": "116286",
+            "Name": "Denizli",
+            "NameAr": "دينيزلي"
+        },
+        {
+            "Code": "106004",
+            "Name": "Dereceoren",
+            "NameAr": "ديريكيورين"
+        },
+        {
+            "Code": "106005",
+            "Name": "Derince",
+            "NameAr": "ديرينكي"
+        },
+        {
+            "Code": "108188",
+            "Name": "Derinkuyu",
+            "NameAr": "ديرينكويو"
+        },
+        {
+            "Code": "116307",
+            "Name": "Didim",
+            "NameAr": "ديديم"
+        },
+        {
+            "Code": "116349",
+            "Name": "Dikili",
+            "NameAr": "ديكيلي"
+        },
+        {
+            "Code": "116999",
+            "Name": "Diyarbakir",
+            "NameAr": "دييارباكير"
+        },
+        {
+            "Code": "144938",
+            "Name": "Dogubeyazit",
+            "NameAr": "دوجوبييازيت"
+        },
+        {
+            "Code": "115964",
+            "Name": "Duzce",
+            "NameAr": "دوزكي"
+        },
+        {
+            "Code": "101873",
+            "Name": "Eceabat",
+            "NameAr": "يكيابات"
+        },
+        {
+            "Code": "118028",
+            "Name": "Edirne",
+            "NameAr": "يديرني"
+        },
+        {
+            "Code": "116785",
+            "Name": "Edremit",
+            "NameAr": "يدريميت"
+        },
+        {
+            "Code": "116531",
+            "Name": "Elazig",
+            "NameAr": "يلازيج"
+        },
+        {
+            "Code": "101879",
+            "Name": "Elbistan",
+            "NameAr": "يلبيستان"
+        },
+        {
+            "Code": "102368",
+            "Name": "Elmali",
+            "NameAr": "يلمالي"
+        },
+        {
+            "Code": "117823",
+            "Name": "Erciyes",
+            "NameAr": "يركيييس"
+        },
+        {
+            "Code": "117824",
+            "Name": "Erdek",
+            "NameAr": "يرديك"
+        },
+        {
+            "Code": "117825",
+            "Name": "Erdemli",
+            "NameAr": "يرديملي"
+        },
+        {
+            "Code": "117828",
+            "Name": "Eregli",
+            "NameAr": "يريجلي"
+        },
+        {
+            "Code": "148874",
+            "Name": "Ergani",
+            "NameAr": "يرجاني"
+        },
+        {
+            "Code": "117185",
+            "Name": "Erzincan",
+            "NameAr": "يرزينكان"
+        },
+        {
+            "Code": "117186",
+            "Name": "Erzurum",
+            "NameAr": "يرزوروم"
+        },
+        {
+            "Code": "117507",
+            "Name": "Eskisehir",
+            "NameAr": "يسكيسيهير"
+        },
+        {
+            "Code": "117535",
+            "Name": "Evrenseki",
+            "NameAr": "يفرينسيكي"
+        },
+        {
+            "Code": "118127",
+            "Name": "Faralya",
+            "NameAr": "فاراليا"
+        },
+        {
+            "Code": "102226",
+            "Name": "Fatsa",
+            "NameAr": "فاتسا"
+        },
+        {
+            "Code": "118267",
+            "Name": "Fethiye",
+            "NameAr": "فيتهييي"
+        },
+        {
+            "Code": "108239",
+            "Name": "Filyos",
+            "NameAr": "فيليوس"
+        },
+        {
+            "Code": "118826",
+            "Name": "Finike",
+            "NameAr": "فينيكي"
+        },
+        {
+            "Code": "118300",
+            "Name": "Foca",
+            "NameAr": "فوكا"
+        },
+        {
+            "Code": "119630",
+            "Name": "Gaziantep",
+            "NameAr": "جازيانتيب"
+        },
+        {
+            "Code": "101516",
+            "Name": "Gaziemir",
+            "NameAr": "جازييمير"
+        },
+        {
+            "Code": "118007",
+            "Name": "Gazipasa",
+            "NameAr": "جازيباسا"
+        },
+        {
+            "Code": "118667",
+            "Name": "Gazligol",
+            "NameAr": "جازليجول"
+        },
+        {
+            "Code": "119361",
+            "Name": "Gebze",
+            "NameAr": "جيبزي"
+        },
+        {
+            "Code": "417988",
+            "Name": "Gelemis",
+            "NameAr": "جيليميس"
+        },
+        {
+            "Code": "106099",
+            "Name": "Gelibolu",
+            "NameAr": "جيليبولو"
+        },
+        {
+            "Code": "119367",
+            "Name": "Gemlik",
+            "NameAr": "جيمليك"
+        },
+        {
+            "Code": "119102",
+            "Name": "Gerede",
+            "NameAr": "جيريدي"
+        },
+        {
+            "Code": "119394",
+            "Name": "Giresun",
+            "NameAr": "جيريسون"
+        },
+        {
+            "Code": "119807",
+            "Name": "Gocek",
+            "NameAr": "جوكيك"
+        },
+        {
+            "Code": "119810",
+            "Name": "Gokceada",
+            "NameAr": "جوككيادا"
+        },
+        {
+            "Code": "120351",
+            "Name": "Gokova",
+            "NameAr": "جوكوفا"
+        },
+        {
+            "Code": "119667",
+            "Name": "Golbasi",
+            "NameAr": "جولباسي"
+        },
+        {
+            "Code": "119668",
+            "Name": "Golcuk",
+            "NameAr": "جولكوك"
+        },
+        {
+            "Code": "101526",
+            "Name": "Golhisar",
+            "NameAr": "جولهيسار"
+        },
+        {
+            "Code": "119162",
+            "Name": "Golturkbuku",
+            "NameAr": "جولتوركبوكو"
+        },
+        {
+            "Code": "120375",
+            "Name": "Gorukle",
+            "NameAr": "جوروكلي"
+        },
+        {
+            "Code": "119330",
+            "Name": "Goynuk",
+            "NameAr": "جوينوك"
+        },
+        {
+            "Code": "120432",
+            "Name": "Gulluk",
+            "NameAr": "جوللوك"
+        },
+        {
+            "Code": "119506",
+            "Name": "Gumbet",
+            "NameAr": "جومبيت"
+        },
+        {
+            "Code": "119507",
+            "Name": "Gumuldur",
+            "NameAr": "جومولدور"
+        },
+        {
+            "Code": "101768",
+            "Name": "Gumushane",
+            "NameAr": "جوموسهاني"
+        },
+        {
+            "Code": "145488",
+            "Name": "Gundogdu",
+            "NameAr": "جوندوجدو"
+        },
+        {
+            "Code": "101540",
+            "Name": "Gure",
+            "NameAr": "جوري"
+        },
+        {
+            "Code": "119928",
+            "Name": "Guvercinlik",
+            "NameAr": "جوفيركينليك"
+        },
+        {
+            "Code": "145494",
+            "Name": "Guzelcamli",
+            "NameAr": "جوزيلكاملي"
+        },
+        {
+            "Code": "120071",
+            "Name": "Guzelyali",
+            "NameAr": "جوزيليالي"
+        },
+        {
+            "Code": "102501",
+            "Name": "Guzelyurt",
+            "NameAr": "جوزيليورت"
+        },
+        {
+            "Code": "102429",
+            "Name": "Hakkari",
+            "NameAr": "هاككاري"
+        },
+        {
+            "Code": "102431",
+            "Name": "Harbiye",
+            "NameAr": "هاربييي"
+        },
+        {
+            "Code": "120790",
+            "Name": "Hatay",
+            "NameAr": "هاتاي"
+        },
+        {
+            "Code": "280135",
+            "Name": "Havza",
+            "NameAr": "هافزا"
+        },
+        {
+            "Code": "106142",
+            "Name": "Hayrabolu",
+            "NameAr": "هايرابولو"
+        },
+        {
+            "Code": "121342",
+            "Name": "Heybeliada",
+            "NameAr": "هييبيليادا"
+        },
+        {
+            "Code": "120302",
+            "Name": "Hisaronu",
+            "NameAr": "هيسارونو"
+        },
+        {
+            "Code": "121542",
+            "Name": "Hopa",
+            "NameAr": "هوبا"
+        },
+        {
+            "Code": "121594",
+            "Name": "Icmeler",
+            "NameAr": "يكميلير"
+        },
+        {
+            "Code": "121453",
+            "Name": "Igneada",
+            "NameAr": "يجنيادا"
+        },
+        {
+            "Code": "122100",
+            "Name": "Ikizdere",
+            "NameAr": "يكيزديري"
+        },
+        {
+            "Code": "104064",
+            "Name": "Ilgaz",
+            "NameAr": "يلجاز"
+        },
+        {
+            "Code": "121458",
+            "Name": "Ilgin",
+            "NameAr": "يلجين"
+        },
+        {
+            "Code": "101931",
+            "Name": "Inkumu",
+            "NameAr": "ينكومو"
+        },
+        {
+            "Code": "121074",
+            "Name": "Insel Buyukada",
+            "NameAr": "ينسيل بويوكادا"
+        },
+        {
+            "Code": "145776",
+            "Name": "Iskenderun",
+            "NameAr": "يسكينديرون"
+        },
+        {
+            "Code": "302090",
+            "Name": "Islamlar",
+            "NameAr": "يسلاملار"
+        },
+        {
+            "Code": "122421",
+            "Name": "Isparta",
+            "NameAr": "يسبارتا"
+        },
+        {
+            "Code": "122727",
+            "Name": "Istanbul",
+            "NameAr": "يستانبول"
+        },
+        {
+            "Code": "122728",
+            "Name": "Istanbul-Silivri",
+            "NameAr": "يستانبول-سيليفري"
+        },
+        {
+            "Code": "123409",
+            "Name": "Izmir",
+            "NameAr": "يزمير"
+        },
+        {
+            "Code": "123410",
+            "Name": "Izmit",
+            "NameAr": "يزميت"
+        },
+        {
+            "Code": "105879",
+            "Name": "Iznik",
+            "NameAr": "يزنيك"
+        },
+        {
+            "Code": "122502",
+            "Name": "Kadriye",
+            "NameAr": "كادرييي"
+        },
+        {
+            "Code": "122506",
+            "Name": "Kahramanmaras",
+            "NameAr": "كاهرامانماراس"
+        },
+        {
+            "Code": "122229",
+            "Name": "Kahta",
+            "NameAr": "كاهتا"
+        },
+        {
+            "Code": "121833",
+            "Name": "Kalkan",
+            "NameAr": "كالكان"
+        },
+        {
+            "Code": "101944",
+            "Name": "Kalkim",
+            "NameAr": "كالكيم"
+        },
+        {
+            "Code": "160754",
+            "Name": "Karabuk",
+            "NameAr": "كارابوك"
+        },
+        {
+            "Code": "122526",
+            "Name": "Karaburun",
+            "NameAr": "كارابورون"
+        },
+        {
+            "Code": "106181",
+            "Name": "Karacabey",
+            "NameAr": "كاراكابيي"
+        },
+        {
+            "Code": "102536",
+            "Name": "Karacasu",
+            "NameAr": "كاراكاسو"
+        },
+        {
+            "Code": "122527",
+            "Name": "Karahayit",
+            "NameAr": "كاراهاييت"
+        },
+        {
+            "Code": "122832",
+            "Name": "Karaman",
+            "NameAr": "كارامان"
+        },
+        {
+            "Code": "106183",
+            "Name": "Karapazar",
+            "NameAr": "كارابازار"
+        },
+        {
+            "Code": "122847",
+            "Name": "Kars",
+            "NameAr": "كارس"
+        },
+        {
+            "Code": "123515",
+            "Name": "Kas",
+            "NameAr": "كاس"
+        },
+        {
+            "Code": "122953",
+            "Name": "Kastamonu",
+            "NameAr": "كاستامونو"
+        },
+        {
+            "Code": "123116",
+            "Name": "Kavaklidere",
+            "NameAr": "كافاكليديري"
+        },
+        {
+            "Code": "145907",
+            "Name": "Kayakoy",
+            "NameAr": "كاياكوي"
+        },
+        {
+            "Code": "122546",
+            "Name": "Kayseri",
+            "NameAr": "كايسيري"
+        },
+        {
+            "Code": "103711",
+            "Name": "Kelkit",
+            "NameAr": "كيلكيت"
+        },
+        {
+            "Code": "122972",
+            "Name": "Kemer",
+            "NameAr": "كيمير"
+        },
+        {
+            "Code": "145914",
+            "Name": "Kemer Village",
+            "NameAr": "كيمير فيللاجي"
+        },
+        {
+            "Code": "286126",
+            "Name": "Kepez",
+            "NameAr": "كيبيز"
+        },
+        {
+            "Code": "123542",
+            "Name": "Kesan",
+            "NameAr": "كيسان"
+        },
+        {
+            "Code": "123543",
+            "Name": "Kestel",
+            "NameAr": "كيستيل"
+        },
+        {
+            "Code": "156639",
+            "Name": "Kilis",
+            "NameAr": "كيليس"
+        },
+        {
+            "Code": "102548",
+            "Name": "Kilyos",
+            "NameAr": "كيليوس"
+        },
+        {
+            "Code": "122600",
+            "Name": "Kirikhan",
+            "NameAr": "كيريكهان"
+        },
+        {
+            "Code": "103716",
+            "Name": "Kirikkale",
+            "NameAr": "كيريككالي"
+        },
+        {
+            "Code": "122601",
+            "Name": "Kiris",
+            "NameAr": "كيريس"
+        },
+        {
+            "Code": "102553",
+            "Name": "Kirklareli",
+            "NameAr": "كيركلاريلي"
+        },
+        {
+            "Code": "123706",
+            "Name": "Kirsehir",
+            "NameAr": "كيرسيهير"
+        },
+        {
+            "Code": "123037",
+            "Name": "Kizilagac",
+            "NameAr": "كيزيلاجاك"
+        },
+        {
+            "Code": "406515",
+            "Name": "Kizilcahamam",
+            "NameAr": "كيزيلكاهامام"
+        },
+        {
+            "Code": "123850",
+            "Name": "Kizilot",
+            "NameAr": "كيزيلوت"
+        },
+        {
+            "Code": "123038",
+            "Name": "Kizkalesi",
+            "NameAr": "كيزكاليسي"
+        },
+        {
+            "Code": "123867",
+            "Name": "Kocaeli",
+            "NameAr": "كوكايلي"
+        },
+        {
+            "Code": "146002",
+            "Name": "Konakli",
+            "NameAr": "كوناكلي"
+        },
+        {
+            "Code": "124400",
+            "Name": "Konya",
+            "NameAr": "كونيا"
+        },
+        {
+            "Code": "123993",
+            "Name": "Konyaalti",
+            "NameAr": "كونياالتي"
+        },
+        {
+            "Code": "124957",
+            "Name": "Korfez",
+            "NameAr": "كورفيز"
+        },
+        {
+            "Code": "124001",
+            "Name": "Korkuteli",
+            "NameAr": "كوركوتيلي"
+        },
+        {
+            "Code": "123899",
+            "Name": "Koycegiz / Mugla",
+            "NameAr": "كويكيجيز موجلا"
+        },
+        {
+            "Code": "104126",
+            "Name": "Kozakli",
+            "NameAr": "كوزاكلي"
+        },
+        {
+            "Code": "105538",
+            "Name": "Kucukkoy",
+            "NameAr": "كوكوككوي"
+        },
+        {
+            "Code": "124312",
+            "Name": "Kucukkuyu",
+            "NameAr": "كوكوككويو"
+        },
+        {
+            "Code": "103887",
+            "Name": "Kula",
+            "NameAr": "كولا"
+        },
+        {
+            "Code": "125003",
+            "Name": "Kumkoy",
+            "NameAr": "كومكوي"
+        },
+        {
+            "Code": "125004",
+            "Name": "Kumlubuk",
+            "NameAr": "كوملوبوك"
+        },
+        {
+            "Code": "123345",
+            "Name": "Kumluca",
+            "NameAr": "كوملوكا"
+        },
+        {
+            "Code": "125013",
+            "Name": "Kusadasi",
+            "NameAr": "كوساداسي"
+        },
+        {
+            "Code": "124046",
+            "Name": "Kutahya",
+            "NameAr": "كوتاهيا"
+        },
+        {
+            "Code": "101993",
+            "Name": "Ladik",
+            "NameAr": "لاديك"
+        },
+        {
+            "Code": "396478",
+            "Name": "Luleburgaz",
+            "NameAr": "لوليبورجاز"
+        },
+        {
+            "Code": "146429",
+            "Name": "Mahmutlar",
+            "NameAr": "ماهموتلار"
+        },
+        {
+            "Code": "125703",
+            "Name": "Malatya",
+            "NameAr": "مالاتيا"
+        },
+        {
+            "Code": "127107",
+            "Name": "Maltepe",
+            "NameAr": "مالتيبي"
+        },
+        {
+            "Code": "126142",
+            "Name": "Manavgat",
+            "NameAr": "مانافجات"
+        },
+        {
+            "Code": "146466",
+            "Name": "Manisa",
+            "NameAr": "مانيسا"
+        },
+        {
+            "Code": "146494",
+            "Name": "Mardin",
+            "NameAr": "ماردين"
+        },
+        {
+            "Code": "104163",
+            "Name": "Marmara Ereglisi",
+            "NameAr": "مارمارا يريجليسي"
+        },
+        {
+            "Code": "126434",
+            "Name": "Marmaris",
+            "NameAr": "مارماريس"
+        },
+        {
+            "Code": "128214",
+            "Name": "Mersin",
+            "NameAr": "ميرسين"
+        },
+        {
+            "Code": "128217",
+            "Name": "Merzifon",
+            "NameAr": "ميرزيفون"
+        },
+        {
+            "Code": "128827",
+            "Name": "Mesudiye",
+            "NameAr": "ميسودييي"
+        },
+        {
+            "Code": "104773",
+            "Name": "Mezitli",
+            "NameAr": "ميزيتلي"
+        },
+        {
+            "Code": "127195",
+            "Name": "Midyat",
+            "NameAr": "ميديات"
+        },
+        {
+            "Code": "150211",
+            "Name": "Milas",
+            "NameAr": "ميلاس"
+        },
+        {
+            "Code": "129412",
+            "Name": "Mudanya",
+            "NameAr": "مودانيا"
+        },
+        {
+            "Code": "128453",
+            "Name": "Mugla",
+            "NameAr": "موجلا"
+        },
+        {
+            "Code": "128690",
+            "Name": "Mus",
+            "NameAr": "موس"
+        },
+        {
+            "Code": "102024",
+            "Name": "Mustafapasa",
+            "NameAr": "موستافاباسا"
+        },
+        {
+            "Code": "149986",
+            "Name": "Mut",
+            "NameAr": "موت"
+        },
+        {
+            "Code": "129322",
+            "Name": "Nevsehir",
+            "NameAr": "نيفسيهير"
+        },
+        {
+            "Code": "130476",
+            "Name": "Nigde",
+            "NameAr": "نيجدي"
+        },
+        {
+            "Code": "130619",
+            "Name": "Okurcalar - Karaburun",
+            "NameAr": "وكوركالار - كارابورون"
+        },
+        {
+            "Code": "130795",
+            "Name": "Ordu",
+            "NameAr": "وردو"
+        },
+        {
+            "Code": "131664",
+            "Name": "Oren / Mugla",
+            "NameAr": "ورين موجلا"
+        },
+        {
+            "Code": "130796",
+            "Name": "Orensehir",
+            "NameAr": "ورينسيهير"
+        },
+        {
+            "Code": "150221",
+            "Name": "Ortaca",
+            "NameAr": "ورتاكا"
+        },
+        {
+            "Code": "131333",
+            "Name": "Ortahisar",
+            "NameAr": "ورتاهيسار"
+        },
+        {
+            "Code": "130264",
+            "Name": "Ortakent",
+            "NameAr": "ورتاكينت"
+        },
+        {
+            "Code": "131315",
+            "Name": "Osmangazi",
+            "NameAr": "وسمانجازي"
+        },
+        {
+            "Code": "151806",
+            "Name": "Osmaniye",
+            "NameAr": "وسمانييي"
+        },
+        {
+            "Code": "131705",
+            "Name": "Ovacik",
+            "NameAr": "وفاكيك"
+        },
+        {
+            "Code": "131988",
+            "Name": "Ozdere",
+            "NameAr": "وزديري"
+        },
+        {
+            "Code": "102079",
+            "Name": "Palamutbuku",
+            "NameAr": "بالاموتبوكو"
+        },
+        {
+            "Code": "130759",
+            "Name": "Palmiye",
+            "NameAr": "بالمييي"
+        },
+        {
+            "Code": "131000",
+            "Name": "Pamukkale",
+            "NameAr": "باموككالي"
+        },
+        {
+            "Code": "131421",
+            "Name": "Patara",
+            "NameAr": "باتارا"
+        },
+        {
+            "Code": "102744",
+            "Name": "Patnos",
+            "NameAr": "باتنوس"
+        },
+        {
+            "Code": "356434",
+            "Name": "Payallar",
+            "NameAr": "باياللار"
+        },
+        {
+            "Code": "132710",
+            "Name": "Pazar",
+            "NameAr": "بازار"
+        },
+        {
+            "Code": "106614",
+            "Name": "Pinarbasi",
+            "NameAr": "بينارباسي"
+        },
+        {
+            "Code": "106626",
+            "Name": "Polonezkoy",
+            "NameAr": "بولونيزكوي"
+        },
+        {
+            "Code": "106981",
+            "Name": "Reyhanli",
+            "NameAr": "رييهانلي"
+        },
+        {
+            "Code": "133372",
+            "Name": "Rize",
+            "NameAr": "ريزي"
+        },
+        {
+            "Code": "134120",
+            "Name": "Safranbolu",
+            "NameAr": "سافرانبولو"
+        },
+        {
+            "Code": "135378",
+            "Name": "Sakarya",
+            "NameAr": "ساكاريا"
+        },
+        {
+            "Code": "136154",
+            "Name": "Salihli",
+            "NameAr": "ساليهلي"
+        },
+        {
+            "Code": "134876",
+            "Name": "Samsun",
+            "NameAr": "سامسون"
+        },
+        {
+            "Code": "103552",
+            "Name": "Sandikli",
+            "NameAr": "سانديكلي"
+        },
+        {
+            "Code": "136834",
+            "Name": "Sanliurfa",
+            "NameAr": "سانليورفا"
+        },
+        {
+            "Code": "137193",
+            "Name": "Sapanca",
+            "NameAr": "سابانكا"
+        },
+        {
+            "Code": "103565",
+            "Name": "Saraycik",
+            "NameAr": "سارايكيك"
+        },
+        {
+            "Code": "135583",
+            "Name": "Sarayonu",
+            "NameAr": "سارايونو"
+        },
+        {
+            "Code": "137197",
+            "Name": "Sarigerme",
+            "NameAr": "ساريجيرمي"
+        },
+        {
+            "Code": "106785",
+            "Name": "Sarikamis",
+            "NameAr": "ساريكاميس"
+        },
+        {
+            "Code": "106786",
+            "Name": "Sarimsakli",
+            "NameAr": "ساريمساكلي"
+        },
+        {
+            "Code": "157960",
+            "Name": "Sariyer",
+            "NameAr": "سارييير"
+        },
+        {
+            "Code": "103160",
+            "Name": "Sazli",
+            "NameAr": "سازلي"
+        },
+        {
+            "Code": "147841",
+            "Name": "Seferihisar / Izmir",
+            "NameAr": "سيفيريهيسار يزمير"
+        },
+        {
+            "Code": "136755",
+            "Name": "Selcuk",
+            "NameAr": "سيلكوك"
+        },
+        {
+            "Code": "137266",
+            "Name": "Selimiye",
+            "NameAr": "سيليمييي"
+        },
+        {
+            "Code": "107053",
+            "Name": "Selimpasa",
+            "NameAr": "سيليمباسا"
+        },
+        {
+            "Code": "106794",
+            "Name": "Sereflikochisar",
+            "NameAr": "سيريفليكوكهيسار"
+        },
+        {
+            "Code": "137725",
+            "Name": "Serik",
+            "NameAr": "سيريك"
+        },
+        {
+            "Code": "138682",
+            "Name": "Side",
+            "NameAr": "سيدي"
+        },
+        {
+            "Code": "137458",
+            "Name": "Sigacik - Seferhisar",
+            "NameAr": "سيجاكيك - سيفيرهيسار"
+        },
+        {
+            "Code": "151584",
+            "Name": "Siirt",
+            "NameAr": "سييرت"
+        },
+        {
+            "Code": "137991",
+            "Name": "Sile",
+            "NameAr": "سيلي"
+        },
+        {
+            "Code": "136313",
+            "Name": "Silifke",
+            "NameAr": "سيليفكي"
+        },
+        {
+            "Code": "158541",
+            "Name": "Silivri",
+            "NameAr": "سيليفري"
+        },
+        {
+            "Code": "106645",
+            "Name": "Silopi",
+            "NameAr": "سيلوبي"
+        },
+        {
+            "Code": "138008",
+            "Name": "Sinop",
+            "NameAr": "سينوب"
+        },
+        {
+            "Code": "137430",
+            "Name": "Sirince",
+            "NameAr": "سيرينكي"
+        },
+        {
+            "Code": "147927",
+            "Name": "Sirnak",
+            "NameAr": "سيرناك"
+        },
+        {
+            "Code": "353296",
+            "Name": "Sisli",
+            "NameAr": "سيسلي"
+        },
+        {
+            "Code": "147930",
+            "Name": "Siteler",
+            "NameAr": "سيتيلير"
+        },
+        {
+            "Code": "138715",
+            "Name": "Sivas",
+            "NameAr": "سيفاس"
+        },
+        {
+            "Code": "107229",
+            "Name": "Siverek",
+            "NameAr": "سيفيريك"
+        },
+        {
+            "Code": "138042",
+            "Name": "Sogut",
+            "NameAr": "سوجوت"
+        },
+        {
+            "Code": "103600",
+            "Name": "Sokakagzi",
+            "NameAr": "سوكاكاجزي"
+        },
+        {
+            "Code": "106905",
+            "Name": "Soke",
+            "NameAr": "سوكي"
+        },
+        {
+            "Code": "380951",
+            "Name": "Soma",
+            "NameAr": "سوما"
+        },
+        {
+            "Code": "139422",
+            "Name": "Sorgun",
+            "NameAr": "سورجون"
+        },
+        {
+            "Code": "106806",
+            "Name": "Sultandagi",
+            "NameAr": "سولتانداجي"
+        },
+        {
+            "Code": "139633",
+            "Name": "Surmene",
+            "NameAr": "سورميني"
+        },
+        {
+            "Code": "107162",
+            "Name": "Tarsus",
+            "NameAr": "تارسوس"
+        },
+        {
+            "Code": "107767",
+            "Name": "Tasucu",
+            "NameAr": "تاسوكو"
+        },
+        {
+            "Code": "139696",
+            "Name": "Tatvan",
+            "NameAr": "تاتفان"
+        },
+        {
+            "Code": "139576",
+            "Name": "Tavsanli",
+            "NameAr": "تافسانلي"
+        },
+        {
+            "Code": "291195",
+            "Name": "Tefenni",
+            "NameAr": "تيفينني"
+        },
+        {
+            "Code": "140988",
+            "Name": "Tekirdag",
+            "NameAr": "تيكيرداج"
+        },
+        {
+            "Code": "139045",
+            "Name": "Tekirova",
+            "NameAr": "تيكيروفا"
+        },
+        {
+            "Code": "141000",
+            "Name": "Teos",
+            "NameAr": "تيوس"
+        },
+        {
+            "Code": "108603",
+            "Name": "Termal",
+            "NameAr": "تيرمال"
+        },
+        {
+            "Code": "139765",
+            "Name": "Titreyengol",
+            "NameAr": "تيترييينجول"
+        },
+        {
+            "Code": "139328",
+            "Name": "Tokat",
+            "NameAr": "توكات"
+        },
+        {
+            "Code": "140803",
+            "Name": "Trabzon",
+            "NameAr": "ترابزون"
+        },
+        {
+            "Code": "141530",
+            "Name": "Turkler",
+            "NameAr": "توركلير"
+        },
+        {
+            "Code": "149988",
+            "Name": "Turkmenbashi",
+            "NameAr": "توركمينباسهي"
+        },
+        {
+            "Code": "149989",
+            "Name": "Tuzla",
+            "NameAr": "توزلا"
+        },
+        {
+            "Code": "140097",
+            "Name": "Uchisar",
+            "NameAr": "وكهيسار"
+        },
+        {
+            "Code": "141831",
+            "Name": "Uludag",
+            "NameAr": "ولوداج"
+        },
+        {
+            "Code": "108641",
+            "Name": "Unye",
+            "NameAr": "ونيي"
+        },
+        {
+            "Code": "141575",
+            "Name": "Urgup",
+            "NameAr": "ورجوب"
+        },
+        {
+            "Code": "140132",
+            "Name": "Urla",
+            "NameAr": "ورلا"
+        },
+        {
+            "Code": "140732",
+            "Name": "Usak",
+            "NameAr": "وساك"
+        },
+        {
+            "Code": "141583",
+            "Name": "Uzungol",
+            "NameAr": "وزونجول"
+        },
+        {
+            "Code": "141115",
+            "Name": "Uzunyurt",
+            "NameAr": "وزونيورت"
+        },
+        {
+            "Code": "151838",
+            "Name": "Vakfikebir,   Trabzon",
+            "NameAr": "فاكفيكيبير ترابزون"
+        },
+        {
+            "Code": "142529",
+            "Name": "Van",
+            "NameAr": "فان"
+        },
+        {
+            "Code": "142207",
+            "Name": "Vize",
+            "NameAr": "فيزي"
+        },
+        {
+            "Code": "143637",
+            "Name": "Yalikavak",
+            "NameAr": "ياليكافاك"
+        },
+        {
+            "Code": "143323",
+            "Name": "Yalova",
+            "NameAr": "يالوفا"
+        },
+        {
+            "Code": "143800",
+            "Name": "Yeni Foca",
+            "NameAr": "ييني فوكا"
+        },
+        {
+            "Code": "107421",
+            "Name": "Yenifoca",
+            "NameAr": "يينيفوكا"
+        },
+        {
+            "Code": "143897",
+            "Name": "Yesilovacik",
+            "NameAr": "ييسيلوفاكيك"
+        },
+        {
+            "Code": "337252",
+            "Name": "Yomra",
+            "NameAr": "يومرا"
+        },
+        {
+            "Code": "143902",
+            "Name": "Yozgat",
+            "NameAr": "يوزجات"
+        },
+        {
+            "Code": "142503",
+            "Name": "Zonguldak",
+            "NameAr": "زونجولداك"
+        }
+    ],
+    "totalCities": 376
+}

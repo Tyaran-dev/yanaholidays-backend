@@ -1,0 +1,32 @@
+{
+    "id": "CG",
+    "countryCode": "CG",
+    "cities": [
+        {
+            "Code": "112544",
+            "Name": "Brazzaville",
+            "NameAr": "براززافيللي"
+        },
+        {
+            "Code": "150388",
+            "Name": "Epena",
+            "NameAr": "يبينا"
+        },
+        {
+            "Code": "417901",
+            "Name": "Lubumbashi",
+            "NameAr": "لوبومباسهي"
+        },
+        {
+            "Code": "147261",
+            "Name": "Pointe Noire",
+            "NameAr": "بوينتي نويري"
+        },
+        {
+            "Code": "149773",
+            "Name": "Pointe-Noire",
+            "NameAr": "بوينتي-نويري"
+        }
+    ],
+    "totalCities": 5
+}

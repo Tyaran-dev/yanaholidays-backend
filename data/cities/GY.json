@@ -1,0 +1,32 @@
+{
+    "id": "GY",
+    "countryCode": "GY",
+    "cities": [
+        {
+            "Code": "109132",
+            "Name": "Annai",
+            "NameAr": "انناي"
+        },
+        {
+            "Code": "118112",
+            "Name": "Essequibo River",
+            "NameAr": "يسسيقويبو ريفير"
+        },
+        {
+            "Code": "119099",
+            "Name": "Georgetown",
+            "NameAr": "جيورجيتوون"
+        },
+        {
+            "Code": "125410",
+            "Name": "Lethem",
+            "NameAr": "ليتهيم"
+        },
+        {
+            "Code": "136525",
+            "Name": "Santa Mission",
+            "NameAr": "سانتا ميسسيون"
+        }
+    ],
+    "totalCities": 5
+}

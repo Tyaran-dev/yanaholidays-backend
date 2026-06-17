@@ -1,0 +1,152 @@
+{
+    "id": "RE",
+    "countryCode": "RE",
+    "cities": [
+        {
+            "Code": "112250",
+            "Name": "Boucan Canot",
+            "NameAr": "بووكان كانوت"
+        },
+        {
+            "Code": "114559",
+            "Name": "Cilaos",
+            "NameAr": "كيلاوس"
+        },
+        {
+            "Code": "117703",
+            "Name": "Entre-Deux",
+            "NameAr": "ينتري-ديوكس"
+        },
+        {
+            "Code": "117206",
+            "Name": "Etang Sale les Bains",
+            "NameAr": "يتانج سالي ليس باينس"
+        },
+        {
+            "Code": "119989",
+            "Name": "Grand' Anse",
+            "NameAr": "جراند انسي"
+        },
+        {
+            "Code": "121131",
+            "Name": "Guillaume",
+            "NameAr": "جويللاومي"
+        },
+        {
+            "Code": "120528",
+            "Name": "Hellbourg",
+            "NameAr": "هيللبوورج"
+        },
+        {
+            "Code": "146073",
+            "Name": "La Petite France",
+            "NameAr": "لا بيتيتي فرانكي"
+        },
+        {
+            "Code": "123819",
+            "Name": "La Possession",
+            "NameAr": "لا بوسسيسسيون"
+        },
+        {
+            "Code": "368072",
+            "Name": "La Saline Les Bains",
+            "NameAr": "لا ساليني ليس باينس"
+        },
+        {
+            "Code": "124822",
+            "Name": "La-Saline-les-Bains",
+            "NameAr": "لا-ساليني-ليس-باينس"
+        },
+        {
+            "Code": "103681",
+            "Name": "Le Tampon",
+            "NameAr": "لي تامبون"
+        },
+        {
+            "Code": "146234",
+            "Name": "Les Avirons",
+            "NameAr": "ليس افيرونس"
+        },
+        {
+            "Code": "147167",
+            "Name": "Petite-Ile",
+            "NameAr": "بيتيتي-يلي"
+        },
+        {
+            "Code": "132229",
+            "Name": "Plaine des Cafres",
+            "NameAr": "بلايني ديس كافريس"
+        },
+        {
+            "Code": "132530",
+            "Name": "Plaine des Palmistes",
+            "NameAr": "بلايني ديس بالميستيس"
+        },
+        {
+            "Code": "133335",
+            "Name": "Reunion",
+            "NameAr": "ريونيون"
+        },
+        {
+            "Code": "134128",
+            "Name": "Saint Gilles",
+            "NameAr": "ساينت جيلليس"
+        },
+        {
+            "Code": "135810",
+            "Name": "Saint Joseph",
+            "NameAr": "ساينت جوسيبه"
+        },
+        {
+            "Code": "147618",
+            "Name": "Saint Philippe",
+            "NameAr": "ساينت بهيليببي"
+        },
+        {
+            "Code": "107314",
+            "Name": "Saint-Paul",
+            "NameAr": "ساينت-باول"
+        },
+        {
+            "Code": "135513",
+            "Name": "Sainte Anne",
+            "NameAr": "ساينتي انني"
+        },
+        {
+            "Code": "147635",
+            "Name": "Sainte-Marie",
+            "NameAr": "ساينتي-ماريي"
+        },
+        {
+            "Code": "135382",
+            "Name": "Salazie",
+            "NameAr": "سالازيي"
+        },
+        {
+            "Code": "138218",
+            "Name": "St. Benoit",
+            "NameAr": "ست بينويت"
+        },
+        {
+            "Code": "138763",
+            "Name": "St. Denis",
+            "NameAr": "ست دينيس"
+        },
+        {
+            "Code": "138207",
+            "Name": "St. Leu",
+            "NameAr": "ست ليو"
+        },
+        {
+            "Code": "138238",
+            "Name": "St. Pierre",
+            "NameAr": "ست بييرري"
+        },
+        {
+            "Code": "139221",
+            "Name": "St. Rose",
+            "NameAr": "ست روسي"
+        }
+    ],
+    "totalCities": 29
+}

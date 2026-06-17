@@ -1,0 +1,402 @@
+{
+    "id": "LV",
+    "countryCode": "LV",
+    "cities": [
+        {
+            "Code": "100657",
+            "Name": "Adazi",
+            "NameAr": "ادازي"
+        },
+        {
+            "Code": "101449",
+            "Name": "Aluksne",
+            "NameAr": "الوكسني"
+        },
+        {
+            "Code": "417034",
+            "Name": "Amata Municipality",
+            "NameAr": "اماتا مونيكيباليتي"
+        },
+        {
+            "Code": "101035",
+            "Name": "Apsuciems",
+            "NameAr": "ابسوكييمس"
+        },
+        {
+            "Code": "105013",
+            "Name": "Autzem",
+            "NameAr": "اوتزيم"
+        },
+        {
+            "Code": "101597",
+            "Name": "Balvi",
+            "NameAr": "بالفي"
+        },
+        {
+            "Code": "110454",
+            "Name": "Bauska",
+            "NameAr": "باوسكا"
+        },
+        {
+            "Code": "105404",
+            "Name": "Bille",
+            "NameAr": "بيللي"
+        },
+        {
+            "Code": "105651",
+            "Name": "Birini",
+            "NameAr": "بيريني"
+        },
+        {
+            "Code": "113379",
+            "Name": "Carnikava",
+            "NameAr": "كارنيكافا"
+        },
+        {
+            "Code": "101807",
+            "Name": "Ceraukste parish",
+            "NameAr": "كيراوكستي باريسه"
+        },
+        {
+            "Code": "114923",
+            "Name": "Cesis",
+            "NameAr": "كيسيس"
+        },
+        {
+            "Code": "114598",
+            "Name": "Cesvaine",
+            "NameAr": "كيسفايني"
+        },
+        {
+            "Code": "144873",
+            "Name": "Daugavpils",
+            "NameAr": "داوجافبيلس"
+        },
+        {
+            "Code": "116350",
+            "Name": "Dikli",
+            "NameAr": "ديكلي"
+        },
+        {
+            "Code": "106260",
+            "Name": "Doblen",
+            "NameAr": "دوبلين"
+        },
+        {
+            "Code": "116784",
+            "Name": "Edole",
+            "NameAr": "يدولي"
+        },
+        {
+            "Code": "116843",
+            "Name": "Embute",
+            "NameAr": "يمبوتي"
+        },
+        {
+            "Code": "117245",
+            "Name": "Ergli",
+            "NameAr": "يرجلي"
+        },
+        {
+            "Code": "105433",
+            "Name": "Frauenburg",
+            "NameAr": "فراوينبورج"
+        },
+        {
+            "Code": "120057",
+            "Name": "Gulbene",
+            "NameAr": "جولبيني"
+        },
+        {
+            "Code": "101775",
+            "Name": "Hainasch",
+            "NameAr": "هايناسكه"
+        },
+        {
+            "Code": "105964",
+            "Name": "Iecava",
+            "NameAr": "ييكافا"
+        },
+        {
+            "Code": "122662",
+            "Name": "Igate",
+            "NameAr": "يجاتي"
+        },
+        {
+            "Code": "122861",
+            "Name": "Jekabpils",
+            "NameAr": "جيكاببيلس"
+        },
+        {
+            "Code": "122754",
+            "Name": "Jelgava",
+            "NameAr": "جيلجافا"
+        },
+        {
+            "Code": "417227",
+            "Name": "Jelgavkrasti",
+            "NameAr": "جيلجافكراستي"
+        },
+        {
+            "Code": "105887",
+            "Name": "Jumurda",
+            "NameAr": "جوموردا"
+        },
+        {
+            "Code": "104087",
+            "Name": "Jurkalne",
+            "NameAr": "جوركالني"
+        },
+        {
+            "Code": "122496",
+            "Name": "Jurmala",
+            "NameAr": "جورمالا"
+        },
+        {
+            "Code": "123081",
+            "Name": "Kandava",
+            "NameAr": "كاندافا"
+        },
+        {
+            "Code": "104100",
+            "Name": "Kauguri parish",
+            "NameAr": "كاوجوري باريسه"
+        },
+        {
+            "Code": "104119",
+            "Name": "Koknese",
+            "NameAr": "كوكنيسي"
+        },
+        {
+            "Code": "145998",
+            "Name": "Kolka-Kap",
+            "NameAr": "كولكا-كاب"
+        },
+        {
+            "Code": "146046",
+            "Name": "Kuldiga",
+            "NameAr": "كولديجا"
+        },
+        {
+            "Code": "125012",
+            "Name": "Kurzeme",
+            "NameAr": "كورزيمي"
+        },
+        {
+            "Code": "103917",
+            "Name": "Lettland",
+            "NameAr": "ليتتلاند"
+        },
+        {
+            "Code": "125298",
+            "Name": "Lielvarde",
+            "NameAr": "لييلفاردي"
+        },
+        {
+            "Code": "126002",
+            "Name": "Liepaja",
+            "NameAr": "لييباجا"
+        },
+        {
+            "Code": "125437",
+            "Name": "Ligatne",
+            "NameAr": "ليجاتني"
+        },
+        {
+            "Code": "125583",
+            "Name": "Limbazi",
+            "NameAr": "ليمبازي"
+        },
+        {
+            "Code": "105582",
+            "Name": "Livani",
+            "NameAr": "ليفاني"
+        },
+        {
+            "Code": "126671",
+            "Name": "Ludza",
+            "NameAr": "لودزا"
+        },
+        {
+            "Code": "127379",
+            "Name": "Madonas Novads",
+            "NameAr": "مادوناس نوفادس"
+        },
+        {
+            "Code": "127362",
+            "Name": "Malpils",
+            "NameAr": "مالبيلس"
+        },
+        {
+            "Code": "126407",
+            "Name": "Marciena",
+            "NameAr": "ماركيينا"
+        },
+        {
+            "Code": "402092",
+            "Name": "Marupe Municipality",
+            "NameAr": "ماروبي مونيكيباليتي"
+        },
+        {
+            "Code": "104343",
+            "Name": "Melturi",
+            "NameAr": "ميلتوري"
+        },
+        {
+            "Code": "128215",
+            "Name": "Mersrags",
+            "NameAr": "ميرسراجس"
+        },
+        {
+            "Code": "103811",
+            "Name": "Mezotne",
+            "NameAr": "ميزوتني"
+        },
+        {
+            "Code": "104501",
+            "Name": "Milzkalne",
+            "NameAr": "ميلزكالني"
+        },
+        {
+            "Code": "146978",
+            "Name": "Ogre",
+            "NameAr": "وجري"
+        },
+        {
+            "Code": "102076",
+            "Name": "Ozolnieki",
+            "NameAr": "وزولنييكي"
+        },
+        {
+            "Code": "132707",
+            "Name": "Pavilosta",
+            "NameAr": "بافيلوستا"
+        },
+        {
+            "Code": "132349",
+            "Name": "Plienciems",
+            "NameAr": "بليينكييمس"
+        },
+        {
+            "Code": "147364",
+            "Name": "Priekule",
+            "NameAr": "برييكولي"
+        },
+        {
+            "Code": "132545",
+            "Name": "Priekuli",
+            "NameAr": "برييكولي"
+        },
+        {
+            "Code": "134223",
+            "Name": "Ranka",
+            "NameAr": "رانكا"
+        },
+        {
+            "Code": "147502",
+            "Name": "Rezekne",
+            "NameAr": "ريزيكني"
+        },
+        {
+            "Code": "134771",
+            "Name": "Riga",
+            "NameAr": "ريجا"
+        },
+        {
+            "Code": "103218",
+            "Name": "Roja",
+            "NameAr": "روجا"
+        },
+        {
+            "Code": "134094",
+            "Name": "Rubene",
+            "NameAr": "روبيني"
+        },
+        {
+            "Code": "134679",
+            "Name": "Sabile",
+            "NameAr": "سابيلي"
+        },
+        {
+            "Code": "135379",
+            "Name": "Salacgriva",
+            "NameAr": "سالاكجريفا"
+        },
+        {
+            "Code": "136565",
+            "Name": "Saulkrasti",
+            "NameAr": "ساولكراستي"
+        },
+        {
+            "Code": "137416",
+            "Name": "Sigulda",
+            "NameAr": "سيجولدا"
+        },
+        {
+            "Code": "417416",
+            "Name": "Silene",
+            "NameAr": "سيليني"
+        },
+        {
+            "Code": "106326",
+            "Name": "Skriveri",
+            "NameAr": "سكريفيري"
+        },
+        {
+            "Code": "137632",
+            "Name": "Skundra",
+            "NameAr": "سكوندرا"
+        },
+        {
+            "Code": "138458",
+            "Name": "Smiltene",
+            "NameAr": "سميلتيني"
+        },
+        {
+            "Code": "103206",
+            "Name": "Stockmannshof",
+            "NameAr": "ستوككماننسهوف"
+        },
+        {
+            "Code": "140245",
+            "Name": "Svente",
+            "NameAr": "سفينتي"
+        },
+        {
+            "Code": "139674",
+            "Name": "Talsi",
+            "NameAr": "تالسي"
+        },
+        {
+            "Code": "148344",
+            "Name": "Tukums",
+            "NameAr": "توكومس"
+        },
+        {
+            "Code": "139840",
+            "Name": "Tume",
+            "NameAr": "تومي"
+        },
+        {
+            "Code": "141608",
+            "Name": "Valmiera",
+            "NameAr": "فالمييرا"
+        },
+        {
+            "Code": "106875",
+            "Name": "Varaklani",
+            "NameAr": "فاراكلاني"
+        },
+        {
+            "Code": "148467",
+            "Name": "Ventspils",
+            "NameAr": "فينتسبيلس"
+        },
+        {
+            "Code": "107383",
+            "Name": "Vilkija",
+            "NameAr": "فيلكيجا"
+        }
+    ],
+    "totalCities": 79
+}

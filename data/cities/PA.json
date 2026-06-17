@@ -1,0 +1,282 @@
+{
+    "id": "PA",
+    "countryCode": "PA",
+    "cities": [
+        {
+            "Code": "104982",
+            "Name": "Agua Buena",
+            "NameAr": "اجوا بوينا"
+        },
+        {
+            "Code": "105163",
+            "Name": "Anton",
+            "NameAr": "انتون"
+        },
+        {
+            "Code": "111100",
+            "Name": "Balboa",
+            "NameAr": "بالبوا"
+        },
+        {
+            "Code": "112428",
+            "Name": "Boca Chica",
+            "NameAr": "بوكا كهيكا"
+        },
+        {
+            "Code": "111611",
+            "Name": "Bocas del Toro",
+            "NameAr": "بوكاس ديل تورو"
+        },
+        {
+            "Code": "112455",
+            "Name": "Boquete",
+            "NameAr": "بوقويتي"
+        },
+        {
+            "Code": "105694",
+            "Name": "Cambutal",
+            "NameAr": "كامبوتال"
+        },
+        {
+            "Code": "101796",
+            "Name": "Carenero Island",
+            "NameAr": "كارينيرو يسلاند"
+        },
+        {
+            "Code": "114087",
+            "Name": "Cerro Punta",
+            "NameAr": "كيررو بونتا"
+        },
+        {
+            "Code": "108133",
+            "Name": "Chame",
+            "NameAr": "كهامي"
+        },
+        {
+            "Code": "150721",
+            "Name": "Changuinola",
+            "NameAr": "كهانجوينولا"
+        },
+        {
+            "Code": "115765",
+            "Name": "Chitre",
+            "NameAr": "كهيتري"
+        },
+        {
+            "Code": "144746",
+            "Name": "Colon",
+            "NameAr": "كولون"
+        },
+        {
+            "Code": "397642",
+            "Name": "Colon Island",
+            "NameAr": "كولون يسلاند"
+        },
+        {
+            "Code": "106305",
+            "Name": "Coronado",
+            "NameAr": "كورونادو"
+        },
+        {
+            "Code": "116635",
+            "Name": "David",
+            "NameAr": "دافيد"
+        },
+        {
+            "Code": "116528",
+            "Name": "El Valle de Anton",
+            "NameAr": "يل فاللي دي انتون"
+        },
+        {
+            "Code": "118551",
+            "Name": "Gamboa",
+            "NameAr": "جامبوا"
+        },
+        {
+            "Code": "121072",
+            "Name": "Insel Bastimentos",
+            "NameAr": "ينسيل باستيمينتوس"
+        },
+        {
+            "Code": "121741",
+            "Name": "Insel Taboga",
+            "NameAr": "ينسيل تابوجا"
+        },
+        {
+            "Code": "399153",
+            "Name": "Isla Bastimentos",
+            "NameAr": "يسلا باستيمينتوس"
+        },
+        {
+            "Code": "122038",
+            "Name": "Isla Contadora",
+            "NameAr": "يسلا كونتادورا"
+        },
+        {
+            "Code": "145777",
+            "Name": "Isla Grande",
+            "NameAr": "يسلا جراندي"
+        },
+        {
+            "Code": "102348",
+            "Name": "Isla Popa",
+            "NameAr": "يسلا بوبا"
+        },
+        {
+            "Code": "122419",
+            "Name": "Islas Secas",
+            "NameAr": "يسلاس سيكاس"
+        },
+        {
+            "Code": "106423",
+            "Name": "Las Escobas del Venado",
+            "NameAr": "لاس يسكوباس ديل فينادو"
+        },
+        {
+            "Code": "124146",
+            "Name": "Las Lajas",
+            "NameAr": "لاس لاجاس"
+        },
+        {
+            "Code": "105556",
+            "Name": "Las Tablas",
+            "NameAr": "لاس تابلاس"
+        },
+        {
+            "Code": "104144",
+            "Name": "Los Santos",
+            "NameAr": "لوس سانتوس"
+        },
+        {
+            "Code": "103798",
+            "Name": "Maria Chiquita",
+            "NameAr": "ماريا كهيقويتا"
+        },
+        {
+            "Code": "104203",
+            "Name": "Palo Alto,Boquete",
+            "NameAr": "بالو التو بوقويتي"
+        },
+        {
+            "Code": "130764",
+            "Name": "Panama",
+            "NameAr": "باناما"
+        },
+        {
+            "Code": "132667",
+            "Name": "Panama City",
+            "NameAr": "باناما كيتي"
+        },
+        {
+            "Code": "132431",
+            "Name": "Pearl Islands",
+            "NameAr": "بيارل يسلاندس"
+        },
+        {
+            "Code": "147134",
+            "Name": "Pedasi",
+            "NameAr": "بيداسي"
+        },
+        {
+            "Code": "131592",
+            "Name": "Penonome",
+            "NameAr": "بينونومي"
+        },
+        {
+            "Code": "132242",
+            "Name": "Playa Blanca",
+            "NameAr": "بلايا بلانكا"
+        },
+        {
+            "Code": "132201",
+            "Name": "Playa Bonita",
+            "NameAr": "بلايا بونيتا"
+        },
+        {
+            "Code": "417916",
+            "Name": "Pocri",
+            "NameAr": "بوكري"
+        },
+        {
+            "Code": "103075",
+            "Name": "Portobello",
+            "NameAr": "بورتوبيللو"
+        },
+        {
+            "Code": "134284",
+            "Name": "Portobelo",
+            "NameAr": "بورتوبيلو"
+        },
+        {
+            "Code": "160872",
+            "Name": "Provincia De Cocle",
+            "NameAr": "بروفينكيا دي كوكلي"
+        },
+        {
+            "Code": "134881",
+            "Name": "San Carlos",
+            "NameAr": "سان كارلوس"
+        },
+        {
+            "Code": "103140",
+            "Name": "San Jose de David/David",
+            "NameAr": "سان جوسي دي دافيد دافيد"
+        },
+        {
+            "Code": "151261",
+            "Name": "San Miguel",
+            "NameAr": "سان ميجويل"
+        },
+        {
+            "Code": "137130",
+            "Name": "San-Blas-Inseln",
+            "NameAr": "سان-بلاس-ينسيلن"
+        },
+        {
+            "Code": "136366",
+            "Name": "Santa Catalina",
+            "NameAr": "سانتا كاتالينا"
+        },
+        {
+            "Code": "136844",
+            "Name": "Santa Clara",
+            "NameAr": "سانتا كلارا"
+        },
+        {
+            "Code": "150676",
+            "Name": "Santa Fe",
+            "NameAr": "سانتا في"
+        },
+        {
+            "Code": "136527",
+            "Name": "Santiago",
+            "NameAr": "سانتياجو"
+        },
+        {
+            "Code": "137514",
+            "Name": "Sona",
+            "NameAr": "سونا"
+        },
+        {
+            "Code": "107240",
+            "Name": "Sora",
+            "NameAr": "سورا"
+        },
+        {
+            "Code": "107786",
+            "Name": "Torio",
+            "NameAr": "توريو"
+        },
+        {
+            "Code": "108617",
+            "Name": "Torti",
+            "NameAr": "تورتي"
+        },
+        {
+            "Code": "141913",
+            "Name": "Volcan",
+            "NameAr": "فولكان"
+        }
+    ],
+    "totalCities": 55
+}

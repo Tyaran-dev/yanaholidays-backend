@@ -1,0 +1,57 @@
+{
+    "id": "MF",
+    "countryCode": "MF",
+    "cities": [
+        {
+            "Code": "101023",
+            "Name": "Anse Marcel",
+            "NameAr": "انسي ماركيل"
+        },
+        {
+            "Code": "144063",
+            "Name": "Baie Longue",
+            "NameAr": "بايي لونجوي"
+        },
+        {
+            "Code": "110748",
+            "Name": "Baie Nettle",
+            "NameAr": "بايي نيتتلي"
+        },
+        {
+            "Code": "144834",
+            "Name": "Cul-de-Sac",
+            "NameAr": "كول-دي-ساك"
+        },
+        {
+            "Code": "120395",
+            "Name": "Grand Case",
+            "NameAr": "جراند كاسي"
+        },
+        {
+            "Code": "102565",
+            "Name": "Les Terres-Basses",
+            "NameAr": "ليس تيرريس-باسسيس"
+        },
+        {
+            "Code": "126992",
+            "Name": "Marigot",
+            "NameAr": "ماريجوت"
+        },
+        {
+            "Code": "147023",
+            "Name": "Orient Bay",
+            "NameAr": "وريينت باي"
+        },
+        {
+            "Code": "131369",
+            "Name": "Oyster Pond",
+            "NameAr": "ويستير بوند"
+        },
+        {
+            "Code": "137783",
+            "Name": "St. Martin / St. Maarten / Saint Martin",
+            "NameAr": "ست مارتين ست ماارتين ساينت مارتين"
+        }
+    ],
+    "totalCities": 10
+}

@@ -1,0 +1,5062 @@
+{
+    "id": "IN",
+    "countryCode": "IN",
+    "cities": [
+        {
+            "Code": "268880",
+            "Name": "Abohar,   Punjab",
+            "NameAr": "ابوهار بونجاب"
+        },
+        {
+            "Code": "105141",
+            "Name": "Abu Road,   Rajasthan",
+            "NameAr": "ابو رواد راجاستهان"
+        },
+        {
+            "Code": "102138",
+            "Name": "Adoor,   kerala",
+            "NameAr": "ادوور كيرالا"
+        },
+        {
+            "Code": "101615",
+            "Name": "Adyar,   Tamil Nadu",
+            "NameAr": "اديار تاميل نادو"
+        },
+        {
+            "Code": "100667",
+            "Name": "Agartala,   Tripura",
+            "NameAr": "اجارتالا تريبورا"
+        },
+        {
+            "Code": "100578",
+            "Name": "Agatti,   Lakshadweep",
+            "NameAr": "اجاتتي لاكسهادوييب"
+        },
+        {
+            "Code": "394603",
+            "Name": "Agonda",
+            "NameAr": "اجوندا"
+        },
+        {
+            "Code": "100589",
+            "Name": "Agra,   Uttar Pradesh",
+            "NameAr": "اجرا وتتار براديسه"
+        },
+        {
+            "Code": "100263",
+            "Name": "Ahmedabad,   Gujarat",
+            "NameAr": "اهميداباد جوجارات"
+        },
+        {
+            "Code": "100363",
+            "Name": "Ahmednagar,   Maharashtra",
+            "NameAr": "اهميدناجار ماهاراسهترا"
+        },
+        {
+            "Code": "100797",
+            "Name": "Ahmedpur Mandvi,   Gujarat",
+            "NameAr": "اهميدبور ماندفي جوجارات"
+        },
+        {
+            "Code": "260619",
+            "Name": "Ahwa,   Gujarat",
+            "NameAr": "اهوا جوجارات"
+        },
+        {
+            "Code": "100273",
+            "Name": "Aizawl,   Mizoram",
+            "NameAr": "ايزاول ميزورام"
+        },
+        {
+            "Code": "100686",
+            "Name": "Ajabgarh,   Rajasthan",
+            "NameAr": "اجابجاره راجاستهان"
+        },
+        {
+            "Code": "100804",
+            "Name": "Ajmer,   Rajasthan",
+            "NameAr": "اجمير راجاستهان"
+        },
+        {
+            "Code": "100689",
+            "Name": "Akola,   Maharashtra",
+            "NameAr": "اكولا ماهاراسهترا"
+        },
+        {
+            "Code": "101625",
+            "Name": "Alibaug,   Maharashtra",
+            "NameAr": "اليباوج ماهاراسهترا"
+        },
+        {
+            "Code": "100420",
+            "Name": "Aligarh,   Uttar Pradesh",
+            "NameAr": "اليجاره وتتار براديسه"
+        },
+        {
+            "Code": "148835",
+            "Name": "Alipurduar,   West Bengal",
+            "NameAr": "اليبوردوار ويست بينجال"
+        },
+        {
+            "Code": "161104",
+            "Name": "Alkapuri,   Gujarat",
+            "NameAr": "الكابوري جوجارات"
+        },
+        {
+            "Code": "109524",
+            "Name": "Alleppey/Alappuzha,   Kerala",
+            "NameAr": "الليببيي الاببوزها كيرالا"
+        },
+        {
+            "Code": "100203",
+            "Name": "Almora,   Uttarakhand",
+            "NameAr": "المورا وتتاراكهاند"
+        },
+        {
+            "Code": "151339",
+            "Name": "Along,   Arunachal Pradesh",
+            "NameAr": "الونج اروناكهال براديسه"
+        },
+        {
+            "Code": "101349",
+            "Name": "Alto Porvorim,   Goa",
+            "NameAr": "التو بورفوريم جوا"
+        },
+        {
+            "Code": "109093",
+            "Name": "Alwar,   Rajasthan",
+            "NameAr": "الوار راجاستهان"
+        },
+        {
+            "Code": "418099",
+            "Name": "Amalapuram,   Andhra Pradesh",
+            "NameAr": "امالابورام اندهرا براديسه"
+        },
+        {
+            "Code": "305707",
+            "Name": "Ambaji,   Gujarat",
+            "NameAr": "امباجي جوجارات"
+        },
+        {
+            "Code": "100881",
+            "Name": "Ambala,   Haryana",
+            "NameAr": "امبالا هاريانا"
+        },
+        {
+            "Code": "105159",
+            "Name": "Amer,   Rajasthan",
+            "NameAr": "امير راجاستهان"
+        },
+        {
+            "Code": "101128",
+            "Name": "Amravati,   Maharashtra",
+            "NameAr": "امرافاتي ماهاراسهترا"
+        },
+        {
+            "Code": "299784",
+            "Name": "Amreli,   Gujarat",
+            "NameAr": "امريلي جوجارات"
+        },
+        {
+            "Code": "101129",
+            "Name": "Amritsar,   Punjab",
+            "NameAr": "امريتسار بونجاب"
+        },
+        {
+            "Code": "252072",
+            "Name": "Anachal,   Kerala",
+            "NameAr": "اناكهال كيرالا"
+        },
+        {
+            "Code": "109446",
+            "Name": "Anand,   Gujarat",
+            "NameAr": "اناند جوجارات"
+        },
+        {
+            "Code": "105160",
+            "Name": "Anandpur,   Punjab",
+            "NameAr": "اناندبور بونجاب"
+        },
+        {
+            "Code": "308358",
+            "Name": "Anandpur Sahib,   Punjab",
+            "NameAr": "اناندبور ساهيب بونجاب"
+        },
+        {
+            "Code": "203031",
+            "Name": "Anantapur,   Andhra Pradesh",
+            "NameAr": "انانتابور اندهرا براديسه"
+        },
+        {
+            "Code": "153814",
+            "Name": "Andaman and Nicobar Islands",
+            "NameAr": "اندامان اند نيكوبار يسلاندس"
+        },
+        {
+            "Code": "102166",
+            "Name": "Angul,   Odisha",
+            "NameAr": "انجول وديسها"
+        },
+        {
+            "Code": "160388",
+            "Name": "Anjar,   Gujarat",
+            "NameAr": "انجار جوجارات"
+        },
+        {
+            "Code": "101146",
+            "Name": "Anjuna,   Goa",
+            "NameAr": "انجونا جوا"
+        },
+        {
+            "Code": "101147",
+            "Name": "Ankleshwar,   Gujarat",
+            "NameAr": "انكليسهوار جوجارات"
+        },
+        {
+            "Code": "417883",
+            "Name": "Annavaram,   Andhra Pradesh",
+            "NameAr": "اننافارام اندهرا براديسه"
+        },
+        {
+            "Code": "104724",
+            "Name": "Arambol,   Goa",
+            "NameAr": "ارامبول جوا"
+        },
+        {
+            "Code": "109167",
+            "Name": "Arcot,   Tamil Nadu",
+            "NameAr": "اركوت تاميل نادو"
+        },
+        {
+            "Code": "109973",
+            "Name": "Aronda,   Maharashtra ",
+            "NameAr": "اروندا ماهاراسهترا"
+        },
+        {
+            "Code": "161026",
+            "Name": "Arookutty,   Kerala",
+            "NameAr": "ارووكوتتي كيرالا"
+        },
+        {
+            "Code": "109872",
+            "Name": "Arpora,   Goa",
+            "NameAr": "اربورا جوا"
+        },
+        {
+            "Code": "294336",
+            "Name": "Arrah,   Bihar",
+            "NameAr": "ارراه بيهار"
+        },
+        {
+            "Code": "101068",
+            "Name": "Arrosim Beach,   Goa",
+            "NameAr": "ارروسيم بياكه جوا"
+        },
+        {
+            "Code": "110211",
+            "Name": "Asansol,   West Bengal",
+            "NameAr": "اسانسول ويست بينجال"
+        },
+        {
+            "Code": "151836",
+            "Name": "Ashtamudi,   Kerala",
+            "NameAr": "اسهتامودي كيرالا"
+        },
+        {
+            "Code": "404579",
+            "Name": "Ashvem,   Goa",
+            "NameAr": "اسهفيم جوا"
+        },
+        {
+            "Code": "150412",
+            "Name": "Athirapally,   Kerala",
+            "NameAr": "اتهيراباللي كيرالا"
+        },
+        {
+            "Code": "105178",
+            "Name": "Athirapilly,   Kerala",
+            "NameAr": "اتهيرابيللي كيرالا"
+        },
+        {
+            "Code": "110248",
+            "Name": "Auli,   Uttarakhand",
+            "NameAr": "اولي وتتاراكهاند"
+        },
+        {
+            "Code": "110349",
+            "Name": "Aurangabad,   Maharashtra",
+            "NameAr": "اورانجاباد ماهاراسهترا"
+        },
+        {
+            "Code": "109665",
+            "Name": "Auroville,   Tamil Nadu",
+            "NameAr": "اوروفيللي تاميل نادو"
+        },
+        {
+            "Code": "110358",
+            "Name": "Ayodhya,   Uttar Pradesh",
+            "NameAr": "ايودهيا وتتار براديسه"
+        },
+        {
+            "Code": "302986",
+            "Name": "Azamgarh,   Uttar Pradesh",
+            "NameAr": "ازامجاره وتتار براديسه"
+        },
+        {
+            "Code": "110041",
+            "Name": "B. R. Hills,   Mizoram",
+            "NameAr": "ب ر هيللس ميزورام"
+        },
+        {
+            "Code": "111073",
+            "Name": "Badami,   Karnataka",
+            "NameAr": "بادامي كارناتاكا"
+        },
+        {
+            "Code": "150171",
+            "Name": "Baddi,   Himachal Pradesh",
+            "NameAr": "باددي هيماكهال براديسه"
+        },
+        {
+            "Code": "109814",
+            "Name": "Badrinath,   Uttarakhand",
+            "NameAr": "بادريناته وتتاراكهاند"
+        },
+        {
+            "Code": "110640",
+            "Name": "Baga,   Goa",
+            "NameAr": "باجا جوا"
+        },
+        {
+            "Code": "300972",
+            "Name": "Bagalkot,   Karnataka",
+            "NameAr": "باجالكوت كارناتاكا"
+        },
+        {
+            "Code": "294442",
+            "Name": "Bagar,   Rajasthan",
+            "NameAr": "باجار راجاستهان"
+        },
+        {
+            "Code": "150697",
+            "Name": "Bagdogra,   WEST BENGAL",
+            "NameAr": "باجدوجرا ويست بينجال"
+        },
+        {
+            "Code": "295633",
+            "Name": "Bahadurgarh,   Haryana",
+            "NameAr": "باهادورجاره هاريانا"
+        },
+        {
+            "Code": "291124",
+            "Name": "Bahraich,   Uttar Pradesh",
+            "NameAr": "باهرايكه وتتار براديسه"
+        },
+        {
+            "Code": "151842",
+            "Name": "Baiguney,   Sikkim",
+            "NameAr": "بايجونيي سيككيم"
+        },
+        {
+            "Code": "101485",
+            "Name": "Baindur,   Karnataka",
+            "NameAr": "بايندور كارناتاكا"
+        },
+        {
+            "Code": "110659",
+            "Name": "Bakkhali,   West Bengal",
+            "NameAr": "باككهالي ويست بينجال"
+        },
+        {
+            "Code": "148857",
+            "Name": "Balaghat,   Madhya Pradesh",
+            "NameAr": "بالاجهات مادهيا براديسه"
+        },
+        {
+            "Code": "105188",
+            "Name": "Balangir,   Odisha",
+            "NameAr": "بالانجير وديسها"
+        },
+        {
+            "Code": "111097",
+            "Name": "Balasinore,   Gujrat",
+            "NameAr": "بالاسينوري جوجرات"
+        },
+        {
+            "Code": "295632",
+            "Name": "Balasore,   Odisha",
+            "NameAr": "بالاسوري وديسها"
+        },
+        {
+            "Code": "110483",
+            "Name": "Ballari,   Karnataka",
+            "NameAr": "باللاري كارناتاكا"
+        },
+        {
+            "Code": "301775",
+            "Name": "Ballia,   Uttar Pradesh",
+            "NameAr": "بالليا وتتار براديسه"
+        },
+        {
+            "Code": "110977",
+            "Name": "Balrampur,   Uttar Pradesh",
+            "NameAr": "بالرامبور وتتار براديسه"
+        },
+        {
+            "Code": "150951",
+            "Name": "Balurghat,   West Bengal",
+            "NameAr": "بالورجهات ويست بينجال"
+        },
+        {
+            "Code": "111121",
+            "Name": "Bandhavgarh-Nationalpark,   Madhya Pradesh",
+            "NameAr": "باندهافجاره-ناتيونالبارك مادهيا براديسه"
+        },
+        {
+            "Code": "110851",
+            "Name": "Bandipur,   Tamil Nadu",
+            "NameAr": "بانديبور تاميل نادو"
+        },
+        {
+            "Code": "110853",
+            "Name": "Bangaram Island,   Lakshadweep",
+            "NameAr": "بانجارام يسلاند لاكسهادوييب"
+        },
+        {
+            "Code": "294440",
+            "Name": "Banjar",
+            "NameAr": "بانجار"
+        },
+        {
+            "Code": "418092",
+            "Name": "Banswara,   Rajasthan",
+            "NameAr": "بانسوارا راجاستهان"
+        },
+        {
+            "Code": "110855",
+            "Name": "Baramati,   Maharashtra",
+            "NameAr": "باراماتي ماهاراسهترا"
+        },
+        {
+            "Code": "274840",
+            "Name": "Barasat",
+            "NameAr": "باراسات"
+        },
+        {
+            "Code": "110425",
+            "Name": "Baratang Island,   Andaman & Nicobar",
+            "NameAr": "باراتانج يسلاند اندامان نيكوبار"
+        },
+        {
+            "Code": "105028",
+            "Name": "Barauni,   Bihar",
+            "NameAr": "باراوني بيهار"
+        },
+        {
+            "Code": "110789",
+            "Name": "Barbil,   Odisha",
+            "NameAr": "باربيل وديسها"
+        },
+        {
+            "Code": "110512",
+            "Name": "Bardez,   Goa",
+            "NameAr": "بارديز جوا"
+        },
+        {
+            "Code": "111009",
+            "Name": "Bareilly,   Uttar Pradesh",
+            "NameAr": "بارييللي وتتار براديسه"
+        },
+        {
+            "Code": "298690",
+            "Name": "Barkot,   Uttarakhand",
+            "NameAr": "باركوت وتتاراكهاند"
+        },
+        {
+            "Code": "111142",
+            "Name": "Barmer,   Rajasthan",
+            "NameAr": "بارمير راجاستهان"
+        },
+        {
+            "Code": "307085",
+            "Name": "Barnala,   Punjab",
+            "NameAr": "بارنالا بونجاب"
+        },
+        {
+            "Code": "417419",
+            "Name": "Barsana,   Uttar Pradesh",
+            "NameAr": "بارسانا وتتار براديسه"
+        },
+        {
+            "Code": "111028",
+            "Name": "Basara,   Telangana",
+            "NameAr": "باسارا تيلانجانا"
+        },
+        {
+            "Code": "160986",
+            "Name": "Basti,   Uttar Pradesh",
+            "NameAr": "باستي وتتار براديسه"
+        },
+        {
+            "Code": "370731",
+            "Name": "Bayad,   Gujarat",
+            "NameAr": "باياد جوجارات"
+        },
+        {
+            "Code": "102213",
+            "Name": "Beawar,   Rajasthan",
+            "NameAr": "بياوار راجاستهان"
+        },
+        {
+            "Code": "161013",
+            "Name": "Becharaji,   Gujarat",
+            "NameAr": "بيكهاراجي جوجارات"
+        },
+        {
+            "Code": "234393",
+            "Name": "Begun,   Rajasthan",
+            "NameAr": "بيجون راجاستهان"
+        },
+        {
+            "Code": "307801",
+            "Name": "Begusarai,   Bihar",
+            "NameAr": "بيجوساراي بيهار"
+        },
+        {
+            "Code": "110564",
+            "Name": "Behror,   Rajasthan",
+            "NameAr": "بيهرور راجاستهان"
+        },
+        {
+            "Code": "110566",
+            "Name": "Bekal,   Kerala",
+            "NameAr": "بيكال كيرالا"
+        },
+        {
+            "Code": "111427",
+            "Name": "Belagavi,   Karnataka",
+            "NameAr": "بيلاجافي كارناتاكا"
+        },
+        {
+            "Code": "417940",
+            "Name": "Belmonte Mezzagno",
+            "NameAr": "بيلمونتي ميززاجنو"
+        },
+        {
+            "Code": "111440",
+            "Name": "Belur & Halebid,   Karnataka",
+            "NameAr": "بيلور هاليبيد كارناتاكا"
+        },
+        {
+            "Code": "150242",
+            "Name": "Benaulim,   Goa",
+            "NameAr": "بيناوليم جوا"
+        },
+        {
+            "Code": "111124",
+            "Name": "Bengaluru/Bangalore,   Karnataka",
+            "NameAr": "بينجالورو بانجالوري كارناتاكا"
+        },
+        {
+            "Code": "110618",
+            "Name": "Betalbatim Beach,   Goa",
+            "NameAr": "بيتالباتيم بياكه جوا"
+        },
+        {
+            "Code": "111749",
+            "Name": "Betul,   Madhya Pradesh",
+            "NameAr": "بيتول مادهيا براديسه"
+        },
+        {
+            "Code": "161003",
+            "Name": "Bhabua,   Bihar",
+            "NameAr": "بهابوا بيهار"
+        },
+        {
+            "Code": "108056",
+            "Name": "Bhagalpur,   Bihar",
+            "NameAr": "بهاجالبور بيهار"
+        },
+        {
+            "Code": "151811",
+            "Name": "Bhalukpong,   Arunachal Pradesh",
+            "NameAr": "بهالوكبونج اروناكهال براديسه"
+        },
+        {
+            "Code": "111694",
+            "Name": "Bhandardara,   Maharashtra ",
+            "NameAr": "بهانداردارا ماهاراسهترا"
+        },
+        {
+            "Code": "111484",
+            "Name": "Bharatpur,   Rajasthan",
+            "NameAr": "بهاراتبور راجاستهان"
+        },
+        {
+            "Code": "105046",
+            "Name": "Bharmour,   Himachal Pradesh",
+            "NameAr": "بهارموور هيماكهال براديسه"
+        },
+        {
+            "Code": "111195",
+            "Name": "Bharuch,   Gujarat",
+            "NameAr": "بهاروكه جوجارات"
+        },
+        {
+            "Code": "111292",
+            "Name": "Bhatinda,   Punjab",
+            "NameAr": "بهاتيندا بونجاب"
+        },
+        {
+            "Code": "111485",
+            "Name": "Bhavnagar,   Gujarat",
+            "NameAr": "بهافناجار جوجارات"
+        },
+        {
+            "Code": "101318",
+            "Name": "Bhayandar,   Maharashtra ",
+            "NameAr": "بهاياندار ماهاراسهترا"
+        },
+        {
+            "Code": "144227",
+            "Name": "Bheeramballi,   Karnataka",
+            "NameAr": "بهييرامباللي كارناتاكا"
+        },
+        {
+            "Code": "105400",
+            "Name": "Bhilai,   Chhattisgarh",
+            "NameAr": "بهيلاي كههاتتيسجاره"
+        },
+        {
+            "Code": "105648",
+            "Name": "Bhilwara,   Rajasthan",
+            "NameAr": "بهيلوارا راجاستهان"
+        },
+        {
+            "Code": "418210",
+            "Name": "Bhim Tal",
+            "NameAr": "بهيم تال"
+        },
+        {
+            "Code": "111196",
+            "Name": "Bhimtal,   Uttarakhand",
+            "NameAr": "بهيمتال وتتاراكهاند"
+        },
+        {
+            "Code": "109000",
+            "Name": "Bhiwadi,   Rajasthan",
+            "NameAr": "بهيوادي راجاستهان"
+        },
+        {
+            "Code": "144229",
+            "Name": "Bhiwandi,   Maharashtra",
+            "NameAr": "بهيواندي ماهاراسهترا"
+        },
+        {
+            "Code": "154216",
+            "Name": "Bhiwani district,   Haryana",
+            "NameAr": "بهيواني ديستريكت هاريانا"
+        },
+        {
+            "Code": "111486",
+            "Name": "Bhogapuram,   Andhra Pradesh",
+            "NameAr": "بهوجابورام اندهرا براديسه"
+        },
+        {
+            "Code": "111932",
+            "Name": "Bhopal,   Madhya Pradesh",
+            "NameAr": "بهوبال مادهيا براديسه"
+        },
+        {
+            "Code": "105649",
+            "Name": "Bhowali,   Uttarakhand ",
+            "NameAr": "بهووالي وتتاراكهاند"
+        },
+        {
+            "Code": "111558",
+            "Name": "Bhubaneswar,   Odisha",
+            "NameAr": "بهوبانيسوار وديسها"
+        },
+        {
+            "Code": "144230",
+            "Name": "Bhuj,   Gujarat",
+            "NameAr": "بهوج جوجارات"
+        },
+        {
+            "Code": "108057",
+            "Name": "Bhuntar,   Himachal Pradesh",
+            "NameAr": "بهونتار هيماكهال براديسه"
+        },
+        {
+            "Code": "161001",
+            "Name": "Bihar Shariff,   Bihar",
+            "NameAr": "بيهار سهاريفف بيهار"
+        },
+        {
+            "Code": "105736",
+            "Name": "Bijainagar,   Rajasthan",
+            "NameAr": "بيجايناجار راجاستهان"
+        },
+        {
+            "Code": "111499",
+            "Name": "Bijaipur,   Rajasthan",
+            "NameAr": "بيجايبور راجاستهان"
+        },
+        {
+            "Code": "417015",
+            "Name": "Bijanbari,   West Bengal",
+            "NameAr": "بيجانباري ويست بينجال"
+        },
+        {
+            "Code": "144247",
+            "Name": "Bikaner,   Rajasthan",
+            "NameAr": "بيكانير راجاستهان"
+        },
+        {
+            "Code": "111574",
+            "Name": "Bilaspur,   Chhattisgarh",
+            "NameAr": "بيلاسبور كههاتتيسجاره"
+        },
+        {
+            "Code": "111212",
+            "Name": "Binsar,   Uttarakhand",
+            "NameAr": "بينسار وتتاراكهاند"
+        },
+        {
+            "Code": "267778",
+            "Name": "Bir,   Himachal Pradesh",
+            "NameAr": "بير هيماكهال براديسه"
+        },
+        {
+            "Code": "280430",
+            "Name": "Bisalpur,   Rajasthan",
+            "NameAr": "بيسالبور راجاستهان"
+        },
+        {
+            "Code": "111216",
+            "Name": "Bishangarh,   Rajasthan",
+            "NameAr": "بيسهانجاره راجاستهان"
+        },
+        {
+            "Code": "112643",
+            "Name": "Bodhgaya,   Bihar",
+            "NameAr": "بودهجايا بيهار"
+        },
+        {
+            "Code": "112649",
+            "Name": "Bogmallo,   Goa",
+            "NameAr": "بوجماللو جوا"
+        },
+        {
+            "Code": "263258",
+            "Name": "Boisar,   Maharashtra",
+            "NameAr": "بويسار ماهاراسهترا"
+        },
+        {
+            "Code": "112228",
+            "Name": "Bokaro,   Jharkhand",
+            "NameAr": "بوكارو جهاركهاند"
+        },
+        {
+            "Code": "111364",
+            "Name": "Bokkapuram,   Tamil Nadu",
+            "NameAr": "بوككابورام تاميل نادو"
+        },
+        {
+            "Code": "111264",
+            "Name": "Bomdila,   Arunachal Pradesh",
+            "NameAr": "بومديلا اروناكهال براديسه"
+        },
+        {
+            "Code": "356153",
+            "Name": "Bommaraspet,   Telangana",
+            "NameAr": "بومماراسبيت تيلانجانا"
+        },
+        {
+            "Code": "151843",
+            "Name": "Bongaigaon,   Assam",
+            "NameAr": "بونجايجاون اسسام"
+        },
+        {
+            "Code": "112272",
+            "Name": "Brahmapur,   Odisha",
+            "NameAr": "براهمابور وديسها"
+        },
+        {
+            "Code": "346602",
+            "Name": "Bulandshahr,   Uttar Pradesh",
+            "NameAr": "بولاندسهاهر وتتار براديسه"
+        },
+        {
+            "Code": "293567",
+            "Name": "Buldana,   Maharashtra",
+            "NameAr": "بولدانا ماهاراسهترا"
+        },
+        {
+            "Code": "113081",
+            "Name": "Bundi,   Rajasthan",
+            "NameAr": "بوندي راجاستهان"
+        },
+        {
+            "Code": "160993",
+            "Name": "Burdwan,   West Bengal",
+            "NameAr": "بوردوان ويست بينجال"
+        },
+        {
+            "Code": "148834",
+            "Name": "Burhanpur,   Madhya Pradesh",
+            "NameAr": "بورهانبور مادهيا براديسه"
+        },
+        {
+            "Code": "112868",
+            "Name": "Calangute,   Goa",
+            "NameAr": "كالانجوتي جوا"
+        },
+        {
+            "Code": "113160",
+            "Name": "Canacona,   Goa",
+            "NameAr": "كاناكونا جوا"
+        },
+        {
+            "Code": "105699",
+            "Name": "Candolim,   Goa",
+            "NameAr": "كاندوليم جوا"
+        },
+        {
+            "Code": "144510",
+            "Name": "Candolim Beach,   Goa",
+            "NameAr": "كاندوليم بياكه جوا"
+        },
+        {
+            "Code": "113347",
+            "Name": "Cansaulim Beach,   Goa",
+            "NameAr": "كانساوليم بياكه جوا"
+        },
+        {
+            "Code": "150965",
+            "Name": "Car Nicobar,   Andaman & Nicobar",
+            "NameAr": "كار نيكوبار اندامان نيكوبار"
+        },
+        {
+            "Code": "112913",
+            "Name": "Caranzalem,   Goa",
+            "NameAr": "كارانزاليم جوا"
+        },
+        {
+            "Code": "113566",
+            "Name": "Cauvery,   Karnataka",
+            "NameAr": "كاوفيري كارناتاكا"
+        },
+        {
+            "Code": "114566",
+            "Name": "Cavelossim,   Goa",
+            "NameAr": "كافيلوسسيم جوا"
+        },
+        {
+            "Code": "113675",
+            "Name": "Chail,   Himachal Pradesh",
+            "NameAr": "كهايل هيماكهال براديسه"
+        },
+        {
+            "Code": "114601",
+            "Name": "Chakan,   Maharashtra",
+            "NameAr": "كهاكان ماهاراسهترا"
+        },
+        {
+            "Code": "150284",
+            "Name": "Chalakudy,   Kerala",
+            "NameAr": "كهالاكودي كيرالا"
+        },
+        {
+            "Code": "417515",
+            "Name": "Challakere",
+            "NameAr": "كهاللاكيري"
+        },
+        {
+            "Code": "114703",
+            "Name": "Chamba,   Uttarakhand",
+            "NameAr": "كهامبا وتتاراكهاند"
+        },
+        {
+            "Code": "114936",
+            "Name": "Chamoli,   Uttarakhand",
+            "NameAr": "كهامولي وتتاراكهاند"
+        },
+        {
+            "Code": "105721",
+            "Name": "Champakulam,   Kerala",
+            "NameAr": "كهامباكولام كيرالا"
+        },
+        {
+            "Code": "114107",
+            "Name": "Chandigarh,   Chandigarh",
+            "NameAr": "كهانديجاره كهانديجاره"
+        },
+        {
+            "Code": "102259",
+            "Name": "Chandipur,   Odisha",
+            "NameAr": "كهانديبور وديسها"
+        },
+        {
+            "Code": "105246",
+            "Name": "Chandrapur,   Maharashtra ",
+            "NameAr": "كهاندرابور ماهاراسهترا"
+        },
+        {
+            "Code": "417335",
+            "Name": "Chandrapur district,   Maharashtra",
+            "NameAr": "كهاندرابور ديستريكت ماهاراسهترا"
+        },
+        {
+            "Code": "113683",
+            "Name": "Changanassery,   Kerala",
+            "NameAr": "كهانجاناسسيري كيرالا"
+        },
+        {
+            "Code": "105247",
+            "Name": "Changodar,   Gujarat",
+            "NameAr": "كهانجودار جوجارات"
+        },
+        {
+            "Code": "417528",
+            "Name": "Chapra",
+            "NameAr": "كهابرا"
+        },
+        {
+            "Code": "114117",
+            "Name": "Charholi Budruk,   Maharashtra",
+            "NameAr": "كهارهولي بودروك ماهاراسهترا"
+        },
+        {
+            "Code": "417037",
+            "Name": "Chatra,   Jharkhand",
+            "NameAr": "كهاترا جهاركهاند"
+        },
+        {
+            "Code": "114960",
+            "Name": "Chaukori,   Uttarakhand",
+            "NameAr": "كهاوكوري وتتاراكهاند"
+        },
+        {
+            "Code": "364172",
+            "Name": "Chavakkad",
+            "NameAr": "كهافاككاد"
+        },
+        {
+            "Code": "127343",
+            "Name": "Chennai,   Tamil Nadu",
+            "NameAr": "كهينناي تاميل نادو"
+        },
+        {
+            "Code": "114523",
+            "Name": "Cherai,   Kerala",
+            "NameAr": "كهيراي كيرالا"
+        },
+        {
+            "Code": "106208",
+            "Name": "Cherai Beach,   Kerala",
+            "NameAr": "كهيراي بياكه كيرالا"
+        },
+        {
+            "Code": "161025",
+            "Name": "Cherrapunji,   Meghalaya",
+            "NameAr": "كهيررابونجي ميجهالايا"
+        },
+        {
+            "Code": "160465",
+            "Name": "Chhatarpur",
+            "NameAr": "كههاتاربور"
+        },
+        {
+            "Code": "108141",
+            "Name": "Chhindwara,   Madhya Pradesh",
+            "NameAr": "كههيندوارا مادهيا براديسه"
+        },
+        {
+            "Code": "114977",
+            "Name": "Chhota Udaipur,   Gujrat",
+            "NameAr": "كههوتا ودايبور جوجرات"
+        },
+        {
+            "Code": "114793",
+            "Name": "Chidambaram,   Tamil Nadu",
+            "NameAr": "كهيدامبارام تاميل نادو"
+        },
+        {
+            "Code": "379302",
+            "Name": "Chikkaballapur,   Karnataka",
+            "NameAr": "كهيككاباللابور كارناتاكا"
+        },
+        {
+            "Code": "114986",
+            "Name": "Chikkamagaluru,   Karnataka",
+            "NameAr": "كهيككاماجالورو كارناتاكا"
+        },
+        {
+            "Code": "114987",
+            "Name": "Chikmaglur,   Karnataka",
+            "NameAr": "كهيكماجلور كارناتاكا"
+        },
+        {
+            "Code": "148870",
+            "Name": "CHILLING,   Jammu and Kashmir",
+            "NameAr": "كهيللينج جاممو اند كاسهمير"
+        },
+        {
+            "Code": "256989",
+            "Name": "Chimur",
+            "NameAr": "كهيمور"
+        },
+        {
+            "Code": "114357",
+            "Name": "Chinakakani,   Andhra Pradesh",
+            "NameAr": "كهيناكاكاني اندهرا براديسه"
+        },
+        {
+            "Code": "114660",
+            "Name": "Chinnakanal,   Kerala",
+            "NameAr": "كهينناكانال كيرالا"
+        },
+        {
+            "Code": "114801",
+            "Name": "Chintpuri,   Himachal Pradesh",
+            "NameAr": "كهينتبوري هيماكهال براديسه"
+        },
+        {
+            "Code": "114272",
+            "Name": "Chiplun,   Maharashtra",
+            "NameAr": "كهيبلون ماهاراسهترا"
+        },
+        {
+            "Code": "274833",
+            "Name": "Chirawa,   Rajasthan",
+            "NameAr": "كهيراوا راجاستهان"
+        },
+        {
+            "Code": "225402",
+            "Name": "Chitradurga,   Karnataka",
+            "NameAr": "كهيترادورجا كارناتاكا"
+        },
+        {
+            "Code": "153978",
+            "Name": "Chitradurga District",
+            "NameAr": "كهيترادورجا ديستريكت"
+        },
+        {
+            "Code": "114803",
+            "Name": "Chitrakoot,   Madhya Pradesh",
+            "NameAr": "كهيتراكووت مادهيا براديسه"
+        },
+        {
+            "Code": "114804",
+            "Name": "Chittaurgarh,   Rajasthan",
+            "NameAr": "كهيتتاورجاره راجاستهان"
+        },
+        {
+            "Code": "114758",
+            "Name": "Choglamsar,   Jammu And Kashmir",
+            "NameAr": "كهوجلامسار جاممو اند كاسهمير"
+        },
+        {
+            "Code": "160626",
+            "Name": "Chomu",
+            "NameAr": "كهومو"
+        },
+        {
+            "Code": "114811",
+            "Name": "Chorao Island,   Goa",
+            "NameAr": "كهوراو يسلاند جوا"
+        },
+        {
+            "Code": "286831",
+            "Name": "Chottanikkara",
+            "NameAr": "كهوتتانيككارا"
+        },
+        {
+            "Code": "114817",
+            "Name": "Chowara,   Kerala",
+            "NameAr": "كهووارا كيرالا"
+        },
+        {
+            "Code": "114823",
+            "Name": "Chundale,   Kerala",
+            "NameAr": "كهوندالي كيرالا"
+        },
+        {
+            "Code": "114554",
+            "Name": "Churu,   Rajasthan",
+            "NameAr": "كهورو راجاستهان"
+        },
+        {
+            "Code": "144735",
+            "Name": "Coimbatore,   Tamil Nadu",
+            "NameAr": "كويمباتوري تاميل نادو"
+        },
+        {
+            "Code": "115840",
+            "Name": "Colva,   Goa",
+            "NameAr": "كولفا جوا"
+        },
+        {
+            "Code": "301104",
+            "Name": "Cooch Behar,   West Bengal",
+            "NameAr": "كووكه بيهار ويست بينجال"
+        },
+        {
+            "Code": "102287",
+            "Name": "Coochbehar,   West Bengal",
+            "NameAr": "كووكهبيهار ويست بينجال"
+        },
+        {
+            "Code": "115864",
+            "Name": "Coonoor,   Tamil Nadu",
+            "NameAr": "كوونوور تاميل نادو"
+        },
+        {
+            "Code": "115400",
+            "Name": "Coorg,   Karnataka",
+            "NameAr": "كوورج كارناتاكا"
+        },
+        {
+            "Code": "305701",
+            "Name": "Courtallam,   Tamil Nadu",
+            "NameAr": "كوورتاللام تاميل نادو"
+        },
+        {
+            "Code": "115526",
+            "Name": "Covelong,   Tamil Nadu",
+            "NameAr": "كوفيلونج تاميل نادو"
+        },
+        {
+            "Code": "116021",
+            "Name": "Cuttack,   Orissa",
+            "NameAr": "كوتتاكك وريسسا"
+        },
+        {
+            "Code": "104936",
+            "Name": "Dadahu,   Himachal Pradesh",
+            "NameAr": "داداهو هيماكهال براديسه"
+        },
+        {
+            "Code": "238716",
+            "Name": "Dahegam,   Gujarat",
+            "NameAr": "داهيجام جوجارات"
+        },
+        {
+            "Code": "115176",
+            "Name": "Dahej,   Gujarat",
+            "NameAr": "داهيج جوجارات"
+        },
+        {
+            "Code": "154007",
+            "Name": "Dakshina Kannada District,   Karnataka",
+            "NameAr": "داكسهينا كاننادا ديستريكت كارناتاكا"
+        },
+        {
+            "Code": "116613",
+            "Name": "Dalhousie,   Himachal Pradesh",
+            "NameAr": "دالهووسيي هيماكهال براديسه"
+        },
+        {
+            "Code": "116035",
+            "Name": "Daman,   Daman and Diu",
+            "NameAr": "دامان دامان اند ديو"
+        },
+        {
+            "Code": "116039",
+            "Name": "Dandeli,   Karnataka",
+            "NameAr": "دانديلي كارناتاكا"
+        },
+        {
+            "Code": "116624",
+            "Name": "Dankuni,   West Bengal",
+            "NameAr": "دانكوني ويست بينجال"
+        },
+        {
+            "Code": "115634",
+            "Name": "Dapoli,   Maharashtra",
+            "NameAr": "دابولي ماهاراسهترا"
+        },
+        {
+            "Code": "105998",
+            "Name": "Darbhanga,   Bihar",
+            "NameAr": "داربهانجا بيهار"
+        },
+        {
+            "Code": "116264",
+            "Name": "Darjeeling,   West Bengal",
+            "NameAr": "دارجييلينج ويست بينجال"
+        },
+        {
+            "Code": "402770",
+            "Name": "Dasada,   Gujarat",
+            "NameAr": "داسادا جوجارات"
+        },
+        {
+            "Code": "101849",
+            "Name": "Daund,   Maharashtra ",
+            "NameAr": "داوند ماهاراسهترا"
+        },
+        {
+            "Code": "144874",
+            "Name": "Dausa,   Rajasthan",
+            "NameAr": "داوسا راجاستهان"
+        },
+        {
+            "Code": "280566",
+            "Name": "Davanagere,   Karnataka",
+            "NameAr": "دافاناجيري كارناتاكا"
+        },
+        {
+            "Code": "148900",
+            "Name": "DEEPYOKMA,   Jammu and Kashmir",
+            "NameAr": "دييبيوكما جاممو اند كاسهمير"
+        },
+        {
+            "Code": "116164",
+            "Name": "Dehradun,   Uttarakhand",
+            "NameAr": "ديهرادون وتتاراكهاند"
+        },
+        {
+            "Code": "418069",
+            "Name": "Delhi NCR",
+            "NameAr": "ديلهي نكر"
+        },
+        {
+            "Code": "116074",
+            "Name": "Deogarh,   Rajasthan",
+            "NameAr": "ديوجاره راجاستهان"
+        },
+        {
+            "Code": "105482",
+            "Name": "Deoghar,   Jharkhand",
+            "NameAr": "ديوجهار جهاركهاند"
+        },
+        {
+            "Code": "301589",
+            "Name": "Dera Bassi,   Punjab",
+            "NameAr": "ديرا باسسي بونجاب"
+        },
+        {
+            "Code": "117352",
+            "Name": "Devikulam,   Kerala",
+            "NameAr": "ديفيكولام كيرالا"
+        },
+        {
+            "Code": "106255",
+            "Name": "Devprayag,   Uttarakhand",
+            "NameAr": "ديفبراياج وتتاراكهاند"
+        },
+        {
+            "Code": "104946",
+            "Name": "Dhanachuli,   Uttarakhand",
+            "NameAr": "دهاناكهولي وتتاراكهاند"
+        },
+        {
+            "Code": "106006",
+            "Name": "Dhanaulti,   Uttarakhand ",
+            "NameAr": "دهاناولتي وتتاراكهاند"
+        },
+        {
+            "Code": "150731",
+            "Name": "Dhanbad,   Jharkhand",
+            "NameAr": "دهانباد جهاركهاند"
+        },
+        {
+            "Code": "154074",
+            "Name": "Dhar District,   Madhya Pradesh",
+            "NameAr": "دهار ديستريكت مادهيا براديسه"
+        },
+        {
+            "Code": "102310",
+            "Name": "Dharampur,   Himachal Pradesh",
+            "NameAr": "دهارامبور هيماكهال براديسه"
+        },
+        {
+            "Code": "115880",
+            "Name": "Dharamshala,   HIMACHAL PRADESH",
+            "NameAr": "دهارامسهالا هيماكهال براديسه"
+        },
+        {
+            "Code": "302737",
+            "Name": "Dhari,   Gujarat",
+            "NameAr": "دهاري جوجارات"
+        },
+        {
+            "Code": "144913",
+            "Name": "Dharmapuri,   Tamil Nadu",
+            "NameAr": "دهارمابوري تاميل نادو"
+        },
+        {
+            "Code": "105779",
+            "Name": "Dhela,   Uttarakhand",
+            "NameAr": "دهيلا وتتاراكهاند"
+        },
+        {
+            "Code": "116338",
+            "Name": "Dhikuli,   Uttarakhand ",
+            "NameAr": "دهيكولي وتتاراكهاند"
+        },
+        {
+            "Code": "245095",
+            "Name": "Dholavira,   Gujarat",
+            "NameAr": "دهولافيرا جوجارات"
+        },
+        {
+            "Code": "115881",
+            "Name": "Dholpur,   Rajasthan",
+            "NameAr": "دهولبور راجاستهان"
+        },
+        {
+            "Code": "116087",
+            "Name": "Dhule,   Maharashtra",
+            "NameAr": "دهولي ماهاراسهترا"
+        },
+        {
+            "Code": "115884",
+            "Name": "Dibrugarh,   Assam",
+            "NameAr": "ديبروجاره اسسام"
+        },
+        {
+            "Code": "115894",
+            "Name": "Digha,   West Bengal",
+            "NameAr": "ديجها ويست بينجال"
+        },
+        {
+            "Code": "115896",
+            "Name": "Dimapur,   Nagaland",
+            "NameAr": "ديمابور ناجالاند"
+        },
+        {
+            "Code": "160727",
+            "Name": "Dindi,   Andhra Pradesh",
+            "NameAr": "ديندي اندهرا براديسه"
+        },
+        {
+            "Code": "106010",
+            "Name": "Dindigul,   tamil Nadu",
+            "NameAr": "دينديجول تاميل نادو"
+        },
+        {
+            "Code": "151439",
+            "Name": "Dirang,   Arunachal Pradesh",
+            "NameAr": "ديرانج اروناكهال براديسه"
+        },
+        {
+            "Code": "115899",
+            "Name": "Diuu",
+            "NameAr": "ديوو"
+        },
+        {
+            "Code": "295356",
+            "Name": "Diveagar",
+            "NameAr": "ديفياجار"
+        },
+        {
+            "Code": "408733",
+            "Name": "Doddaballapura,   Karnataka",
+            "NameAr": "دودداباللابورا كارناتاكا"
+        },
+        {
+            "Code": "144950",
+            "Name": "Dooars,   West Bengal",
+            "NameAr": "دووارس ويست بينجال"
+        },
+        {
+            "Code": "116460",
+            "Name": "Dundlod,   Rajasthan",
+            "NameAr": "دوندلود راجاستهان"
+        },
+        {
+            "Code": "144996",
+            "Name": "Dungarpur,   Rajasthan",
+            "NameAr": "دونجاربور راجاستهان"
+        },
+        {
+            "Code": "117048",
+            "Name": "Durg,   Chhattisgarh",
+            "NameAr": "دورج كههاتتيسجاره"
+        },
+        {
+            "Code": "115958",
+            "Name": "Durgapur,   West Bengal",
+            "NameAr": "دورجابور ويست بينجال"
+        },
+        {
+            "Code": "108863",
+            "Name": "Dwarka,   Gujarat",
+            "NameAr": "دواركا جوجارات"
+        },
+        {
+            "Code": "117110",
+            "Name": "Edava,   Kerala",
+            "NameAr": "يدافا كيرالا"
+        },
+        {
+            "Code": "417865",
+            "Name": "Eluru,   Andhra Pradesh",
+            "NameAr": "يلورو اندهرا براديسه"
+        },
+        {
+            "Code": "145110",
+            "Name": "Ernakulam,   Kerala",
+            "NameAr": "يرناكولام كيرالا"
+        },
+        {
+            "Code": "333373",
+            "Name": "Erode,   Tamil Nadu",
+            "NameAr": "يرودي تاميل نادو"
+        },
+        {
+            "Code": "153847",
+            "Name": "Etah District",
+            "NameAr": "يتاه ديستريكت"
+        },
+        {
+            "Code": "118129",
+            "Name": "Faridabad,   Haryana",
+            "NameAr": "فاريداباد هاريانا"
+        },
+        {
+            "Code": "297864",
+            "Name": "Faridkot,   Punjab",
+            "NameAr": "فاريدكوت بونجاب"
+        },
+        {
+            "Code": "102458",
+            "Name": "Fatehabad,   Haryana ",
+            "NameAr": "فاتيهاباد هاريانا"
+        },
+        {
+            "Code": "118805",
+            "Name": "Fatehgarh,   Uttar Pradesh",
+            "NameAr": "فاتيهجاره وتتار براديسه"
+        },
+        {
+            "Code": "117771",
+            "Name": "Fatehpur Sikri,   Uttar Pradesh",
+            "NameAr": "فاتيهبور سيكري وتتار براديسه"
+        },
+        {
+            "Code": "404366",
+            "Name": "Firozabad,   Uttar Pradesh",
+            "NameAr": "فيروزاباد وتتار براديسه"
+        },
+        {
+            "Code": "370828",
+            "Name": "Fort Kochi",
+            "NameAr": "فورت كوكهي"
+        },
+        {
+            "Code": "305606",
+            "Name": "Gachibowli,   Telangana",
+            "NameAr": "جاكهيبوولي تيلانجانا"
+        },
+        {
+            "Code": "402273",
+            "Name": "Gadag-Betageri,   Karnataka",
+            "NameAr": "جاداج-بيتاجيري كارناتاكا"
+        },
+        {
+            "Code": "117993",
+            "Name": "Gandhidham,   Gujarat",
+            "NameAr": "جاندهيدهام جوجارات"
+        },
+        {
+            "Code": "119071",
+            "Name": "Gandhinagar,   Gujarat",
+            "NameAr": "جاندهيناجار جوجارات"
+        },
+        {
+            "Code": "160995",
+            "Name": "Gandipet,   Telangana",
+            "NameAr": "جانديبيت تيلانجانا"
+        },
+        {
+            "Code": "101509",
+            "Name": "Gangavathi,   Karnataka",
+            "NameAr": "جانجافاتهي كارناتاكا"
+        },
+        {
+            "Code": "119613",
+            "Name": "Gangotri,   Uttarakhand",
+            "NameAr": "جانجوتري وتتاراكهاند"
+        },
+        {
+            "Code": "119221",
+            "Name": "Gangtok,   Sikkim",
+            "NameAr": "جانجتوك سيككيم"
+        },
+        {
+            "Code": "119222",
+            "Name": "Ganpatipule,   Maharashtra",
+            "NameAr": "جانباتيبولي ماهاراسهترا"
+        },
+        {
+            "Code": "200705",
+            "Name": "Garhmukteshwar,   Uttar Pradesh",
+            "NameAr": "جارهموكتيسهوار وتتار براديسه"
+        },
+        {
+            "Code": "119358",
+            "Name": "Gaya,   Bihar",
+            "NameAr": "جايا بيهار"
+        },
+        {
+            "Code": "160390",
+            "Name": "Geyzing,   Sikkim",
+            "NameAr": "جييزينج سيككيم"
+        },
+        {
+            "Code": "295489",
+            "Name": "Ghanerao",
+            "NameAr": "جهانيراو"
+        },
+        {
+            "Code": "118973",
+            "Name": "Ghaziabad,   Uttar Pradesh",
+            "NameAr": "جهازياباد وتتار براديسه"
+        },
+        {
+            "Code": "106106",
+            "Name": "Giridih,   Jharkhand",
+            "NameAr": "جيريديه جهاركهاند"
+        },
+        {
+            "Code": "118719",
+            "Name": "Glenburn,   West Bengal",
+            "NameAr": "جلينبورن ويست بينجال"
+        },
+        {
+            "Code": "119805",
+            "Name": "Goa,   Goa",
+            "NameAr": "جوا جوا"
+        },
+        {
+            "Code": "108256",
+            "Name": "Goa Velha,   Goa",
+            "NameAr": "جوا فيلها جوا"
+        },
+        {
+            "Code": "261602",
+            "Name": "Godhra,   Gujarat",
+            "NameAr": "جودهرا جوجارات"
+        },
+        {
+            "Code": "118733",
+            "Name": "Gokarna,   Karnataka",
+            "NameAr": "جوكارنا كارناتاكا"
+        },
+        {
+            "Code": "417924",
+            "Name": "Gokul,   Mathura",
+            "NameAr": "جوكول ماتهورا"
+        },
+        {
+            "Code": "251229",
+            "Name": "Gomti Nagar,   Uttar Pradesh",
+            "NameAr": "جومتي ناجار وتتار براديسه"
+        },
+        {
+            "Code": "417511",
+            "Name": "Gondal,   Gujarat",
+            "NameAr": "جوندال جوجارات"
+        },
+        {
+            "Code": "382623",
+            "Name": "Gondia,   Maharashtra",
+            "NameAr": "جونديا ماهاراسهترا"
+        },
+        {
+            "Code": "262960",
+            "Name": "Gopalganj,   Bihar",
+            "NameAr": "جوبالجانج بيهار"
+        },
+        {
+            "Code": "120368",
+            "Name": "Gopalpur on Sea,   Odisha",
+            "NameAr": "جوبالبور ون سيا وديسها"
+        },
+        {
+            "Code": "256969",
+            "Name": "Gorai,   Maharashtra",
+            "NameAr": "جوراي ماهاراسهترا"
+        },
+        {
+            "Code": "120371",
+            "Name": "Gorakhpur,   Uttar Pradesh",
+            "NameAr": "جوراكهبور وتتار براديسه"
+        },
+        {
+            "Code": "102486",
+            "Name": "Gosaba,   West Bengal",
+            "NameAr": "جوسابا ويست بينجال"
+        },
+        {
+            "Code": "108265",
+            "Name": "Govardhan,   Uttar Pradesh",
+            "NameAr": "جوفاردهان وتتار براديسه"
+        },
+        {
+            "Code": "145430",
+            "Name": "Greater Noida,   Uttar Pradesh",
+            "NameAr": "جرياتير نويدا وتتار براديسه"
+        },
+        {
+            "Code": "102499",
+            "Name": "Gudalur,   Tamil Nadu",
+            "NameAr": "جودالور تاميل نادو"
+        },
+        {
+            "Code": "105832",
+            "Name": "Guirim,   Goa",
+            "NameAr": "جويريم جوا"
+        },
+        {
+            "Code": "153893",
+            "Name": "Gujarat,   Gujarat",
+            "NameAr": "جوجارات جوجارات"
+        },
+        {
+            "Code": "119924",
+            "Name": "Gulmarg,   Jammu and Kashmir",
+            "NameAr": "جولمارج جاممو اند كاسهمير"
+        },
+        {
+            "Code": "280781",
+            "Name": "Gummidipundi,   Tamil Nadu",
+            "NameAr": "جومميديبوندي تاميل نادو"
+        },
+        {
+            "Code": "150594",
+            "Name": "Guna,   Madhya Pradesh",
+            "NameAr": "جونا مادهيا براديسه"
+        },
+        {
+            "Code": "106131",
+            "Name": "Guntur,   Andhra Pradesh",
+            "NameAr": "جونتور اندهرا براديسه"
+        },
+        {
+            "Code": "300176",
+            "Name": "Guptkashi,   Uttarakhand",
+            "NameAr": "جوبتكاسهي وتتاراكهاند"
+        },
+        {
+            "Code": "301389",
+            "Name": "Gurdaspur",
+            "NameAr": "جورداسبور"
+        },
+        {
+            "Code": "119513",
+            "Name": "Gurugram/Gurgaon,   Haryana",
+            "NameAr": "جوروجرام جورجاون هاريانا"
+        },
+        {
+            "Code": "119517",
+            "Name": "Guruvayur,   Kerala",
+            "NameAr": "جوروفايور كيرالا"
+        },
+        {
+            "Code": "121139",
+            "Name": "Guwahati,   Assam",
+            "NameAr": "جوواهاتي اسسام"
+        },
+        {
+            "Code": "120439",
+            "Name": "Gwalior,   Madhya Pradesh",
+            "NameAr": "جواليور مادهيا براديسه"
+        },
+        {
+            "Code": "161000",
+            "Name": "Hajipur,   Bihar",
+            "NameAr": "هاجيبور بيهار"
+        },
+        {
+            "Code": "120588",
+            "Name": "Haldwani,   Uttarakhand",
+            "NameAr": "هالدواني وتتاراكهاند"
+        },
+        {
+            "Code": "121175",
+            "Name": "Hampi,   Karnataka",
+            "NameAr": "هامبي كارناتاكا"
+        },
+        {
+            "Code": "119961",
+            "Name": "Hansi,   Haryana",
+            "NameAr": "هانسي هاريانا"
+        },
+        {
+            "Code": "120206",
+            "Name": "Hanumangarh,   Rajasthan",
+            "NameAr": "هانومانجاره راجاستهان"
+        },
+        {
+            "Code": "121186",
+            "Name": "Haridwar,   Uttarakhand",
+            "NameAr": "هاريدوار وتتاراكهاند"
+        },
+        {
+            "Code": "257027",
+            "Name": "Hasanganj,   Uttar Pradesh",
+            "NameAr": "هاسانجانج وتتار براديسه"
+        },
+        {
+            "Code": "120871",
+            "Name": "Hassan,   Karnataka",
+            "NameAr": "هاسسان كارناتاكا"
+        },
+        {
+            "Code": "417919",
+            "Name": "Hatgad,   Maharashtra",
+            "NameAr": "هاتجاد ماهاراسهترا"
+        },
+        {
+            "Code": "119978",
+            "Name": "Havelock Island,   Andaman & Nicobar",
+            "NameAr": "هافيلوكك يسلاند اندامان نيكوبار"
+        },
+        {
+            "Code": "102512",
+            "Name": "Hebbal,   Karnataka",
+            "NameAr": "هيببال كارناتاكا"
+        },
+        {
+            "Code": "148892",
+            "Name": "Hemis Skupachan,   Jammu and Kashmir",
+            "NameAr": "هيميس سكوباكهان جاممو اند كاسهمير"
+        },
+        {
+            "Code": "121355",
+            "Name": "Hinjawadi,   Maharashtra ",
+            "NameAr": "هينجاوادي ماهاراسهترا"
+        },
+        {
+            "Code": "105850",
+            "Name": "Hisar,   Haryana ",
+            "NameAr": "هيسار هاريانا"
+        },
+        {
+            "Code": "145660",
+            "Name": "Hooghly,   West Bengal",
+            "NameAr": "هووجهلي ويست بينجال"
+        },
+        {
+            "Code": "121396",
+            "Name": "Hosapete,   Karnataka",
+            "NameAr": "هوسابيتي كارناتاكا"
+        },
+        {
+            "Code": "153950",
+            "Name": "Hoshangabad District",
+            "NameAr": "هوسهانجاباد ديستريكت"
+        },
+        {
+            "Code": "121557",
+            "Name": "Hoshiarpur,   Punjab",
+            "NameAr": "هوسهياربور بونجاب"
+        },
+        {
+            "Code": "355946",
+            "Name": "Hoskote",
+            "NameAr": "هوسكوتي"
+        },
+        {
+            "Code": "121290",
+            "Name": "Hosur,   KARNATAKA",
+            "NameAr": "هوسور كارناتاكا"
+        },
+        {
+            "Code": "145687",
+            "Name": "Howrah,   West Bengal",
+            "NameAr": "هووراه ويست بينجال"
+        },
+        {
+            "Code": "150235",
+            "Name": "Hubballi,   Karnataka",
+            "NameAr": "هوبباللي كارناتاكا"
+        },
+        {
+            "Code": "338277",
+            "Name": "Hubli (HBX),   Hubli",
+            "NameAr": "هوبلي هبكس هوبلي"
+        },
+        {
+            "Code": "121570",
+            "Name": "Hudikeri,   Karnataka",
+            "NameAr": "هوديكيري كارناتاكا"
+        },
+        {
+            "Code": "393866",
+            "Name": "Hunder",
+            "NameAr": "هوندير"
+        },
+        {
+            "Code": "355802",
+            "Name": "Hunsur,   Karnataka",
+            "NameAr": "هونسور كارناتاكا"
+        },
+        {
+            "Code": "145710",
+            "Name": "Hyderabad,   Andra Pradesh",
+            "NameAr": "هيديراباد اندرا براديسه"
+        },
+        {
+            "Code": "102531",
+            "Name": "Ichalkaranji,   Maharashtra",
+            "NameAr": "يكهالكارانجي ماهاراسهترا"
+        },
+        {
+            "Code": "154222",
+            "Name": "Idukki District",
+            "NameAr": "يدوككي ديستريكت"
+        },
+        {
+            "Code": "121984",
+            "Name": "Igatpuri,   Maharashtra",
+            "NameAr": "يجاتبوري ماهاراسهترا"
+        },
+        {
+            "Code": "122108",
+            "Name": "Imphal,   Manipur",
+            "NameAr": "يمبهال مانيبور"
+        },
+        {
+            "Code": "121726",
+            "Name": "Indore,   Madhya Pradesh",
+            "NameAr": "يندوري مادهيا براديسه"
+        },
+        {
+            "Code": "122732",
+            "Name": "Itanagar,   Arunachal Pradesh",
+            "NameAr": "يتاناجار اروناكهال براديسه"
+        },
+        {
+            "Code": "121509",
+            "Name": "Jabalpur,   Madhya Pradesh",
+            "NameAr": "جابالبور مادهيا براديسه"
+        },
+        {
+            "Code": "150469",
+            "Name": "Jagdalpur,   Chhattisgarh",
+            "NameAr": "جاجدالبور كههاتتيسجاره"
+        },
+        {
+            "Code": "122175",
+            "Name": "Jaipur,   Rajasthan",
+            "NameAr": "جايبور راجاستهان"
+        },
+        {
+            "Code": "122326",
+            "Name": "Jaisalmer,   Rajasthan",
+            "NameAr": "جايسالمير راجاستهان"
+        },
+        {
+            "Code": "268917",
+            "Name": "Jajapur",
+            "NameAr": "جاجابور"
+        },
+        {
+            "Code": "122327",
+            "Name": "Jalandhar,   Punjab",
+            "NameAr": "جالاندهار بونجاب"
+        },
+        {
+            "Code": "160994",
+            "Name": "Jaldapara,   West Bengal",
+            "NameAr": "جالدابارا ويست بينجال"
+        },
+        {
+            "Code": "122177",
+            "Name": "Jalgaon,   Maharashtra",
+            "NameAr": "جالجاون ماهاراسهترا"
+        },
+        {
+            "Code": "103931",
+            "Name": "Jalna,   Maharashtra",
+            "NameAr": "جالنا ماهاراسهترا"
+        },
+        {
+            "Code": "123420",
+            "Name": "Jalore,   Rajasthan",
+            "NameAr": "جالوري راجاستهان"
+        },
+        {
+            "Code": "122328",
+            "Name": "Jalpaiguri,   West Bengal",
+            "NameAr": "جالبايجوري ويست بينجال"
+        },
+        {
+            "Code": "105614",
+            "Name": "Jambulne,   Maharashtra",
+            "NameAr": "جامبولني ماهاراسهترا"
+        },
+        {
+            "Code": "121783",
+            "Name": "Jammu,   Jammu and Kashmir",
+            "NameAr": "جاممو جاممو اند كاسهمير"
+        },
+        {
+            "Code": "122329",
+            "Name": "Jamnagar,   Gujarat",
+            "NameAr": "جامناجار جوجارات"
+        },
+        {
+            "Code": "123422",
+            "Name": "Jamshedpur,   Jharkhand",
+            "NameAr": "جامسهيدبور جهاركهاند"
+        },
+        {
+            "Code": "280676",
+            "Name": "Jamui,   Bihar",
+            "NameAr": "جاموي بيهار"
+        },
+        {
+            "Code": "251261",
+            "Name": "Jangipur,   West Bengal",
+            "NameAr": "جانجيبور ويست بينجال"
+        },
+        {
+            "Code": "161002",
+            "Name": "Jaunpur,   Uttar Pradesh",
+            "NameAr": "جاونبور وتتار براديسه"
+        },
+        {
+            "Code": "161021",
+            "Name": "Jawai,   Rajasthan",
+            "NameAr": "جاواي راجاستهان"
+        },
+        {
+            "Code": "301375",
+            "Name": "Jawhar,   Maharashtra",
+            "NameAr": "جاوهار ماهاراسهترا"
+        },
+        {
+            "Code": "122763",
+            "Name": "Jeypore,   Odisha",
+            "NameAr": "جييبوري وديسها"
+        },
+        {
+            "Code": "105885",
+            "Name": "Jhadol,   Rajasthan",
+            "NameAr": "جهادول راجاستهان"
+        },
+        {
+            "Code": "122199",
+            "Name": "Jhansi,   Uttar Pradesh",
+            "NameAr": "جهانسي وتتار براديسه"
+        },
+        {
+            "Code": "295101",
+            "Name": "Jharsuguda,   Odisha",
+            "NameAr": "جهارسوجودا وديسها"
+        },
+        {
+            "Code": "148844",
+            "Name": "Jhunjhunu,   Rajasthan",
+            "NameAr": "جهونجهونو راجاستهان"
+        },
+        {
+            "Code": "257230",
+            "Name": "Jibhi,   Himachal Pradesh",
+            "NameAr": "جيبهي هيماكهال براديسه"
+        },
+        {
+            "Code": "115501",
+            "Name": "Jim Corbett National Park,   Uttarakhand",
+            "NameAr": "جيم كوربيتت ناتيونال بارك وتتاراكهاند"
+        },
+        {
+            "Code": "123445",
+            "Name": "Jispa,   Himachal Pradesh",
+            "NameAr": "جيسبا هيماكهال براديسه"
+        },
+        {
+            "Code": "145836",
+            "Name": "Jodhpur,   Rajasthan",
+            "NameAr": "جودهبور راجاستهان"
+        },
+        {
+            "Code": "122215",
+            "Name": "Jorhat,   Assam",
+            "NameAr": "جورهات اسسام"
+        },
+        {
+            "Code": "160632",
+            "Name": "Joshimath",
+            "NameAr": "جوسهيماته"
+        },
+        {
+            "Code": "105627",
+            "Name": "Junagadh,   Gujarat",
+            "NameAr": "جوناجاده جوجارات"
+        },
+        {
+            "Code": "122370",
+            "Name": "Junagarh,   Gujrat",
+            "NameAr": "جوناجاره جوجرات"
+        },
+        {
+            "Code": "123469",
+            "Name": "Jwalamukhi,   Himachal Pradesh",
+            "NameAr": "جوالاموكهي هيماكهال براديسه"
+        },
+        {
+            "Code": "150397",
+            "Name": "Kadapa,   Andhra Pradesh",
+            "NameAr": "كادابا اندهرا براديسه"
+        },
+        {
+            "Code": "355405",
+            "Name": "Kadi,   Gujarat",
+            "NameAr": "كادي جوجارات"
+        },
+        {
+            "Code": "145856",
+            "Name": "Kadmat Island,   Lakshadweep",
+            "NameAr": "كادمات يسلاند لاكسهادوييب"
+        },
+        {
+            "Code": "151112",
+            "Name": "Kailashahar,   Tripura",
+            "NameAr": "كايلاسهاهار تريبورا"
+        },
+        {
+            "Code": "123476",
+            "Name": "Kakinada,   Andhra Pradesh",
+            "NameAr": "كاكينادا اندهرا براديسه"
+        },
+        {
+            "Code": "104092",
+            "Name": "Kalady,   Kerala",
+            "NameAr": "كالادي كيرالا"
+        },
+        {
+            "Code": "269264",
+            "Name": "Kalamassery",
+            "NameAr": "كالاماسسيري"
+        },
+        {
+            "Code": "122388",
+            "Name": "Kaliel,   Tamil Nadu",
+            "NameAr": "كالييل تاميل نادو"
+        },
+        {
+            "Code": "122511",
+            "Name": "Kalimpong,   West Bengal",
+            "NameAr": "كاليمبونج ويست بينجال"
+        },
+        {
+            "Code": "293190",
+            "Name": "Kallakurichi,   Tamil Nadu",
+            "NameAr": "كاللاكوريكهي تاميل نادو"
+        },
+        {
+            "Code": "368724",
+            "Name": "Kalol,   Gujarat",
+            "NameAr": "كالول جوجارات"
+        },
+        {
+            "Code": "105633",
+            "Name": "Kalpatta,   Kerala",
+            "NameAr": "كالباتتا كيرالا"
+        },
+        {
+            "Code": "121837",
+            "Name": "Kalpetta,   Kerala",
+            "NameAr": "كالبيتتا كيرالا"
+        },
+        {
+            "Code": "145872",
+            "Name": "Kalyan,   Maharashtra",
+            "NameAr": "كاليان ماهاراسهترا"
+        },
+        {
+            "Code": "297886",
+            "Name": "Kalyani,   West Bengal",
+            "NameAr": "كالياني ويست بينجال"
+        },
+        {
+            "Code": "151198",
+            "Name": "Kamalpur,   Tripura",
+            "NameAr": "كامالبور تريبورا"
+        },
+        {
+            "Code": "121841",
+            "Name": "Kamba,   Gujrat",
+            "NameAr": "كامبا جوجرات"
+        },
+        {
+            "Code": "306364",
+            "Name": "Kamshet,   Maharashtra",
+            "NameAr": "كامسهيت ماهاراسهترا"
+        },
+        {
+            "Code": "122406",
+            "Name": "Kanadukathan,   Tamil Nadu",
+            "NameAr": "كانادوكاتهان تاميل نادو"
+        },
+        {
+            "Code": "338739",
+            "Name": "Kanatal",
+            "NameAr": "كاناتال"
+        },
+        {
+            "Code": "122824",
+            "Name": "Kanchipuram,   Tamil Nadu",
+            "NameAr": "كانكهيبورام تاميل نادو"
+        },
+        {
+            "Code": "122253",
+            "Name": "Kandaghat,   Himachal Pradesh",
+            "NameAr": "كانداجهات هيماكهال براديسه"
+        },
+        {
+            "Code": "151469",
+            "Name": "Kandla,   Gujarat",
+            "NameAr": "كاندلا جوجارات"
+        },
+        {
+            "Code": "153910",
+            "Name": "Kangra District",
+            "NameAr": "كانجرا ديستريكت"
+        },
+        {
+            "Code": "122826",
+            "Name": "Kangra Valley,   Himachal Pradesh",
+            "NameAr": "كانجرا فالليي هيماكهال براديسه"
+        },
+        {
+            "Code": "122931",
+            "Name": "Kanha,   Madhya Pradesh",
+            "NameAr": "كانها مادهيا براديسه"
+        },
+        {
+            "Code": "299954",
+            "Name": "Kankavli,   Maharashtra",
+            "NameAr": "كانكافلي ماهاراسهترا"
+        },
+        {
+            "Code": "417856",
+            "Name": "Kannauj,   Uttar Pradesh",
+            "NameAr": "كانناوج وتتار براديسه"
+        },
+        {
+            "Code": "122256",
+            "Name": "Kanniyakumari,   Tamil Nadu",
+            "NameAr": "كاننيياكوماري تاميل نادو"
+        },
+        {
+            "Code": "122522",
+            "Name": "Kannur,   Kerala",
+            "NameAr": "كاننور كيرالا"
+        },
+        {
+            "Code": "153898",
+            "Name": "Kannur District",
+            "NameAr": "كاننور ديستريكت"
+        },
+        {
+            "Code": "122932",
+            "Name": "Kanpur,   Uttar Pradesh",
+            "NameAr": "كانبور وتتار براديسه"
+        },
+        {
+            "Code": "151841",
+            "Name": "Kantal,   Uttarakhand",
+            "NameAr": "كانتال وتتاراكهاند"
+        },
+        {
+            "Code": "370728",
+            "Name": "Kanthi,   West Bengal",
+            "NameAr": "كانتهي ويست بينجال"
+        },
+        {
+            "Code": "123084",
+            "Name": "Kanyakumari,   Tamil Nadu",
+            "NameAr": "كانياكوماري تاميل نادو"
+        },
+        {
+            "Code": "122525",
+            "Name": "Kappad,   Kerala",
+            "NameAr": "كابباد كيرالا"
+        },
+        {
+            "Code": "300642",
+            "Name": "Kapurthala",
+            "NameAr": "كابورتهالا"
+        },
+        {
+            "Code": "123503",
+            "Name": "Karad,   Maharashtra",
+            "NameAr": "كاراد ماهاراسهترا"
+        },
+        {
+            "Code": "123204",
+            "Name": "Karaikudi,   Tamil Nadu",
+            "NameAr": "كارايكودي تاميل نادو"
+        },
+        {
+            "Code": "148869",
+            "Name": "Karauli,   Rajasthan",
+            "NameAr": "كاراولي راجاستهان"
+        },
+        {
+            "Code": "153890",
+            "Name": "Karauli District",
+            "NameAr": "كاراولي ديستريكت"
+        },
+        {
+            "Code": "122938",
+            "Name": "Kargil,   Jammu and Kashmir",
+            "NameAr": "كارجيل جاممو اند كاسهمير"
+        },
+        {
+            "Code": "103950",
+            "Name": "Karimnagar,   Telangana",
+            "NameAr": "كاريمناجار تيلانجانا"
+        },
+        {
+            "Code": "160750",
+            "Name": "Karjat City",
+            "NameAr": "كارجات كيتي"
+        },
+        {
+            "Code": "122275",
+            "Name": "Karnal,   Haryana",
+            "NameAr": "كارنال هاريانا"
+        },
+        {
+            "Code": "123217",
+            "Name": "Karur,   Tamil Nadu",
+            "NameAr": "كارور تاميل نادو"
+        },
+        {
+            "Code": "123098",
+            "Name": "Karwar,   Karnataka",
+            "NameAr": "كاروار كارناتاكا"
+        },
+        {
+            "Code": "123218",
+            "Name": "Kasarde,   Maharashtra",
+            "NameAr": "كاساردي ماهاراسهترا"
+        },
+        {
+            "Code": "122848",
+            "Name": "Kasargod,   Kerala",
+            "NameAr": "كاسارجود كيرالا"
+        },
+        {
+            "Code": "122950",
+            "Name": "Kasauli,   Himachal Pradesh",
+            "NameAr": "كاساولي هيماكهال براديسه"
+        },
+        {
+            "Code": "417942",
+            "Name": "Kasganj,   Uttar Pradesh",
+            "NameAr": "كاسجانج وتتار براديسه"
+        },
+        {
+            "Code": "123518",
+            "Name": "Kashid,   Maharashtra",
+            "NameAr": "كاسهيد ماهاراسهترا"
+        },
+        {
+            "Code": "123519",
+            "Name": "Kashipur,   Uttarakhand",
+            "NameAr": "كاسهيبور وتتاراكهاند"
+        },
+        {
+            "Code": "102540",
+            "Name": "Kasol,   Himachal Pradesh",
+            "NameAr": "كاسول هيماكهال براديسه"
+        },
+        {
+            "Code": "123108",
+            "Name": "Kathgodam,   Uttarakhand ",
+            "NameAr": "كاتهجودام وتتاراكهاند"
+        },
+        {
+            "Code": "108361",
+            "Name": "Katihar,   Bihar",
+            "NameAr": "كاتيهار بيهار"
+        },
+        {
+            "Code": "151859",
+            "Name": "KATPADI,   TAMIL NADU",
+            "NameAr": "كاتبادي تاميل نادو"
+        },
+        {
+            "Code": "124184",
+            "Name": "Katra,   Jammu and Kashmir",
+            "NameAr": "كاترا جاممو اند كاسهمير"
+        },
+        {
+            "Code": "123227",
+            "Name": "Kausani,   Uttarakhand",
+            "NameAr": "كاوساني وتتاراكهاند"
+        },
+        {
+            "Code": "123527",
+            "Name": "Kaziranga,   Assam",
+            "NameAr": "كازيرانجا اسسام"
+        },
+        {
+            "Code": "123231",
+            "Name": "Kedarnath,   Uttarakhand",
+            "NameAr": "كيدارناته وتتاراكهاند"
+        },
+        {
+            "Code": "122978",
+            "Name": "Kerala,   Kerala",
+            "NameAr": "كيرالا كيرالا"
+        },
+        {
+            "Code": "150615",
+            "Name": "Keshod,   Gujarat",
+            "NameAr": "كيسهود جوجارات"
+        },
+        {
+            "Code": "161022",
+            "Name": "Kevadia,   Gujarat",
+            "NameAr": "كيفاديا جوجارات"
+        },
+        {
+            "Code": "123258",
+            "Name": "Khajjiar,   Himachal Pradesh",
+            "NameAr": "كهاججيار هيماكهال براديسه"
+        },
+        {
+            "Code": "122580",
+            "Name": "Khajuraho,   Madhya Pradesh",
+            "NameAr": "كهاجوراهو مادهيا براديسه"
+        },
+        {
+            "Code": "123259",
+            "Name": "Khandala,   Maharashtra",
+            "NameAr": "كهاندالا ماهاراسهترا"
+        },
+        {
+            "Code": "102545",
+            "Name": "Khandela,   Rajasthan",
+            "NameAr": "كهانديلا راجاستهان"
+        },
+        {
+            "Code": "106186",
+            "Name": "Khandwa,   Madhya Pradesh",
+            "NameAr": "كهاندوا مادهيا براديسه"
+        },
+        {
+            "Code": "280867",
+            "Name": "Kharagpur,   West Bengal",
+            "NameAr": "كهاراجبور ويست بينجال"
+        },
+        {
+            "Code": "205200",
+            "Name": "Kharar,   Punjab",
+            "NameAr": "كهارار بونجاب"
+        },
+        {
+            "Code": "293579",
+            "Name": "Khargone,   Madhya Pradesh",
+            "NameAr": "كهارجوني مادهيا براديسه"
+        },
+        {
+            "Code": "101671",
+            "Name": "Khas Nagrota,   Himachal Pradesh",
+            "NameAr": "كهاس ناجروتا هيماكهال براديسه"
+        },
+        {
+            "Code": "160988",
+            "Name": "Khawasa,   Madhya Pradesh",
+            "NameAr": "كهاواسا مادهيا براديسه"
+        },
+        {
+            "Code": "153813",
+            "Name": "Kheri District,   Uttar Pradesh",
+            "NameAr": "كهيري ديستريكت وتتار براديسه"
+        },
+        {
+            "Code": "122998",
+            "Name": "Khilchipur,   Madhya Pradesh",
+            "NameAr": "كهيلكهيبور مادهيا براديسه"
+        },
+        {
+            "Code": "123676",
+            "Name": "Khimsar,   Rajasthan",
+            "NameAr": "كهيمسار راجاستهان"
+        },
+        {
+            "Code": "404666",
+            "Name": "Khiyansaria,   Rajasthan",
+            "NameAr": "كهييانساريا راجاستهان"
+        },
+        {
+            "Code": "295097",
+            "Name": "Khopoli,   Maharashtra",
+            "NameAr": "كهوبولي ماهاراسهترا"
+        },
+        {
+            "Code": "151837",
+            "Name": "Kidanganad,   Kerala",
+            "NameAr": "كيدانجاناد كيرالا"
+        },
+        {
+            "Code": "108369",
+            "Name": "Kihim,   Maharashtra",
+            "NameAr": "كيهيم ماهاراسهترا"
+        },
+        {
+            "Code": "417524",
+            "Name": "Kishanganj,   Bihar",
+            "NameAr": "كيسهانجانج بيهار"
+        },
+        {
+            "Code": "148902",
+            "Name": "Kishangarh,   Rajasthan",
+            "NameAr": "كيسهانجاره راجاستهان"
+        },
+        {
+            "Code": "101204",
+            "Name": "Kochi,   Kerala",
+            "NameAr": "كوكهي كيرالا"
+        },
+        {
+            "Code": "154023",
+            "Name": "Kodagu,   Karnataka",
+            "NameAr": "كوداجو كارناتاكا"
+        },
+        {
+            "Code": "123608",
+            "Name": "Kodaikanal,   Tamil Nadu",
+            "NameAr": "كودايكانال تاميل نادو"
+        },
+        {
+            "Code": "300919",
+            "Name": "Koderma",
+            "NameAr": "كوديرما"
+        },
+        {
+            "Code": "352597",
+            "Name": "Kodungallur,   Kerala",
+            "NameAr": "كودونجاللور كيرالا"
+        },
+        {
+            "Code": "304539",
+            "Name": "Kolad,   Maharashtra",
+            "NameAr": "كولاد ماهاراسهترا"
+        },
+        {
+            "Code": "161007",
+            "Name": "Kolaghat,   West Bengal",
+            "NameAr": "كولاجهات ويست بينجال"
+        },
+        {
+            "Code": "123875",
+            "Name": "Kolhapur,   Maharashtra",
+            "NameAr": "كولهابور ماهاراسهترا"
+        },
+        {
+            "Code": "262894",
+            "Name": "Koliyaak,   Gujarat",
+            "NameAr": "كولييااك جوجارات"
+        },
+        {
+            "Code": "113128",
+            "Name": "Kolkata/Calcutta,   West Bengal",
+            "NameAr": "كولكاتا كالكوتتا ويست بينجال"
+        },
+        {
+            "Code": "123877",
+            "Name": "Kollam,   Kerala",
+            "NameAr": "كوللام كيرالا"
+        },
+        {
+            "Code": "123879",
+            "Name": "Konark,   Odisha",
+            "NameAr": "كونارك وديسها"
+        },
+        {
+            "Code": "103877",
+            "Name": "Kondotty,   Kerala",
+            "NameAr": "كوندوتتي كيرالا"
+        },
+        {
+            "Code": "241214",
+            "Name": "Koppal,   Karnataka",
+            "NameAr": "كوببال كارناتاكا"
+        },
+        {
+            "Code": "286380",
+            "Name": "Korba,   Chhattisgarh",
+            "NameAr": "كوربا كههاتتيسجاره"
+        },
+        {
+            "Code": "124966",
+            "Name": "Kota,   Rajasthan",
+            "NameAr": "كوتا راجاستهان"
+        },
+        {
+            "Code": "396075",
+            "Name": "Kotabagh,   Uttarakhand",
+            "NameAr": "كوتاباجه وتتاراكهاند"
+        },
+        {
+            "Code": "123312",
+            "Name": "Kotagiri,   Tamil Nadu",
+            "NameAr": "كوتاجيري تاميل نادو"
+        },
+        {
+            "Code": "260573",
+            "Name": "Kotda Sangani,   Gujarat",
+            "NameAr": "كوتدا سانجاني جوجارات"
+        },
+        {
+            "Code": "418091",
+            "Name": "Kotdwar,   Uttarakhand",
+            "NameAr": "كوتدوار وتتاراكهاند"
+        },
+        {
+            "Code": "124008",
+            "Name": "Kothamangalam,   Kerala",
+            "NameAr": "كوتهامانجالام كيرالا"
+        },
+        {
+            "Code": "101696",
+            "Name": "Koti,   Telangana",
+            "NameAr": "كوتي تيلانجانا"
+        },
+        {
+            "Code": "123314",
+            "Name": "Kotputli,   Rajasthan",
+            "NameAr": "كوتبوتلي راجاستهان"
+        },
+        {
+            "Code": "123891",
+            "Name": "Kottayam,   Kerala",
+            "NameAr": "كوتتايام كيرالا"
+        },
+        {
+            "Code": "101967",
+            "Name": "Kottivakkam,   Tamil Nadu",
+            "NameAr": "كوتتيفاككام تاميل نادو"
+        },
+        {
+            "Code": "123897",
+            "Name": "Kovalam,   Kerala",
+            "NameAr": "كوفالام كيرالا"
+        },
+        {
+            "Code": "144475",
+            "Name": "Kozhikode,   Kerala",
+            "NameAr": "كوزهيكودي كيرالا"
+        },
+        {
+            "Code": "123334",
+            "Name": "Krishnagiri,   Tamil Nadu",
+            "NameAr": "كريسهناجيري تاميل نادو"
+        },
+        {
+            "Code": "123914",
+            "Name": "Kuchaman,   Rajasthan",
+            "NameAr": "كوكهامان راجاستهان"
+        },
+        {
+            "Code": "103727",
+            "Name": "Kudal,   Goa",
+            "NameAr": "كودال جوا"
+        },
+        {
+            "Code": "124997",
+            "Name": "Kudasan,   Gujrat",
+            "NameAr": "كوداسان جوجرات"
+        },
+        {
+            "Code": "371051",
+            "Name": "Kufri",
+            "NameAr": "كوفري"
+        },
+        {
+            "Code": "146047",
+            "Name": "Kullu,   HIMACHAL PRADESH",
+            "NameAr": "كوللو هيماكهال براديسه"
+        },
+        {
+            "Code": "123344",
+            "Name": "Kumarakom,   Kerala",
+            "NameAr": "كوماراكوم كيرالا"
+        },
+        {
+            "Code": "125002",
+            "Name": "Kumbakonam,   Tamil Nadu",
+            "NameAr": "كومباكونام تاميل نادو"
+        },
+        {
+            "Code": "123774",
+            "Name": "Kumbhalgarh,   Rajasthan",
+            "NameAr": "كومبهالجاره راجاستهان"
+        },
+        {
+            "Code": "402772",
+            "Name": "Kumharsain,   Himachal Pradesh",
+            "NameAr": "كومهارساين هيماكهال براديسه"
+        },
+        {
+            "Code": "146051",
+            "Name": "Kumily,   Kerala",
+            "NameAr": "كوميلي كيرالا"
+        },
+        {
+            "Code": "103888",
+            "Name": "Kundapur,   Karnataka",
+            "NameAr": "كوندابور كارناتاكا"
+        },
+        {
+            "Code": "103728",
+            "Name": "Kurnool,   Andhra Pradesh",
+            "NameAr": "كورنوول اندهرا براديسه"
+        },
+        {
+            "Code": "159580",
+            "Name": "Kurseong,   West Bengal",
+            "NameAr": "كورسيونج ويست بينجال"
+        },
+        {
+            "Code": "151844",
+            "Name": "Kurukshetra,   Haryana",
+            "NameAr": "كوروكسهيترا هاريانا"
+        },
+        {
+            "Code": "105541",
+            "Name": "Kuruppanthara,   Kerala",
+            "NameAr": "كوروببانتهارا كيرالا"
+        },
+        {
+            "Code": "124044",
+            "Name": "Kushalnagar,   Karnataka",
+            "NameAr": "كوسهالناجار كارناتاكا"
+        },
+        {
+            "Code": "124045",
+            "Name": "Kushinagar,   Uttar Pradesh",
+            "NameAr": "كوسهيناجار وتتار براديسه"
+        },
+        {
+            "Code": "122798",
+            "Name": "Kutch,   Gujrat",
+            "NameAr": "كوتكه جوجرات"
+        },
+        {
+            "Code": "244233",
+            "Name": "Lachen,   Sikkim",
+            "NameAr": "لاكهين سيككيم"
+        },
+        {
+            "Code": "262996",
+            "Name": "Lachhmangarh,   Rajasthan",
+            "NameAr": "لاكههمانجاره راجاستهان"
+        },
+        {
+            "Code": "146091",
+            "Name": "Lachung,   Sikkim",
+            "NameAr": "لاكهونج سيككيم"
+        },
+        {
+            "Code": "150363",
+            "Name": "Ladakh,   Ladakh",
+            "NameAr": "لاداكه لاداكه"
+        },
+        {
+            "Code": "146104",
+            "Name": "Lahaul and Spiti,   Himachal Pradesh",
+            "NameAr": "لاهاول اند سبيتي هيماكهال براديسه"
+        },
+        {
+            "Code": "161005",
+            "Name": "Lakhimpur,   Uttar Pradesh",
+            "NameAr": "لاكهيمبور وتتار براديسه"
+        },
+        {
+            "Code": "124514",
+            "Name": "Lakkidi,   Kerala",
+            "NameAr": "لاككيدي كيرالا"
+        },
+        {
+            "Code": "153914",
+            "Name": "Lakshadweep",
+            "NameAr": "لاكسهادوييب"
+        },
+        {
+            "Code": "103751",
+            "Name": "Lansdowne,   Uttarakhand",
+            "NameAr": "لانسدووني وتتاراكهاند"
+        },
+        {
+            "Code": "148903",
+            "Name": "Lataguri,   West Bengal",
+            "NameAr": "لاتاجوري ويست بينجال"
+        },
+        {
+            "Code": "125485",
+            "Name": "Latur,   Maharashtra",
+            "NameAr": "لاتور ماهاراسهترا"
+        },
+        {
+            "Code": "146184",
+            "Name": "Lava,   Maharashtra",
+            "NameAr": "لافا ماهاراسهترا"
+        },
+        {
+            "Code": "125144",
+            "Name": "Leh,   Jammu and Kashmir",
+            "NameAr": "ليه جاممو اند كاسهمير"
+        },
+        {
+            "Code": "148896",
+            "Name": "LINGSHED,   Jammu and Kashmir",
+            "NameAr": "لينجسهيد جاممو اند كاسهمير"
+        },
+        {
+            "Code": "126630",
+            "Name": "Lonavala,   Maharashtra",
+            "NameAr": "لونافالا ماهاراسهترا"
+        },
+        {
+            "Code": "126666",
+            "Name": "Lucknow,   Uttar Pradesh",
+            "NameAr": "لوككنوو وتتار براديسه"
+        },
+        {
+            "Code": "125928",
+            "Name": "Ludhiana,   Punjab",
+            "NameAr": "لودهيانا بونجاب"
+        },
+        {
+            "Code": "125651",
+            "Name": "Luni,   Rajasthan",
+            "NameAr": "لوني راجاستهان"
+        },
+        {
+            "Code": "418211",
+            "Name": "Madambakkam,   Tamil Nadu",
+            "NameAr": "مادامباككام تاميل نادو"
+        },
+        {
+            "Code": "418067",
+            "Name": "Madgaon",
+            "NameAr": "مادجاون"
+        },
+        {
+            "Code": "243580",
+            "Name": "Madhapur,   Telangana",
+            "NameAr": "مادهابور تيلانجانا"
+        },
+        {
+            "Code": "160999",
+            "Name": "Madhubani,   Bihar",
+            "NameAr": "مادهوباني بيهار"
+        },
+        {
+            "Code": "104313",
+            "Name": "Madikeri,   Karnataka",
+            "NameAr": "ماديكيري كارناتاكا"
+        },
+        {
+            "Code": "127067",
+            "Name": "Madurai,   Tamil Nadu",
+            "NameAr": "مادوراي تاميل نادو"
+        },
+        {
+            "Code": "125684",
+            "Name": "Mahabaleshwar,   Maharashtra",
+            "NameAr": "ماهاباليسهوار ماهاراسهترا"
+        },
+        {
+            "Code": "126117",
+            "Name": "Mahabalipuram,   TAMIL NADU",
+            "NameAr": "ماهاباليبورام تاميل نادو"
+        },
+        {
+            "Code": "103781",
+            "Name": "Mahad,   Maharashtra",
+            "NameAr": "ماهاد ماهاراسهترا"
+        },
+        {
+            "Code": "104316",
+            "Name": "Mahansar,   Rajasthan",
+            "NameAr": "ماهانسار راجاستهان"
+        },
+        {
+            "Code": "417923",
+            "Name": "Maharajganj",
+            "NameAr": "ماهاراججانج"
+        },
+        {
+            "Code": "126265",
+            "Name": "Maheshwar,   Madhya Pradesh",
+            "NameAr": "ماهيسهوار مادهيا براديسه"
+        },
+        {
+            "Code": "371686",
+            "Name": "Mahipalpur,   National Capital Territory of Delhi",
+            "NameAr": "ماهيبالبور ناتيونال كابيتال تيرريتوري وف ديلهي"
+        },
+        {
+            "Code": "104318",
+            "Name": "Majorda,   Goa",
+            "NameAr": "ماجوردا جوا"
+        },
+        {
+            "Code": "146447",
+            "Name": "Malappuram,   Kerala",
+            "NameAr": "مالاببورام كيرالا"
+        },
+        {
+            "Code": "102599",
+            "Name": "Malayattoor,   kerala",
+            "NameAr": "مالاياتتوور كيرالا"
+        },
+        {
+            "Code": "150632",
+            "Name": "Malda,   West Bengal",
+            "NameAr": "مالدا ويست بينجال"
+        },
+        {
+            "Code": "417300",
+            "Name": "Malout,   Punjab",
+            "NameAr": "مالووت بونجاب"
+        },
+        {
+            "Code": "127105",
+            "Name": "Malpura,   Rajasthan",
+            "NameAr": "مالبورا راجاستهان"
+        },
+        {
+            "Code": "126958",
+            "Name": "Malvan,   Maharashtra",
+            "NameAr": "مالفان ماهاراسهترا"
+        },
+        {
+            "Code": "126139",
+            "Name": "Mamallapuram,   Tamil Nadu",
+            "NameAr": "ماماللابورام تاميل نادو"
+        },
+        {
+            "Code": "126388",
+            "Name": "Manali,   Himachal pradesh",
+            "NameAr": "مانالي هيماكهال براديسه"
+        },
+        {
+            "Code": "375619",
+            "Name": "Mandarmani,   West Bengal",
+            "NameAr": "ماندارماني ويست بينجال"
+        },
+        {
+            "Code": "104156",
+            "Name": "Mandarmoni,   West Bengal",
+            "NameAr": "ماندارموني ويست بينجال"
+        },
+        {
+            "Code": "263259",
+            "Name": "Mandav",
+            "NameAr": "مانداف"
+        },
+        {
+            "Code": "126802",
+            "Name": "Mandawa,   Rajasthan",
+            "NameAr": "مانداوا راجاستهان"
+        },
+        {
+            "Code": "146462",
+            "Name": "Mandi,   Himachal Pradesh",
+            "NameAr": "ماندي هيماكهال براديسه"
+        },
+        {
+            "Code": "160389",
+            "Name": "Mandla,   Madhya Pradesh",
+            "NameAr": "ماندلا مادهيا براديسه"
+        },
+        {
+            "Code": "104482",
+            "Name": "Mandrem,   Goa",
+            "NameAr": "ماندريم جوا"
+        },
+        {
+            "Code": "126805",
+            "Name": "Mangaluru,   Karnataka",
+            "NameAr": "مانجالورو كارناتاكا"
+        },
+        {
+            "Code": "104157",
+            "Name": "Manipal,   Karnataka",
+            "NameAr": "مانيبال كارناتاكا"
+        },
+        {
+            "Code": "126810",
+            "Name": "Manmad,   Maharashtra",
+            "NameAr": "مانماد ماهاراسهترا"
+        },
+        {
+            "Code": "104323",
+            "Name": "Mapusa,   Goa",
+            "NameAr": "مابوسا جوا"
+        },
+        {
+            "Code": "146481",
+            "Name": "Maradu,   Kerala",
+            "NameAr": "مارادو كيرالا"
+        },
+        {
+            "Code": "146484",
+            "Name": "Marari Beach,   Kerala",
+            "NameAr": "ماراري بياكه كيرالا"
+        },
+        {
+            "Code": "126817",
+            "Name": "Mararikulam,   KERALA",
+            "NameAr": "ماراريكولام كيرالا"
+        },
+        {
+            "Code": "336934",
+            "Name": "Marchula,   Uttarakhand",
+            "NameAr": "ماركهولا وتتاراكهاند"
+        },
+        {
+            "Code": "106481",
+            "Name": "Margao,   Goa",
+            "NameAr": "مارجاو جوا"
+        },
+        {
+            "Code": "299743",
+            "Name": "Marmagao,   Goa",
+            "NameAr": "مارماجاو جوا"
+        },
+        {
+            "Code": "146533",
+            "Name": "Mashobra,   Himachal Pradesh",
+            "NameAr": "ماسهوبرا هيماكهال براديسه"
+        },
+        {
+            "Code": "146545",
+            "Name": "Matheran,   Maharashtra",
+            "NameAr": "ماتهيران ماهاراسهترا"
+        },
+        {
+            "Code": "127857",
+            "Name": "Mathura,   Uttar Pradesh",
+            "NameAr": "ماتهورا وتتار براديسه"
+        },
+        {
+            "Code": "126911",
+            "Name": "Mayiladuthurai,   Tamil Nadu",
+            "NameAr": "ماييلادوتهوراي تاميل نادو"
+        },
+        {
+            "Code": "104040",
+            "Name": "McLeod Ganj,   Himachal Pradesh",
+            "NameAr": "مكليود جانج هيماكهال براديسه"
+        },
+        {
+            "Code": "146575",
+            "Name": "Meerut,   Uttar Pradesh",
+            "NameAr": "مييروت وتتار براديسه"
+        },
+        {
+            "Code": "151812",
+            "Name": "Mehsana,   Gujarat",
+            "NameAr": "ميهسانا جوجارات"
+        },
+        {
+            "Code": "161036",
+            "Name": "Melaghar,   Tripura",
+            "NameAr": "ميلاجهار تريبورا"
+        },
+        {
+            "Code": "295351",
+            "Name": "Mendarda",
+            "NameAr": "مينداردا"
+        },
+        {
+            "Code": "104345",
+            "Name": "Meppadi,   Kerala",
+            "NameAr": "ميببادي كيرالا"
+        },
+        {
+            "Code": "128829",
+            "Name": "Mettupalayam,   Tamil Nadu",
+            "NameAr": "ميتتوبالايام تاميل نادو"
+        },
+        {
+            "Code": "300324",
+            "Name": "Mhow,   Madhya Pradesh",
+            "NameAr": "مهوو مادهيا براديسه"
+        },
+        {
+            "Code": "150356",
+            "Name": "Midnapur,   West Bengal",
+            "NameAr": "ميدنابور ويست بينجال"
+        },
+        {
+            "Code": "106510",
+            "Name": "Mirik,   West Bengal",
+            "NameAr": "ميريك ويست بينجال"
+        },
+        {
+            "Code": "151864",
+            "Name": "Mirzapur,   Uttar Pradesh",
+            "NameAr": "ميرزابور وتتار براديسه"
+        },
+        {
+            "Code": "128914",
+            "Name": "Mobor Beach,   Goa",
+            "NameAr": "موبور بياكه جوا"
+        },
+        {
+            "Code": "370782",
+            "Name": "Modasa,   Gujarat",
+            "NameAr": "موداسا جوجارات"
+        },
+        {
+            "Code": "299281",
+            "Name": "Moga",
+            "NameAr": "موجا"
+        },
+        {
+            "Code": "106514",
+            "Name": "Mohali,   Punjab",
+            "NameAr": "موهالي بونجاب"
+        },
+        {
+            "Code": "102819",
+            "Name": "Mohan,   Uttar Pradesh",
+            "NameAr": "موهان وتتار براديسه"
+        },
+        {
+            "Code": "103825",
+            "Name": "Mohania,   Bihar",
+            "NameAr": "موهانيا بيهار"
+        },
+        {
+            "Code": "364153",
+            "Name": "Mohanlalganj,   Uttar Pradesh",
+            "NameAr": "موهانلالجانج وتتار براديسه"
+        },
+        {
+            "Code": "101894",
+            "Name": "Mollem,   Goa",
+            "NameAr": "مولليم جوا"
+        },
+        {
+            "Code": "129615",
+            "Name": "Moradabad,   Uttar Pradesh",
+            "NameAr": "موراداباد وتتار براديسه"
+        },
+        {
+            "Code": "102834",
+            "Name": "Morbi,   Gujarat",
+            "NameAr": "موربي جوجارات"
+        },
+        {
+            "Code": "129044",
+            "Name": "Morjim,   Goa",
+            "NameAr": "مورجيم جوا"
+        },
+        {
+            "Code": "146752",
+            "Name": "Mount Abu,   Rajasthan",
+            "NameAr": "موونت ابو راجاستهان"
+        },
+        {
+            "Code": "151863",
+            "Name": "Mughalsarai,   Uttar Pradesh",
+            "NameAr": "موجهالساراي وتتار براديسه"
+        },
+        {
+            "Code": "129690",
+            "Name": "Mukkam,   Kerala",
+            "NameAr": "موككام كيرالا"
+        },
+        {
+            "Code": "129415",
+            "Name": "Mukteshwar,   Uttarakhand",
+            "NameAr": "موكتيسهوار وتتاراكهاند"
+        },
+        {
+            "Code": "301296",
+            "Name": "Muktsar,   Punjab",
+            "NameAr": "موكتسار بونجاب"
+        },
+        {
+            "Code": "146768",
+            "Name": "Mukundgarh,   Rajasthan",
+            "NameAr": "موكوندجاره راجاستهان"
+        },
+        {
+            "Code": "129695",
+            "Name": "Mullor",
+            "NameAr": "موللور"
+        },
+        {
+            "Code": "237563",
+            "Name": "Mulshi,   Maharashtra",
+            "NameAr": "مولسهي ماهاراسهترا"
+        },
+        {
+            "Code": "144306",
+            "Name": "Mumbai/Bombay,   Maharashtra",
+            "NameAr": "مومباي بومباي ماهاراسهترا"
+        },
+        {
+            "Code": "381757",
+            "Name": "Mundra,   Gujarat",
+            "NameAr": "موندرا جوجارات"
+        },
+        {
+            "Code": "128573",
+            "Name": "Munnar,   Kerala",
+            "NameAr": "موننار كيرالا"
+        },
+        {
+            "Code": "146776",
+            "Name": "Munsiyari,   Uttarakhand",
+            "NameAr": "مونسيياري وتتاراكهاند"
+        },
+        {
+            "Code": "128030",
+            "Name": "Murbad,   Maharashtra",
+            "NameAr": "مورباد ماهاراسهترا"
+        },
+        {
+            "Code": "129104",
+            "Name": "Murinjapuzha,   Kerala",
+            "NameAr": "مورينجابوزها كيرالا"
+        },
+        {
+            "Code": "295707",
+            "Name": "Murthal,   Haryana",
+            "NameAr": "مورتهال هاريانا"
+        },
+        {
+            "Code": "129434",
+            "Name": "Murud,   Maharashtra",
+            "NameAr": "مورود ماهاراسهترا"
+        },
+        {
+            "Code": "130341",
+            "Name": "Mussoorie,   Uttarakhand",
+            "NameAr": "موسسووريي وتتاراكهاند"
+        },
+        {
+            "Code": "150392",
+            "Name": "Muzaffarnagar,   Uttar Pradesh",
+            "NameAr": "موزاففارناجار وتتار براديسه"
+        },
+        {
+            "Code": "151536",
+            "Name": "Muzaffarpur,   Bihar",
+            "NameAr": "موزاففاربور بيهار"
+        },
+        {
+            "Code": "128698",
+            "Name": "Mysuru,   Karnataka",
+            "NameAr": "ميسورو كارناتاكا"
+        },
+        {
+            "Code": "417527",
+            "Name": "Nabadwip",
+            "NameAr": "نابادويب"
+        },
+        {
+            "Code": "153797",
+            "Name": "Nadia District,   West Bengal",
+            "NameAr": "ناديا ديستريكت ويست بينجال"
+        },
+        {
+            "Code": "104506",
+            "Name": "Nadiad,   Gujarat",
+            "NameAr": "نادياد جوجارات"
+        },
+        {
+            "Code": "130352",
+            "Name": "Nadukani,   Kerala",
+            "NameAr": "نادوكاني كيرالا"
+        },
+        {
+            "Code": "274813",
+            "Name": "Nagaon,   Assam",
+            "NameAr": "ناجاون اسسام"
+        },
+        {
+            "Code": "129447",
+            "Name": "Nagapattinam,   Tamil Nadu",
+            "NameAr": "ناجاباتتينام تاميل نادو"
+        },
+        {
+            "Code": "160628",
+            "Name": "Nagaur,   Rajasthan",
+            "NameAr": "ناجاور راجاستهان"
+        },
+        {
+            "Code": "104260",
+            "Name": "Naggar,   Himachal Pradesh",
+            "NameAr": "ناججار هيماكهال براديسه"
+        },
+        {
+            "Code": "129723",
+            "Name": "Nagpur,   Maharashtra",
+            "NameAr": "ناجبور ماهاراسهترا"
+        },
+        {
+            "Code": "338761",
+            "Name": "Nahan,   Himachal Pradesh",
+            "NameAr": "ناهان هيماكهال براديسه"
+        },
+        {
+            "Code": "130354",
+            "Name": "Nahar Magra,   Rajasthan",
+            "NameAr": "ناهار ماجرا راجاستهان"
+        },
+        {
+            "Code": "160877",
+            "Name": "NAIMISHARANYA,   UTTAR PRADESH",
+            "NameAr": "نايميسهارانيا وتتار براديسه"
+        },
+        {
+            "Code": "129726",
+            "Name": "Nainital,   Uttarakhand",
+            "NameAr": "ناينيتال وتتاراكهاند"
+        },
+        {
+            "Code": "130357",
+            "Name": "Nakinda,   Maharashtra",
+            "NameAr": "ناكيندا ماهاراسهترا"
+        },
+        {
+            "Code": "129257",
+            "Name": "Nalagarh,   Himachal Pradesh",
+            "NameAr": "نالاجاره هيماكهال براديسه"
+        },
+        {
+            "Code": "151833",
+            "Name": "Naldehra,   Himachal",
+            "NameAr": "نالديهرا هيماكهال"
+        },
+        {
+            "Code": "130105",
+            "Name": "Nalkeri,   Karnataka",
+            "NameAr": "نالكيري كارناتاكا"
+        },
+        {
+            "Code": "104509",
+            "Name": "Namakkal,   Tamil Nadu",
+            "NameAr": "ناماككال تاميل نادو"
+        },
+        {
+            "Code": "130358",
+            "Name": "Namchi,   Sikkim",
+            "NameAr": "نامكهي سيككيم"
+        },
+        {
+            "Code": "129732",
+            "Name": "Nanded,   Maharashtra",
+            "NameAr": "نانديد ماهاراسهترا"
+        },
+        {
+            "Code": "299841",
+            "Name": "Nandurbar,   Maharashtra",
+            "NameAr": "ناندوربار ماهاراسهترا"
+        },
+        {
+            "Code": "160634",
+            "Name": "Narendranagar,   Uttarakhand",
+            "NameAr": "ناريندراناجار وتتاراكهاند"
+        },
+        {
+            "Code": "102033",
+            "Name": "Narkanda,   Himachal Pradesh",
+            "NameAr": "ناركاندا هيماكهال براديسه"
+        },
+        {
+            "Code": "129163",
+            "Name": "Narlai,   Rajasthan",
+            "NameAr": "نارلاي راجاستهان"
+        },
+        {
+            "Code": "418060",
+            "Name": "Narmadapuram,   Madhya Pradesh",
+            "NameAr": "نارمادابورام مادهيا براديسه"
+        },
+        {
+            "Code": "146814",
+            "Name": "Nashik,   Maharashtra",
+            "NameAr": "ناسهيك ماهاراسهترا"
+        },
+        {
+            "Code": "151845",
+            "Name": "Nathdwara,   Rajasthan",
+            "NameAr": "ناتهدوارا راجاستهان"
+        },
+        {
+            "Code": "146820",
+            "Name": "Nattika,   Kerala",
+            "NameAr": "ناتتيكا كيرالا"
+        },
+        {
+            "Code": "128734",
+            "Name": "Navi Mumbai,   Maharashtra",
+            "NameAr": "نافي مومباي ماهاراسهترا"
+        },
+        {
+            "Code": "300782",
+            "Name": "Navsari,   Gujarat",
+            "NameAr": "نافساري جوجارات"
+        },
+        {
+            "Code": "146825",
+            "Name": "Nawalgarh,   Rajasthan",
+            "NameAr": "ناوالجاره راجاستهان"
+        },
+        {
+            "Code": "151846",
+            "Name": "Nawanshahar,   Punjab",
+            "NameAr": "ناوانسهاهار بونجاب"
+        },
+        {
+            "Code": "154145",
+            "Name": "Nawanshahr,   Punjab",
+            "NameAr": "ناوانسهاهر بونجاب"
+        },
+        {
+            "Code": "150203",
+            "Name": "Nedumbassery,   Kerala",
+            "NameAr": "نيدومباسسيري كيرالا"
+        },
+        {
+            "Code": "129816",
+            "Name": "Neeleshwar,   Kerala",
+            "NameAr": "نييليسهوار كيرالا"
+        },
+        {
+            "Code": "130137",
+            "Name": "Neemrana,   RAJASTHAN",
+            "NameAr": "نييمرانا راجاستهان"
+        },
+        {
+            "Code": "235963",
+            "Name": "Neemuch,   Madhya Pradesh",
+            "NameAr": "نييموكه مادهيا براديسه"
+        },
+        {
+            "Code": "129189",
+            "Name": "Neil Island,   Andaman & Nicobar",
+            "NameAr": "نييل يسلاند اندامان نيكوبار"
+        },
+        {
+            "Code": "358240",
+            "Name": "Nelamangala,   Karnataka",
+            "NameAr": "نيلامانجالا كارناتاكا"
+        },
+        {
+            "Code": "129289",
+            "Name": "Nellore,   Andhra Pradesh",
+            "NameAr": "نيللوري اندهرا براديسه"
+        },
+        {
+            "Code": "129827",
+            "Name": "Nerul,   Maharashtra",
+            "NameAr": "نيرول ماهاراسهترا"
+        },
+        {
+            "Code": "130443",
+            "Name": "New Delhi / Delhi,   DELHI",
+            "NameAr": "نيو ديلهي ديلهي ديلهي"
+        },
+        {
+            "Code": "287941",
+            "Name": "New Digha,   West Bengal",
+            "NameAr": "نيو ديجها ويست بينجال"
+        },
+        {
+            "Code": "150649",
+            "Name": "Neyveli,   Tamil Nadu",
+            "NameAr": "نييفيلي تاميل نادو"
+        },
+        {
+            "Code": "346564",
+            "Name": "Nilambur,   Kerala",
+            "NameAr": "نيلامبور كيرالا"
+        },
+        {
+            "Code": "104531",
+            "Name": "Nilgiri,   Tamil Nadu",
+            "NameAr": "نيلجيري تاميل نادو"
+        },
+        {
+            "Code": "129477",
+            "Name": "Nimaj,   Rajasthan",
+            "NameAr": "نيماج راجاستهان"
+        },
+        {
+            "Code": "130205",
+            "Name": "Noida,   UTTAR PRADESH",
+            "NameAr": "نويدا وتتار براديسه"
+        },
+        {
+            "Code": "153921",
+            "Name": "North Goa,   Goa",
+            "NameAr": "نورته جوا جوا"
+        },
+        {
+            "Code": "150162",
+            "Name": "North Lakhimpur,   Assam",
+            "NameAr": "نورته لاكهيمبور اسسام"
+        },
+        {
+            "Code": "106556",
+            "Name": "North Paravur,   Kerala",
+            "NameAr": "نورته بارافور كيرالا"
+        },
+        {
+            "Code": "153975",
+            "Name": "North Sikkim,   Sikkim",
+            "NameAr": "نورته سيككيم سيككيم"
+        },
+        {
+            "Code": "150357",
+            "Name": "NYERAK,   Jammu Kashmir",
+            "NameAr": "نييراك جاممو كاسهمير"
+        },
+        {
+            "Code": "131276",
+            "Name": "Omkareshwar,   Madhya Pradesh",
+            "NameAr": "ومكاريسهوار مادهيا براديسه"
+        },
+        {
+            "Code": "130990",
+            "Name": "Ooty,   Tamil Nadu",
+            "NameAr": "ووتي تاميل نادو"
+        },
+        {
+            "Code": "130252",
+            "Name": "Orchha,   Madhya Pradesh",
+            "NameAr": "وركهها مادهيا براديسه"
+        },
+        {
+            "Code": "130799",
+            "Name": "Orissa,   Odisha",
+            "NameAr": "وريسسا وديسها"
+        },
+        {
+            "Code": "132015",
+            "Name": "Pachmarhi,   Madhya Pradesh",
+            "NameAr": "باكهمارهي مادهيا براديسه"
+        },
+        {
+            "Code": "130852",
+            "Name": "Padappai,   Tamil Nadu",
+            "NameAr": "بادابباي تاميل نادو"
+        },
+        {
+            "Code": "131375",
+            "Name": "Pahalgam,   Jammu and Kashmir",
+            "NameAr": "باهالجام جاممو اند كاسهمير"
+        },
+        {
+            "Code": "131721",
+            "Name": "Pakhal,   Telangana",
+            "NameAr": "باكهال تيلانجانا"
+        },
+        {
+            "Code": "132025",
+            "Name": "Palakkad,   Kerala",
+            "NameAr": "بالاككاد كيرالا"
+        },
+        {
+            "Code": "153808",
+            "Name": "Palakkad District",
+            "NameAr": "بالاككاد ديستريكت"
+        },
+        {
+            "Code": "147070",
+            "Name": "Palampur,   Himachal Pradesh",
+            "NameAr": "بالامبور هيماكهال براديسه"
+        },
+        {
+            "Code": "130749",
+            "Name": "Palani,   Tamil Nadu",
+            "NameAr": "بالاني تاميل نادو"
+        },
+        {
+            "Code": "130316",
+            "Name": "Palanpur,   Gujrat",
+            "NameAr": "بالانبور جوجرات"
+        },
+        {
+            "Code": "292291",
+            "Name": "Palghar",
+            "NameAr": "بالجهار"
+        },
+        {
+            "Code": "147075",
+            "Name": "Pali,   Rajasthan",
+            "NameAr": "بالي راجاستهان"
+        },
+        {
+            "Code": "294433",
+            "Name": "Palia Kalan,   Uttar Pradesh",
+            "NameAr": "باليا كالان وتتار براديسه"
+        },
+        {
+            "Code": "362198",
+            "Name": "Palolem,   Goa",
+            "NameAr": "بالوليم جوا"
+        },
+        {
+            "Code": "241457",
+            "Name": "Palwal,   Haryana",
+            "NameAr": "بالوال هاريانا"
+        },
+        {
+            "Code": "131398",
+            "Name": "Panaji,   Goa",
+            "NameAr": "باناجي جوا"
+        },
+        {
+            "Code": "131394",
+            "Name": "Panchgani,   Maharashtra",
+            "NameAr": "بانكهجاني ماهاراسهترا"
+        },
+        {
+            "Code": "131002",
+            "Name": "Panchkula,   Haryana",
+            "NameAr": "بانكهكولا هاريانا"
+        },
+        {
+            "Code": "261909",
+            "Name": "Pandharpur,   Maharashtra",
+            "NameAr": "باندهاربور ماهاراسهترا"
+        },
+        {
+            "Code": "147083",
+            "Name": "Pandikkad,   Kerala",
+            "NameAr": "بانديككاد كيرالا"
+        },
+        {
+            "Code": "106580",
+            "Name": "Pangong Tso Lake,   Jammu And Kashmir",
+            "NameAr": "بانجونج تسو لاكي جاممو اند كاسهمير"
+        },
+        {
+            "Code": "298741",
+            "Name": "Panhala,   Maharashtra",
+            "NameAr": "بانهالا ماهاراسهترا"
+        },
+        {
+            "Code": "147088",
+            "Name": "Panipat,   Haryana",
+            "NameAr": "بانيبات هاريانا"
+        },
+        {
+            "Code": "131437",
+            "Name": "Panna,   Madhya Pradesh",
+            "NameAr": "باننا مادهيا براديسه"
+        },
+        {
+            "Code": "150800",
+            "Name": "Pantnagar,   Uttarakhand",
+            "NameAr": "بانتناجار وتتاراكهاند"
+        },
+        {
+            "Code": "131544",
+            "Name": "Panvel,   Maharashtra ",
+            "NameAr": "بانفيل ماهاراسهترا"
+        },
+        {
+            "Code": "353074",
+            "Name": "Paradeep,   Odisha",
+            "NameAr": "بارادييب وديسها"
+        },
+        {
+            "Code": "131406",
+            "Name": "Paragpur,   Himachal Pradesh",
+            "NameAr": "باراجبور هيماكهال براديسه"
+        },
+        {
+            "Code": "418061",
+            "Name": "Paralakhemundi,   Odisha",
+            "NameAr": "بارالاكهيموندي وديسها"
+        },
+        {
+            "Code": "131552",
+            "Name": "Paravur,   Kerala",
+            "NameAr": "بارافور كيرالا"
+        },
+        {
+            "Code": "151861",
+            "Name": "Parbhani,   Maharashtra",
+            "NameAr": "باربهاني ماهاراسهترا"
+        },
+        {
+            "Code": "132055",
+            "Name": "Parra,   Goa",
+            "NameAr": "باررا جوا"
+        },
+        {
+            "Code": "147106",
+            "Name": "Parwanoo,   Himachal Pradesh",
+            "NameAr": "باروانوو هيماكهال براديسه"
+        },
+        {
+            "Code": "315734",
+            "Name": "Patan,   Gujarat",
+            "NameAr": "باتان جوجارات"
+        },
+        {
+            "Code": "106662",
+            "Name": "Pateri,   Bihar",
+            "NameAr": "باتيري بيهار"
+        },
+        {
+            "Code": "131027",
+            "Name": "Pathanamthitta,   Kerala",
+            "NameAr": "باتهانامتهيتتا كيرالا"
+        },
+        {
+            "Code": "132705",
+            "Name": "Pathankot,   Punjab",
+            "NameAr": "باتهانكوت بونجاب"
+        },
+        {
+            "Code": "106663",
+            "Name": "Patiala,   Punjab",
+            "NameAr": "باتيالا بونجاب"
+        },
+        {
+            "Code": "132429",
+            "Name": "Patna,   Bihar",
+            "NameAr": "باتنا بيهار"
+        },
+        {
+            "Code": "418068",
+            "Name": "Patnem",
+            "NameAr": "باتنيم"
+        },
+        {
+            "Code": "131028",
+            "Name": "Patnitop,   Jammu and Kashmir",
+            "NameAr": "باتنيتوب جاممو اند كاسهمير"
+        },
+        {
+            "Code": "161105",
+            "Name": "Peermade,   Kerala",
+            "NameAr": "بييرمادي كيرالا"
+        },
+        {
+            "Code": "147140",
+            "Name": "Pelling,   Sikkim",
+            "NameAr": "بيللينج سيككيم"
+        },
+        {
+            "Code": "132089",
+            "Name": "Pench,   Madhya Pradesh",
+            "NameAr": "بينكه مادهيا براديسه"
+        },
+        {
+            "Code": "132724",
+            "Name": "Pench Nationalpark,   Madhya Pradesh",
+            "NameAr": "بينكه ناتيونالبارك مادهيا براديسه"
+        },
+        {
+            "Code": "102750",
+            "Name": "Perambalur,   Tamil Nadu",
+            "NameAr": "بيرامبالور تاميل نادو"
+        },
+        {
+            "Code": "157867",
+            "Name": "Perintalmanna,   Kerala",
+            "NameAr": "بيرينتالماننا كيرالا"
+        },
+        {
+            "Code": "103270",
+            "Name": "Perinthalmanna,   Kerala",
+            "NameAr": "بيرينتهالماننا كيرالا"
+        },
+        {
+            "Code": "132133",
+            "Name": "Periyar,   Kerala",
+            "NameAr": "بيرييار كيرالا"
+        },
+        {
+            "Code": "131597",
+            "Name": "Pernem,   Goa",
+            "NameAr": "بيرنيم جوا"
+        },
+        {
+            "Code": "132753",
+            "Name": "Phagwara,   Punjab",
+            "NameAr": "بهاجوارا بونجاب"
+        },
+        {
+            "Code": "131523",
+            "Name": "Phalodi,   Rajasthan",
+            "NameAr": "بهالودي راجاستهان"
+        },
+        {
+            "Code": "106676",
+            "Name": "Phaltan,   Maharashtra ",
+            "NameAr": "بهالتان ماهاراسهترا"
+        },
+        {
+            "Code": "133418",
+            "Name": "Pimpri-Chinchwad,   Maharashtra",
+            "NameAr": "بيمبري-كهينكهواد ماهاراسهترا"
+        },
+        {
+            "Code": "132183",
+            "Name": "Pinjore,   Haryana",
+            "NameAr": "بينجوري هاريانا"
+        },
+        {
+            "Code": "295095",
+            "Name": "Pithoragarh,   Uttarakhand",
+            "NameAr": "بيتهوراجاره وتتاراكهاند"
+        },
+        {
+            "Code": "133214",
+            "Name": "Pokhran,   Rajasthan",
+            "NameAr": "بوكهران راجاستهان"
+        },
+        {
+            "Code": "132282",
+            "Name": "Pollachi,   Tamil Nadu",
+            "NameAr": "بوللاكهي تاميل نادو"
+        },
+        {
+            "Code": "132292",
+            "Name": "Ponmudi,   Kerala",
+            "NameAr": "بونمودي كيرالا"
+        },
+        {
+            "Code": "133497",
+            "Name": "Poovar,   Kerala",
+            "NameAr": "بووفار كيرالا"
+        },
+        {
+            "Code": "133551",
+            "Name": "Porbandar,   Gujarat",
+            "NameAr": "بورباندار جوجارات"
+        },
+        {
+            "Code": "133556",
+            "Name": "Port Blair,   Andaman And Nicobar",
+            "NameAr": "بورت بلاير اندامان اند نيكوبار"
+        },
+        {
+            "Code": "151840",
+            "Name": "Pragpur,   Himachal Pradesh",
+            "NameAr": "براجبور هيماكهال براديسه"
+        },
+        {
+            "Code": "100307",
+            "Name": "Prayagraj (Formally-Allahabad),   Uttar Pradesh",
+            "NameAr": "براياجراج فورماللي-اللاهاباد وتتار براديسه"
+        },
+        {
+            "Code": "280675",
+            "Name": "Proddatur,   Andhra Pradesh",
+            "NameAr": "برودداتور اندهرا براديسه"
+        },
+        {
+            "Code": "132561",
+            "Name": "Puducherry/Pondicherry,   Tamil Nadu",
+            "NameAr": "بودوكهيرري بونديكهيرري تاميل نادو"
+        },
+        {
+            "Code": "106703",
+            "Name": "Pudukkotai,   Tamil Nadu",
+            "NameAr": "بودوككوتاي تاميل نادو"
+        },
+        {
+            "Code": "394717",
+            "Name": "Pudukkottai,   Tamil Nadu",
+            "NameAr": "بودوككوتتاي تاميل نادو"
+        },
+        {
+            "Code": "134170",
+            "Name": "Pulamanthole,   Kerala",
+            "NameAr": "بولامانتهولي كيرالا"
+        },
+        {
+            "Code": "133133",
+            "Name": "Pune,   Maharashtra",
+            "NameAr": "بوني ماهاراسهترا"
+        },
+        {
+            "Code": "147410",
+            "Name": "Purakkad,   Kerala",
+            "NameAr": "بوراككاد كيرالا"
+        },
+        {
+            "Code": "275226",
+            "Name": "Purasaiwakkam,   Tamil Nadu",
+            "NameAr": "بوراسايواككام تاميل نادو"
+        },
+        {
+            "Code": "153873",
+            "Name": "Purba Medinipur District,   West Bengal",
+            "NameAr": "بوربا ميدينيبور ديستريكت ويست بينجال"
+        },
+        {
+            "Code": "132593",
+            "Name": "Puri,   Orissa",
+            "NameAr": "بوري وريسسا"
+        },
+        {
+            "Code": "293576",
+            "Name": "Purnia,   Bihar",
+            "NameAr": "بورنيا بيهار"
+        },
+        {
+            "Code": "306303",
+            "Name": "Purulia,   West Bengal",
+            "NameAr": "بوروليا ويست بينجال"
+        },
+        {
+            "Code": "134001",
+            "Name": "Pushkar,   Rajasthan",
+            "NameAr": "بوسهكار راجاستهان"
+        },
+        {
+            "Code": "134178",
+            "Name": "Puttaparthi,   Andhra Pradesh",
+            "NameAr": "بوتتابارتهي اندهرا براديسه"
+        },
+        {
+            "Code": "254863",
+            "Name": "Raebareli,   Uttar Pradesh",
+            "NameAr": "رايباريلي وتتار براديسه"
+        },
+        {
+            "Code": "147442",
+            "Name": "Raigad,   Maharashtra",
+            "NameAr": "رايجاد ماهاراسهترا"
+        },
+        {
+            "Code": "237311",
+            "Name": "Raigarh,   Chhattisgarh",
+            "NameAr": "رايجاره كههاتتيسجاره"
+        },
+        {
+            "Code": "133672",
+            "Name": "Raipur,   Rajasthan",
+            "NameAr": "رايبور راجاستهان"
+        },
+        {
+            "Code": "134040",
+            "Name": "Rajahmahendravaram,   Andhra Pradesh",
+            "NameAr": "راجاهماهيندرافارام اندهرا براديسه"
+        },
+        {
+            "Code": "102941",
+            "Name": "Rajakkad,   Kerala",
+            "NameAr": "راجاككاد كيرالا"
+        },
+        {
+            "Code": "102942",
+            "Name": "Rajapalayam,   Tamil Nadu",
+            "NameAr": "راجابالايام تاميل نادو"
+        },
+        {
+            "Code": "134041",
+            "Name": "Rajgarh,   Himachal Pradesh",
+            "NameAr": "راججاره هيماكهال براديسه"
+        },
+        {
+            "Code": "133175",
+            "Name": "Rajgir,   Bihar",
+            "NameAr": "راججير بيهار"
+        },
+        {
+            "Code": "134211",
+            "Name": "Rajkot,   Gujarat",
+            "NameAr": "راجكوت جوجارات"
+        },
+        {
+            "Code": "298575",
+            "Name": "Rajnandgaon",
+            "NameAr": "راجناندجاون"
+        },
+        {
+            "Code": "304525",
+            "Name": "Rajpipla",
+            "NameAr": "راجبيبلا"
+        },
+        {
+            "Code": "153963",
+            "Name": "Rajsamand",
+            "NameAr": "راجساماند"
+        },
+        {
+            "Code": "151654",
+            "Name": "Ramagundam,   Telangana",
+            "NameAr": "راماجوندام تيلانجانا"
+        },
+        {
+            "Code": "133177",
+            "Name": "Ramakkalmedu,   Kerala",
+            "NameAr": "راماككالميدو كيرالا"
+        },
+        {
+            "Code": "404831",
+            "Name": "Ramanathapuram,   Tamil Nadu",
+            "NameAr": "راماناتهابورام تاميل نادو"
+        },
+        {
+            "Code": "134213",
+            "Name": "Ramathra Fort,   Rajasthan",
+            "NameAr": "راماتهرا فورت راجاستهان"
+        },
+        {
+            "Code": "133179",
+            "Name": "Rameshwaram,   Tamil Nadu",
+            "NameAr": "راميسهوارام تاميل نادو"
+        },
+        {
+            "Code": "151860",
+            "Name": "Rameswaram,   TAMIL NADU",
+            "NameAr": "راميسوارام تاميل نادو"
+        },
+        {
+            "Code": "132621",
+            "Name": "Ramgarh,   Uttarakhand",
+            "NameAr": "رامجاره وتتاراكهاند"
+        },
+        {
+            "Code": "134214",
+            "Name": "Ramnagar,   Uttarakhand",
+            "NameAr": "رامناجار وتتاراكهاند"
+        },
+        {
+            "Code": "133676",
+            "Name": "Ranakpur,   Rajasthan",
+            "NameAr": "راناكبور راجاستهان"
+        },
+        {
+            "Code": "133760",
+            "Name": "Ranchi,   Jharkhand",
+            "NameAr": "رانكهي جهاركهاند"
+        },
+        {
+            "Code": "133838",
+            "Name": "Ranikhet,   Uttarakhand",
+            "NameAr": "رانيكهيت وتتاراكهاند"
+        },
+        {
+            "Code": "134224",
+            "Name": "Ranthambore Nationalpark,   Rajasthan",
+            "NameAr": "رانتهامبوري ناتيونالبارك راجاستهان"
+        },
+        {
+            "Code": "102675",
+            "Name": "Ratlam,   Madhya Pradesh",
+            "NameAr": "راتلام مادهيا براديسه"
+        },
+        {
+            "Code": "133687",
+            "Name": "Ratnagiri,   Maharashtra",
+            "NameAr": "راتناجيري ماهاراسهترا"
+        },
+        {
+            "Code": "133295",
+            "Name": "Ravangla,   Sikkim",
+            "NameAr": "رافانجلا سيككيم"
+        },
+        {
+            "Code": "295703",
+            "Name": "Razole,   Andhra Pradesh",
+            "NameAr": "رازولي اندهرا براديسه"
+        },
+        {
+            "Code": "102683",
+            "Name": "Renigunta,   Andhra Pradesh",
+            "NameAr": "رينيجونتا اندهرا براديسه"
+        },
+        {
+            "Code": "150930",
+            "Name": "Rewa,   Madhya Pradesh",
+            "NameAr": "ريوا مادهيا براديسه"
+        },
+        {
+            "Code": "147501",
+            "Name": "Rewari,   Delhi National Territory",
+            "NameAr": "ريواري ديلهي ناتيونال تيرريتوري"
+        },
+        {
+            "Code": "102954",
+            "Name": "Rinchenpong,   Sikkim",
+            "NameAr": "رينكهينبونج سيككيم"
+        },
+        {
+            "Code": "134932",
+            "Name": "Rishikesh,   Uttarakhand",
+            "NameAr": "ريسهيكيسه وتتاراكهاند"
+        },
+        {
+            "Code": "147554",
+            "Name": "Rohet,   Rajasthan",
+            "NameAr": "روهيت راجاستهان"
+        },
+        {
+            "Code": "103217",
+            "Name": "Rohetgarh,   Rajasthan",
+            "NameAr": "روهيتجاره راجاستهان"
+        },
+        {
+            "Code": "134058",
+            "Name": "Rohtak,   Haryana",
+            "NameAr": "روهتاك هاريانا"
+        },
+        {
+            "Code": "150180",
+            "Name": "Roorkee,   Uttarakhand",
+            "NameAr": "رووركيي وتتاراكهاند"
+        },
+        {
+            "Code": "134643",
+            "Name": "Rourkela,   Orissa",
+            "NameAr": "رووركيلا وريسسا"
+        },
+        {
+            "Code": "135778",
+            "Name": "Rudraprayag,   Uttarakhand",
+            "NameAr": "رودرابراياج وتتاراكهاند"
+        },
+        {
+            "Code": "150359",
+            "Name": "Rudrapur,   Uttarakhand",
+            "NameAr": "رودرابور وتتاراكهاند"
+        },
+        {
+            "Code": "150936",
+            "Name": "Rupsi,   Assam",
+            "NameAr": "روبسي اسسام"
+        },
+        {
+            "Code": "267858",
+            "Name": "Sagar,   Madhya Pradesh",
+            "NameAr": "ساجار مادهيا براديسه"
+        },
+        {
+            "Code": "272583",
+            "Name": "Sagara,   Karnataka",
+            "NameAr": "ساجارا كارناتاكا"
+        },
+        {
+            "Code": "103325",
+            "Name": "Saharanpur,   Uttar Pradesh",
+            "NameAr": "ساهارانبور وتتار براديسه"
+        },
+        {
+            "Code": "147607",
+            "Name": "Sahibzada Ajit Singh Nagar,   Punjab",
+            "NameAr": "ساهيبزادا اجيت سينجه ناجار بونجاب"
+        },
+        {
+            "Code": "394732",
+            "Name": "Sakleshpur,   Karnataka",
+            "NameAr": "ساكليسهبور كارناتاكا"
+        },
+        {
+            "Code": "103491",
+            "Name": "Salasar,   Rajasthan",
+            "NameAr": "سالاسار راجاستهان"
+        },
+        {
+            "Code": "154057",
+            "Name": "Salcete,   Goa",
+            "NameAr": "سالكيتي جوا"
+        },
+        {
+            "Code": "135916",
+            "Name": "Salem,   Tamil Nadu",
+            "NameAr": "ساليم تاميل نادو"
+        },
+        {
+            "Code": "135694",
+            "Name": "Saligao,   Goa",
+            "NameAr": "ساليجاو جوا"
+        },
+        {
+            "Code": "272466",
+            "Name": "Samastipur,   Bihar",
+            "NameAr": "ساماستيبور بيهار"
+        },
+        {
+            "Code": "103344",
+            "Name": "Samayapuram,   Tamil Nadu",
+            "NameAr": "سامايابورام تاميل نادو"
+        },
+        {
+            "Code": "103345",
+            "Name": "Sambalpur,   Odisha",
+            "NameAr": "سامبالبور وديسها"
+        },
+        {
+            "Code": "103346",
+            "Name": "Samode,   Rajasthan",
+            "NameAr": "سامودي راجاستهان"
+        },
+        {
+            "Code": "106770",
+            "Name": "Sanand,   Gujarat",
+            "NameAr": "ساناند جوجارات"
+        },
+        {
+            "Code": "135522",
+            "Name": "Sanchi,   Madhya Pradesh",
+            "NameAr": "سانكهي مادهيا براديسه"
+        },
+        {
+            "Code": "417319",
+            "Name": "Sanchore,   Rajasthan",
+            "NameAr": "سانكهوري راجاستهان"
+        },
+        {
+            "Code": "202708",
+            "Name": "Sangla,   Himachal Pradesh",
+            "NameAr": "سانجلا هيماكهال براديسه"
+        },
+        {
+            "Code": "136501",
+            "Name": "Sangli,   Maharashtra",
+            "NameAr": "سانجلي ماهاراسهترا"
+        },
+        {
+            "Code": "394926",
+            "Name": "Saputara",
+            "NameAr": "سابوتارا"
+        },
+        {
+            "Code": "205218",
+            "Name": "Sarchu,   Sarchu",
+            "NameAr": "ساركهو ساركهو"
+        },
+        {
+            "Code": "136093",
+            "Name": "Sardargarh,   Rajasthan",
+            "NameAr": "ساردارجاره راجاستهان"
+        },
+        {
+            "Code": "135586",
+            "Name": "Sariska National Park,   Rajasthan",
+            "NameAr": "ساريسكا ناتيونال بارك راجاستهان"
+        },
+        {
+            "Code": "136555",
+            "Name": "Sasan Gir,   Gujarat",
+            "NameAr": "ساسان جير جوجارات"
+        },
+        {
+            "Code": "261894",
+            "Name": "Sasaram",
+            "NameAr": "ساسارام"
+        },
+        {
+            "Code": "136409",
+            "Name": "Satara,   Maharashtra",
+            "NameAr": "ساتارا ماهاراسهترا"
+        },
+        {
+            "Code": "147780",
+            "Name": "Satna,   Madhya Pradesh",
+            "NameAr": "ساتنا مادهيا براديسه"
+        },
+        {
+            "Code": "148897",
+            "Name": "Satpura,   Madhya Pradesh",
+            "NameAr": "ساتبورا مادهيا براديسه"
+        },
+        {
+            "Code": "151847",
+            "Name": "Sattal,   Uttarakhand",
+            "NameAr": "ساتتال وتتاراكهاند"
+        },
+        {
+            "Code": "136656",
+            "Name": "Sawai Madhopur,   Rajasthan",
+            "NameAr": "ساواي مادهوبور راجاستهان"
+        },
+        {
+            "Code": "136748",
+            "Name": "Secunderabad,   Telangana",
+            "NameAr": "سيكونديراباد تيلانجانا"
+        },
+        {
+            "Code": "136766",
+            "Name": "Seoni,   Madhya Pradesh",
+            "NameAr": "سيوني مادهيا براديسه"
+        },
+        {
+            "Code": "222992",
+            "Name": "Seraikela,   Jharkhand",
+            "NameAr": "سيرايكيلا جهاركهاند"
+        },
+        {
+            "Code": "150360",
+            "Name": "Shahpur,   Haryana",
+            "NameAr": "سهاهبور هاريانا"
+        },
+        {
+            "Code": "137380",
+            "Name": "Shahpura,   Rajasthan",
+            "NameAr": "سهاهبورا راجاستهان"
+        },
+        {
+            "Code": "136285",
+            "Name": "Shamirpet,   Telangana",
+            "NameAr": "سهاميربيت تيلانجانا"
+        },
+        {
+            "Code": "107371",
+            "Name": "Shamshabad,   Telangana",
+            "NameAr": "سهامسهاباد تيلانجانا"
+        },
+        {
+            "Code": "137568",
+            "Name": "Shantiniketan,   West Bengal",
+            "NameAr": "سهانتينيكيتان ويست بينجال"
+        },
+        {
+            "Code": "268822",
+            "Name": "Shegaon,   Maharashtra",
+            "NameAr": "سهيجاون ماهاراسهترا"
+        },
+        {
+            "Code": "138670",
+            "Name": "Shillong,   Meghalaya",
+            "NameAr": "سهيللونج ميجهالايا"
+        },
+        {
+            "Code": "138673",
+            "Name": "Shimla,   Himachal Pradesh",
+            "NameAr": "سهيملا هيماكهال براديسه"
+        },
+        {
+            "Code": "154080",
+            "Name": "Shimoga district",
+            "NameAr": "سهيموجا ديستريكت"
+        },
+        {
+            "Code": "148898",
+            "Name": "SHINGRAK,   Jammu and Kashmir",
+            "NameAr": "سهينجراك جاممو اند كاسهمير"
+        },
+        {
+            "Code": "137316",
+            "Name": "Shirdi,   Maharashtra",
+            "NameAr": "سهيردي ماهاراسهترا"
+        },
+        {
+            "Code": "147891",
+            "Name": "Shivamogga,   Karnataka",
+            "NameAr": "سهيفاموججا كارناتاكا"
+        },
+        {
+            "Code": "137750",
+            "Name": "Shivpuri,   Madhya Pradesh",
+            "NameAr": "سهيفبوري مادهيا براديسه"
+        },
+        {
+            "Code": "106639",
+            "Name": "Sholayur,   Kerala",
+            "NameAr": "سهولايور كيرالا"
+        },
+        {
+            "Code": "293099",
+            "Name": "Shrirampur,   West Bengal",
+            "NameAr": "سهريرامبور ويست بينجال"
+        },
+        {
+            "Code": "137404",
+            "Name": "Siana,   Rajasthan",
+            "NameAr": "سيانا راجاستهان"
+        },
+        {
+            "Code": "136312",
+            "Name": "Sikar,   Rajasthan",
+            "NameAr": "سيكار راجاستهان"
+        },
+        {
+            "Code": "153976",
+            "Name": "Sikkim",
+            "NameAr": "سيككيم"
+        },
+        {
+            "Code": "150361",
+            "Name": "Silchar,   Assam",
+            "NameAr": "سيلكهار اسسام"
+        },
+        {
+            "Code": "147912",
+            "Name": "Siliguri,   West Bengal",
+            "NameAr": "سيليجوري ويست بينجال"
+        },
+        {
+            "Code": "147914",
+            "Name": "Silvassa,   Dadra and Nagar Have",
+            "NameAr": "سيلفاسسا دادرا اند ناجار هافي"
+        },
+        {
+            "Code": "137470",
+            "Name": "Sindhudi,   Gujarat",
+            "NameAr": "سيندهودي جوجارات"
+        },
+        {
+            "Code": "153859",
+            "Name": "Sindhudurg",
+            "NameAr": "سيندهودورج"
+        },
+        {
+            "Code": "106649",
+            "Name": "Singrauli,   Madhya Pradesh",
+            "NameAr": "سينجراولي مادهيا براديسه"
+        },
+        {
+            "Code": "138010",
+            "Name": "Siolim,   Goa",
+            "NameAr": "سيوليم جوا"
+        },
+        {
+            "Code": "106650",
+            "Name": "Sirkazhi,   Tamil Nadu",
+            "NameAr": "سيركازهي تاميل نادو"
+        },
+        {
+            "Code": "154070",
+            "Name": "Sirmaur District",
+            "NameAr": "سيرماور ديستريكت"
+        },
+        {
+            "Code": "103180",
+            "Name": "Sirsa,   Haryana ",
+            "NameAr": "سيرسا هاريانا"
+        },
+        {
+            "Code": "107226",
+            "Name": "Sitalakhet,   Uttarakhand ",
+            "NameAr": "سيتالاكهيت وتتاراكهاند"
+        },
+        {
+            "Code": "293199",
+            "Name": "Sitapur,   Uttar Pradesh",
+            "NameAr": "سيتابور وتتار براديسه"
+        },
+        {
+            "Code": "106898",
+            "Name": "Sitlakhet,   Uttarakhand ",
+            "NameAr": "سيتلاكهيت وتتاراكهاند"
+        },
+        {
+            "Code": "106651",
+            "Name": "Skara,   Maharashtra ",
+            "NameAr": "سكارا ماهاراسهترا"
+        },
+        {
+            "Code": "302824",
+            "Name": "Sohagpur",
+            "NameAr": "سوهاجبور"
+        },
+        {
+            "Code": "138127",
+            "Name": "Solan,   Himachal Pradesh",
+            "NameAr": "سولان هيماكهال براديسه"
+        },
+        {
+            "Code": "154112",
+            "Name": "Solan District",
+            "NameAr": "سولان ديستريكت"
+        },
+        {
+            "Code": "138128",
+            "Name": "Solapur,   Maharashtra",
+            "NameAr": "سولابور ماهاراسهترا"
+        },
+        {
+            "Code": "138049",
+            "Name": "Somnath,   Gujarat",
+            "NameAr": "سومناته جوجارات"
+        },
+        {
+            "Code": "138484",
+            "Name": "Sonamarg,   Jammu And Kashmir",
+            "NameAr": "سونامارج جاممو اند كاسهمير"
+        },
+        {
+            "Code": "151848",
+            "Name": "Sonipat,   Haryana",
+            "NameAr": "سونيبات هاريانا"
+        },
+        {
+            "Code": "154101",
+            "Name": "South 24 Parganas",
+            "NameAr": "سووته بارجاناس"
+        },
+        {
+            "Code": "153958",
+            "Name": "South Goa",
+            "NameAr": "سووته جوا"
+        },
+        {
+            "Code": "376717",
+            "Name": "Spangmik,   Ladakh",
+            "NameAr": "سبانجميك لاداكه"
+        },
+        {
+            "Code": "138523",
+            "Name": "Sravasti,   Uttar Pradesh",
+            "NameAr": "سرافاستي وتتار براديسه"
+        },
+        {
+            "Code": "107250",
+            "Name": "Sri Ganganagar,   Rajasthan",
+            "NameAr": "سري جانجاناجار راجاستهان"
+        },
+        {
+            "Code": "137118",
+            "Name": "Srikakulam,   Andhra Pradesh",
+            "NameAr": "سريكاكولام اندهرا براديسه"
+        },
+        {
+            "Code": "299949",
+            "Name": "Srikalahasti",
+            "NameAr": "سريكالاهاستي"
+        },
+        {
+            "Code": "139456",
+            "Name": "Srinagar,   Jammu and Kashmir",
+            "NameAr": "سريناجار جاممو اند كاسهمير"
+        },
+        {
+            "Code": "103198",
+            "Name": "Srinagar, Uttarakhand,   Uttarakhand",
+            "NameAr": "سريناجار وتتاراكهاند وتتاراكهاند"
+        },
+        {
+            "Code": "417859",
+            "Name": "Sringeri or Shringeri,   Karnataka",
+            "NameAr": "سرينجيري ور سهرينجيري كارناتاكا"
+        },
+        {
+            "Code": "138370",
+            "Name": "Sriperumbudur,   Tamil Nadu",
+            "NameAr": "سريبيرومبودور تاميل نادو"
+        },
+        {
+            "Code": "108572",
+            "Name": "Stok,   Jammu And Kashmir",
+            "NameAr": "ستوك جاممو اند كاسهمير"
+        },
+        {
+            "Code": "107078",
+            "Name": "Sultan Bathery,   Kerala",
+            "NameAr": "سولتان باتهيري كيرالا"
+        },
+        {
+            "Code": "151849",
+            "Name": "Sultanpur,   Uttar Pradesh",
+            "NameAr": "سولتانبور وتتار براديسه"
+        },
+        {
+            "Code": "286488",
+            "Name": "Sundarnagar,   Himachal Pradesh",
+            "NameAr": "سوندارناجار هيماكهال براديسه"
+        },
+        {
+            "Code": "140235",
+            "Name": "Sunderban,   West Bengal",
+            "NameAr": "سونديربان ويست بينجال"
+        },
+        {
+            "Code": "107275",
+            "Name": "Sungal,   Jammu Kashmir",
+            "NameAr": "سونجال جاممو كاسهمير"
+        },
+        {
+            "Code": "151866",
+            "Name": "Surajgarh,   Rajasthan",
+            "NameAr": "سوراججاره راجاستهان"
+        },
+        {
+            "Code": "139526",
+            "Name": "Surat,   Gujarat",
+            "NameAr": "سورات جوجارات"
+        },
+        {
+            "Code": "107754",
+            "Name": "Suratgarh,   Rajasthan",
+            "NameAr": "سوراتجاره راجاستهان"
+        },
+        {
+            "Code": "305699",
+            "Name": "Surendranagar,   Gujarat",
+            "NameAr": "سوريندراناجار جوجارات"
+        },
+        {
+            "Code": "151834",
+            "Name": "Taboda,   Maharashtra",
+            "NameAr": "تابودا ماهاراسهترا"
+        },
+        {
+            "Code": "418205",
+            "Name": "Tadipatri,   Andhra Pradesh",
+            "NameAr": "تاديباتري اندهرا براديسه"
+        },
+        {
+            "Code": "151850",
+            "Name": "Tadoba,   Maharashtra",
+            "NameAr": "تادوبا ماهاراسهترا"
+        },
+        {
+            "Code": "161006",
+            "Name": "Taki,   West Bengal",
+            "NameAr": "تاكي ويست بينجال"
+        },
+        {
+            "Code": "139669",
+            "Name": "Tala,   Maharashtra",
+            "NameAr": "تالا ماهاراسهترا"
+        },
+        {
+            "Code": "273102",
+            "Name": "Talala,   Gujarat",
+            "NameAr": "تالالا جوجارات"
+        },
+        {
+            "Code": "139974",
+            "Name": "Tarangambadi,   Tamil Nadu",
+            "NameAr": "تارانجامبادي تاميل نادو"
+        },
+        {
+            "Code": "150362",
+            "Name": "Tarapith,   West Bengal",
+            "NameAr": "تارابيته ويست بينجال"
+        },
+        {
+            "Code": "139699",
+            "Name": "Tawang,   Arunachal Pradesh",
+            "NameAr": "تاوانج اروناكهال براديسه"
+        },
+        {
+            "Code": "160633",
+            "Name": "Tehri,   Uttarakhand",
+            "NameAr": "تيهري وتتاراكهاند"
+        },
+        {
+            "Code": "139069",
+            "Name": "Tezpur,   Assam",
+            "NameAr": "تيزبور اسسام"
+        },
+        {
+            "Code": "106383",
+            "Name": "Thakurdwara,   Uttar Pradesh",
+            "NameAr": "تهاكوردوارا وتتار براديسه"
+        },
+        {
+            "Code": "139071",
+            "Name": "Thalassery,   Kerala",
+            "NameAr": "تهالاسسيري كيرالا"
+        },
+        {
+            "Code": "140020",
+            "Name": "Thane,   Maharashtra",
+            "NameAr": "تهاني ماهاراسهترا"
+        },
+        {
+            "Code": "300755",
+            "Name": "Thanesar",
+            "NameAr": "تهانيسار"
+        },
+        {
+            "Code": "139605",
+            "Name": "Thanjavur,   Tamil Nadu",
+            "NameAr": "تهانجافور تاميل نادو"
+        },
+        {
+            "Code": "138628",
+            "Name": "Thanneermukkom,   Kerala",
+            "NameAr": "تهاننييرموككوم كيرالا"
+        },
+        {
+            "Code": "139609",
+            "Name": "Thekkady,   Kerala",
+            "NameAr": "تهيككادي كيرالا"
+        },
+        {
+            "Code": "139744",
+            "Name": "Theni,   Tamil Nadu",
+            "NameAr": "تهيني تاميل نادو"
+        },
+        {
+            "Code": "299948",
+            "Name": "Theog",
+            "NameAr": "تهيوج"
+        },
+        {
+            "Code": "140415",
+            "Name": "Thiksey,   Jammu And Kashmir",
+            "NameAr": "تهيكسيي جاممو اند كاسهمير"
+        },
+        {
+            "Code": "302786",
+            "Name": "Thirukkadaiyur,   Tamil Nadu",
+            "NameAr": "تهيروككاداييور تاميل نادو"
+        },
+        {
+            "Code": "338807",
+            "Name": "Thirumayam,   Tamil Nadu",
+            "NameAr": "تهيرومايام تاميل نادو"
+        },
+        {
+            "Code": "148901",
+            "Name": "Thiruvananthapuram,   Kerala",
+            "NameAr": "تهيروفانانتهابورام كيرالا"
+        },
+        {
+            "Code": "106955",
+            "Name": "Thodupuzha,   Kerala",
+            "NameAr": "تهودوبوزها كيرالا"
+        },
+        {
+            "Code": "141231",
+            "Name": "Thoothukudi,   Tamil Nadu",
+            "NameAr": "تهووتهوكودي تاميل نادو"
+        },
+        {
+            "Code": "140032",
+            "Name": "Thrissur,   Kerala",
+            "NameAr": "تهريسسور كيرالا"
+        },
+        {
+            "Code": "106958",
+            "Name": "Thumkunta,   Telangana",
+            "NameAr": "تهومكونتا تيلانجانا"
+        },
+        {
+            "Code": "150287",
+            "Name": "TIB BAGO,   Jammu and Kashmir",
+            "NameAr": "تيب باجو جاممو اند كاسهمير"
+        },
+        {
+            "Code": "333310",
+            "Name": "Tindivanam,   Tamil Nadu",
+            "NameAr": "تينديفانام تاميل نادو"
+        },
+        {
+            "Code": "107782",
+            "Name": "Tinsukia,   Assam",
+            "NameAr": "تينسوكيا اسسام"
+        },
+        {
+            "Code": "105896",
+            "Name": "Tiracol,   Tiracol",
+            "NameAr": "تيراكول تيراكول"
+        },
+        {
+            "Code": "399762",
+            "Name": "Tiruchendur",
+            "NameAr": "تيروكهيندور"
+        },
+        {
+            "Code": "148240",
+            "Name": "Tiruchirappalli,   Tamil Nadu",
+            "NameAr": "تيروكهيرابباللي تاميل نادو"
+        },
+        {
+            "Code": "140310",
+            "Name": "Tirunelveli,   Tamil Nadu",
+            "NameAr": "تيرونيلفيلي تاميل نادو"
+        },
+        {
+            "Code": "281412",
+            "Name": "Tirunelveli District",
+            "NameAr": "تيرونيلفيلي ديستريكت"
+        },
+        {
+            "Code": "140311",
+            "Name": "Tirupati,   Andhra Pradesh",
+            "NameAr": "تيروباتي اندهرا براديسه"
+        },
+        {
+            "Code": "141054",
+            "Name": "Tiruppur,   Tamil Nadu",
+            "NameAr": "تيروببور تاميل نادو"
+        },
+        {
+            "Code": "106394",
+            "Name": "Tiruttani,   Tamil Nadu",
+            "NameAr": "تيروتتاني تاميل نادو"
+        },
+        {
+            "Code": "139315",
+            "Name": "Tiruvannamalai,   Tamil Nadu",
+            "NameAr": "تيروفاننامالاي تاميل نادو"
+        },
+        {
+            "Code": "106963",
+            "Name": "Titwala,   Maharashtra",
+            "NameAr": "تيتوالا ماهاراسهترا"
+        },
+        {
+            "Code": "280875",
+            "Name": "Tosh,   Himachal Pradesh",
+            "NameAr": "توسه هيماكهال براديسه"
+        },
+        {
+            "Code": "106849",
+            "Name": "Trimbak,   Maharashtra ",
+            "NameAr": "تريمباك ماهاراسهترا"
+        },
+        {
+            "Code": "139820",
+            "Name": "Trivandrum,   Kerala",
+            "NameAr": "تريفاندروم كيرالا"
+        },
+        {
+            "Code": "106856",
+            "Name": "Tura,   Meghalaya",
+            "NameAr": "تورا ميجهالايا"
+        },
+        {
+            "Code": "141528",
+            "Name": "Turia,   West Bengal",
+            "NameAr": "توريا ويست بينجال"
+        },
+        {
+            "Code": "140098",
+            "Name": "Uchiyarda,   Rajasthan",
+            "NameAr": "وكهيياردا راجاستهان"
+        },
+        {
+            "Code": "140522",
+            "Name": "Udaipur,   Rajasthan",
+            "NameAr": "ودايبور راجاستهان"
+        },
+        {
+            "Code": "377670",
+            "Name": "Udumalaipettai,   Tamil Nadu",
+            "NameAr": "ودومالايبيتتاي تاميل نادو"
+        },
+        {
+            "Code": "148363",
+            "Name": "Udupi,   Karnataka",
+            "NameAr": "ودوبي كارناتاكا"
+        },
+        {
+            "Code": "140701",
+            "Name": "Ujjain,   Madhya Pradesh",
+            "NameAr": "وججاين مادهيا براديسه"
+        },
+        {
+            "Code": "157929",
+            "Name": "Ukhimath,   Uttarakhand",
+            "NameAr": "وكهيماته وتتاراكهاند"
+        },
+        {
+            "Code": "299947",
+            "Name": "Ulhasnagar,   Maharashtra",
+            "NameAr": "ولهاسناجار ماهاراسهترا"
+        },
+        {
+            "Code": "141832",
+            "Name": "Umaria,   Madhya Pradesh",
+            "NameAr": "وماريا مادهيا براديسه"
+        },
+        {
+            "Code": "141097",
+            "Name": "Una,   Himachal Pradesh",
+            "NameAr": "ونا هيماكهال براديسه"
+        },
+        {
+            "Code": "148374",
+            "Name": "Unchagaon,   Uttar Pradesh",
+            "NameAr": "ونكهاجاون وتتار براديسه"
+        },
+        {
+            "Code": "286704",
+            "Name": "Unjha,   Gujarat",
+            "NameAr": "ونجها جوجارات"
+        },
+        {
+            "Code": "300441",
+            "Name": "Unnao,   Uttar Pradesh",
+            "NameAr": "ونناو وتتار براديسه"
+        },
+        {
+            "Code": "107938",
+            "Name": "Uruli Kanchan,   Maharashtra",
+            "NameAr": "ورولي كانكهان ماهاراسهترا"
+        },
+        {
+            "Code": "141578",
+            "Name": "Utorda Beach,   Goa",
+            "NameAr": "وتوردا بياكه جوا"
+        },
+        {
+            "Code": "385613",
+            "Name": "Uttan,   Maharashtra",
+            "NameAr": "وتتان ماهاراسهترا"
+        },
+        {
+            "Code": "154207",
+            "Name": "Uttara Kannada District",
+            "NameAr": "وتتارا كاننادا ديستريكت"
+        },
+        {
+            "Code": "140143",
+            "Name": "Uttarkashi,   Uttarakhand",
+            "NameAr": "وتتاركاسهي وتتاراكهاند"
+        },
+        {
+            "Code": "141587",
+            "Name": "Vadodara,   Gujarat",
+            "NameAr": "فادودارا جوجارات"
+        },
+        {
+            "Code": "148406",
+            "Name": "Vagamon,   Kerala",
+            "NameAr": "فاجامون كيرالا"
+        },
+        {
+            "Code": "148407",
+            "Name": "Vagator,   Goa",
+            "NameAr": "فاجاتور جوا"
+        },
+        {
+            "Code": "107944",
+            "Name": "Vaikom,   Kerala",
+            "NameAr": "فايكوم كيرالا"
+        },
+        {
+            "Code": "107210",
+            "Name": "Vajrahalli,   Karnataka",
+            "NameAr": "فاجراهاللي كارناتاكا"
+        },
+        {
+            "Code": "140593",
+            "Name": "Vallikunnam,   Kerala",
+            "NameAr": "فالليكوننام كيرالا"
+        },
+        {
+            "Code": "160640",
+            "Name": "Valparai,   Tamil Nadu",
+            "NameAr": "فالباراي تاميل نادو"
+        },
+        {
+            "Code": "238713",
+            "Name": "Valsad,   Gujarat",
+            "NameAr": "فالساد جوجارات"
+        },
+        {
+            "Code": "141615",
+            "Name": "Vandanmedu,   Kerala",
+            "NameAr": "فاندانميدو كيرالا"
+        },
+        {
+            "Code": "141147",
+            "Name": "Vapi,   Gujarat",
+            "NameAr": "فابي جوجارات"
+        },
+        {
+            "Code": "141618",
+            "Name": "Varanasi,   Uttar Pradesh",
+            "NameAr": "فاراناسي وتتار براديسه"
+        },
+        {
+            "Code": "200830",
+            "Name": "Varca,   Goa",
+            "NameAr": "فاركا جوا"
+        },
+        {
+            "Code": "141450",
+            "Name": "Varca Beach,   Goa",
+            "NameAr": "فاركا بياكه جوا"
+        },
+        {
+            "Code": "141976",
+            "Name": "Varkala,   Kerala",
+            "NameAr": "فاركالا كيرالا"
+        },
+        {
+            "Code": "141980",
+            "Name": "Vasai,   Maharashtra ",
+            "NameAr": "فاساي ماهاراسهترا"
+        },
+        {
+            "Code": "107855",
+            "Name": "Vasco da Gama,   Goa",
+            "NameAr": "فاسكو دا جاما جوا"
+        },
+        {
+            "Code": "148446",
+            "Name": "Vayalar,   Kerala",
+            "NameAr": "فايالار كيرالا"
+        },
+        {
+            "Code": "257036",
+            "Name": "Vayittiri",
+            "NameAr": "فاييتتيري"
+        },
+        {
+            "Code": "141630",
+            "Name": "Vazhoor,   Kerala",
+            "NameAr": "فازهوور كيرالا"
+        },
+        {
+            "Code": "148450",
+            "Name": "Velankanni,   Tamil Nadu",
+            "NameAr": "فيلانكانني تاميل نادو"
+        },
+        {
+            "Code": "148459",
+            "Name": "Vellore,   Tamil Nadu",
+            "NameAr": "فيللوري تاميل نادو"
+        },
+        {
+            "Code": "142295",
+            "Name": "Velsao Beach,   Goa",
+            "NameAr": "فيلساو بياكه جوا"
+        },
+        {
+            "Code": "142563",
+            "Name": "Veraval,   Gujarat",
+            "NameAr": "فيرافال جوجارات"
+        },
+        {
+            "Code": "107957",
+            "Name": "Verem,   Goa",
+            "NameAr": "فيريم جوا"
+        },
+        {
+            "Code": "111949",
+            "Name": "Vijayapura/Bijapur,   Karnataka",
+            "NameAr": "فيجايابورا بيجابور كارناتاكا"
+        },
+        {
+            "Code": "148500",
+            "Name": "Vijayawada,   Andhra Pradesh",
+            "NameAr": "فيجاياوادا اندهرا براديسه"
+        },
+        {
+            "Code": "417561",
+            "Name": "Vikasnagar,   Uttarakhand",
+            "NameAr": "فيكاسناجار وتتاراكهاند"
+        },
+        {
+            "Code": "333311",
+            "Name": "Viluppuram,   Tamil Nadu",
+            "NameAr": "فيلوببورام تاميل نادو"
+        },
+        {
+            "Code": "409965",
+            "Name": "Virudhunagar,   Tamil Nadu",
+            "NameAr": "فيرودهوناجار تاميل نادو"
+        },
+        {
+            "Code": "142198",
+            "Name": "Vizag/Visakhapatnam,   Andhra Pradesh",
+            "NameAr": "فيزاج فيساكهاباتنام اندهرا براديسه"
+        },
+        {
+            "Code": "141371",
+            "Name": "Vizhinjam,   Kerala",
+            "NameAr": "فيزهينجام كيرالا"
+        },
+        {
+            "Code": "107391",
+            "Name": "Vizianagaram,   Andhra Pradesh",
+            "NameAr": "فيزياناجارام اندهرا براديسه"
+        },
+        {
+            "Code": "141391",
+            "Name": "Vrindavan,   Uttar Pradesh",
+            "NameAr": "فريندافان وتتار براديسه"
+        },
+        {
+            "Code": "151612",
+            "Name": "Vythiri,   Kerala",
+            "NameAr": "فيتهيري كيرالا"
+        },
+        {
+            "Code": "107703",
+            "Name": "Wakad,   Maharashtra",
+            "NameAr": "واكاد ماهاراسهترا"
+        },
+        {
+            "Code": "107887",
+            "Name": "Wandoor",
+            "NameAr": "واندوور"
+        },
+        {
+            "Code": "141960",
+            "Name": "Wankaner,   Gujrat",
+            "NameAr": "وانكانير جوجرات"
+        },
+        {
+            "Code": "151614",
+            "Name": "Warangal,   Telangana",
+            "NameAr": "وارانجال تيلانجانا"
+        },
+        {
+            "Code": "148630",
+            "Name": "Wayanad,   Kerala",
+            "NameAr": "واياناد كيرالا"
+        },
+        {
+            "Code": "153886",
+            "Name": "West Godavari District",
+            "NameAr": "ويست جودافاري ديستريكت"
+        },
+        {
+            "Code": "143481",
+            "Name": "Wuste Thar,   Rajasthan",
+            "NameAr": "ووستي تهار راجاستهان"
+        },
+        {
+            "Code": "143798",
+            "Name": "Yavatmal,   Maharashtra",
+            "NameAr": "يافاتمال ماهاراسهترا"
+        },
+        {
+            "Code": "148767",
+            "Name": "Yelagiri,   Tamil Nadu",
+            "NameAr": "ييلاجيري تاميل نادو"
+        },
+        {
+            "Code": "348599",
+            "Name": "Yelahanka,   Karnataka",
+            "NameAr": "ييلاهانكا كارناتاكا"
+        },
+        {
+            "Code": "143329",
+            "Name": "Yercaud,   Tamil Nadu",
+            "NameAr": "ييركاود تاميل نادو"
+        },
+        {
+            "Code": "150396",
+            "Name": "Yuksom,   Sikkim",
+            "NameAr": "يوكسوم سيككيم"
+        },
+        {
+            "Code": "150387",
+            "Name": "ZARIBAGO,   Jammu and Kashmir",
+            "NameAr": "زاريباجو جاممو اند كاسهمير"
+        },
+        {
+            "Code": "150248",
+            "Name": "Zirakpur,   Punjab",
+            "NameAr": "زيراكبور بونجاب"
+        }
+    ],
+    "totalCities": 1011
+}

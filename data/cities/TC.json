@@ -1,0 +1,47 @@
+{
+    "id": "TC",
+    "countryCode": "TC",
+    "cities": [
+        {
+            "Code": "115453",
+            "Name": "Cockburn Town",
+            "NameAr": "كوككبورن توون"
+        },
+        {
+            "Code": "119333",
+            "Name": "Grace Bay",
+            "NameAr": "جراكي باي"
+        },
+        {
+            "Code": "132696",
+            "Name": "Parrot Cay",
+            "NameAr": "بارروت كاي"
+        },
+        {
+            "Code": "131642",
+            "Name": "Pine Cay",
+            "NameAr": "بيني كاي"
+        },
+        {
+            "Code": "133112",
+            "Name": "Providenciales",
+            "NameAr": "بروفيدينكياليس"
+        },
+        {
+            "Code": "103607",
+            "Name": "South Caicos",
+            "NameAr": "سووته كايكوس"
+        },
+        {
+            "Code": "141531",
+            "Name": "Turquoise",
+            "NameAr": "تورقوويسي"
+        },
+        {
+            "Code": "107529",
+            "Name": "Whitby",
+            "NameAr": "وهيتبي"
+        }
+    ],
+    "totalCities": 8
+}

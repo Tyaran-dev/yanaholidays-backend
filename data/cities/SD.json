@@ -1,0 +1,22 @@
+{
+    "id": "SD",
+    "countryCode": "SD",
+    "cities": [
+        {
+            "Code": "145844",
+            "Name": "Juba",
+            "NameAr": "جوبا"
+        },
+        {
+            "Code": "124230",
+            "Name": "Khartoum",
+            "NameAr": "كهارتووم"
+        },
+        {
+            "Code": "147297",
+            "Name": "Port Sudan",
+            "NameAr": "بورت سودان"
+        }
+    ],
+    "totalCities": 3
+}

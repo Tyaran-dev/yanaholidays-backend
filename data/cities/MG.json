@@ -1,0 +1,202 @@
+{
+    "id": "MG",
+    "countryCode": "MG",
+    "cities": [
+        {
+            "Code": "100688",
+            "Name": "Akanin'ny Nofy",
+            "NameAr": "اكانينني نوفي"
+        },
+        {
+            "Code": "109445",
+            "Name": "Anakao",
+            "NameAr": "اناكاو"
+        },
+        {
+            "Code": "109208",
+            "Name": "Andasibe",
+            "NameAr": "انداسيبي"
+        },
+        {
+            "Code": "293618",
+            "Name": "Andavadoaka",
+            "NameAr": "اندافادواكا"
+        },
+        {
+            "Code": "101013",
+            "Name": "Anjajavy",
+            "NameAr": "انجاجافي"
+        },
+        {
+            "Code": "109578",
+            "Name": "Ankarana Nationalpark",
+            "NameAr": "انكارانا ناتيونالبارك"
+        },
+        {
+            "Code": "149062",
+            "Name": "Antalaha",
+            "NameAr": "انتالاها"
+        },
+        {
+            "Code": "101026",
+            "Name": "Antananarivo",
+            "NameAr": "انتاناناريفو"
+        },
+        {
+            "Code": "101636",
+            "Name": "Antsanitia",
+            "NameAr": "انتسانيتيا"
+        },
+        {
+            "Code": "101030",
+            "Name": "Antsirabe",
+            "NameAr": "انتسيرابي"
+        },
+        {
+            "Code": "109591",
+            "Name": "Antsiranana",
+            "NameAr": "انتسيرانانا"
+        },
+        {
+            "Code": "149060",
+            "Name": "Antsohihy",
+            "NameAr": "انتسوهيهي"
+        },
+        {
+            "Code": "115887",
+            "Name": "Diego Suarez",
+            "NameAr": "دييجو سواريز"
+        },
+        {
+            "Code": "149043",
+            "Name": "Farafangana",
+            "NameAr": "فارافانجانا"
+        },
+        {
+            "Code": "118270",
+            "Name": "Fianarantsoa",
+            "NameAr": "فيانارانتسوا"
+        },
+        {
+            "Code": "121709",
+            "Name": "Ifaty",
+            "NameAr": "يفاتي"
+        },
+        {
+            "Code": "145722",
+            "Name": "Ihosy",
+            "NameAr": "يهوسي"
+        },
+        {
+            "Code": "102339",
+            "Name": "Ile aux Nattes",
+            "NameAr": "يلي اوكس ناتتيس"
+        },
+        {
+            "Code": "122669",
+            "Name": "Ile Sainte-Marie",
+            "NameAr": "يلي ساينتي-ماريي"
+        },
+        {
+            "Code": "122698",
+            "Name": "Insel Nosy Saba",
+            "NameAr": "ينسيل نوسي سابا"
+        },
+        {
+            "Code": "145789",
+            "Name": "Ivato",
+            "NameAr": "يفاتو"
+        },
+        {
+            "Code": "122882",
+            "Name": "Joffreville",
+            "NameAr": "جوففريفيللي"
+        },
+        {
+            "Code": "125685",
+            "Name": "Mahajanga",
+            "NameAr": "ماهاجانجا"
+        },
+        {
+            "Code": "126961",
+            "Name": "Manakara",
+            "NameAr": "ماناكارا"
+        },
+        {
+            "Code": "149041",
+            "Name": "Mananara",
+            "NameAr": "مانانارا"
+        },
+        {
+            "Code": "151278",
+            "Name": "Mandritsara",
+            "NameAr": "ماندريتسارا"
+        },
+        {
+            "Code": "146521",
+            "Name": "Maroantsetra",
+            "NameAr": "ماروانتسيترا"
+        },
+        {
+            "Code": "127523",
+            "Name": "Masoala",
+            "NameAr": "ماسوالا"
+        },
+        {
+            "Code": "129630",
+            "Name": "Morondava",
+            "NameAr": "موروندافا"
+        },
+        {
+            "Code": "130028",
+            "Name": "Nosy Be",
+            "NameAr": "نوسي بي"
+        },
+        {
+            "Code": "130905",
+            "Name": "Nosy Boraha",
+            "NameAr": "نوسي بوراها"
+        },
+        {
+            "Code": "149040",
+            "Name": "Nosy Saba",
+            "NameAr": "نوسي سابا"
+        },
+        {
+            "Code": "133839",
+            "Name": "Ranohira",
+            "NameAr": "رانوهيرا"
+        },
+        {
+            "Code": "135049",
+            "Name": "Ranomafana",
+            "NameAr": "رانومافانا"
+        },
+        {
+            "Code": "149077",
+            "Name": "Sambava",
+            "NameAr": "سامبافا"
+        },
+        {
+            "Code": "139014",
+            "Name": "Tampolo",
+            "NameAr": "تامبولو"
+        },
+        {
+            "Code": "140770",
+            "Name": "Toamasina",
+            "NameAr": "تواماسينا"
+        },
+        {
+            "Code": "140460",
+            "Name": "Toliary",
+            "NameAr": "تولياري"
+        },
+        {
+            "Code": "141212",
+            "Name": "Tsarabanjina",
+            "NameAr": "تسارابانجينا"
+        }
+    ],
+    "totalCities": 39
+}

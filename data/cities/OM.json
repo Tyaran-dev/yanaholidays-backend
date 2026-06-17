@@ -1,0 +1,152 @@
+{
+    "id": "OM",
+    "countryCode": "OM",
+    "cities": [
+        {
+            "Code": "100165",
+            "Name": "Al Buraimi",
+            "NameAr": "ال بورايمي"
+        },
+        {
+            "Code": "149267",
+            "Name": "Al Wasil",
+            "NameAr": "ال واسيل"
+        },
+        {
+            "Code": "110746",
+            "Name": "Bahla",
+            "NameAr": "باهلا"
+        },
+        {
+            "Code": "144107",
+            "Name": "Barka",
+            "NameAr": "باركا"
+        },
+        {
+            "Code": "299714",
+            "Name": "Barr Al Jissah",
+            "NameAr": "بارر ال جيسساه"
+        },
+        {
+            "Code": "149264",
+            "Name": "Bidiya",
+            "NameAr": "بيدييا"
+        },
+        {
+            "Code": "116302",
+            "Name": "Dibba",
+            "NameAr": "ديببا"
+        },
+        {
+            "Code": "116407",
+            "Name": "Duqm",
+            "NameAr": "دوقم"
+        },
+        {
+            "Code": "120585",
+            "Name": "Haima",
+            "NameAr": "هايما"
+        },
+        {
+            "Code": "121045",
+            "Name": "Ibra",
+            "NameAr": "يبرا"
+        },
+        {
+            "Code": "121444",
+            "Name": "Ibri",
+            "NameAr": "يبري"
+        },
+        {
+            "Code": "122338",
+            "Name": "Jebel Akhdar",
+            "NameAr": "جيبيل اكهدار"
+        },
+        {
+            "Code": "122457",
+            "Name": "Jebel Sifah Beach",
+            "NameAr": "جيبيل سيفاه بياكه"
+        },
+        {
+            "Code": "124231",
+            "Name": "Khasab",
+            "NameAr": "كهاساب"
+        },
+        {
+            "Code": "126455",
+            "Name": "Masirah Island",
+            "NameAr": "ماسيراه يسلاند"
+        },
+        {
+            "Code": "146647",
+            "Name": "Mirbat",
+            "NameAr": "ميربات"
+        },
+        {
+            "Code": "128691",
+            "Name": "Musandam",
+            "NameAr": "موساندام"
+        },
+        {
+            "Code": "146788",
+            "Name": "Muscat",
+            "NameAr": "موسكات"
+        },
+        {
+            "Code": "129438",
+            "Name": "Mussanah",
+            "NameAr": "موسساناه"
+        },
+        {
+            "Code": "151825",
+            "Name": "Nakhal",
+            "NameAr": "ناكهال"
+        },
+        {
+            "Code": "130491",
+            "Name": "Nizwa",
+            "NameAr": "نيزوا"
+        },
+        {
+            "Code": "130628",
+            "Name": "Oman",
+            "NameAr": "ومان"
+        },
+        {
+            "Code": "133769",
+            "Name": "Ras Al Jinz",
+            "NameAr": "راس ال جينز"
+        },
+        {
+            "Code": "135316",
+            "Name": "Salalah",
+            "NameAr": "سالالاه"
+        },
+        {
+            "Code": "137756",
+            "Name": "Sib",
+            "NameAr": "سيب"
+        },
+        {
+            "Code": "138467",
+            "Name": "Sohar",
+            "NameAr": "سوهار"
+        },
+        {
+            "Code": "139525",
+            "Name": "Sur",
+            "NameAr": "سور"
+        },
+        {
+            "Code": "106358",
+            "Name": "Sur (Oman)",
+            "NameAr": "سور ومان"
+        },
+        {
+            "Code": "143863",
+            "Name": "Zighy Bay",
+            "NameAr": "زيجهي باي"
+        }
+    ],
+    "totalCities": 29
+}

@@ -1,0 +1,52 @@
+{
+    "id": "VU",
+    "countryCode": "VU",
+    "cities": [
+        {
+            "Code": "101166",
+            "Name": "Aore Island",
+            "NameAr": "اوري يسلاند"
+        },
+        {
+            "Code": "112442",
+            "Name": "Bokissa Island",
+            "NameAr": "بوكيسسا يسلاند"
+        },
+        {
+            "Code": "121733",
+            "Name": "Insel Espiritu Santo",
+            "NameAr": "ينسيل يسبيريتو سانتو"
+        },
+        {
+            "Code": "126715",
+            "Name": "Luganville",
+            "NameAr": "لوجانفيللي"
+        },
+        {
+            "Code": "129062",
+            "Name": "Moso Island",
+            "NameAr": "موسو يسلاند"
+        },
+        {
+            "Code": "132315",
+            "Name": "Port Vila",
+            "NameAr": "بورت فيلا"
+        },
+        {
+            "Code": "150670",
+            "Name": "Quine Hill",
+            "NameAr": "قويني هيلل"
+        },
+        {
+            "Code": "337198",
+            "Name": "Saraotou",
+            "NameAr": "ساراوتوو"
+        },
+        {
+            "Code": "139971",
+            "Name": "Tanna Island",
+            "NameAr": "تاننا يسلاند"
+        }
+    ],
+    "totalCities": 9
+}

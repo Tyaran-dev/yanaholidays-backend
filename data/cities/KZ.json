@@ -1,0 +1,182 @@
+{
+    "id": "KZ",
+    "countryCode": "KZ",
+    "cities": [
+        {
+            "Code": "149879",
+            "Name": "Aksay",
+            "NameAr": "اكساي"
+        },
+        {
+            "Code": "149866",
+            "Name": "Aktau",
+            "NameAr": "اكتاو"
+        },
+        {
+            "Code": "100810",
+            "Name": "Aktobe",
+            "NameAr": "اكتوبي"
+        },
+        {
+            "Code": "109402",
+            "Name": "Almaty",
+            "NameAr": "الماتي"
+        },
+        {
+            "Code": "418041",
+            "Name": "Aqkol",
+            "NameAr": "اقكول"
+        },
+        {
+            "Code": "109482",
+            "Name": "Aqtau",
+            "NameAr": "اقتاو"
+        },
+        {
+            "Code": "143973",
+            "Name": "Astana",
+            "NameAr": "استانا"
+        },
+        {
+            "Code": "109913",
+            "Name": "Atyrau",
+            "NameAr": "اتيراو"
+        },
+        {
+            "Code": "305726",
+            "Name": "Burabay",
+            "NameAr": "بوراباي"
+        },
+        {
+            "Code": "104968",
+            "Name": "Ekibastus",
+            "NameAr": "يكيباستوس"
+        },
+        {
+            "Code": "106049",
+            "Name": "Ereymentau",
+            "NameAr": "يرييمينتاو"
+        },
+        {
+            "Code": "149883",
+            "Name": "Fort Shevchenko",
+            "NameAr": "فورت سهيفكهينكو"
+        },
+        {
+            "Code": "122936",
+            "Name": "Karaganda",
+            "NameAr": "كاراجاندا"
+        },
+        {
+            "Code": "302665",
+            "Name": "Katarkol",
+            "NameAr": "كاتاركول"
+        },
+        {
+            "Code": "103875",
+            "Name": "Kokshetau",
+            "NameAr": "كوكسهيتاو"
+        },
+        {
+            "Code": "149865",
+            "Name": "Kostanay",
+            "NameAr": "كوستاناي"
+        },
+        {
+            "Code": "149882",
+            "Name": "Kyzylorda",
+            "NameAr": "كيزيلوردا"
+        },
+        {
+            "Code": "130647",
+            "Name": "Oral",
+            "NameAr": "ورال"
+        },
+        {
+            "Code": "130816",
+            "Name": "Oskemen",
+            "NameAr": "وسكيمين"
+        },
+        {
+            "Code": "103420",
+            "Name": "Pawlodar",
+            "NameAr": "باولودار"
+        },
+        {
+            "Code": "103272",
+            "Name": "Petropavl",
+            "NameAr": "بيتروبافل"
+        },
+        {
+            "Code": "108453",
+            "Name": "Rudny",
+            "NameAr": "رودني"
+        },
+        {
+            "Code": "136675",
+            "Name": "Schimkent russ.",
+            "NameAr": "سكهيمكينت روسس"
+        },
+        {
+            "Code": "149876",
+            "Name": "Schuchinsk",
+            "NameAr": "سكهوكهينسك"
+        },
+        {
+            "Code": "103384",
+            "Name": "Semei",
+            "NameAr": "سيميي"
+        },
+        {
+            "Code": "103575",
+            "Name": "Semey",
+            "NameAr": "سيميي"
+        },
+        {
+            "Code": "103580",
+            "Name": "Shchuchinsk",
+            "NameAr": "سهكهوكهينسك"
+        },
+        {
+            "Code": "149870",
+            "Name": "Shymkent",
+            "NameAr": "سهيمكينت"
+        },
+        {
+            "Code": "139186",
+            "Name": "Taldykorgan",
+            "NameAr": "تالديكورجان"
+        },
+        {
+            "Code": "149875",
+            "Name": "Taraz",
+            "NameAr": "تاراز"
+        },
+        {
+            "Code": "108599",
+            "Name": "Temirtau",
+            "NameAr": "تيميرتاو"
+        },
+        {
+            "Code": "161040",
+            "Name": "Turkistan",
+            "NameAr": "توركيستان"
+        },
+        {
+            "Code": "149867",
+            "Name": "Uralsk",
+            "NameAr": "ورالسك"
+        },
+        {
+            "Code": "160884",
+            "Name": "Ust-Kamenogorsk",
+            "NameAr": "وست-كامينوجورسك"
+        },
+        {
+            "Code": "107811",
+            "Name": "Zhana Buqtyrma",
+            "NameAr": "زهانا بوقتيرما"
+        }
+    ],
+    "totalCities": 35
+}

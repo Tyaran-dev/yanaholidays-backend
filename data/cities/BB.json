@@ -1,0 +1,162 @@
+{
+    "id": "BB",
+    "countryCode": "BB",
+    "cities": [
+        {
+            "Code": "111133",
+            "Name": "Barbados",
+            "NameAr": "باربادوس"
+        },
+        {
+            "Code": "111164",
+            "Name": "Bathsheba",
+            "NameAr": "باتهسهيبا"
+        },
+        {
+            "Code": "144371",
+            "Name": "Bridgetown",
+            "NameAr": "بريدجيتوون"
+        },
+        {
+            "Code": "114818",
+            "Name": "Christ Church",
+            "NameAr": "كهريست كهوركه"
+        },
+        {
+            "Code": "398456",
+            "Name": "Diamond Valley",
+            "NameAr": "دياموند فالليي"
+        },
+        {
+            "Code": "115925",
+            "Name": "Dover",
+            "NameAr": "دوفير"
+        },
+        {
+            "Code": "119112",
+            "Name": "Gibbes",
+            "NameAr": "جيببيس"
+        },
+        {
+            "Code": "119142",
+            "Name": "Glitter Bay",
+            "NameAr": "جليتتير باي"
+        },
+        {
+            "Code": "145550",
+            "Name": "Hastings",
+            "NameAr": "هاستينجس"
+        },
+        {
+            "Code": "121257",
+            "Name": "Holetown",
+            "NameAr": "هوليتوون"
+        },
+        {
+            "Code": "105856",
+            "Name": "Hopefield",
+            "NameAr": "هوبيفييلد"
+        },
+        {
+            "Code": "101927",
+            "Name": "Inch Marlowe",
+            "NameAr": "ينكه مارلووي"
+        },
+        {
+            "Code": "103808",
+            "Name": "Maxwell Coast",
+            "NameAr": "ماكسويلل كواست"
+        },
+        {
+            "Code": "129420",
+            "Name": "Mullins Bay",
+            "NameAr": "موللينس باي"
+        },
+        {
+            "Code": "104394",
+            "Name": "Ocean City",
+            "NameAr": "وكيان كيتي"
+        },
+        {
+            "Code": "102062",
+            "Name": "Oistins",
+            "NameAr": "ويستينس"
+        },
+        {
+            "Code": "147126",
+            "Name": "Paynes Bay",
+            "NameAr": "باينيس باي"
+        },
+        {
+            "Code": "103455",
+            "Name": "Prospect",
+            "NameAr": "بروسبيكت"
+        },
+        {
+            "Code": "134605",
+            "Name": "Rockley Beach",
+            "NameAr": "روككليي بياكه"
+        },
+        {
+            "Code": "137438",
+            "Name": "Six Men's Bay",
+            "NameAr": "سيكس مينس باي"
+        },
+        {
+            "Code": "147982",
+            "Name": "Speightstown",
+            "NameAr": "سبييجهتستوون"
+        },
+        {
+            "Code": "138224",
+            "Name": "St. James",
+            "NameAr": "ست جاميس"
+        },
+        {
+            "Code": "139474",
+            "Name": "St. John",
+            "NameAr": "ست جوهن"
+        },
+        {
+            "Code": "138227",
+            "Name": "St. Lawrence",
+            "NameAr": "ست لاورينكي"
+        },
+        {
+            "Code": "138228",
+            "Name": "St. Lawrence Gap",
+            "NameAr": "ست لاورينكي جاب"
+        },
+        {
+            "Code": "148016",
+            "Name": "St. Lucy",
+            "NameAr": "ست لوكي"
+        },
+        {
+            "Code": "148019",
+            "Name": "St. Michael",
+            "NameAr": "ست ميكهايل"
+        },
+        {
+            "Code": "139484",
+            "Name": "St. Peter",
+            "NameAr": "ست بيتير"
+        },
+        {
+            "Code": "138778",
+            "Name": "St. Philip",
+            "NameAr": "ست بهيليب"
+        },
+        {
+            "Code": "107276",
+            "Name": "Surinam",
+            "NameAr": "سورينام"
+        },
+        {
+            "Code": "107498",
+            "Name": "Westmoreland",
+            "NameAr": "ويستموريلاند"
+        }
+    ],
+    "totalCities": 31
+}

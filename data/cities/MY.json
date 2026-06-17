@@ -1,0 +1,1152 @@
+{
+    "id": "MY",
+    "countryCode": "MY",
+    "cities": [
+        {
+            "Code": "101095",
+            "Name": "Alor Setar",
+            "NameAr": "الور سيتار"
+        },
+        {
+            "Code": "109555",
+            "Name": "Ampang",
+            "NameAr": "امبانج"
+        },
+        {
+            "Code": "102187",
+            "Name": "Ayer Tawar",
+            "NameAr": "ايير تاوار"
+        },
+        {
+            "Code": "110370",
+            "Name": "Bachok",
+            "NameAr": "باكهوك"
+        },
+        {
+            "Code": "105021",
+            "Name": "Bagan Serai",
+            "NameAr": "باجان سيراي"
+        },
+        {
+            "Code": "236209",
+            "Name": "Bahau",
+            "NameAr": "باهاو"
+        },
+        {
+            "Code": "109728",
+            "Name": "Balakong",
+            "NameAr": "بالاكونج"
+        },
+        {
+            "Code": "110412",
+            "Name": "Bandar Baru Bangi",
+            "NameAr": "باندار بارو بانجي"
+        },
+        {
+            "Code": "366393",
+            "Name": "Bandar Penawar",
+            "NameAr": "باندار بيناوار"
+        },
+        {
+            "Code": "111120",
+            "Name": "Bandar Putra",
+            "NameAr": "باندار بوترا"
+        },
+        {
+            "Code": "144090",
+            "Name": "Banding Island",
+            "NameAr": "باندينج يسلاند"
+        },
+        {
+            "Code": "101494",
+            "Name": "Banting",
+            "NameAr": "بانتينج"
+        },
+        {
+            "Code": "105137",
+            "Name": "Batang Kali",
+            "NameAr": "باتانج كالي"
+        },
+        {
+            "Code": "110889",
+            "Name": "Batu Caves",
+            "NameAr": "باتو كافيس"
+        },
+        {
+            "Code": "110536",
+            "Name": "Batu Ferringgi",
+            "NameAr": "باتو فيررينججي"
+        },
+        {
+            "Code": "295343",
+            "Name": "Batu Ferringhi",
+            "NameAr": "باتو فيررينجهي"
+        },
+        {
+            "Code": "110890",
+            "Name": "Batu Gajah",
+            "NameAr": "باتو جاجاه"
+        },
+        {
+            "Code": "111039",
+            "Name": "Batu Pahat",
+            "NameAr": "باتو باهات"
+        },
+        {
+            "Code": "111847",
+            "Name": "Bayan Lepas",
+            "NameAr": "بايان ليباس"
+        },
+        {
+            "Code": "150416",
+            "Name": "Belaga",
+            "NameAr": "بيلاجا"
+        },
+        {
+            "Code": "111902",
+            "Name": "Bentong",
+            "NameAr": "بينتونج"
+        },
+        {
+            "Code": "154821",
+            "Name": "Besut District",
+            "NameAr": "بيسوت ديستريكت"
+        },
+        {
+            "Code": "112186",
+            "Name": "Bintulu",
+            "NameAr": "بينتولو"
+        },
+        {
+            "Code": "150354",
+            "Name": "Bongawan",
+            "NameAr": "بونجاوان"
+        },
+        {
+            "Code": "144381",
+            "Name": "Brinchang",
+            "NameAr": "برينكهانج"
+        },
+        {
+            "Code": "113443",
+            "Name": "Bukit Mertajam",
+            "NameAr": "بوكيت ميرتاجام"
+        },
+        {
+            "Code": "112056",
+            "Name": "Bukit Tinggi",
+            "NameAr": "بوكيت تينججي"
+        },
+        {
+            "Code": "112166",
+            "Name": "Burau Bay",
+            "NameAr": "بوراو باي"
+        },
+        {
+            "Code": "144444",
+            "Name": "Butterworth",
+            "NameAr": "بوتتيروورته"
+        },
+        {
+            "Code": "113726",
+            "Name": "Cameron Highlands",
+            "NameAr": "كاميرون هيجهلاندس"
+        },
+        {
+            "Code": "104914",
+            "Name": "Changlun",
+            "NameAr": "كهانجلون"
+        },
+        {
+            "Code": "114783",
+            "Name": "Chemor",
+            "NameAr": "كهيمور"
+        },
+        {
+            "Code": "114970",
+            "Name": "Cheras",
+            "NameAr": "كهيراس"
+        },
+        {
+            "Code": "114257",
+            "Name": "Cherating",
+            "NameAr": "كهيراتينج"
+        },
+        {
+            "Code": "144819",
+            "Name": "Crocker Range",
+            "NameAr": "كروككير رانجي"
+        },
+        {
+            "Code": "105471",
+            "Name": "Cukai",
+            "NameAr": "كوكاي"
+        },
+        {
+            "Code": "115614",
+            "Name": "Cyberjaya",
+            "NameAr": "كيبيرجايا"
+        },
+        {
+            "Code": "115103",
+            "Name": "Danum Valley",
+            "NameAr": "دانوم فالليي"
+        },
+        {
+            "Code": "116079",
+            "Name": "Desaru",
+            "NameAr": "ديسارو"
+        },
+        {
+            "Code": "115951",
+            "Name": "Dungun",
+            "NameAr": "دونجون"
+        },
+        {
+            "Code": "119012",
+            "Name": "Fraser Hill",
+            "NameAr": "فراسير هيلل"
+        },
+        {
+            "Code": "119610",
+            "Name": "Gambang",
+            "NameAr": "جامبانج"
+        },
+        {
+            "Code": "119359",
+            "Name": "Gaya Island",
+            "NameAr": "جايا يسلاند"
+        },
+        {
+            "Code": "119643",
+            "Name": "Genting Highlands",
+            "NameAr": "جينتينج هيجهلاندس"
+        },
+        {
+            "Code": "118437",
+            "Name": "George Town",
+            "NameAr": "جيورجي توون"
+        },
+        {
+            "Code": "101517",
+            "Name": "Gerik",
+            "NameAr": "جيريك"
+        },
+        {
+            "Code": "119487",
+            "Name": "Gua Musang",
+            "NameAr": "جوا موسانج"
+        },
+        {
+            "Code": "154638",
+            "Name": "Hulu Terengganu District",
+            "NameAr": "هولو تيرينججانو ديستريكت"
+        },
+        {
+            "Code": "122692",
+            "Name": "Insel Besar",
+            "NameAr": "ينسيل بيسار"
+        },
+        {
+            "Code": "121627",
+            "Name": "Insel Lankayan",
+            "NameAr": "ينسيل لانكايان"
+        },
+        {
+            "Code": "122010",
+            "Name": "Insel Mabul",
+            "NameAr": "ينسيل مابول"
+        },
+        {
+            "Code": "122130",
+            "Name": "Insel Perhentian Besar",
+            "NameAr": "ينسيل بيرهينتيان بيسار"
+        },
+        {
+            "Code": "122014",
+            "Name": "Insel Sibu",
+            "NameAr": "ينسيل سيبو"
+        },
+        {
+            "Code": "145767",
+            "Name": "Ipoh",
+            "NameAr": "يبوه"
+        },
+        {
+            "Code": "121517",
+            "Name": "Janda Baik",
+            "NameAr": "جاندا بايك"
+        },
+        {
+            "Code": "121794",
+            "Name": "Jelutong",
+            "NameAr": "جيلوتونج"
+        },
+        {
+            "Code": "122191",
+            "Name": "Jerantut",
+            "NameAr": "جيرانتوت"
+        },
+        {
+            "Code": "104081",
+            "Name": "Jitra",
+            "NameAr": "جيترا"
+        },
+        {
+            "Code": "154830",
+            "Name": "Johor",
+            "NameAr": "جوهور"
+        },
+        {
+            "Code": "121809",
+            "Name": "Johor Bahru",
+            "NameAr": "جوهور باهرو"
+        },
+        {
+            "Code": "122231",
+            "Name": "Kajang",
+            "NameAr": "كاجانج"
+        },
+        {
+            "Code": "101947",
+            "Name": "Kampar",
+            "NameAr": "كامبار"
+        },
+        {
+            "Code": "108356",
+            "Name": "Kampung Gajah",
+            "NameAr": "كامبونج جاجاه"
+        },
+        {
+            "Code": "122251",
+            "Name": "Kampung Laut Kinarut",
+            "NameAr": "كامبونج لاوت كيناروت"
+        },
+        {
+            "Code": "121848",
+            "Name": "Kampung Mangkuk",
+            "NameAr": "كامبونج مانجكوك"
+        },
+        {
+            "Code": "150338",
+            "Name": "Kangar",
+            "NameAr": "كانجار"
+        },
+        {
+            "Code": "108358",
+            "Name": "Kapar",
+            "NameAr": "كابار"
+        },
+        {
+            "Code": "100001",
+            "Name": "Kapas",
+            "NameAr": "كاباس"
+        },
+        {
+            "Code": "150877",
+            "Name": "Kapit",
+            "NameAr": "كابيت"
+        },
+        {
+            "Code": "123205",
+            "Name": "Karambunai",
+            "NameAr": "كارامبوناي"
+        },
+        {
+            "Code": "123238",
+            "Name": "Kelana Jaya",
+            "NameAr": "كيلانا جايا"
+        },
+        {
+            "Code": "150189",
+            "Name": "Kemaman",
+            "NameAr": "كيمامان"
+        },
+        {
+            "Code": "151126",
+            "Name": "Keningau",
+            "NameAr": "كينينجاو"
+        },
+        {
+            "Code": "151114",
+            "Name": "Kerteh",
+            "NameAr": "كيرتيه"
+        },
+        {
+            "Code": "123678",
+            "Name": "Kijal Beach",
+            "NameAr": "كيجال بياكه"
+        },
+        {
+            "Code": "124242",
+            "Name": "Kinabalu Nationalpark",
+            "NameAr": "كينابالو ناتيونالبارك"
+        },
+        {
+            "Code": "103964",
+            "Name": "Kinabatangan",
+            "NameAr": "كيناباتانجان"
+        },
+        {
+            "Code": "145973",
+            "Name": "Klang",
+            "NameAr": "كلانج"
+        },
+        {
+            "Code": "150310",
+            "Name": "Kluang",
+            "NameAr": "كلوانج"
+        },
+        {
+            "Code": "123632",
+            "Name": "Kota Belud",
+            "NameAr": "كوتا بيلود"
+        },
+        {
+            "Code": "124286",
+            "Name": "Kota Bharu",
+            "NameAr": "كوتا بهارو"
+        },
+        {
+            "Code": "123074",
+            "Name": "Kota Kinabalu",
+            "NameAr": "كوتا كينابالو"
+        },
+        {
+            "Code": "124007",
+            "Name": "Kota Tinggi",
+            "NameAr": "كوتا تينججي"
+        },
+        {
+            "Code": "124311",
+            "Name": "Kuah",
+            "NameAr": "كواه"
+        },
+        {
+            "Code": "124033",
+            "Name": "Kuala Besut",
+            "NameAr": "كوالا بيسوت"
+        },
+        {
+            "Code": "108387",
+            "Name": "Kuala Kangsar",
+            "NameAr": "كوالا كانجسار"
+        },
+        {
+            "Code": "124992",
+            "Name": "Kuala Lipis",
+            "NameAr": "كوالا ليبيس"
+        },
+        {
+            "Code": "123768",
+            "Name": "Kuala Lumpur",
+            "NameAr": "كوالا لومبور"
+        },
+        {
+            "Code": "123339",
+            "Name": "Kuala Nerang",
+            "NameAr": "كوالا نيرانج"
+        },
+        {
+            "Code": "123913",
+            "Name": "Kuala Nerus",
+            "NameAr": "كوالا نيروس"
+        },
+        {
+            "Code": "146042",
+            "Name": "Kuala Penyu",
+            "NameAr": "كوالا بينيو"
+        },
+        {
+            "Code": "105537",
+            "Name": "Kuala Perlis",
+            "NameAr": "كوالا بيرليس"
+        },
+        {
+            "Code": "236084",
+            "Name": "Kuala Pilah",
+            "NameAr": "كوالا بيلاه"
+        },
+        {
+            "Code": "124439",
+            "Name": "Kuala Rompin",
+            "NameAr": "كوالا رومبين"
+        },
+        {
+            "Code": "104130",
+            "Name": "Kuala Tahan",
+            "NameAr": "كوالا تاهان"
+        },
+        {
+            "Code": "124993",
+            "Name": "Kuala Terengganu",
+            "NameAr": "كوالا تيرينججانو"
+        },
+        {
+            "Code": "124034",
+            "Name": "Kuantan",
+            "NameAr": "كوانتان"
+        },
+        {
+            "Code": "124996",
+            "Name": "Kuching",
+            "NameAr": "كوكهينج"
+        },
+        {
+            "Code": "123771",
+            "Name": "Kudat",
+            "NameAr": "كودات"
+        },
+        {
+            "Code": "146045",
+            "Name": "Kulai",
+            "NameAr": "كولاي"
+        },
+        {
+            "Code": "124038",
+            "Name": "Kulim",
+            "NameAr": "كوليم"
+        },
+        {
+            "Code": "124042",
+            "Name": "Kundasang",
+            "NameAr": "كونداسانج"
+        },
+        {
+            "Code": "124069",
+            "Name": "Labuan",
+            "NameAr": "لابوان"
+        },
+        {
+            "Code": "125175",
+            "Name": "Lahat Datu",
+            "NameAr": "لاهات داتو"
+        },
+        {
+            "Code": "100320",
+            "Name": "Lang Tengah",
+            "NameAr": "لانج تينجاه"
+        },
+        {
+            "Code": "100105",
+            "Name": "Langkawi,   Kedah",
+            "NameAr": "لانجكاوي كيداه"
+        },
+        {
+            "Code": "150625",
+            "Name": "Lawas",
+            "NameAr": "لاواس"
+        },
+        {
+            "Code": "100002",
+            "Name": "Layang-Layang",
+            "NameAr": "لايانج-لايانج"
+        },
+        {
+            "Code": "124917",
+            "Name": "Limbang",
+            "NameAr": "ليمبانج"
+        },
+        {
+            "Code": "151481",
+            "Name": "Long Banga",
+            "NameAr": "لونج بانجا"
+        },
+        {
+            "Code": "151212",
+            "Name": "Long Lellang",
+            "NameAr": "لونج ليللانج"
+        },
+        {
+            "Code": "150892",
+            "Name": "Long Pasia",
+            "NameAr": "لونج باسيا"
+        },
+        {
+            "Code": "151140",
+            "Name": "Long Semado",
+            "NameAr": "لونج سيمادو"
+        },
+        {
+            "Code": "151213",
+            "Name": "Long Seridan",
+            "NameAr": "لونج سيريدان"
+        },
+        {
+            "Code": "151482",
+            "Name": "Long Sukang",
+            "NameAr": "لونج سوكانج"
+        },
+        {
+            "Code": "126661",
+            "Name": "Lubok Antu",
+            "NameAr": "لوبوك انتو"
+        },
+        {
+            "Code": "126072",
+            "Name": "Lumut",
+            "NameAr": "لوموت"
+        },
+        {
+            "Code": "127091",
+            "Name": "Malacca",
+            "NameAr": "مالاككا"
+        },
+        {
+            "Code": "146470",
+            "Name": "Manukan Island",
+            "NameAr": "مانوكان يسلاند"
+        },
+        {
+            "Code": "127438",
+            "Name": "Marang",
+            "NameAr": "مارانج"
+        },
+        {
+            "Code": "151220",
+            "Name": "Marudi",
+            "NameAr": "مارودي"
+        },
+        {
+            "Code": "106488",
+            "Name": "Masai",
+            "NameAr": "ماساي"
+        },
+        {
+            "Code": "126456",
+            "Name": "Masjid Tanah",
+            "NameAr": "ماسجيد تاناه"
+        },
+        {
+            "Code": "102619",
+            "Name": "Mentakab",
+            "NameAr": "مينتاكاب"
+        },
+        {
+            "Code": "127910",
+            "Name": "Merang",
+            "NameAr": "ميرانج"
+        },
+        {
+            "Code": "127583",
+            "Name": "Mersing",
+            "NameAr": "ميرسينج"
+        },
+        {
+            "Code": "128880",
+            "Name": "Miri",
+            "NameAr": "ميري"
+        },
+        {
+            "Code": "128451",
+            "Name": "Muar",
+            "NameAr": "موار"
+        },
+        {
+            "Code": "151229",
+            "Name": "Mukah",
+            "NameAr": "موكاه"
+        },
+        {
+            "Code": "129414",
+            "Name": "Mukim Padang",
+            "NameAr": "موكيم بادانج"
+        },
+        {
+            "Code": "151286",
+            "Name": "Mulu",
+            "NameAr": "مولو"
+        },
+        {
+            "Code": "129475",
+            "Name": "Nilai",
+            "NameAr": "نيلاي"
+        },
+        {
+            "Code": "129956",
+            "Name": "Nusajaya",
+            "NameAr": "نوساجايا"
+        },
+        {
+            "Code": "154852",
+            "Name": "Pahang",
+            "NameAr": "باهانج"
+        },
+        {
+            "Code": "131381",
+            "Name": "Paka",
+            "NameAr": "باكا"
+        },
+        {
+            "Code": "151243",
+            "Name": "Pamol",
+            "NameAr": "بامول"
+        },
+        {
+            "Code": "131433",
+            "Name": "Pandan Indah",
+            "NameAr": "باندان ينداه"
+        },
+        {
+            "Code": "147087",
+            "Name": "Pangkor Island",
+            "NameAr": "بانجكور يسلاند"
+        },
+        {
+            "Code": "131434",
+            "Name": "Pangkor Laut",
+            "NameAr": "بانجكور لاوت"
+        },
+        {
+            "Code": "161041",
+            "Name": "Pangkor Perak,   Perak",
+            "NameAr": "بانجكور بيراك بيراك"
+        },
+        {
+            "Code": "132672",
+            "Name": "Pantai Cenang",
+            "NameAr": "بانتاي كينانج"
+        },
+        {
+            "Code": "131400",
+            "Name": "Pantai Kok",
+            "NameAr": "بانتاي كوك"
+        },
+        {
+            "Code": "289967",
+            "Name": "Pantai Remis",
+            "NameAr": "بانتاي ريميس"
+        },
+        {
+            "Code": "147093",
+            "Name": "Papar",
+            "NameAr": "بابار"
+        },
+        {
+            "Code": "103259",
+            "Name": "Parit Buntar",
+            "NameAr": "باريت بونتار"
+        },
+        {
+            "Code": "132059",
+            "Name": "Pasir Gudang",
+            "NameAr": "باسير جودانج"
+        },
+        {
+            "Code": "131564",
+            "Name": "Pasir Puteh",
+            "NameAr": "باسير بوتيه"
+        },
+        {
+            "Code": "132108",
+            "Name": "Pekan",
+            "NameAr": "بيكان"
+        },
+        {
+            "Code": "132119",
+            "Name": "Penang",
+            "NameAr": "بينانج"
+        },
+        {
+            "Code": "104851",
+            "Name": "Perai",
+            "NameAr": "بيراي"
+        },
+        {
+            "Code": "132461",
+            "Name": "Perak",
+            "NameAr": "بيراك"
+        },
+        {
+            "Code": "100321",
+            "Name": "Perhentian",
+            "NameAr": "بيرهينتيان"
+        },
+        {
+            "Code": "132139",
+            "Name": "Petaling Jaya",
+            "NameAr": "بيتالينج جايا"
+        },
+        {
+            "Code": "131805",
+            "Name": "Pom Pom Island",
+            "NameAr": "بوم بوم يسلاند"
+        },
+        {
+            "Code": "132898",
+            "Name": "Pontian",
+            "NameAr": "بونتيان"
+        },
+        {
+            "Code": "133503",
+            "Name": "Port Dickson",
+            "NameAr": "بورت ديككسون"
+        },
+        {
+            "Code": "132397",
+            "Name": "Port Klang",
+            "NameAr": "بورت كلانج"
+        },
+        {
+            "Code": "134343",
+            "Name": "Puchong",
+            "NameAr": "بوكهونج"
+        },
+        {
+            "Code": "132580",
+            "Name": "Pulau Jerejak",
+            "NameAr": "بولاو جيريجاك"
+        },
+        {
+            "Code": "133993",
+            "Name": "Pulau Mantanani Besar",
+            "NameAr": "بولاو مانتاناني بيسار"
+        },
+        {
+            "Code": "417879",
+            "Name": "Pulau Perhentian Kecil",
+            "NameAr": "بولاو بيرهينتيان كيكيل"
+        },
+        {
+            "Code": "133128",
+            "Name": "Pulau Rawa",
+            "NameAr": "بولاو راوا"
+        },
+        {
+            "Code": "132582",
+            "Name": "Pulau Selingan",
+            "NameAr": "بولاو سيلينجان"
+        },
+        {
+            "Code": "133625",
+            "Name": "Pulau Tenggol",
+            "NameAr": "بولاو تينججول"
+        },
+        {
+            "Code": "133626",
+            "Name": "Pulau Timba Timba",
+            "NameAr": "بولاو تيمبا تيمبا"
+        },
+        {
+            "Code": "102782",
+            "Name": "Pusing",
+            "NameAr": "بوسينج"
+        },
+        {
+            "Code": "147412",
+            "Name": "Putrajaya",
+            "NameAr": "بوتراجايا"
+        },
+        {
+            "Code": "135041",
+            "Name": "Ranau",
+            "NameAr": "راناو"
+        },
+        {
+            "Code": "108422",
+            "Name": "Rantau Panjang",
+            "NameAr": "رانتاو بانجانج"
+        },
+        {
+            "Code": "150181",
+            "Name": "Raub",
+            "NameAr": "راوب"
+        },
+        {
+            "Code": "100750",
+            "Name": "Rawa",
+            "NameAr": "راوا"
+        },
+        {
+            "Code": "133780",
+            "Name": "Rawang",
+            "NameAr": "راوانج"
+        },
+        {
+            "Code": "100535",
+            "Name": "Redang",
+            "NameAr": "ريدانج"
+        },
+        {
+            "Code": "101285",
+            "Name": "Redang Island",
+            "NameAr": "ريدانج يسلاند"
+        },
+        {
+            "Code": "147562",
+            "Name": "Rompin",
+            "NameAr": "رومبين"
+        },
+        {
+            "Code": "135456",
+            "Name": "Royal Mulu",
+            "NameAr": "رويال مولو"
+        },
+        {
+            "Code": "150290",
+            "Name": "Sabak Bernam",
+            "NameAr": "ساباك بيرنام"
+        },
+        {
+            "Code": "137133",
+            "Name": "Sandakan",
+            "NameAr": "سانداكان"
+        },
+        {
+            "Code": "147761",
+            "Name": "Santubong",
+            "NameAr": "سانتوبونج"
+        },
+        {
+            "Code": "147774",
+            "Name": "Sarawak",
+            "NameAr": "ساراواك"
+        },
+        {
+            "Code": "108519",
+            "Name": "Seberang Jaya",
+            "NameAr": "سيبيرانج جايا"
+        },
+        {
+            "Code": "137949",
+            "Name": "Segamat",
+            "NameAr": "سيجامات"
+        },
+        {
+            "Code": "123769",
+            "Name": "Selangor",
+            "NameAr": "سيلانجور"
+        },
+        {
+            "Code": "137961",
+            "Name": "Sematan",
+            "NameAr": "سيماتان"
+        },
+        {
+            "Code": "147850",
+            "Name": "Semporna",
+            "NameAr": "سيمبورنا"
+        },
+        {
+            "Code": "136761",
+            "Name": "Senai",
+            "NameAr": "سيناي"
+        },
+        {
+            "Code": "137723",
+            "Name": "Sepang",
+            "NameAr": "سيبانج"
+        },
+        {
+            "Code": "137366",
+            "Name": "Seremban",
+            "NameAr": "سيريمبان"
+        },
+        {
+            "Code": "137972",
+            "Name": "Seri Kembangan",
+            "NameAr": "سيري كيمبانجان"
+        },
+        {
+            "Code": "106795",
+            "Name": "Seri Manjung",
+            "NameAr": "سيري مانجونج"
+        },
+        {
+            "Code": "136783",
+            "Name": "Setapak",
+            "NameAr": "سيتاباك"
+        },
+        {
+            "Code": "211176",
+            "Name": "Setia Alam",
+            "NameAr": "سيتيا الام"
+        },
+        {
+            "Code": "137374",
+            "Name": "Setiu",
+            "NameAr": "سيتيو"
+        },
+        {
+            "Code": "138651",
+            "Name": "Shah Alam",
+            "NameAr": "سهاه الام"
+        },
+        {
+            "Code": "137588",
+            "Name": "Sibu",
+            "NameAr": "سيبو"
+        },
+        {
+            "Code": "100751",
+            "Name": "Sibu Tengah",
+            "NameAr": "سيبو تينجاه"
+        },
+        {
+            "Code": "137615",
+            "Name": "Simpang Empat",
+            "NameAr": "سيمبانج يمبات"
+        },
+        {
+            "Code": "107224",
+            "Name": "Simpang Renggam",
+            "NameAr": "سيمبانج رينججام"
+        },
+        {
+            "Code": "100428",
+            "Name": "Sipadan",
+            "NameAr": "سيبادان"
+        },
+        {
+            "Code": "137037",
+            "Name": "Sitiawan",
+            "NameAr": "سيتياوان"
+        },
+        {
+            "Code": "138729",
+            "Name": "Skudai",
+            "NameAr": "سكوداي"
+        },
+        {
+            "Code": "106338",
+            "Name": "Sri Aman",
+            "NameAr": "سري امان"
+        },
+        {
+            "Code": "139285",
+            "Name": "Subang Jaya",
+            "NameAr": "سوبانج جايا"
+        },
+        {
+            "Code": "148099",
+            "Name": "Sukau",
+            "NameAr": "سوكاو"
+        },
+        {
+            "Code": "107144",
+            "Name": "Sungai Bakap",
+            "NameAr": "سونجاي باكاب"
+        },
+        {
+            "Code": "106931",
+            "Name": "Sungai Jawi",
+            "NameAr": "سونجاي جاوي"
+        },
+        {
+            "Code": "139863",
+            "Name": "Sungai Petani",
+            "NameAr": "سونجاي بيتاني"
+        },
+        {
+            "Code": "139521",
+            "Name": "Sungai Siput",
+            "NameAr": "سونجاي سيبوت"
+        },
+        {
+            "Code": "224916",
+            "Name": "Sungkai",
+            "NameAr": "سونجكاي"
+        },
+        {
+            "Code": "138565",
+            "Name": "Taiping",
+            "NameAr": "تايبينج"
+        },
+        {
+            "Code": "139676",
+            "Name": "Taman Negara-National Park",
+            "NameAr": "تامان نيجارا-ناتيونال بارك"
+        },
+        {
+            "Code": "106367",
+            "Name": "Tambun",
+            "NameAr": "تامبون"
+        },
+        {
+            "Code": "154629",
+            "Name": "Tanah Merah District",
+            "NameAr": "تاناه ميراه ديستريكت"
+        },
+        {
+            "Code": "139192",
+            "Name": "Tanah Rata",
+            "NameAr": "تاناه راتا"
+        },
+        {
+            "Code": "139914",
+            "Name": "Tanjong Malim",
+            "NameAr": "تانجونج ماليم"
+        },
+        {
+            "Code": "139560",
+            "Name": "Tanjung Bungah",
+            "NameAr": "تانجونج بونجاه"
+        },
+        {
+            "Code": "138576",
+            "Name": "Tanjung Tokong",
+            "NameAr": "تانجونج توكونج"
+        },
+        {
+            "Code": "139702",
+            "Name": "Tawau",
+            "NameAr": "تاواو"
+        },
+        {
+            "Code": "139709",
+            "Name": "Teluk Bahang",
+            "NameAr": "تيلوك باهانج"
+        },
+        {
+            "Code": "150188",
+            "Name": "Teluk Intan",
+            "NameAr": "تيلوك ينتان"
+        },
+        {
+            "Code": "139710",
+            "Name": "Teluk Nibong",
+            "NameAr": "تيلوك نيبونج"
+        },
+        {
+            "Code": "107088",
+            "Name": "Teluk Nipah",
+            "NameAr": "تيلوك نيباه"
+        },
+        {
+            "Code": "148184",
+            "Name": "Temerloh",
+            "NameAr": "تيميرلوه"
+        },
+        {
+            "Code": "108602",
+            "Name": "Tenom",
+            "NameAr": "تينوم"
+        },
+        {
+            "Code": "100106",
+            "Name": "Tioman",
+            "NameAr": "تيومان"
+        },
+        {
+            "Code": "101286",
+            "Name": "Tioman Island",
+            "NameAr": "تيومان يسلاند"
+        },
+        {
+            "Code": "151679",
+            "Name": "Tomanggong",
+            "NameAr": "تومانججونج"
+        },
+        {
+            "Code": "140397",
+            "Name": "Tumpat",
+            "NameAr": "تومبات"
+        },
+        {
+            "Code": "108679",
+            "Name": "Wakaf Che Yeh",
+            "NameAr": "واكاف كهي ييه"
+        }
+    ],
+    "totalCities": 229
+}

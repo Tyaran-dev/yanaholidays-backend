@@ -1,0 +1,17 @@
+{
+    "id": "NU",
+    "countryCode": "NU",
+    "cities": [
+        {
+            "Code": "130489",
+            "Name": "Niue Island",
+            "NameAr": "نيوي يسلاند"
+        },
+        {
+            "Code": "149262",
+            "Name": "Tamakautoga",
+            "NameAr": "تاماكاوتوجا"
+        }
+    ],
+    "totalCities": 2
+}

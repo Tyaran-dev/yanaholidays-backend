@@ -1,0 +1,1447 @@
+{
+    "id": "RO",
+    "countryCode": "RO",
+    "cities": [
+        {
+            "Code": "101614",
+            "Name": "Adjud",
+            "NameAr": "ادجود"
+        },
+        {
+            "Code": "101616",
+            "Name": "Afumati",
+            "NameAr": "افوماتي"
+        },
+        {
+            "Code": "155763",
+            "Name": "Alba County",
+            "NameAr": "البا كوونتي"
+        },
+        {
+            "Code": "100084",
+            "Name": "Alba Iulia",
+            "NameAr": "البا يوليا"
+        },
+        {
+            "Code": "100700",
+            "Name": "Albac",
+            "NameAr": "الباك"
+        },
+        {
+            "Code": "301618",
+            "Name": "Alexandria",
+            "NameAr": "الإسكندرية"
+        },
+        {
+            "Code": "105093",
+            "Name": "Aninoasa",
+            "NameAr": "انينواسا"
+        },
+        {
+            "Code": "109161",
+            "Name": "Arad",
+            "NameAr": "اراد"
+        },
+        {
+            "Code": "286693",
+            "Name": "Arges County",
+            "NameAr": "ارجيس كوونتي"
+        },
+        {
+            "Code": "109260",
+            "Name": "Arieseni",
+            "NameAr": "ارييسيني"
+        },
+        {
+            "Code": "101583",
+            "Name": "Avrig",
+            "NameAr": "افريج"
+        },
+        {
+            "Code": "110364",
+            "Name": "Azuga",
+            "NameAr": "ازوجا"
+        },
+        {
+            "Code": "110117",
+            "Name": "Bacau",
+            "NameAr": "باكاو"
+        },
+        {
+            "Code": "109940",
+            "Name": "Baciu",
+            "NameAr": "باكيو"
+        },
+        {
+            "Code": "109692",
+            "Name": "Bad Felix",
+            "NameAr": "باد فيليكس"
+        },
+        {
+            "Code": "418109",
+            "Name": "Baia",
+            "NameAr": "بايا"
+        },
+        {
+            "Code": "294930",
+            "Name": "Baia de Fier",
+            "NameAr": "بايا دي فيير"
+        },
+        {
+            "Code": "111086",
+            "Name": "Baia Mare",
+            "NameAr": "بايا ماري"
+        },
+        {
+            "Code": "102192",
+            "Name": "Baia Sprie",
+            "NameAr": "بايا سبريي"
+        },
+        {
+            "Code": "110649",
+            "Name": "Baile 1 Mai",
+            "NameAr": "بايلي ماي"
+        },
+        {
+            "Code": "148855",
+            "Name": "Baile Govora",
+            "NameAr": "بايلي جوفورا"
+        },
+        {
+            "Code": "110750",
+            "Name": "Baile Herculane",
+            "NameAr": "بايلي هيركولاني"
+        },
+        {
+            "Code": "148890",
+            "Name": "Balteni",
+            "NameAr": "بالتيني"
+        },
+        {
+            "Code": "144084",
+            "Name": "Baltenii de Sus",
+            "NameAr": "بالتينيي دي سوس"
+        },
+        {
+            "Code": "110796",
+            "Name": "Barlad",
+            "NameAr": "بارلاد"
+        },
+        {
+            "Code": "110521",
+            "Name": "Barsana",
+            "NameAr": "بارسانا"
+        },
+        {
+            "Code": "102205",
+            "Name": "Batiz",
+            "NameAr": "باتيز"
+        },
+        {
+            "Code": "144134",
+            "Name": "Bazna",
+            "NameAr": "بازنا"
+        },
+        {
+            "Code": "148886",
+            "Name": "Bazosu Nou",
+            "NameAr": "بازوسو نوو"
+        },
+        {
+            "Code": "101304",
+            "Name": "Bechet",
+            "NameAr": "بيكهيت"
+        },
+        {
+            "Code": "111641",
+            "Name": "Belis",
+            "NameAr": "بيليس"
+        },
+        {
+            "Code": "155572",
+            "Name": "Bihor County",
+            "NameAr": "بيهور كوونتي"
+        },
+        {
+            "Code": "144259",
+            "Name": "Bistrita",
+            "NameAr": "بيستريتا"
+        },
+        {
+            "Code": "111838",
+            "Name": "Borsa",
+            "NameAr": "بورسا"
+        },
+        {
+            "Code": "111388",
+            "Name": "Borsec",
+            "NameAr": "بورسيك"
+        },
+        {
+            "Code": "112689",
+            "Name": "Botosani",
+            "NameAr": "بوتوساني"
+        },
+        {
+            "Code": "112492",
+            "Name": "Bradu",
+            "NameAr": "برادو"
+        },
+        {
+            "Code": "101430",
+            "Name": "Bragadiru",
+            "NameAr": "براجاديرو"
+        },
+        {
+            "Code": "112531",
+            "Name": "Braila",
+            "NameAr": "برايلا"
+        },
+        {
+            "Code": "112349",
+            "Name": "Bran",
+            "NameAr": "بران"
+        },
+        {
+            "Code": "108080",
+            "Name": "Branesti",
+            "NameAr": "برانيستي"
+        },
+        {
+            "Code": "112093",
+            "Name": "Brasov",
+            "NameAr": "براسوف"
+        },
+        {
+            "Code": "155574",
+            "Name": "Brasov County",
+            "NameAr": "براسوف كوونتي"
+        },
+        {
+            "Code": "108082",
+            "Name": "Breaza",
+            "NameAr": "بريازا"
+        },
+        {
+            "Code": "104872",
+            "Name": "Brezoi",
+            "NameAr": "بريزوي"
+        },
+        {
+            "Code": "101436",
+            "Name": "Broos",
+            "NameAr": "برووس"
+        },
+        {
+            "Code": "113200",
+            "Name": "Bucharest",
+            "NameAr": "بوكهاريست"
+        },
+        {
+            "Code": "112837",
+            "Name": "Busteni",
+            "NameAr": "بوستيني"
+        },
+        {
+            "Code": "113102",
+            "Name": "Buzau",
+            "NameAr": "بوزاو"
+        },
+        {
+            "Code": "108097",
+            "Name": "Buzias",
+            "NameAr": "بوزياس"
+        },
+        {
+            "Code": "113297",
+            "Name": "Caciulata",
+            "NameAr": "كاكيولاتا"
+        },
+        {
+            "Code": "101444",
+            "Name": "Calafat",
+            "NameAr": "كالافات"
+        },
+        {
+            "Code": "113307",
+            "Name": "Calarasi",
+            "NameAr": "كالاراسي"
+        },
+        {
+            "Code": "105337",
+            "Name": "Calimanesti",
+            "NameAr": "كاليمانيستي"
+        },
+        {
+            "Code": "105696",
+            "Name": "Campina",
+            "NameAr": "كامبينا"
+        },
+        {
+            "Code": "113927",
+            "Name": "Campulung",
+            "NameAr": "كامبولونج"
+        },
+        {
+            "Code": "113928",
+            "Name": "Campulung Moldovenesc",
+            "NameAr": "كامبولونج مولدوفينيسك"
+        },
+        {
+            "Code": "105343",
+            "Name": "Cap Aurora",
+            "NameAr": "كاب اورورا"
+        },
+        {
+            "Code": "114191",
+            "Name": "Capu Piscului (Godeni)",
+            "NameAr": "كابو بيسكولوي جوديني"
+        },
+        {
+            "Code": "113365",
+            "Name": "Caracal",
+            "NameAr": "كاراكال"
+        },
+        {
+            "Code": "150492",
+            "Name": "Caransebes",
+            "NameAr": "كارانسيبيس"
+        },
+        {
+            "Code": "305007",
+            "Name": "Carei",
+            "NameAr": "كاريي"
+        },
+        {
+            "Code": "112918",
+            "Name": "Carlibaba",
+            "NameAr": "كارليبابا"
+        },
+        {
+            "Code": "113865",
+            "Name": "Cartisoara",
+            "NameAr": "كارتيسوارا"
+        },
+        {
+            "Code": "101803",
+            "Name": "Cavnic",
+            "NameAr": "كافنيك"
+        },
+        {
+            "Code": "113705",
+            "Name": "Cheia",
+            "NameAr": "كهييا"
+        },
+        {
+            "Code": "114351",
+            "Name": "Chiajna",
+            "NameAr": "كهياجنا"
+        },
+        {
+            "Code": "293236",
+            "Name": "Cluj County",
+            "NameAr": "كلوج كوونتي"
+        },
+        {
+            "Code": "114321",
+            "Name": "Cluj Napoca",
+            "NameAr": "كلوج نابوكا"
+        },
+        {
+            "Code": "105274",
+            "Name": "Comuna Alexandru cel Bun",
+            "NameAr": "كومونا اليكساندرو كيل بون"
+        },
+        {
+            "Code": "144762",
+            "Name": "Constanta",
+            "NameAr": "كونستانتا"
+        },
+        {
+            "Code": "155577",
+            "Name": "Constanta County",
+            "NameAr": "كونستانتا كوونتي"
+        },
+        {
+            "Code": "296797",
+            "Name": "Corbeni",
+            "NameAr": "كوربيني"
+        },
+        {
+            "Code": "286553",
+            "Name": "Cornu de Jos",
+            "NameAr": "كورنو دي جوس"
+        },
+        {
+            "Code": "105460",
+            "Name": "Corunca",
+            "NameAr": "كورونكا"
+        },
+        {
+            "Code": "116561",
+            "Name": "Costinesti",
+            "NameAr": "كوستينيستي"
+        },
+        {
+            "Code": "155570",
+            "Name": "Covasna County",
+            "NameAr": "كوفاسنا كوونتي"
+        },
+        {
+            "Code": "116572",
+            "Name": "Craiova",
+            "NameAr": "كرايوفا"
+        },
+        {
+            "Code": "366139",
+            "Name": "Crisan",
+            "NameAr": "كريسان"
+        },
+        {
+            "Code": "105467",
+            "Name": "Cristian",
+            "NameAr": "كريستيان"
+        },
+        {
+            "Code": "115160",
+            "Name": "Cugir",
+            "NameAr": "كوجير"
+        },
+        {
+            "Code": "106242",
+            "Name": "Cund",
+            "NameAr": "كوند"
+        },
+        {
+            "Code": "115086",
+            "Name": "Curtea De Arges",
+            "NameAr": "كورتيا دي ارجيس"
+        },
+        {
+            "Code": "105995",
+            "Name": "Danes",
+            "NameAr": "دانيس"
+        },
+        {
+            "Code": "115192",
+            "Name": "Darmanesti",
+            "NameAr": "دارمانيستي"
+        },
+        {
+            "Code": "116066",
+            "Name": "Dej",
+            "NameAr": "ديج"
+        },
+        {
+            "Code": "417887",
+            "Name": "Desesti",
+            "NameAr": "ديسيستي"
+        },
+        {
+            "Code": "117351",
+            "Name": "Deva",
+            "NameAr": "ديفا"
+        },
+        {
+            "Code": "289497",
+            "Name": "Dolj County",
+            "NameAr": "دولج كوونتي"
+        },
+        {
+            "Code": "102320",
+            "Name": "Dragoslavele",
+            "NameAr": "دراجوسلافيلي"
+        },
+        {
+            "Code": "117416",
+            "Name": "Drobeta Turnu Severin",
+            "NameAr": "دروبيتا تورنو سيفيرين"
+        },
+        {
+            "Code": "417229",
+            "Name": "Dubova",
+            "NameAr": "دوبوفا"
+        },
+        {
+            "Code": "116456",
+            "Name": "Dunavatu de Jos",
+            "NameAr": "دونافاتو دي جوس"
+        },
+        {
+            "Code": "104962",
+            "Name": "Durau",
+            "NameAr": "دوراو"
+        },
+        {
+            "Code": "117072",
+            "Name": "Eforie Nord",
+            "NameAr": "يفوريي نورد"
+        },
+        {
+            "Code": "117118",
+            "Name": "Eforie Sud",
+            "NameAr": "يفوريي سود"
+        },
+        {
+            "Code": "117579",
+            "Name": "Fagaras",
+            "NameAr": "فاجاراس"
+        },
+        {
+            "Code": "117282",
+            "Name": "Faget",
+            "NameAr": "فاجيت"
+        },
+        {
+            "Code": "101715",
+            "Name": "Falticeni",
+            "NameAr": "فالتيكيني"
+        },
+        {
+            "Code": "102392",
+            "Name": "Fieni",
+            "NameAr": "فييني"
+        },
+        {
+            "Code": "118583",
+            "Name": "Floresti",
+            "NameAr": "فلوريستي"
+        },
+        {
+            "Code": "118854",
+            "Name": "Focsani",
+            "NameAr": "فوكساني"
+        },
+        {
+            "Code": "145279",
+            "Name": "Frumoasa (Harghita)",
+            "NameAr": "فرومواسا هارجهيتا"
+        },
+        {
+            "Code": "105807",
+            "Name": "Gaesti",
+            "NameAr": "جايستي"
+        },
+        {
+            "Code": "117982",
+            "Name": "Gaiesti",
+            "NameAr": "جاييستي"
+        },
+        {
+            "Code": "118919",
+            "Name": "Galati",
+            "NameAr": "جالاتي"
+        },
+        {
+            "Code": "118954",
+            "Name": "Geoagiu-Bai",
+            "NameAr": "جيواجيو-باي"
+        },
+        {
+            "Code": "119657",
+            "Name": "Gheorgheni",
+            "NameAr": "جهيورجهيني"
+        },
+        {
+            "Code": "108253",
+            "Name": "Gherla",
+            "NameAr": "جهيرلا"
+        },
+        {
+            "Code": "118691",
+            "Name": "Ghimbav",
+            "NameAr": "جهيمباف"
+        },
+        {
+            "Code": "120319",
+            "Name": "Gilau",
+            "NameAr": "جيلاو"
+        },
+        {
+            "Code": "102481",
+            "Name": "Giurgiu",
+            "NameAr": "جيورجيو"
+        },
+        {
+            "Code": "155567",
+            "Name": "Gorj County",
+            "NameAr": "جورج كوونتي"
+        },
+        {
+            "Code": "121102",
+            "Name": "Gro? Sankt Nikolaus",
+            "NameAr": "جرو سانكت نيكولاوس"
+        },
+        {
+            "Code": "106120",
+            "Name": "Gro?scheuern",
+            "NameAr": "جروسكهيويرن"
+        },
+        {
+            "Code": "120064",
+            "Name": "Gura Humorului",
+            "NameAr": "جورا هومورولوي"
+        },
+        {
+            "Code": "120065",
+            "Name": "Gura Raului",
+            "NameAr": "جورا راولوي"
+        },
+        {
+            "Code": "105934",
+            "Name": "Gura Siriului",
+            "NameAr": "جورا سيريولوي"
+        },
+        {
+            "Code": "280716",
+            "Name": "Hangu",
+            "NameAr": "هانجو"
+        },
+        {
+            "Code": "145537",
+            "Name": "Harau",
+            "NameAr": "هاراو"
+        },
+        {
+            "Code": "305749",
+            "Name": "Harghita county",
+            "NameAr": "هارجهيتا كوونتي"
+        },
+        {
+            "Code": "120499",
+            "Name": "Hateg",
+            "NameAr": "هاتيج"
+        },
+        {
+            "Code": "145668",
+            "Name": "Horezu",
+            "NameAr": "هوريزو"
+        },
+        {
+            "Code": "145700",
+            "Name": "Hunedoara",
+            "NameAr": "هونيدوارا"
+        },
+        {
+            "Code": "122650",
+            "Name": "Husi",
+            "NameAr": "هوسي"
+        },
+        {
+            "Code": "155761",
+            "Name": "Ialomita County",
+            "NameAr": "يالوميتا كوونتي"
+        },
+        {
+            "Code": "121441",
+            "Name": "Iasi",
+            "NameAr": "ياسي"
+        },
+        {
+            "Code": "101929",
+            "Name": "Ineu",
+            "NameAr": "ينيو"
+        },
+        {
+            "Code": "102358",
+            "Name": "Jerischmarkt",
+            "NameAr": "جيريسكهماركت"
+        },
+        {
+            "Code": "105626",
+            "Name": "Jucu de Sus",
+            "NameAr": "جوكو دي سوس"
+        },
+        {
+            "Code": "108346",
+            "Name": "Judetul Alba",
+            "NameAr": "جوديتول البا"
+        },
+        {
+            "Code": "145850",
+            "Name": "Jupiter",
+            "NameAr": "جوبيتير"
+        },
+        {
+            "Code": "417364",
+            "Name": "Jurilovca",
+            "NameAr": "جوريلوفكا"
+        },
+        {
+            "Code": "102555",
+            "Name": "Kirok",
+            "NameAr": "كيروك"
+        },
+        {
+            "Code": "104125",
+            "Name": "Kovasna",
+            "NameAr": "كوفاسنا"
+        },
+        {
+            "Code": "417317",
+            "Name": "Labasint",
+            "NameAr": "لاباسينت"
+        },
+        {
+            "Code": "101992",
+            "Name": "Lacu Rosu",
+            "NameAr": "لاكو روسو"
+        },
+        {
+            "Code": "146382",
+            "Name": "Lugoj",
+            "NameAr": "لوجوج"
+        },
+        {
+            "Code": "127347",
+            "Name": "Magura",
+            "NameAr": "ماجورا"
+        },
+        {
+            "Code": "103782",
+            "Name": "Mahmudia",
+            "NameAr": "ماهموديا"
+        },
+        {
+            "Code": "102600",
+            "Name": "Maliuc",
+            "NameAr": "ماليوك"
+        },
+        {
+            "Code": "126138",
+            "Name": "Mamaia",
+            "NameAr": "مامايا"
+        },
+        {
+            "Code": "126797",
+            "Name": "Manastirea Humorului",
+            "NameAr": "ماناستيريا هومورولوي"
+        },
+        {
+            "Code": "127375",
+            "Name": "Mangalia",
+            "NameAr": "مانجاليا"
+        },
+        {
+            "Code": "417482",
+            "Name": "Marghita",
+            "NameAr": "مارجهيتا"
+        },
+        {
+            "Code": "417055",
+            "Name": "Maxut",
+            "NameAr": "ماكسوت"
+        },
+        {
+            "Code": "126485",
+            "Name": "Medias",
+            "NameAr": "ميدياس"
+        },
+        {
+            "Code": "155571",
+            "Name": "Mehedinti County",
+            "NameAr": "ميهيدينتي كوونتي"
+        },
+        {
+            "Code": "128850",
+            "Name": "Miercurea Sibiului",
+            "NameAr": "مييركوريا سيبيولوي"
+        },
+        {
+            "Code": "128591",
+            "Name": "Miercurea-Ciuc",
+            "NameAr": "مييركوريا-كيوك"
+        },
+        {
+            "Code": "127214",
+            "Name": "Mioveni",
+            "NameAr": "ميوفيني"
+        },
+        {
+            "Code": "102817",
+            "Name": "Mogosoaia",
+            "NameAr": "موجوسوايا"
+        },
+        {
+            "Code": "146664",
+            "Name": "Moieciu",
+            "NameAr": "موييكيو"
+        },
+        {
+            "Code": "128895",
+            "Name": "Moieciu de Sus",
+            "NameAr": "موييكيو دي سوس"
+        },
+        {
+            "Code": "146667",
+            "Name": "Moldovita",
+            "NameAr": "مولدوفيتا"
+        },
+        {
+            "Code": "103831",
+            "Name": "Moneasa",
+            "NameAr": "مونياسا"
+        },
+        {
+            "Code": "104247",
+            "Name": "Moreni",
+            "NameAr": "موريني"
+        },
+        {
+            "Code": "102011",
+            "Name": "Moroeni",
+            "NameAr": "مورويني"
+        },
+        {
+            "Code": "155573",
+            "Name": "Mures County",
+            "NameAr": "موريس كوونتي"
+        },
+        {
+            "Code": "103003",
+            "Name": "Murighiol",
+            "NameAr": "موريجهيول"
+        },
+        {
+            "Code": "129238",
+            "Name": "Musetesti",
+            "NameAr": "موسيتيستي"
+        },
+        {
+            "Code": "104513",
+            "Name": "Navodari",
+            "NameAr": "نافوداري"
+        },
+        {
+            "Code": "104810",
+            "Name": "Negreni",
+            "NameAr": "نيجريني"
+        },
+        {
+            "Code": "102864",
+            "Name": "Negresti Oas",
+            "NameAr": "نيجريستي واس"
+        },
+        {
+            "Code": "129196",
+            "Name": "Neptun",
+            "NameAr": "نيبتون"
+        },
+        {
+            "Code": "130044",
+            "Name": "Nucet",
+            "NameAr": "نوكيت"
+        },
+        {
+            "Code": "104390",
+            "Name": "Obermuhlendorf",
+            "NameAr": "وبيرموهليندورف"
+        },
+        {
+            "Code": "131241",
+            "Name": "Ocna Sibiului",
+            "NameAr": "وكنا سيبيولوي"
+        },
+        {
+            "Code": "103038",
+            "Name": "Ocna Sugatag",
+            "NameAr": "وكنا سوجاتاج"
+        },
+        {
+            "Code": "131889",
+            "Name": "Odorheiu Secuiesc",
+            "NameAr": "ودورهييو سيكوييسك"
+        },
+        {
+            "Code": "417228",
+            "Name": "Ogra",
+            "NameAr": "وجرا"
+        },
+        {
+            "Code": "130964",
+            "Name": "Olanesti",
+            "NameAr": "ولانيستي"
+        },
+        {
+            "Code": "131912",
+            "Name": "Olimp",
+            "NameAr": "وليمب"
+        },
+        {
+            "Code": "155578",
+            "Name": "Olt County",
+            "NameAr": "ولت كوونتي"
+        },
+        {
+            "Code": "417312",
+            "Name": "Oltenita",
+            "NameAr": "ولتينيتا"
+        },
+        {
+            "Code": "147015",
+            "Name": "Oradea",
+            "NameAr": "وراديا"
+        },
+        {
+            "Code": "104566",
+            "Name": "Oravita",
+            "NameAr": "ورافيتا"
+        },
+        {
+            "Code": "130698",
+            "Name": "Orsova",
+            "NameAr": "ورسوفا"
+        },
+        {
+            "Code": "131959",
+            "Name": "Osorhei",
+            "NameAr": "وسورهيي"
+        },
+        {
+            "Code": "103048",
+            "Name": "Otelu Rosu",
+            "NameAr": "وتيلو روسو"
+        },
+        {
+            "Code": "131696",
+            "Name": "Otopeni",
+            "NameAr": "وتوبيني"
+        },
+        {
+            "Code": "131714",
+            "Name": "Padis",
+            "NameAr": "باديس"
+        },
+        {
+            "Code": "130998",
+            "Name": "Paltinis (Sibiu)",
+            "NameAr": "بالتينيس سيبيو"
+        },
+        {
+            "Code": "417400",
+            "Name": "Pascani",
+            "NameAr": "باسكاني"
+        },
+        {
+            "Code": "104213",
+            "Name": "Paulestii Noi",
+            "NameAr": "باوليستيي نوي"
+        },
+        {
+            "Code": "102896",
+            "Name": "Pecica",
+            "NameAr": "بيكيكا"
+        },
+        {
+            "Code": "132099",
+            "Name": "Periprava",
+            "NameAr": "بيريبرافا"
+        },
+        {
+            "Code": "131512",
+            "Name": "Petrosani",
+            "NameAr": "بيتروساني"
+        },
+        {
+            "Code": "102901",
+            "Name": "Pianu de Jos",
+            "NameAr": "بيانو دي جوس"
+        },
+        {
+            "Code": "131626",
+            "Name": "Piatra Fantanele",
+            "NameAr": "بياترا فانتانيلي"
+        },
+        {
+            "Code": "131627",
+            "Name": "Piatra Neamt",
+            "NameAr": "بياترا نيامت"
+        },
+        {
+            "Code": "132816",
+            "Name": "Pitesti",
+            "NameAr": "بيتيستي"
+        },
+        {
+            "Code": "147245",
+            "Name": "Ploiesti",
+            "NameAr": "بلوييستي"
+        },
+        {
+            "Code": "417505",
+            "Name": "Podu Cosnei",
+            "NameAr": "بودو كوسنيي"
+        },
+        {
+            "Code": "147259",
+            "Name": "Poiana Brasov",
+            "NameAr": "بويانا براسوف"
+        },
+        {
+            "Code": "257072",
+            "Name": "Poiana Marului",
+            "NameAr": "بويانا مارولوي"
+        },
+        {
+            "Code": "286550",
+            "Name": "Ponoarele",
+            "NameAr": "بونواريلي"
+        },
+        {
+            "Code": "132984",
+            "Name": "Potlogi",
+            "NameAr": "بوتلوجي"
+        },
+        {
+            "Code": "155765",
+            "Name": "Prahova County",
+            "NameAr": "براهوفا كوونتي"
+        },
+        {
+            "Code": "103079",
+            "Name": "Praid",
+            "NameAr": "برايد"
+        },
+        {
+            "Code": "132959",
+            "Name": "Predeal",
+            "NameAr": "بريديال"
+        },
+        {
+            "Code": "102099",
+            "Name": "Pucioasa",
+            "NameAr": "بوكيواسا"
+        },
+        {
+            "Code": "133164",
+            "Name": "Radauti",
+            "NameAr": "راداوتي"
+        },
+        {
+            "Code": "133758",
+            "Name": "Ramnicu Valcea",
+            "NameAr": "رامنيكو فالكيا"
+        },
+        {
+            "Code": "133677",
+            "Name": "Ranca",
+            "NameAr": "رانكا"
+        },
+        {
+            "Code": "134707",
+            "Name": "Rasnov",
+            "NameAr": "راسنوف"
+        },
+        {
+            "Code": "134729",
+            "Name": "Reghin",
+            "NameAr": "ريجهين"
+        },
+        {
+            "Code": "102684",
+            "Name": "Reps",
+            "NameAr": "ريبس"
+        },
+        {
+            "Code": "147496",
+            "Name": "Resita",
+            "NameAr": "ريسيتا"
+        },
+        {
+            "Code": "134964",
+            "Name": "Roman",
+            "NameAr": "رومان"
+        },
+        {
+            "Code": "103215",
+            "Name": "Sacadat",
+            "NameAr": "ساكادات"
+        },
+        {
+            "Code": "147601",
+            "Name": "Sacele",
+            "NameAr": "ساكيلي"
+        },
+        {
+            "Code": "134687",
+            "Name": "Saftica",
+            "NameAr": "سافتيكا"
+        },
+        {
+            "Code": "108462",
+            "Name": "Sahuayo",
+            "NameAr": "ساهوايو"
+        },
+        {
+            "Code": "294778",
+            "Name": "Salaj",
+            "NameAr": "سالاج"
+        },
+        {
+            "Code": "147669",
+            "Name": "Saliste",
+            "NameAr": "ساليستي"
+        },
+        {
+            "Code": "103131",
+            "Name": "Salonta",
+            "NameAr": "سالونتا"
+        },
+        {
+            "Code": "108494",
+            "Name": "Sankt Georgen",
+            "NameAr": "سانكت جيورجين"
+        },
+        {
+            "Code": "136356",
+            "Name": "Sanmartin",
+            "NameAr": "سانمارتين"
+        },
+        {
+            "Code": "147727",
+            "Name": "Sanpetru",
+            "NameAr": "سانبيترو"
+        },
+        {
+            "Code": "136546",
+            "Name": "Sarata Monteoru",
+            "NameAr": "ساراتا مونتيورو"
+        },
+        {
+            "Code": "136562",
+            "Name": "Satu Mare",
+            "NameAr": "ساتو ماري"
+        },
+        {
+            "Code": "155764",
+            "Name": "Satu Mare County",
+            "NameAr": "ساتو ماري كوونتي"
+        },
+        {
+            "Code": "136912",
+            "Name": "Saturn",
+            "NameAr": "ساتورن"
+        },
+        {
+            "Code": "103379",
+            "Name": "Sebes (Muhlbach)",
+            "NameAr": "سيبيس موهلباكه"
+        },
+        {
+            "Code": "417407",
+            "Name": "Seini",
+            "NameAr": "سييني"
+        },
+        {
+            "Code": "137562",
+            "Name": "Sfantu Gheorghe",
+            "NameAr": "سفانتو جهيورجهي"
+        },
+        {
+            "Code": "138679",
+            "Name": "Sibiel",
+            "NameAr": "سيبييل"
+        },
+        {
+            "Code": "137757",
+            "Name": "Sibiu",
+            "NameAr": "سيبيو"
+        },
+        {
+            "Code": "417031",
+            "Name": "Sibiu County",
+            "NameAr": "سيبيو كوونتي"
+        },
+        {
+            "Code": "137762",
+            "Name": "Sighetu Marmatiei",
+            "NameAr": "سيجهيتو مارماتييي"
+        },
+        {
+            "Code": "137330",
+            "Name": "Sighisoara",
+            "NameAr": "سيجهيسوارا"
+        },
+        {
+            "Code": "137024",
+            "Name": "Simian (Mehedinti)",
+            "NameAr": "سيميان ميهيدينتي"
+        },
+        {
+            "Code": "138003",
+            "Name": "Sinaia",
+            "NameAr": "سينايا"
+        },
+        {
+            "Code": "274722",
+            "Name": "Siret",
+            "NameAr": "سيريت"
+        },
+        {
+            "Code": "138109",
+            "Name": "Slanic-Moldova",
+            "NameAr": "سلانيك-مولدوفا"
+        },
+        {
+            "Code": "138456",
+            "Name": "Slatina",
+            "NameAr": "سلاتينا"
+        },
+        {
+            "Code": "106327",
+            "Name": "Slobozia",
+            "NameAr": "سلوبوزيا"
+        },
+        {
+            "Code": "138122",
+            "Name": "Snagov",
+            "NameAr": "سناجوف"
+        },
+        {
+            "Code": "358132",
+            "Name": "Somova",
+            "NameAr": "سوموفا"
+        },
+        {
+            "Code": "138347",
+            "Name": "Sovata",
+            "NameAr": "سوفاتا"
+        },
+        {
+            "Code": "108564",
+            "Name": "Stana de Vale",
+            "NameAr": "ستانا دي فالي"
+        },
+        {
+            "Code": "106927",
+            "Name": "Stefanesti",
+            "NameAr": "ستيفانيستي"
+        },
+        {
+            "Code": "139087",
+            "Name": "Stei",
+            "NameAr": "ستيي"
+        },
+        {
+            "Code": "148092",
+            "Name": "Suceava",
+            "NameAr": "سوكيافا"
+        },
+        {
+            "Code": "155569",
+            "Name": "Suceava County",
+            "NameAr": "سوكيافا كوونتي"
+        },
+        {
+            "Code": "138953",
+            "Name": "Sucevita",
+            "NameAr": "سوكيفيتا"
+        },
+        {
+            "Code": "107140",
+            "Name": "Sugag-Tau",
+            "NameAr": "سوجاج-تاو"
+        },
+        {
+            "Code": "107751",
+            "Name": "Suhaia",
+            "NameAr": "سوهايا"
+        },
+        {
+            "Code": "138961",
+            "Name": "Sulina",
+            "NameAr": "سولينا"
+        },
+        {
+            "Code": "106366",
+            "Name": "Talisoara",
+            "NameAr": "تاليسوارا"
+        },
+        {
+            "Code": "148157",
+            "Name": "Targoviste",
+            "NameAr": "تارجوفيستي"
+        },
+        {
+            "Code": "138583",
+            "Name": "Targu Jiu",
+            "NameAr": "تارجو جيو"
+        },
+        {
+            "Code": "139922",
+            "Name": "Targu Mures",
+            "NameAr": "تارجو موريس"
+        },
+        {
+            "Code": "139923",
+            "Name": "Targu Neamt",
+            "NameAr": "تارجو نيامت"
+        },
+        {
+            "Code": "139684",
+            "Name": "Targu Ocna",
+            "NameAr": "تارجو وكنا"
+        },
+        {
+            "Code": "139030",
+            "Name": "Targu Secuiesc",
+            "NameAr": "تارجو سيكوييسك"
+        },
+        {
+            "Code": "106826",
+            "Name": "Tarnaveni",
+            "NameAr": "تارنافيني"
+        },
+        {
+            "Code": "106375",
+            "Name": "Tau Bistra",
+            "NameAr": "تاو بيسترا"
+        },
+        {
+            "Code": "139935",
+            "Name": "Techirghiol",
+            "NameAr": "تيكهيرجهيول"
+        },
+        {
+            "Code": "107086",
+            "Name": "Tecuci",
+            "NameAr": "تيكوكي"
+        },
+        {
+            "Code": "417392",
+            "Name": "Timis County",
+            "NameAr": "تيميس كوونتي"
+        },
+        {
+            "Code": "140439",
+            "Name": "Timisoara",
+            "NameAr": "تيميسوارا"
+        },
+        {
+            "Code": "108610",
+            "Name": "Timisu de Sus",
+            "NameAr": "تيميسو دي سوس"
+        },
+        {
+            "Code": "107099",
+            "Name": "Tismana",
+            "NameAr": "تيسمانا"
+        },
+        {
+            "Code": "139837",
+            "Name": "Tulcea",
+            "NameAr": "تولكيا"
+        },
+        {
+            "Code": "155766",
+            "Name": "Tulcea County",
+            "NameAr": "تولكيا كوونتي"
+        },
+        {
+            "Code": "141527",
+            "Name": "Turda",
+            "NameAr": "توردا"
+        },
+        {
+            "Code": "140678",
+            "Name": "Turia",
+            "NameAr": "توريا"
+        },
+        {
+            "Code": "107209",
+            "Name": "Urziceni",
+            "NameAr": "ورزيكيني"
+        },
+        {
+            "Code": "140570",
+            "Name": "Uzlina",
+            "NameAr": "وزلينا"
+        },
+        {
+            "Code": "417327",
+            "Name": "Valcea County",
+            "NameAr": "فالكيا كوونتي"
+        },
+        {
+            "Code": "106872",
+            "Name": "Valea Calugareasca",
+            "NameAr": "فاليا كالوجارياسكا"
+        },
+        {
+            "Code": "141595",
+            "Name": "Valea Draganului",
+            "NameAr": "فاليا دراجانولوي"
+        },
+        {
+            "Code": "141598",
+            "Name": "Valenii de Munte",
+            "NameAr": "فالينيي دي مونتي"
+        },
+        {
+            "Code": "141445",
+            "Name": "Vama",
+            "NameAr": "فاما"
+        },
+        {
+            "Code": "107852",
+            "Name": "Vama Veche",
+            "NameAr": "فاما فيكهي"
+        },
+        {
+            "Code": "142543",
+            "Name": "Vaslui",
+            "NameAr": "فاسلوي"
+        },
+        {
+            "Code": "140183",
+            "Name": "Vata de Jos",
+            "NameAr": "فاتا دي جوس"
+        },
+        {
+            "Code": "148442",
+            "Name": "Vatra Dornei",
+            "NameAr": "فاترا دورنيي"
+        },
+        {
+            "Code": "141170",
+            "Name": "Venus",
+            "NameAr": "فينوس"
+        },
+        {
+            "Code": "148488",
+            "Name": "Vidra",
+            "NameAr": "فيدرا"
+        },
+        {
+            "Code": "397484",
+            "Name": "Vintu de Jos",
+            "NameAr": "فينتو دي جوس"
+        },
+        {
+            "Code": "141902",
+            "Name": "Viseu de Sus",
+            "NameAr": "فيسيو دي سوس"
+        },
+        {
+            "Code": "107483",
+            "Name": "Voineasa",
+            "NameAr": "فوينياسا"
+        },
+        {
+            "Code": "148562",
+            "Name": "Voluntari",
+            "NameAr": "فولونتاري"
+        },
+        {
+            "Code": "143659",
+            "Name": "Zalau",
+            "NameAr": "زالاو"
+        },
+        {
+            "Code": "142950",
+            "Name": "Zimnicea",
+            "NameAr": "زيمنيكيا"
+        }
+    ],
+    "totalCities": 288
+}

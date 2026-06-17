@@ -1,0 +1,27 @@
+{
+    "id": "FO",
+    "countryCode": "FO",
+    "cities": [
+        {
+            "Code": "150450",
+            "Name": "Faroe Islands",
+            "NameAr": "فاروي يسلاندس"
+        },
+        {
+            "Code": "160870",
+            "Name": "Gjogv",
+            "NameAr": "ججوجف"
+        },
+        {
+            "Code": "138145",
+            "Name": "Sorvagur",
+            "NameAr": "سورفاجور"
+        },
+        {
+            "Code": "140072",
+            "Name": "Torshavn",
+            "NameAr": "تورسهافن"
+        }
+    ],
+    "totalCities": 4
+}

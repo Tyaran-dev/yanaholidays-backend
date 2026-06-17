@@ -1,0 +1,272 @@
+{
+    "id": "FJ",
+    "countryCode": "FJ",
+    "cities": [
+        {
+            "Code": "109779",
+            "Name": "Ba",
+            "NameAr": "با"
+        },
+        {
+            "Code": "110900",
+            "Name": "Beachcomber Island",
+            "NameAr": "بياكهكومبير يسلاند"
+        },
+        {
+            "Code": "110950",
+            "Name": "Beqa Island",
+            "NameAr": "بيقا يسلاند"
+        },
+        {
+            "Code": "150714",
+            "Name": "Bureta",
+            "NameAr": "بوريتا"
+        },
+        {
+            "Code": "114222",
+            "Name": "Castaway Island",
+            "NameAr": "كاستاواي يسلاند"
+        },
+        {
+            "Code": "115284",
+            "Name": "Coral Coast",
+            "NameAr": "كورال كواست"
+        },
+        {
+            "Code": "368018",
+            "Name": "Denarau Island",
+            "NameAr": "ديناراو يسلاند"
+        },
+        {
+            "Code": "118448",
+            "Name": "Fiji",
+            "NameAr": "فيجي"
+        },
+        {
+            "Code": "122693",
+            "Name": "Insel Bounty",
+            "NameAr": "ينسيل بوونتي"
+        },
+        {
+            "Code": "122694",
+            "Name": "Insel Dolphin",
+            "NameAr": "ينسيل دولبهين"
+        },
+        {
+            "Code": "121476",
+            "Name": "Insel Kadavu",
+            "NameAr": "ينسيل كادافو"
+        },
+        {
+            "Code": "121477",
+            "Name": "Insel Laucala",
+            "NameAr": "ينسيل لاوكالا"
+        },
+        {
+            "Code": "121478",
+            "Name": "Insel Malolo Lailai",
+            "NameAr": "ينسيل مالولو لايلاي"
+        },
+        {
+            "Code": "121079",
+            "Name": "Insel Mana",
+            "NameAr": "ينسيل مانا"
+        },
+        {
+            "Code": "145759",
+            "Name": "Insel Qamea",
+            "NameAr": "ينسيل قاميا"
+        },
+        {
+            "Code": "122015",
+            "Name": "Insel Tavewa",
+            "NameAr": "ينسيل تافيوا"
+        },
+        {
+            "Code": "151131",
+            "Name": "Koro Island",
+            "NameAr": "كورو يسلاند"
+        },
+        {
+            "Code": "151200",
+            "Name": "Korolevu",
+            "NameAr": "كوروليفو"
+        },
+        {
+            "Code": "124375",
+            "Name": "Labasa",
+            "NameAr": "لاباسا"
+        },
+        {
+            "Code": "125805",
+            "Name": "Lautoka",
+            "NameAr": "لاوتوكا"
+        },
+        {
+            "Code": "103978",
+            "Name": "Lauwaki",
+            "NameAr": "لاوواكي"
+        },
+        {
+            "Code": "126790",
+            "Name": "Malolo Island",
+            "NameAr": "مالولو يسلاند"
+        },
+        {
+            "Code": "338811",
+            "Name": "Mamanuca Islands",
+            "NameAr": "مامانوكا يسلاندس"
+        },
+        {
+            "Code": "128151",
+            "Name": "Matamanoa Island",
+            "NameAr": "ماتامانوا يسلاند"
+        },
+        {
+            "Code": "127024",
+            "Name": "Matangi Island",
+            "NameAr": "ماتانجي يسلاند"
+        },
+        {
+            "Code": "106490",
+            "Name": "Maui Bay",
+            "NameAr": "ماوي باي"
+        },
+        {
+            "Code": "150638",
+            "Name": "Moala",
+            "NameAr": "موالا"
+        },
+        {
+            "Code": "129123",
+            "Name": "Nacula Island",
+            "NameAr": "ناكولا يسلاند"
+        },
+        {
+            "Code": "129250",
+            "Name": "Nadi",
+            "NameAr": "نادي"
+        },
+        {
+            "Code": "129779",
+            "Name": "Naigani Island",
+            "NameAr": "نايجاني يسلاند"
+        },
+        {
+            "Code": "130363",
+            "Name": "Nanuya Lailai Island",
+            "NameAr": "نانويا لايلاي يسلاند"
+        },
+        {
+            "Code": "146823",
+            "Name": "Naviti Island",
+            "NameAr": "نافيتي يسلاند"
+        },
+        {
+            "Code": "294590",
+            "Name": "Nawi",
+            "NameAr": "ناوي"
+        },
+        {
+            "Code": "368017",
+            "Name": "Nukubati Island",
+            "NameAr": "نوكوباتي يسلاند"
+        },
+        {
+            "Code": "102065",
+            "Name": "Ono Island",
+            "NameAr": "ونو يسلاند"
+        },
+        {
+            "Code": "130304",
+            "Name": "Pacific Harbour",
+            "NameAr": "باكيفيك هاربوور"
+        },
+        {
+            "Code": "134212",
+            "Name": "Rakiraki",
+            "NameAr": "راكيراكي"
+        },
+        {
+            "Code": "137220",
+            "Name": "Savusavu",
+            "NameAr": "سافوسافو"
+        },
+        {
+            "Code": "136309",
+            "Name": "Sigatoka",
+            "NameAr": "سيجاتوكا"
+        },
+        {
+            "Code": "139872",
+            "Name": "Suva",
+            "NameAr": "سوفا"
+        },
+        {
+            "Code": "139036",
+            "Name": "Taveuni Island",
+            "NameAr": "تافيوني يسلاند"
+        },
+        {
+            "Code": "139323",
+            "Name": "Toberua Island",
+            "NameAr": "توبيروا يسلاند"
+        },
+        {
+            "Code": "140052",
+            "Name": "Tokoriki Island",
+            "NameAr": "توكوريكي يسلاند"
+        },
+        {
+            "Code": "140513",
+            "Name": "Treasure Island",
+            "NameAr": "ترياسوري يسلاند"
+        },
+        {
+            "Code": "151035",
+            "Name": "Turtle Island",
+            "NameAr": "تورتلي يسلاند"
+        },
+        {
+            "Code": "150770",
+            "Name": "Vanuabalavu",
+            "NameAr": "فانوابالافو"
+        },
+        {
+            "Code": "148443",
+            "Name": "Vatulele Island",
+            "NameAr": "فاتوليلي يسلاند"
+        },
+        {
+            "Code": "142199",
+            "Name": "Viti Levu",
+            "NameAr": "فيتي ليفو"
+        },
+        {
+            "Code": "140933",
+            "Name": "Viwa Island",
+            "NameAr": "فيوا يسلاند"
+        },
+        {
+            "Code": "142371",
+            "Name": "Vomo Island",
+            "NameAr": "فومو يسلاند"
+        },
+        {
+            "Code": "141404",
+            "Name": "Wakaya Island",
+            "NameAr": "واكايا يسلاند"
+        },
+        {
+            "Code": "148760",
+            "Name": "Yaqeta Island",
+            "NameAr": "ياقيتا يسلاند"
+        },
+        {
+            "Code": "143642",
+            "Name": "Yasawa Island",
+            "NameAr": "ياساوا يسلاند"
+        }
+    ],
+    "totalCities": 53
+}

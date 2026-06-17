@@ -1,0 +1,132 @@
+{
+    "id": "HN",
+    "countryCode": "HN",
+    "cities": [
+        {
+            "Code": "102112",
+            "Name": "Barra de Chapagua",
+            "NameAr": "باررا دي كهاباجوا"
+        },
+        {
+            "Code": "144132",
+            "Name": "Bay Island",
+            "NameAr": "باي يسلاند"
+        },
+        {
+            "Code": "144581",
+            "Name": "Catacamas",
+            "NameAr": "كاتاكاماس"
+        },
+        {
+            "Code": "151436",
+            "Name": "Comayagua",
+            "NameAr": "كوماياجوا"
+        },
+        {
+            "Code": "144769",
+            "Name": "Copan",
+            "NameAr": "كوبان"
+        },
+        {
+            "Code": "105983",
+            "Name": "Copan Ruinas",
+            "NameAr": "كوبان رويناس"
+        },
+        {
+            "Code": "105768",
+            "Name": "Danli",
+            "NameAr": "دانلي"
+        },
+        {
+            "Code": "116998",
+            "Name": "Dixon Cove",
+            "NameAr": "ديكسون كوفي"
+        },
+        {
+            "Code": "118759",
+            "Name": "Gracias",
+            "NameAr": "جراكياس"
+        },
+        {
+            "Code": "151457",
+            "Name": "Guanaja",
+            "NameAr": "جواناجا"
+        },
+        {
+            "Code": "106168",
+            "Name": "Juticalpa",
+            "NameAr": "جوتيكالبا"
+        },
+        {
+            "Code": "123373",
+            "Name": "La Ceiba",
+            "NameAr": "لا كييبا"
+        },
+        {
+            "Code": "150394",
+            "Name": "La Esperanza",
+            "NameAr": "لا يسبيرانزا"
+        },
+        {
+            "Code": "106565",
+            "Name": "Omoa",
+            "NameAr": "وموا"
+        },
+        {
+            "Code": "132566",
+            "Name": "Puerto Cortes",
+            "NameAr": "بويرتو كورتيس"
+        },
+        {
+            "Code": "133374",
+            "Name": "Roatan",
+            "NameAr": "رواتان"
+        },
+        {
+            "Code": "148982",
+            "Name": "San Buenaventura",
+            "NameAr": "سان بوينافينتورا"
+        },
+        {
+            "Code": "103350",
+            "Name": "San Ignacio",
+            "NameAr": "سان يجناكيو"
+        },
+        {
+            "Code": "136199",
+            "Name": "San Pedro Sula",
+            "NameAr": "سان بيدرو سولا"
+        },
+        {
+            "Code": "151262",
+            "Name": "Santa Rosa Copan",
+            "NameAr": "سانتا روسا كوبان"
+        },
+        {
+            "Code": "103516",
+            "Name": "Santa Rosa de Copan",
+            "NameAr": "سانتا روسا دي كوبان"
+        },
+        {
+            "Code": "139705",
+            "Name": "Tegucigalpa",
+            "NameAr": "تيجوكيجالبا"
+        },
+        {
+            "Code": "139584",
+            "Name": "Tela",
+            "NameAr": "تيلا"
+        },
+        {
+            "Code": "151601",
+            "Name": "Trujillo",
+            "NameAr": "تروجيللو"
+        },
+        {
+            "Code": "148399",
+            "Name": "Utila",
+            "NameAr": "وتيلا"
+        }
+    ],
+    "totalCities": 25
+}

@@ -1,0 +1,112 @@
+{
+    "id": "RW",
+    "countryCode": "RW",
+    "cities": [
+        {
+            "Code": "100275",
+            "Name": "Akagera",
+            "NameAr": "اكاجيرا"
+        },
+        {
+            "Code": "113021",
+            "Name": "Butare",
+            "NameAr": "بوتاري"
+        },
+        {
+            "Code": "102411",
+            "Name": "Gikondo",
+            "NameAr": "جيكوندو"
+        },
+        {
+            "Code": "149506",
+            "Name": "Gisenyi",
+            "NameAr": "جيسينيي"
+        },
+        {
+            "Code": "417826",
+            "Name": "Kagano",
+            "NameAr": "كاجانو"
+        },
+        {
+            "Code": "352658",
+            "Name": "Kamembe (KME)",
+            "NameAr": "كاميمبي كمي"
+        },
+        {
+            "Code": "402848",
+            "Name": "Karongi",
+            "NameAr": "كارونجي"
+        },
+        {
+            "Code": "149505",
+            "Name": "Kayonza",
+            "NameAr": "كايونزا"
+        },
+        {
+            "Code": "123155",
+            "Name": "Kibuye",
+            "NameAr": "كيبويي"
+        },
+        {
+            "Code": "149507",
+            "Name": "Kigali",
+            "NameAr": "كيجالي"
+        },
+        {
+            "Code": "149510",
+            "Name": "Kinazi",
+            "NameAr": "كينازي"
+        },
+        {
+            "Code": "208802",
+            "Name": "Kinigi",
+            "NameAr": "كينيجي"
+        },
+        {
+            "Code": "124509",
+            "Name": "Lake Kivu",
+            "NameAr": "لاكي كيفو"
+        },
+        {
+            "Code": "124093",
+            "Name": "Lake Muhazi",
+            "NameAr": "لاكي موهازي"
+        },
+        {
+            "Code": "263065",
+            "Name": "Nyagatare",
+            "NameAr": "نياجاتاري"
+        },
+        {
+            "Code": "149508",
+            "Name": "Nyungwe Forest Reserve",
+            "NameAr": "نيونجوي فوريست ريسيرفي"
+        },
+        {
+            "Code": "146937",
+            "Name": "Nyungwe-Wald",
+            "NameAr": "نيونجوي-والد"
+        },
+        {
+            "Code": "149509",
+            "Name": "Ruhengeri",
+            "NameAr": "روهينجيري"
+        },
+        {
+            "Code": "135135",
+            "Name": "Ruhengri",
+            "NameAr": "روهينجري"
+        },
+        {
+            "Code": "417573",
+            "Name": "Rwumba",
+            "NameAr": "روومبا"
+        },
+        {
+            "Code": "143200",
+            "Name": "Volcans National Park",
+            "NameAr": "فولكانس ناتيونال بارك"
+        }
+    ],
+    "totalCities": 21
+}

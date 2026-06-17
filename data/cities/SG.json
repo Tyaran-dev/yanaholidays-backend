@@ -1,0 +1,12 @@
+{
+    "id": "SG",
+    "countryCode": "SG",
+    "cities": [
+        {
+            "Code": "138703",
+            "Name": "Singapore",
+            "NameAr": "سينجابوري"
+        }
+    ],
+    "totalCities": 1
+}

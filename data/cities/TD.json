@@ -1,0 +1,12 @@
+{
+    "id": "TD",
+    "countryCode": "TD",
+    "cities": [
+        {
+            "Code": "146827",
+            "Name": "N'Djamena",
+            "NameAr": "ندجامينا"
+        }
+    ],
+    "totalCities": 1
+}

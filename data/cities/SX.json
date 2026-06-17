@@ -1,0 +1,47 @@
+{
+    "id": "SX",
+    "countryCode": "SX",
+    "cities": [
+        {
+            "Code": "116237",
+            "Name": "Cupecoy",
+            "NameAr": "كوبيكوي"
+        },
+        {
+            "Code": "116639",
+            "Name": "Dawn Beach",
+            "NameAr": "داون بياكه"
+        },
+        {
+            "Code": "125466",
+            "Name": "Little Bay",
+            "NameAr": "ليتتلي باي"
+        },
+        {
+            "Code": "127386",
+            "Name": "Maho Beach",
+            "NameAr": "ماهو بياكه"
+        },
+        {
+            "Code": "299482",
+            "Name": "Maho Reef",
+            "NameAr": "ماهو رييف"
+        },
+        {
+            "Code": "132156",
+            "Name": "Philipsburg",
+            "NameAr": "بهيليبسبورج"
+        },
+        {
+            "Code": "138699",
+            "Name": "Simpson Bay",
+            "NameAr": "سيمبسون باي"
+        },
+        {
+            "Code": "152139",
+            "Name": "Sint Maarten",
+            "NameAr": "سينت ماارتين"
+        }
+    ],
+    "totalCities": 8
+}

@@ -1,0 +1,32 @@
+{
+    "id": "GN",
+    "countryCode": "GN",
+    "cities": [
+        {
+            "Code": "144754",
+            "Name": "Conakry",
+            "NameAr": "كوناكري"
+        },
+        {
+            "Code": "150389",
+            "Name": "Kankan",
+            "NameAr": "كانكان"
+        },
+        {
+            "Code": "150390",
+            "Name": "Kissidougou",
+            "NameAr": "كيسسيدووجوو"
+        },
+        {
+            "Code": "150393",
+            "Name": "Nzerekore",
+            "NameAr": "نزيريكوري"
+        },
+        {
+            "Code": "150391",
+            "Name": "Siguiri",
+            "NameAr": "سيجويري"
+        }
+    ],
+    "totalCities": 5
+}

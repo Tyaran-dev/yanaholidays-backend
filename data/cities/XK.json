@@ -1,0 +1,17 @@
+{
+    "id": "XK",
+    "countryCode": "XK",
+    "cities": [
+        {
+            "Code": "417893",
+            "Name": "Pristina",
+            "NameAr": "بريستينا"
+        },
+        {
+            "Code": "133604",
+            "Name": "Prizren",
+            "NameAr": "بريزرين"
+        }
+    ],
+    "totalCities": 2
+}

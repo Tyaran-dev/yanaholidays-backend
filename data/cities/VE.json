@@ -1,0 +1,362 @@
+{
+    "id": "VE",
+    "countryCode": "VE",
+    "cities": [
+        {
+            "Code": "151045",
+            "Name": "Acarigua",
+            "NameAr": "اكاريجوا"
+        },
+        {
+            "Code": "148852",
+            "Name": "Anaco",
+            "NameAr": "اناكو"
+        },
+        {
+            "Code": "101165",
+            "Name": "Anzoategui",
+            "NameAr": "انزواتيجوي"
+        },
+        {
+            "Code": "110430",
+            "Name": "Barcelona",
+            "NameAr": "باركيلونا"
+        },
+        {
+            "Code": "111139",
+            "Name": "Barinas",
+            "NameAr": "باريناس"
+        },
+        {
+            "Code": "111017",
+            "Name": "Barquisimeto",
+            "NameAr": "بارقويسيميتو"
+        },
+        {
+            "Code": "113292",
+            "Name": "Cabo Rojo",
+            "NameAr": "كابو روجو"
+        },
+        {
+            "Code": "113305",
+            "Name": "Calabozo",
+            "NameAr": "كالابوزو"
+        },
+        {
+            "Code": "151072",
+            "Name": "Canaima",
+            "NameAr": "كانايما"
+        },
+        {
+            "Code": "112814",
+            "Name": "Canaima Nationalpark",
+            "NameAr": "كانايما ناتيونالبارك"
+        },
+        {
+            "Code": "113504",
+            "Name": "Caracas",
+            "NameAr": "كاراكاس"
+        },
+        {
+            "Code": "113512",
+            "Name": "Caripe",
+            "NameAr": "كاريبي"
+        },
+        {
+            "Code": "113975",
+            "Name": "Carupano",
+            "NameAr": "كاروبانو"
+        },
+        {
+            "Code": "113916",
+            "Name": "Catia La Mar",
+            "NameAr": "كاتيا لا مار"
+        },
+        {
+            "Code": "114745",
+            "Name": "Chichiriviche",
+            "NameAr": "كهيكهيريفيكهي"
+        },
+        {
+            "Code": "114760",
+            "Name": "Choroni",
+            "NameAr": "كهوروني"
+        },
+        {
+            "Code": "115219",
+            "Name": "Ciudad Bolivar",
+            "NameAr": "كيوداد بوليفار"
+        },
+        {
+            "Code": "114293",
+            "Name": "Ciudad Ojeda",
+            "NameAr": "كيوداد وجيدا"
+        },
+        {
+            "Code": "115295",
+            "Name": "Coro",
+            "NameAr": "كورو"
+        },
+        {
+            "Code": "115079",
+            "Name": "Cumana",
+            "NameAr": "كومانا"
+        },
+        {
+            "Code": "116814",
+            "Name": "El Morro",
+            "NameAr": "يل موررو"
+        },
+        {
+            "Code": "116818",
+            "Name": "El Tigre",
+            "NameAr": "يل تيجري"
+        },
+        {
+            "Code": "116820",
+            "Name": "El Tirano",
+            "NameAr": "يل تيرانو"
+        },
+        {
+            "Code": "117144",
+            "Name": "El Yague (Yaque)",
+            "NameAr": "يل ياجوي ياقوي"
+        },
+        {
+            "Code": "120392",
+            "Name": "Gran Roque",
+            "NameAr": "جران روقوي"
+        },
+        {
+            "Code": "119763",
+            "Name": "Guayana",
+            "NameAr": "جوايانا"
+        },
+        {
+            "Code": "121498",
+            "Name": "Isla de Coche",
+            "NameAr": "يسلا دي كوكهي"
+        },
+        {
+            "Code": "121762",
+            "Name": "Isla Margarita",
+            "NameAr": "يسلا مارجاريتا"
+        },
+        {
+            "Code": "123461",
+            "Name": "Juan Griego",
+            "NameAr": "جوان جرييجو"
+        },
+        {
+            "Code": "124474",
+            "Name": "La Guaira",
+            "NameAr": "لا جوايرا"
+        },
+        {
+            "Code": "151402",
+            "Name": "Las Piedras",
+            "NameAr": "لاس بييدراس"
+        },
+        {
+            "Code": "125335",
+            "Name": "Llanos",
+            "NameAr": "للانوس"
+        },
+        {
+            "Code": "125914",
+            "Name": "Los Roques",
+            "NameAr": "لوس روقويس"
+        },
+        {
+            "Code": "127083",
+            "Name": "Maiquetia",
+            "NameAr": "مايقويتيا"
+        },
+        {
+            "Code": "128050",
+            "Name": "Manzanillo",
+            "NameAr": "مانزانيللو"
+        },
+        {
+            "Code": "146479",
+            "Name": "Maracaibo",
+            "NameAr": "ماراكايبو"
+        },
+        {
+            "Code": "127435",
+            "Name": "Maracay",
+            "NameAr": "ماراكاي"
+        },
+        {
+            "Code": "127446",
+            "Name": "Margarita Island",
+            "NameAr": "مارجاريتا يسلاند"
+        },
+        {
+            "Code": "146550",
+            "Name": "Maturin",
+            "NameAr": "ماتورين"
+        },
+        {
+            "Code": "127916",
+            "Name": "Merida",
+            "NameAr": "ميريدا"
+        },
+        {
+            "Code": "128309",
+            "Name": "Mochima Nationalpark",
+            "NameAr": "موكهيما ناتيونالبارك"
+        },
+        {
+            "Code": "102992",
+            "Name": "Morrocoy (National Park)",
+            "NameAr": "مورروكوي ناتيونال بارك"
+        },
+        {
+            "Code": "131668",
+            "Name": "Orinoco Delta",
+            "NameAr": "ورينوكو ديلتا"
+        },
+        {
+            "Code": "130762",
+            "Name": "Pampatar",
+            "NameAr": "بامباتار"
+        },
+        {
+            "Code": "132338",
+            "Name": "Playa Cardon",
+            "NameAr": "بلايا كاردون"
+        },
+        {
+            "Code": "132840",
+            "Name": "Playa Caribe",
+            "NameAr": "بلايا كاريبي"
+        },
+        {
+            "Code": "147229",
+            "Name": "Playa el Agua",
+            "NameAr": "بلايا يل اجوا"
+        },
+        {
+            "Code": "147231",
+            "Name": "Playa el Tirano",
+            "NameAr": "بلايا يل تيرانو"
+        },
+        {
+            "Code": "132845",
+            "Name": "Playa Guacuco",
+            "NameAr": "بلايا جواكوكو"
+        },
+        {
+            "Code": "132846",
+            "Name": "Playa las Arenas - Bahia de Plata",
+            "NameAr": "بلايا لاس اريناس - باهيا دي بلاتا"
+        },
+        {
+            "Code": "147233",
+            "Name": "Playa Medina",
+            "NameAr": "بلايا ميدينا"
+        },
+        {
+            "Code": "133455",
+            "Name": "Playa Pedro Gonzalez",
+            "NameAr": "بلايا بيدرو جونزاليز"
+        },
+        {
+            "Code": "133553",
+            "Name": "Porlamar",
+            "NameAr": "بورلامار"
+        },
+        {
+            "Code": "132565",
+            "Name": "Puerto Ayacucho",
+            "NameAr": "بويرتو اياكوكهو"
+        },
+        {
+            "Code": "151568",
+            "Name": "Puerto Cabello",
+            "NameAr": "بويرتو كابيللو"
+        },
+        {
+            "Code": "134346",
+            "Name": "Puerto Colombia",
+            "NameAr": "بويرتو كولومبيا"
+        },
+        {
+            "Code": "132572",
+            "Name": "Puerto la Cruz",
+            "NameAr": "بويرتو لا كروز"
+        },
+        {
+            "Code": "133051",
+            "Name": "Puerto Ordaz",
+            "NameAr": "بويرتو ورداز"
+        },
+        {
+            "Code": "134355",
+            "Name": "Puerto Viejo",
+            "NameAr": "بويرتو فييجو"
+        },
+        {
+            "Code": "133998",
+            "Name": "Punto Fijo",
+            "NameAr": "بونتو فيجو"
+        },
+        {
+            "Code": "151576",
+            "Name": "San Antonio",
+            "NameAr": "سان انتونيو"
+        },
+        {
+            "Code": "136317",
+            "Name": "San Cristobal",
+            "NameAr": "سان كريستوبال"
+        },
+        {
+            "Code": "135881",
+            "Name": "San Felipe",
+            "NameAr": "سان فيليبي"
+        },
+        {
+            "Code": "418014",
+            "Name": "San Fernando de Apure,   Apure",
+            "NameAr": "سان فيرناندو دي ابوري ابوري"
+        },
+        {
+            "Code": "135891",
+            "Name": "San Juan Bautista",
+            "NameAr": "سان جوان باوتيستا"
+        },
+        {
+            "Code": "135950",
+            "Name": "San Juan de las Galdonas",
+            "NameAr": "سان جوان دي لاس جالدوناس"
+        },
+        {
+            "Code": "136627",
+            "Name": "Santo Domingo (Merida)",
+            "NameAr": "سانتو دومينجو ميريدا"
+        },
+        {
+            "Code": "138557",
+            "Name": "Tacarigua Nationalpark",
+            "NameAr": "تاكاريجوا ناتيونالبارك"
+        },
+        {
+            "Code": "140455",
+            "Name": "Tocopero",
+            "NameAr": "توكوبيرو"
+        },
+        {
+            "Code": "141299",
+            "Name": "Valencia",
+            "NameAr": "فالينكيا"
+        },
+        {
+            "Code": "151524",
+            "Name": "Valera",
+            "NameAr": "فاليرا"
+        }
+    ],
+    "totalCities": 71
+}

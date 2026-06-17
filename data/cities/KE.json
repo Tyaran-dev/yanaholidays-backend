@@ -1,0 +1,422 @@
+{
+    "id": "KE",
+    "countryCode": "KE",
+    "cities": [
+        {
+            "Code": "100014",
+            "Name": "Aberdares",
+            "NameAr": "ابيرداريس"
+        },
+        {
+            "Code": "109551",
+            "Name": "Amboseli",
+            "NameAr": "امبوسيلي"
+        },
+        {
+            "Code": "370007",
+            "Name": "Amboseli National Park",
+            "NameAr": "امبوسيلي ناتيونال بارك"
+        },
+        {
+            "Code": "105031",
+            "Name": "Barkowino",
+            "NameAr": "باركووينو"
+        },
+        {
+            "Code": "113595",
+            "Name": "Chale Island",
+            "NameAr": "كهالي يسلاند"
+        },
+        {
+            "Code": "114827",
+            "Name": "Chyulu Hills",
+            "NameAr": "كهيولو هيللس"
+        },
+        {
+            "Code": "116186",
+            "Name": "Diani Beach",
+            "NameAr": "دياني بياكه"
+        },
+        {
+            "Code": "116991",
+            "Name": "Eldoret",
+            "NameAr": "يلدوريت"
+        },
+        {
+            "Code": "118649",
+            "Name": "Funzi Island",
+            "NameAr": "فونزي يسلاند"
+        },
+        {
+            "Code": "119064",
+            "Name": "Galu Beach",
+            "NameAr": "جالو بياكه"
+        },
+        {
+            "Code": "118421",
+            "Name": "Gazi",
+            "NameAr": "جازي"
+        },
+        {
+            "Code": "101520",
+            "Name": "Gilgil",
+            "NameAr": "جيلجيل"
+        },
+        {
+            "Code": "105815",
+            "Name": "Gitura",
+            "NameAr": "جيتورا"
+        },
+        {
+            "Code": "102443",
+            "Name": "Homa Bay",
+            "NameAr": "هوما باي"
+        },
+        {
+            "Code": "105970",
+            "Name": "Isiolo",
+            "NameAr": "يسيولو"
+        },
+        {
+            "Code": "285722",
+            "Name": "Juja",
+            "NameAr": "جوجا"
+        },
+        {
+            "Code": "122804",
+            "Name": "Kakamega",
+            "NameAr": "كاكاميجا"
+        },
+        {
+            "Code": "145921",
+            "Name": "Kenya",
+            "NameAr": "كينيا"
+        },
+        {
+            "Code": "145922",
+            "Name": "Kenyatta Beach",
+            "NameAr": "كينياتتا بياكه"
+        },
+        {
+            "Code": "122983",
+            "Name": "Kericho",
+            "NameAr": "كيريكهو"
+        },
+        {
+            "Code": "122584",
+            "Name": "Kikambala Beach",
+            "NameAr": "كيكامبالا بياكه"
+        },
+        {
+            "Code": "123264",
+            "Name": "Kilifi",
+            "NameAr": "كيليفي"
+        },
+        {
+            "Code": "145944",
+            "Name": "Kimana Reservat",
+            "NameAr": "كيمانا ريسيرفات"
+        },
+        {
+            "Code": "123583",
+            "Name": "Kisumu",
+            "NameAr": "كيسومو"
+        },
+        {
+            "Code": "150606",
+            "Name": "Kitale",
+            "NameAr": "كيتالي"
+        },
+        {
+            "Code": "150882",
+            "Name": "Kiwayu",
+            "NameAr": "كيوايو"
+        },
+        {
+            "Code": "154759",
+            "Name": "Kwale County",
+            "NameAr": "كوالي كوونتي"
+        },
+        {
+            "Code": "124083",
+            "Name": "Laikipia",
+            "NameAr": "لايكيبيا"
+        },
+        {
+            "Code": "125178",
+            "Name": "Lake Baringo",
+            "NameAr": "لاكي بارينجو"
+        },
+        {
+            "Code": "124086",
+            "Name": "Lake Bogoria",
+            "NameAr": "لاكي بوجوريا"
+        },
+        {
+            "Code": "124643",
+            "Name": "Lake Elmentaita",
+            "NameAr": "لاكي يلمينتايتا"
+        },
+        {
+            "Code": "124773",
+            "Name": "Lake Magadi",
+            "NameAr": "لاكي ماجادي"
+        },
+        {
+            "Code": "125755",
+            "Name": "Lake Naivasha",
+            "NameAr": "لاكي نايفاسها"
+        },
+        {
+            "Code": "125756",
+            "Name": "Lake Nakuru",
+            "NameAr": "لاكي ناكورو"
+        },
+        {
+            "Code": "124094",
+            "Name": "Lake Victoria",
+            "NameAr": "لاكي فيكتوريا"
+        },
+        {
+            "Code": "146124",
+            "Name": "Lamu Island",
+            "NameAr": "لامو يسلاند"
+        },
+        {
+            "Code": "149888",
+            "Name": "Lodwar",
+            "NameAr": "لودوار"
+        },
+        {
+            "Code": "361586",
+            "Name": "Maasai Mara National Reserve",
+            "NameAr": "مااساي مارا ناتيونال ريسيرفي"
+        },
+        {
+            "Code": "154757",
+            "Name": "Machakos County",
+            "NameAr": "ماكهاكوس كوونتي"
+        },
+        {
+            "Code": "127099",
+            "Name": "Malindi",
+            "NameAr": "ماليندي"
+        },
+        {
+            "Code": "146459",
+            "Name": "Manda Island",
+            "NameAr": "ماندا يسلاند"
+        },
+        {
+            "Code": "151277",
+            "Name": "Mandera",
+            "NameAr": "مانديرا"
+        },
+        {
+            "Code": "104027",
+            "Name": "Maralal",
+            "NameAr": "مارالال"
+        },
+        {
+            "Code": "126452",
+            "Name": "Masai Mara",
+            "NameAr": "ماساي مارا"
+        },
+        {
+            "Code": "128115",
+            "Name": "Mathews Mountain Range",
+            "NameAr": "ماتهيوس موونتاين رانجي"
+        },
+        {
+            "Code": "127742",
+            "Name": "Meru",
+            "NameAr": "ميرو"
+        },
+        {
+            "Code": "127249",
+            "Name": "Mombasa",
+            "NameAr": "مومباسا"
+        },
+        {
+            "Code": "128432",
+            "Name": "Motorogi Conservancy",
+            "NameAr": "موتوروجي كونسيرفانكي"
+        },
+        {
+            "Code": "128564",
+            "Name": "Msambweni",
+            "NameAr": "مسامبويني"
+        },
+        {
+            "Code": "146763",
+            "Name": "Mtwapa",
+            "NameAr": "متوابا"
+        },
+        {
+            "Code": "128012",
+            "Name": "Mtwapa Creek",
+            "NameAr": "متوابا كرييك"
+        },
+        {
+            "Code": "146791",
+            "Name": "Mwazaro",
+            "NameAr": "موازارو"
+        },
+        {
+            "Code": "130102",
+            "Name": "Nairobi",
+            "NameAr": "نايروبي"
+        },
+        {
+            "Code": "129783",
+            "Name": "Nakuru",
+            "NameAr": "ناكورو"
+        },
+        {
+            "Code": "128716",
+            "Name": "Nanyuki",
+            "NameAr": "نانيوكي"
+        },
+        {
+            "Code": "146812",
+            "Name": "Naro Moru",
+            "NameAr": "نارو مورو"
+        },
+        {
+            "Code": "104376",
+            "Name": "Ngong Hills",
+            "NameAr": "نجونج هيللس"
+        },
+        {
+            "Code": "131143",
+            "Name": "Njoro",
+            "NameAr": "نجورو"
+        },
+        {
+            "Code": "130021",
+            "Name": "North Coast",
+            "NameAr": "نورته كواست"
+        },
+        {
+            "Code": "398325",
+            "Name": "Nyahururu",
+            "NameAr": "نياهورورو"
+        },
+        {
+            "Code": "129534",
+            "Name": "Nyali Beach",
+            "NameAr": "نيالي بياكه"
+        },
+        {
+            "Code": "130590",
+            "Name": "Nyeri",
+            "NameAr": "نييري"
+        },
+        {
+            "Code": "130620",
+            "Name": "Ol Pejeta",
+            "NameAr": "ول بيجيتا"
+        },
+        {
+            "Code": "134362",
+            "Name": "Pungu Beach",
+            "NameAr": "بونجو بياكه"
+        },
+        {
+            "Code": "134661",
+            "Name": "Rusinga",
+            "NameAr": "روسينجا"
+        },
+        {
+            "Code": "136162",
+            "Name": "Samburu",
+            "NameAr": "سامبورو"
+        },
+        {
+            "Code": "137564",
+            "Name": "Shaba",
+            "NameAr": "سهابا"
+        },
+        {
+            "Code": "137569",
+            "Name": "Shanzu Beach",
+            "NameAr": "سهانزو بياكه"
+        },
+        {
+            "Code": "137395",
+            "Name": "Shimba Hills",
+            "NameAr": "سهيمبا هيللس"
+        },
+        {
+            "Code": "137312",
+            "Name": "Shimoni",
+            "NameAr": "سهيموني"
+        },
+        {
+            "Code": "140276",
+            "Name": "Taita Hills",
+            "NameAr": "تايتا هيللس"
+        },
+        {
+            "Code": "305527",
+            "Name": "Taita-Taveta County",
+            "NameAr": "تايتا-تافيتا كوونتي"
+        },
+        {
+            "Code": "138574",
+            "Name": "Tana Delta",
+            "NameAr": "تانا ديلتا"
+        },
+        {
+            "Code": "107171",
+            "Name": "Thika",
+            "NameAr": "تهيكا"
+        },
+        {
+            "Code": "141058",
+            "Name": "Tiwi Beach",
+            "NameAr": "تيوي بياكه"
+        },
+        {
+            "Code": "412036",
+            "Name": "Tsavo",
+            "NameAr": "تسافو"
+        },
+        {
+            "Code": "139404",
+            "Name": "Tsavo East National Park",
+            "NameAr": "تسافو ياست ناتيونال بارك"
+        },
+        {
+            "Code": "139830",
+            "Name": "Tsavo West National Park",
+            "NameAr": "تسافو ويست ناتيونال بارك"
+        },
+        {
+            "Code": "148369",
+            "Name": "Ukunda",
+            "NameAr": "وكوندا"
+        },
+        {
+            "Code": "143179",
+            "Name": "Vipingo",
+            "NameAr": "فيبينجو"
+        },
+        {
+            "Code": "151813",
+            "Name": "Voi",
+            "NameAr": "فوي"
+        },
+        {
+            "Code": "142266",
+            "Name": "Watamu",
+            "NameAr": "واتامو"
+        },
+        {
+            "Code": "107512",
+            "Name": "Wundanyi",
+            "NameAr": "ووندانيي"
+        }
+    ],
+    "totalCities": 83
+}

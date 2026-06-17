@@ -1,0 +1,972 @@
+{
+    "id": "SK",
+    "countryCode": "SK",
+    "cities": [
+        {
+            "Code": "144044",
+            "Name": "Bad Pistyan",
+            "NameAr": "باد بيستيان"
+        },
+        {
+            "Code": "101493",
+            "Name": "Banovce nad Bebravoua",
+            "NameAr": "بانوفكي ناد بيبرافووا"
+        },
+        {
+            "Code": "144096",
+            "Name": "Banska Bystrica",
+            "NameAr": "بانسكا بيستريكا"
+        },
+        {
+            "Code": "109840",
+            "Name": "Banska Stiavnica (Schemnitz)",
+            "NameAr": "بانسكا ستيافنيكا سكهيمنيتز"
+        },
+        {
+            "Code": "110511",
+            "Name": "Bardejov",
+            "NameAr": "بارديجوف"
+        },
+        {
+            "Code": "101300",
+            "Name": "Batizovce",
+            "NameAr": "باتيزوفكي"
+        },
+        {
+            "Code": "160844",
+            "Name": "Beharovce\t",
+            "NameAr": "بيهاروفكي"
+        },
+        {
+            "Code": "110928",
+            "Name": "Bela (Nitriansky kraj)",
+            "NameAr": "بيلا نيتريانسكي كراج"
+        },
+        {
+            "Code": "101306",
+            "Name": "Beladice",
+            "NameAr": "بيلاديكي"
+        },
+        {
+            "Code": "111526",
+            "Name": "Benesova",
+            "NameAr": "بينيسوفا"
+        },
+        {
+            "Code": "111682",
+            "Name": "Besenova",
+            "NameAr": "بيسينوفا"
+        },
+        {
+            "Code": "105414",
+            "Name": "Bobrovecka Dolina",
+            "NameAr": "بوبروفيككا دولينا"
+        },
+        {
+            "Code": "112440",
+            "Name": "Bojnice",
+            "NameAr": "بوجنيكي"
+        },
+        {
+            "Code": "101424",
+            "Name": "Boschan",
+            "NameAr": "بوسكهان"
+        },
+        {
+            "Code": "112540",
+            "Name": "Bratislava",
+            "NameAr": "براتيسلافا"
+        },
+        {
+            "Code": "144366",
+            "Name": "Brezno / Tale",
+            "NameAr": "بريزنو تالي"
+        },
+        {
+            "Code": "104876",
+            "Name": "Brusno",
+            "NameAr": "بروسنو"
+        },
+        {
+            "Code": "112754",
+            "Name": "Cadca-Rakova",
+            "NameAr": "كادكا-راكوفا"
+        },
+        {
+            "Code": "105384",
+            "Name": "Chvojnica",
+            "NameAr": "كهفوجنيكا"
+        },
+        {
+            "Code": "102307",
+            "Name": "Dedinky",
+            "NameAr": "ديدينكي"
+        },
+        {
+            "Code": "115678",
+            "Name": "Demanovska Dolina",
+            "NameAr": "ديمانوفسكا دولينا"
+        },
+        {
+            "Code": "104949",
+            "Name": "Dobra nad Ondavou",
+            "NameAr": "دوبرا ناد وندافوو"
+        },
+        {
+            "Code": "105781",
+            "Name": "Dolna Strehova",
+            "NameAr": "دولنا ستريهوفا"
+        },
+        {
+            "Code": "115731",
+            "Name": "Dolny Kubin/Orava",
+            "NameAr": "دولني كوبين ورافا"
+        },
+        {
+            "Code": "115906",
+            "Name": "Dolny Smokovec",
+            "NameAr": "دولني سموكوفيك"
+        },
+        {
+            "Code": "117012",
+            "Name": "Donovaly",
+            "NameAr": "دونوفالي"
+        },
+        {
+            "Code": "106265",
+            "Name": "Drienica",
+            "NameAr": "دريينيكا"
+        },
+        {
+            "Code": "105789",
+            "Name": "Dubnica nad Vahom",
+            "NameAr": "دوبنيكا ناد فاهوم"
+        },
+        {
+            "Code": "116446",
+            "Name": "Dubovica-Zliabky",
+            "NameAr": "دوبوفيكا-زليابكي"
+        },
+        {
+            "Code": "116707",
+            "Name": "Dudince",
+            "NameAr": "دودينكي"
+        },
+        {
+            "Code": "144997",
+            "Name": "Dunjaska Streda",
+            "NameAr": "دونجاسكا ستريدا"
+        },
+        {
+            "Code": "105897",
+            "Name": "Fricovce",
+            "NameAr": "فريكوفكي"
+        },
+        {
+            "Code": "101733",
+            "Name": "Gallandau",
+            "NameAr": "جاللانداو"
+        },
+        {
+            "Code": "102478",
+            "Name": "Gbelce",
+            "NameAr": "جبيلكي"
+        },
+        {
+            "Code": "105915",
+            "Name": "Goldmorawitz",
+            "NameAr": "جولدموراويتز"
+        },
+        {
+            "Code": "106133",
+            "Name": "Habovka",
+            "NameAr": "هابوفكا"
+        },
+        {
+            "Code": "105951",
+            "Name": "Heiligenkreuz",
+            "NameAr": "هييليجينكريوز"
+        },
+        {
+            "Code": "104050",
+            "Name": "Hlohovec",
+            "NameAr": "هلوهوفيك"
+        },
+        {
+            "Code": "120311",
+            "Name": "Hodrusa Hamre",
+            "NameAr": "هودروسا هامري"
+        },
+        {
+            "Code": "108300",
+            "Name": "Holcikovce",
+            "NameAr": "هولكيكوفكي"
+        },
+        {
+            "Code": "145649",
+            "Name": "Holic",
+            "NameAr": "هوليك"
+        },
+        {
+            "Code": "121668",
+            "Name": "Horny Smokivec",
+            "NameAr": "هورني سموكيفيك"
+        },
+        {
+            "Code": "145674",
+            "Name": "Horny Vadicov",
+            "NameAr": "هورني فاديكوف"
+        },
+        {
+            "Code": "121960",
+            "Name": "Hrinova",
+            "NameAr": "هرينوفا"
+        },
+        {
+            "Code": "106161",
+            "Name": "Hronsek",
+            "NameAr": "هرونسيك"
+        },
+        {
+            "Code": "102524",
+            "Name": "Hubova",
+            "NameAr": "هوبوفا"
+        },
+        {
+            "Code": "121033",
+            "Name": "Humenne",
+            "NameAr": "هومينني"
+        },
+        {
+            "Code": "103935",
+            "Name": "Jaslovske Bohunice",
+            "NameAr": "جاسلوفسكي بوهونيكي"
+        },
+        {
+            "Code": "123426",
+            "Name": "Jasna",
+            "NameAr": "جاسنا"
+        },
+        {
+            "Code": "122400",
+            "Name": "Kaluza",
+            "NameAr": "كالوزا"
+        },
+        {
+            "Code": "122578",
+            "Name": "Kezmarok",
+            "NameAr": "كيزماروك"
+        },
+        {
+            "Code": "124948",
+            "Name": "Komarno",
+            "NameAr": "كومارنو"
+        },
+        {
+            "Code": "146013",
+            "Name": "Kosice",
+            "NameAr": "كوسيكي"
+        },
+        {
+            "Code": "103721",
+            "Name": "Kosicka Bela",
+            "NameAr": "كوسيككا بيلا"
+        },
+        {
+            "Code": "105532",
+            "Name": "Krakovany",
+            "NameAr": "كراكوفاني"
+        },
+        {
+            "Code": "105533",
+            "Name": "Kralova Lehota",
+            "NameAr": "كرالوفا ليهوتا"
+        },
+        {
+            "Code": "124424",
+            "Name": "Kremnica",
+            "NameAr": "كريمنيكا"
+        },
+        {
+            "Code": "124306",
+            "Name": "Krompachy",
+            "NameAr": "كرومباكهي"
+        },
+        {
+            "Code": "124987",
+            "Name": "Krpacovo",
+            "NameAr": "كرباكوفو"
+        },
+        {
+            "Code": "103731",
+            "Name": "Kysucke Nove Mesto",
+            "NameAr": "كيسوككي نوفي ميستو"
+        },
+        {
+            "Code": "104449",
+            "Name": "Lazy pod Makytou",
+            "NameAr": "لازي بود ماكيتوو"
+        },
+        {
+            "Code": "125415",
+            "Name": "Levice",
+            "NameAr": "ليفيكي"
+        },
+        {
+            "Code": "126535",
+            "Name": "Levoca",
+            "NameAr": "ليفوكا"
+        },
+        {
+            "Code": "104452",
+            "Name": "Liesek",
+            "NameAr": "لييسيك"
+        },
+        {
+            "Code": "126556",
+            "Name": "Limbach",
+            "NameAr": "ليمباكه"
+        },
+        {
+            "Code": "126029",
+            "Name": "Liptovska Sielnica",
+            "NameAr": "ليبتوفسكا سييلنيكا"
+        },
+        {
+            "Code": "124928",
+            "Name": "Liptovsky Hradok",
+            "NameAr": "ليبتوفسكي هرادوك"
+        },
+        {
+            "Code": "124929",
+            "Name": "Liptovsky Jan",
+            "NameAr": "ليبتوفسكي جان"
+        },
+        {
+            "Code": "146303",
+            "Name": "Liptovsky Mikulas",
+            "NameAr": "ليبتوفسكي ميكولاس"
+        },
+        {
+            "Code": "125462",
+            "Name": "Liptovsky Trnovec",
+            "NameAr": "ليبتوفسكي ترنوفيك"
+        },
+        {
+            "Code": "104460",
+            "Name": "Lopej",
+            "NameAr": "لوبيج"
+        },
+        {
+            "Code": "126659",
+            "Name": "Lozorno",
+            "NameAr": "لوزورنو"
+        },
+        {
+            "Code": "125926",
+            "Name": "Lucenec",
+            "NameAr": "لوكينيك"
+        },
+        {
+            "Code": "417329",
+            "Name": "Lucenec District",
+            "NameAr": "لوكينيك ديستريكت"
+        },
+        {
+            "Code": "146379",
+            "Name": "Lucky",
+            "NameAr": "لوككي"
+        },
+        {
+            "Code": "104477",
+            "Name": "Makov",
+            "NameAr": "ماكوف"
+        },
+        {
+            "Code": "146445",
+            "Name": "Mala Lucivna",
+            "NameAr": "مالا لوكيفنا"
+        },
+        {
+            "Code": "127092",
+            "Name": "Malacky",
+            "NameAr": "مالاككي"
+        },
+        {
+            "Code": "125702",
+            "Name": "Malatiny",
+            "NameAr": "مالاتيني"
+        },
+        {
+            "Code": "146526",
+            "Name": "Martin",
+            "NameAr": "مارتين"
+        },
+        {
+            "Code": "398711",
+            "Name": "Mengusovce",
+            "NameAr": "مينجوسوفكي"
+        },
+        {
+            "Code": "128260",
+            "Name": "Michalova",
+            "NameAr": "ميكهالوفا"
+        },
+        {
+            "Code": "104774",
+            "Name": "Michalovce",
+            "NameAr": "ميكهالوفكي"
+        },
+        {
+            "Code": "128886",
+            "Name": "Mlynky",
+            "NameAr": "ملينكي"
+        },
+        {
+            "Code": "127693",
+            "Name": "Modra",
+            "NameAr": "مودرا"
+        },
+        {
+            "Code": "103827",
+            "Name": "Mojmirovce",
+            "NameAr": "موجميروفكي"
+        },
+        {
+            "Code": "128699",
+            "Name": "Myto pod Dumbierom",
+            "NameAr": "ميتو بود دومبييروم"
+        },
+        {
+            "Code": "129156",
+            "Name": "Namestovo",
+            "NameAr": "ناميستوفو"
+        },
+        {
+            "Code": "129907",
+            "Name": "Nitra",
+            "NameAr": "نيترا"
+        },
+        {
+            "Code": "130008",
+            "Name": "Nitrianske Rudno",
+            "NameAr": "نيتريانسكي رودنو"
+        },
+        {
+            "Code": "146898",
+            "Name": "Nizna nad Oravou",
+            "NameAr": "نيزنا ناد ورافوو"
+        },
+        {
+            "Code": "129514",
+            "Name": "Nova Lesna",
+            "NameAr": "نوفا ليسنا"
+        },
+        {
+            "Code": "106559",
+            "Name": "Nove Mesto nad Vahom",
+            "NameAr": "نوفي ميستو ناد فاهوم"
+        },
+        {
+            "Code": "129946",
+            "Name": "Nove Zamky",
+            "NameAr": "نوفي زامكي"
+        },
+        {
+            "Code": "130041",
+            "Name": "Novy Smokovec",
+            "NameAr": "نوفي سموكوفيك"
+        },
+        {
+            "Code": "130643",
+            "Name": "Oponice",
+            "NameAr": "وبونيكي"
+        },
+        {
+            "Code": "130650",
+            "Name": "Oravska Lesna",
+            "NameAr": "ورافسكا ليسنا"
+        },
+        {
+            "Code": "103394",
+            "Name": "Oravsky Biely Potok",
+            "NameAr": "ورافسكي بييلي بوتوك"
+        },
+        {
+            "Code": "106569",
+            "Name": "Orechova Poton",
+            "NameAr": "وريكهوفا بوتون"
+        },
+        {
+            "Code": "131953",
+            "Name": "Oscadnica",
+            "NameAr": "وسكادنيكا"
+        },
+        {
+            "Code": "104418",
+            "Name": "Osrblie",
+            "NameAr": "وسربليي"
+        },
+        {
+            "Code": "131457",
+            "Name": "Parnica",
+            "NameAr": "بارنيكا"
+        },
+        {
+            "Code": "385096",
+            "Name": "Partizanske",
+            "NameAr": "بارتيزانسكي"
+        },
+        {
+            "Code": "132427",
+            "Name": "Patince",
+            "NameAr": "باتينكي"
+        },
+        {
+            "Code": "131518",
+            "Name": "Pezinok",
+            "NameAr": "بيزينوك"
+        },
+        {
+            "Code": "150808",
+            "Name": "Piestany",
+            "NameAr": "بييستاني"
+        },
+        {
+            "Code": "132270",
+            "Name": "Podbanske",
+            "NameAr": "بودبانسكي"
+        },
+        {
+            "Code": "133470",
+            "Name": "Podbrezova",
+            "NameAr": "بودبريزوفا"
+        },
+        {
+            "Code": "103071",
+            "Name": "Polny Kesov",
+            "NameAr": "بولني كيسوف"
+        },
+        {
+            "Code": "133550",
+            "Name": "Poprad",
+            "NameAr": "بوبراد"
+        },
+        {
+            "Code": "155816",
+            "Name": "Poprad District",
+            "NameAr": "بوبراد ديستريكت"
+        },
+        {
+            "Code": "103313",
+            "Name": "Povazska Bystrica",
+            "NameAr": "بوفازسكا بيستريكا"
+        },
+        {
+            "Code": "147357",
+            "Name": "Presov",
+            "NameAr": "بريسوف"
+        },
+        {
+            "Code": "132543",
+            "Name": "Pribylina",
+            "NameAr": "بريبيلينا"
+        },
+        {
+            "Code": "133962",
+            "Name": "Prievidza",
+            "NameAr": "برييفيدزا"
+        },
+        {
+            "Code": "134344",
+            "Name": "Puchov",
+            "NameAr": "بوكهوف"
+        },
+        {
+            "Code": "133174",
+            "Name": "Rajecke Teplice",
+            "NameAr": "راجيككي تيبليكي"
+        },
+        {
+            "Code": "103123",
+            "Name": "Rimavska Sobota",
+            "NameAr": "ريمافسكا سوبوتا"
+        },
+        {
+            "Code": "108446",
+            "Name": "Rosenau",
+            "NameAr": "روسيناو"
+        },
+        {
+            "Code": "102810",
+            "Name": "Roznava",
+            "NameAr": "روزنافا"
+        },
+        {
+            "Code": "135476",
+            "Name": "Ruzomberok",
+            "NameAr": "روزومبيروك"
+        },
+        {
+            "Code": "135486",
+            "Name": "Sachticky Spania Dolina",
+            "NameAr": "ساكهتيككي سبانيا دولينا"
+        },
+        {
+            "Code": "135918",
+            "Name": "Salgovce",
+            "NameAr": "سالجوفكي"
+        },
+        {
+            "Code": "106761",
+            "Name": "Samorin",
+            "NameAr": "سامورين"
+        },
+        {
+            "Code": "137361",
+            "Name": "Senec",
+            "NameAr": "سينيك"
+        },
+        {
+            "Code": "417211",
+            "Name": "Senec District",
+            "NameAr": "سينيك ديستريكت"
+        },
+        {
+            "Code": "103531",
+            "Name": "Senica",
+            "NameAr": "سينيكا"
+        },
+        {
+            "Code": "417321",
+            "Name": "Senica District",
+            "NameAr": "سينيكا ديستريكت"
+        },
+        {
+            "Code": "147936",
+            "Name": "Skalica",
+            "NameAr": "سكاليكا"
+        },
+        {
+            "Code": "137639",
+            "Name": "Sliac",
+            "NameAr": "سلياك"
+        },
+        {
+            "Code": "147943",
+            "Name": "Sliace",
+            "NameAr": "سلياكي"
+        },
+        {
+            "Code": "137647",
+            "Name": "Smizany",
+            "NameAr": "سميزاني"
+        },
+        {
+            "Code": "138120",
+            "Name": "Smolenice",
+            "NameAr": "سمولينيكي"
+        },
+        {
+            "Code": "106655",
+            "Name": "Smrdaky",
+            "NameAr": "سمرداكي"
+        },
+        {
+            "Code": "106330",
+            "Name": "Smrecany",
+            "NameAr": "سمريكاني"
+        },
+        {
+            "Code": "107235",
+            "Name": "Snina",
+            "NameAr": "سنينا"
+        },
+        {
+            "Code": "137522",
+            "Name": "Soporna",
+            "NameAr": "سوبورنا"
+        },
+        {
+            "Code": "138086",
+            "Name": "Spisska Nova Ves",
+            "NameAr": "سبيسسكا نوفا فيس"
+        },
+        {
+            "Code": "137545",
+            "Name": "Spisske Podhradie",
+            "NameAr": "سبيسسكي بودهراديي"
+        },
+        {
+            "Code": "103614",
+            "Name": "Stakcin",
+            "NameAr": "ستاككين"
+        },
+        {
+            "Code": "138412",
+            "Name": "Stara Lesna",
+            "NameAr": "ستارا ليسنا"
+        },
+        {
+            "Code": "148041",
+            "Name": "Stara Lubovna",
+            "NameAr": "ستارا لوبوفنا"
+        },
+        {
+            "Code": "148042",
+            "Name": "Stara Tura",
+            "NameAr": "ستارا تورا"
+        },
+        {
+            "Code": "103203",
+            "Name": "Stare Hory",
+            "NameAr": "ستاري هوري"
+        },
+        {
+            "Code": "138895",
+            "Name": "Stary Smokovec",
+            "NameAr": "ستاري سموكوفيك"
+        },
+        {
+            "Code": "137830",
+            "Name": "Stola",
+            "NameAr": "ستولا"
+        },
+        {
+            "Code": "107075",
+            "Name": "Straza",
+            "NameAr": "سترازا"
+        },
+        {
+            "Code": "138838",
+            "Name": "Strbske Pleso",
+            "NameAr": "ستربسكي بليسو"
+        },
+        {
+            "Code": "107138",
+            "Name": "Stupava",
+            "NameAr": "ستوبافا"
+        },
+        {
+            "Code": "106930",
+            "Name": "Sturovo",
+            "NameAr": "ستوروفو"
+        },
+        {
+            "Code": "139534",
+            "Name": "Svaty Jur",
+            "NameAr": "سفاتي جور"
+        },
+        {
+            "Code": "139645",
+            "Name": "Svit",
+            "NameAr": "سفيت"
+        },
+        {
+            "Code": "139010",
+            "Name": "Tale",
+            "NameAr": "تالي"
+        },
+        {
+            "Code": "140973",
+            "Name": "Tatranska Javorina",
+            "NameAr": "تاترانسكا جافورينا"
+        },
+        {
+            "Code": "139695",
+            "Name": "Tatranska Lomnica",
+            "NameAr": "تاترانسكا لومنيكا"
+        },
+        {
+            "Code": "138592",
+            "Name": "Tatranska Matliare",
+            "NameAr": "تاترانسكا ماتلياري"
+        },
+        {
+            "Code": "139571",
+            "Name": "Tatranska Polianka",
+            "NameAr": "تاترانسكا بوليانكا"
+        },
+        {
+            "Code": "138593",
+            "Name": "Tatranska Strba",
+            "NameAr": "تاترانسكا ستربا"
+        },
+        {
+            "Code": "139596",
+            "Name": "Teplicka nad Vahom",
+            "NameAr": "تيبليككا ناد فاهوم"
+        },
+        {
+            "Code": "107302",
+            "Name": "Teply Vrch",
+            "NameAr": "تيبلي فركه"
+        },
+        {
+            "Code": "139948",
+            "Name": "Terchova",
+            "NameAr": "تيركهوفا"
+        },
+        {
+            "Code": "148265",
+            "Name": "Topolcany",
+            "NameAr": "توبولكاني"
+        },
+        {
+            "Code": "107181",
+            "Name": "Topolcianky",
+            "NameAr": "توبولكيانكي"
+        },
+        {
+            "Code": "107792",
+            "Name": "Trebisov",
+            "NameAr": "تريبيسوف"
+        },
+        {
+            "Code": "106846",
+            "Name": "Trencianske Bohuslavice",
+            "NameAr": "ترينكيانسكي بوهوسلافيكي"
+        },
+        {
+            "Code": "139377",
+            "Name": "Trencianske Teplice",
+            "NameAr": "ترينكيانسكي تيبليكي"
+        },
+        {
+            "Code": "140363",
+            "Name": "Trencin",
+            "NameAr": "ترينكين"
+        },
+        {
+            "Code": "139394",
+            "Name": "Trnava",
+            "NameAr": "ترنافا"
+        },
+        {
+            "Code": "108624",
+            "Name": "Trnkov",
+            "NameAr": "ترنكوف"
+        },
+        {
+            "Code": "148333",
+            "Name": "Trstena",
+            "NameAr": "ترستينا"
+        },
+        {
+            "Code": "139842",
+            "Name": "Turcianske Teplice",
+            "NameAr": "توركيانسكي تيبليكي"
+        },
+        {
+            "Code": "141122",
+            "Name": "Valcianska Dolina/Kleine Fatra",
+            "NameAr": "فالكيانسكا دولينا كلييني فاترا"
+        },
+        {
+            "Code": "141634",
+            "Name": "Velka Lomnica",
+            "NameAr": "فيلكا لومنيكا"
+        },
+        {
+            "Code": "140625",
+            "Name": "Velky Meder",
+            "NameAr": "فيلكي ميدير"
+        },
+        {
+            "Code": "140627",
+            "Name": "Velky Slavkov",
+            "NameAr": "فيلكي سلافكوف"
+        },
+        {
+            "Code": "107471",
+            "Name": "Viglas",
+            "NameAr": "فيجلاس"
+        },
+        {
+            "Code": "106408",
+            "Name": "Vinne",
+            "NameAr": "فينني"
+        },
+        {
+            "Code": "107698",
+            "Name": "Vrable",
+            "NameAr": "فرابلي"
+        },
+        {
+            "Code": "107516",
+            "Name": "Vrbove",
+            "NameAr": "فربوفي"
+        },
+        {
+            "Code": "142383",
+            "Name": "Vricko",
+            "NameAr": "فريككو"
+        },
+        {
+            "Code": "148579",
+            "Name": "Vyhne",
+            "NameAr": "فيهني"
+        },
+        {
+            "Code": "143217",
+            "Name": "Vysna Boca",
+            "NameAr": "فيسنا بوكا"
+        },
+        {
+            "Code": "142387",
+            "Name": "Vysne Ruzbachy",
+            "NameAr": "فيسني روزباكهي"
+        },
+        {
+            "Code": "148581",
+            "Name": "Vysoke Tatry",
+            "NameAr": "فيسوكي تاتري"
+        },
+        {
+            "Code": "107627",
+            "Name": "Zavar",
+            "NameAr": "زافار"
+        },
+        {
+            "Code": "143667",
+            "Name": "Zazriva",
+            "NameAr": "زازريفا"
+        },
+        {
+            "Code": "143668",
+            "Name": "Zdiar",
+            "NameAr": "زديار"
+        },
+        {
+            "Code": "143834",
+            "Name": "Zeliezovce",
+            "NameAr": "زيلييزوفكي"
+        },
+        {
+            "Code": "148810",
+            "Name": "Zilina",
+            "NameAr": "زيلينا"
+        },
+        {
+            "Code": "251952",
+            "Name": "Zilina District",
+            "NameAr": "زيلينا ديستريكت"
+        },
+        {
+            "Code": "107813",
+            "Name": "Zlate Moravce",
+            "NameAr": "زلاتي مورافكي"
+        },
+        {
+            "Code": "143487",
+            "Name": "Zuberec",
+            "NameAr": "زوبيريك"
+        },
+        {
+            "Code": "143491",
+            "Name": "Zvolen",
+            "NameAr": "زفولين"
+        }
+    ],
+    "totalCities": 193
+}

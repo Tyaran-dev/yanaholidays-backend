@@ -1,0 +1,22 @@
+{
+    "id": "NF",
+    "countryCode": "NF",
+    "cities": [
+        {
+            "Code": "358299",
+            "Name": "Burnt Pine",
+            "NameAr": "بورنت بيني"
+        },
+        {
+            "Code": "249824",
+            "Name": "Kingston",
+            "NameAr": "كينجستون"
+        },
+        {
+            "Code": "151737",
+            "Name": "Norfolk Island",
+            "NameAr": "نورفولك يسلاند"
+        }
+    ],
+    "totalCities": 3
+}

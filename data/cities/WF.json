@@ -1,0 +1,17 @@
+{
+    "id": "WF",
+    "countryCode": "WF",
+    "cities": [
+        {
+            "Code": "151759",
+            "Name": "Futuna Island",
+            "NameAr": "فوتونا يسلاند"
+        },
+        {
+            "Code": "151760",
+            "Name": "Wallis Island",
+            "NameAr": "والليس يسلاند"
+        }
+    ],
+    "totalCities": 2
+}

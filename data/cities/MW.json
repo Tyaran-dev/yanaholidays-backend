@@ -1,0 +1,107 @@
+{
+    "id": "MW",
+    "countryCode": "MW",
+    "cities": [
+        {
+            "Code": "112407",
+            "Name": "Blantyre",
+            "NameAr": "بلانتيري"
+        },
+        {
+            "Code": "149092",
+            "Name": "Cape Maclear",
+            "NameAr": "كابي ماكليار"
+        },
+        {
+            "Code": "149085",
+            "Name": "Chigumula",
+            "NameAr": "كهيجومولا"
+        },
+        {
+            "Code": "114539",
+            "Name": "Chintheche",
+            "NameAr": "كهينتهيكهي"
+        },
+        {
+            "Code": "150437",
+            "Name": "Club Makokola",
+            "NameAr": "كلوب ماكوكولا"
+        },
+        {
+            "Code": "125302",
+            "Name": "Likoma Island",
+            "NameAr": "ليكوما يسلاند"
+        },
+        {
+            "Code": "125853",
+            "Name": "Lilongwe",
+            "NameAr": "ليلونجوي"
+        },
+        {
+            "Code": "127395",
+            "Name": "Malawi See",
+            "NameAr": "مالاوي سيي"
+        },
+        {
+            "Code": "127115",
+            "Name": "Mangochi",
+            "NameAr": "مانجوكهي"
+        },
+        {
+            "Code": "129691",
+            "Name": "Mulanje",
+            "NameAr": "مولانجي"
+        },
+        {
+            "Code": "129696",
+            "Name": "Mumbo Island",
+            "NameAr": "مومبو يسلاند"
+        },
+        {
+            "Code": "129245",
+            "Name": "Mzimba",
+            "NameAr": "مزيمبا"
+        },
+        {
+            "Code": "129443",
+            "Name": "Mzuzu",
+            "NameAr": "مزوزو"
+        },
+        {
+            "Code": "149086",
+            "Name": "Nkhata Bay",
+            "NameAr": "نكهاتا باي"
+        },
+        {
+            "Code": "130492",
+            "Name": "Nkhotakota",
+            "NameAr": "نكهوتاكوتا"
+        },
+        {
+            "Code": "129958",
+            "Name": "Nyika Nationalpark",
+            "NameAr": "نييكا ناتيونالبارك"
+        },
+        {
+            "Code": "136155",
+            "Name": "Salima",
+            "NameAr": "ساليما"
+        },
+        {
+            "Code": "138647",
+            "Name": "Thyolo",
+            "NameAr": "تهيولو"
+        },
+        {
+            "Code": "141248",
+            "Name": "Ulongwe",
+            "NameAr": "ولونجوي"
+        },
+        {
+            "Code": "143555",
+            "Name": "Zomba",
+            "NameAr": "زومبا"
+        }
+    ],
+    "totalCities": 20
+}

@@ -1,0 +1,1407 @@
+{
+    "id": "NZ",
+    "countryCode": "NZ",
+    "cities": [
+        {
+            "Code": "100436",
+            "Name": "Abel-Tasman-Nationalpark",
+            "NameAr": "ابيل-تاسمان-ناتيونالبارك"
+        },
+        {
+            "Code": "100594",
+            "Name": "Ahipara",
+            "NameAr": "اهيبارا"
+        },
+        {
+            "Code": "100073",
+            "Name": "Akaroa",
+            "NameAr": "اكاروا"
+        },
+        {
+            "Code": "104701",
+            "Name": "Albany",
+            "NameAr": "الباني"
+        },
+        {
+            "Code": "100839",
+            "Name": "Alexandra",
+            "NameAr": "اليكساندرا"
+        },
+        {
+            "Code": "109313",
+            "Name": "Amberley",
+            "NameAr": "امبيرليي"
+        },
+        {
+            "Code": "150550",
+            "Name": "Ardmore",
+            "NameAr": "اردموري"
+        },
+        {
+            "Code": "110198",
+            "Name": "Arrowtown",
+            "NameAr": "اررووتوون"
+        },
+        {
+            "Code": "100963",
+            "Name": "Arthur's Pass",
+            "NameAr": "ارتهورس باسس"
+        },
+        {
+            "Code": "100964",
+            "Name": "Arthur's Point",
+            "NameAr": "ارتهورس بوينت"
+        },
+        {
+            "Code": "101080",
+            "Name": "Ashburton",
+            "NameAr": "اسهبورتون"
+        },
+        {
+            "Code": "109654",
+            "Name": "Auckland",
+            "NameAr": "اوككلاند"
+        },
+        {
+            "Code": "110665",
+            "Name": "Balclutha",
+            "NameAr": "بالكلوتها"
+        },
+        {
+            "Code": "109829",
+            "Name": "Balfour",
+            "NameAr": "بالفوور"
+        },
+        {
+            "Code": "111046",
+            "Name": "Bay of Islands / Paihia",
+            "NameAr": "باي وف يسلاندس بايهيا"
+        },
+        {
+            "Code": "111047",
+            "Name": "Bay Of Plenty",
+            "NameAr": "باي وف بلينتي"
+        },
+        {
+            "Code": "110901",
+            "Name": "Beachlands",
+            "NameAr": "بياكهلاندس"
+        },
+        {
+            "Code": "111234",
+            "Name": "Blenheim",
+            "NameAr": "بلينهييم"
+        },
+        {
+            "Code": "101415",
+            "Name": "Bluff",
+            "NameAr": "بلوفف"
+        },
+        {
+            "Code": "101368",
+            "Name": "Brightwater",
+            "NameAr": "بريجهتواتير"
+        },
+        {
+            "Code": "112974",
+            "Name": "Bruce Bay",
+            "NameAr": "بروكي باي"
+        },
+        {
+            "Code": "113027",
+            "Name": "Cable Bay",
+            "NameAr": "كابلي باي"
+        },
+        {
+            "Code": "113271",
+            "Name": "Cambridge",
+            "NameAr": "كامبريدجي"
+        },
+        {
+            "Code": "105234",
+            "Name": "Cardrona",
+            "NameAr": "كاردرونا"
+        },
+        {
+            "Code": "101397",
+            "Name": "Carterton",
+            "NameAr": "كارتيرتون"
+        },
+        {
+            "Code": "114888",
+            "Name": "Catlins",
+            "NameAr": "كاتلينس"
+        },
+        {
+            "Code": "114244",
+            "Name": "Charleston",
+            "NameAr": "كهارليستون"
+        },
+        {
+            "Code": "347128",
+            "Name": "Cheviot",
+            "NameAr": "كهيفيوت"
+        },
+        {
+            "Code": "144687",
+            "Name": "Christchurch",
+            "NameAr": "كهريستكهوركه"
+        },
+        {
+            "Code": "144721",
+            "Name": "Clyde",
+            "NameAr": "كليدي"
+        },
+        {
+            "Code": "268813",
+            "Name": "Coldstream",
+            "NameAr": "كولدستريام"
+        },
+        {
+            "Code": "115470",
+            "Name": "Collingwood",
+            "NameAr": "كوللينجووود"
+        },
+        {
+            "Code": "114446",
+            "Name": "Cooks Beach",
+            "NameAr": "كووكس بياكه"
+        },
+        {
+            "Code": "105982",
+            "Name": "Coopers Beach",
+            "NameAr": "كووبيرس بياكه"
+        },
+        {
+            "Code": "115296",
+            "Name": "Coromandel",
+            "NameAr": "كورومانديل"
+        },
+        {
+            "Code": "115600",
+            "Name": "Cromwell",
+            "NameAr": "كرومويلل"
+        },
+        {
+            "Code": "116260",
+            "Name": "Dannevirke",
+            "NameAr": "داننيفيركي"
+        },
+        {
+            "Code": "116144",
+            "Name": "Darfield",
+            "NameAr": "دارفييلد"
+        },
+        {
+            "Code": "116627",
+            "Name": "Dargaville",
+            "NameAr": "دارجافيللي"
+        },
+        {
+            "Code": "116442",
+            "Name": "Drury",
+            "NameAr": "دروري"
+        },
+        {
+            "Code": "117040",
+            "Name": "Dunedin",
+            "NameAr": "دونيدين"
+        },
+        {
+            "Code": "117438",
+            "Name": "Earnscleugh",
+            "NameAr": "يارنسكليوجه"
+        },
+        {
+            "Code": "355832",
+            "Name": "Elsthorpe",
+            "NameAr": "يلستهوربي"
+        },
+        {
+            "Code": "106042",
+            "Name": "Eltham",
+            "NameAr": "يلتهام"
+        },
+        {
+            "Code": "406205",
+            "Name": "Eskdale",
+            "NameAr": "يسكدالي"
+        },
+        {
+            "Code": "117545",
+            "Name": "Fairlie",
+            "NameAr": "فايرليي"
+        },
+        {
+            "Code": "117307",
+            "Name": "Featherston",
+            "NameAr": "فياتهيرستون"
+        },
+        {
+            "Code": "102228",
+            "Name": "Feilding",
+            "NameAr": "فييلدينج"
+        },
+        {
+            "Code": "118324",
+            "Name": "Forsyth Island",
+            "NameAr": "فورسيته يسلاند"
+        },
+        {
+            "Code": "118889",
+            "Name": "Fox Glacier",
+            "NameAr": "فوكس جلاكيير"
+        },
+        {
+            "Code": "118620",
+            "Name": "Franz Josef Glacier",
+            "NameAr": "فرانز جوسيف جلاكيير"
+        },
+        {
+            "Code": "118679",
+            "Name": "Geraldine",
+            "NameAr": "جيرالديني"
+        },
+        {
+            "Code": "118708",
+            "Name": "Gisborne",
+            "NameAr": "جيسبورني"
+        },
+        {
+            "Code": "119661",
+            "Name": "Glenorchy",
+            "NameAr": "جلينوركهي"
+        },
+        {
+            "Code": "119294",
+            "Name": "Glenroy",
+            "NameAr": "جلينروي"
+        },
+        {
+            "Code": "145368",
+            "Name": "Glentanner",
+            "NameAr": "جلينتاننير"
+        },
+        {
+            "Code": "119423",
+            "Name": "Gore",
+            "NameAr": "جوري"
+        },
+        {
+            "Code": "105921",
+            "Name": "Granity",
+            "NameAr": "جرانيتي"
+        },
+        {
+            "Code": "120108",
+            "Name": "Great Barrier Island",
+            "NameAr": "جريات بارريير يسلاند"
+        },
+        {
+            "Code": "119214",
+            "Name": "Greenmeadows",
+            "NameAr": "جريينميادووس"
+        },
+        {
+            "Code": "119726",
+            "Name": "Greymouth",
+            "NameAr": "جرييمووته"
+        },
+        {
+            "Code": "101533",
+            "Name": "Greytown",
+            "NameAr": "جرييتوون"
+        },
+        {
+            "Code": "145500",
+            "Name": "Haast",
+            "NameAr": "هااست"
+        },
+        {
+            "Code": "120176",
+            "Name": "Hahei",
+            "NameAr": "هاهيي"
+        },
+        {
+            "Code": "120195",
+            "Name": "Hamilton",
+            "NameAr": "هاميلتون"
+        },
+        {
+            "Code": "120201",
+            "Name": "Hanmer Springs",
+            "NameAr": "هانمير سبرينجس"
+        },
+        {
+            "Code": "120776",
+            "Name": "Hari Hari",
+            "NameAr": "هاري هاري"
+        },
+        {
+            "Code": "150204",
+            "Name": "Haruru",
+            "NameAr": "هارورو"
+        },
+        {
+            "Code": "120788",
+            "Name": "Hastings",
+            "NameAr": "هاستينجس"
+        },
+        {
+            "Code": "120795",
+            "Name": "Havel North",
+            "NameAr": "هافيل نورته"
+        },
+        {
+            "Code": "105843",
+            "Name": "Havelock North",
+            "NameAr": "هافيلوكك نورته"
+        },
+        {
+            "Code": "102511",
+            "Name": "Hawarden",
+            "NameAr": "هاواردين"
+        },
+        {
+            "Code": "106140",
+            "Name": "Hawera",
+            "NameAr": "هاويرا"
+        },
+        {
+            "Code": "120511",
+            "Name": "Hawke's Bay",
+            "NameAr": "هاوكيس باي"
+        },
+        {
+            "Code": "226836",
+            "Name": "Helena Bay",
+            "NameAr": "هيلينا باي"
+        },
+        {
+            "Code": "120666",
+            "Name": "Henderson",
+            "NameAr": "هينديرسون"
+        },
+        {
+            "Code": "102437",
+            "Name": "Hicks Bay",
+            "NameAr": "هيككس باي"
+        },
+        {
+            "Code": "120850",
+            "Name": "Hikurangi",
+            "NameAr": "هيكورانجي"
+        },
+        {
+            "Code": "106150",
+            "Name": "Himatangi Beach",
+            "NameAr": "هيماتانجي بياكه"
+        },
+        {
+            "Code": "120728",
+            "Name": "Hokianga",
+            "NameAr": "هوكيانجا"
+        },
+        {
+            "Code": "120968",
+            "Name": "Hokitika",
+            "NameAr": "هوكيتيكا"
+        },
+        {
+            "Code": "121560",
+            "Name": "Hot Water Beach",
+            "NameAr": "هوت واتير بياكه"
+        },
+        {
+            "Code": "122704",
+            "Name": "Invercargill",
+            "NameAr": "ينفيركارجيلل"
+        },
+        {
+            "Code": "401176",
+            "Name": "Kaeo",
+            "NameAr": "كايو"
+        },
+        {
+            "Code": "151390",
+            "Name": "Kaikohe",
+            "NameAr": "كايكوهي"
+        },
+        {
+            "Code": "122903",
+            "Name": "Kaikoura",
+            "NameAr": "كايكوورا"
+        },
+        {
+            "Code": "122802",
+            "Name": "Kaitaia",
+            "NameAr": "كايتايا"
+        },
+        {
+            "Code": "122906",
+            "Name": "Kaiteriteri",
+            "NameAr": "كايتيريتيري"
+        },
+        {
+            "Code": "121825",
+            "Name": "Kaiwaka",
+            "NameAr": "كايواكا"
+        },
+        {
+            "Code": "122232",
+            "Name": "Kaka Point",
+            "NameAr": "كاكا بوينت"
+        },
+        {
+            "Code": "355880",
+            "Name": "Kapiti Coast District",
+            "NameAr": "كابيتي كواست ديستريكت"
+        },
+        {
+            "Code": "123200",
+            "Name": "Kapiti Island",
+            "NameAr": "كابيتي يسلاند"
+        },
+        {
+            "Code": "122834",
+            "Name": "Karamea",
+            "NameAr": "كاراميا"
+        },
+        {
+            "Code": "123211",
+            "Name": "Karikari Peninsula",
+            "NameAr": "كاريكاري بينينسولا"
+        },
+        {
+            "Code": "123109",
+            "Name": "Katikati",
+            "NameAr": "كاتيكاتي"
+        },
+        {
+            "Code": "122293",
+            "Name": "Kawau Island",
+            "NameAr": "كاواو يسلاند"
+        },
+        {
+            "Code": "124221",
+            "Name": "Kerikeri",
+            "NameAr": "كيريكيري"
+        },
+        {
+            "Code": "125001",
+            "Name": "Kumara",
+            "NameAr": "كومارا"
+        },
+        {
+            "Code": "103861",
+            "Name": "Lake Coleridge",
+            "NameAr": "لاكي كوليريدجي"
+        },
+        {
+            "Code": "125183",
+            "Name": "Lake Moeraki",
+            "NameAr": "لاكي مويراكي"
+        },
+        {
+            "Code": "146116",
+            "Name": "Lake Tekapo",
+            "NameAr": "لاكي تيكابو"
+        },
+        {
+            "Code": "146254",
+            "Name": "Levin",
+            "NameAr": "ليفين"
+        },
+        {
+            "Code": "106441",
+            "Name": "Lincoln",
+            "NameAr": "لينكولن"
+        },
+        {
+            "Code": "125472",
+            "Name": "Little River",
+            "NameAr": "ليتتلي ريفير"
+        },
+        {
+            "Code": "146374",
+            "Name": "Lower Hutt",
+            "NameAr": "لووير هوتت"
+        },
+        {
+            "Code": "103784",
+            "Name": "Maketu",
+            "NameAr": "ماكيتو"
+        },
+        {
+            "Code": "127407",
+            "Name": "Manapouri",
+            "NameAr": "مانابووري"
+        },
+        {
+            "Code": "104023",
+            "Name": "Mangakino",
+            "NameAr": "مانجاكينو"
+        },
+        {
+            "Code": "126807",
+            "Name": "Mangatawhiri Valley",
+            "NameAr": "مانجاتاوهيري فالليي"
+        },
+        {
+            "Code": "106475",
+            "Name": "Mangawhai",
+            "NameAr": "مانجاوهاي"
+        },
+        {
+            "Code": "146463",
+            "Name": "Mangere",
+            "NameAr": "مانجيري"
+        },
+        {
+            "Code": "128036",
+            "Name": "Mangonui",
+            "NameAr": "مانجونوي"
+        },
+        {
+            "Code": "128049",
+            "Name": "Manukau City",
+            "NameAr": "مانوكاو كيتي"
+        },
+        {
+            "Code": "149257",
+            "Name": "Mapua",
+            "NameAr": "مابوا"
+        },
+        {
+            "Code": "146482",
+            "Name": "Maraha",
+            "NameAr": "ماراها"
+        },
+        {
+            "Code": "377063",
+            "Name": "Marahau",
+            "NameAr": "ماراهاو"
+        },
+        {
+            "Code": "126872",
+            "Name": "Marlborough Sounds",
+            "NameAr": "مارلبورووجه سووندس"
+        },
+        {
+            "Code": "126882",
+            "Name": "Martinborough",
+            "NameAr": "مارتينبورووجه"
+        },
+        {
+            "Code": "126885",
+            "Name": "Marton",
+            "NameAr": "مارتون"
+        },
+        {
+            "Code": "127841",
+            "Name": "Maruia Springs",
+            "NameAr": "مارويا سبرينجس"
+        },
+        {
+            "Code": "126897",
+            "Name": "Masterton",
+            "NameAr": "ماستيرتون"
+        },
+        {
+            "Code": "146541",
+            "Name": "Matakana",
+            "NameAr": "ماتاكانا"
+        },
+        {
+            "Code": "128152",
+            "Name": "Matamata",
+            "NameAr": "ماتاماتا"
+        },
+        {
+            "Code": "417052",
+            "Name": "Matata",
+            "NameAr": "ماتاتا"
+        },
+        {
+            "Code": "417325",
+            "Name": "Mendip Hills",
+            "NameAr": "مينديب هيللس"
+        },
+        {
+            "Code": "127180",
+            "Name": "Methven",
+            "NameAr": "ميتهفين"
+        },
+        {
+            "Code": "128598",
+            "Name": "Milford Sound",
+            "NameAr": "ميلفورد سووند"
+        },
+        {
+            "Code": "127660",
+            "Name": "Milton",
+            "NameAr": "ميلتون"
+        },
+        {
+            "Code": "127785",
+            "Name": "Miranda",
+            "NameAr": "ميراندا"
+        },
+        {
+            "Code": "146656",
+            "Name": "Moana",
+            "NameAr": "موانا"
+        },
+        {
+            "Code": "104249",
+            "Name": "Morrinsville",
+            "NameAr": "موررينسفيللي"
+        },
+        {
+            "Code": "101910",
+            "Name": "Mosgiel",
+            "NameAr": "موسجييل"
+        },
+        {
+            "Code": "129646",
+            "Name": "Motueka",
+            "NameAr": "موتويكا"
+        },
+        {
+            "Code": "365954",
+            "Name": "Motutere",
+            "NameAr": "موتوتيري"
+        },
+        {
+            "Code": "101264",
+            "Name": "Mount Cook",
+            "NameAr": "موونت كووك"
+        },
+        {
+            "Code": "129067",
+            "Name": "Mount Cook National Park",
+            "NameAr": "موونت كووك ناتيونال بارك"
+        },
+        {
+            "Code": "150246",
+            "Name": "Mount Maunganui",
+            "NameAr": "موونت ماونجانوي"
+        },
+        {
+            "Code": "102842",
+            "Name": "Mount Somers",
+            "NameAr": "موونت سوميرس"
+        },
+        {
+            "Code": "129707",
+            "Name": "Murchison",
+            "NameAr": "موركهيسون"
+        },
+        {
+            "Code": "130112",
+            "Name": "Napier",
+            "NameAr": "نابيير"
+        },
+        {
+            "Code": "130125",
+            "Name": "National Park",
+            "NameAr": "ناتيونال بارك"
+        },
+        {
+            "Code": "146819",
+            "Name": "National Park Village",
+            "NameAr": "ناتيونال بارك فيللاجي"
+        },
+        {
+            "Code": "129290",
+            "Name": "Nelson",
+            "NameAr": "نيلسون"
+        },
+        {
+            "Code": "129334",
+            "Name": "New Plymouth",
+            "NameAr": "نيو بليمووته"
+        },
+        {
+            "Code": "106546",
+            "Name": "Ngaruawahia",
+            "NameAr": "نجارواواهيا"
+        },
+        {
+            "Code": "129889",
+            "Name": "Ngongotaha",
+            "NameAr": "نجونجوتاها"
+        },
+        {
+            "Code": "104827",
+            "Name": "Oakura",
+            "NameAr": "واكورا"
+        },
+        {
+            "Code": "129539",
+            "Name": "Oamaru",
+            "NameAr": "وامارو"
+        },
+        {
+            "Code": "223330",
+            "Name": "Ohaeawai",
+            "NameAr": "وهاياواي"
+        },
+        {
+            "Code": "131898",
+            "Name": "Ohakune",
+            "NameAr": "وهاكوني"
+        },
+        {
+            "Code": "379649",
+            "Name": "Ohope",
+            "NameAr": "وهوبي"
+        },
+        {
+            "Code": "104557",
+            "Name": "Ohope Beach",
+            "NameAr": "وهوبي بياكه"
+        },
+        {
+            "Code": "131274",
+            "Name": "Omarama",
+            "NameAr": "وماراما"
+        },
+        {
+            "Code": "106568",
+            "Name": "Ophir",
+            "NameAr": "وبهير"
+        },
+        {
+            "Code": "131930",
+            "Name": "Opononi",
+            "NameAr": "وبونوني"
+        },
+        {
+            "Code": "104565",
+            "Name": "Opotiki",
+            "NameAr": "وبوتيكي"
+        },
+        {
+            "Code": "130645",
+            "Name": "Opua",
+            "NameAr": "وبوا"
+        },
+        {
+            "Code": "104302",
+            "Name": "Opunake",
+            "NameAr": "وبوناكي"
+        },
+        {
+            "Code": "130797",
+            "Name": "Orewa",
+            "NameAr": "وريوا"
+        },
+        {
+            "Code": "147031",
+            "Name": "Ostend",
+            "NameAr": "وستيند"
+        },
+        {
+            "Code": "155003",
+            "Name": "Otago",
+            "NameAr": "وتاجو"
+        },
+        {
+            "Code": "417326",
+            "Name": "Otautau",
+            "NameAr": "وتاوتاو"
+        },
+        {
+            "Code": "131995",
+            "Name": "Otorohanga",
+            "NameAr": "وتوروهانجا"
+        },
+        {
+            "Code": "131364",
+            "Name": "Outram",
+            "NameAr": "ووترام"
+        },
+        {
+            "Code": "131981",
+            "Name": "Owaka",
+            "NameAr": "وواكا"
+        },
+        {
+            "Code": "147049",
+            "Name": "Owhango",
+            "NameAr": "ووهانجو"
+        },
+        {
+            "Code": "106577",
+            "Name": "Paekakariki",
+            "NameAr": "بايكاكاريكي"
+        },
+        {
+            "Code": "147066",
+            "Name": "Paihia",
+            "NameAr": "بايهيا"
+        },
+        {
+            "Code": "131382",
+            "Name": "Pakiri",
+            "NameAr": "باكيري"
+        },
+        {
+            "Code": "132657",
+            "Name": "Palmerston North",
+            "NameAr": "بالميرستون نورته"
+        },
+        {
+            "Code": "104206",
+            "Name": "Papakura",
+            "NameAr": "باباكورا"
+        },
+        {
+            "Code": "102735",
+            "Name": "Papamoa",
+            "NameAr": "باباموا"
+        },
+        {
+            "Code": "131451",
+            "Name": "Paraparaumu",
+            "NameAr": "باراباراومو"
+        },
+        {
+            "Code": "131569",
+            "Name": "Pauanui",
+            "NameAr": "باوانوي"
+        },
+        {
+            "Code": "133406",
+            "Name": "Picton",
+            "NameAr": "بيكتون"
+        },
+        {
+            "Code": "103067",
+            "Name": "Plimmerton",
+            "NameAr": "بليمميرتون"
+        },
+        {
+            "Code": "133207",
+            "Name": "Pohara",
+            "NameAr": "بوهارا"
+        },
+        {
+            "Code": "131825",
+            "Name": "Porirua",
+            "NameAr": "بوريروا"
+        },
+        {
+            "Code": "132391",
+            "Name": "Port Charles",
+            "NameAr": "بورت كهارليس"
+        },
+        {
+            "Code": "150813",
+            "Name": "Port Fitzroy",
+            "NameAr": "بورت فيتزروي"
+        },
+        {
+            "Code": "147401",
+            "Name": "Puhoi",
+            "NameAr": "بوهوي"
+        },
+        {
+            "Code": "133059",
+            "Name": "Pukaki",
+            "NameAr": "بوكاكي"
+        },
+        {
+            "Code": "134359",
+            "Name": "Pukekohe",
+            "NameAr": "بوكيكوهي"
+        },
+        {
+            "Code": "102103",
+            "Name": "Pukenui",
+            "NameAr": "بوكينوي"
+        },
+        {
+            "Code": "147405",
+            "Name": "Punakaiki",
+            "NameAr": "بوناكايكي"
+        },
+        {
+            "Code": "133654",
+            "Name": "Queenstown",
+            "NameAr": "قويينستوون"
+        },
+        {
+            "Code": "134206",
+            "Name": "Raetihi",
+            "NameAr": "رايتيهي"
+        },
+        {
+            "Code": "134209",
+            "Name": "Raglan",
+            "NameAr": "راجلان"
+        },
+        {
+            "Code": "134042",
+            "Name": "Rakaia",
+            "NameAr": "راكايا"
+        },
+        {
+            "Code": "379659",
+            "Name": "Ramarama",
+            "NameAr": "راماراما"
+        },
+        {
+            "Code": "133763",
+            "Name": "Ranfurly",
+            "NameAr": "رانفورلي"
+        },
+        {
+            "Code": "147455",
+            "Name": "Rangiora",
+            "NameAr": "رانجيورا"
+        },
+        {
+            "Code": "154990",
+            "Name": "Rangitikei District",
+            "NameAr": "رانجيتيكيي ديستريكت"
+        },
+        {
+            "Code": "417053",
+            "Name": "Rawene",
+            "NameAr": "راويني"
+        },
+        {
+            "Code": "133874",
+            "Name": "Reefton",
+            "NameAr": "رييفتون"
+        },
+        {
+            "Code": "135083",
+            "Name": "Remuera",
+            "NameAr": "ريمويرا"
+        },
+        {
+            "Code": "341838",
+            "Name": "Renwick",
+            "NameAr": "رينويكك"
+        },
+        {
+            "Code": "106983",
+            "Name": "Richmond",
+            "NameAr": "ريكهموند"
+        },
+        {
+            "Code": "134475",
+            "Name": "Ross",
+            "NameAr": "روسس"
+        },
+        {
+            "Code": "134083",
+            "Name": "Rotorua",
+            "NameAr": "روتوروا"
+        },
+        {
+            "Code": "134574",
+            "Name": "Roxburgh",
+            "NameAr": "روكسبورجه"
+        },
+        {
+            "Code": "155010",
+            "Name": "Ruapehu District",
+            "NameAr": "روابيهو ديستريكت"
+        },
+        {
+            "Code": "108454",
+            "Name": "Runanga",
+            "NameAr": "رونانجا"
+        },
+        {
+            "Code": "134663",
+            "Name": "Russell",
+            "NameAr": "روسسيلل"
+        },
+        {
+            "Code": "138695",
+            "Name": "Silverdale",
+            "NameAr": "سيلفيردالي"
+        },
+        {
+            "Code": "138184",
+            "Name": "Springfield",
+            "NameAr": "سبرينجفييلد"
+        },
+        {
+            "Code": "139464",
+            "Name": "St. Arnaud",
+            "NameAr": "ست ارناود"
+        },
+        {
+            "Code": "138266",
+            "Name": "Stewart Island",
+            "NameAr": "ستيوارت يسلاند"
+        },
+        {
+            "Code": "139120",
+            "Name": "Stratford",
+            "NameAr": "ستراتفورد"
+        },
+        {
+            "Code": "150845",
+            "Name": "Surfdale",
+            "NameAr": "سورفدالي"
+        },
+        {
+            "Code": "148136",
+            "Name": "Tai Tapu",
+            "NameAr": "تاي تابو"
+        },
+        {
+            "Code": "139895",
+            "Name": "Taihape",
+            "NameAr": "تايهابي"
+        },
+        {
+            "Code": "139182",
+            "Name": "Taipa",
+            "NameAr": "تايبا"
+        },
+        {
+            "Code": "139898",
+            "Name": "Tairua",
+            "NameAr": "تايروا"
+        },
+        {
+            "Code": "151701",
+            "Name": "Takaka",
+            "NameAr": "تاكاكا"
+        },
+        {
+            "Code": "106940",
+            "Name": "Takanini",
+            "NameAr": "تاكانيني"
+        },
+        {
+            "Code": "148139",
+            "Name": "Takapuna",
+            "NameAr": "تاكابونا"
+        },
+        {
+            "Code": "106823",
+            "Name": "Tamahere",
+            "NameAr": "تاماهيري"
+        },
+        {
+            "Code": "409082",
+            "Name": "Tasman",
+            "NameAr": "تاسمان"
+        },
+        {
+            "Code": "106951",
+            "Name": "Taumarunui",
+            "NameAr": "تاومارونوي"
+        },
+        {
+            "Code": "139982",
+            "Name": "Taupo",
+            "NameAr": "تاوبو"
+        },
+        {
+            "Code": "140977",
+            "Name": "Tauranga",
+            "NameAr": "تاورانجا"
+        },
+        {
+            "Code": "139580",
+            "Name": "Te Anau",
+            "NameAr": "تي اناو"
+        },
+        {
+            "Code": "106828",
+            "Name": "Te Awanga",
+            "NameAr": "تي اوانجا"
+        },
+        {
+            "Code": "139934",
+            "Name": "Te Horo",
+            "NameAr": "تي هورو"
+        },
+        {
+            "Code": "140980",
+            "Name": "Te Kaha",
+            "NameAr": "تي كاها"
+        },
+        {
+            "Code": "148175",
+            "Name": "Te Kauwhata",
+            "NameAr": "تي كاووهاتا"
+        },
+        {
+            "Code": "139038",
+            "Name": "Te Kuiti",
+            "NameAr": "تي كويتي"
+        },
+        {
+            "Code": "107296",
+            "Name": "Te Puru",
+            "NameAr": "تي بورو"
+        },
+        {
+            "Code": "108600",
+            "Name": "Temuka",
+            "NameAr": "تيموكا"
+        },
+        {
+            "Code": "139966",
+            "Name": "Thames",
+            "NameAr": "تهاميس"
+        },
+        {
+            "Code": "140305",
+            "Name": "Timaru",
+            "NameAr": "تيمارو"
+        },
+        {
+            "Code": "106393",
+            "Name": "Tirau",
+            "NameAr": "تيراو"
+        },
+        {
+            "Code": "106966",
+            "Name": "Tokaanu",
+            "NameAr": "توكاانو"
+        },
+        {
+            "Code": "140322",
+            "Name": "Tokanui",
+            "NameAr": "توكانوي"
+        },
+        {
+            "Code": "150850",
+            "Name": "Tokoroa",
+            "NameAr": "توكوروا"
+        },
+        {
+            "Code": "140469",
+            "Name": "Tongariro National Park",
+            "NameAr": "تونجاريرو ناتيونال بارك"
+        },
+        {
+            "Code": "140825",
+            "Name": "Trentham",
+            "NameAr": "ترينتهام"
+        },
+        {
+            "Code": "107796",
+            "Name": "Tryphena",
+            "NameAr": "تريبهينا"
+        },
+        {
+            "Code": "107195",
+            "Name": "Tuakau",
+            "NameAr": "تواكاو"
+        },
+        {
+            "Code": "141816",
+            "Name": "Turangi",
+            "NameAr": "تورانجي"
+        },
+        {
+            "Code": "139846",
+            "Name": "Tutukaka",
+            "NameAr": "توتوكاكا"
+        },
+        {
+            "Code": "141825",
+            "Name": "Twizel",
+            "NameAr": "تويزيل"
+        },
+        {
+            "Code": "140552",
+            "Name": "Upper Moutere",
+            "NameAr": "وببير مووتيري"
+        },
+        {
+            "Code": "143227",
+            "Name": "Waiatarua",
+            "NameAr": "واياتاروا"
+        },
+        {
+            "Code": "142763",
+            "Name": "Waiau",
+            "NameAr": "واياو"
+        },
+        {
+            "Code": "142765",
+            "Name": "Waiheke Island",
+            "NameAr": "وايهيكي يسلاند"
+        },
+        {
+            "Code": "142234",
+            "Name": "Waihi Beach",
+            "NameAr": "وايهي بياكه"
+        },
+        {
+            "Code": "107589",
+            "Name": "Waikanae",
+            "NameAr": "وايكاناي"
+        },
+        {
+            "Code": "141933",
+            "Name": "Waikato",
+            "NameAr": "وايكاتو"
+        },
+        {
+            "Code": "140961",
+            "Name": "Waikava",
+            "NameAr": "وايكافا"
+        },
+        {
+            "Code": "107519",
+            "Name": "Waimate",
+            "NameAr": "وايماتي"
+        },
+        {
+            "Code": "203575",
+            "Name": "Waipiata",
+            "NameAr": "وايبياتا"
+        },
+        {
+            "Code": "107590",
+            "Name": "Waipu",
+            "NameAr": "وايبو"
+        },
+        {
+            "Code": "412492",
+            "Name": "Waipukurau",
+            "NameAr": "وايبوكوراو"
+        },
+        {
+            "Code": "150856",
+            "Name": "Wairoa",
+            "NameAr": "وايروا"
+        },
+        {
+            "Code": "143234",
+            "Name": "Waitakere",
+            "NameAr": "وايتاكيري"
+        },
+        {
+            "Code": "305521",
+            "Name": "Waitaki District",
+            "NameAr": "وايتاكي ديستريكت"
+        },
+        {
+            "Code": "151713",
+            "Name": "Waitangi",
+            "NameAr": "وايتانجي"
+        },
+        {
+            "Code": "108678",
+            "Name": "Waitara",
+            "NameAr": "وايتارا"
+        },
+        {
+            "Code": "143235",
+            "Name": "Waitomo",
+            "NameAr": "وايتومو"
+        },
+        {
+            "Code": "107884",
+            "Name": "Waiuku",
+            "NameAr": "وايوكو"
+        },
+        {
+            "Code": "417051",
+            "Name": "Wakefield",
+            "NameAr": "واكيفييلد"
+        },
+        {
+            "Code": "141957",
+            "Name": "Wanaka",
+            "NameAr": "واناكا"
+        },
+        {
+            "Code": "148608",
+            "Name": "Wanganui",
+            "NameAr": "وانجانوي"
+        },
+        {
+            "Code": "141962",
+            "Name": "Warkworth",
+            "NameAr": "واركوورته"
+        },
+        {
+            "Code": "142120",
+            "Name": "Wellington",
+            "NameAr": "ويللينجتون"
+        },
+        {
+            "Code": "379660",
+            "Name": "Wellsford",
+            "NameAr": "ويللسفورد"
+        },
+        {
+            "Code": "303034",
+            "Name": "Westland District",
+            "NameAr": "ويستلاند ديستريكت"
+        },
+        {
+            "Code": "148665",
+            "Name": "Westport",
+            "NameAr": "ويستبورت"
+        },
+        {
+            "Code": "143165",
+            "Name": "Whakatane",
+            "NameAr": "وهاكاتاني"
+        },
+        {
+            "Code": "143720",
+            "Name": "Whangamata",
+            "NameAr": "وهانجاماتا"
+        },
+        {
+            "Code": "143721",
+            "Name": "Whangaparaoa",
+            "NameAr": "وهانجاباراوا"
+        },
+        {
+            "Code": "142992",
+            "Name": "Whangarei",
+            "NameAr": "وهانجاريي"
+        },
+        {
+            "Code": "300387",
+            "Name": "Whangaroa",
+            "NameAr": "وهانجاروا"
+        },
+        {
+            "Code": "142690",
+            "Name": "Whitford",
+            "NameAr": "وهيتفورد"
+        },
+        {
+            "Code": "143421",
+            "Name": "Whitianga",
+            "NameAr": "وهيتيانجا"
+        },
+        {
+            "Code": "143745",
+            "Name": "Winchester",
+            "NameAr": "وينكهيستير"
+        },
+        {
+            "Code": "143450",
+            "Name": "Windwhistle",
+            "NameAr": "ويندوهيستلي"
+        },
+        {
+            "Code": "143600",
+            "Name": "Winton",
+            "NameAr": "وينتون"
+        }
+    ],
+    "totalCities": 280
+}

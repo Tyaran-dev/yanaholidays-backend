@@ -1,0 +1,637 @@
+{
+    "id": "MA",
+    "countryCode": "MA",
+    "cities": [
+        {
+            "Code": "100349",
+            "Name": "Afourer",
+            "NameAr": "افوورير"
+        },
+        {
+            "Code": "100779",
+            "Name": "Agadir",
+            "NameAr": "اجادير"
+        },
+        {
+            "Code": "100462",
+            "Name": "Agafay",
+            "NameAr": "اجافاي"
+        },
+        {
+            "Code": "100669",
+            "Name": "Agdz",
+            "NameAr": "اجدز"
+        },
+        {
+            "Code": "102145",
+            "Name": "Ait Baha",
+            "NameAr": "ايت باها"
+        },
+        {
+            "Code": "100604",
+            "Name": "Ait Ben Haddou",
+            "NameAr": "ايت بين هاددوو"
+        },
+        {
+            "Code": "293852",
+            "Name": "Ait Harz Allah",
+            "NameAr": "ايت هارز اللاه"
+        },
+        {
+            "Code": "102146",
+            "Name": "Ait Ourir",
+            "NameAr": "ايت وورير"
+        },
+        {
+            "Code": "105147",
+            "Name": "Akermoud",
+            "NameAr": "اكيرموود"
+        },
+        {
+            "Code": "100303",
+            "Name": "Al-Hoceima",
+            "NameAr": "ال-هوكييما"
+        },
+        {
+            "Code": "109408",
+            "Name": "Alnif",
+            "NameAr": "النيف"
+        },
+        {
+            "Code": "109479",
+            "Name": "Aoulouz",
+            "NameAr": "اوولووز"
+        },
+        {
+            "Code": "109235",
+            "Name": "Aourir",
+            "NameAr": "اوورير"
+        },
+        {
+            "Code": "105096",
+            "Name": "Aousserd",
+            "NameAr": "اووسسيرد"
+        },
+        {
+            "Code": "104735",
+            "Name": "Asgaour",
+            "NameAr": "اسجاوور"
+        },
+        {
+            "Code": "110221",
+            "Name": "Asilah",
+            "NameAr": "اسيلاه"
+        },
+        {
+            "Code": "143968",
+            "Name": "Asni",
+            "NameAr": "اسني"
+        },
+        {
+            "Code": "110264",
+            "Name": "Azilal",
+            "NameAr": "ازيلال"
+        },
+        {
+            "Code": "149151",
+            "Name": "Azrou",
+            "NameAr": "ازروو"
+        },
+        {
+            "Code": "101653",
+            "Name": "Bab Boudir",
+            "NameAr": "باب بوودير"
+        },
+        {
+            "Code": "388305",
+            "Name": "Ben Guerir",
+            "NameAr": "بين جويرير"
+        },
+        {
+            "Code": "418208",
+            "Name": "Benguerir",
+            "NameAr": "بينجويرير"
+        },
+        {
+            "Code": "144183",
+            "Name": "Beni-Mellal",
+            "NameAr": "بيني-ميللال"
+        },
+        {
+            "Code": "144205",
+            "Name": "Berkane",
+            "NameAr": "بيركاني"
+        },
+        {
+            "Code": "112180",
+            "Name": "Bin el Ouidane",
+            "NameAr": "بين يل وويداني"
+        },
+        {
+            "Code": "144336",
+            "Name": "Boumalne Dades",
+            "NameAr": "بوومالني داديس"
+        },
+        {
+            "Code": "112080",
+            "Name": "Bouznika",
+            "NameAr": "بووزنيكا"
+        },
+        {
+            "Code": "114032",
+            "Name": "Casablanca",
+            "NameAr": "كاسابلانكا"
+        },
+        {
+            "Code": "114782",
+            "Name": "Chefchaouen",
+            "NameAr": "كهيفكهاووين"
+        },
+        {
+            "Code": "115364",
+            "Name": "Col du Kerdous",
+            "NameAr": "كول دو كيردووس"
+        },
+        {
+            "Code": "116611",
+            "Name": "Dakhla (Dajla)",
+            "NameAr": "داكهلا داجلا"
+        },
+        {
+            "Code": "117136",
+            "Name": "El Jadida",
+            "NameAr": "يل جاديدا"
+        },
+        {
+            "Code": "330170",
+            "Name": "El Menzeh",
+            "NameAr": "يل مينزيه"
+        },
+        {
+            "Code": "261718",
+            "Name": "El Ouatia/Tan-Tan Plage",
+            "NameAr": "يل وواتيا تان-تان بلاجي"
+        },
+        {
+            "Code": "116829",
+            "Name": "El-Kelaa M'Gouna",
+            "NameAr": "يل-كيلاا مجوونا"
+        },
+        {
+            "Code": "117710",
+            "Name": "Erfoud",
+            "NameAr": "يرفوود"
+        },
+        {
+            "Code": "145103",
+            "Name": "Erg Chegaga",
+            "NameAr": "يرج كهيجاجا"
+        },
+        {
+            "Code": "117717",
+            "Name": "Errachidia",
+            "NameAr": "يرراكهيديا"
+        },
+        {
+            "Code": "117517",
+            "Name": "Essaouira",
+            "NameAr": "يسساوويرا"
+        },
+        {
+            "Code": "118818",
+            "Name": "Fes",
+            "NameAr": "فيس"
+        },
+        {
+            "Code": "151814",
+            "Name": "Fez",
+            "NameAr": "فيز"
+        },
+        {
+            "Code": "117914",
+            "Name": "Fnideq",
+            "NameAr": "فنيديق"
+        },
+        {
+            "Code": "118886",
+            "Name": "Foum-Zguid",
+            "NameAr": "فووم-زجويد"
+        },
+        {
+            "Code": "150592",
+            "Name": "Goulimime",
+            "NameAr": "جووليميمي"
+        },
+        {
+            "Code": "120049",
+            "Name": "Guercif",
+            "NameAr": "جويركيف"
+        },
+        {
+            "Code": "121711",
+            "Name": "Ifrane",
+            "NameAr": "يفراني"
+        },
+        {
+            "Code": "145739",
+            "Name": "Imlil",
+            "NameAr": "يمليل"
+        },
+        {
+            "Code": "121994",
+            "Name": "Imouzzer",
+            "NameAr": "يمووززير"
+        },
+        {
+            "Code": "291072",
+            "Name": "Imouzzer du Kandar",
+            "NameAr": "يمووززير دو كاندار"
+        },
+        {
+            "Code": "108321",
+            "Name": "Imouzzer Kandar",
+            "NameAr": "يمووززير كاندار"
+        },
+        {
+            "Code": "274919",
+            "Name": "Issaguen",
+            "NameAr": "يسساجوين"
+        },
+        {
+            "Code": "124212",
+            "Name": "Kenitra",
+            "NameAr": "كينيترا"
+        },
+        {
+            "Code": "103713",
+            "Name": "Ketama",
+            "NameAr": "كيتاما"
+        },
+        {
+            "Code": "122581",
+            "Name": "Khenifra",
+            "NameAr": "كهينيفرا"
+        },
+        {
+            "Code": "122999",
+            "Name": "Khouribga",
+            "NameAr": "كهووريبجا"
+        },
+        {
+            "Code": "223986",
+            "Name": "Laayoune",
+            "NameAr": "لاايووني"
+        },
+        {
+            "Code": "124101",
+            "Name": "Lalla Takerkoust",
+            "NameAr": "لاللا تاكيركووست"
+        },
+        {
+            "Code": "295651",
+            "Name": "Larache",
+            "NameAr": "لاراكهي"
+        },
+        {
+            "Code": "127710",
+            "Name": "M'diq",
+            "NameAr": "مديق"
+        },
+        {
+            "Code": "128580",
+            "Name": "M'Hamid",
+            "NameAr": "مهاميد"
+        },
+        {
+            "Code": "106532",
+            "Name": "M'Rirt",
+            "NameAr": "مريرت"
+        },
+        {
+            "Code": "160855",
+            "Name": "Mansouria\t",
+            "NameAr": "مانسووريا"
+        },
+        {
+            "Code": "159351",
+            "Name": "Marrakech,   Marrakesh-Tensift-El Haouz (region)",
+            "NameAr": "مارراكيكه مارراكيسه-تينسيفت-يل هاووز ريجيون"
+        },
+        {
+            "Code": "127469",
+            "Name": "Marrakesch",
+            "NameAr": "مارراكيسكه"
+        },
+        {
+            "Code": "126928",
+            "Name": "Meknes",
+            "NameAr": "ميكنيس"
+        },
+        {
+            "Code": "127921",
+            "Name": "Merzouga",
+            "NameAr": "ميرزووجا"
+        },
+        {
+            "Code": "413056",
+            "Name": "Midelt",
+            "NameAr": "ميديلت"
+        },
+        {
+            "Code": "128882",
+            "Name": "Mirleft",
+            "NameAr": "ميرليفت"
+        },
+        {
+            "Code": "102632",
+            "Name": "Missour",
+            "NameAr": "ميسسوور"
+        },
+        {
+            "Code": "128894",
+            "Name": "Mohammedia",
+            "NameAr": "موهامميديا"
+        },
+        {
+            "Code": "128546",
+            "Name": "Moulay Idriss Zerhoun",
+            "NameAr": "موولاي يدريسس زيرهوون"
+        },
+        {
+            "Code": "102876",
+            "Name": "N'Kob",
+            "NameAr": "نكوب"
+        },
+        {
+            "Code": "131144",
+            "Name": "N'Koub",
+            "NameAr": "نكووب"
+        },
+        {
+            "Code": "129251",
+            "Name": "Nador",
+            "NameAr": "نادور"
+        },
+        {
+            "Code": "131998",
+            "Name": "Oualidia",
+            "NameAr": "وواليديا"
+        },
+        {
+            "Code": "104421",
+            "Name": "Ouaouizeght",
+            "NameAr": "وواوويزيجهت"
+        },
+        {
+            "Code": "130835",
+            "Name": "Ouarzazate",
+            "NameAr": "ووارزازاتي"
+        },
+        {
+            "Code": "131701",
+            "Name": "Ouirgane",
+            "NameAr": "وويرجاني"
+        },
+        {
+            "Code": "130836",
+            "Name": "Oujda",
+            "NameAr": "ووجدا"
+        },
+        {
+            "Code": "130837",
+            "Name": "Oukaimeden",
+            "NameAr": "ووكايميدين"
+        },
+        {
+            "Code": "244229",
+            "Name": "Oulad Hassoune",
+            "NameAr": "وولاد هاسسووني"
+        },
+        {
+            "Code": "104838",
+            "Name": "Oulad Teima",
+            "NameAr": "وولاد تييما"
+        },
+        {
+            "Code": "130290",
+            "Name": "Ouled Berhil",
+            "NameAr": "ووليد بيرهيل"
+        },
+        {
+            "Code": "131362",
+            "Name": "Ourika",
+            "NameAr": "ووريكا"
+        },
+        {
+            "Code": "131704",
+            "Name": "Ouzoud",
+            "NameAr": "ووزوود"
+        },
+        {
+            "Code": "133745",
+            "Name": "Rabat",
+            "NameAr": "رابات"
+        },
+        {
+            "Code": "108435",
+            "Name": "Rissani",
+            "NameAr": "ريسساني"
+        },
+        {
+            "Code": "147605",
+            "Name": "Safi",
+            "NameAr": "سافي"
+        },
+        {
+            "Code": "135493",
+            "Name": "Saidia",
+            "NameAr": "سايديا"
+        },
+        {
+            "Code": "135852",
+            "Name": "Sale",
+            "NameAr": "سالي"
+        },
+        {
+            "Code": "108537",
+            "Name": "Sidi Abdallah Ghiat",
+            "NameAr": "سيدي ابداللاه جهيات"
+        },
+        {
+            "Code": "263137",
+            "Name": "Sidi Badhaj",
+            "NameAr": "سيدي بادهاج"
+        },
+        {
+            "Code": "136304",
+            "Name": "Sidi Ifni",
+            "NameAr": "سيدي يفني"
+        },
+        {
+            "Code": "137408",
+            "Name": "Sidi Kaouki",
+            "NameAr": "سيدي كاووكي"
+        },
+        {
+            "Code": "137590",
+            "Name": "Sidi R'bat-Massa",
+            "NameAr": "سيدي ربات-ماسسا"
+        },
+        {
+            "Code": "107221",
+            "Name": "Sidi Slimane",
+            "NameAr": "سيدي سليماني"
+        },
+        {
+            "Code": "138105",
+            "Name": "Skhirat",
+            "NameAr": "سكهيرات"
+        },
+        {
+            "Code": "138022",
+            "Name": "Skoura",
+            "NameAr": "سكوورا"
+        },
+        {
+            "Code": "138738",
+            "Name": "Smir",
+            "NameAr": "سمير"
+        },
+        {
+            "Code": "107257",
+            "Name": "Stehat",
+            "NameAr": "ستيهات"
+        },
+        {
+            "Code": "139176",
+            "Name": "Tafraoute",
+            "NameAr": "تافراووتي"
+        },
+        {
+            "Code": "139659",
+            "Name": "Taghazout",
+            "NameAr": "تاجهازووت"
+        },
+        {
+            "Code": "139893",
+            "Name": "Tahanaout",
+            "NameAr": "تاهاناووت"
+        },
+        {
+            "Code": "139001",
+            "Name": "Tahannaout",
+            "NameAr": "تاهانناووت"
+        },
+        {
+            "Code": "148133",
+            "Name": "Tahla",
+            "NameAr": "تاهلا"
+        },
+        {
+            "Code": "140282",
+            "Name": "Taliouine",
+            "NameAr": "تاليوويني"
+        },
+        {
+            "Code": "106368",
+            "Name": "Tamedakhte",
+            "NameAr": "تاميداكهتي"
+        },
+        {
+            "Code": "107158",
+            "Name": "Tamegroute",
+            "NameAr": "تاميجرووتي"
+        },
+        {
+            "Code": "107290",
+            "Name": "Tamellalt",
+            "NameAr": "تاميللالت"
+        },
+        {
+            "Code": "140292",
+            "Name": "Tameslouht",
+            "NameAr": "تاميسلووهت"
+        },
+        {
+            "Code": "139191",
+            "Name": "Tamsahalte",
+            "NameAr": "تامساهالتي"
+        },
+        {
+            "Code": "150846",
+            "Name": "Tan Tan",
+            "NameAr": "تان تان"
+        },
+        {
+            "Code": "139912",
+            "Name": "Tanger",
+            "NameAr": "تانجير"
+        },
+        {
+            "Code": "158012",
+            "Name": "Tangier,   Tangier-Tetouan (region)",
+            "NameAr": "تانجيير تانجيير-تيتووان ريجيون"
+        },
+        {
+            "Code": "139565",
+            "Name": "Taroudant",
+            "NameAr": "تاروودانت"
+        },
+        {
+            "Code": "138590",
+            "Name": "Tata",
+            "NameAr": "تاتا"
+        },
+        {
+            "Code": "149141",
+            "Name": "Taza",
+            "NameAr": "تازا"
+        },
+        {
+            "Code": "138602",
+            "Name": "Tazzarine",
+            "NameAr": "تاززاريني"
+        },
+        {
+            "Code": "139587",
+            "Name": "Telouet",
+            "NameAr": "تيلوويت"
+        },
+        {
+            "Code": "139942",
+            "Name": "Temara",
+            "NameAr": "تيمارا"
+        },
+        {
+            "Code": "141017",
+            "Name": "Tetouan",
+            "NameAr": "تيتووان"
+        },
+        {
+            "Code": "139312",
+            "Name": "Tinejdad",
+            "NameAr": "تينيجداد"
+        },
+        {
+            "Code": "148234",
+            "Name": "Tinerhir",
+            "NameAr": "تينيرهير"
+        },
+        {
+            "Code": "148243",
+            "Name": "Tiznit",
+            "NameAr": "تيزنيت"
+        },
+        {
+            "Code": "143818",
+            "Name": "Zagora",
+            "NameAr": "زاجورا"
+        },
+        {
+            "Code": "261100",
+            "Name": "Zaida",
+            "NameAr": "زايدا"
+        }
+    ],
+    "totalCities": 126
+}

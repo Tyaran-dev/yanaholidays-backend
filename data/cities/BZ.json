@@ -1,0 +1,122 @@
+{
+    "id": "BZ",
+    "countryCode": "BZ",
+    "cities": [
+        {
+            "Code": "100882",
+            "Name": "Ambergris Caye",
+            "NameAr": "امبيرجريس كايي"
+        },
+        {
+            "Code": "144161",
+            "Name": "Belize City",
+            "NameAr": "بيليزي كيتي"
+        },
+        {
+            "Code": "144168",
+            "Name": "Belmopan",
+            "NameAr": "بيلموبان"
+        },
+        {
+            "Code": "108092",
+            "Name": "Bullet Tree Falls",
+            "NameAr": "بولليت تريي فاللس"
+        },
+        {
+            "Code": "114069",
+            "Name": "Caye Caulker",
+            "NameAr": "كايي كاولكير"
+        },
+        {
+            "Code": "150430",
+            "Name": "Caye Chapel",
+            "NameAr": "كايي كهابيل"
+        },
+        {
+            "Code": "144588",
+            "Name": "Cayo District",
+            "NameAr": "كايو ديستريكت"
+        },
+        {
+            "Code": "152623",
+            "Name": "Corozal District",
+            "NameAr": "كوروزال ديستريكت"
+        },
+        {
+            "Code": "115416",
+            "Name": "Corozal Town",
+            "NameAr": "كوروزال توون"
+        },
+        {
+            "Code": "116622",
+            "Name": "Dangriga",
+            "NameAr": "دانجريجا"
+        },
+        {
+            "Code": "145343",
+            "Name": "Georgeville",
+            "NameAr": "جيورجيفيللي"
+        },
+        {
+            "Code": "121273",
+            "Name": "Hopkins",
+            "NameAr": "هوبكينس"
+        },
+        {
+            "Code": "126894",
+            "Name": "Maskall Village",
+            "NameAr": "ماسكالل فيللاجي"
+        },
+        {
+            "Code": "129404",
+            "Name": "Mountain Pine Ridge",
+            "NameAr": "موونتاين بيني ريدجي"
+        },
+        {
+            "Code": "131285",
+            "Name": "Orange Walk",
+            "NameAr": "ورانجي والك"
+        },
+        {
+            "Code": "132322",
+            "Name": "Placencia",
+            "NameAr": "بلاكينكيا"
+        },
+        {
+            "Code": "133634",
+            "Name": "Punta Gorda",
+            "NameAr": "بونتا جوردا"
+        },
+        {
+            "Code": "135944",
+            "Name": "San Ignacio",
+            "NameAr": "سان يجناكيو"
+        },
+        {
+            "Code": "135968",
+            "Name": "San Pedro",
+            "NameAr": "سان بيدرو"
+        },
+        {
+            "Code": "139433",
+            "Name": "South Water Caye",
+            "NameAr": "سووته واتير كايي"
+        },
+        {
+            "Code": "106377",
+            "Name": "Teakettle Village",
+            "NameAr": "تياكيتتلي فيللاجي"
+        },
+        {
+            "Code": "106975",
+            "Name": "Tower Hill",
+            "NameAr": "تووير هيلل"
+        },
+        {
+            "Code": "140402",
+            "Name": "Turneffe Atoll",
+            "NameAr": "تورنيففي اتولل"
+        }
+    ],
+    "totalCities": 23
+}

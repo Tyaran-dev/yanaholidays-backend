@@ -1,0 +1,167 @@
+{
+    "id": "TT",
+    "countryCode": "TT",
+    "cities": [
+        {
+            "Code": "101643",
+            "Name": "Arima",
+            "NameAr": "اريما"
+        },
+        {
+            "Code": "110297",
+            "Name": "Arnos Vale Bay",
+            "NameAr": "ارنوس فالي باي"
+        },
+        {
+            "Code": "110371",
+            "Name": "Bacolet Bay",
+            "NameAr": "باكوليت باي"
+        },
+        {
+            "Code": "111223",
+            "Name": "Black Rock",
+            "NameAr": "بلاكك روكك"
+        },
+        {
+            "Code": "111230",
+            "Name": "Blanchiseuse",
+            "NameAr": "بلانكهيسيوسي"
+        },
+        {
+            "Code": "112986",
+            "Name": "Buccoo",
+            "NameAr": "بوككوو"
+        },
+        {
+            "Code": "113991",
+            "Name": "Castara",
+            "NameAr": "كاستارا"
+        },
+        {
+            "Code": "114928",
+            "Name": "Chaguaramas",
+            "NameAr": "كهاجواراماس"
+        },
+        {
+            "Code": "114384",
+            "Name": "Claxton Bay",
+            "NameAr": "كلاكستون باي"
+        },
+        {
+            "Code": "116585",
+            "Name": "Crown Point",
+            "NameAr": "كروون بوينت"
+        },
+        {
+            "Code": "144835",
+            "Name": "Culloden Bay",
+            "NameAr": "كوللودين باي"
+        },
+        {
+            "Code": "106258",
+            "Name": "Diego Martin",
+            "NameAr": "دييجو مارتين"
+        },
+        {
+            "Code": "119704",
+            "Name": "Grand Riviere",
+            "NameAr": "جراند ريفييري"
+        },
+        {
+            "Code": "102559",
+            "Name": "Las Lomas",
+            "NameAr": "لاس لوماس"
+        },
+        {
+            "Code": "126040",
+            "Name": "Little Rockley Bay",
+            "NameAr": "ليتتلي روككليي باي"
+        },
+        {
+            "Code": "126053",
+            "Name": "Lowlands Beach",
+            "NameAr": "لوولاندس بياكه"
+        },
+        {
+            "Code": "126816",
+            "Name": "Maracas",
+            "NameAr": "ماراكاس"
+        },
+        {
+            "Code": "126979",
+            "Name": "Maraval",
+            "NameAr": "مارافال"
+        },
+        {
+            "Code": "147193",
+            "Name": "Pigeon Point",
+            "NameAr": "بيجيون بوينت"
+        },
+        {
+            "Code": "106686",
+            "Name": "Plymouth",
+            "NameAr": "بليمووته"
+        },
+        {
+            "Code": "131839",
+            "Name": "Port of Spain",
+            "NameAr": "بورت وف سباين"
+        },
+        {
+            "Code": "136454",
+            "Name": "Salybia",
+            "NameAr": "ساليبيا"
+        },
+        {
+            "Code": "135884",
+            "Name": "San Fernando",
+            "NameAr": "سان فيرناندو"
+        },
+        {
+            "Code": "136654",
+            "Name": "Savannah Park",
+            "NameAr": "سافانناه بارك"
+        },
+        {
+            "Code": "136894",
+            "Name": "Scarborough",
+            "NameAr": "سكاربورووجه"
+        },
+        {
+            "Code": "137596",
+            "Name": "Signal Hill",
+            "NameAr": "سيجنال هيلل"
+        },
+        {
+            "Code": "138356",
+            "Name": "Speyside",
+            "NameAr": "سبييسيدي"
+        },
+        {
+            "Code": "407002",
+            "Name": "St. Anns",
+            "NameAr": "ست اننس"
+        },
+        {
+            "Code": "139473",
+            "Name": "St. James",
+            "NameAr": "ست جاميس"
+        },
+        {
+            "Code": "140771",
+            "Name": "Tobago",
+            "NameAr": "توباجو"
+        },
+        {
+            "Code": "148320",
+            "Name": "Trinidad",
+            "NameAr": "ترينيداد"
+        },
+        {
+            "Code": "108628",
+            "Name": "Tunapuna",
+            "NameAr": "تونابونا"
+        }
+    ],
+    "totalCities": 32
+}

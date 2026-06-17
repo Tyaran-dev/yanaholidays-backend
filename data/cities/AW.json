@@ -1,0 +1,57 @@
+{
+    "id": "AW",
+    "countryCode": "AW",
+    "cities": [
+        {
+            "Code": "109880",
+            "Name": "Aruba",
+            "NameAr": "اروبا"
+        },
+        {
+            "Code": "114031",
+            "Name": "Cas Ariba",
+            "NameAr": "كاس اريبا"
+        },
+        {
+            "Code": "114406",
+            "Name": "Coconut Beach",
+            "NameAr": "كوكونوت بياكه"
+        },
+        {
+            "Code": "146903",
+            "Name": "Noord",
+            "NameAr": "نوورد"
+        },
+        {
+            "Code": "130678",
+            "Name": "Oranjestad",
+            "NameAr": "ورانجيستاد"
+        },
+        {
+            "Code": "132654",
+            "Name": "Palm Beach",
+            "NameAr": "بالم بياكه"
+        },
+        {
+            "Code": "132681",
+            "Name": "Paradera",
+            "NameAr": "باراديرا"
+        },
+        {
+            "Code": "134290",
+            "Name": "Pos Chiquito",
+            "NameAr": "بوس كهيقويتو"
+        },
+        {
+            "Code": "103355",
+            "Name": "San Nicolaas",
+            "NameAr": "سان نيكولااس"
+        },
+        {
+            "Code": "137216",
+            "Name": "Savaneta",
+            "NameAr": "سافانيتا"
+        }
+    ],
+    "totalCities": 10
+}

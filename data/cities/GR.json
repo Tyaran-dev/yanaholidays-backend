@@ -1,0 +1,7212 @@
+{
+    "id": "GR",
+    "countryCode": "GR",
+    "cities": [
+        {
+            "Code": "106066",
+            "Name": "Abram",
+            "NameAr": "ابرام"
+        },
+        {
+            "Code": "100447",
+            "Name": "Acharavi,   Ionian Islands",
+            "NameAr": "اكهارافي يونيان يسلاندس"
+        },
+        {
+            "Code": "161049",
+            "Name": "Acharnes",
+            "NameAr": "اكهارنيس"
+        },
+        {
+            "Code": "100335",
+            "Name": "Achlada",
+            "NameAr": "اكهلادا"
+        },
+        {
+            "Code": "104697",
+            "Name": "Achlades",
+            "NameAr": "اكهلاديس"
+        },
+        {
+            "Code": "100562",
+            "Name": "Achladies",
+            "NameAr": "اكهلادييس"
+        },
+        {
+            "Code": "100235",
+            "Name": "Adamas,   Cyclades Islands",
+            "NameAr": "اداماس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "100033",
+            "Name": "Adele",
+            "NameAr": "اديلي"
+        },
+        {
+            "Code": "100774",
+            "Name": "Adelianos Kambos,   Crete",
+            "NameAr": "اديليانوس كامبوس كريتي"
+        },
+        {
+            "Code": "100128",
+            "Name": "Adia",
+            "NameAr": "اديا"
+        },
+        {
+            "Code": "100038",
+            "Name": "Aegiali,   Cyclades Islands",
+            "NameAr": "ايجيالي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "260904",
+            "Name": "Aegina Island,   Attica",
+            "NameAr": "ايجينا يسلاند اتتيكا"
+        },
+        {
+            "Code": "100456",
+            "Name": "Aegina Town,   Attica",
+            "NameAr": "ايجينا توون اتتيكا"
+        },
+        {
+            "Code": "100347",
+            "Name": "Afandou,   Dodecanese Islands",
+            "NameAr": "افاندوو دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "100040",
+            "Name": "Afiartis",
+            "NameAr": "افيارتيس"
+        },
+        {
+            "Code": "100574",
+            "Name": "Afissos",
+            "NameAr": "افيسسوس"
+        },
+        {
+            "Code": "100664",
+            "Name": "Afitos (Athitos),   Central Macedonia",
+            "NameAr": "افيتوس اتهيتوس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "100576",
+            "Name": "Ag. Georgios by Naxos-City",
+            "NameAr": "اج جيورجيوس بي ناكسوس-كيتي"
+        },
+        {
+            "Code": "100041",
+            "Name": "Agali",
+            "NameAr": "اجالي"
+        },
+        {
+            "Code": "100138",
+            "Name": "Ageliana",
+            "NameAr": "اجيليانا"
+        },
+        {
+            "Code": "417880",
+            "Name": "Agia (Chania),   Crete",
+            "NameAr": "اجيا كهانيا كريتي"
+        },
+        {
+            "Code": "160516",
+            "Name": "Agia (Larissa),   Thessaly",
+            "NameAr": "اجيا لاريسسا تهيسسالي"
+        },
+        {
+            "Code": "100354",
+            "Name": "Agia Anna,   Cyclades Islands",
+            "NameAr": "اجيا اننا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "100782",
+            "Name": "Agia Efimia",
+            "NameAr": "اجيا يفيميا"
+        },
+        {
+            "Code": "100357",
+            "Name": "Agia Eirini",
+            "NameAr": "اجيا ييريني"
+        },
+        {
+            "Code": "100356",
+            "Name": "Agia Ermioni",
+            "NameAr": "اجيا يرميوني"
+        },
+        {
+            "Code": "100671",
+            "Name": "Agia Fotini",
+            "NameAr": "اجيا فوتيني"
+        },
+        {
+            "Code": "100672",
+            "Name": "Agia Galini,   Crete",
+            "NameAr": "اجيا جاليني كريتي"
+        },
+        {
+            "Code": "100582",
+            "Name": "Agia Marina (Aegina),   Attica",
+            "NameAr": "اجيا مارينا ايجينا اتتيكا"
+        },
+        {
+            "Code": "368104",
+            "Name": "Agia Marina (Chania),   Crete",
+            "NameAr": "اجيا مارينا كهانيا كريتي"
+        },
+        {
+            "Code": "417401",
+            "Name": "Agia Marina (Leros),   Dodecanese Islands",
+            "NameAr": "اجيا مارينا ليروس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "417402",
+            "Name": "Agia Marina (Zakynthos),   Ionian Islands",
+            "NameAr": "اجيا مارينا زاكينتهوس يونيان يسلاندس"
+        },
+        {
+            "Code": "100783",
+            "Name": "Agia Paraskevi (Athens),   Attica",
+            "NameAr": "اجيا باراسكيفي اتهينس اتتيكا"
+        },
+        {
+            "Code": "417403",
+            "Name": "Agia Paraskevi (Crete),   Crete",
+            "NameAr": "اجيا باراسكيفي كريتي كريتي"
+        },
+        {
+            "Code": "417423",
+            "Name": "Agia Paraskevi (Evros),   Thrace",
+            "NameAr": "اجيا باراسكيفي يفروس تهراكي"
+        },
+        {
+            "Code": "417420",
+            "Name": "Agia Paraskevi (Halkidiki),   Central Macedonia",
+            "NameAr": "اجيا باراسكيفي هالكيديكي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "417422",
+            "Name": "Agia Paraskevi (Samos),   North Aegean",
+            "NameAr": "اجيا باراسكيفي ساموس نورته ايجيان"
+        },
+        {
+            "Code": "314760",
+            "Name": "Agia Paraskevi (Santorini),   Cyclades Islands",
+            "NameAr": "اجيا باراسكيفي سانتوريني كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "375985",
+            "Name": "Agia Paraskevi (Skiathos),   Sporades Islands",
+            "NameAr": "اجيا باراسكيفي سكياتهوس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "100583",
+            "Name": "Agia Pelagia (Heraklion),   Crete",
+            "NameAr": "اجيا بيلاجيا هيراكليون كريتي"
+        },
+        {
+            "Code": "417446",
+            "Name": "Agia Pelagia (Kythira),   Attica",
+            "NameAr": "اجيا بيلاجيا كيتهيرا اتتيكا"
+        },
+        {
+            "Code": "100247",
+            "Name": "Agia Thekli",
+            "NameAr": "اجيا تهيكلي"
+        },
+        {
+            "Code": "100248",
+            "Name": "Agia Triada,   Central Macedonia",
+            "NameAr": "اجيا تريادا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "100584",
+            "Name": "Agii Pantes",
+            "NameAr": "اجيي بانتيس"
+        },
+        {
+            "Code": "292063",
+            "Name": "Agioi Anargyroi-Kamatero",
+            "NameAr": "اجيوي انارجيروي-كاماتيرو"
+        },
+        {
+            "Code": "375991",
+            "Name": "Agioi Apostoli (Attica),   Attica",
+            "NameAr": "اجيوي ابوستولي اتتيكا اتتيكا"
+        },
+        {
+            "Code": "100355",
+            "Name": "Agioi Apostoli (Chania),   Crete",
+            "NameAr": "اجيوي ابوستولي كهانيا كريتي"
+        },
+        {
+            "Code": "101618",
+            "Name": "Agioi Apostoli (Evia),   Central Greece",
+            "NameAr": "اجيوي ابوستولي يفيا كينترال جرييكي"
+        },
+        {
+            "Code": "161050",
+            "Name": "Agioi Theodoroi",
+            "NameAr": "اجيوي تهيودوروي"
+        },
+        {
+            "Code": "100784",
+            "Name": "Agiokampos",
+            "NameAr": "اجيوكامبوس"
+        },
+        {
+            "Code": "100785",
+            "Name": "Agios Andreas",
+            "NameAr": "اجيوس اندرياس"
+        },
+        {
+            "Code": "100249",
+            "Name": "Agios Athanasios",
+            "NameAr": "اجيوس اتهاناسيوس"
+        },
+        {
+            "Code": "161080",
+            "Name": "Agios Avgoustinos",
+            "NameAr": "اجيوس افجووستينوس"
+        },
+        {
+            "Code": "100044",
+            "Name": "Agios Constantinos",
+            "NameAr": "اجيوس كونستانتينوس"
+        },
+        {
+            "Code": "100045",
+            "Name": "Agios Dimitrios",
+            "NameAr": "اجيوس ديميتريوس"
+        },
+        {
+            "Code": "100463",
+            "Name": "Agios Dimitrios, Pieria,   Central Macedonia",
+            "NameAr": "اجيوس ديميتريوس بييريا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "100141",
+            "Name": "Agios Emilianos",
+            "NameAr": "اجيوس يميليانوس"
+        },
+        {
+            "Code": "100046",
+            "Name": "Agios Ermogenis",
+            "NameAr": "اجيوس يرموجينيس"
+        },
+        {
+            "Code": "100250",
+            "Name": "Agios Fanourios",
+            "NameAr": "اجيوس فانووريوس"
+        },
+        {
+            "Code": "100251",
+            "Name": "Agios Fokas",
+            "NameAr": "اجيوس فوكاس"
+        },
+        {
+            "Code": "100252",
+            "Name": "Agios Georgios",
+            "NameAr": "اجيوس جيورجيوس"
+        },
+        {
+            "Code": "100253",
+            "Name": "Agios Germanos",
+            "NameAr": "اجيوس جيرمانوس"
+        },
+        {
+            "Code": "100464",
+            "Name": "Agios Gordios",
+            "NameAr": "اجيوس جورديوس"
+        },
+        {
+            "Code": "100047",
+            "Name": "Agios Ilias (Pyrgos Elis),   Peloponnese",
+            "NameAr": "اجيوس يلياس بيرجوس يليس بيلوبوننيسي"
+        },
+        {
+            "Code": "417437",
+            "Name": "Agios Ioannis (Laconia),   Peloponnese",
+            "NameAr": "اجيوس يواننيس لاكونيا بيلوبوننيسي"
+        },
+        {
+            "Code": "100465",
+            "Name": "Agios Ioannis (Lefkada),   Ionian Islands",
+            "NameAr": "اجيوس يواننيس ليفكادا يونيان يسلاندس"
+        },
+        {
+            "Code": "417436",
+            "Name": "Agios Ioannis (Magnesia),   Thessaly",
+            "NameAr": "اجيوس يواننيس ماجنيسيا تهيسسالي"
+        },
+        {
+            "Code": "353211",
+            "Name": "Agios Ioannis (Mykonos),   Cyclades Islands",
+            "NameAr": "اجيوس يواننيس ميكونوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "417438",
+            "Name": "Agios Ioannis (Peristeron),   Ionian Islands",
+            "NameAr": "اجيوس يواننيس بيريستيرون يونيان يسلاندس"
+        },
+        {
+            "Code": "417439",
+            "Name": "Agios Ioannis (Rentis),   Attica",
+            "NameAr": "اجيوس يواننيس رينتيس اتتيكا"
+        },
+        {
+            "Code": "348606",
+            "Name": "Agios Ioannis (Tinos),   Cyclades Islands",
+            "NameAr": "اجيوس يواننيس تينوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "417441",
+            "Name": "Agios Ioannis(Lemnos),   North Aegean",
+            "NameAr": "اجيوس يواننيس ليمنوس نورته ايجيان"
+        },
+        {
+            "Code": "100466",
+            "Name": "Agios Isidoros",
+            "NameAr": "اجيوس يسيدوروس"
+        },
+        {
+            "Code": "100467",
+            "Name": "Agios Kirykos",
+            "NameAr": "اجيوس كيريكوس"
+        },
+        {
+            "Code": "100787",
+            "Name": "Agios Konstantinos",
+            "NameAr": "اجيوس كونستانتينوس"
+        },
+        {
+            "Code": "100358",
+            "Name": "Agios Lavrentios",
+            "NameAr": "اجيوس لافرينتيوس"
+        },
+        {
+            "Code": "100788",
+            "Name": "Agios Leontas",
+            "NameAr": "اجيوس ليونتاس"
+        },
+        {
+            "Code": "100585",
+            "Name": "Agios Mamas",
+            "NameAr": "اجيوس ماماس"
+        },
+        {
+            "Code": "100673",
+            "Name": "Agios Markos",
+            "NameAr": "اجيوس ماركوس"
+        },
+        {
+            "Code": "100789",
+            "Name": "Agios Matheos",
+            "NameAr": "اجيوس ماتهيوس"
+        },
+        {
+            "Code": "105063",
+            "Name": "Agios Matthaios",
+            "NameAr": "اجيوس ماتتهايوس"
+        },
+        {
+            "Code": "100359",
+            "Name": "Agios Myronas",
+            "NameAr": "اجيوس ميروناس"
+        },
+        {
+            "Code": "100255",
+            "Name": "Agios Nikolaos (Crete),   Crete",
+            "NameAr": "اجيوس نيكولاوس كريتي كريتي"
+        },
+        {
+            "Code": "279736",
+            "Name": "Agios Nikolaos (Halkidiki),   Central Macedonia",
+            "NameAr": "اجيوس نيكولاوس هالكيديكي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "417440",
+            "Name": "Agios Nikolaos (Messinia),   Peloponnese",
+            "NameAr": "اجيوس نيكولاوس ميسسينيا بيلوبوننيسي"
+        },
+        {
+            "Code": "403287",
+            "Name": "Agios Nikolaos (Santorini),   Cyclades Islands",
+            "NameAr": "اجيوس نيكولاوس سانتوريني كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "223863",
+            "Name": "Agios Nikolaos (Syros),   Cyclades Islands",
+            "NameAr": "اجيوس نيكولاوس سيروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "251722",
+            "Name": "Agios Nikolaos (Zakynthos),   Ionian Islands",
+            "NameAr": "اجيوس نيكولاوس زاكينتهوس يونيان يسلاندس"
+        },
+        {
+            "Code": "100256",
+            "Name": "Agios Nikolaos Volimes",
+            "NameAr": "اجيوس نيكولاوس فوليميس"
+        },
+        {
+            "Code": "100142",
+            "Name": "Agios Panteleimonas",
+            "NameAr": "اجيوس بانتيلييموناس"
+        },
+        {
+            "Code": "100790",
+            "Name": "Agios Pavlos",
+            "NameAr": "اجيوس بافلوس"
+        },
+        {
+            "Code": "100791",
+            "Name": "Agios Petros",
+            "NameAr": "اجيوس بيتروس"
+        },
+        {
+            "Code": "100792",
+            "Name": "Agios Prokopios,   Cyclades Islands",
+            "NameAr": "اجيوس بروكوبيوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "100143",
+            "Name": "Agios Sostis,   Cyclades Islands",
+            "NameAr": "اجيوس سوستيس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "250276",
+            "Name": "Agios Sostis,   Ionian Islands",
+            "NameAr": "اجيوس سوستيس يونيان يسلاندس"
+        },
+        {
+            "Code": "100144",
+            "Name": "Agios Spyridon",
+            "NameAr": "اجيوس سبيريدون"
+        },
+        {
+            "Code": "100468",
+            "Name": "Agios Stefanos (Lesvos),   North Aegean",
+            "NameAr": "اجيوس ستيفانوس ليسفوس نورته ايجيان"
+        },
+        {
+            "Code": "293268",
+            "Name": "Agios Stefanos (Mykonos),   Cyclades Islands",
+            "NameAr": "اجيوس ستيفانوس ميكونوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "257834",
+            "Name": "Agios Stefanos Avliotes,   Ionian Islands",
+            "NameAr": "اجيوس ستيفانوس افليوتيس يونيان يسلاندس"
+        },
+        {
+            "Code": "160509",
+            "Name": "Agios Vasileios Rethymnou,   Crete",
+            "NameAr": "اجيوس فاسيلييوس ريتهيمنوو كريتي"
+        },
+        {
+            "Code": "106071",
+            "Name": "Agiou Fanouriou",
+            "NameAr": "اجيوو فانووريوو"
+        },
+        {
+            "Code": "160428",
+            "Name": "Agistri,   Attica",
+            "NameAr": "اجيستري اتتيكا"
+        },
+        {
+            "Code": "104698",
+            "Name": "Agnanta",
+            "NameAr": "اجنانتا"
+        },
+        {
+            "Code": "272558",
+            "Name": "Agni Beach",
+            "NameAr": "اجني بياكه"
+        },
+        {
+            "Code": "417430",
+            "Name": "Agoriani",
+            "NameAr": "اجورياني"
+        },
+        {
+            "Code": "100590",
+            "Name": "Agrari,   Cyclades Islands",
+            "NameAr": "اجراري كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "100148",
+            "Name": "Agria",
+            "NameAr": "اجريا"
+        },
+        {
+            "Code": "100149",
+            "Name": "Agrilos",
+            "NameAr": "اجريلوس"
+        },
+        {
+            "Code": "100049",
+            "Name": "Agrinio,   Central Greece",
+            "NameAr": "اجرينيو كينترال جرييكي"
+        },
+        {
+            "Code": "394146",
+            "Name": "Ai Helis Beach",
+            "NameAr": "اي هيليس بياكه"
+        },
+        {
+            "Code": "100154",
+            "Name": "Aigeiros",
+            "NameAr": "ايجييروس"
+        },
+        {
+            "Code": "100278",
+            "Name": "Akoumia",
+            "NameAr": "اكووميا"
+        },
+        {
+            "Code": "100807",
+            "Name": "Akrata",
+            "NameAr": "اكراتا"
+        },
+        {
+            "Code": "100376",
+            "Name": "Akriotiri",
+            "NameAr": "اكريوتيري"
+        },
+        {
+            "Code": "100607",
+            "Name": "Akritochori",
+            "NameAr": "اكريتوكهوري"
+        },
+        {
+            "Code": "100809",
+            "Name": "Akrotiri,   Cyclades Islands",
+            "NameAr": "اكروتيري كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "252208",
+            "Name": "Akrotiri,   Ionian Islands",
+            "NameAr": "اكروتيري يونيان يسلاندس"
+        },
+        {
+            "Code": "100282",
+            "Name": "Alatopetra",
+            "NameAr": "الاتوبيترا"
+        },
+        {
+            "Code": "160901",
+            "Name": "Alexandroupoli,   Thrace",
+            "NameAr": "اليكساندرووبولي تهراكي"
+        },
+        {
+            "Code": "100421",
+            "Name": "Alikampos",
+            "NameAr": "اليكامبوس"
+        },
+        {
+            "Code": "100194",
+            "Name": "Alikanas,   Ionian Islands",
+            "NameAr": "اليكاناس يونيان يسلاندس"
+        },
+        {
+            "Code": "100195",
+            "Name": "Aliki,   Cyclades Islands",
+            "NameAr": "اليكي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "100847",
+            "Name": "Alimos,   Attica",
+            "NameAr": "اليموس اتتيكا"
+        },
+        {
+            "Code": "100518",
+            "Name": "Alinda,   Dodecanese Islands",
+            "NameAr": "اليندا دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "160859",
+            "Name": "Aliveri\t",
+            "NameAr": "اليفيري"
+        },
+        {
+            "Code": "100196",
+            "Name": "Alkyes",
+            "NameAr": "الكييس"
+        },
+        {
+            "Code": "100528",
+            "Name": "Almiri",
+            "NameAr": "الميري"
+        },
+        {
+            "Code": "100529",
+            "Name": "Almirida",
+            "NameAr": "الميريدا"
+        },
+        {
+            "Code": "100746",
+            "Name": "Almiros",
+            "NameAr": "الميروس"
+        },
+        {
+            "Code": "100204",
+            "Name": "Alonissos,   Sporades Islands",
+            "NameAr": "الونيسسوس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "109535",
+            "Name": "Alopronia",
+            "NameAr": "الوبرونيا"
+        },
+        {
+            "Code": "100317",
+            "Name": "Alt Pori",
+            "NameAr": "الت بوري"
+        },
+        {
+            "Code": "109431",
+            "Name": "Alykes,   Corfu",
+            "NameAr": "اليكيس كورفو"
+        },
+        {
+            "Code": "242992",
+            "Name": "Alykes,   Zakynthos",
+            "NameAr": "اليكيس زاكينتهوس"
+        },
+        {
+            "Code": "101086",
+            "Name": "Alyko Beach,   Cyclades Islands",
+            "NameAr": "اليكو بياكه كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "100982",
+            "Name": "Amaliada,   Peloponnese",
+            "NameAr": "اماليادا بيلوبوننيسي"
+        },
+        {
+            "Code": "101350",
+            "Name": "Amarinthos",
+            "NameAr": "امارينتهوس"
+        },
+        {
+            "Code": "109096",
+            "Name": "Amarynthos",
+            "NameAr": "امارينتهوس"
+        },
+        {
+            "Code": "161074",
+            "Name": "Ambelas",
+            "NameAr": "امبيلاس"
+        },
+        {
+            "Code": "109312",
+            "Name": "Ambeliona",
+            "NameAr": "امبيليونا"
+        },
+        {
+            "Code": "109436",
+            "Name": "Amboula",
+            "NameAr": "امبوولا"
+        },
+        {
+            "Code": "100887",
+            "Name": "Amfiklia",
+            "NameAr": "امفيكليا"
+        },
+        {
+            "Code": "101630",
+            "Name": "Amfilochia,   Central Greece",
+            "NameAr": "امفيلوكهيا كينترال جرييكي"
+        },
+        {
+            "Code": "104713",
+            "Name": "Amfissa",
+            "NameAr": "امفيسسا"
+        },
+        {
+            "Code": "101450",
+            "Name": "Amfithea",
+            "NameAr": "امفيتهيا"
+        },
+        {
+            "Code": "100992",
+            "Name": "Ammoni",
+            "NameAr": "امموني"
+        },
+        {
+            "Code": "109200",
+            "Name": "Ammoudia",
+            "NameAr": "اممووديا"
+        },
+        {
+            "Code": "109113",
+            "Name": "Ammouliani",
+            "NameAr": "امموولياني"
+        },
+        {
+            "Code": "109114",
+            "Name": "Amnissos",
+            "NameAr": "امنيسسوس"
+        },
+        {
+            "Code": "101126",
+            "Name": "Amoopi",
+            "NameAr": "امووبي"
+        },
+        {
+            "Code": "109115",
+            "Name": "Amorgos,   Cyclades Islands",
+            "NameAr": "امورجوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "100994",
+            "Name": "Amoudara,   Crete",
+            "NameAr": "اموودارا كريتي"
+        },
+        {
+            "Code": "100995",
+            "Name": "Amoudi",
+            "NameAr": "اموودي"
+        },
+        {
+            "Code": "109443",
+            "Name": "Amouliani Island,   Central Macedonia",
+            "NameAr": "اموولياني يسلاند كينترال ماكيدونيا"
+        },
+        {
+            "Code": "387717",
+            "Name": "Ampelas",
+            "NameAr": "امبيلاس"
+        },
+        {
+            "Code": "104714",
+            "Name": "Anafi",
+            "NameAr": "انافي"
+        },
+        {
+            "Code": "109562",
+            "Name": "Analipsis,   Crete",
+            "NameAr": "اناليبسيس كريتي"
+        },
+        {
+            "Code": "109116",
+            "Name": "Analypsis Ipsos",
+            "NameAr": "اناليبسيس يبسوس"
+        },
+        {
+            "Code": "109118",
+            "Name": "Anatoli",
+            "NameAr": "اناتولي"
+        },
+        {
+            "Code": "109325",
+            "Name": "Anavissos,   Attica",
+            "NameAr": "انافيسسوس اتتيكا"
+        },
+        {
+            "Code": "160902",
+            "Name": "Anavyssos",
+            "NameAr": "انافيسسوس"
+        },
+        {
+            "Code": "100892",
+            "Name": "Anaxos",
+            "NameAr": "اناكسوس"
+        },
+        {
+            "Code": "257968",
+            "Name": "Andritsaina",
+            "NameAr": "اندريتساينا"
+        },
+        {
+            "Code": "109456",
+            "Name": "Andros,   Cyclades Islands",
+            "NameAr": "اندروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "101011",
+            "Name": "Angidia",
+            "NameAr": "انجيديا"
+        },
+        {
+            "Code": "109573",
+            "Name": "Angistron",
+            "NameAr": "انجيسترون"
+        },
+        {
+            "Code": "109461",
+            "Name": "Anissaras,   Crete",
+            "NameAr": "انيسساراس كريتي"
+        },
+        {
+            "Code": "100908",
+            "Name": "Ano Garouna",
+            "NameAr": "انو جاروونا"
+        },
+        {
+            "Code": "109463",
+            "Name": "Ano Mera,   Cyclades Islands",
+            "NameAr": "انو ميرا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "101016",
+            "Name": "Ano Pedina",
+            "NameAr": "انو بيدينا"
+        },
+        {
+            "Code": "109224",
+            "Name": "Ano Stavros",
+            "NameAr": "انو ستافروس"
+        },
+        {
+            "Code": "101017",
+            "Name": "Ano Symi",
+            "NameAr": "انو سيمي"
+        },
+        {
+            "Code": "109136",
+            "Name": "Ano Trikala",
+            "NameAr": "انو تريكالا"
+        },
+        {
+            "Code": "100909",
+            "Name": "Ano Vouves",
+            "NameAr": "انو فووفيس"
+        },
+        {
+            "Code": "101565",
+            "Name": "Ano Zakhlorou",
+            "NameAr": "انو زاكهلوروو"
+        },
+        {
+            "Code": "109137",
+            "Name": "Anogia",
+            "NameAr": "انوجيا"
+        },
+        {
+            "Code": "109226",
+            "Name": "Anos Asites",
+            "NameAr": "انوس اسيتيس"
+        },
+        {
+            "Code": "101567",
+            "Name": "Anthemia",
+            "NameAr": "انتهيميا"
+        },
+        {
+            "Code": "109233",
+            "Name": "Anthousa",
+            "NameAr": "انتهووسا"
+        },
+        {
+            "Code": "109355",
+            "Name": "Antikyra",
+            "NameAr": "انتيكيرا"
+        },
+        {
+            "Code": "100916",
+            "Name": "Antiparos,   Cyclades Islands",
+            "NameAr": "انتيباروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "101029",
+            "Name": "Antipata",
+            "NameAr": "انتيباتا"
+        },
+        {
+            "Code": "109142",
+            "Name": "Antirrio",
+            "NameAr": "انتيرريو"
+        },
+        {
+            "Code": "100924",
+            "Name": "Aperi",
+            "NameAr": "ابيري"
+        },
+        {
+            "Code": "105165",
+            "Name": "Apokoronas,   Crete",
+            "NameAr": "ابوكوروناس كريتي"
+        },
+        {
+            "Code": "109149",
+            "Name": "Apolakkia",
+            "NameAr": "ابولاككيا"
+        },
+        {
+            "Code": "109366",
+            "Name": "Apollonas",
+            "NameAr": "ابوللوناس"
+        },
+        {
+            "Code": "109595",
+            "Name": "Apollonia,   Central Macedonia",
+            "NameAr": "ابوللونيا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "355796",
+            "Name": "Apollonia",
+            "NameAr": "ابوللونيا"
+        },
+        {
+            "Code": "109371",
+            "Name": "Apraos",
+            "NameAr": "ابراوس"
+        },
+        {
+            "Code": "100931",
+            "Name": "Aptera",
+            "NameAr": "ابتيرا"
+        },
+        {
+            "Code": "101637",
+            "Name": "Aqualand",
+            "NameAr": "اقوالاند"
+        },
+        {
+            "Code": "109160",
+            "Name": "Arachova,   Central Greece",
+            "NameAr": "اراكهوفا كينترال جرييكي"
+        },
+        {
+            "Code": "109249",
+            "Name": "Archanes",
+            "NameAr": "اركهانيس"
+        },
+        {
+            "Code": "109048",
+            "Name": "Archangelos,   Dodecanese Islands",
+            "NameAr": "اركهانجيلوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "101051",
+            "Name": "Areopoli,   Peloponnese",
+            "NameAr": "اريوبولي بيلوبوننيسي"
+        },
+        {
+            "Code": "109958",
+            "Name": "Argalasti",
+            "NameAr": "ارجالاستي"
+        },
+        {
+            "Code": "109061",
+            "Name": "Argassi,   Ionian Islands",
+            "NameAr": "ارجاسسي يونيان يسلاندس"
+        },
+        {
+            "Code": "110181",
+            "Name": "Argiroupoli",
+            "NameAr": "ارجيرووبولي"
+        },
+        {
+            "Code": "109625",
+            "Name": "Argolida,   Peloponnese",
+            "NameAr": "ارجوليدا بيلوبوننيسي"
+        },
+        {
+            "Code": "110182",
+            "Name": "Argos,   Peloponnese",
+            "NameAr": "ارجوس بيلوبوننيسي"
+        },
+        {
+            "Code": "109961",
+            "Name": "Argostoli,   Ionian Islands",
+            "NameAr": "ارجوستولي يونيان يسلاندس"
+        },
+        {
+            "Code": "109391",
+            "Name": "Argyrades",
+            "NameAr": "ارجيراديس"
+        },
+        {
+            "Code": "100945",
+            "Name": "Aria",
+            "NameAr": "اريا"
+        },
+        {
+            "Code": "100947",
+            "Name": "Arillas",
+            "NameAr": "اريللاس"
+        },
+        {
+            "Code": "109261",
+            "Name": "Aristi",
+            "NameAr": "اريستي"
+        },
+        {
+            "Code": "160432",
+            "Name": "Aristotelis,   Central Macedonia",
+            "NameAr": "اريستوتيليس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "160538",
+            "Name": "Arkadia,   Peloponnese",
+            "NameAr": "اركاديا بيلوبوننيسي"
+        },
+        {
+            "Code": "257886",
+            "Name": "Arkadiko Chorio,   Peloponnese",
+            "NameAr": "اركاديكو كهوريو بيلوبوننيسي"
+        },
+        {
+            "Code": "109962",
+            "Name": "Arkassa",
+            "NameAr": "اركاسسا"
+        },
+        {
+            "Code": "105005",
+            "Name": "Arkitsa",
+            "NameAr": "اركيتسا"
+        },
+        {
+            "Code": "417448",
+            "Name": "Arkochori,   Central Macedonia",
+            "NameAr": "اركوكهوري كينترال ماكيدونيا"
+        },
+        {
+            "Code": "100949",
+            "Name": "Arkoudi",
+            "NameAr": "اركوودي"
+        },
+        {
+            "Code": "100950",
+            "Name": "Armeni",
+            "NameAr": "ارميني"
+        },
+        {
+            "Code": "143948",
+            "Name": "Armenistis,   North Aegean",
+            "NameAr": "ارمينيستيس نورته ايجيان"
+        },
+        {
+            "Code": "406449",
+            "Name": "Armenoi",
+            "NameAr": "ارمينوي"
+        },
+        {
+            "Code": "101576",
+            "Name": "Arnaia",
+            "NameAr": "ارنايا"
+        },
+        {
+            "Code": "110194",
+            "Name": "Arolithos",
+            "NameAr": "اروليتهوس"
+        },
+        {
+            "Code": "109276",
+            "Name": "Arta,   Epirus",
+            "NameAr": "ارتا يبيروس"
+        },
+        {
+            "Code": "161083",
+            "Name": "Artemida",
+            "NameAr": "ارتيميدا"
+        },
+        {
+            "Code": "110305",
+            "Name": "Artemonas",
+            "NameAr": "ارتيموناس"
+        },
+        {
+            "Code": "101077",
+            "Name": "Aselinos",
+            "NameAr": "اسيلينوس"
+        },
+        {
+            "Code": "109889",
+            "Name": "Asgourou",
+            "NameAr": "اسجووروو"
+        },
+        {
+            "Code": "110070",
+            "Name": "Askeli",
+            "NameAr": "اسكيلي"
+        },
+        {
+            "Code": "110072",
+            "Name": "Askyfos",
+            "NameAr": "اسكيفوس"
+        },
+        {
+            "Code": "109633",
+            "Name": "Asmini",
+            "NameAr": "اسميني"
+        },
+        {
+            "Code": "109634",
+            "Name": "Asprangeli",
+            "NameAr": "اسبرانجيلي"
+        },
+        {
+            "Code": "109738",
+            "Name": "Asprovalta,   Central Macedonia",
+            "NameAr": "اسبروفالتا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "109639",
+            "Name": "Assos",
+            "NameAr": "اسسوس"
+        },
+        {
+            "Code": "143972",
+            "Name": "Astakeri",
+            "NameAr": "استاكيري"
+        },
+        {
+            "Code": "110231",
+            "Name": "Asteri",
+            "NameAr": "استيري"
+        },
+        {
+            "Code": "110232",
+            "Name": "Astiraki",
+            "NameAr": "استيراكي"
+        },
+        {
+            "Code": "110327",
+            "Name": "Astris",
+            "NameAr": "استريس"
+        },
+        {
+            "Code": "110076",
+            "Name": "Astypalaia,   Dodecanese Islands",
+            "NameAr": "استيبالايا دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "110000",
+            "Name": "Athens,   Attica",
+            "NameAr": "اتهينس اتتيكا"
+        },
+        {
+            "Code": "160903",
+            "Name": "Athens Coast,   Attica",
+            "NameAr": "اتهينس كواست اتتيكا"
+        },
+        {
+            "Code": "109907",
+            "Name": "Atsipopoulos",
+            "NameAr": "اتسيبوبوولوس"
+        },
+        {
+            "Code": "161048",
+            "Name": "Attica",
+            "NameAr": "اتتيكا"
+        },
+        {
+            "Code": "161051",
+            "Name": "Attiki",
+            "NameAr": "اتتيكي"
+        },
+        {
+            "Code": "110023",
+            "Name": "Avdou",
+            "NameAr": "افدوو"
+        },
+        {
+            "Code": "298443",
+            "Name": "Avía",
+            "NameAr": "اف ا"
+        },
+        {
+            "Code": "110100",
+            "Name": "Avlaki",
+            "NameAr": "افلاكي"
+        },
+        {
+            "Code": "104741",
+            "Name": "Avlakia",
+            "NameAr": "افلاكيا"
+        },
+        {
+            "Code": "392118",
+            "Name": "Avlemonas",
+            "NameAr": "افليموناس"
+        },
+        {
+            "Code": "144015",
+            "Name": "Avliotes",
+            "NameAr": "افليوتيس"
+        },
+        {
+            "Code": "110105",
+            "Name": "Axos",
+            "NameAr": "اكسوس"
+        },
+        {
+            "Code": "101475",
+            "Name": "Ayios Dhimitrios",
+            "NameAr": "اييوس دهيميتريوس"
+        },
+        {
+            "Code": "109777",
+            "Name": "Azolimnos,   Cyclades Islands",
+            "NameAr": "ازوليمنوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "144077",
+            "Name": "Bali,   Crete",
+            "NameAr": "بالي كريتي"
+        },
+        {
+            "Code": "110680",
+            "Name": "Balos",
+            "NameAr": "بالوس"
+        },
+        {
+            "Code": "111000",
+            "Name": "Barbati,   Ionian Islands",
+            "NameAr": "بارباتي يونيان يسلاندس"
+        },
+        {
+            "Code": "111038",
+            "Name": "Batsi,   Cyclades Islands",
+            "NameAr": "باتسي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "161088",
+            "Name": "Baxedes",
+            "NameAr": "باكسيديس"
+        },
+        {
+            "Code": "144171",
+            "Name": "Belokomiti",
+            "NameAr": "بيلوكوميتي"
+        },
+        {
+            "Code": "111899",
+            "Name": "Benitses,   Ionian Islands",
+            "NameAr": "بينيتسيس يونيان يسلاندس"
+        },
+        {
+            "Code": "112474",
+            "Name": "Boukari",
+            "NameAr": "بووكاري"
+        },
+        {
+            "Code": "114178",
+            "Name": "Cap Sani",
+            "NameAr": "كاب ساني"
+        },
+        {
+            "Code": "161084",
+            "Name": "Chalandri",
+            "NameAr": "كهالاندري"
+        },
+        {
+            "Code": "114929",
+            "Name": "Chalikounas",
+            "NameAr": "كهاليكووناس"
+        },
+        {
+            "Code": "113597",
+            "Name": "Chalki",
+            "NameAr": "كهالكي"
+        },
+        {
+            "Code": "114702",
+            "Name": "Chalkida,   Central Greece",
+            "NameAr": "كهالكيدا كينترال جرييكي"
+        },
+        {
+            "Code": "113677",
+            "Name": "Chalkidona,   Central Macedonia",
+            "NameAr": "كهالكيدونا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "114241",
+            "Name": "Chania,   Crete",
+            "NameAr": "كهانيا كريتي"
+        },
+        {
+            "Code": "348539",
+            "Name": "Chania Town",
+            "NameAr": "كهانيا توون"
+        },
+        {
+            "Code": "114707",
+            "Name": "Chanioti,   Central Macedonia",
+            "NameAr": "كهانيوتي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "144625",
+            "Name": "Charaki,   Dodecanese Islands",
+            "NameAr": "كهاراكي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "114714",
+            "Name": "Charkia",
+            "NameAr": "كهاركيا"
+        },
+        {
+            "Code": "144652",
+            "Name": "Cherethiana",
+            "NameAr": "كهيريتهيانا"
+        },
+        {
+            "Code": "114658",
+            "Name": "Chiliadou",
+            "NameAr": "كهيليادوو"
+        },
+        {
+            "Code": "417921",
+            "Name": "Chionata,   Ionian Islands",
+            "NameAr": "كهيوناتا يونيان يسلاندس"
+        },
+        {
+            "Code": "101179",
+            "Name": "Chios",
+            "NameAr": "كهيوس"
+        },
+        {
+            "Code": "114990",
+            "Name": "Chios Town,   North Aegean",
+            "NameAr": "كهيوس توون نورته ايجيان"
+        },
+        {
+            "Code": "114362",
+            "Name": "Chirocastello",
+            "NameAr": "كهيروكاستيللو"
+        },
+        {
+            "Code": "115324",
+            "Name": "Chora",
+            "NameAr": "كهورا"
+        },
+        {
+            "Code": "115767",
+            "Name": "Chora Sfakion",
+            "NameAr": "كهورا سفاكيون"
+        },
+        {
+            "Code": "114547",
+            "Name": "Chorafakia",
+            "NameAr": "كهورافاكيا"
+        },
+        {
+            "Code": "114816",
+            "Name": "Choudetsi",
+            "NameAr": "كهووديتسي"
+        },
+        {
+            "Code": "114761",
+            "Name": "Choulakia",
+            "NameAr": "كهوولاكيا"
+        },
+        {
+            "Code": "115325",
+            "Name": "Choumeri",
+            "NameAr": "كهووميري"
+        },
+        {
+            "Code": "144686",
+            "Name": "Chrani",
+            "NameAr": "كهراني"
+        },
+        {
+            "Code": "115326",
+            "Name": "Chrisoskalitissa",
+            "NameAr": "كهريسوسكاليتيسسا"
+        },
+        {
+            "Code": "115327",
+            "Name": "Chrissi Akti",
+            "NameAr": "كهريسسي اكتي"
+        },
+        {
+            "Code": "114368",
+            "Name": "Chrissi Ammoudia / Golden Beach",
+            "NameAr": "كهريسسي اممووديا جولدين بياكه"
+        },
+        {
+            "Code": "114549",
+            "Name": "Chromonastiri",
+            "NameAr": "كهروموناستيري"
+        },
+        {
+            "Code": "417889",
+            "Name": "Chronia,   Central Greece",
+            "NameAr": "كهرونيا كينترال جرييكي"
+        },
+        {
+            "Code": "105261",
+            "Name": "Chrysoupoli",
+            "NameAr": "كهريسووبولي"
+        },
+        {
+            "Code": "115559",
+            "Name": "Corfu,   Ionian Islands",
+            "NameAr": "كورفو يونيان يسلاندس"
+        },
+        {
+            "Code": "115291",
+            "Name": "Corfu Town",
+            "NameAr": "كورفو توون"
+        },
+        {
+            "Code": "123328",
+            "Name": "Crete,   Crete",
+            "NameAr": "كريتي كريتي"
+        },
+        {
+            "Code": "144816",
+            "Name": "Crithoni",
+            "NameAr": "كريتهوني"
+        },
+        {
+            "Code": "116036",
+            "Name": "Damasta",
+            "NameAr": "داماستا"
+        },
+        {
+            "Code": "116256",
+            "Name": "Damavolou",
+            "NameAr": "دامافولوو"
+        },
+        {
+            "Code": "116257",
+            "Name": "Damnoni",
+            "NameAr": "دامنوني"
+        },
+        {
+            "Code": "116617",
+            "Name": "Damouchari",
+            "NameAr": "دامووكهاري"
+        },
+        {
+            "Code": "115631",
+            "Name": "Danila,   Ionian Islands",
+            "NameAr": "دانيلا يونيان يسلاندس"
+        },
+        {
+            "Code": "116629",
+            "Name": "Darmarochori",
+            "NameAr": "دارماروكهوري"
+        },
+        {
+            "Code": "116631",
+            "Name": "Dassia,   Ionian Islands",
+            "NameAr": "داسسيا يونيان يسلاندس"
+        },
+        {
+            "Code": "144897",
+            "Name": "Delphi,   Central Greece",
+            "NameAr": "ديلبهي كينترال جرييكي"
+        },
+        {
+            "Code": "115680",
+            "Name": "Demonia",
+            "NameAr": "ديمونيا"
+        },
+        {
+            "Code": "303950",
+            "Name": "Derveni,   Peloponnese",
+            "NameAr": "ديرفيني بيلوبوننيسي"
+        },
+        {
+            "Code": "246132",
+            "Name": "Dhrímiskos",
+            "NameAr": "دهر ميسكوس"
+        },
+        {
+            "Code": "115882",
+            "Name": "Diafani",
+            "NameAr": "ديافاني"
+        },
+        {
+            "Code": "117358",
+            "Name": "Diakofti",
+            "NameAr": "دياكوفتي"
+        },
+        {
+            "Code": "116184",
+            "Name": "Diakopto",
+            "NameAr": "دياكوبتو"
+        },
+        {
+            "Code": "101854",
+            "Name": "Didymoticho,   Thrace",
+            "NameAr": "ديديموتيكهو تهراكي"
+        },
+        {
+            "Code": "116194",
+            "Name": "Dilofo",
+            "NameAr": "ديلوفو"
+        },
+        {
+            "Code": "116353",
+            "Name": "Dimitsana,   Peloponnese",
+            "NameAr": "ديميتسانا بيلوبوننيسي"
+        },
+        {
+            "Code": "115897",
+            "Name": "Dimos Arkadiou",
+            "NameAr": "ديموس اركاديوو"
+        },
+        {
+            "Code": "144926",
+            "Name": "Dimos Krioneridas",
+            "NameAr": "ديموس كريونيريداس"
+        },
+        {
+            "Code": "160510",
+            "Name": "Dio-Olympos,   Central Macedonia",
+            "NameAr": "ديو-وليمبوس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "116663",
+            "Name": "Dionisiou Beach",
+            "NameAr": "ديونيسيوو بياكه"
+        },
+        {
+            "Code": "116196",
+            "Name": "Distomo",
+            "NameAr": "ديستومو"
+        },
+        {
+            "Code": "101863",
+            "Name": "Dodekanes",
+            "NameAr": "دوديكانيس"
+        },
+        {
+            "Code": "116898",
+            "Name": "Donousa",
+            "NameAr": "دونووسا"
+        },
+        {
+            "Code": "160513",
+            "Name": "Dorida,   Central Greece",
+            "NameAr": "دوريدا كينترال جرييكي"
+        },
+        {
+            "Code": "117019",
+            "Name": "Doukades",
+            "NameAr": "دووكاديس"
+        },
+        {
+            "Code": "117404",
+            "Name": "Douliana",
+            "NameAr": "دووليانا"
+        },
+        {
+            "Code": "116688",
+            "Name": "Douneika",
+            "NameAr": "دوونييكا"
+        },
+        {
+            "Code": "117409",
+            "Name": "Drama,   East Macedonia",
+            "NameAr": "دراما ياست ماكيدونيا"
+        },
+        {
+            "Code": "116387",
+            "Name": "Drapanias",
+            "NameAr": "درابانياس"
+        },
+        {
+            "Code": "117413",
+            "Name": "Drepano",
+            "NameAr": "دريبانو"
+        },
+        {
+            "Code": "144972",
+            "Name": "Drimiskos",
+            "NameAr": "دريميسكوس"
+        },
+        {
+            "Code": "116394",
+            "Name": "Drosia (Athens),   Attica",
+            "NameAr": "دروسيا اتهينس اتتيكا"
+        },
+        {
+            "Code": "268835",
+            "Name": "Drosia (Zakynthos),   Ionian Islands",
+            "NameAr": "دروسيا زاكينتهوس يونيان يسلاندس"
+        },
+        {
+            "Code": "160904",
+            "Name": "Drossia (Chalkida),   Central Greece",
+            "NameAr": "دروسسيا كهالكيدا كينترال جرييكي"
+        },
+        {
+            "Code": "144980",
+            "Name": "Dryos,   Cyclades Islands",
+            "NameAr": "دريوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "116469",
+            "Name": "Dytiko",
+            "NameAr": "ديتيكو"
+        },
+        {
+            "Code": "160419",
+            "Name": "East Mani,   Peloponnese",
+            "NameAr": "ياست ماني بيلوبوننيسي"
+        },
+        {
+            "Code": "118023",
+            "Name": "Edessa,   Central Macedonia",
+            "NameAr": "يديسسا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "118027",
+            "Name": "Edipsos,   Central Greece",
+            "NameAr": "يديبسوس كينترال جرييكي"
+        },
+        {
+            "Code": "116752",
+            "Name": "Eftalou",
+            "NameAr": "يفتالوو"
+        },
+        {
+            "Code": "116788",
+            "Name": "Egares",
+            "NameAr": "يجاريس"
+        },
+        {
+            "Code": "117121",
+            "Name": "Egio",
+            "NameAr": "يجيو"
+        },
+        {
+            "Code": "161076",
+            "Name": "Ekali",
+            "NameAr": "يكالي"
+        },
+        {
+            "Code": "102332",
+            "Name": "Elafonisos",
+            "NameAr": "يلافونيسوس"
+        },
+        {
+            "Code": "118056",
+            "Name": "Elafonissos",
+            "NameAr": "يلافونيسسوس"
+        },
+        {
+            "Code": "406944",
+            "Name": "Elati",
+            "NameAr": "يلاتي"
+        },
+        {
+            "Code": "116530",
+            "Name": "Elati (Trikala)",
+            "NameAr": "يلاتي تريكالا"
+        },
+        {
+            "Code": "116821",
+            "Name": "Elatochori",
+            "NameAr": "يلاتوكهوري"
+        },
+        {
+            "Code": "102367",
+            "Name": "Elatou",
+            "NameAr": "يلاتوو"
+        },
+        {
+            "Code": "116823",
+            "Name": "Elefsina,   Attica",
+            "NameAr": "يليفسينا اتتيكا"
+        },
+        {
+            "Code": "116992",
+            "Name": "Eleftherna",
+            "NameAr": "يليفتهيرنا"
+        },
+        {
+            "Code": "417928",
+            "Name": "Eleftheroupoli",
+            "NameAr": "يليفتهيرووبولي"
+        },
+        {
+            "Code": "116535",
+            "Name": "Eleonas",
+            "NameAr": "يليوناس"
+        },
+        {
+            "Code": "116824",
+            "Name": "Eleusis",
+            "NameAr": "يليوسيس"
+        },
+        {
+            "Code": "116825",
+            "Name": "Elia",
+            "NameAr": "يليا"
+        },
+        {
+            "Code": "145066",
+            "Name": "Elia Beach,   Cyclades Islands",
+            "NameAr": "يليا بياكه كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "117452",
+            "Name": "Elia Nikitis,   Central Macedonia",
+            "NameAr": "يليا نيكيتيس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "145072",
+            "Name": "Elliniko",
+            "NameAr": "يللينيكو"
+        },
+        {
+            "Code": "160776",
+            "Name": "Elos,   Peloponnese",
+            "NameAr": "يلوس بيلوبوننيسي"
+        },
+        {
+            "Code": "116836",
+            "Name": "Elounda,   Crete",
+            "NameAr": "يلووندا كريتي"
+        },
+        {
+            "Code": "118075",
+            "Name": "Emponas",
+            "NameAr": "يمبوناس"
+        },
+        {
+            "Code": "117232",
+            "Name": "Emporio,   Cyclades Islands",
+            "NameAr": "يمبوريو كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "117687",
+            "Name": "Emporios",
+            "NameAr": "يمبوريوس"
+        },
+        {
+            "Code": "116856",
+            "Name": "Epidauros",
+            "NameAr": "يبيداوروس"
+        },
+        {
+            "Code": "160530",
+            "Name": "Epirus,   Epirus",
+            "NameAr": "يبيروس يبيروس"
+        },
+        {
+            "Code": "117819",
+            "Name": "Episkopi",
+            "NameAr": "يبيسكوبي"
+        },
+        {
+            "Code": "148873",
+            "Name": "Erateini",
+            "NameAr": "يراتييني"
+        },
+        {
+            "Code": "366949",
+            "Name": "Eratini",
+            "NameAr": "يراتيني"
+        },
+        {
+            "Code": "108227",
+            "Name": "Ereikoussa",
+            "NameAr": "يرييكووسسا"
+        },
+        {
+            "Code": "117178",
+            "Name": "Eretria,   Central Greece",
+            "NameAr": "يريتريا كينترال جرييكي"
+        },
+        {
+            "Code": "117246",
+            "Name": "Eristos",
+            "NameAr": "يريستوس"
+        },
+        {
+            "Code": "117836",
+            "Name": "Ermioni,   Peloponnese",
+            "NameAr": "يرميوني بيلوبوننيسي"
+        },
+        {
+            "Code": "118098",
+            "Name": "Ermones",
+            "NameAr": "يرمونيس"
+        },
+        {
+            "Code": "116867",
+            "Name": "Ermoupolis,   Cyclades Islands",
+            "NameAr": "يرمووبوليس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "160519",
+            "Name": "Evia,   Central Greece",
+            "NameAr": "يفيا كينترال جرييكي"
+        },
+        {
+            "Code": "121132",
+            "Name": "Evriaki",
+            "NameAr": "يفرياكي"
+        },
+        {
+            "Code": "160409",
+            "Name": "Evrotas,   Peloponnese",
+            "NameAr": "يفروتاس بيلوبوننيسي"
+        },
+        {
+            "Code": "108233",
+            "Name": "Exo Gonia",
+            "NameAr": "يكسو جونيا"
+        },
+        {
+            "Code": "117574",
+            "Name": "Exohori",
+            "NameAr": "يكسوهوري"
+        },
+        {
+            "Code": "117217",
+            "Name": "Exopoli",
+            "NameAr": "يكسوبولي"
+        },
+        {
+            "Code": "160424",
+            "Name": "Faistos,   Crete",
+            "NameAr": "فايستوس كريتي"
+        },
+        {
+            "Code": "118796",
+            "Name": "Falasarna or Phalasarna,   Crete",
+            "NameAr": "فالاسارنا ور بهالاسارنا كريتي"
+        },
+        {
+            "Code": "117551",
+            "Name": "Faliraki,   Dodecanese Islands",
+            "NameAr": "فاليراكي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "118242",
+            "Name": "Fanari",
+            "NameAr": "فاناري"
+        },
+        {
+            "Code": "160905",
+            "Name": "Fanes",
+            "NameAr": "فانيس"
+        },
+        {
+            "Code": "117765",
+            "Name": "Fanis",
+            "NameAr": "فانيس"
+        },
+        {
+            "Code": "118803",
+            "Name": "Faros",
+            "NameAr": "فاروس"
+        },
+        {
+            "Code": "417930",
+            "Name": "Farsa",
+            "NameAr": "فارسا"
+        },
+        {
+            "Code": "117784",
+            "Name": "Ferma",
+            "NameAr": "فيرما"
+        },
+        {
+            "Code": "117622",
+            "Name": "Filiatra",
+            "NameAr": "فيلياترا"
+        },
+        {
+            "Code": "160906",
+            "Name": "Filippiada",
+            "NameAr": "فيليببيادا"
+        },
+        {
+            "Code": "118453",
+            "Name": "Finikas",
+            "NameAr": "فينيكاس"
+        },
+        {
+            "Code": "145186",
+            "Name": "Finiki",
+            "NameAr": "فينيكي"
+        },
+        {
+            "Code": "118160",
+            "Name": "Finikounda",
+            "NameAr": "فينيكووندا"
+        },
+        {
+            "Code": "353212",
+            "Name": "Fira,   Cyclades Islands",
+            "NameAr": "فيرا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "117628",
+            "Name": "Firostefani,   Cyclades Islands",
+            "NameAr": "فيروستيفاني كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "145194",
+            "Name": "Fiskardo,   Ionian Islands",
+            "NameAr": "فيسكاردو يونيان يسلاندس"
+        },
+        {
+            "Code": "145205",
+            "Name": "Flatsia",
+            "NameAr": "فلاتسيا"
+        },
+        {
+            "Code": "118584",
+            "Name": "Florina",
+            "NameAr": "فلورينا"
+        },
+        {
+            "Code": "118181",
+            "Name": "Fodele,   Crete",
+            "NameAr": "فوديلي كريتي"
+        },
+        {
+            "Code": "118476",
+            "Name": "Folegandros,   Cyclades Islands",
+            "NameAr": "فوليجاندروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "118499",
+            "Name": "Fourka,   Central Macedonia",
+            "NameAr": "فووركا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "118612",
+            "Name": "Fourni",
+            "NameAr": "فوورني"
+        },
+        {
+            "Code": "119559",
+            "Name": "Frangokastelo",
+            "NameAr": "فرانجوكاستيلو"
+        },
+        {
+            "Code": "118637",
+            "Name": "Frikes",
+            "NameAr": "فريكيس"
+        },
+        {
+            "Code": "106090",
+            "Name": "Fry",
+            "NameAr": "فري"
+        },
+        {
+            "Code": "118897",
+            "Name": "Ftelia,   Cyclades Islands",
+            "NameAr": "فتيليا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "119601",
+            "Name": "Gaios,   Gaios",
+            "NameAr": "جايوس جايوس"
+        },
+        {
+            "Code": "118543",
+            "Name": "Galaxidi,   Central Greece",
+            "NameAr": "جالاكسيدي كينترال جرييكي"
+        },
+        {
+            "Code": "119604",
+            "Name": "Galissas,   Cyclades Islands",
+            "NameAr": "جاليسساس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "117999",
+            "Name": "Gargaliani",
+            "NameAr": "جارجالياني"
+        },
+        {
+            "Code": "119228",
+            "Name": "Gargarou-Strand",
+            "NameAr": "جارجاروو-ستراند"
+        },
+        {
+            "Code": "119237",
+            "Name": "Gastouri",
+            "NameAr": "جاستووري"
+        },
+        {
+            "Code": "119088",
+            "Name": "Gavalochori",
+            "NameAr": "جافالوكهوري"
+        },
+        {
+            "Code": "417871",
+            "Name": "Gavdos",
+            "NameAr": "جافدوس"
+        },
+        {
+            "Code": "119241",
+            "Name": "Gavrion,   Cyclades Islands",
+            "NameAr": "جافريون كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "161075",
+            "Name": "Gazi",
+            "NameAr": "جازي"
+        },
+        {
+            "Code": "118425",
+            "Name": "Gefira Plaka",
+            "NameAr": "جيفيرا بلاكا"
+        },
+        {
+            "Code": "145338",
+            "Name": "Gennadi,   Dodecanese Islands",
+            "NameAr": "جيننادي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "119372",
+            "Name": "Georgioupolis,   Crete",
+            "NameAr": "جيورجيووبوليس كريتي"
+        },
+        {
+            "Code": "119258",
+            "Name": "Georgitsi",
+            "NameAr": "جيورجيتسي"
+        },
+        {
+            "Code": "118957",
+            "Name": "Gera",
+            "NameAr": "جيرا"
+        },
+        {
+            "Code": "119646",
+            "Name": "Gerakari",
+            "NameAr": "جيراكاري"
+        },
+        {
+            "Code": "417447",
+            "Name": "Gerakari (Kythira),   Attica",
+            "NameAr": "جيراكاري كيتهيرا اتتيكا"
+        },
+        {
+            "Code": "145345",
+            "Name": "Gerakini,   Central Macedonia",
+            "NameAr": "جيراكيني كينترال ماكيدونيا"
+        },
+        {
+            "Code": "118680",
+            "Name": "Gerani",
+            "NameAr": "جيراني"
+        },
+        {
+            "Code": "374885",
+            "Name": "Gerani,   Crete",
+            "NameAr": "جيراني كريتي"
+        },
+        {
+            "Code": "119106",
+            "Name": "Gerolimenas",
+            "NameAr": "جيروليميناس"
+        },
+        {
+            "Code": "118975",
+            "Name": "Gialiskari",
+            "NameAr": "جياليسكاري"
+        },
+        {
+            "Code": "118692",
+            "Name": "Gialos",
+            "NameAr": "جيالوس"
+        },
+        {
+            "Code": "145351",
+            "Name": "Gialova",
+            "NameAr": "جيالوفا"
+        },
+        {
+            "Code": "119771",
+            "Name": "Giannades",
+            "NameAr": "جيانناديس"
+        },
+        {
+            "Code": "119380",
+            "Name": "Giannitsa",
+            "NameAr": "جياننيتسا"
+        },
+        {
+            "Code": "119274",
+            "Name": "Gimari",
+            "NameAr": "جيماري"
+        },
+        {
+            "Code": "101746",
+            "Name": "Gkoura",
+            "NameAr": "جكوورا"
+        },
+        {
+            "Code": "119131",
+            "Name": "Glastros,   Cyclades Islands",
+            "NameAr": "جلاستروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "119798",
+            "Name": "Glikadi",
+            "NameAr": "جليكادي"
+        },
+        {
+            "Code": "119149",
+            "Name": "Glyfada (Athens),   Attica",
+            "NameAr": "جليفادا اتهينس اتتيكا"
+        },
+        {
+            "Code": "161097",
+            "Name": "Glyfada (Corfu),   Ionian Islands",
+            "NameAr": "جليفادا كورفو يونيان يسلاندس"
+        },
+        {
+            "Code": "119150",
+            "Name": "Glyfades-Beach",
+            "NameAr": "جليفاديس-بياكه"
+        },
+        {
+            "Code": "145373",
+            "Name": "Glyki",
+            "NameAr": "جليكي"
+        },
+        {
+            "Code": "118734",
+            "Name": "Gola",
+            "NameAr": "جولا"
+        },
+        {
+            "Code": "160413",
+            "Name": "Gortynia,   Peloponnese",
+            "NameAr": "جورتينيا بيلوبوننيسي"
+        },
+        {
+            "Code": "119327",
+            "Name": "Gournes",
+            "NameAr": "جوورنيس"
+        },
+        {
+            "Code": "118756",
+            "Name": "Gouves,   Crete",
+            "NameAr": "جووفيس كريتي"
+        },
+        {
+            "Code": "145401",
+            "Name": "Gouvia,   Ionian Islands",
+            "NameAr": "جووفيا يونيان يسلاندس"
+        },
+        {
+            "Code": "119847",
+            "Name": "Gramvoussa",
+            "NameAr": "جرامفووسسا"
+        },
+        {
+            "Code": "119998",
+            "Name": "Granitis",
+            "NameAr": "جرانيتيس"
+        },
+        {
+            "Code": "120118",
+            "Name": "Gregolimano",
+            "NameAr": "جريجوليمانو"
+        },
+        {
+            "Code": "119463",
+            "Name": "Grevena",
+            "NameAr": "جريفينا"
+        },
+        {
+            "Code": "119885",
+            "Name": "Grikos,   Dodecanese Islands",
+            "NameAr": "جريكوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "120170",
+            "Name": "Gytheio,   Peloponnese",
+            "NameAr": "جيتهييو بيلوبوننيسي"
+        },
+        {
+            "Code": "120072",
+            "Name": "Gythion",
+            "NameAr": "جيتهيون"
+        },
+        {
+            "Code": "145593",
+            "Name": "Heraklion,   Crete",
+            "NameAr": "هيراكليون كريتي"
+        },
+        {
+            "Code": "121898",
+            "Name": "Hersonissos,   Crete",
+            "NameAr": "هيرسونيسسوس كريتي"
+        },
+        {
+            "Code": "101554",
+            "Name": "Hora Sfakion",
+            "NameAr": "هورا سفاكيون"
+        },
+        {
+            "Code": "120999",
+            "Name": "Horefto",
+            "NameAr": "هوريفتو"
+        },
+        {
+            "Code": "121393",
+            "Name": "Horto",
+            "NameAr": "هورتو"
+        },
+        {
+            "Code": "121955",
+            "Name": "Horton",
+            "NameAr": "هورتون"
+        },
+        {
+            "Code": "363149",
+            "Name": "Houlakia,   Cyclades Islands",
+            "NameAr": "هوولاكيا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "122092",
+            "Name": "Hydra Island,   Attica",
+            "NameAr": "هيدرا يسلاند اتتيكا"
+        },
+        {
+            "Code": "121590",
+            "Name": "Ialyssos,   Dodecanese Islands",
+            "NameAr": "ياليسسوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "121048",
+            "Name": "Ierapetra,   Crete",
+            "NameAr": "ييرابيترا كريتي"
+        },
+        {
+            "Code": "121450",
+            "Name": "Ierissos,   Central Macedonia",
+            "NameAr": "ييريسسوس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "145720",
+            "Name": "Igoumenitsa,   Epirus",
+            "NameAr": "يجوومينيتسا يبيروس"
+        },
+        {
+            "Code": "145723",
+            "Name": "Ikaria",
+            "NameAr": "يكاريا"
+        },
+        {
+            "Code": "101924",
+            "Name": "Ilia Village",
+            "NameAr": "يليا فيللاجي"
+        },
+        {
+            "Code": "121461",
+            "Name": "Imerovigli,   Cyclades Islands",
+            "NameAr": "يميروفيجلي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "122123",
+            "Name": "Insel Angistri",
+            "NameAr": "ينسيل انجيستري"
+        },
+        {
+            "Code": "121473",
+            "Name": "Insel Chios",
+            "NameAr": "ينسيل كهيوس"
+        },
+        {
+            "Code": "121487",
+            "Name": "Ioannina,   Epirus",
+            "NameAr": "يواننينا يبيروس"
+        },
+        {
+            "Code": "160524",
+            "Name": "Ionian Islands",
+            "NameAr": "يونيان يسلاندس"
+        },
+        {
+            "Code": "121744",
+            "Name": "Ios Chora",
+            "NameAr": "يوس كهورا"
+        },
+        {
+            "Code": "145764",
+            "Name": "Ios Marina",
+            "NameAr": "يوس مارينا"
+        },
+        {
+            "Code": "145765",
+            "Name": "Ios-Stadt",
+            "NameAr": "يوس-ستادت"
+        },
+        {
+            "Code": "160907",
+            "Name": "Ipsos,   Ionian Islands",
+            "NameAr": "يبسوس يونيان يسلاندس"
+        },
+        {
+            "Code": "294665",
+            "Name": "Irakleia",
+            "NameAr": "يراكلييا"
+        },
+        {
+            "Code": "145770",
+            "Name": "Iraklia (bei Naxos)",
+            "NameAr": "يراكليا بيي ناكسوس"
+        },
+        {
+            "Code": "121491",
+            "Name": "Iraklion",
+            "NameAr": "يراكليون"
+        },
+        {
+            "Code": "122709",
+            "Name": "Ireon",
+            "NameAr": "يريون"
+        },
+        {
+            "Code": "122710",
+            "Name": "Iria",
+            "NameAr": "يريا"
+        },
+        {
+            "Code": "145775",
+            "Name": "Isaris",
+            "NameAr": "يساريس"
+        },
+        {
+            "Code": "121770",
+            "Name": "Istmia",
+            "NameAr": "يستميا"
+        },
+        {
+            "Code": "122729",
+            "Name": "Istron,   Crete",
+            "NameAr": "يسترون كريتي"
+        },
+        {
+            "Code": "122427",
+            "Name": "Itea,   Central Greece",
+            "NameAr": "يتيا كينترال جرييكي"
+        },
+        {
+            "Code": "122309",
+            "Name": "Ithaka",
+            "NameAr": "يتهاكا"
+        },
+        {
+            "Code": "160925",
+            "Name": "Itilo",
+            "NameAr": "يتيلو"
+        },
+        {
+            "Code": "122312",
+            "Name": "Itylo",
+            "NameAr": "يتيلو"
+        },
+        {
+            "Code": "122167",
+            "Name": "Ixia,   Dodecanese Islands",
+            "NameAr": "يكسيا دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "417395",
+            "Name": "Kafiona",
+            "NameAr": "كافيونا"
+        },
+        {
+            "Code": "160908",
+            "Name": "Kaiafas,   Peloponnese",
+            "NameAr": "كايافاس بيلوبوننيسي"
+        },
+        {
+            "Code": "122235",
+            "Name": "Kakovatos",
+            "NameAr": "كاكوفاتوس"
+        },
+        {
+            "Code": "122805",
+            "Name": "Kala Nera",
+            "NameAr": "كالا نيرا"
+        },
+        {
+            "Code": "122236",
+            "Name": "Kalafati,   Cyclades Islands",
+            "NameAr": "كالافاتي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "123478",
+            "Name": "Kalamaki (Chania),   Crete",
+            "NameAr": "كالاماكي كهانيا كريتي"
+        },
+        {
+            "Code": "417443",
+            "Name": "Kalamaki (Heraklion),   Crete",
+            "NameAr": "كالاماكي هيراكليون كريتي"
+        },
+        {
+            "Code": "122238",
+            "Name": "Kalamaki (Zakynthos),   Ionian Islands",
+            "NameAr": "كالاماكي زاكينتهوس يونيان يسلاندس"
+        },
+        {
+            "Code": "122907",
+            "Name": "Kalamakia",
+            "NameAr": "كالاماكيا"
+        },
+        {
+            "Code": "122386",
+            "Name": "Kalamata,   Peloponnese",
+            "NameAr": "كالاماتا بيلوبوننيسي"
+        },
+        {
+            "Code": "160910",
+            "Name": "Kalambaka,   Thessaly",
+            "NameAr": "كالامباكا تهيسسالي"
+        },
+        {
+            "Code": "122908",
+            "Name": "Kalami,   Ionian Islands",
+            "NameAr": "كالامي يونيان يسلاندس"
+        },
+        {
+            "Code": "123481",
+            "Name": "Kalamitsi",
+            "NameAr": "كالاميتسي"
+        },
+        {
+            "Code": "122239",
+            "Name": "Kalamos",
+            "NameAr": "كالاموس"
+        },
+        {
+            "Code": "122806",
+            "Name": "Kalampaka,   Thessaly",
+            "NameAr": "كالامباكا تهيسسالي"
+        },
+        {
+            "Code": "145860",
+            "Name": "Kalandra,   Central Macedonia",
+            "NameAr": "كالاندرا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "122510",
+            "Name": "Kalarites",
+            "NameAr": "كالاريتيس"
+        },
+        {
+            "Code": "351060",
+            "Name": "Kalathas",
+            "NameAr": "كالاتهاس"
+        },
+        {
+            "Code": "122808",
+            "Name": "Kalathos,   Dodecanese Islands",
+            "NameAr": "كالاتهوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "106170",
+            "Name": "Kalavarda",
+            "NameAr": "كالافاردا"
+        },
+        {
+            "Code": "121829",
+            "Name": "Kalavros",
+            "NameAr": "كالافروس"
+        },
+        {
+            "Code": "122809",
+            "Name": "Kalavryta,   Peloponnese",
+            "NameAr": "كالافريتا بيلوبوننيسي"
+        },
+        {
+            "Code": "122387",
+            "Name": "Kali Limenes",
+            "NameAr": "كالي ليمينيس"
+        },
+        {
+            "Code": "122389",
+            "Name": "Kalikratia,   Central Macedonia",
+            "NameAr": "كاليكراتيا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "122513",
+            "Name": "Kalithea",
+            "NameAr": "كاليتهيا"
+        },
+        {
+            "Code": "122514",
+            "Name": "Kalives",
+            "NameAr": "كاليفيس"
+        },
+        {
+            "Code": "122243",
+            "Name": "Kalivia Pezoulas",
+            "NameAr": "كاليفيا بيزوولاس"
+        },
+        {
+            "Code": "121834",
+            "Name": "Kallirroi",
+            "NameAr": "كالليرروي"
+        },
+        {
+            "Code": "281498",
+            "Name": "Kallithea",
+            "NameAr": "كالليتهيا"
+        },
+        {
+            "Code": "122815",
+            "Name": "Kallithea (Athens),   Attica",
+            "NameAr": "كالليتهيا اتهينس اتتيكا"
+        },
+        {
+            "Code": "381405",
+            "Name": "Kallithea (Kassandra),   Central Macedonia",
+            "NameAr": "كالليتهيا كاسساندرا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "105632",
+            "Name": "Kallithea (Rhodes),   Dodecanese Islands",
+            "NameAr": "كالليتهيا رهوديس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "121835",
+            "Name": "Kalloni",
+            "NameAr": "كاللوني"
+        },
+        {
+            "Code": "145868",
+            "Name": "Kalo Chorio",
+            "NameAr": "كالو كهوريو"
+        },
+        {
+            "Code": "122816",
+            "Name": "Kalo Livadi,   Cyclades Islands",
+            "NameAr": "كالو ليفادي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "121836",
+            "Name": "Kalo Nero",
+            "NameAr": "كالو نيرو"
+        },
+        {
+            "Code": "122914",
+            "Name": "Kalogria",
+            "NameAr": "كالوجريا"
+        },
+        {
+            "Code": "145869",
+            "Name": "Kalonyktis",
+            "NameAr": "كالونيكتيس"
+        },
+        {
+            "Code": "121838",
+            "Name": "Kalymnos,   Dodecanese Islands",
+            "NameAr": "كاليمنوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "122919",
+            "Name": "Kalyves,   Crete",
+            "NameAr": "كاليفيس كريتي"
+        },
+        {
+            "Code": "121839",
+            "Name": "Kalyviani",
+            "NameAr": "كاليفياني"
+        },
+        {
+            "Code": "121840",
+            "Name": "Kamares",
+            "NameAr": "كاماريس"
+        },
+        {
+            "Code": "122246",
+            "Name": "Kamari,   Cyclades Islands",
+            "NameAr": "كاماري كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "122920",
+            "Name": "Kamaria",
+            "NameAr": "كاماريا"
+        },
+        {
+            "Code": "304598",
+            "Name": "Kambanion",
+            "NameAr": "كامبانيون"
+        },
+        {
+            "Code": "122403",
+            "Name": "Kambia",
+            "NameAr": "كامبيا"
+        },
+        {
+            "Code": "123187",
+            "Name": "Kambos",
+            "NameAr": "كامبوس"
+        },
+        {
+            "Code": "161060",
+            "Name": "Kamena Vourla",
+            "NameAr": "كامينا فوورلا"
+        },
+        {
+            "Code": "123189",
+            "Name": "Kamena-Vourla,   Central Greece",
+            "NameAr": "كامينا-فوورلا كينترال جرييكي"
+        },
+        {
+            "Code": "122922",
+            "Name": "Kamilari",
+            "NameAr": "كاميلاري"
+        },
+        {
+            "Code": "122405",
+            "Name": "Kaminia",
+            "NameAr": "كامينيا"
+        },
+        {
+            "Code": "122923",
+            "Name": "Kamiros Skala",
+            "NameAr": "كاميروس سكالا"
+        },
+        {
+            "Code": "379803",
+            "Name": "Kamisiana",
+            "NameAr": "كاميسيانا"
+        },
+        {
+            "Code": "122250",
+            "Name": "Kampi",
+            "NameAr": "كامبي"
+        },
+        {
+            "Code": "122926",
+            "Name": "Kampos",
+            "NameAr": "كامبوس"
+        },
+        {
+            "Code": "123078",
+            "Name": "Kanali,   Epirus",
+            "NameAr": "كانالي يبيروس"
+        },
+        {
+            "Code": "145877",
+            "Name": "Kanallaki",
+            "NameAr": "كاناللاكي"
+        },
+        {
+            "Code": "123195",
+            "Name": "Kandia,   Peloponnese",
+            "NameAr": "كانديا بيلوبوننيسي"
+        },
+        {
+            "Code": "122257",
+            "Name": "Kanoni,   Ionian Islands",
+            "NameAr": "كانوني يونيان يسلاندس"
+        },
+        {
+            "Code": "145880",
+            "Name": "Kanouli",
+            "NameAr": "كانوولي"
+        },
+        {
+            "Code": "160399",
+            "Name": "Kantanos-Selino,   Crete Island",
+            "NameAr": "كانتانوس-سيلينو كريتي يسلاند"
+        },
+        {
+            "Code": "122933",
+            "Name": "Kantouni",
+            "NameAr": "كانتووني"
+        },
+        {
+            "Code": "123198",
+            "Name": "Kapetaniana",
+            "NameAr": "كابيتانيانا"
+        },
+        {
+            "Code": "122264",
+            "Name": "Kapsaliana",
+            "NameAr": "كابساليانا"
+        },
+        {
+            "Code": "123206",
+            "Name": "Karavomilos",
+            "NameAr": "كارافوميلوس"
+        },
+        {
+            "Code": "350983",
+            "Name": "Karavostasi (Folegandros),   Cyclades Islands",
+            "NameAr": "كارافوستاسي فوليجاندروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "391434",
+            "Name": "Karavostasi (Mani),   Peloponnese",
+            "NameAr": "كارافوستاسي ماني بيلوبوننيسي"
+        },
+        {
+            "Code": "123504",
+            "Name": "Karavostasi (Rethymno),   Crete",
+            "NameAr": "كارافوستاسي ريتهيمنو كريتي"
+        },
+        {
+            "Code": "417531",
+            "Name": "Kardamas,   Peloponnese",
+            "NameAr": "كارداماس بيلوبوننيسي"
+        },
+        {
+            "Code": "122268",
+            "Name": "Kardamena",
+            "NameAr": "كاردامينا"
+        },
+        {
+            "Code": "123208",
+            "Name": "Kardamili",
+            "NameAr": "كارداميلي"
+        },
+        {
+            "Code": "123505",
+            "Name": "Kardamyla",
+            "NameAr": "كارداميلا"
+        },
+        {
+            "Code": "160911",
+            "Name": "Kardamyli",
+            "NameAr": "كارداميلي"
+        },
+        {
+            "Code": "145887",
+            "Name": "Kardaras",
+            "NameAr": "كارداراس"
+        },
+        {
+            "Code": "160912",
+            "Name": "Kardiani",
+            "NameAr": "كاردياني"
+        },
+        {
+            "Code": "160913",
+            "Name": "Karditsa,   Thessaly",
+            "NameAr": "كارديتسا تهيسسالي"
+        },
+        {
+            "Code": "123091",
+            "Name": "Karfas,   North Aegean",
+            "NameAr": "كارفاس نورته ايجيان"
+        },
+        {
+            "Code": "122270",
+            "Name": "Karitsa",
+            "NameAr": "كاريتسا"
+        },
+        {
+            "Code": "160914",
+            "Name": "Karkalou",
+            "NameAr": "كاركالوو"
+        },
+        {
+            "Code": "145890",
+            "Name": "Karlovasi",
+            "NameAr": "كارلوفاسي"
+        },
+        {
+            "Code": "160915",
+            "Name": "Karousades",
+            "NameAr": "كارووساديس"
+        },
+        {
+            "Code": "123214",
+            "Name": "Karoussades",
+            "NameAr": "كارووسساديس"
+        },
+        {
+            "Code": "122948",
+            "Name": "Karpathos,   Dodecanese Islands",
+            "NameAr": "كارباتهوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "122532",
+            "Name": "Karpenisi,   Central Greece",
+            "NameAr": "كاربينيسي كينترال جرييكي"
+        },
+        {
+            "Code": "123216",
+            "Name": "Karterados,   Cyclades Islands",
+            "NameAr": "كارتيرادوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "122534",
+            "Name": "Karteros",
+            "NameAr": "كارتيروس"
+        },
+        {
+            "Code": "108360",
+            "Name": "Karyes,   Peloponnese",
+            "NameAr": "كارييس بيلوبوننيسي"
+        },
+        {
+            "Code": "122949",
+            "Name": "Karystos,   Central Greece",
+            "NameAr": "كاريستوس كينترال جرييكي"
+        },
+        {
+            "Code": "123100",
+            "Name": "Kassandra,   Central Macedonia",
+            "NameAr": "كاسساندرا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "122281",
+            "Name": "Kassiopi",
+            "NameAr": "كاسسيوبي"
+        },
+        {
+            "Code": "122852",
+            "Name": "Kastellakia",
+            "NameAr": "كاستيللاكيا"
+        },
+        {
+            "Code": "160916",
+            "Name": "Kastellorizo",
+            "NameAr": "كاستيللوريزو"
+        },
+        {
+            "Code": "122538",
+            "Name": "Kastellorriso",
+            "NameAr": "كاستيللورريسو"
+        },
+        {
+            "Code": "122854",
+            "Name": "Kastoria,   Western Macedonia",
+            "NameAr": "كاستوريا ويستيرن ماكيدونيا"
+        },
+        {
+            "Code": "122284",
+            "Name": "Kastraki",
+            "NameAr": "كاستراكي"
+        },
+        {
+            "Code": "122539",
+            "Name": "Kastri",
+            "NameAr": "كاستري"
+        },
+        {
+            "Code": "145894",
+            "Name": "Kastro",
+            "NameAr": "كاسترو"
+        },
+        {
+            "Code": "160917",
+            "Name": "Kastro-Kyllinis",
+            "NameAr": "كاسترو-كيللينيس"
+        },
+        {
+            "Code": "123103",
+            "Name": "Kastrosikia",
+            "NameAr": "كاستروسيكيا"
+        },
+        {
+            "Code": "160918",
+            "Name": "Katachas",
+            "NameAr": "كاتاكهاس"
+        },
+        {
+            "Code": "122955",
+            "Name": "Katakali",
+            "NameAr": "كاتاكالي"
+        },
+        {
+            "Code": "123104",
+            "Name": "Katakolo,   Peloponnese",
+            "NameAr": "كاتاكولو بيلوبوننيسي"
+        },
+        {
+            "Code": "145897",
+            "Name": "Katalagari",
+            "NameAr": "كاتالاجاري"
+        },
+        {
+            "Code": "122956",
+            "Name": "Katapola",
+            "NameAr": "كاتابولا"
+        },
+        {
+            "Code": "123106",
+            "Name": "Katarraktis",
+            "NameAr": "كاتارراكتيس"
+        },
+        {
+            "Code": "122957",
+            "Name": "Katastari",
+            "NameAr": "كاتاستاري"
+        },
+        {
+            "Code": "123107",
+            "Name": "Katelios",
+            "NameAr": "كاتيليوس"
+        },
+        {
+            "Code": "124180",
+            "Name": "Katerini,   Central Macedonia",
+            "NameAr": "كاتيريني كينترال ماكيدونيا"
+        },
+        {
+            "Code": "122286",
+            "Name": "Kato Achaia",
+            "NameAr": "كاتو اكهايا"
+        },
+        {
+            "Code": "417927",
+            "Name": "Kato Agios Markos",
+            "NameAr": "كاتو اجيوس ماركوس"
+        },
+        {
+            "Code": "122287",
+            "Name": "Kato Alissos",
+            "NameAr": "كاتو اليسسوس"
+        },
+        {
+            "Code": "122959",
+            "Name": "Kato Asites",
+            "NameAr": "كاتو اسيتيس"
+        },
+        {
+            "Code": "124181",
+            "Name": "Kato Daratsos,   Crete",
+            "NameAr": "كاتو داراتسوس كريتي"
+        },
+        {
+            "Code": "122288",
+            "Name": "Kato Galatas,   Crete",
+            "NameAr": "كاتو جالاتاس كريتي"
+        },
+        {
+            "Code": "122540",
+            "Name": "Kato Gouves,   Crete",
+            "NameAr": "كاتو جووفيس كريتي"
+        },
+        {
+            "Code": "160919",
+            "Name": "Kato Kalessa",
+            "NameAr": "كاتو كاليسسا"
+        },
+        {
+            "Code": "122960",
+            "Name": "Kato Korakiana",
+            "NameAr": "كاتو كوراكيانا"
+        },
+        {
+            "Code": "145899",
+            "Name": "Kato Loutraki",
+            "NameAr": "كاتو لووتراكي"
+        },
+        {
+            "Code": "122541",
+            "Name": "Kato Loutrakion",
+            "NameAr": "كاتو لووتراكيون"
+        },
+        {
+            "Code": "122961",
+            "Name": "Kato Nevrokopi",
+            "NameAr": "كاتو نيفروكوبي"
+        },
+        {
+            "Code": "123634",
+            "Name": "Kato Pavliana",
+            "NameAr": "كاتو بافليانا"
+        },
+        {
+            "Code": "108363",
+            "Name": "Kato Poria",
+            "NameAr": "كاتو بوريا"
+        },
+        {
+            "Code": "145900",
+            "Name": "Kato Stalos,   Crete",
+            "NameAr": "كاتو ستالوس كريتي"
+        },
+        {
+            "Code": "123635",
+            "Name": "Kato Symi",
+            "NameAr": "كاتو سيمي"
+        },
+        {
+            "Code": "124182",
+            "Name": "Kato Tripodo",
+            "NameAr": "كاتو تريبودو"
+        },
+        {
+            "Code": "124183",
+            "Name": "Kato Zakros",
+            "NameAr": "كاتو زاكروس"
+        },
+        {
+            "Code": "123636",
+            "Name": "Katouna",
+            "NameAr": "كاتوونا"
+        },
+        {
+            "Code": "124186",
+            "Name": "Katsarou",
+            "NameAr": "كاتساروو"
+        },
+        {
+            "Code": "145901",
+            "Name": "Katsikia",
+            "NameAr": "كاتسيكيا"
+        },
+        {
+            "Code": "122543",
+            "Name": "Kattavia",
+            "NameAr": "كاتتافيا"
+        },
+        {
+            "Code": "124190",
+            "Name": "Kavala,   East Macedonia",
+            "NameAr": "كافالا ياست ماكيدونيا"
+        },
+        {
+            "Code": "145904",
+            "Name": "Kavos,   Ionian Islands",
+            "NameAr": "كافوس يونيان يسلاندس"
+        },
+        {
+            "Code": "145906",
+            "Name": "Kavros",
+            "NameAr": "كافروس"
+        },
+        {
+            "Code": "123526",
+            "Name": "Kazaviti",
+            "NameAr": "كازافيتي"
+        },
+        {
+            "Code": "123118",
+            "Name": "Kea",
+            "NameAr": "كيا"
+        },
+        {
+            "Code": "123528",
+            "Name": "Kedro Beach",
+            "NameAr": "كيدرو بياكه"
+        },
+        {
+            "Code": "123234",
+            "Name": "Kefalari",
+            "NameAr": "كيفالاري"
+        },
+        {
+            "Code": "124198",
+            "Name": "Kefalas",
+            "NameAr": "كيفالاس"
+        },
+        {
+            "Code": "124199",
+            "Name": "Kefalonia,   Ionian Islands",
+            "NameAr": "كيفالونيا يونيان يسلاندس"
+        },
+        {
+            "Code": "123647",
+            "Name": "Kefalos,   Dodecanese Islands",
+            "NameAr": "كيفالوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "122979",
+            "Name": "Kerames",
+            "NameAr": "كيراميس"
+        },
+        {
+            "Code": "122980",
+            "Name": "Keramoti",
+            "NameAr": "كيراموتي"
+        },
+        {
+            "Code": "122563",
+            "Name": "Keratea,   Attica",
+            "NameAr": "كيراتيا اتتيكا"
+        },
+        {
+            "Code": "124220",
+            "Name": "Keratokambos",
+            "NameAr": "كيراتوكامبوس"
+        },
+        {
+            "Code": "145923",
+            "Name": "Keri",
+            "NameAr": "كيري"
+        },
+        {
+            "Code": "145924",
+            "Name": "Kerkini",
+            "NameAr": "كيركيني"
+        },
+        {
+            "Code": "122569",
+            "Name": "Kerveli",
+            "NameAr": "كيرفيلي"
+        },
+        {
+            "Code": "114602",
+            "Name": "Khakhidiki/Halkidiki/Chalkhidiki,   Central Macedonia",
+            "NameAr": "كهاكهيديكي هالكيديكي كهالكهيديكي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "123153",
+            "Name": "Kiato",
+            "NameAr": "كياتو"
+        },
+        {
+            "Code": "150186",
+            "Name": "Kifisia,   Attica",
+            "NameAr": "كيفيسيا اتتيكا"
+        },
+        {
+            "Code": "145938",
+            "Name": "Kilada",
+            "NameAr": "كيلادا"
+        },
+        {
+            "Code": "123682",
+            "Name": "Kilkis,   Central Macedonia",
+            "NameAr": "كيلكيس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "108370",
+            "Name": "Kimmeria",
+            "NameAr": "كيمميريا"
+        },
+        {
+            "Code": "161010",
+            "Name": "Kimolos",
+            "NameAr": "كيمولوس"
+        },
+        {
+            "Code": "123270",
+            "Name": "Kineta,   Attica",
+            "NameAr": "كينيتا اتتيكا"
+        },
+        {
+            "Code": "124247",
+            "Name": "Kini",
+            "NameAr": "كيني"
+        },
+        {
+            "Code": "123277",
+            "Name": "Kinira,   East Macedonia",
+            "NameAr": "كينيرا ياست ماكيدونيا"
+        },
+        {
+            "Code": "145955",
+            "Name": "Kionia,   Cyclades Islands",
+            "NameAr": "كيونيا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "122592",
+            "Name": "Kiotari,   Dodecanese Islands",
+            "NameAr": "كيوتاري دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "123570",
+            "Name": "Kipoi",
+            "NameAr": "كيبوي"
+        },
+        {
+            "Code": "123698",
+            "Name": "Kipos",
+            "NameAr": "كيبوس"
+        },
+        {
+            "Code": "123571",
+            "Name": "Kira Panaghia",
+            "NameAr": "كيرا باناجهيا"
+        },
+        {
+            "Code": "145964",
+            "Name": "Kissamos,   Crete",
+            "NameAr": "كيسساموس كريتي"
+        },
+        {
+            "Code": "103867",
+            "Name": "Kissos",
+            "NameAr": "كيسسوس"
+        },
+        {
+            "Code": "122612",
+            "Name": "Kitros",
+            "NameAr": "كيتروس"
+        },
+        {
+            "Code": "123849",
+            "Name": "Kiveri,   Peloponnese",
+            "NameAr": "كيفيري بيلوبوننيسي"
+        },
+        {
+            "Code": "161085",
+            "Name": "Kleidonia",
+            "NameAr": "كلييدونيا"
+        },
+        {
+            "Code": "145979",
+            "Name": "Kleitoria,   Peloponnese",
+            "NameAr": "كلييتوريا بيلوبوننيسي"
+        },
+        {
+            "Code": "123596",
+            "Name": "Klima",
+            "NameAr": "كليما"
+        },
+        {
+            "Code": "123959",
+            "Name": "Klisoura",
+            "NameAr": "كليسوورا"
+        },
+        {
+            "Code": "161079",
+            "Name": "Klouvas",
+            "NameAr": "كلووفاس"
+        },
+        {
+            "Code": "304124",
+            "Name": "Koiliomenos",
+            "NameAr": "كويليومينوس"
+        },
+        {
+            "Code": "161071",
+            "Name": "Koita",
+            "NameAr": "كويتا"
+        },
+        {
+            "Code": "123872",
+            "Name": "Kokkari",
+            "NameAr": "كوككاري"
+        },
+        {
+            "Code": "123976",
+            "Name": "Kokkini Hani,   Crete",
+            "NameAr": "كوككيني هاني كريتي"
+        },
+        {
+            "Code": "101961",
+            "Name": "Kokkino Nero",
+            "NameAr": "كوككينو نيرو"
+        },
+        {
+            "Code": "145993",
+            "Name": "Kokkinos Pirgos",
+            "NameAr": "كوككينوس بيرجوس"
+        },
+        {
+            "Code": "124945",
+            "Name": "Kokkoni,   Peloponnese",
+            "NameAr": "كوككوني بيلوبوننيسي"
+        },
+        {
+            "Code": "123738",
+            "Name": "Kolios",
+            "NameAr": "كوليوس"
+        },
+        {
+            "Code": "123616",
+            "Name": "Kolymbari (Kolumbari),   Crete",
+            "NameAr": "كوليمباري كولومباري كريتي"
+        },
+        {
+            "Code": "146000",
+            "Name": "Kolymbia,   Dodecanese Islands",
+            "NameAr": "كوليمبيا دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "123987",
+            "Name": "Kombi",
+            "NameAr": "كومبي"
+        },
+        {
+            "Code": "123988",
+            "Name": "Komeno,   Epirus",
+            "NameAr": "كومينو يبيروس"
+        },
+        {
+            "Code": "350950",
+            "Name": "Kommeno",
+            "NameAr": "كوممينو"
+        },
+        {
+            "Code": "123744",
+            "Name": "Komotini,   Thrace",
+            "NameAr": "كوموتيني تهراكي"
+        },
+        {
+            "Code": "123989",
+            "Name": "Kondili",
+            "NameAr": "كونديلي"
+        },
+        {
+            "Code": "123300",
+            "Name": "Konitsa",
+            "NameAr": "كونيتسا"
+        },
+        {
+            "Code": "124398",
+            "Name": "Kontias",
+            "NameAr": "كونتياس"
+        },
+        {
+            "Code": "124399",
+            "Name": "Kontokali,   Ionian Islands",
+            "NameAr": "كونتوكالي يونيان يسلاندس"
+        },
+        {
+            "Code": "123301",
+            "Name": "Kontomari",
+            "NameAr": "كونتوماري"
+        },
+        {
+            "Code": "417530",
+            "Name": "Korakochori,   Peloponnese",
+            "NameAr": "كوراكوكهوري بيلوبوننيسي"
+        },
+        {
+            "Code": "123307",
+            "Name": "Korfos",
+            "NameAr": "كورفوس"
+        },
+        {
+            "Code": "123069",
+            "Name": "Korfos Bay",
+            "NameAr": "كورفوس باي"
+        },
+        {
+            "Code": "123624",
+            "Name": "Korinos",
+            "NameAr": "كورينوس"
+        },
+        {
+            "Code": "124958",
+            "Name": "Korinth",
+            "NameAr": "كورينته"
+        },
+        {
+            "Code": "160920",
+            "Name": "Korischades",
+            "NameAr": "كوريسكهاديس"
+        },
+        {
+            "Code": "101966",
+            "Name": "Kormista",
+            "NameAr": "كورميستا"
+        },
+        {
+            "Code": "146008",
+            "Name": "Koroni",
+            "NameAr": "كوروني"
+        },
+        {
+            "Code": "146009",
+            "Name": "Koropi – Boufa,   Thessaly",
+            "NameAr": "كوروبي بووفا تهيسسالي"
+        },
+        {
+            "Code": "124403",
+            "Name": "Kos,   Dodecanese Islands",
+            "NameAr": "كوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "124961",
+            "Name": "Kos Town,   Dodecanese Islands",
+            "NameAr": "كوس توون دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "124005",
+            "Name": "Koskinou",
+            "NameAr": "كوسكينوو"
+        },
+        {
+            "Code": "146018",
+            "Name": "Kotronas",
+            "NameAr": "كوتروناس"
+        },
+        {
+            "Code": "124967",
+            "Name": "Koufonisi,   Cyclades Islands",
+            "NameAr": "كووفونيسي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "123077",
+            "Name": "Koukla",
+            "NameAr": "كووكلا"
+        },
+        {
+            "Code": "124412",
+            "Name": "Koukounaries,   Sporades Islands",
+            "NameAr": "كووكوونارييس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "124011",
+            "Name": "Kouloura",
+            "NameAr": "كوولوورا"
+        },
+        {
+            "Code": "123746",
+            "Name": "Koumeika",
+            "NameAr": "كوومييكا"
+        },
+        {
+            "Code": "123894",
+            "Name": "Koundouros",
+            "NameAr": "كووندووروس"
+        },
+        {
+            "Code": "124968",
+            "Name": "Kounopetra",
+            "NameAr": "كوونوبيترا"
+        },
+        {
+            "Code": "124290",
+            "Name": "Kounoupidiana",
+            "NameAr": "كوونووبيديانا"
+        },
+        {
+            "Code": "123747",
+            "Name": "Kountourata",
+            "NameAr": "كوونتووراتا"
+        },
+        {
+            "Code": "124969",
+            "Name": "Kournas",
+            "NameAr": "كوورناس"
+        },
+        {
+            "Code": "123895",
+            "Name": "Koutouloufari,   Crete",
+            "NameAr": "كووتوولووفاري كريتي"
+        },
+        {
+            "Code": "124012",
+            "Name": "Koutsounari,   Crete",
+            "NameAr": "كووتسووناري كريتي"
+        },
+        {
+            "Code": "124415",
+            "Name": "Koutsouras,   Crete",
+            "NameAr": "كووتسووراس كريتي"
+        },
+        {
+            "Code": "124292",
+            "Name": "Kozani,   Western Macedonia",
+            "NameAr": "كوزاني ويستيرن ماكيدونيا"
+        },
+        {
+            "Code": "101969",
+            "Name": "Krania",
+            "NameAr": "كرانيا"
+        },
+        {
+            "Code": "161092",
+            "Name": "Kranidi,   Peloponnese",
+            "NameAr": "كرانيدي بيلوبوننيسي"
+        },
+        {
+            "Code": "124021",
+            "Name": "Kremasti,   Dodecanese Islands",
+            "NameAr": "كريماستي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "103885",
+            "Name": "Krentis",
+            "NameAr": "كرينتيس"
+        },
+        {
+            "Code": "123327",
+            "Name": "Krestena",
+            "NameAr": "كريستينا"
+        },
+        {
+            "Code": "124427",
+            "Name": "Kriopigi,   Central Macedonia",
+            "NameAr": "كريوبيجي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "123333",
+            "Name": "Krios-Beach",
+            "NameAr": "كريوس-بياكه"
+        },
+        {
+            "Code": "124986",
+            "Name": "Kroussonas",
+            "NameAr": "كرووسسوناس"
+        },
+        {
+            "Code": "123924",
+            "Name": "Kyllini,   Peloponnese",
+            "NameAr": "كيلليني بيلوبوننيسي"
+        },
+        {
+            "Code": "124329",
+            "Name": "Kymi,   Central Greece",
+            "NameAr": "كيمي كينترال جرييكي"
+        },
+        {
+            "Code": "123364",
+            "Name": "Kyparissia,   Peloponnese",
+            "NameAr": "كيباريسسيا بيلوبوننيسي"
+        },
+        {
+            "Code": "124458",
+            "Name": "Kypseli,   Ionian Islands",
+            "NameAr": "كيبسيلي يونيان يسلاندس"
+        },
+        {
+            "Code": "124051",
+            "Name": "Kythira,   Attica",
+            "NameAr": "كيتهيرا اتتيكا"
+        },
+        {
+            "Code": "123365",
+            "Name": "Kythnos,   Cyclades Islands",
+            "NameAr": "كيتهنوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "125163",
+            "Name": "Labini",
+            "NameAr": "لابيني"
+        },
+        {
+            "Code": "125168",
+            "Name": "Lachania",
+            "NameAr": "لاكهانيا"
+        },
+        {
+            "Code": "125190",
+            "Name": "Laconia,   Peloponnese",
+            "NameAr": "لاكونيا بيلوبوننيسي"
+        },
+        {
+            "Code": "146093",
+            "Name": "Ladiko",
+            "NameAr": "لاديكو"
+        },
+        {
+            "Code": "160921",
+            "Name": "Lagadia,   Peloponnese",
+            "NameAr": "لاجاديا بيلوبوننيسي"
+        },
+        {
+            "Code": "124634",
+            "Name": "Laganas,   Ionian Islands",
+            "NameAr": "لاجاناس يونيان يسلاندس"
+        },
+        {
+            "Code": "124078",
+            "Name": "Lagonissi,   Attica",
+            "NameAr": "لاجونيسسي اتتيكا"
+        },
+        {
+            "Code": "125172",
+            "Name": "Lagopodo",
+            "NameAr": "لاجوبودو"
+        },
+        {
+            "Code": "305078",
+            "Name": "Lagoudi Zia",
+            "NameAr": "لاجوودي زيا"
+        },
+        {
+            "Code": "124779",
+            "Name": "Lakithra",
+            "NameAr": "لاكيتهرا"
+        },
+        {
+            "Code": "125760",
+            "Name": "Lakka",
+            "NameAr": "لاككا"
+        },
+        {
+            "Code": "146120",
+            "Name": "Lakki,   Dodecanese Islands",
+            "NameAr": "لاككي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "125761",
+            "Name": "Lakones",
+            "NameAr": "لاكونيس"
+        },
+        {
+            "Code": "124515",
+            "Name": "Lakopetra",
+            "NameAr": "لاكوبيترا"
+        },
+        {
+            "Code": "124519",
+            "Name": "Lambi",
+            "NameAr": "لامبي"
+        },
+        {
+            "Code": "106420",
+            "Name": "Lameriana",
+            "NameAr": "لاميريانا"
+        },
+        {
+            "Code": "124654",
+            "Name": "Lamia,   Central Greece",
+            "NameAr": "لاميا كينترال جرييكي"
+        },
+        {
+            "Code": "102000",
+            "Name": "Langadas",
+            "NameAr": "لانجاداس"
+        },
+        {
+            "Code": "146135",
+            "Name": "Langadia",
+            "NameAr": "لانجاديا"
+        },
+        {
+            "Code": "124669",
+            "Name": "Langouvardos",
+            "NameAr": "لانجووفاردوس"
+        },
+        {
+            "Code": "124677",
+            "Name": "Lardos,   Dodecanese Islands",
+            "NameAr": "لاردوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "125092",
+            "Name": "Larisa",
+            "NameAr": "لاريسا"
+        },
+        {
+            "Code": "160922",
+            "Name": "Larissa,   Thessaly",
+            "NameAr": "لاريسسا تهيسسالي"
+        },
+        {
+            "Code": "146172",
+            "Name": "Lasithi,   Crete",
+            "NameAr": "لاسيتهي كريتي"
+        },
+        {
+            "Code": "124684",
+            "Name": "Lassi,   Ionian Islands",
+            "NameAr": "لاسسي يونيان يسلاندس"
+        },
+        {
+            "Code": "298434",
+            "Name": "Lazaráta",
+            "NameAr": "لازار تا"
+        },
+        {
+            "Code": "125948",
+            "Name": "Lefkada,   Ionian Islands",
+            "NameAr": "ليفكادا يونيان يسلاندس"
+        },
+        {
+            "Code": "146213",
+            "Name": "Lefkakia",
+            "NameAr": "ليفكاكيا"
+        },
+        {
+            "Code": "124598",
+            "Name": "Lefkes",
+            "NameAr": "ليفكيس"
+        },
+        {
+            "Code": "126497",
+            "Name": "Lefkimmi",
+            "NameAr": "ليفكيممي"
+        },
+        {
+            "Code": "125529",
+            "Name": "Lefkos",
+            "NameAr": "ليفكوس"
+        },
+        {
+            "Code": "124599",
+            "Name": "Lefktro",
+            "NameAr": "ليفكترو"
+        },
+        {
+            "Code": "146214",
+            "Name": "Lefokastro",
+            "NameAr": "ليفوكاسترو"
+        },
+        {
+            "Code": "125398",
+            "Name": "Lentas",
+            "NameAr": "لينتاس"
+        },
+        {
+            "Code": "124869",
+            "Name": "Leonidio",
+            "NameAr": "ليونيديو"
+        },
+        {
+            "Code": "125271",
+            "Name": "Leptokaria",
+            "NameAr": "ليبتوكاريا"
+        },
+        {
+            "Code": "126518",
+            "Name": "Leros",
+            "NameAr": "ليروس"
+        },
+        {
+            "Code": "125554",
+            "Name": "Lesbos",
+            "NameAr": "ليسبوس"
+        },
+        {
+            "Code": "150197",
+            "Name": "Lesvos,   North Aegean",
+            "NameAr": "ليسفوس نورته ايجيان"
+        },
+        {
+            "Code": "303441",
+            "Name": "Leventochori,   Peloponnese",
+            "NameAr": "ليفينتوكهوري بيلوبوننيسي"
+        },
+        {
+            "Code": "102641",
+            "Name": "Levidi,   Peloponnese",
+            "NameAr": "ليفيدي بيلوبوننيسي"
+        },
+        {
+            "Code": "125422",
+            "Name": "Liapades,   Ionian Islands",
+            "NameAr": "لياباديس يونيان يسلاندس"
+        },
+        {
+            "Code": "126006",
+            "Name": "Ligia",
+            "NameAr": "ليجيا"
+        },
+        {
+            "Code": "125851",
+            "Name": "Lilikas",
+            "NameAr": "ليليكاس"
+        },
+        {
+            "Code": "124920",
+            "Name": "Limenaria,   East Macedonia ",
+            "NameAr": "ليميناريا ياست ماكيدونيا"
+        },
+        {
+            "Code": "263943",
+            "Name": "Limenas Chersonisou,   Crete",
+            "NameAr": "ليميناس كهيرسونيسوو كريتي"
+        },
+        {
+            "Code": "161059",
+            "Name": "Limenas Mesogaias",
+            "NameAr": "ليميناس ميسوجاياس"
+        },
+        {
+            "Code": "103919",
+            "Name": "Limenas Thasou",
+            "NameAr": "ليميناس تهاسوو"
+        },
+        {
+            "Code": "126014",
+            "Name": "Limeni",
+            "NameAr": "ليميني"
+        },
+        {
+            "Code": "146288",
+            "Name": "Limni Keriou",
+            "NameAr": "ليمني كيريوو"
+        },
+        {
+            "Code": "125306",
+            "Name": "Limnionas",
+            "NameAr": "ليمنيوناس"
+        },
+        {
+            "Code": "125307",
+            "Name": "Limnos,   North Aegean",
+            "NameAr": "ليمنوس نورته ايجيان"
+        },
+        {
+            "Code": "126022",
+            "Name": "Lindos,   Dodecanese Islands",
+            "NameAr": "ليندوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "125461",
+            "Name": "Lipsi",
+            "NameAr": "ليبسي"
+        },
+        {
+            "Code": "125871",
+            "Name": "Listaros",
+            "NameAr": "ليستاروس"
+        },
+        {
+            "Code": "125874",
+            "Name": "Lithakia",
+            "NameAr": "ليتهاكيا"
+        },
+        {
+            "Code": "146313",
+            "Name": "Lithochoro",
+            "NameAr": "ليتهوكهورو"
+        },
+        {
+            "Code": "160923",
+            "Name": "Litochoro,   Central Macedonia",
+            "NameAr": "ليتوكهورو كينترال ماكيدونيا"
+        },
+        {
+            "Code": "124936",
+            "Name": "Livadi,   Cyclades Islands",
+            "NameAr": "ليفادي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "125476",
+            "Name": "Livadia",
+            "NameAr": "ليفاديا"
+        },
+        {
+            "Code": "146322",
+            "Name": "Lixouri,   Ionian Islands",
+            "NameAr": "ليكسووري يونيان يسلاندس"
+        },
+        {
+            "Code": "126309",
+            "Name": "Logaras,   Cyclades Islands",
+            "NameAr": "لوجاراس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "126310",
+            "Name": "Logga  Charani",
+            "NameAr": "لوججا كهاراني"
+        },
+        {
+            "Code": "126171",
+            "Name": "Loggos",
+            "NameAr": "لوججوس"
+        },
+        {
+            "Code": "126044",
+            "Name": "Lothiarika",
+            "NameAr": "لوتهياريكا"
+        },
+        {
+            "Code": "125626",
+            "Name": "Lourdata,   Ionian Islands",
+            "NameAr": "لوورداتا يونيان يسلاندس"
+        },
+        {
+            "Code": "146371",
+            "Name": "Loutra",
+            "NameAr": "لووترا"
+        },
+        {
+            "Code": "125628",
+            "Name": "Loutra Edipsou,   Central Greece",
+            "NameAr": "لووترا يديبسوو كينترال جرييكي"
+        },
+        {
+            "Code": "126207",
+            "Name": "Loutra Elenis",
+            "NameAr": "لووترا يلينيس"
+        },
+        {
+            "Code": "146372",
+            "Name": "Loutra Ipatis,   Central Greece",
+            "NameAr": "لووترا يباتيس كينترال جرييكي"
+        },
+        {
+            "Code": "126208",
+            "Name": "Loutra Kaiafa",
+            "NameAr": "لووترا كايافا"
+        },
+        {
+            "Code": "125919",
+            "Name": "Loutra Killinis,   Peloponnese",
+            "NameAr": "لووترا كيللينيس بيلوبوننيسي"
+        },
+        {
+            "Code": "126352",
+            "Name": "Loutraki,   Peloponnese",
+            "NameAr": "لووتراكي بيلوبوننيسي"
+        },
+        {
+            "Code": "126656",
+            "Name": "Loutsa",
+            "NameAr": "لووتسا"
+        },
+        {
+            "Code": "126689",
+            "Name": "Lychnos",
+            "NameAr": "ليكهنوس"
+        },
+        {
+            "Code": "126690",
+            "Name": "Lygaria",
+            "NameAr": "ليجاريا"
+        },
+        {
+            "Code": "104011",
+            "Name": "Lygourio",
+            "NameAr": "ليجووريو"
+        },
+        {
+            "Code": "392019",
+            "Name": "Lykovrysi-Pefki,   Attica",
+            "NameAr": "ليكوفريسي-بيفكي اتتيكا"
+        },
+        {
+            "Code": "127384",
+            "Name": "Magnisia",
+            "NameAr": "ماجنيسيا"
+        },
+        {
+            "Code": "126777",
+            "Name": "Makrakomi",
+            "NameAr": "ماكراكومي"
+        },
+        {
+            "Code": "126939",
+            "Name": "Makrinitsa,   Thessaly",
+            "NameAr": "ماكرينيتسا تهيسسالي"
+        },
+        {
+            "Code": "125696",
+            "Name": "Makriyialos",
+            "NameAr": "ماكريييالوس"
+        },
+        {
+            "Code": "126938",
+            "Name": "Makry Gialos,   Crete",
+            "NameAr": "ماكري جيالوس كريتي"
+        },
+        {
+            "Code": "127396",
+            "Name": "Malaxa",
+            "NameAr": "مالاكسا"
+        },
+        {
+            "Code": "125704",
+            "Name": "Maleme,   Crete",
+            "NameAr": "ماليمي كريتي"
+        },
+        {
+            "Code": "161062",
+            "Name": "Malevizi",
+            "NameAr": "ماليفيزي"
+        },
+        {
+            "Code": "126950",
+            "Name": "Malia,   Crete",
+            "NameAr": "ماليا كريتي"
+        },
+        {
+            "Code": "127365",
+            "Name": "Maltezana",
+            "NameAr": "مالتيزانا"
+        },
+        {
+            "Code": "417449",
+            "Name": "Mandra,   Thrace",
+            "NameAr": "ماندرا تهراكي"
+        },
+        {
+            "Code": "126148",
+            "Name": "Mandraki",
+            "NameAr": "ماندراكي"
+        },
+        {
+            "Code": "160924",
+            "Name": "Mani,   Peloponnese",
+            "NameAr": "ماني بيلوبوننيسي"
+        },
+        {
+            "Code": "296903",
+            "Name": "Marathi",
+            "NameAr": "ماراتهي"
+        },
+        {
+            "Code": "127129",
+            "Name": "Marathia",
+            "NameAr": "ماراتهيا"
+        },
+        {
+            "Code": "127440",
+            "Name": "Marathias",
+            "NameAr": "ماراتهياس"
+        },
+        {
+            "Code": "146486",
+            "Name": "Marathokefala",
+            "NameAr": "ماراتهوكيفالا"
+        },
+        {
+            "Code": "126819",
+            "Name": "Marathon,   Attica",
+            "NameAr": "ماراتهون اتتيكا"
+        },
+        {
+            "Code": "127130",
+            "Name": "Marathopolis",
+            "NameAr": "ماراتهوبوليس"
+        },
+        {
+            "Code": "127131",
+            "Name": "Marathoupoli",
+            "NameAr": "ماراتهووبولي"
+        },
+        {
+            "Code": "128057",
+            "Name": "Margariiti",
+            "NameAr": "مارجارييتي"
+        },
+        {
+            "Code": "104031",
+            "Name": "Markopoulo",
+            "NameAr": "ماركوبوولو"
+        },
+        {
+            "Code": "160504",
+            "Name": "Markopoulo Mesogaias,   Attica",
+            "NameAr": "ماركوبوولو ميسوجاياس اتتيكا"
+        },
+        {
+            "Code": "161056",
+            "Name": "Markopoulo Oropou",
+            "NameAr": "ماركوبوولو وروبوو"
+        },
+        {
+            "Code": "126873",
+            "Name": "Marmari,   Dodecanese Islands",
+            "NameAr": "مارماري دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "417450",
+            "Name": "Marmarion,   Central Greece",
+            "NameAr": "مارماريون كينترال جرييكي"
+        },
+        {
+            "Code": "127007",
+            "Name": "Maronia",
+            "NameAr": "مارونيا"
+        },
+        {
+            "Code": "127506",
+            "Name": "Maroulas",
+            "NameAr": "ماروولاس"
+        },
+        {
+            "Code": "161052",
+            "Name": "Maroussi,   Athens",
+            "NameAr": "مارووسسي اتهينس"
+        },
+        {
+            "Code": "160926",
+            "Name": "Marpunta",
+            "NameAr": "ماربونتا"
+        },
+        {
+            "Code": "127851",
+            "Name": "Masouri,   Dodecanese Islands",
+            "NameAr": "ماسووري دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "128149",
+            "Name": "Mastichari,   Dodecanese Islands",
+            "NameAr": "ماستيكهاري دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "126899",
+            "Name": "Matala,   Crete",
+            "NameAr": "ماتالا كريتي"
+        },
+        {
+            "Code": "126904",
+            "Name": "Mati,   Attica",
+            "NameAr": "ماتي اتتيكا"
+        },
+        {
+            "Code": "146556",
+            "Name": "Mavrikiano",
+            "NameAr": "مافريكيانو"
+        },
+        {
+            "Code": "127863",
+            "Name": "Mavros Kolimbos",
+            "NameAr": "مافروس كوليمبوس"
+        },
+        {
+            "Code": "146557",
+            "Name": "Mavrovouni  Gythion",
+            "NameAr": "مافروفووني جيتهيون"
+        },
+        {
+            "Code": "102615",
+            "Name": "Maza",
+            "NameAr": "مازا"
+        },
+        {
+            "Code": "127886",
+            "Name": "Megala Chorafia",
+            "NameAr": "ميجالا كهورافيا"
+        },
+        {
+            "Code": "126487",
+            "Name": "Megali Ammos,   Sporades Islands",
+            "NameAr": "ميجالي امموس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "161098",
+            "Name": "Megali Ammos,   Cyclades Islands",
+            "NameAr": "ميجالي امموس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "127153",
+            "Name": "Megali Mantinia",
+            "NameAr": "ميجالي مانتينيا"
+        },
+        {
+            "Code": "127154",
+            "Name": "Megalo Chorio",
+            "NameAr": "ميجالو كهوريو"
+        },
+        {
+            "Code": "146578",
+            "Name": "Megalochori,   Cyclades Islands",
+            "NameAr": "ميجالوكهوري كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "128184",
+            "Name": "Megalos Prinos",
+            "NameAr": "ميجالوس برينوس"
+        },
+        {
+            "Code": "126924",
+            "Name": "Meganisi",
+            "NameAr": "ميجانيسي"
+        },
+        {
+            "Code": "128185",
+            "Name": "Megas limionas",
+            "NameAr": "ميجاس ليميوناس"
+        },
+        {
+            "Code": "127570",
+            "Name": "Melidoni",
+            "NameAr": "ميليدوني"
+        },
+        {
+            "Code": "128193",
+            "Name": "Melisourgio",
+            "NameAr": "ميليسوورجيو"
+        },
+        {
+            "Code": "127175",
+            "Name": "Mesogi",
+            "NameAr": "ميسوجي"
+        },
+        {
+            "Code": "127616",
+            "Name": "Messaria,   Cyclades Islands",
+            "NameAr": "ميسساريا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "128825",
+            "Name": "Messini",
+            "NameAr": "ميسسيني"
+        },
+        {
+            "Code": "127177",
+            "Name": "Messinia",
+            "NameAr": "ميسسينيا"
+        },
+        {
+            "Code": "127617",
+            "Name": "Messokambos",
+            "NameAr": "ميسسوكامبوس"
+        },
+        {
+            "Code": "127589",
+            "Name": "Messolongi",
+            "NameAr": "ميسسولونجي"
+        },
+        {
+            "Code": "127744",
+            "Name": "Messonghi",
+            "NameAr": "ميسسونجهي"
+        },
+        {
+            "Code": "146606",
+            "Name": "Messotopos",
+            "NameAr": "ميسسوتوبوس"
+        },
+        {
+            "Code": "127924",
+            "Name": "Mesta",
+            "NameAr": "ميستا"
+        },
+        {
+            "Code": "127746",
+            "Name": "Metamorfosi,   Central Macedonia",
+            "NameAr": "ميتامورفوسي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "356319",
+            "Name": "Meteora,   Thessaly",
+            "NameAr": "ميتيورا تهيسسالي"
+        },
+        {
+            "Code": "106498",
+            "Name": "Methana",
+            "NameAr": "ميتهانا"
+        },
+        {
+            "Code": "127179",
+            "Name": "Methoni",
+            "NameAr": "ميتهوني"
+        },
+        {
+            "Code": "127621",
+            "Name": "Metochi",
+            "NameAr": "ميتوكهي"
+        },
+        {
+            "Code": "127623",
+            "Name": "Metsovo,   Epirus",
+            "NameAr": "ميتسوفو يبيروس"
+        },
+        {
+            "Code": "128592",
+            "Name": "Mikra Mantinia",
+            "NameAr": "ميكرا مانتينيا"
+        },
+        {
+            "Code": "160909",
+            "Name": "Mikri Mantineia",
+            "NameAr": "ميكري مانتينييا"
+        },
+        {
+            "Code": "127649",
+            "Name": "Mikri Vigla",
+            "NameAr": "ميكري فيجلا"
+        },
+        {
+            "Code": "128594",
+            "Name": "Milatos,   Crete",
+            "NameAr": "ميلاتوس كريتي"
+        },
+        {
+            "Code": "127652",
+            "Name": "Milia",
+            "NameAr": "ميليا"
+        },
+        {
+            "Code": "128275",
+            "Name": "Milies",
+            "NameAr": "ميلييس"
+        },
+        {
+            "Code": "128276",
+            "Name": "Milina",
+            "NameAr": "ميلينا"
+        },
+        {
+            "Code": "103818",
+            "Name": "Milopotamos",
+            "NameAr": "ميلوبوتاموس"
+        },
+        {
+            "Code": "151223",
+            "Name": "Milos,   Cyclades Islands",
+            "NameAr": "ميلوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "146633",
+            "Name": "Milos-Stadt",
+            "NameAr": "ميلوس-ستادت"
+        },
+        {
+            "Code": "128252",
+            "Name": "Minies",
+            "NameAr": "مينييس"
+        },
+        {
+            "Code": "104232",
+            "Name": "Mires",
+            "NameAr": "ميريس"
+        },
+        {
+            "Code": "127675",
+            "Name": "Mirsini",
+            "NameAr": "ميرسيني"
+        },
+        {
+            "Code": "376636",
+            "Name": "Misiria,   Crete",
+            "NameAr": "ميسيريا كريتي"
+        },
+        {
+            "Code": "128302",
+            "Name": "Mithymna",
+            "NameAr": "ميتهيمنا"
+        },
+        {
+            "Code": "146651",
+            "Name": "Mitilini,   North Aegean",
+            "NameAr": "ميتيليني نورته ايجيان"
+        },
+        {
+            "Code": "128617",
+            "Name": "Mixorouma",
+            "NameAr": "ميكسورووما"
+        },
+        {
+            "Code": "347390",
+            "Name": "Mochlos",
+            "NameAr": "موكهلوس"
+        },
+        {
+            "Code": "127237",
+            "Name": "Mohlos",
+            "NameAr": "موهلوس"
+        },
+        {
+            "Code": "103828",
+            "Name": "Mola Kaliva",
+            "NameAr": "مولا كاليفا"
+        },
+        {
+            "Code": "128328",
+            "Name": "Molos",
+            "NameAr": "مولوس"
+        },
+        {
+            "Code": "103829",
+            "Name": "Molos-Agios Konstantinos",
+            "NameAr": "مولوس-اجيوس كونستانتينوس"
+        },
+        {
+            "Code": "160927",
+            "Name": "Molyvos",
+            "NameAr": "موليفوس"
+        },
+        {
+            "Code": "128332",
+            "Name": "Monastiri",
+            "NameAr": "موناستيري"
+        },
+        {
+            "Code": "146677",
+            "Name": "Monemvasia,   Peloponnese",
+            "NameAr": "مونيمفاسيا بيلوبوننيسي"
+        },
+        {
+            "Code": "102981",
+            "Name": "Moni",
+            "NameAr": "موني"
+        },
+        {
+            "Code": "127260",
+            "Name": "Monodendri",
+            "NameAr": "مونوديندري"
+        },
+        {
+            "Code": "129567",
+            "Name": "Monolithos,   Cyclades Islands",
+            "NameAr": "مونوليتهوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "128374",
+            "Name": "Monolithos-Beach",
+            "NameAr": "مونوليتهوس-بياكه"
+        },
+        {
+            "Code": "129569",
+            "Name": "Monopari",
+            "NameAr": "مونوباري"
+        },
+        {
+            "Code": "128417",
+            "Name": "Moraitika,   Ionian Islands",
+            "NameAr": "مورايتيكا يونيان يسلاندس"
+        },
+        {
+            "Code": "103837",
+            "Name": "Moschato",
+            "NameAr": "موسكهاتو"
+        },
+        {
+            "Code": "128433",
+            "Name": "Moucha",
+            "NameAr": "مووكها"
+        },
+        {
+            "Code": "101913",
+            "Name": "Moudros",
+            "NameAr": "موودروس"
+        },
+        {
+            "Code": "128556",
+            "Name": "Mouresi",
+            "NameAr": "مووريسي"
+        },
+        {
+            "Code": "146757",
+            "Name": "Mourne",
+            "NameAr": "موورني"
+        },
+        {
+            "Code": "129406",
+            "Name": "Mousata",
+            "NameAr": "مووساتا"
+        },
+        {
+            "Code": "103840",
+            "Name": "Moustheni",
+            "NameAr": "مووستهيني"
+        },
+        {
+            "Code": "161089",
+            "Name": "Mycenae",
+            "NameAr": "ميكيناي"
+        },
+        {
+            "Code": "146793",
+            "Name": "Mykonos,   Cyclades Islands",
+            "NameAr": "ميكونوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "129114",
+            "Name": "Mykonos Town,   Cyclades Islands",
+            "NameAr": "ميكونوس توون كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "161091",
+            "Name": "Mylopotamos",
+            "NameAr": "ميلوبوتاموس"
+        },
+        {
+            "Code": "129139",
+            "Name": "Mylopotas,   Cyclades Islands",
+            "NameAr": "ميلوبوتاس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "129241",
+            "Name": "Myrina,   North Aegean",
+            "NameAr": "ميرينا نورته ايجيان"
+        },
+        {
+            "Code": "104782",
+            "Name": "Myrthios,   Crete Island",
+            "NameAr": "ميرتهيوس كريتي يسلاند"
+        },
+        {
+            "Code": "130345",
+            "Name": "Myrtia",
+            "NameAr": "ميرتيا"
+        },
+        {
+            "Code": "129718",
+            "Name": "Myrtos",
+            "NameAr": "ميرتوس"
+        },
+        {
+            "Code": "129116",
+            "Name": "Myrtos Bay",
+            "NameAr": "ميرتوس باي"
+        },
+        {
+            "Code": "146794",
+            "Name": "Mystras,   Peloponnese",
+            "NameAr": "ميستراس بيلوبوننيسي"
+        },
+        {
+            "Code": "129242",
+            "Name": "Mytikas",
+            "NameAr": "ميتيكاس"
+        },
+        {
+            "Code": "339205",
+            "Name": "Mytilene",
+            "NameAr": "ميتيليني"
+        },
+        {
+            "Code": "130353",
+            "Name": "Nafpaktos,   Central Greece",
+            "NameAr": "نافباكتوس كينترال جرييكي"
+        },
+        {
+            "Code": "101221",
+            "Name": "Nafplion,   Peloponnese",
+            "NameAr": "نافبليون بيلوبوننيسي"
+        },
+        {
+            "Code": "103853",
+            "Name": "Naousa,   Cyclades Islands",
+            "NameAr": "ناووسا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "129266",
+            "Name": "Naoussa (Imathia),   Central Macedonia",
+            "NameAr": "ناووسسا يماتهيا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "129742",
+            "Name": "Nauplia",
+            "NameAr": "ناوبليا"
+        },
+        {
+            "Code": "151156",
+            "Name": "Naxos,   Cyclades Islands",
+            "NameAr": "ناكسوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "130133",
+            "Name": "Nea Anchialos,   Thessaly",
+            "NameAr": "نيا انكهيالوس تهيسسالي"
+        },
+        {
+            "Code": "102860",
+            "Name": "Nea Apollonia",
+            "NameAr": "نيا ابوللونيا"
+        },
+        {
+            "Code": "104269",
+            "Name": "Nea Erythrea,   Attica",
+            "NameAr": "نيا يريتهريا اتتيكا"
+        },
+        {
+            "Code": "129744",
+            "Name": "Nea Fokea,   Central Macedonia",
+            "NameAr": "نيا فوكيا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "129807",
+            "Name": "Nea Iraklia",
+            "NameAr": "نيا يراكليا"
+        },
+        {
+            "Code": "129808",
+            "Name": "Nea Iraklitsa",
+            "NameAr": "نيا يراكليتسا"
+        },
+        {
+            "Code": "129281",
+            "Name": "Nea Kallikratia",
+            "NameAr": "نيا كالليكراتيا"
+        },
+        {
+            "Code": "104516",
+            "Name": "Nea Karvali",
+            "NameAr": "نيا كارفالي"
+        },
+        {
+            "Code": "129181",
+            "Name": "Nea Kios",
+            "NameAr": "نيا كيوس"
+        },
+        {
+            "Code": "129282",
+            "Name": "Nea Makri,   Attica",
+            "NameAr": "نيا ماكري اتتيكا"
+        },
+        {
+            "Code": "104517",
+            "Name": "Nea Mesagkala",
+            "NameAr": "نيا ميساجكالا"
+        },
+        {
+            "Code": "161064",
+            "Name": "Nea Mesimvria",
+            "NameAr": "نيا ميسيمفريا"
+        },
+        {
+            "Code": "146828",
+            "Name": "Nea Moudania,   Central Macedonia",
+            "NameAr": "نيا موودانيا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "146829",
+            "Name": "Nea Peramos",
+            "NameAr": "نيا بيراموس"
+        },
+        {
+            "Code": "129745",
+            "Name": "Nea Potidea",
+            "NameAr": "نيا بوتيديا"
+        },
+        {
+            "Code": "129283",
+            "Name": "Nea Roda",
+            "NameAr": "نيا رودا"
+        },
+        {
+            "Code": "129746",
+            "Name": "Nea Skioni",
+            "NameAr": "نيا سكيوني"
+        },
+        {
+            "Code": "161067",
+            "Name": "Nea Smyrni",
+            "NameAr": "نيا سميرني"
+        },
+        {
+            "Code": "130381",
+            "Name": "Nea Vrasna",
+            "NameAr": "نيا فراسنا"
+        },
+        {
+            "Code": "129182",
+            "Name": "Neapoli",
+            "NameAr": "نيابولي"
+        },
+        {
+            "Code": "104270",
+            "Name": "Neapolis Voion",
+            "NameAr": "نيابوليس فويون"
+        },
+        {
+            "Code": "417866",
+            "Name": "Nemea,   Peloponnese",
+            "NameAr": "نيميا بيلوبوننيسي"
+        },
+        {
+            "Code": "129824",
+            "Name": "Neo Chorio",
+            "NameAr": "نيو كهوريو"
+        },
+        {
+            "Code": "146836",
+            "Name": "Neo Itilo",
+            "NameAr": "نيو يتيلو"
+        },
+        {
+            "Code": "129193",
+            "Name": "Neo Klima",
+            "NameAr": "نيو كليما"
+        },
+        {
+            "Code": "129194",
+            "Name": "Neochori",
+            "NameAr": "نيوكهوري"
+        },
+        {
+            "Code": "417885",
+            "Name": "Neochori,   Central Macedonia",
+            "NameAr": "نيوكهوري كينترال ماكيدونيا"
+        },
+        {
+            "Code": "104369",
+            "Name": "Neoi Poroi,   Central Macedonia",
+            "NameAr": "نيوي بوروي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "129195",
+            "Name": "Neokesaria",
+            "NameAr": "نيوكيساريا"
+        },
+        {
+            "Code": "129293",
+            "Name": "Neorio,   Attica",
+            "NameAr": "نيوريو اتتيكا"
+        },
+        {
+            "Code": "129294",
+            "Name": "Neos Marmaras,   Central Macedonia",
+            "NameAr": "نيوس مارماراس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "104371",
+            "Name": "Neos Pyrgos,   Central Greece",
+            "NameAr": "نيوس بيرجوس كينترال جرييكي"
+        },
+        {
+            "Code": "129826",
+            "Name": "Neraida",
+            "NameAr": "نيرايدا"
+        },
+        {
+            "Code": "130394",
+            "Name": "Neraidochori",
+            "NameAr": "نيرايدوكهوري"
+        },
+        {
+            "Code": "104811",
+            "Name": "Nestani",
+            "NameAr": "نيستاني"
+        },
+        {
+            "Code": "104523",
+            "Name": "Nestorio",
+            "NameAr": "نيستوريو"
+        },
+        {
+            "Code": "129851",
+            "Name": "Nevropoli",
+            "NameAr": "نيفروبولي"
+        },
+        {
+            "Code": "129326",
+            "Name": "New Golden Beach,   Cyclades Islands",
+            "NameAr": "نيو جولدين بياكه كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "146892",
+            "Name": "Niforeika-Beach",
+            "NameAr": "نيفورييكا-بياكه"
+        },
+        {
+            "Code": "161094",
+            "Name": "Nikaia Agios Ioannis Rentis",
+            "NameAr": "نيكايا اجيوس يواننيس رينتيس"
+        },
+        {
+            "Code": "131131",
+            "Name": "Nikiana,   Ionian Islands",
+            "NameAr": "نيكيانا يونيان يسلاندس"
+        },
+        {
+            "Code": "103019",
+            "Name": "Nikisiani",
+            "NameAr": "نيكيسياني"
+        },
+        {
+            "Code": "130196",
+            "Name": "Nikoleika",
+            "NameAr": "نيكولييكا"
+        },
+        {
+            "Code": "131139",
+            "Name": "Nissaki,   Ionian Islands",
+            "NameAr": "نيسساكي يونيان يسلاندس"
+        },
+        {
+            "Code": "104381",
+            "Name": "Nisyros",
+            "NameAr": "نيسيروس"
+        },
+        {
+            "Code": "129910",
+            "Name": "Nochia",
+            "NameAr": "نوكهيا"
+        },
+        {
+            "Code": "130186",
+            "Name": "Nydri (Nidri)",
+            "NameAr": "نيدري نيدري"
+        },
+        {
+            "Code": "130925",
+            "Name": "Nymfaio",
+            "NameAr": "نيمفايو"
+        },
+        {
+            "Code": "106561",
+            "Name": "Nysiros",
+            "NameAr": "نيسيروس"
+        },
+        {
+            "Code": "130223",
+            "Name": "Oia,   Cyclades Islands",
+            "NameAr": "ويا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "131900",
+            "Name": "Oia-Finikia",
+            "NameAr": "ويا-فينيكيا"
+        },
+        {
+            "Code": "161087",
+            "Name": "Oichalia",
+            "NameAr": "ويكهاليا"
+        },
+        {
+            "Code": "130627",
+            "Name": "Olympia,   Peloponnese",
+            "NameAr": "وليمبيا بيلوبوننيسي"
+        },
+        {
+            "Code": "131919",
+            "Name": "Olympiada",
+            "NameAr": "وليمبيادا"
+        },
+        {
+            "Code": "131920",
+            "Name": "Olympiaki Akti",
+            "NameAr": "وليمبياكي اكتي"
+        },
+        {
+            "Code": "104401",
+            "Name": "Olynthos",
+            "NameAr": "ولينتهوس"
+        },
+        {
+            "Code": "104297",
+            "Name": "Omalos",
+            "NameAr": "ومالوس"
+        },
+        {
+            "Code": "131939",
+            "Name": "Oraiokastro",
+            "NameAr": "ورايوكاسترو"
+        },
+        {
+            "Code": "418136",
+            "Name": "Oreoi,   Central Greece",
+            "NameAr": "وريوي كينترال جرييكي"
+        },
+        {
+            "Code": "131292",
+            "Name": "Orestiada",
+            "NameAr": "وريستيادا"
+        },
+        {
+            "Code": "131302",
+            "Name": "Orma",
+            "NameAr": "ورما"
+        },
+        {
+            "Code": "130693",
+            "Name": "Ormos,   Central Macedonia",
+            "NameAr": "ورموس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "130801",
+            "Name": "Ormos Emporios",
+            "NameAr": "ورموس يمبوريوس"
+        },
+        {
+            "Code": "130802",
+            "Name": "Ormos Marathokambos",
+            "NameAr": "ورموس ماراتهوكامبوس"
+        },
+        {
+            "Code": "147024",
+            "Name": "Ormos Panaghias",
+            "NameAr": "ورموس باناجهياس"
+        },
+        {
+            "Code": "130803",
+            "Name": "Ormos Panagias",
+            "NameAr": "ورموس باناجياس"
+        },
+        {
+            "Code": "130805",
+            "Name": "Ornos,   Cyclades Islands",
+            "NameAr": "ورنوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "379669",
+            "Name": "Oropos,   Attica",
+            "NameAr": "وروبوس اتتيكا"
+        },
+        {
+            "Code": "160765",
+            "Name": "Orthoniai",
+            "NameAr": "ورتهونياي"
+        },
+        {
+            "Code": "103402",
+            "Name": "Otzias",
+            "NameAr": "وتزياس"
+        },
+        {
+            "Code": "131361",
+            "Name": "Ouranoupolis,   Central Macedonia",
+            "NameAr": "وورانووبوليس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "130740",
+            "Name": "Pachis",
+            "NameAr": "باكهيس"
+        },
+        {
+            "Code": "131376",
+            "Name": "Pahena",
+            "NameAr": "باهينا"
+        },
+        {
+            "Code": "102730",
+            "Name": "Pahia Ammos",
+            "NameAr": "باهيا امموس"
+        },
+        {
+            "Code": "161057",
+            "Name": "Paiania",
+            "NameAr": "بايانيا"
+        },
+        {
+            "Code": "160928",
+            "Name": "Palaia Epidavros",
+            "NameAr": "بالايا يبيدافروس"
+        },
+        {
+            "Code": "104200",
+            "Name": "Palaikastron",
+            "NameAr": "بالايكاسترون"
+        },
+        {
+            "Code": "161055",
+            "Name": "Palaio Faliro",
+            "NameAr": "بالايو فاليرو"
+        },
+        {
+            "Code": "160929",
+            "Name": "Palaiochora",
+            "NameAr": "بالايوكهورا"
+        },
+        {
+            "Code": "104201",
+            "Name": "PalaionTsiflikion",
+            "NameAr": "بالايونتسيفليكيون"
+        },
+        {
+            "Code": "130866",
+            "Name": "Palaios Panteleimonas",
+            "NameAr": "بالايوس بانتيلييموناس"
+        },
+        {
+            "Code": "131726",
+            "Name": "Palekastro",
+            "NameAr": "باليكاسترو"
+        },
+        {
+            "Code": "131727",
+            "Name": "Paleloni/Vamos",
+            "NameAr": "باليلوني فاموس"
+        },
+        {
+            "Code": "131728",
+            "Name": "Paleochora",
+            "NameAr": "باليوكهورا"
+        },
+        {
+            "Code": "147074",
+            "Name": "Paleochori Beach",
+            "NameAr": "باليوكهوري بياكه"
+        },
+        {
+            "Code": "130751",
+            "Name": "Paleokastritsa,   Ionian Islands",
+            "NameAr": "باليوكاستريتسا يونيان يسلاندس"
+        },
+        {
+            "Code": "103409",
+            "Name": "Paleokastro, Kreta",
+            "NameAr": "باليوكاسترو كريتا"
+        },
+        {
+            "Code": "130869",
+            "Name": "Paleopolis",
+            "NameAr": "باليوبوليس"
+        },
+        {
+            "Code": "132652",
+            "Name": "Paleros",
+            "NameAr": "باليروس"
+        },
+        {
+            "Code": "131729",
+            "Name": "Pali",
+            "NameAr": "بالي"
+        },
+        {
+            "Code": "130872",
+            "Name": "Paliouri,   Central Macedonia",
+            "NameAr": "باليووري كينترال ماكيدونيا"
+        },
+        {
+            "Code": "161066",
+            "Name": "Pallini",
+            "NameAr": "بالليني"
+        },
+        {
+            "Code": "104583",
+            "Name": "Panayitsa",
+            "NameAr": "باناييتسا"
+        },
+        {
+            "Code": "131004",
+            "Name": "Pano Chersonissos",
+            "NameAr": "بانو كهيرسونيسسوس"
+        },
+        {
+            "Code": "160930",
+            "Name": "Panorama",
+            "NameAr": "بانوراما"
+        },
+        {
+            "Code": "131739",
+            "Name": "Panormo",
+            "NameAr": "بانورمو"
+        },
+        {
+            "Code": "130881",
+            "Name": "Panormos,   Crete",
+            "NameAr": "بانورموس كريتي"
+        },
+        {
+            "Code": "345674",
+            "Name": "Panormos",
+            "NameAr": "بانورموس"
+        },
+        {
+            "Code": "131547",
+            "Name": "Papa Nero-Beach",
+            "NameAr": "بابا نيرو-بياكه"
+        },
+        {
+            "Code": "132676",
+            "Name": "Papadianika",
+            "NameAr": "باباديانيكا"
+        },
+        {
+            "Code": "131009",
+            "Name": "Papingo,   Epirus",
+            "NameAr": "بابينجو يبيروس"
+        },
+        {
+            "Code": "409674",
+            "Name": "Paradisi",
+            "NameAr": "باراديسي"
+        },
+        {
+            "Code": "132048",
+            "Name": "Paralia",
+            "NameAr": "باراليا"
+        },
+        {
+            "Code": "131753",
+            "Name": "Paralia Agias Foteinis",
+            "NameAr": "باراليا اجياس فوتيينيس"
+        },
+        {
+            "Code": "160804",
+            "Name": "Paralia Demonias",
+            "NameAr": "باراليا ديمونياس"
+        },
+        {
+            "Code": "161054",
+            "Name": "Paralia Dionysiou",
+            "NameAr": "باراليا ديونيسيوو"
+        },
+        {
+            "Code": "132685",
+            "Name": "Paralia Katerinis,   Central Macedonia",
+            "NameAr": "باراليا كاتيرينيس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "132686",
+            "Name": "Paralia Ofryniou",
+            "NameAr": "باراليا وفرينيوو"
+        },
+        {
+            "Code": "104207",
+            "Name": "Paralia Panteleimonos",
+            "NameAr": "باراليا بانتيلييمونوس"
+        },
+        {
+            "Code": "103063",
+            "Name": "Paralia Skotinas",
+            "NameAr": "باراليا سكوتيناس"
+        },
+        {
+            "Code": "104587",
+            "Name": "Paralia Skotinis",
+            "NameAr": "باراليا سكوتينيس"
+        },
+        {
+            "Code": "131449",
+            "Name": "Paralio Astros",
+            "NameAr": "باراليو استروس"
+        },
+        {
+            "Code": "147095",
+            "Name": "Paramonas",
+            "NameAr": "باراموناس"
+        },
+        {
+            "Code": "131011",
+            "Name": "Paramythia",
+            "NameAr": "باراميتهيا"
+        },
+        {
+            "Code": "104588",
+            "Name": "Paranesti",
+            "NameAr": "بارانيستي"
+        },
+        {
+            "Code": "132687",
+            "Name": "Paranga Beach,   Cyclades Islands",
+            "NameAr": "بارانجا بياكه كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "131452",
+            "Name": "Parasporos,   Cyclades Islands",
+            "NameAr": "باراسبوروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "132689",
+            "Name": "Parga,   Epirus",
+            "NameAr": "بارجا يبيروس"
+        },
+        {
+            "Code": "132691",
+            "Name": "Parikia,   Cyclades Islands",
+            "NameAr": "باريكيا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "132053",
+            "Name": "Parnassos,   Central Greece",
+            "NameAr": "بارناسسوس كينترال جرييكي"
+        },
+        {
+            "Code": "131411",
+            "Name": "Paros,   Cyclades Islands",
+            "NameAr": "باروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "131415",
+            "Name": "Parthenonas",
+            "NameAr": "بارتهينوناس"
+        },
+        {
+            "Code": "131024",
+            "Name": "Pastida",
+            "NameAr": "باستيدا"
+        },
+        {
+            "Code": "131568",
+            "Name": "Patitiri,   Sporades Islands",
+            "NameAr": "باتيتيري سبوراديس يسلاندس"
+        },
+        {
+            "Code": "132428",
+            "Name": "Patmos,   Dodecanese Islands",
+            "NameAr": "باتموس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "132066",
+            "Name": "Patras,   Peloponnese",
+            "NameAr": "باتراس بيلوبوننيسي"
+        },
+        {
+            "Code": "160931",
+            "Name": "Pavleika",
+            "NameAr": "بافلييكا"
+        },
+        {
+            "Code": "147122",
+            "Name": "Paxos,   Ionian Islands",
+            "NameAr": "باكسوس يونيان يسلاندس"
+        },
+        {
+            "Code": "132712",
+            "Name": "Pedi Beach",
+            "NameAr": "بيدي بياكه"
+        },
+        {
+            "Code": "131583",
+            "Name": "Pefkari",
+            "NameAr": "بيفكاري"
+        },
+        {
+            "Code": "132714",
+            "Name": "Pefki,   Dodecanese Islands",
+            "NameAr": "بيفكي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "367107",
+            "Name": "Pefki Beach,   Central Greece",
+            "NameAr": "بيفكي بياكه كينترال جرييكي"
+        },
+        {
+            "Code": "394831",
+            "Name": "Pefkochori",
+            "NameAr": "بيفكوكهوري"
+        },
+        {
+            "Code": "132436",
+            "Name": "Pefkohori,   Central Macedonia",
+            "NameAr": "بيفكوهوري كينترال ماكيدونيا"
+        },
+        {
+            "Code": "131478",
+            "Name": "Pefkos",
+            "NameAr": "بيفكوس"
+        },
+        {
+            "Code": "131584",
+            "Name": "Pelekas",
+            "NameAr": "بيليكاس"
+        },
+        {
+            "Code": "324942",
+            "Name": "Pelion,   Thessaly",
+            "NameAr": "بيليون تهيسسالي"
+        },
+        {
+            "Code": "160932",
+            "Name": "Pelion-Tsagarada",
+            "NameAr": "بيليون-تساجارادا"
+        },
+        {
+            "Code": "132442",
+            "Name": "Pella",
+            "NameAr": "بيللا"
+        },
+        {
+            "Code": "160881",
+            "Name": "Peloponnese,   Peloponnese",
+            "NameAr": "بيلوبوننيسي بيلوبوننيسي"
+        },
+        {
+            "Code": "131495",
+            "Name": "Peraia,   Central Macedonia",
+            "NameAr": "بيرايا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "132093",
+            "Name": "Perama,   Attica",
+            "NameAr": "بيراما اتتيكا"
+        },
+        {
+            "Code": "417442",
+            "Name": "Perama,   Ionian Islands",
+            "NameAr": "بيراما يونيان يسلاندس"
+        },
+        {
+            "Code": "160933",
+            "Name": "Peratia",
+            "NameAr": "بيراتيا"
+        },
+        {
+            "Code": "131593",
+            "Name": "Perdika,   Epirus",
+            "NameAr": "بيرديكا يبيروس"
+        },
+        {
+            "Code": "131497",
+            "Name": "Perea",
+            "NameAr": "بيريا"
+        },
+        {
+            "Code": "147156",
+            "Name": "Perigiali",
+            "NameAr": "بيريجيالي"
+        },
+        {
+            "Code": "131499",
+            "Name": "Perissa,   Cyclades Islands",
+            "NameAr": "بيريسسا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "131050",
+            "Name": "Perivoli",
+            "NameAr": "بيريفولي"
+        },
+        {
+            "Code": "161058",
+            "Name": "Perivolia",
+            "NameAr": "بيريفوليا"
+        },
+        {
+            "Code": "417853",
+            "Name": "Perivolia Kissamou,   Crete",
+            "NameAr": "بيريفوليا كيسساموو كريتي"
+        },
+        {
+            "Code": "131500",
+            "Name": "Perivolos,   Cyclades Islands",
+            "NameAr": "بيريفولوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "131598",
+            "Name": "Peroulades",
+            "NameAr": "بيروولاديس"
+        },
+        {
+            "Code": "131056",
+            "Name": "Peroulia",
+            "NameAr": "بيرووليا"
+        },
+        {
+            "Code": "102754",
+            "Name": "Pertouli",
+            "NameAr": "بيرتوولي"
+        },
+        {
+            "Code": "132758",
+            "Name": "Petalidi",
+            "NameAr": "بيتاليدي"
+        },
+        {
+            "Code": "131609",
+            "Name": "Petra",
+            "NameAr": "بيترا"
+        },
+        {
+            "Code": "131610",
+            "Name": "Petriti",
+            "NameAr": "بيتريتي"
+        },
+        {
+            "Code": "147172",
+            "Name": "Petrochori",
+            "NameAr": "بيتروكهوري"
+        },
+        {
+            "Code": "132768",
+            "Name": "Petrokefalo",
+            "NameAr": "بيتروكيفالو"
+        },
+        {
+            "Code": "104217",
+            "Name": "Phaistos",
+            "NameAr": "بهايستوس"
+        },
+        {
+            "Code": "132777",
+            "Name": "Philippou",
+            "NameAr": "بهيليببوو"
+        },
+        {
+            "Code": "393142",
+            "Name": "Piana",
+            "NameAr": "بيانا"
+        },
+        {
+            "Code": "294776",
+            "Name": "Pieria,   Central Macedonia",
+            "NameAr": "بييريا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "131636",
+            "Name": "Pigadakia",
+            "NameAr": "بيجاداكيا"
+        },
+        {
+            "Code": "147192",
+            "Name": "Pigadia",
+            "NameAr": "بيجاديا"
+        },
+        {
+            "Code": "131539",
+            "Name": "Pigi",
+            "NameAr": "بيجي"
+        },
+        {
+            "Code": "131540",
+            "Name": "Pigianos Kambos",
+            "NameAr": "بيجيانوس كامبوس"
+        },
+        {
+            "Code": "132211",
+            "Name": "Pilion",
+            "NameAr": "بيليون"
+        },
+        {
+            "Code": "132212",
+            "Name": "Pinakates",
+            "NameAr": "بيناكاتيس"
+        },
+        {
+            "Code": "133431",
+            "Name": "Piraeus,   Attica",
+            "NameAr": "بيرايوس اتتيكا"
+        },
+        {
+            "Code": "147206",
+            "Name": "Pirgadikia",
+            "NameAr": "بيرجاديكيا"
+        },
+        {
+            "Code": "132188",
+            "Name": "Pirgi Thermis",
+            "NameAr": "بيرجي تهيرميس"
+        },
+        {
+            "Code": "160934",
+            "Name": "Pirgiotika",
+            "NameAr": "بيرجيوتيكا"
+        },
+        {
+            "Code": "132806",
+            "Name": "Pirgos Psilonerou",
+            "NameAr": "بيرجوس بسيلونيروو"
+        },
+        {
+            "Code": "131098",
+            "Name": "Piskopiano",
+            "NameAr": "بيسكوبيانو"
+        },
+        {
+            "Code": "147207",
+            "Name": "Piso Livadi,   Cyclades Islands",
+            "NameAr": "بيسو ليفادي كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "132823",
+            "Name": "Plagiari,   Central Macedonia",
+            "NameAr": "بلاجياري كينترال ماكيدونيا"
+        },
+        {
+            "Code": "132828",
+            "Name": "Plaka,   Attica",
+            "NameAr": "بلاكا اتتيكا"
+        },
+        {
+            "Code": "351576",
+            "Name": "Plaka",
+            "NameAr": "بلاكا"
+        },
+        {
+            "Code": "132326",
+            "Name": "Plaka Beach,   Cyclades Islands",
+            "NameAr": "بلاكا بياكه كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "132829",
+            "Name": "Plaka Litochoro",
+            "NameAr": "بلاكا ليتوكهورو"
+        },
+        {
+            "Code": "160945",
+            "Name": "Plakes",
+            "NameAr": "بلاكيس"
+        },
+        {
+            "Code": "132234",
+            "Name": "Plakias,   Crete",
+            "NameAr": "بلاكياس كريتي"
+        },
+        {
+            "Code": "132831",
+            "Name": "Planos,   Ionian Islands",
+            "NameAr": "بلانوس يونيان يسلاندس"
+        },
+        {
+            "Code": "132196",
+            "Name": "Plastira-Stausee",
+            "NameAr": "بلاستيرا-ستاوسيي"
+        },
+        {
+            "Code": "132835",
+            "Name": "Platamonas,   Central Macedonia",
+            "NameAr": "بلاتاموناس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "131772",
+            "Name": "Platanes,   Crete",
+            "NameAr": "بلاتانيس كريتي"
+        },
+        {
+            "Code": "132197",
+            "Name": "Platanias (Chania),   Crete",
+            "NameAr": "بلاتانياس كهانيا كريتي"
+        },
+        {
+            "Code": "131773",
+            "Name": "Platanias (Rethymnon)",
+            "NameAr": "بلاتانياس ريتهيمنون"
+        },
+        {
+            "Code": "131774",
+            "Name": "Platanias-Beach",
+            "NameAr": "بلاتانياس-بياكه"
+        },
+        {
+            "Code": "132836",
+            "Name": "Platanidia",
+            "NameAr": "بلاتانيديا"
+        },
+        {
+            "Code": "103436",
+            "Name": "Plataniotissa",
+            "NameAr": "بلاتانيوتيسسا"
+        },
+        {
+            "Code": "161073",
+            "Name": "Platanos",
+            "NameAr": "بلاتانوس"
+        },
+        {
+            "Code": "132237",
+            "Name": "Plataria",
+            "NameAr": "بلاتاريا"
+        },
+        {
+            "Code": "132332",
+            "Name": "Plati",
+            "NameAr": "بلاتي"
+        },
+        {
+            "Code": "132238",
+            "Name": "Plati Yialos",
+            "NameAr": "بلاتي ييالوس"
+        },
+        {
+            "Code": "343864",
+            "Name": "Platis Gialos",
+            "NameAr": "بلاتيس جيالوس"
+        },
+        {
+            "Code": "147223",
+            "Name": "Platy",
+            "NameAr": "بلاتي"
+        },
+        {
+            "Code": "132839",
+            "Name": "Platys Gyalos",
+            "NameAr": "بلاتيس جيالوس"
+        },
+        {
+            "Code": "132350",
+            "Name": "Plimmiri",
+            "NameAr": "بليمميري"
+        },
+        {
+            "Code": "103288",
+            "Name": "Plitra,   Peloponnese",
+            "NameAr": "بليترا بيلوبوننيسي"
+        },
+        {
+            "Code": "147246",
+            "Name": "Plomari",
+            "NameAr": "بلوماري"
+        },
+        {
+            "Code": "142541",
+            "Name": "Pogonia",
+            "NameAr": "بوجونيا"
+        },
+        {
+            "Code": "133480",
+            "Name": "Polemarchi Voukolies",
+            "NameAr": "بوليماركهي فووكولييس"
+        },
+        {
+            "Code": "133522",
+            "Name": "Polichnitos",
+            "NameAr": "بوليكهنيتوس"
+        },
+        {
+            "Code": "131803",
+            "Name": "Polichrono",
+            "NameAr": "بوليكهرونو"
+        },
+        {
+            "Code": "132367",
+            "Name": "Polineri Grevena Vasilitsa",
+            "NameAr": "بولينيري جريفينا فاسيليتسا"
+        },
+        {
+            "Code": "106624",
+            "Name": "Politika",
+            "NameAr": "بوليتيكا"
+        },
+        {
+            "Code": "132368",
+            "Name": "Pollonia,   Cyclades Islands",
+            "NameAr": "بوللونيا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "147268",
+            "Name": "Polygyros,   Central Macedonia",
+            "NameAr": "بوليجيروس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "133500",
+            "Name": "Poros,   Attica",
+            "NameAr": "بوروس اتتيكا"
+        },
+        {
+            "Code": "132387",
+            "Name": "Poros Town",
+            "NameAr": "بوروس توون"
+        },
+        {
+            "Code": "133257",
+            "Name": "Portaria,   Thessaly",
+            "NameAr": "بورتاريا تهيسسالي"
+        },
+        {
+            "Code": "133265",
+            "Name": "Porto Heli,   Peloponnese",
+            "NameAr": "بورتو هيلي بيلوبوننيسي"
+        },
+        {
+            "Code": "131850",
+            "Name": "Porto Koufo",
+            "NameAr": "بورتو كووفو"
+        },
+        {
+            "Code": "132412",
+            "Name": "Porto Rafti",
+            "NameAr": "بورتو رافتي"
+        },
+        {
+            "Code": "147325",
+            "Name": "Poseidonia",
+            "NameAr": "بوسييدونيا"
+        },
+        {
+            "Code": "134293",
+            "Name": "Possidi,   Central Macedonia",
+            "NameAr": "بوسسيدي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "133279",
+            "Name": "Possidonion",
+            "NameAr": "بوسسيدونيون"
+        },
+        {
+            "Code": "133582",
+            "Name": "Potami",
+            "NameAr": "بوتامي"
+        },
+        {
+            "Code": "131858",
+            "Name": "Potistika",
+            "NameAr": "بوتيستيكا"
+        },
+        {
+            "Code": "132985",
+            "Name": "Potokaki",
+            "NameAr": "بوتوكاكي"
+        },
+        {
+            "Code": "147333",
+            "Name": "Potos,   East Macedonia ",
+            "NameAr": "بوتوس ياست ماكيدونيا"
+        },
+        {
+            "Code": "132991",
+            "Name": "Pounta",
+            "NameAr": "بوونتا"
+        },
+        {
+            "Code": "132992",
+            "Name": "Pounta Area,   Cyclades Islands",
+            "NameAr": "بوونتا اريا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "134313",
+            "Name": "Pramanta,   Epirus",
+            "NameAr": "برامانتا يبيروس"
+        },
+        {
+            "Code": "133086",
+            "Name": "Prasonisi",
+            "NameAr": "براسونيسي"
+        },
+        {
+            "Code": "160403",
+            "Name": "Prespes,   Western Macedonia",
+            "NameAr": "بريسبيس ويستيرن ماكيدونيا"
+        },
+        {
+            "Code": "132541",
+            "Name": "Preveza,   Epirus",
+            "NameAr": "بريفيزا يبيروس"
+        },
+        {
+            "Code": "132967",
+            "Name": "Prines",
+            "NameAr": "برينيس"
+        },
+        {
+            "Code": "147373",
+            "Name": "Prinos",
+            "NameAr": "برينوس"
+        },
+        {
+            "Code": "133969",
+            "Name": "Profitis Ilias",
+            "NameAr": "بروفيتيس يلياس"
+        },
+        {
+            "Code": "133970",
+            "Name": "Prosilio",
+            "NameAr": "بروسيليو"
+        },
+        {
+            "Code": "133030",
+            "Name": "Provarma",
+            "NameAr": "بروفارما"
+        },
+        {
+            "Code": "147384",
+            "Name": "Psakoudia",
+            "NameAr": "بساكووديا"
+        },
+        {
+            "Code": "147385",
+            "Name": "Psalidi,   Dodecanese Islands",
+            "NameAr": "بساليدي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "133036",
+            "Name": "Psari Forada",
+            "NameAr": "بساري فورادا"
+        },
+        {
+            "Code": "133616",
+            "Name": "Psarou,   Cyclades Islands",
+            "NameAr": "بساروو كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "161090",
+            "Name": "Psathopirgos",
+            "NameAr": "بساتهوبيرجوس"
+        },
+        {
+            "Code": "103318",
+            "Name": "Pserimos",
+            "NameAr": "بسيريموس"
+        },
+        {
+            "Code": "133609",
+            "Name": "Psili Ammos",
+            "NameAr": "بسيلي امموس"
+        },
+        {
+            "Code": "147387",
+            "Name": "Ptolemaida,   Western Macedonia",
+            "NameAr": "بتوليمايدا ويستيرن ماكيدونيا"
+        },
+        {
+            "Code": "396416",
+            "Name": "Punta,   Sporades Islands",
+            "NameAr": "بونتا سبوراديس يسلاندس"
+        },
+        {
+            "Code": "103467",
+            "Name": "Pydna-Kolindros",
+            "NameAr": "بيدنا-كوليندروس"
+        },
+        {
+            "Code": "133647",
+            "Name": "Pylos",
+            "NameAr": "بيلوس"
+        },
+        {
+            "Code": "150260",
+            "Name": "Pylos-Nestoras,   Peloponnese",
+            "NameAr": "بيلوس-نيستوراس بيلوبوننيسي"
+        },
+        {
+            "Code": "133648",
+            "Name": "Pyrgaki",
+            "NameAr": "بيرجاكي"
+        },
+        {
+            "Code": "134372",
+            "Name": "Pyrgi",
+            "NameAr": "بيرجي"
+        },
+        {
+            "Code": "290624",
+            "Name": "Pyrgos Elis,   Peloponnese",
+            "NameAr": "بيرجوس يليس بيلوبوننيسي"
+        },
+        {
+            "Code": "134180",
+            "Name": "Pyrgos Kallistis,   Cyclades Islands",
+            "NameAr": "بيرجوس كالليستيس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "102784",
+            "Name": "Pythagoreion,   North Aegean",
+            "NameAr": "بيتهاجورييون نورته ايجيان"
+        },
+        {
+            "Code": "147440",
+            "Name": "Rafina,   Attica",
+            "NameAr": "رافينا اتتيكا"
+        },
+        {
+            "Code": "103477",
+            "Name": "Ravdoucha",
+            "NameAr": "رافدووكها"
+        },
+        {
+            "Code": "161065",
+            "Name": "Rethymno Town",
+            "NameAr": "ريتهيمنو توون"
+        },
+        {
+            "Code": "133894",
+            "Name": "Rethymnon,   Crete",
+            "NameAr": "ريتهيمنون كريتي"
+        },
+        {
+            "Code": "147505",
+            "Name": "Rhodes,   Dodecanese Islands",
+            "NameAr": "رهوديس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "135095",
+            "Name": "Rhodes Town,   Dodecanese Islands",
+            "NameAr": "رهوديس توون دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "338661",
+            "Name": "Rigas Feraios",
+            "NameAr": "ريجاس فيرايوس"
+        },
+        {
+            "Code": "134772",
+            "Name": "Riglia",
+            "NameAr": "ريجليا"
+        },
+        {
+            "Code": "134507",
+            "Name": "Riza",
+            "NameAr": "ريزا"
+        },
+        {
+            "Code": "133393",
+            "Name": "Roda,   Ionian Islands",
+            "NameAr": "رودا يونيان يسلاندس"
+        },
+        {
+            "Code": "133394",
+            "Name": "Rodakino",
+            "NameAr": "روداكينو"
+        },
+        {
+            "Code": "417451",
+            "Name": "Rodavgi,   Epirus",
+            "NameAr": "رودافجي يبيروس"
+        },
+        {
+            "Code": "108439",
+            "Name": "Rodia ",
+            "NameAr": "روديا"
+        },
+        {
+            "Code": "108440",
+            "Name": "Rodopoli",
+            "NameAr": "رودوبولي"
+        },
+        {
+            "Code": "134565",
+            "Name": "Roussospiti",
+            "NameAr": "رووسسوسبيتي"
+        },
+        {
+            "Code": "135128",
+            "Name": "Rovies",
+            "NameAr": "روفييس"
+        },
+        {
+            "Code": "135380",
+            "Name": "Salakos",
+            "NameAr": "سالاكوس"
+        },
+        {
+            "Code": "371379",
+            "Name": "Salamis",
+            "NameAr": "سالاميس"
+        },
+        {
+            "Code": "134873",
+            "Name": "Sambatiki",
+            "NameAr": "سامباتيكي"
+        },
+        {
+            "Code": "136164",
+            "Name": "Sami,   Ionian Islands",
+            "NameAr": "سامي يونيان يسلاندس"
+        },
+        {
+            "Code": "135399",
+            "Name": "Samonas,   Crete",
+            "NameAr": "ساموناس كريتي"
+        },
+        {
+            "Code": "136166",
+            "Name": "Samos,   North Aegean",
+            "NameAr": "ساموس نورته ايجيان"
+        },
+        {
+            "Code": "136168",
+            "Name": "Samothraki",
+            "NameAr": "ساموتهراكي"
+        },
+        {
+            "Code": "147690",
+            "Name": "San George",
+            "NameAr": "سان جيورجي"
+        },
+        {
+            "Code": "376380",
+            "Name": "Sane,   Central Macedonia",
+            "NameAr": "ساني كينترال ماكيدونيا"
+        },
+        {
+            "Code": "401447",
+            "Name": "Santa Maria,   Cyclades Islands",
+            "NameAr": "سانتا ماريا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "137186",
+            "Name": "Santorini,   Cyclades Islands",
+            "NameAr": "سانتوريني كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "417872",
+            "Name": "Sarakiniko,   Crete",
+            "NameAr": "ساراكينيكو كريتي"
+        },
+        {
+            "Code": "136548",
+            "Name": "Sarchos",
+            "NameAr": "ساركهوس"
+        },
+        {
+            "Code": "136638",
+            "Name": "Sarhos",
+            "NameAr": "سارهوس"
+        },
+        {
+            "Code": "301543",
+            "Name": "Sarkhos",
+            "NameAr": "ساركهوس"
+        },
+        {
+            "Code": "136550",
+            "Name": "Sarlata",
+            "NameAr": "سارلاتا"
+        },
+        {
+            "Code": "161095",
+            "Name": "Saronic Islands,   Attica",
+            "NameAr": "سارونيك يسلاندس اتتيكا"
+        },
+        {
+            "Code": "160935",
+            "Name": "Saronida",
+            "NameAr": "سارونيدا"
+        },
+        {
+            "Code": "136404",
+            "Name": "Sarti",
+            "NameAr": "سارتي"
+        },
+        {
+            "Code": "417566",
+            "Name": "Savalia,   Peloponnese",
+            "NameAr": "سافاليا بيلوبوننيسي"
+        },
+        {
+            "Code": "136659",
+            "Name": "Scaleta",
+            "NameAr": "سكاليتا"
+        },
+        {
+            "Code": "136589",
+            "Name": "Schinoussa",
+            "NameAr": "سكهينووسسا"
+        },
+        {
+            "Code": "136262",
+            "Name": "Selianitika",
+            "NameAr": "سيليانيتيكا"
+        },
+        {
+            "Code": "325078",
+            "Name": "Serifos,   Cyclades Islands",
+            "NameAr": "سيريفوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "137726",
+            "Name": "Sernikaki",
+            "NameAr": "سيرنيكاكي"
+        },
+        {
+            "Code": "137289",
+            "Name": "Serres,   Central Macedonia",
+            "NameAr": "سيرريس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "103169",
+            "Name": "Servia",
+            "NameAr": "سيرفيا"
+        },
+        {
+            "Code": "147874",
+            "Name": "Sfaka",
+            "NameAr": "سفاكا"
+        },
+        {
+            "Code": "137379",
+            "Name": "Sfakaki",
+            "NameAr": "سفاكاكي"
+        },
+        {
+            "Code": "150268",
+            "Name": "Sfakia",
+            "NameAr": "سفاكيا"
+        },
+        {
+            "Code": "147875",
+            "Name": "Sfakiotes",
+            "NameAr": "سفاكيوتيس"
+        },
+        {
+            "Code": "137563",
+            "Name": "Sgombou",
+            "NameAr": "سجومبوو"
+        },
+        {
+            "Code": "137297",
+            "Name": "Sgourokefali",
+            "NameAr": "سجووروكيفالي"
+        },
+        {
+            "Code": "137405",
+            "Name": "Siatista",
+            "NameAr": "سياتيستا"
+        },
+        {
+            "Code": "137322",
+            "Name": "Sidari,   Ionian Islands",
+            "NameAr": "سيداري يونيان يسلاندس"
+        },
+        {
+            "Code": "137591",
+            "Name": "Sidirohori",
+            "NameAr": "سيديروهوري"
+        },
+        {
+            "Code": "137412",
+            "Name": "Sifnos,   Cyclades Islands",
+            "NameAr": "سيفنوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "103392",
+            "Name": "Sigri",
+            "NameAr": "سيجري"
+        },
+        {
+            "Code": "160511",
+            "Name": "Sikyona,   Peloponnese",
+            "NameAr": "سيكيونا بيلوبوننيسي"
+        },
+        {
+            "Code": "137027",
+            "Name": "Sinarades",
+            "NameAr": "سيناراديس"
+        },
+        {
+            "Code": "147919",
+            "Name": "Sintiki",
+            "NameAr": "سينتيكي"
+        },
+        {
+            "Code": "147929",
+            "Name": "Sissi,   Crete",
+            "NameAr": "سيسسي كريتي"
+        },
+        {
+            "Code": "106324",
+            "Name": "Sithonia,   Central Macedonia",
+            "NameAr": "سيتهونيا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "138435",
+            "Name": "Sitia,   Crete",
+            "NameAr": "سيتيا كريتي"
+        },
+        {
+            "Code": "138437",
+            "Name": "Sivas",
+            "NameAr": "سيفاس"
+        },
+        {
+            "Code": "137437",
+            "Name": "Siviri,   Central Macedonia",
+            "NameAr": "سيفيري كينترال ماكيدونيا"
+        },
+        {
+            "Code": "147934",
+            "Name": "Sivota,   Epirus",
+            "NameAr": "سيفوتا يبيروس"
+        },
+        {
+            "Code": "138439",
+            "Name": "Skafidia,   Peloponnese",
+            "NameAr": "سكافيديا بيلوبوننيسي"
+        },
+        {
+            "Code": "138441",
+            "Name": "Skala",
+            "NameAr": "سكالا"
+        },
+        {
+            "Code": "147935",
+            "Name": "Skala Eressou",
+            "NameAr": "سكالا يريسسوو"
+        },
+        {
+            "Code": "275947",
+            "Name": "Skala Fourkas,   Central Macedonia",
+            "NameAr": "سكالا فووركاس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "103184",
+            "Name": "Skala Mistegnon",
+            "NameAr": "سكالا ميستيجنون"
+        },
+        {
+            "Code": "137042",
+            "Name": "Skala Panagia",
+            "NameAr": "سكالا باناجيا"
+        },
+        {
+            "Code": "137626",
+            "Name": "Skala Potamias",
+            "NameAr": "سكالا بوتامياس"
+        },
+        {
+            "Code": "138716",
+            "Name": "Skala Prinos",
+            "NameAr": "سكالا برينوس"
+        },
+        {
+            "Code": "137043",
+            "Name": "Skala Rachoniou",
+            "NameAr": "سكالا راكهونيوو"
+        },
+        {
+            "Code": "138442",
+            "Name": "Skala Raxoni",
+            "NameAr": "سكالا راكسوني"
+        },
+        {
+            "Code": "137482",
+            "Name": "Skala Sotiros",
+            "NameAr": "سكالا سوتيروس"
+        },
+        {
+            "Code": "106325",
+            "Name": "Skala Sykamineas",
+            "NameAr": "سكالا سيكامينياس"
+        },
+        {
+            "Code": "137627",
+            "Name": "Skala Sykaminias",
+            "NameAr": "سكالا سيكامينياس"
+        },
+        {
+            "Code": "138443",
+            "Name": "Skaleta",
+            "NameAr": "سكاليتا"
+        },
+        {
+            "Code": "138447",
+            "Name": "Skiathos,   Sporades Islands",
+            "NameAr": "سكياتهوس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "137044",
+            "Name": "Skidi",
+            "NameAr": "سكيدي"
+        },
+        {
+            "Code": "151670",
+            "Name": "Skiros",
+            "NameAr": "سكيروس"
+        },
+        {
+            "Code": "138020",
+            "Name": "Skliri",
+            "NameAr": "سكليري"
+        },
+        {
+            "Code": "137631",
+            "Name": "Skopelos,   Sporades Islands",
+            "NameAr": "سكوبيلوس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "137045",
+            "Name": "Skopelos Town,   Sporades Islands",
+            "NameAr": "سكوبيلوس توون سبوراديس يسلاندس"
+        },
+        {
+            "Code": "138726",
+            "Name": "Skotina,   Central Macedonia",
+            "NameAr": "سكوتينا كينترال ماكيدونيا"
+        },
+        {
+            "Code": "138727",
+            "Name": "Skoutari",
+            "NameAr": "سكووتاري"
+        },
+        {
+            "Code": "138728",
+            "Name": "Skroponeri",
+            "NameAr": "سكروبونيري"
+        },
+        {
+            "Code": "107233",
+            "Name": "Skydra",
+            "NameAr": "سكيدرا"
+        },
+        {
+            "Code": "137492",
+            "Name": "Skyros,   Sporades Islands",
+            "NameAr": "سكيروس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "137658",
+            "Name": "Sokraki",
+            "NameAr": "سوكراكي"
+        },
+        {
+            "Code": "138064",
+            "Name": "Souda",
+            "NameAr": "سوودا"
+        },
+        {
+            "Code": "106912",
+            "Name": "Souflion",
+            "NameAr": "سووفليون"
+        },
+        {
+            "Code": "138065",
+            "Name": "Sougia",
+            "NameAr": "سووجيا"
+        },
+        {
+            "Code": "145882",
+            "Name": "Sounion,   Attica",
+            "NameAr": "سوونيون اتتيكا"
+        },
+        {
+            "Code": "160410",
+            "Name": "South Pelion,   Thessaly",
+            "NameAr": "سووته بيليون تهيسسالي"
+        },
+        {
+            "Code": "417432",
+            "Name": "Souvala (Aegina),   Attica",
+            "NameAr": "سووفالا ايجينا اتتيكا"
+        },
+        {
+            "Code": "137538",
+            "Name": "Spanochori",
+            "NameAr": "سبانوكهوري"
+        },
+        {
+            "Code": "138512",
+            "Name": "Sparta",
+            "NameAr": "سبارتا"
+        },
+        {
+            "Code": "160936",
+            "Name": "Sparti,   Peloponnese",
+            "NameAr": "سبارتي بيلوبوننيسي"
+        },
+        {
+            "Code": "137105",
+            "Name": "Spartia",
+            "NameAr": "سبارتيا"
+        },
+        {
+            "Code": "138354",
+            "Name": "Spartilas",
+            "NameAr": "سبارتيلاس"
+        },
+        {
+            "Code": "160937",
+            "Name": "Sparto",
+            "NameAr": "سبارتو"
+        },
+        {
+            "Code": "160938",
+            "Name": "Spata",
+            "NameAr": "سباتا"
+        },
+        {
+            "Code": "358189",
+            "Name": "Spata-Artemida",
+            "NameAr": "سباتا-ارتيميدا"
+        },
+        {
+            "Code": "417870",
+            "Name": "Spetses,   Attica",
+            "NameAr": "سبيتسيس اتتيكا"
+        },
+        {
+            "Code": "139439",
+            "Name": "Spetses Town,   Attica",
+            "NameAr": "سبيتسيس توون اتتيكا"
+        },
+        {
+            "Code": "107736",
+            "Name": "Spili",
+            "NameAr": "سبيلي"
+        },
+        {
+            "Code": "138173",
+            "Name": "Spilia,   Cyclades Islands",
+            "NameAr": "سبيليا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "139470",
+            "Name": "St. Giorgios",
+            "NameAr": "ست جيورجيوس"
+        },
+        {
+            "Code": "139232",
+            "Name": "Stalis,   Crete",
+            "NameAr": "ستاليس كريتي"
+        },
+        {
+            "Code": "148036",
+            "Name": "Stalos,   Crete",
+            "NameAr": "ستالوس كريتي"
+        },
+        {
+            "Code": "417532",
+            "Name": "Stavies,   Crete",
+            "NameAr": "ستافييس كريتي"
+        },
+        {
+            "Code": "139243",
+            "Name": "Stavri",
+            "NameAr": "ستافري"
+        },
+        {
+            "Code": "148047",
+            "Name": "Stavromenos",
+            "NameAr": "ستافرومينوس"
+        },
+        {
+            "Code": "103204",
+            "Name": "Stavros,   Central Macedonia",
+            "NameAr": "ستافروس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "137807",
+            "Name": "Stavros (Chania),   Crete",
+            "NameAr": "ستافروس كهانيا كريتي"
+        },
+        {
+            "Code": "417444",
+            "Name": "Stavros (Ithaka),   Ionian Islands",
+            "NameAr": "ستافروس يتهاكا يونيان يسلاندس"
+        },
+        {
+            "Code": "137808",
+            "Name": "Stavroupoli,   Central Macedonia",
+            "NameAr": "ستافرووبولي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "361602",
+            "Name": "Stavroupolis",
+            "NameAr": "ستافرووبوليس"
+        },
+        {
+            "Code": "138813",
+            "Name": "Stegna",
+            "NameAr": "ستيجنا"
+        },
+        {
+            "Code": "137818",
+            "Name": "Stelida",
+            "NameAr": "ستيليدا"
+        },
+        {
+            "Code": "139094",
+            "Name": "Stemnitsa,   Peloponnese",
+            "NameAr": "ستيمنيتسا بيلوبوننيسي"
+        },
+        {
+            "Code": "107069",
+            "Name": "Steni Dirfyos",
+            "NameAr": "ستيني ديرفيوس"
+        },
+        {
+            "Code": "138821",
+            "Name": "Steni Vala,   Sporades Islands",
+            "NameAr": "ستيني فالا سبوراديس يسلاندس"
+        },
+        {
+            "Code": "138923",
+            "Name": "Stomio",
+            "NameAr": "ستوميو"
+        },
+        {
+            "Code": "138829",
+            "Name": "Stoupa,   Peloponnese",
+            "NameAr": "ستووبا بيلوبوننيسي"
+        },
+        {
+            "Code": "161077",
+            "Name": "Super Paradise Beach,   Cyclades Islands",
+            "NameAr": "سوبير باراديسي بياكه كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "139538",
+            "Name": "Svoronata,   Ionian Islands",
+            "NameAr": "سفوروناتا يونيان يسلاندس"
+        },
+        {
+            "Code": "107150",
+            "Name": "Sykia",
+            "NameAr": "سيكيا"
+        },
+        {
+            "Code": "160939",
+            "Name": "Symi,   Dodecanese Islands",
+            "NameAr": "سيمي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "148122",
+            "Name": "Sympotama",
+            "NameAr": "سيمبوتاما"
+        },
+        {
+            "Code": "138991",
+            "Name": "Syros,   Cyclades Islands",
+            "NameAr": "سيروس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "138550",
+            "Name": "Syvota",
+            "NameAr": "سيفوتا"
+        },
+        {
+            "Code": "140261",
+            "Name": "Syvros",
+            "NameAr": "سيفروس"
+        },
+        {
+            "Code": "388677",
+            "Name": "Tagarades",
+            "NameAr": "تاجاراديس"
+        },
+        {
+            "Code": "139570",
+            "Name": "Tatoi - Acharnai",
+            "NameAr": "تاتوي - اكهارناي"
+        },
+        {
+            "Code": "148170",
+            "Name": "Tavari",
+            "NameAr": "تافاري"
+        },
+        {
+            "Code": "138598",
+            "Name": "Tavronitis",
+            "NameAr": "تافرونيتيس"
+        },
+        {
+            "Code": "139932",
+            "Name": "Taxiarchis",
+            "NameAr": "تاكسياركهيس"
+        },
+        {
+            "Code": "140990",
+            "Name": "Telendos",
+            "NameAr": "تيليندوس"
+        },
+        {
+            "Code": "138612",
+            "Name": "Temploni",
+            "NameAr": "تيمبلوني"
+        },
+        {
+            "Code": "139601",
+            "Name": "Tersanas,   Crete",
+            "NameAr": "تيرساناس كريتي"
+        },
+        {
+            "Code": "139740",
+            "Name": "Thassos,   East Macedonia",
+            "NameAr": "تهاسسوس ياست ماكيدونيا"
+        },
+        {
+            "Code": "141025",
+            "Name": "Thebes",
+            "NameAr": "تهيبيس"
+        },
+        {
+            "Code": "141026",
+            "Name": "Theologos,   Dodecanese Islands",
+            "NameAr": "تهيولوجوس دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "148206",
+            "Name": "Therma",
+            "NameAr": "تهيرما"
+        },
+        {
+            "Code": "160469",
+            "Name": "Thermaikos,   Central Macedonia",
+            "NameAr": "تهيرمايكوس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "138632",
+            "Name": "Thermi,   Central Macedonia",
+            "NameAr": "تهيرمي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "139610",
+            "Name": "Thermisia",
+            "NameAr": "تهيرميسيا"
+        },
+        {
+            "Code": "148207",
+            "Name": "Thermo",
+            "NameAr": "تهيرمو"
+        },
+        {
+            "Code": "141027",
+            "Name": "Thessaloniki,   Central Macedonia",
+            "NameAr": "تهيسسالونيكي كينترال ماكيدونيا"
+        },
+        {
+            "Code": "148210",
+            "Name": "Thira (Fira)",
+            "NameAr": "تهيرا فيرا"
+        },
+        {
+            "Code": "418059",
+            "Name": "Thirassia,   Cyclades Islands",
+            "NameAr": "تهيراسسيا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "141030",
+            "Name": "Tholaria",
+            "NameAr": "تهولاريا"
+        },
+        {
+            "Code": "392614",
+            "Name": "Tholos",
+            "NameAr": "تهولوس"
+        },
+        {
+            "Code": "140757",
+            "Name": "Tigaki,   Dodecanese Islands",
+            "NameAr": "تيجاكي دوديكانيسي يسلاندس"
+        },
+        {
+            "Code": "108608",
+            "Name": "Tigkaki",
+            "NameAr": "تيجكاكي"
+        },
+        {
+            "Code": "140044",
+            "Name": "Tinos,   Cyclades Islands",
+            "NameAr": "تينوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "148253",
+            "Name": "Tolo",
+            "NameAr": "تولو"
+        },
+        {
+            "Code": "140324",
+            "Name": "Tolofona",
+            "NameAr": "تولوفونا"
+        },
+        {
+            "Code": "140475",
+            "Name": "Toriza",
+            "NameAr": "توريزا"
+        },
+        {
+            "Code": "140332",
+            "Name": "Toroni",
+            "NameAr": "توروني"
+        },
+        {
+            "Code": "140798",
+            "Name": "Tourlos,   Cyclades Islands",
+            "NameAr": "توورلوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "107649",
+            "Name": "Toxotes",
+            "NameAr": "توكسوتيس"
+        },
+        {
+            "Code": "139801",
+            "Name": "Tragaki,   Ionian Islands",
+            "NameAr": "تراجاكي يونيان يسلاندس"
+        },
+        {
+            "Code": "140504",
+            "Name": "Trapezaki",
+            "NameAr": "ترابيزاكي"
+        },
+        {
+            "Code": "160940",
+            "Name": "Triandaros",
+            "NameAr": "تريانداروس"
+        },
+        {
+            "Code": "106848",
+            "Name": "Trifylia",
+            "NameAr": "تريفيليا"
+        },
+        {
+            "Code": "148319",
+            "Name": "Trikala,   Thessaly",
+            "NameAr": "تريكالا تهيسسالي"
+        },
+        {
+            "Code": "160941",
+            "Name": "Trikala Corinthias",
+            "NameAr": "تريكالا كورينتهياس"
+        },
+        {
+            "Code": "139817",
+            "Name": "Trikeri",
+            "NameAr": "تريكيري"
+        },
+        {
+            "Code": "417445",
+            "Name": "Trilofos,   Central Macedonia",
+            "NameAr": "تريلوفوس كينترال ماكيدونيا"
+        },
+        {
+            "Code": "140835",
+            "Name": "Triopetra",
+            "NameAr": "تريوبيترا"
+        },
+        {
+            "Code": "140375",
+            "Name": "Tripoli,   Peloponnese",
+            "NameAr": "تريبولي بيلوبوننيسي"
+        },
+        {
+            "Code": "140838",
+            "Name": "Trizinia",
+            "NameAr": "تريزينيا"
+        },
+        {
+            "Code": "139393",
+            "Name": "Trizonia",
+            "NameAr": "تريزونيا"
+        },
+        {
+            "Code": "140384",
+            "Name": "Troulos",
+            "NameAr": "تروولوس"
+        },
+        {
+            "Code": "140661",
+            "Name": "Tsangarada,   Thessaly",
+            "NameAr": "تسانجارادا تهيسسالي"
+        },
+        {
+            "Code": "140848",
+            "Name": "Tsapi",
+            "NameAr": "تسابي"
+        },
+        {
+            "Code": "141218",
+            "Name": "Tsepelovo",
+            "NameAr": "تسيبيلوفو"
+        },
+        {
+            "Code": "141802",
+            "Name": "Tsilivi,   Ionian Islands",
+            "NameAr": "تسيليفي يونيان يسلاندس"
+        },
+        {
+            "Code": "148338",
+            "Name": "Tsivaras",
+            "NameAr": "تسيفاراس"
+        },
+        {
+            "Code": "140852",
+            "Name": "Tsoukalades",
+            "NameAr": "تسووكالاديس"
+        },
+        {
+            "Code": "140392",
+            "Name": "Tsoutsouros",
+            "NameAr": "تسووتسووروس"
+        },
+        {
+            "Code": "141234",
+            "Name": "Tylissos",
+            "NameAr": "تيليسسوس"
+        },
+        {
+            "Code": "108632",
+            "Name": "Tyros",
+            "NameAr": "تيروس"
+        },
+        {
+            "Code": "140093",
+            "Name": "Tzamarelata",
+            "NameAr": "تزاماريلاتا"
+        },
+        {
+            "Code": "140691",
+            "Name": "Tzamaria",
+            "NameAr": "تزاماريا"
+        },
+        {
+            "Code": "141539",
+            "Name": "Tzaneria",
+            "NameAr": "تزانيريا"
+        },
+        {
+            "Code": "107840",
+            "Name": "Tzoumerka",
+            "NameAr": "تزووميركا"
+        },
+        {
+            "Code": "141589",
+            "Name": "Vafios",
+            "NameAr": "فافيوس"
+        },
+        {
+            "Code": "140742",
+            "Name": "Vafkeri",
+            "NameAr": "فافكيري"
+        },
+        {
+            "Code": "141117",
+            "Name": "Vagia,   Attica",
+            "NameAr": "فاجيا اتتيكا"
+        },
+        {
+            "Code": "161069",
+            "Name": "Valsamata",
+            "NameAr": "فالساماتا"
+        },
+        {
+            "Code": "141611",
+            "Name": "Valtessiniko",
+            "NameAr": "فالتيسسينيكو"
+        },
+        {
+            "Code": "141612",
+            "Name": "Valtos-Strand",
+            "NameAr": "فالتوس-ستراند"
+        },
+        {
+            "Code": "141446",
+            "Name": "Vamos",
+            "NameAr": "فاموس"
+        },
+        {
+            "Code": "141975",
+            "Name": "Vari,   Attica",
+            "NameAr": "فاري اتتيكا"
+        },
+        {
+            "Code": "406510",
+            "Name": "Vari",
+            "NameAr": "فاري"
+        },
+        {
+            "Code": "141151",
+            "Name": "Varia",
+            "NameAr": "فاريا"
+        },
+        {
+            "Code": "141977",
+            "Name": "Varkiza,   Attica",
+            "NameAr": "فاركيزا اتتيكا"
+        },
+        {
+            "Code": "141456",
+            "Name": "Vartholomio,   Peloponnese",
+            "NameAr": "فارتهولوميو بيلوبوننيسي"
+        },
+        {
+            "Code": "141152",
+            "Name": "Vasilitsi",
+            "NameAr": "فاسيليتسي"
+        },
+        {
+            "Code": "337055",
+            "Name": "Vasilopoulo",
+            "NameAr": "فاسيلوبوولو"
+        },
+        {
+            "Code": "141981",
+            "Name": "Vassilatika",
+            "NameAr": "فاسسيلاتيكا"
+        },
+        {
+            "Code": "142544",
+            "Name": "Vassilias,   Sporades Islands",
+            "NameAr": "فاسسيلياس سبوراديس يسلاندس"
+        },
+        {
+            "Code": "140608",
+            "Name": "Vassiliki,   Ionian Islands",
+            "NameAr": "فاسسيليكي يونيان يسلاندس"
+        },
+        {
+            "Code": "148438",
+            "Name": "Vassilikos,   Ionian Islands",
+            "NameAr": "فاسسيليكوس يونيان يسلاندس"
+        },
+        {
+            "Code": "148441",
+            "Name": "Vatera",
+            "NameAr": "فاتيرا"
+        },
+        {
+            "Code": "161068",
+            "Name": "Vathi",
+            "NameAr": "فاتهي"
+        },
+        {
+            "Code": "141154",
+            "Name": "Vathy",
+            "NameAr": "فاتهي"
+        },
+        {
+            "Code": "141155",
+            "Name": "Vatopedi",
+            "NameAr": "فاتوبيدي"
+        },
+        {
+            "Code": "142546",
+            "Name": "Vatos",
+            "NameAr": "فاتوس"
+        },
+        {
+            "Code": "142547",
+            "Name": "Vatsa",
+            "NameAr": "فاتسا"
+        },
+        {
+            "Code": "417882",
+            "Name": "Velika,   Thessaly",
+            "NameAr": "فيليكا تهيسسالي"
+        },
+        {
+            "Code": "141311",
+            "Name": "Vergina",
+            "NameAr": "فيرجينا"
+        },
+        {
+            "Code": "148472",
+            "Name": "Veria",
+            "NameAr": "فيريا"
+        },
+        {
+            "Code": "142301",
+            "Name": "Veroia",
+            "NameAr": "فيرويا"
+        },
+        {
+            "Code": "148478",
+            "Name": "Vessa",
+            "NameAr": "فيسسا"
+        },
+        {
+            "Code": "148494",
+            "Name": "Vigla",
+            "NameAr": "فيجلا"
+        },
+        {
+            "Code": "107382",
+            "Name": "Vilia",
+            "NameAr": "فيليا"
+        },
+        {
+            "Code": "148543",
+            "Name": "Visitsa",
+            "NameAr": "فيسيتسا"
+        },
+        {
+            "Code": "417896",
+            "Name": "Vissani,   Epirus",
+            "NameAr": "فيسساني يبيروس"
+        },
+        {
+            "Code": "148545",
+            "Name": "Vitalades",
+            "NameAr": "فيتالاديس"
+        },
+        {
+            "Code": "140932",
+            "Name": "Vitsa",
+            "NameAr": "فيتسا"
+        },
+        {
+            "Code": "142204",
+            "Name": "Vivari",
+            "NameAr": "فيفاري"
+        },
+        {
+            "Code": "391347",
+            "Name": "Vivlos,   Cyclades Islands",
+            "NameAr": "فيفلوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "140934",
+            "Name": "Vlacheronitissa",
+            "NameAr": "فلاكهيرونيتيسسا"
+        },
+        {
+            "Code": "142363",
+            "Name": "Vlahiana",
+            "NameAr": "فلاهيانا"
+        },
+        {
+            "Code": "107880",
+            "Name": "Vlicho",
+            "NameAr": "فليكهو"
+        },
+        {
+            "Code": "160942",
+            "Name": "Vlycha",
+            "NameAr": "فليكها"
+        },
+        {
+            "Code": "142209",
+            "Name": "Vlychada,   Cyclades Islands",
+            "NameAr": "فليكهادا كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "142212",
+            "Name": "Volada",
+            "NameAr": "فولادا"
+        },
+        {
+            "Code": "143199",
+            "Name": "Volakas",
+            "NameAr": "فولاكاس"
+        },
+        {
+            "Code": "141380",
+            "Name": "Volimes",
+            "NameAr": "فوليميس"
+        },
+        {
+            "Code": "143202",
+            "Name": "Volissos",
+            "NameAr": "فوليسسوس"
+        },
+        {
+            "Code": "141915",
+            "Name": "Volos,   Thessaly",
+            "NameAr": "فولوس تهيسسالي"
+        },
+        {
+            "Code": "106415",
+            "Name": "Vothonas",
+            "NameAr": "فوتهوناس"
+        },
+        {
+            "Code": "142378",
+            "Name": "Votsalakia-Kambos,   North Aegean",
+            "NameAr": "فوتسالاكيا-كامبوس نورته ايجيان"
+        },
+        {
+            "Code": "142745",
+            "Name": "Votsi",
+            "NameAr": "فوتسي"
+        },
+        {
+            "Code": "140945",
+            "Name": "Voula,   Attica",
+            "NameAr": "فوولا اتتيكا"
+        },
+        {
+            "Code": "142746",
+            "Name": "Vouliagmeni,   Attica",
+            "NameAr": "فوولياجميني اتتيكا"
+        },
+        {
+            "Code": "148568",
+            "Name": "Vounaria,   Peloponnese",
+            "NameAr": "فووناريا بيلوبوننيسي"
+        },
+        {
+            "Code": "142222",
+            "Name": "Vouno",
+            "NameAr": "فوونو"
+        },
+        {
+            "Code": "160943",
+            "Name": "Vourgareli",
+            "NameAr": "فوورجاريلي"
+        },
+        {
+            "Code": "141920",
+            "Name": "Vourvoulos,   Cyclades Islands",
+            "NameAr": "فوورفوولوس كيكلاديس يسلاندس"
+        },
+        {
+            "Code": "142379",
+            "Name": "Vourvourou,   Central Macedonia",
+            "NameAr": "فوورفووروو كينترال ماكيدونيا"
+        },
+        {
+            "Code": "161070",
+            "Name": "Vovikes",
+            "NameAr": "فوفيكيس"
+        },
+        {
+            "Code": "143207",
+            "Name": "Vrachati",
+            "NameAr": "فراكهاتي"
+        },
+        {
+            "Code": "141390",
+            "Name": "Vrachos",
+            "NameAr": "فراكهوس"
+        },
+        {
+            "Code": "140947",
+            "Name": "Vrahassi Lassithi",
+            "NameAr": "فراهاسسي لاسسيتهي"
+        },
+        {
+            "Code": "142223",
+            "Name": "Vrastama",
+            "NameAr": "فراستاما"
+        },
+        {
+            "Code": "142224",
+            "Name": "Vravrona,   Attica",
+            "NameAr": "فرافرونا اتتيكا"
+        },
+        {
+            "Code": "148575",
+            "Name": "Vromolithos",
+            "NameAr": "فروموليتهوس"
+        },
+        {
+            "Code": "142384",
+            "Name": "Vrontados",
+            "NameAr": "فرونتادوس"
+        },
+        {
+            "Code": "142389",
+            "Name": "Vytina,   Peloponnese",
+            "NameAr": "فيتينا بيلوبوننيسي"
+        },
+        {
+            "Code": "160500",
+            "Name": "West Mani,   Peloponnese",
+            "NameAr": "ويست ماني بيلوبوننيسي"
+        },
+        {
+            "Code": "142436",
+            "Name": "Xanthates",
+            "NameAr": "كسانتهاتيس"
+        },
+        {
+            "Code": "142889",
+            "Name": "Xanthi,   Thrace",
+            "NameAr": "كسانتهي تهراكي"
+        },
+        {
+            "Code": "143631",
+            "Name": "Xerokambos",
+            "NameAr": "كسيروكامبوس"
+        },
+        {
+            "Code": "143632",
+            "Name": "Xeropigado",
+            "NameAr": "كسيروبيجادو"
+        },
+        {
+            "Code": "143633",
+            "Name": "Xi Katogis",
+            "NameAr": "كسي كاتوجيس"
+        },
+        {
+            "Code": "143321",
+            "Name": "Xirokambi",
+            "NameAr": "كسيروكامبي"
+        },
+        {
+            "Code": "412119",
+            "Name": "Xirokastello",
+            "NameAr": "كسيروكاستيللو"
+        },
+        {
+            "Code": "160758",
+            "Name": "Xiropigado",
+            "NameAr": "كسيروبيجادو"
+        },
+        {
+            "Code": "142898",
+            "Name": "Xylokastro,   Peloponnese",
+            "NameAr": "كسيلوكاسترو بيلوبوننيسي"
+        },
+        {
+            "Code": "143638",
+            "Name": "Yaliscari",
+            "NameAr": "ياليسكاري"
+        },
+        {
+            "Code": "143895",
+            "Name": "Yennadio",
+            "NameAr": "يينناديو"
+        },
+        {
+            "Code": "143521",
+            "Name": "Ypsos",
+            "NameAr": "يبسوس"
+        },
+        {
+            "Code": "142477",
+            "Name": "Zacharo,   Peloponnese",
+            "NameAr": "زاكهارو بيلوبوننيسي"
+        },
+        {
+            "Code": "143343",
+            "Name": "Zagora,   Thessaly",
+            "NameAr": "زاجورا تهيسسالي"
+        },
+        {
+            "Code": "161096",
+            "Name": "Zagora–Mouresi",
+            "NameAr": "زاجورا مووريسي"
+        },
+        {
+            "Code": "150227",
+            "Name": "Zagori,   Epirus",
+            "NameAr": "زاجوري يبيروس"
+        },
+        {
+            "Code": "143912",
+            "Name": "Zagori-Berge",
+            "NameAr": "زاجوري-بيرجي"
+        },
+        {
+            "Code": "160944",
+            "Name": "Zagorochoria",
+            "NameAr": "زاجوروكهوريا"
+        },
+        {
+            "Code": "148894",
+            "Name": "Zakynthos,   Ionian Islands",
+            "NameAr": "زاكينتهوس يونيان يسلاندس"
+        },
+        {
+            "Code": "143916",
+            "Name": "Zante",
+            "NameAr": "زانتي"
+        },
+        {
+            "Code": "143825",
+            "Name": "Zaros",
+            "NameAr": "زاروس"
+        },
+        {
+            "Code": "148823",
+            "Name": "Zorkos",
+            "NameAr": "زوركوس"
+        },
+        {
+            "Code": "160811",
+            "Name": "Zourva,   crete",
+            "NameAr": "زوورفا كريتي"
+        }
+    ],
+    "totalCities": 1441
+}

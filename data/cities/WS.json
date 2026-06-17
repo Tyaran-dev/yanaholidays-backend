@@ -1,0 +1,52 @@
+{
+    "id": "WS",
+    "countryCode": "WS",
+    "cities": [
+        {
+            "Code": "100925",
+            "Name": "Apia",
+            "NameAr": "ابيا"
+        },
+        {
+            "Code": "150552",
+            "Name": "Asau",
+            "NameAr": "اساو"
+        },
+        {
+            "Code": "125947",
+            "Name": "Lefaga",
+            "NameAr": "ليفاجا"
+        },
+        {
+            "Code": "103790",
+            "Name": "Manase",
+            "NameAr": "ماناسي"
+        },
+        {
+            "Code": "135153",
+            "Name": "Saanapu",
+            "NameAr": "ساانابو"
+        },
+        {
+            "Code": "136105",
+            "Name": "Savai'i",
+            "NameAr": "سافايي"
+        },
+        {
+            "Code": "137623",
+            "Name": "Siumu",
+            "NameAr": "سيومو"
+        },
+        {
+            "Code": "140550",
+            "Name": "Upolu",
+            "NameAr": "وبولو"
+        },
+        {
+            "Code": "107454",
+            "Name": "Vaitele",
+            "NameAr": "فايتيلي"
+        }
+    ],
+    "totalCities": 9
+}

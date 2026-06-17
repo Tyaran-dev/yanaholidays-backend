@@ -1,0 +1,92 @@
+{
+    "id": "LC",
+    "countryCode": "LC",
+    "cities": [
+        {
+            "Code": "113829",
+            "Name": "Cape Estate",
+            "NameAr": "كابي يستاتي"
+        },
+        {
+            "Code": "114016",
+            "Name": "Castries",
+            "NameAr": "كاسترييس"
+        },
+        {
+            "Code": "115766",
+            "Name": "Choc Bay",
+            "NameAr": "كهوك باي"
+        },
+        {
+            "Code": "120023",
+            "Name": "Gros Islet",
+            "NameAr": "جروس يسليت"
+        },
+        {
+            "Code": "122438",
+            "Name": "Jacks Beach",
+            "NameAr": "جاككس بياكه"
+        },
+        {
+            "Code": "125028",
+            "Name": "La Brelotte Bay",
+            "NameAr": "لا بريلوتتي باي"
+        },
+        {
+            "Code": "105548",
+            "Name": "La Pointe",
+            "NameAr": "لا بوينتي"
+        },
+        {
+            "Code": "124751",
+            "Name": "Laborie",
+            "NameAr": "لابوريي"
+        },
+        {
+            "Code": "126943",
+            "Name": "Malabar Beach",
+            "NameAr": "مالابار بياكه"
+        },
+        {
+            "Code": "127491",
+            "Name": "Marigot Bay",
+            "NameAr": "ماريجوت باي"
+        },
+        {
+            "Code": "128262",
+            "Name": "Micoud",
+            "NameAr": "ميكوود"
+        },
+        {
+            "Code": "128641",
+            "Name": "Mon Repos",
+            "NameAr": "مون ريبوس"
+        },
+        {
+            "Code": "134233",
+            "Name": "Reduit Beach",
+            "NameAr": "ريدويت بياكه"
+        },
+        {
+            "Code": "134522",
+            "Name": "Rodney Bay",
+            "NameAr": "رودنيي باي"
+        },
+        {
+            "Code": "138150",
+            "Name": "Soufriere",
+            "NameAr": "سووفرييري"
+        },
+        {
+            "Code": "139477",
+            "Name": "St. Lucia",
+            "NameAr": "ست لوكيا"
+        },
+        {
+            "Code": "142581",
+            "Name": "Vieux Fort",
+            "NameAr": "فييوكس فورت"
+        }
+    ],
+    "totalCities": 17
+}

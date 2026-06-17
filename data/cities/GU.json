@@ -1,0 +1,42 @@
+{
+    "id": "GU",
+    "countryCode": "GU",
+    "cities": [
+        {
+            "Code": "100137",
+            "Name": "Agat",
+            "NameAr": "اجات"
+        },
+        {
+            "Code": "110440",
+            "Name": "Barrigada",
+            "NameAr": "بارريجادا"
+        },
+        {
+            "Code": "121119",
+            "Name": "Guam",
+            "NameAr": "جوام"
+        },
+        {
+            "Code": "126808",
+            "Name": "Mangilao",
+            "NameAr": "مانجيلاو"
+        },
+        {
+            "Code": "139016",
+            "Name": "Tamuning",
+            "NameAr": "تامونينج"
+        },
+        {
+            "Code": "143648",
+            "Name": "Yigo",
+            "NameAr": "ييجو"
+        },
+        {
+            "Code": "143333",
+            "Name": "Yona",
+            "NameAr": "يونا"
+        }
+    ],
+    "totalCities": 7
+}

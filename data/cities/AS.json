@@ -1,0 +1,17 @@
+{
+    "id": "AS",
+    "countryCode": "AS",
+    "cities": [
+        {
+            "Code": "147065",
+            "Name": "Pago Pago",
+            "NameAr": "باجو باجو"
+        },
+        {
+            "Code": "148352",
+            "Name": "Tutuila Island",
+            "NameAr": "توتويلا يسلاند"
+        }
+    ],
+    "totalCities": 2
+}

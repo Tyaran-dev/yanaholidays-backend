@@ -1,0 +1,42 @@
+{
+    "id": "BH",
+    "countryCode": "BH",
+    "cities": [
+        {
+            "Code": "100489",
+            "Name": "Al Areen",
+            "NameAr": "ال اريين"
+        },
+        {
+            "Code": "109723",
+            "Name": "Bahrain",
+            "NameAr": "باهراين"
+        },
+        {
+            "Code": "119979",
+            "Name": "Hawar",
+            "NameAr": "هاوار"
+        },
+        {
+            "Code": "126389",
+            "Name": "Manama",
+            "NameAr": "ماناما"
+        },
+        {
+            "Code": "128566",
+            "Name": "Muharrak",
+            "NameAr": "موهارراك"
+        },
+        {
+            "Code": "137253",
+            "Name": "Seef",
+            "NameAr": "سييف"
+        },
+        {
+            "Code": "147932",
+            "Name": "Sitrah",
+            "NameAr": "سيتراه"
+        }
+    ],
+    "totalCities": 7
+}

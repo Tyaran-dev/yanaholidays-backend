@@ -1,0 +1,207 @@
+{
+    "id": "SC",
+    "countryCode": "SC",
+    "cities": [
+        {
+            "Code": "100315",
+            "Name": "Alphonse Island",
+            "NameAr": "البهونسي يسلاند"
+        },
+        {
+            "Code": "109318",
+            "Name": "Amitie",
+            "NameAr": "اميتيي"
+        },
+        {
+            "Code": "109345",
+            "Name": "Anonyme Island",
+            "NameAr": "انونيمي يسلاند"
+        },
+        {
+            "Code": "101020",
+            "Name": "Anse a la Mouche",
+            "NameAr": "انسي ا لا مووكهي"
+        },
+        {
+            "Code": "295076",
+            "Name": "Anse aux Pins",
+            "NameAr": "انسي اوكس بينس"
+        },
+        {
+            "Code": "295575",
+            "Name": "Anse Boileau",
+            "NameAr": "انسي بويلياو"
+        },
+        {
+            "Code": "109227",
+            "Name": "Anse Bois de Rose",
+            "NameAr": "انسي بويس دي روسي"
+        },
+        {
+            "Code": "109349",
+            "Name": "Anse Forbans",
+            "NameAr": "انسي فوربانس"
+        },
+        {
+            "Code": "109470",
+            "Name": "Anse Intendance",
+            "NameAr": "انسي ينتيندانكي"
+        },
+        {
+            "Code": "101021",
+            "Name": "Anse Kerlan",
+            "NameAr": "انسي كيرلان"
+        },
+        {
+            "Code": "101022",
+            "Name": "Anse Louis",
+            "NameAr": "انسي لوويس"
+        },
+        {
+            "Code": "294024",
+            "Name": "Anse Royale",
+            "NameAr": "انسي رويالي"
+        },
+        {
+            "Code": "109140",
+            "Name": "Anse Takamaka",
+            "NameAr": "انسي تاكاماكا"
+        },
+        {
+            "Code": "110157",
+            "Name": "Baie Lazare",
+            "NameAr": "بايي لازاري"
+        },
+        {
+            "Code": "110959",
+            "Name": "Baie St. Anne",
+            "NameAr": "بايي ست انني"
+        },
+        {
+            "Code": "110462",
+            "Name": "Beau Vallon",
+            "NameAr": "بياو فاللون"
+        },
+        {
+            "Code": "111635",
+            "Name": "Bel Ombre",
+            "NameAr": "بيل ومبري"
+        },
+        {
+            "Code": "111310",
+            "Name": "Bird Island",
+            "NameAr": "بيرد يسلاند"
+        },
+        {
+            "Code": "114586",
+            "Name": "Cerf Island",
+            "NameAr": "كيرف يسلاند"
+        },
+        {
+            "Code": "115044",
+            "Name": "Cote d Or Beach",
+            "NameAr": "كوتي د ور بياكه"
+        },
+        {
+            "Code": "115128",
+            "Name": "Cousine Island",
+            "NameAr": "كووسيني يسلاند"
+        },
+        {
+            "Code": "116172",
+            "Name": "Denis Island",
+            "NameAr": "دينيس يسلاند"
+        },
+        {
+            "Code": "115872",
+            "Name": "Desroches Island",
+            "NameAr": "ديسروكهيس يسلاند"
+        },
+        {
+            "Code": "291065",
+            "Name": "Eden Island",
+            "NameAr": "يدين يسلاند"
+        },
+        {
+            "Code": "160749",
+            "Name": "Enchanted Island",
+            "NameAr": "ينكهانتيد يسلاند"
+        },
+        {
+            "Code": "117311",
+            "Name": "Felicite Island",
+            "NameAr": "فيليكيتي يسلاند"
+        },
+        {
+            "Code": "118624",
+            "Name": "Fregate Island",
+            "NameAr": "فريجاتي يسلاند"
+        },
+        {
+            "Code": "119280",
+            "Name": "Glacis",
+            "NameAr": "جلاكيس"
+        },
+        {
+            "Code": "360492",
+            "Name": "Grand Anse Beach",
+            "NameAr": "جراند انسي بياكه"
+        },
+        {
+            "Code": "123382",
+            "Name": "La Digue Island",
+            "NameAr": "لا ديجوي يسلاند"
+        },
+        {
+            "Code": "123949",
+            "Name": "La Passe",
+            "NameAr": "لا باسسي"
+        },
+        {
+            "Code": "126767",
+            "Name": "Mahe Island",
+            "NameAr": "ماهي يسلاند"
+        },
+        {
+            "Code": "299906",
+            "Name": "Pointe Au Sel",
+            "NameAr": "بوينتي او سيل"
+        },
+        {
+            "Code": "147291",
+            "Name": "Port Glaud",
+            "NameAr": "بورت جلاود"
+        },
+        {
+            "Code": "134315",
+            "Name": "Praslin Island",
+            "NameAr": "براسلين يسلاند"
+        },
+        {
+            "Code": "134564",
+            "Name": "Round Island",
+            "NameAr": "رووند يسلاند"
+        },
+        {
+            "Code": "147631",
+            "Name": "Sainte Anne Island",
+            "NameAr": "ساينتي انني يسلاند"
+        },
+        {
+            "Code": "150282",
+            "Name": "Seychelles",
+            "NameAr": "سييكهيلليس"
+        },
+        {
+            "Code": "137993",
+            "Name": "Silhouette Island",
+            "NameAr": "سيلهوويتتي يسلاند"
+        },
+        {
+            "Code": "148486",
+            "Name": "Victoria",
+            "NameAr": "فيكتوريا"
+        }
+    ],
+    "totalCities": 40
+}

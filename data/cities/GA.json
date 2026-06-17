@@ -1,0 +1,37 @@
+{
+    "id": "GA",
+    "countryCode": "GA",
+    "cities": [
+        {
+            "Code": "148923",
+            "Name": "Franceville",
+            "NameAr": "فرانكيفيللي"
+        },
+        {
+            "Code": "121455",
+            "Name": "Iguela Lagoon",
+            "NameAr": "يجويلا لاجوون"
+        },
+        {
+            "Code": "150621",
+            "Name": "Lastourville",
+            "NameAr": "لاستوورفيللي"
+        },
+        {
+            "Code": "125836",
+            "Name": "Libreville",
+            "NameAr": "ليبريفيللي"
+        },
+        {
+            "Code": "148919",
+            "Name": "Omboue",
+            "NameAr": "ومبووي"
+        },
+        {
+            "Code": "131833",
+            "Name": "Port Gentil",
+            "NameAr": "بورت جينتيل"
+        }
+    ],
+    "totalCities": 6
+}

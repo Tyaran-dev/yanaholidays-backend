@@ -1,0 +1,52 @@
+{
+    "id": "BT",
+    "countryCode": "BT",
+    "cities": [
+        {
+            "Code": "113080",
+            "Name": "Bumthang",
+            "NameAr": "بومتهانج"
+        },
+        {
+            "Code": "118556",
+            "Name": "Gangtey",
+            "NameAr": "جانجتيي"
+        },
+        {
+            "Code": "103832",
+            "Name": "Mongar",
+            "NameAr": "مونجار"
+        },
+        {
+            "Code": "132694",
+            "Name": "Paro",
+            "NameAr": "بارو"
+        },
+        {
+            "Code": "132158",
+            "Name": "Phuentsholing",
+            "NameAr": "بهوينتسهولينج"
+        },
+        {
+            "Code": "134361",
+            "Name": "Punakha",
+            "NameAr": "بوناكها"
+        },
+        {
+            "Code": "139080",
+            "Name": "Thimphu",
+            "NameAr": "تهيمبهو"
+        },
+        {
+            "Code": "140841",
+            "Name": "Trongsa",
+            "NameAr": "ترونجسا"
+        },
+        {
+            "Code": "402854",
+            "Name": "Wangdue Phodrang",
+            "NameAr": "وانجدوي بهودرانج"
+        }
+    ],
+    "totalCities": 9
+}

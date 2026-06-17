@@ -1,0 +1,62 @@
+{
+    "id": "VI",
+    "countryCode": "VI",
+    "cities": [
+        {
+            "Code": "114615",
+            "Name": "Charlotte Amalie",
+            "NameAr": "كهارلوتتي اماليي"
+        },
+        {
+            "Code": "118363",
+            "Name": "Frederiksted",
+            "NameAr": "فريديريكستيد"
+        },
+        {
+            "Code": "399228",
+            "Name": "Frydendal",
+            "NameAr": "فريديندال"
+        },
+        {
+            "Code": "119062",
+            "Name": "Gallows Bay",
+            "NameAr": "جاللووس باي"
+        },
+        {
+            "Code": "120420",
+            "Name": "Great Bay",
+            "NameAr": "جريات باي"
+        },
+        {
+            "Code": "119455",
+            "Name": "Great Cruz Bay",
+            "NameAr": "جريات كروز باي"
+        },
+        {
+            "Code": "387093",
+            "Name": "Nazareth",
+            "NameAr": "نازاريته"
+        },
+        {
+            "Code": "134694",
+            "Name": "Saint Croix",
+            "NameAr": "ساينت كرويكس"
+        },
+        {
+            "Code": "135178",
+            "Name": "Saint John",
+            "NameAr": "ساينت جوهن"
+        },
+        {
+            "Code": "138398",
+            "Name": "St. Thomas",
+            "NameAr": "ست تهوماس"
+        },
+        {
+            "Code": "152168",
+            "Name": "U.S. Virgin Islands",
+            "NameAr": "و س فيرجين يسلاندس"
+        }
+    ],
+    "totalCities": 11
+}

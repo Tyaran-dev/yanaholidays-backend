@@ -1,0 +1,32 @@
+{
+    "id": "CK",
+    "countryCode": "CK",
+    "cities": [
+        {
+            "Code": "100070",
+            "Name": "Aitutaki",
+            "NameAr": "ايتوتاكي"
+        },
+        {
+            "Code": "110080",
+            "Name": "Atiu",
+            "NameAr": "اتيو"
+        },
+        {
+            "Code": "126395",
+            "Name": "Mangaia Island",
+            "NameAr": "مانجايا يسلاند"
+        },
+        {
+            "Code": "129452",
+            "Name": "Ngatangiia",
+            "NameAr": "نجاتانجييا"
+        },
+        {
+            "Code": "134055",
+            "Name": "Rarotonga",
+            "NameAr": "راروتونجا"
+        }
+    ],
+    "totalCities": 5
+}

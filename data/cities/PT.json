@@ -1,0 +1,2867 @@
+{
+    "id": "PT",
+    "countryCode": "PT",
+    "cities": [
+        {
+            "Code": "100645",
+            "Name": "Abela",
+            "NameAr": "ابيلا"
+        },
+        {
+            "Code": "100221",
+            "Name": "Abrantes",
+            "NameAr": "ابرانتيس"
+        },
+        {
+            "Code": "100460",
+            "Name": "Afif",
+            "NameAr": "افيف"
+        },
+        {
+            "Code": "100361",
+            "Name": "Agua de Madeiros",
+            "NameAr": "اجوا دي مادييروس"
+        },
+        {
+            "Code": "100259",
+            "Name": "Agua de Pau",
+            "NameAr": "اجوا دي باو"
+        },
+        {
+            "Code": "100051",
+            "Name": "Aguas de Moura",
+            "NameAr": "اجواس دي موورا"
+        },
+        {
+            "Code": "100592",
+            "Name": "Agueda",
+            "NameAr": "اجويدا"
+        },
+        {
+            "Code": "100081",
+            "Name": "Alandroal",
+            "NameAr": "الاندروال"
+        },
+        {
+            "Code": "100499",
+            "Name": "Albergaria-a-Velha",
+            "NameAr": "البيرجاريا-ا-فيلها"
+        },
+        {
+            "Code": "100500",
+            "Name": "Albernoa",
+            "NameAr": "البيرنوا"
+        },
+        {
+            "Code": "100502",
+            "Name": "Albufeira,   Algarve",
+            "NameAr": "البوفييرا الجارفي"
+        },
+        {
+            "Code": "100626",
+            "Name": "Alcabideche",
+            "NameAr": "الكابيديكهي"
+        },
+        {
+            "Code": "100397",
+            "Name": "Alcacer do Sal",
+            "NameAr": "الكاكير دو سال"
+        },
+        {
+            "Code": "100174",
+            "Name": "Alcacovas",
+            "NameAr": "الكاكوفاس"
+        },
+        {
+            "Code": "100709",
+            "Name": "Alcalar",
+            "NameAr": "الكالار"
+        },
+        {
+            "Code": "100402",
+            "Name": "Alcanena",
+            "NameAr": "الكانينا"
+        },
+        {
+            "Code": "100176",
+            "Name": "Alcantarilha",
+            "NameAr": "الكانتاريلها"
+        },
+        {
+            "Code": "100830",
+            "Name": "Alcobaca",
+            "NameAr": "الكوباكا"
+        },
+        {
+            "Code": "100832",
+            "Name": "Alcochete",
+            "NameAr": "الكوكهيتي"
+        },
+        {
+            "Code": "100833",
+            "Name": "Alcoutim",
+            "NameAr": "الكووتيم"
+        },
+        {
+            "Code": "100097",
+            "Name": "Aldeia da Serra",
+            "NameAr": "الدييا دا سيررا"
+        },
+        {
+            "Code": "100098",
+            "Name": "Aldeia das Dez",
+            "NameAr": "الدييا داس ديز"
+        },
+        {
+            "Code": "100406",
+            "Name": "Aldeia do Mato",
+            "NameAr": "الدييا دو ماتو"
+        },
+        {
+            "Code": "100633",
+            "Name": "Alenquer",
+            "NameAr": "الينقوير"
+        },
+        {
+            "Code": "150690",
+            "Name": "Alentejo",
+            "NameAr": "الينتيجو"
+        },
+        {
+            "Code": "100840",
+            "Name": "Alfandega da Fe",
+            "NameAr": "الفانديجا دا في"
+        },
+        {
+            "Code": "104989",
+            "Name": "Alfundao",
+            "NameAr": "الفونداو"
+        },
+        {
+            "Code": "109516",
+            "Name": "Algarve",
+            "NameAr": "الجارفي"
+        },
+        {
+            "Code": "106081",
+            "Name": "Algoz",
+            "NameAr": "الجوز"
+        },
+        {
+            "Code": "100516",
+            "Name": "Alijo",
+            "NameAr": "اليجو"
+        },
+        {
+            "Code": "100520",
+            "Name": "Aljezur",
+            "NameAr": "الجيزور"
+        },
+        {
+            "Code": "100422",
+            "Name": "Aljubarrota",
+            "NameAr": "الجوبارروتا"
+        },
+        {
+            "Code": "100306",
+            "Name": "Aljustrel",
+            "NameAr": "الجوستريل"
+        },
+        {
+            "Code": "109400",
+            "Name": "Almada",
+            "NameAr": "المادا"
+        },
+        {
+            "Code": "109528",
+            "Name": "Almancil",
+            "NameAr": "المانكيل"
+        },
+        {
+            "Code": "109403",
+            "Name": "Almeida",
+            "NameAr": "المييدا"
+        },
+        {
+            "Code": "109063",
+            "Name": "Almeirim",
+            "NameAr": "المييريم"
+        },
+        {
+            "Code": "102156",
+            "Name": "Almodovar",
+            "NameAr": "المودوفار"
+        },
+        {
+            "Code": "101096",
+            "Name": "Alpalhao",
+            "NameAr": "البالهاو"
+        },
+        {
+            "Code": "100205",
+            "Name": "Alpiarca",
+            "NameAr": "البياركا"
+        },
+        {
+            "Code": "109286",
+            "Name": "Alqueva",
+            "NameAr": "القويفا"
+        },
+        {
+            "Code": "109079",
+            "Name": "Alte",
+            "NameAr": "التي"
+        },
+        {
+            "Code": "109084",
+            "Name": "Alter do Chao",
+            "NameAr": "التير دو كهاو"
+        },
+        {
+            "Code": "109541",
+            "Name": "Altura",
+            "NameAr": "التورا"
+        },
+        {
+            "Code": "109543",
+            "Name": "Alvados",
+            "NameAr": "الفادوس"
+        },
+        {
+            "Code": "109306",
+            "Name": "Alvalade",
+            "NameAr": "الفالادي"
+        },
+        {
+            "Code": "100978",
+            "Name": "Alvito",
+            "NameAr": "الفيتو"
+        },
+        {
+            "Code": "101115",
+            "Name": "Alvor,   Algarve",
+            "NameAr": "الفور الجارفي"
+        },
+        {
+            "Code": "109191",
+            "Name": "Amadora",
+            "NameAr": "امادورا"
+        },
+        {
+            "Code": "109546",
+            "Name": "Amarante",
+            "NameAr": "امارانتي"
+        },
+        {
+            "Code": "100985",
+            "Name": "Amares",
+            "NameAr": "اماريس"
+        },
+        {
+            "Code": "109197",
+            "Name": "Amiais de Cima",
+            "NameAr": "اميايس دي كيما"
+        },
+        {
+            "Code": "417962",
+            "Name": "Amora,   SETUBAL",
+            "NameAr": "امورا سيتوبال"
+        },
+        {
+            "Code": "109560",
+            "Name": "Anadia",
+            "NameAr": "اناديا"
+        },
+        {
+            "Code": "101142",
+            "Name": "Angra do Heroismo",
+            "NameAr": "انجرا دو هيرويسمو"
+        },
+        {
+            "Code": "101037",
+            "Name": "Apulia",
+            "NameAr": "ابوليا"
+        },
+        {
+            "Code": "109049",
+            "Name": "Arco da Calheta",
+            "NameAr": "اركو دا كالهيتا"
+        },
+        {
+            "Code": "109050",
+            "Name": "Arco de Sao Jorge",
+            "NameAr": "اركو دي ساو جورجي"
+        },
+        {
+            "Code": "109611",
+            "Name": "Arcos",
+            "NameAr": "اركوس"
+        },
+        {
+            "Code": "109166",
+            "Name": "Arcos de Valdevez",
+            "NameAr": "اركوس دي فالديفيز"
+        },
+        {
+            "Code": "109258",
+            "Name": "Arganil",
+            "NameAr": "ارجانيل"
+        },
+        {
+            "Code": "100946",
+            "Name": "Aricera",
+            "NameAr": "اريكيرا"
+        },
+        {
+            "Code": "109863",
+            "Name": "Armacao de Pera",
+            "NameAr": "ارماكاو دي بيرا"
+        },
+        {
+            "Code": "110189",
+            "Name": "Armamar",
+            "NameAr": "ارمامار"
+        },
+        {
+            "Code": "109971",
+            "Name": "Aroeira",
+            "NameAr": "اروييرا"
+        },
+        {
+            "Code": "109272",
+            "Name": "Arouca",
+            "NameAr": "ارووكا"
+        },
+        {
+            "Code": "109975",
+            "Name": "Arraiolos",
+            "NameAr": "اررايولوس"
+        },
+        {
+            "Code": "100958",
+            "Name": "Arronches",
+            "NameAr": "اررونكهيس"
+        },
+        {
+            "Code": "110200",
+            "Name": "Arruda dos Vinhos",
+            "NameAr": "اررودا دوس فينهوس"
+        },
+        {
+            "Code": "110225",
+            "Name": "Assafora",
+            "NameAr": "اسسافورا"
+        },
+        {
+            "Code": "110334",
+            "Name": "Atouguia da Baleia",
+            "NameAr": "اتووجويا دا بالييا"
+        },
+        {
+            "Code": "110024",
+            "Name": "Aveiro",
+            "NameAr": "افييرو"
+        },
+        {
+            "Code": "105015",
+            "Name": "Aves",
+            "NameAr": "افيس"
+        },
+        {
+            "Code": "109935",
+            "Name": "Avis",
+            "NameAr": "افيس"
+        },
+        {
+            "Code": "110036",
+            "Name": "Azaruja",
+            "NameAr": "ازاروجا"
+        },
+        {
+            "Code": "110263",
+            "Name": "Azeitao",
+            "NameAr": "ازييتاو"
+        },
+        {
+            "Code": "110037",
+            "Name": "Azenhas do Mar",
+            "NameAr": "ازينهاس دو مار"
+        },
+        {
+            "Code": "110362",
+            "Name": "Azoia",
+            "NameAr": "ازويا"
+        },
+        {
+            "Code": "110039",
+            "Name": "Azoia de Baixo",
+            "NameAr": "ازويا دي بايكسو"
+        },
+        {
+            "Code": "110156",
+            "Name": "Baiao",
+            "NameAr": "باياو"
+        },
+        {
+            "Code": "105122",
+            "Name": "Baleal",
+            "NameAr": "باليال"
+        },
+        {
+            "Code": "110429",
+            "Name": "Barca d'Alva",
+            "NameAr": "باركا دالفا"
+        },
+        {
+            "Code": "110863",
+            "Name": "Barcelos",
+            "NameAr": "باركيلوس"
+        },
+        {
+            "Code": "110873",
+            "Name": "Barril",
+            "NameAr": "بارريل"
+        },
+        {
+            "Code": "110722",
+            "Name": "Barroselas",
+            "NameAr": "بارروسيلاس"
+        },
+        {
+            "Code": "110450",
+            "Name": "Batalha",
+            "NameAr": "باتالها"
+        },
+        {
+            "Code": "111633",
+            "Name": "Beja",
+            "NameAr": "بيجا"
+        },
+        {
+            "Code": "110585",
+            "Name": "Belmonte",
+            "NameAr": "بيلمونتي"
+        },
+        {
+            "Code": "111442",
+            "Name": "Bemposta",
+            "NameAr": "بيمبوستا"
+        },
+        {
+            "Code": "111892",
+            "Name": "Benafilm",
+            "NameAr": "بينافيلم"
+        },
+        {
+            "Code": "111893",
+            "Name": "Benagil",
+            "NameAr": "بيناجيل"
+        },
+        {
+            "Code": "110947",
+            "Name": "Benavente",
+            "NameAr": "بينافينتي"
+        },
+        {
+            "Code": "111344",
+            "Name": "Boaventura",
+            "NameAr": "بوافينتورا"
+        },
+        {
+            "Code": "111366",
+            "Name": "Boliqueime",
+            "NameAr": "بوليقوييمي"
+        },
+        {
+            "Code": "111824",
+            "Name": "Bom Sucesso",
+            "NameAr": "بوم سوكيسسو"
+        },
+        {
+            "Code": "112303",
+            "Name": "Bombarral",
+            "NameAr": "بومباررال"
+        },
+        {
+            "Code": "112457",
+            "Name": "Borba",
+            "NameAr": "بوربا"
+        },
+        {
+            "Code": "112236",
+            "Name": "Bordeira",
+            "NameAr": "بوردييرا"
+        },
+        {
+            "Code": "111393",
+            "Name": "Boticas",
+            "NameAr": "بوتيكاس"
+        },
+        {
+            "Code": "112703",
+            "Name": "Braga",
+            "NameAr": "براجا"
+        },
+        {
+            "Code": "112530",
+            "Name": "Braganca",
+            "NameAr": "براجانكا"
+        },
+        {
+            "Code": "112507",
+            "Name": "Brejos",
+            "NameAr": "بريجوس"
+        },
+        {
+            "Code": "112985",
+            "Name": "Buarcos",
+            "NameAr": "بواركوس"
+        },
+        {
+            "Code": "112594",
+            "Name": "Bucaco",
+            "NameAr": "بوكاكو"
+        },
+        {
+            "Code": "113070",
+            "Name": "Budens - Salema",
+            "NameAr": "بودينس - ساليما"
+        },
+        {
+            "Code": "113223",
+            "Name": "Burgau",
+            "NameAr": "بورجاو"
+        },
+        {
+            "Code": "144453",
+            "Name": "Cabanas",
+            "NameAr": "كاباناس"
+        },
+        {
+            "Code": "113242",
+            "Name": "Cabeceiras de Basto",
+            "NameAr": "كابيكييراس دي باستو"
+        },
+        {
+            "Code": "113105",
+            "Name": "Cabeco de Vide",
+            "NameAr": "كابيكو دي فيدي"
+        },
+        {
+            "Code": "113245",
+            "Name": "Cabrela",
+            "NameAr": "كابريلا"
+        },
+        {
+            "Code": "113296",
+            "Name": "Cachoeiras",
+            "NameAr": "كاكهوييراس"
+        },
+        {
+            "Code": "113129",
+            "Name": "Caldas da Rainha",
+            "NameAr": "كالداس دا راينها"
+        },
+        {
+            "Code": "113052",
+            "Name": "Calheta",
+            "NameAr": "كالهيتا"
+        },
+        {
+            "Code": "113712",
+            "Name": "Caloura",
+            "NameAr": "كالوورا"
+        },
+        {
+            "Code": "113320",
+            "Name": "Camacha",
+            "NameAr": "كاماكها"
+        },
+        {
+            "Code": "113141",
+            "Name": "Camara de Lobos",
+            "NameAr": "كامارا دي لوبوس"
+        },
+        {
+            "Code": "112797",
+            "Name": "Caminha",
+            "NameAr": "كامينها"
+        },
+        {
+            "Code": "113155",
+            "Name": "Campo de Baixo",
+            "NameAr": "كامبو دي بايكسو"
+        },
+        {
+            "Code": "108104",
+            "Name": "Campo Maior",
+            "NameAr": "كامبو مايور"
+        },
+        {
+            "Code": "113932",
+            "Name": "Canas de Senhorim",
+            "NameAr": "كاناس دي سينهوريم"
+        },
+        {
+            "Code": "112898",
+            "Name": "Canicada",
+            "NameAr": "كانيكادا"
+        },
+        {
+            "Code": "113737",
+            "Name": "Canical",
+            "NameAr": "كانيكال"
+        },
+        {
+            "Code": "113738",
+            "Name": "Canico",
+            "NameAr": "كانيكو"
+        },
+        {
+            "Code": "144520",
+            "Name": "Cantonhede",
+            "NameAr": "كانتونهيدي"
+        },
+        {
+            "Code": "113358",
+            "Name": "Capelas",
+            "NameAr": "كابيلاس"
+        },
+        {
+            "Code": "112912",
+            "Name": "Caramulo",
+            "NameAr": "كارامولو"
+        },
+        {
+            "Code": "114193",
+            "Name": "Carcavelos",
+            "NameAr": "كاركافيلوس"
+        },
+        {
+            "Code": "113524",
+            "Name": "Carrazeda de Ansiaes",
+            "NameAr": "كاررازيدا دي انسيايس"
+        },
+        {
+            "Code": "113384",
+            "Name": "Carreco",
+            "NameAr": "كارريكو"
+        },
+        {
+            "Code": "113777",
+            "Name": "Cartaxo",
+            "NameAr": "كارتاكسو"
+        },
+        {
+            "Code": "114208",
+            "Name": "Carvoeiro,   Algarve",
+            "NameAr": "كارفوييرو الجارفي"
+        },
+        {
+            "Code": "114039",
+            "Name": "Cascais",
+            "NameAr": "كاسكايس"
+        },
+        {
+            "Code": "114005",
+            "Name": "Castello de Vide",
+            "NameAr": "كاستيللو دي فيدي"
+        },
+        {
+            "Code": "113548",
+            "Name": "Castelo Branco",
+            "NameAr": "كاستيلو برانكو"
+        },
+        {
+            "Code": "113896",
+            "Name": "Castelo de Bode",
+            "NameAr": "كاستيلو دي بودي"
+        },
+        {
+            "Code": "114053",
+            "Name": "Castelo de Paiva",
+            "NameAr": "كاستيلو دي بايفا"
+        },
+        {
+            "Code": "113810",
+            "Name": "Castro Daire",
+            "NameAr": "كاسترو دايري"
+        },
+        {
+            "Code": "114017",
+            "Name": "Castro Laboreiro",
+            "NameAr": "كاسترو لابورييرو"
+        },
+        {
+            "Code": "144579",
+            "Name": "Castro Marim",
+            "NameAr": "كاسترو ماريم"
+        },
+        {
+            "Code": "113906",
+            "Name": "Castro Verde",
+            "NameAr": "كاسترو فيردي"
+        },
+        {
+            "Code": "105359",
+            "Name": "Cela",
+            "NameAr": "كيلا"
+        },
+        {
+            "Code": "114077",
+            "Name": "Celorico Da Beira",
+            "NameAr": "كيلوريكو دا بييرا"
+        },
+        {
+            "Code": "114078",
+            "Name": "Celorico de Basto",
+            "NameAr": "كيلوريكو دي باستو"
+        },
+        {
+            "Code": "155477",
+            "Name": "Centro",
+            "NameAr": "كينترو"
+        },
+        {
+            "Code": "113585",
+            "Name": "Cercal do Alentejo",
+            "NameAr": "كيركال دو الينتيجو"
+        },
+        {
+            "Code": "105365",
+            "Name": "Cervaes",
+            "NameAr": "كيرفايس"
+        },
+        {
+            "Code": "114618",
+            "Name": "Charneca da Caparica",
+            "NameAr": "كهارنيكا دا كاباريكا"
+        },
+        {
+            "Code": "114963",
+            "Name": "Chaves",
+            "NameAr": "كهافيس"
+        },
+        {
+            "Code": "114734",
+            "Name": "Chenceleiros",
+            "NameAr": "كهينكيلييروس"
+        },
+        {
+            "Code": "144695",
+            "Name": "Cinfaes",
+            "NameAr": "كينفايس"
+        },
+        {
+            "Code": "115816",
+            "Name": "Coimbra",
+            "NameAr": "كويمبرا"
+        },
+        {
+            "Code": "115817",
+            "Name": "Colares",
+            "NameAr": "كولاريس"
+        },
+        {
+            "Code": "144741",
+            "Name": "Colinas Verdes",
+            "NameAr": "كوليناس فيرديس"
+        },
+        {
+            "Code": "115846",
+            "Name": "Comporta",
+            "NameAr": "كومبورتا"
+        },
+        {
+            "Code": "115543",
+            "Name": "Condeixa-a-Nova",
+            "NameAr": "كوندييكسا-ا-نوفا"
+        },
+        {
+            "Code": "115545",
+            "Name": "Constancia",
+            "NameAr": "كونستانكيا"
+        },
+        {
+            "Code": "144781",
+            "Name": "Coruche",
+            "NameAr": "كوروكهي"
+        },
+        {
+            "Code": "150982",
+            "Name": "Corvo Island",
+            "NameAr": "كورفو يسلاند"
+        },
+        {
+            "Code": "144789",
+            "Name": "Cotas",
+            "NameAr": "كوتاس"
+        },
+        {
+            "Code": "115582",
+            "Name": "Coura-Seixas",
+            "NameAr": "كوورا-سييكساس"
+        },
+        {
+            "Code": "115589",
+            "Name": "Covas do Douro",
+            "NameAr": "كوفاس دو دوورو"
+        },
+        {
+            "Code": "115129",
+            "Name": "Covilha",
+            "NameAr": "كوفيلها"
+        },
+        {
+            "Code": "115134",
+            "Name": "Crato",
+            "NameAr": "كراتو"
+        },
+        {
+            "Code": "116111",
+            "Name": "Cuba",
+            "NameAr": "كوبا"
+        },
+        {
+            "Code": "115173",
+            "Name": "Da Balaia",
+            "NameAr": "دا بالايا"
+        },
+        {
+            "Code": "115737",
+            "Name": "Donas",
+            "NameAr": "دوناس"
+        },
+        {
+            "Code": "116411",
+            "Name": "Durraes",
+            "NameAr": "دوررايس"
+        },
+        {
+            "Code": "116801",
+            "Name": "Eira do Serrado",
+            "NameAr": "ييرا دو سيررادو"
+        },
+        {
+            "Code": "117156",
+            "Name": "Elvas",
+            "NameAr": "يلفاس"
+        },
+        {
+            "Code": "117473",
+            "Name": "Encumeada",
+            "NameAr": "ينكوميادا"
+        },
+        {
+            "Code": "116853",
+            "Name": "Entroncamento",
+            "NameAr": "ينترونكامينتو"
+        },
+        {
+            "Code": "116863",
+            "Name": "Ericeira",
+            "NameAr": "يريكييرا"
+        },
+        {
+            "Code": "117248",
+            "Name": "Ermesinde",
+            "NameAr": "يرميسيندي"
+        },
+        {
+            "Code": "117499",
+            "Name": "Ervedal da Beira",
+            "NameAr": "يرفيدال دا بييرا"
+        },
+        {
+            "Code": "117510",
+            "Name": "Esmoriz",
+            "NameAr": "يسموريز"
+        },
+        {
+            "Code": "117511",
+            "Name": "Espadanedo",
+            "NameAr": "يسبادانيدو"
+        },
+        {
+            "Code": "117514",
+            "Name": "Espinho",
+            "NameAr": "يسبينهو"
+        },
+        {
+            "Code": "117516",
+            "Name": "Esposende",
+            "NameAr": "يسبوسيندي"
+        },
+        {
+            "Code": "117519",
+            "Name": "Estarreja",
+            "NameAr": "يستارريجا"
+        },
+        {
+            "Code": "117852",
+            "Name": "Estoi",
+            "NameAr": "يستوي"
+        },
+        {
+            "Code": "117734",
+            "Name": "Estombar",
+            "NameAr": "يستومبار"
+        },
+        {
+            "Code": "118116",
+            "Name": "Estoril",
+            "NameAr": "يستوريل"
+        },
+        {
+            "Code": "117523",
+            "Name": "Estreito da Calheta",
+            "NameAr": "يسترييتو دا كالهيتا"
+        },
+        {
+            "Code": "117736",
+            "Name": "Estremoz",
+            "NameAr": "يستريموز"
+        },
+        {
+            "Code": "117278",
+            "Name": "Evora",
+            "NameAr": "يفورا"
+        },
+        {
+            "Code": "117749",
+            "Name": "Fafe",
+            "NameAr": "فافي"
+        },
+        {
+            "Code": "118795",
+            "Name": "Faja de Baixo",
+            "NameAr": "فاجا دي بايكسو"
+        },
+        {
+            "Code": "145146",
+            "Name": "Faja Grande",
+            "NameAr": "فاجا جراندي"
+        },
+        {
+            "Code": "117595",
+            "Name": "Fao",
+            "NameAr": "فاو"
+        },
+        {
+            "Code": "118247",
+            "Name": "Faro,   Algarve",
+            "NameAr": "فارو الجارفي"
+        },
+        {
+            "Code": "118806",
+            "Name": "Fatima",
+            "NameAr": "فاتيما"
+        },
+        {
+            "Code": "118143",
+            "Name": "Felgueiras",
+            "NameAr": "فيلجوييراس"
+        },
+        {
+            "Code": "118146",
+            "Name": "Fenais da luz",
+            "NameAr": "فينايس دا لوز"
+        },
+        {
+            "Code": "145176",
+            "Name": "Ferragudo",
+            "NameAr": "فيرراجودو"
+        },
+        {
+            "Code": "145177",
+            "Name": "Ferreira do Alentejo",
+            "NameAr": "فيررييرا دو الينتيجو"
+        },
+        {
+            "Code": "118266",
+            "Name": "Ferreira do Zezere",
+            "NameAr": "فيررييرا دو زيزيري"
+        },
+        {
+            "Code": "118151",
+            "Name": "Ferreiros de Tendais",
+            "NameAr": "فيررييروس دي تيندايس"
+        },
+        {
+            "Code": "106058",
+            "Name": "Ferrel",
+            "NameAr": "فيرريل"
+        },
+        {
+            "Code": "118156",
+            "Name": "Figueira da Foz",
+            "NameAr": "فيجوييرا دا فوز"
+        },
+        {
+            "Code": "118157",
+            "Name": "Figueira de Castelo Rodrigo",
+            "NameAr": "فيجوييرا دي كاستيلو رودريجو"
+        },
+        {
+            "Code": "118563",
+            "Name": "Figueiro dos Vinhos",
+            "NameAr": "فيجوييرو دوس فينهوس"
+        },
+        {
+            "Code": "117639",
+            "Name": "Flamengos",
+            "NameAr": "فلامينجوس"
+        },
+        {
+            "Code": "151371",
+            "Name": "Flores Island",
+            "NameAr": "فلوريس يسلاند"
+        },
+        {
+            "Code": "101721",
+            "Name": "Fornos de Algodres",
+            "NameAr": "فورنوس دي الجودريس"
+        },
+        {
+            "Code": "118501",
+            "Name": "Foz do Arelho",
+            "NameAr": "فوز دو اريلهو"
+        },
+        {
+            "Code": "118203",
+            "Name": "Frades",
+            "NameAr": "فراديس"
+        },
+        {
+            "Code": "145252",
+            "Name": "Franca do Campo",
+            "NameAr": "فرانكا دو كامبو"
+        },
+        {
+            "Code": "119015",
+            "Name": "Freamunde",
+            "NameAr": "فرياموندي"
+        },
+        {
+            "Code": "145269",
+            "Name": "Freixinho",
+            "NameAr": "فرييكسينهو"
+        },
+        {
+            "Code": "118517",
+            "Name": "Freixo",
+            "NameAr": "فرييكسو"
+        },
+        {
+            "Code": "118376",
+            "Name": "Fronteira",
+            "NameAr": "فرونتييرا"
+        },
+        {
+            "Code": "118387",
+            "Name": "Funchal",
+            "NameAr": "فونكهال"
+        },
+        {
+            "Code": "118908",
+            "Name": "Fundao",
+            "NameAr": "فونداو"
+        },
+        {
+            "Code": "117972",
+            "Name": "Furnas",
+            "NameAr": "فورناس"
+        },
+        {
+            "Code": "118921",
+            "Name": "Gale",
+            "NameAr": "جالي"
+        },
+        {
+            "Code": "145310",
+            "Name": "Garajau",
+            "NameAr": "جاراجاو"
+        },
+        {
+            "Code": "118417",
+            "Name": "Gaula",
+            "NameAr": "جاولا"
+        },
+        {
+            "Code": "145327",
+            "Name": "Gaviao",
+            "NameAr": "جافياو"
+        },
+        {
+            "Code": "145346",
+            "Name": "Geres",
+            "NameAr": "جيريس"
+        },
+        {
+            "Code": "145386",
+            "Name": "Golega",
+            "NameAr": "جوليجا"
+        },
+        {
+            "Code": "145388",
+            "Name": "Gondomar,   Porto District",
+            "NameAr": "جوندومار بورتو ديستريكت"
+        },
+        {
+            "Code": "119328",
+            "Name": "Gouveia",
+            "NameAr": "جووفييا"
+        },
+        {
+            "Code": "118760",
+            "Name": "Graciosa",
+            "NameAr": "جراكيوسا"
+        },
+        {
+            "Code": "119693",
+            "Name": "Gradil",
+            "NameAr": "جراديل"
+        },
+        {
+            "Code": "145419",
+            "Name": "Grandola",
+            "NameAr": "جراندولا"
+        },
+        {
+            "Code": "119489",
+            "Name": "Guarda",
+            "NameAr": "جواردا"
+        },
+        {
+            "Code": "155486",
+            "Name": "Guarda District",
+            "NameAr": "جواردا ديستريكت"
+        },
+        {
+            "Code": "119917",
+            "Name": "Guia",
+            "NameAr": "جويا"
+        },
+        {
+            "Code": "120427",
+            "Name": "Guimaraes",
+            "NameAr": "جويمارايس"
+        },
+        {
+            "Code": "364362",
+            "Name": "Guincho Beach",
+            "NameAr": "جوينكهو بياكه"
+        },
+        {
+            "Code": "121286",
+            "Name": "Horta",
+            "NameAr": "هورتا"
+        },
+        {
+            "Code": "145716",
+            "Name": "Idanha-a-Nova",
+            "NameAr": "يدانها-ا-نوفا"
+        },
+        {
+            "Code": "122672",
+            "Name": "Ilhavo",
+            "NameAr": "يلهافو"
+        },
+        {
+            "Code": "122013",
+            "Name": "Insel Pico",
+            "NameAr": "ينسيل بيكو"
+        },
+        {
+            "Code": "418013",
+            "Name": "Jardim da Serra",
+            "NameAr": "جارديم دا سيررا"
+        },
+        {
+            "Code": "122333",
+            "Name": "Jardim do Mar",
+            "NameAr": "جارديم دو مار"
+        },
+        {
+            "Code": "125746",
+            "Name": "Lagoa",
+            "NameAr": "لاجوا"
+        },
+        {
+            "Code": "125052",
+            "Name": "Lagos,   Algarve",
+            "NameAr": "لاجوس الجارفي"
+        },
+        {
+            "Code": "125752",
+            "Name": "Lajes do Pico",
+            "NameAr": "لاجيس دو بيكو"
+        },
+        {
+            "Code": "124506",
+            "Name": "Lajido",
+            "NameAr": "لاجيدو"
+        },
+        {
+            "Code": "124787",
+            "Name": "Lamego",
+            "NameAr": "لاميجو"
+        },
+        {
+            "Code": "124661",
+            "Name": "Landeira",
+            "NameAr": "لاندييرا"
+        },
+        {
+            "Code": "125112",
+            "Name": "Lavre",
+            "NameAr": "لافري"
+        },
+        {
+            "Code": "146210",
+            "Name": "Leca da Palmeira",
+            "NameAr": "ليكا دا بالمييرا"
+        },
+        {
+            "Code": "125535",
+            "Name": "Leiria",
+            "NameAr": "لييريا"
+        },
+        {
+            "Code": "386618",
+            "Name": "Leiria District",
+            "NameAr": "لييريا ديستريكت"
+        },
+        {
+            "Code": "125589",
+            "Name": "Linda-a-Velha",
+            "NameAr": "ليندا-ا-فيلها"
+        },
+        {
+            "Code": "146295",
+            "Name": "Lindoso",
+            "NameAr": "ليندوسو"
+        },
+        {
+            "Code": "126024",
+            "Name": "Linhares",
+            "NameAr": "لينهاريس"
+        },
+        {
+            "Code": "146305",
+            "Name": "Lisbon",
+            "NameAr": "ليسبون"
+        },
+        {
+            "Code": "126599",
+            "Name": "Livamento",
+            "NameAr": "ليفامينتو"
+        },
+        {
+            "Code": "160830",
+            "Name": "Lixa",
+            "NameAr": "ليكسا"
+        },
+        {
+            "Code": "126627",
+            "Name": "Lomba da Fazenda",
+            "NameAr": "لومبا دا فازيندا"
+        },
+        {
+            "Code": "160834",
+            "Name": "Loriga",
+            "NameAr": "لوريجا"
+        },
+        {
+            "Code": "125918",
+            "Name": "Loule",
+            "NameAr": "لوولي"
+        },
+        {
+            "Code": "126654",
+            "Name": "Loures",
+            "NameAr": "لووريس"
+        },
+        {
+            "Code": "127302",
+            "Name": "Lourinha",
+            "NameAr": "لوورينها"
+        },
+        {
+            "Code": "126655",
+            "Name": "Lousa",
+            "NameAr": "لووسا"
+        },
+        {
+            "Code": "146370",
+            "Name": "Lousada",
+            "NameAr": "لووسادا"
+        },
+        {
+            "Code": "127303",
+            "Name": "Lousal",
+            "NameAr": "لووسال"
+        },
+        {
+            "Code": "102665",
+            "Name": "Lugar da Estrada",
+            "NameAr": "لوجار دا يسترادا"
+        },
+        {
+            "Code": "126687",
+            "Name": "Luz",
+            "NameAr": "لوز"
+        },
+        {
+            "Code": "126688",
+            "Name": "Luz de Tavira",
+            "NameAr": "لوز دي تافيرا"
+        },
+        {
+            "Code": "146406",
+            "Name": "Macedo de Cavaleiros",
+            "NameAr": "ماكيدو دي كافالييروس"
+        },
+        {
+            "Code": "126098",
+            "Name": "Machico",
+            "NameAr": "ماكهيكو"
+        },
+        {
+            "Code": "146411",
+            "Name": "Madalena",
+            "NameAr": "مادالينا"
+        },
+        {
+            "Code": "146412",
+            "Name": "Madeira",
+            "NameAr": "مادييرا"
+        },
+        {
+            "Code": "291808",
+            "Name": "Madeira Island",
+            "NameAr": "مادييرا يسلاند"
+        },
+        {
+            "Code": "125679",
+            "Name": "Mafra",
+            "NameAr": "مافرا"
+        },
+        {
+            "Code": "127388",
+            "Name": "Maia,   Porto District",
+            "NameAr": "مايا بورتو ديستريكت"
+        },
+        {
+            "Code": "128037",
+            "Name": "Mangualde",
+            "NameAr": "مانجوالدي"
+        },
+        {
+            "Code": "127427",
+            "Name": "Manteigas",
+            "NameAr": "مانتييجاس"
+        },
+        {
+            "Code": "146483",
+            "Name": "Marao",
+            "NameAr": "ماراو"
+        },
+        {
+            "Code": "126824",
+            "Name": "Marco de Canaveses",
+            "NameAr": "ماركو دي كانافيسيس"
+        },
+        {
+            "Code": "127823",
+            "Name": "Marinha Grande",
+            "NameAr": "مارينها جراندي"
+        },
+        {
+            "Code": "127518",
+            "Name": "Marvao",
+            "NameAr": "مارفاو"
+        },
+        {
+            "Code": "127532",
+            "Name": "Matosinhos,   Porto District",
+            "NameAr": "ماتوسينهوس بورتو ديستريكت"
+        },
+        {
+            "Code": "127876",
+            "Name": "Mealhada",
+            "NameAr": "ميالهادا"
+        },
+        {
+            "Code": "127879",
+            "Name": "Meda",
+            "NameAr": "ميدا"
+        },
+        {
+            "Code": "127887",
+            "Name": "Meia Praia",
+            "NameAr": "مييا برايا"
+        },
+        {
+            "Code": "127569",
+            "Name": "Melgaco",
+            "NameAr": "ميلجاكو"
+        },
+        {
+            "Code": "146583",
+            "Name": "Melides",
+            "NameAr": "ميليديس"
+        },
+        {
+            "Code": "146600",
+            "Name": "Mertola",
+            "NameAr": "ميرتولا"
+        },
+        {
+            "Code": "127586",
+            "Name": "Mesao Frio",
+            "NameAr": "ميساو فريو"
+        },
+        {
+            "Code": "127215",
+            "Name": "Mira",
+            "NameAr": "ميرا"
+        },
+        {
+            "Code": "127218",
+            "Name": "Miranda do Corvo",
+            "NameAr": "ميراندا دو كورفو"
+        },
+        {
+            "Code": "127219",
+            "Name": "Miranda do Douro",
+            "NameAr": "ميراندا دو دوورو"
+        },
+        {
+            "Code": "127220",
+            "Name": "Mirandela",
+            "NameAr": "ميرانديلا"
+        },
+        {
+            "Code": "146662",
+            "Name": "Mogadouro",
+            "NameAr": "موجادوورو"
+        },
+        {
+            "Code": "104237",
+            "Name": "Moimenta da Beira",
+            "NameAr": "مويمينتا دا بييرا"
+        },
+        {
+            "Code": "127705",
+            "Name": "Moncao",
+            "NameAr": "مونكاو"
+        },
+        {
+            "Code": "128644",
+            "Name": "Moncarapacho",
+            "NameAr": "مونكاراباكهو"
+        },
+        {
+            "Code": "128645",
+            "Name": "Monchique",
+            "NameAr": "مونكهيقوي"
+        },
+        {
+            "Code": "128472",
+            "Name": "Mondim de Basto",
+            "NameAr": "مونديم دي باستو"
+        },
+        {
+            "Code": "128937",
+            "Name": "Monforte",
+            "NameAr": "مونفورتي"
+        },
+        {
+            "Code": "127255",
+            "Name": "Monfortinho",
+            "NameAr": "مونفورتينهو"
+        },
+        {
+            "Code": "129571",
+            "Name": "Monsanto",
+            "NameAr": "مونسانتو"
+        },
+        {
+            "Code": "128659",
+            "Name": "Monsaraz",
+            "NameAr": "مونساراز"
+        },
+        {
+            "Code": "129576",
+            "Name": "Montalegre",
+            "NameAr": "مونتاليجري"
+        },
+        {
+            "Code": "128379",
+            "Name": "Montargil",
+            "NameAr": "مونتارجيل"
+        },
+        {
+            "Code": "102640",
+            "Name": "Monte de Caparica",
+            "NameAr": "مونتي دي كاباريكا"
+        },
+        {
+            "Code": "128384",
+            "Name": "Monte Gordo",
+            "NameAr": "مونتي جوردو"
+        },
+        {
+            "Code": "127933",
+            "Name": "Monte Real",
+            "NameAr": "مونتي ريال"
+        },
+        {
+            "Code": "102824",
+            "Name": "Monte Redondo",
+            "NameAr": "مونتي ريدوندو"
+        },
+        {
+            "Code": "127945",
+            "Name": "Montemor-O-Novo",
+            "NameAr": "مونتيمور-و-نوفو"
+        },
+        {
+            "Code": "102987",
+            "Name": "Montemor-o-Velho",
+            "NameAr": "مونتيمور-و-فيلهو"
+        },
+        {
+            "Code": "128363",
+            "Name": "Montenegro",
+            "NameAr": "مونتينيجرو"
+        },
+        {
+            "Code": "127956",
+            "Name": "Montitjo",
+            "NameAr": "مونتيتجو"
+        },
+        {
+            "Code": "128996",
+            "Name": "Mora",
+            "NameAr": "مورا"
+        },
+        {
+            "Code": "128426",
+            "Name": "Mortagua",
+            "NameAr": "مورتاجوا"
+        },
+        {
+            "Code": "129074",
+            "Name": "Moura",
+            "NameAr": "موورا"
+        },
+        {
+            "Code": "129125",
+            "Name": "Murca",
+            "NameAr": "موركا"
+        },
+        {
+            "Code": "129713",
+            "Name": "Murtosa",
+            "NameAr": "مورتوسا"
+        },
+        {
+            "Code": "128737",
+            "Name": "Nazare",
+            "NameAr": "نازاري"
+        },
+        {
+            "Code": "129819",
+            "Name": "Negreda",
+            "NameAr": "نيجريدا"
+        },
+        {
+            "Code": "129759",
+            "Name": "Nelas",
+            "NameAr": "نيلاس"
+        },
+        {
+            "Code": "131157",
+            "Name": "Nordeste",
+            "NameAr": "نورديستي"
+        },
+        {
+            "Code": "130904",
+            "Name": "Nossa Senhora da Graca de Povoa e Meada",
+            "NameAr": "نوسسا سينهورا دا جراكا دي بوفوا ي ميادا"
+        },
+        {
+            "Code": "146964",
+            "Name": "Obidos",
+            "NameAr": "وبيدوس"
+        },
+        {
+            "Code": "130086",
+            "Name": "Odeceixe",
+            "NameAr": "وديكييكسي"
+        },
+        {
+            "Code": "146973",
+            "Name": "Odemira",
+            "NameAr": "وديميرا"
+        },
+        {
+            "Code": "131887",
+            "Name": "Odiaxere",
+            "NameAr": "ودياكسيري"
+        },
+        {
+            "Code": "131246",
+            "Name": "Odivelas",
+            "NameAr": "وديفيلاس"
+        },
+        {
+            "Code": "130092",
+            "Name": "Oeiras",
+            "NameAr": "وييراس"
+        },
+        {
+            "Code": "130096",
+            "Name": "Ofir",
+            "NameAr": "وفير"
+        },
+        {
+            "Code": "131266",
+            "Name": "Oleiros",
+            "NameAr": "ولييروس"
+        },
+        {
+            "Code": "130774",
+            "Name": "Olhao,   Algarve",
+            "NameAr": "ولهاو الجارفي"
+        },
+        {
+            "Code": "131911",
+            "Name": "Olhos de Agua",
+            "NameAr": "ولهوس دي اجوا"
+        },
+        {
+            "Code": "131268",
+            "Name": "Oliveira de Azemeis",
+            "NameAr": "وليفييرا دي ازيمييس"
+        },
+        {
+            "Code": "130663",
+            "Name": "Oliveira de Frades",
+            "NameAr": "وليفييرا دي فراديس"
+        },
+        {
+            "Code": "146997",
+            "Name": "Oliveira do Hospital",
+            "NameAr": "وليفييرا دو هوسبيتال"
+        },
+        {
+            "Code": "130680",
+            "Name": "Orbacem",
+            "NameAr": "ورباكيم"
+        },
+        {
+            "Code": "131702",
+            "Name": "Oura-Beach",
+            "NameAr": "وورا-بياكه"
+        },
+        {
+            "Code": "131975",
+            "Name": "Ourem",
+            "NameAr": "ووريم"
+        },
+        {
+            "Code": "104422",
+            "Name": "Ourique",
+            "NameAr": "ووريقوي"
+        },
+        {
+            "Code": "131365",
+            "Name": "Ovar",
+            "NameAr": "وفار"
+        },
+        {
+            "Code": "130306",
+            "Name": "Paco de Arcos",
+            "NameAr": "باكو دي اركوس"
+        },
+        {
+            "Code": "101252",
+            "Name": "Pacos de Ferreira,   Porto District",
+            "NameAr": "باكوس دي فيررييرا بورتو ديستريكت"
+        },
+        {
+            "Code": "147059",
+            "Name": "Paderne",
+            "NameAr": "باديرني"
+        },
+        {
+            "Code": "130758",
+            "Name": "Palmela",
+            "NameAr": "بالميلا"
+        },
+        {
+            "Code": "131758",
+            "Name": "Paredes,   Porto District",
+            "NameAr": "باريديس بورتو ديستريكت"
+        },
+        {
+            "Code": "131472",
+            "Name": "Paul do Mar",
+            "NameAr": "باول دو مار"
+        },
+        {
+            "Code": "132082",
+            "Name": "Pedras Salgadas",
+            "NameAr": "بيدراس سالجاداس"
+        },
+        {
+            "Code": "160810",
+            "Name": "Pedrogao Grande",
+            "NameAr": "بيدروجاو جراندي"
+        },
+        {
+            "Code": "132083",
+            "Name": "Pedrogao Pequeno",
+            "NameAr": "بيدروجاو بيقوينو"
+        },
+        {
+            "Code": "132114",
+            "Name": "Penacova",
+            "NameAr": "بيناكوفا"
+        },
+        {
+            "Code": "132115",
+            "Name": "Penafiel,   Porto District",
+            "NameAr": "بينافييل بورتو ديستريكت"
+        },
+        {
+            "Code": "131591",
+            "Name": "Penafirme",
+            "NameAr": "بينافيرمي"
+        },
+        {
+            "Code": "131486",
+            "Name": "Penalva de Alva",
+            "NameAr": "بينالفا دي الفا"
+        },
+        {
+            "Code": "132116",
+            "Name": "Penalva do Castelo",
+            "NameAr": "بينالفا دو كاستيلو"
+        },
+        {
+            "Code": "407096",
+            "Name": "Penamacor",
+            "NameAr": "بيناماكور"
+        },
+        {
+            "Code": "132449",
+            "Name": "Penedono",
+            "NameAr": "بينيدونو"
+        },
+        {
+            "Code": "147144",
+            "Name": "Penela",
+            "NameAr": "بينيلا"
+        },
+        {
+            "Code": "132452",
+            "Name": "Peniche",
+            "NameAr": "بينيكهي"
+        },
+        {
+            "Code": "132126",
+            "Name": "Pera",
+            "NameAr": "بيرا"
+        },
+        {
+            "Code": "131604",
+            "Name": "Peso da Regua",
+            "NameAr": "بيسو دا ريجوا"
+        },
+        {
+            "Code": "132163",
+            "Name": "Pias",
+            "NameAr": "بياس"
+        },
+        {
+            "Code": "131628",
+            "Name": "Pico",
+            "NameAr": "بيكو"
+        },
+        {
+            "Code": "131629",
+            "Name": "Pico do Arieiro",
+            "NameAr": "بيكو دو اريييرو"
+        },
+        {
+            "Code": "131645",
+            "Name": "Pinhao",
+            "NameAr": "بينهاو"
+        },
+        {
+            "Code": "132519",
+            "Name": "Pinheiro (Penafiel)",
+            "NameAr": "بينهييرو بينافييل"
+        },
+        {
+            "Code": "132803",
+            "Name": "Piodao",
+            "NameAr": "بيوداو"
+        },
+        {
+            "Code": "133529",
+            "Name": "Pombal",
+            "NameAr": "بومبال"
+        },
+        {
+            "Code": "106688",
+            "Name": "Pombeiro da Beira",
+            "NameAr": "بومبييرو دا بييرا"
+        },
+        {
+            "Code": "147275",
+            "Name": "Ponta Delgada",
+            "NameAr": "بونتا ديلجادا"
+        },
+        {
+            "Code": "131811",
+            "Name": "Ponta do Pargo",
+            "NameAr": "بونتا دو بارجو"
+        },
+        {
+            "Code": "132888",
+            "Name": "Ponta do Sol",
+            "NameAr": "بونتا دو سول"
+        },
+        {
+            "Code": "132891",
+            "Name": "Ponte de Barca",
+            "NameAr": "بونتي دي باركا"
+        },
+        {
+            "Code": "133540",
+            "Name": "Ponte de Ferro-Fornos",
+            "NameAr": "بونتي دي فيررو-فورنوس"
+        },
+        {
+            "Code": "133231",
+            "Name": "Ponte de Lima",
+            "NameAr": "بونتي دي ليما"
+        },
+        {
+            "Code": "133492",
+            "Name": "Ponte de Sor",
+            "NameAr": "بونتي دي سور"
+        },
+        {
+            "Code": "133541",
+            "Name": "Ponte do Abade",
+            "NameAr": "بونتي دو ابادي"
+        },
+        {
+            "Code": "132905",
+            "Name": "Porches",
+            "NameAr": "بوركهيس"
+        },
+        {
+            "Code": "147303",
+            "Name": "Portalegre",
+            "NameAr": "بورتاليجري"
+        },
+        {
+            "Code": "133567",
+            "Name": "Portel",
+            "NameAr": "بورتيل"
+        },
+        {
+            "Code": "131846",
+            "Name": "Portimao,   Algarve",
+            "NameAr": "بورتيماو الجارفي"
+        },
+        {
+            "Code": "158684",
+            "Name": "Porto,   Aveiro District",
+            "NameAr": "بورتو افييرو ديستريكت"
+        },
+        {
+            "Code": "131849",
+            "Name": "Porto (Oporto),   Porto District",
+            "NameAr": "بورتو وبورتو بورتو ديستريكت"
+        },
+        {
+            "Code": "147311",
+            "Name": "Porto Covo",
+            "NameAr": "بورتو كوفو"
+        },
+        {
+            "Code": "134279",
+            "Name": "Porto da Cruz",
+            "NameAr": "بورتو دا كروز"
+        },
+        {
+            "Code": "103308",
+            "Name": "Porto Martins",
+            "NameAr": "بورتو مارتينس"
+        },
+        {
+            "Code": "133575",
+            "Name": "Porto Moniz",
+            "NameAr": "بورتو مونيز"
+        },
+        {
+            "Code": "147315",
+            "Name": "Porto Salvo",
+            "NameAr": "بورتو سالفو"
+        },
+        {
+            "Code": "133269",
+            "Name": "Porto Santo Island",
+            "NameAr": "بورتو سانتو يسلاند"
+        },
+        {
+            "Code": "133276",
+            "Name": "Portugal",
+            "NameAr": "بورتوجال"
+        },
+        {
+            "Code": "131861",
+            "Name": "Povoa das Quartas",
+            "NameAr": "بوفوا داس قوارتاس"
+        },
+        {
+            "Code": "147340",
+            "Name": "Povoa de Lanhoso",
+            "NameAr": "بوفوا دي لانهوسو"
+        },
+        {
+            "Code": "134302",
+            "Name": "Povoa de Varzim,   Porto District",
+            "NameAr": "بوفوا دي فارزيم بورتو ديستريكت"
+        },
+        {
+            "Code": "132993",
+            "Name": "Povoacao",
+            "NameAr": "بوفواكاو"
+        },
+        {
+            "Code": "131865",
+            "Name": "Praia da Falesia",
+            "NameAr": "برايا دا فاليسيا"
+        },
+        {
+            "Code": "131866",
+            "Name": "Praia Da Luz",
+            "NameAr": "برايا دا لوز"
+        },
+        {
+            "Code": "134311",
+            "Name": "Praia da Manta Rota",
+            "NameAr": "برايا دا مانتا روتا"
+        },
+        {
+            "Code": "134312",
+            "Name": "Praia da Marinhas",
+            "NameAr": "برايا دا مارينهاس"
+        },
+        {
+            "Code": "132954",
+            "Name": "Praia da Rocha,   Algarve",
+            "NameAr": "برايا دا روكها الجارفي"
+        },
+        {
+            "Code": "132955",
+            "Name": "Praia da Vieira",
+            "NameAr": "برايا دا فيييرا"
+        },
+        {
+            "Code": "133082",
+            "Name": "Praia da Vitoria",
+            "NameAr": "برايا دا فيتوريا"
+        },
+        {
+            "Code": "133593",
+            "Name": "Praia das Macas",
+            "NameAr": "برايا داس ماكاس"
+        },
+        {
+            "Code": "132956",
+            "Name": "Praia de Areia Branca",
+            "NameAr": "برايا دي ارييا برانكا"
+        },
+        {
+            "Code": "108404",
+            "Name": "Praia de Mira",
+            "NameAr": "برايا دي ميرا"
+        },
+        {
+            "Code": "133947",
+            "Name": "Praia Grande",
+            "NameAr": "برايا جراندي"
+        },
+        {
+            "Code": "133004",
+            "Name": "Prainha",
+            "NameAr": "براينها"
+        },
+        {
+            "Code": "133953",
+            "Name": "Prazeres",
+            "NameAr": "برازيريس"
+        },
+        {
+            "Code": "133968",
+            "Name": "Proenca-a-Nova",
+            "NameAr": "بروينكا-ا-نوفا"
+        },
+        {
+            "Code": "133729",
+            "Name": "Quarteira,   Algarve",
+            "NameAr": "قوارتييرا الجارفي"
+        },
+        {
+            "Code": "134018",
+            "Name": "Queluz",
+            "NameAr": "قويلوز"
+        },
+        {
+            "Code": "133734",
+            "Name": "Querenca Loule",
+            "NameAr": "قويرينكا لوولي"
+        },
+        {
+            "Code": "134027",
+            "Name": "Quinta do Conde",
+            "NameAr": "قوينتا دو كوندي"
+        },
+        {
+            "Code": "133741",
+            "Name": "Quinta do Lago,   Algarve",
+            "NameAr": "قوينتا دو لاجو الجارفي"
+        },
+        {
+            "Code": "133161",
+            "Name": "Rabo de Peixe",
+            "NameAr": "رابو دي بييكسي"
+        },
+        {
+            "Code": "147460",
+            "Name": "Rapoula do Coa",
+            "NameAr": "رابوولا دو كوا"
+        },
+        {
+            "Code": "133873",
+            "Name": "Redondo",
+            "NameAr": "ريدوندو"
+        },
+        {
+            "Code": "133314",
+            "Name": "Regueira de Pontes",
+            "NameAr": "ريجوييرا دي بونتيس"
+        },
+        {
+            "Code": "133790",
+            "Name": "Reguengos de Monsaraz",
+            "NameAr": "ريجوينجوس دي مونساراز"
+        },
+        {
+            "Code": "160824",
+            "Name": "Rendufas da Estrada",
+            "NameAr": "ريندوفاس دا يسترادا"
+        },
+        {
+            "Code": "134376",
+            "Name": "Resende",
+            "NameAr": "ريسيندي"
+        },
+        {
+            "Code": "133342",
+            "Name": "Ribeira Brava",
+            "NameAr": "ريبييرا برافا"
+        },
+        {
+            "Code": "133906",
+            "Name": "Ribeira de Pena",
+            "NameAr": "ريبييرا دي بينا"
+        },
+        {
+            "Code": "133818",
+            "Name": "Ribeira Funda",
+            "NameAr": "ريبييرا فوندا"
+        },
+        {
+            "Code": "134264",
+            "Name": "Ribeira Grande",
+            "NameAr": "ريبييرا جراندي"
+        },
+        {
+            "Code": "134265",
+            "Name": "Ribeira Quente",
+            "NameAr": "ريبييرا قوينتي"
+        },
+        {
+            "Code": "134782",
+            "Name": "Rio Frio",
+            "NameAr": "ريو فريو"
+        },
+        {
+            "Code": "147526",
+            "Name": "Rio Maior",
+            "NameAr": "ريو مايور"
+        },
+        {
+            "Code": "108441",
+            "Name": "Roge",
+            "NameAr": "روجي"
+        },
+        {
+            "Code": "134681",
+            "Name": "Sabrosa",
+            "NameAr": "سابروسا"
+        },
+        {
+            "Code": "135014",
+            "Name": "Sabugueiro",
+            "NameAr": "سابوجوييرو"
+        },
+        {
+            "Code": "135241",
+            "Name": "Sagres",
+            "NameAr": "ساجريس"
+        },
+        {
+            "Code": "147667",
+            "Name": "Salema",
+            "NameAr": "ساليما"
+        },
+        {
+            "Code": "136453",
+            "Name": "Salvaterra Do Extremo",
+            "NameAr": "سالفاتيررا دو يكستريمو"
+        },
+        {
+            "Code": "136165",
+            "Name": "Samora Correia",
+            "NameAr": "سامورا كوررييا"
+        },
+        {
+            "Code": "137152",
+            "Name": "Santa Barbara de Nexe",
+            "NameAr": "سانتا باربارا دي نيكسي"
+        },
+        {
+            "Code": "136009",
+            "Name": "Santa Clara-a-Velha",
+            "NameAr": "سانتا كلارا-ا-فيلها"
+        },
+        {
+            "Code": "136602",
+            "Name": "Santa Cruz",
+            "NameAr": "سانتا كروز"
+        },
+        {
+            "Code": "137155",
+            "Name": "Santa Cruz das Flores",
+            "NameAr": "سانتا كروز داس فلوريس"
+        },
+        {
+            "Code": "136847",
+            "Name": "Santa Cruz do Douro",
+            "NameAr": "سانتا كروز دو دوورو"
+        },
+        {
+            "Code": "135550",
+            "Name": "Santa Eulalia",
+            "NameAr": "سانتا يولاليا"
+        },
+        {
+            "Code": "136848",
+            "Name": "Santa Iria da Azoia",
+            "NameAr": "سانتا يريا دا ازويا"
+        },
+        {
+            "Code": "136849",
+            "Name": "Santa Luzia",
+            "NameAr": "سانتا لوزيا"
+        },
+        {
+            "Code": "136379",
+            "Name": "Santa Maria",
+            "NameAr": "سانتا ماريا"
+        },
+        {
+            "Code": "136063",
+            "Name": "Santa Maria Da Feira",
+            "NameAr": "سانتا ماريا دا فييرا"
+        },
+        {
+            "Code": "136853",
+            "Name": "Santa Marta de Penaguiao",
+            "NameAr": "سانتا مارتا دي بيناجوياو"
+        },
+        {
+            "Code": "137171",
+            "Name": "Santana",
+            "NameAr": "سانتانا"
+        },
+        {
+            "Code": "136621",
+            "Name": "Santar de Viseu",
+            "NameAr": "سانتار دي فيسيو"
+        },
+        {
+            "Code": "137174",
+            "Name": "Santarem",
+            "NameAr": "سانتاريم"
+        },
+        {
+            "Code": "137176",
+            "Name": "Santiago de Cacem",
+            "NameAr": "سانتياجو دي كاكيم"
+        },
+        {
+            "Code": "418070",
+            "Name": "Santiago do Cacem",
+            "NameAr": "سانتياجو دو كاكيم"
+        },
+        {
+            "Code": "137180",
+            "Name": "Santo Antonio da Serra",
+            "NameAr": "سانتو انتونيو دا سيررا"
+        },
+        {
+            "Code": "137181",
+            "Name": "Santo Antonio das Areias",
+            "NameAr": "سانتو انتونيو داس اريياس"
+        },
+        {
+            "Code": "136864",
+            "Name": "Santo Estevao",
+            "NameAr": "سانتو يستيفاو"
+        },
+        {
+            "Code": "136536",
+            "Name": "Santo Tirso,   Porto District",
+            "NameAr": "سانتو تيرسو بورتو ديستريكت"
+        },
+        {
+            "Code": "136871",
+            "Name": "Sao Bras de Alportel",
+            "NameAr": "ساو براس دي البورتيل"
+        },
+        {
+            "Code": "136630",
+            "Name": "Sao Felix da Marinha",
+            "NameAr": "ساو فيليكس دا مارينها"
+        },
+        {
+            "Code": "136085",
+            "Name": "Sao Joao da Madeira",
+            "NameAr": "ساو جواو دا مادييرا"
+        },
+        {
+            "Code": "135570",
+            "Name": "Sao Jorge",
+            "NameAr": "ساو جورجي"
+        },
+        {
+            "Code": "136542",
+            "Name": "Sao Luis",
+            "NameAr": "ساو لويس"
+        },
+        {
+            "Code": "135572",
+            "Name": "Sao Mamede de Infesta",
+            "NameAr": "ساو ماميدي دي ينفيستا"
+        },
+        {
+            "Code": "136632",
+            "Name": "Sao Martinho do Porto",
+            "NameAr": "ساو مارتينهو دو بورتو"
+        },
+        {
+            "Code": "107349",
+            "Name": "Sao Mateus",
+            "NameAr": "ساو ماتيوس"
+        },
+        {
+            "Code": "136396",
+            "Name": "Sao Miguel Island",
+            "NameAr": "ساو ميجويل يسلاند"
+        },
+        {
+            "Code": "147766",
+            "Name": "Sao Pedro de Muel",
+            "NameAr": "ساو بيدرو دي مويل"
+        },
+        {
+            "Code": "137190",
+            "Name": "Sao Pedro do Sul",
+            "NameAr": "ساو بيدرو دو سول"
+        },
+        {
+            "Code": "136087",
+            "Name": "Sao Rafael",
+            "NameAr": "ساو رافايل"
+        },
+        {
+            "Code": "135575",
+            "Name": "Sao Roque do Faial",
+            "NameAr": "ساو روقوي دو فايال"
+        },
+        {
+            "Code": "147767",
+            "Name": "Sao Roque do Pico",
+            "NameAr": "ساو روقوي دو بيكو"
+        },
+        {
+            "Code": "147768",
+            "Name": "Sao Teotonio",
+            "NameAr": "ساو تيوتونيو"
+        },
+        {
+            "Code": "135577",
+            "Name": "Sao Vicente",
+            "NameAr": "ساو فيكينتي"
+        },
+        {
+            "Code": "137261",
+            "Name": "Seia",
+            "NameAr": "سييا"
+        },
+        {
+            "Code": "137953",
+            "Name": "Seixal",
+            "NameAr": "سييكسال"
+        },
+        {
+            "Code": "103530",
+            "Name": "Sendim",
+            "NameAr": "سينديم"
+        },
+        {
+            "Code": "137718",
+            "Name": "Senhora da Rocha",
+            "NameAr": "سينهورا دا روكها"
+        },
+        {
+            "Code": "147861",
+            "Name": "Serpa",
+            "NameAr": "سيربا"
+        },
+        {
+            "Code": "137013",
+            "Name": "Serra D' el Rey",
+            "NameAr": "سيررا د يل ريي"
+        },
+        {
+            "Code": "137014",
+            "Name": "Serra de Agua",
+            "NameAr": "سيررا دي اجوا"
+        },
+        {
+            "Code": "137372",
+            "Name": "Serta",
+            "NameAr": "سيرتا"
+        },
+        {
+            "Code": "137729",
+            "Name": "Sesimbra",
+            "NameAr": "سيسيمبرا"
+        },
+        {
+            "Code": "137976",
+            "Name": "Sesmarias",
+            "NameAr": "سيسمارياس"
+        },
+        {
+            "Code": "137985",
+            "Name": "Setubal",
+            "NameAr": "سيتوبال"
+        },
+        {
+            "Code": "137732",
+            "Name": "Sever do Vouga",
+            "NameAr": "سيفير دو فووجا"
+        },
+        {
+            "Code": "147915",
+            "Name": "Silveira",
+            "NameAr": "سيلفييرا"
+        },
+        {
+            "Code": "137606",
+            "Name": "Silveiros",
+            "NameAr": "سيلفييروس"
+        },
+        {
+            "Code": "137609",
+            "Name": "Silves",
+            "NameAr": "سيلفيس"
+        },
+        {
+            "Code": "137424",
+            "Name": "Sines",
+            "NameAr": "سينيس"
+        },
+        {
+            "Code": "137473",
+            "Name": "Sintra",
+            "NameAr": "سينترا"
+        },
+        {
+            "Code": "138036",
+            "Name": "Soajo",
+            "NameAr": "سواجو"
+        },
+        {
+            "Code": "107236",
+            "Name": "Sobral de Monte Agraco",
+            "NameAr": "سوبرال دي مونتي اجراكو"
+        },
+        {
+            "Code": "138066",
+            "Name": "Soure",
+            "NameAr": "سووري"
+        },
+        {
+            "Code": "147973",
+            "Name": "Sousel",
+            "NameAr": "سووسيل"
+        },
+        {
+            "Code": "138998",
+            "Name": "Tabua",
+            "NameAr": "تابوا"
+        },
+        {
+            "Code": "148128",
+            "Name": "Tabuaco",
+            "NameAr": "تابواكو"
+        },
+        {
+            "Code": "138571",
+            "Name": "Tamengos",
+            "NameAr": "تامينجوس"
+        },
+        {
+            "Code": "106373",
+            "Name": "Tarouca",
+            "NameAr": "تارووكا"
+        },
+        {
+            "Code": "140978",
+            "Name": "Tavira",
+            "NameAr": "تافيرا"
+        },
+        {
+            "Code": "160871",
+            "Name": "Teixeira De Baixo",
+            "NameAr": "تييكسييرا دي بايكسو"
+        },
+        {
+            "Code": "107297",
+            "Name": "Teloes",
+            "NameAr": "تيلويس"
+        },
+        {
+            "Code": "140003",
+            "Name": "Terceira, Island",
+            "NameAr": "تيركييرا يسلاند"
+        },
+        {
+            "Code": "148193",
+            "Name": "Terra do Pao",
+            "NameAr": "تيررا دو باو"
+        },
+        {
+            "Code": "140008",
+            "Name": "Terras de Bouro",
+            "NameAr": "تيرراس دي بوورو"
+        },
+        {
+            "Code": "140466",
+            "Name": "Tomar",
+            "NameAr": "تومار"
+        },
+        {
+            "Code": "140326",
+            "Name": "Tondela",
+            "NameAr": "تونديلا"
+        },
+        {
+            "Code": "140788",
+            "Name": "Torrao",
+            "NameAr": "تورراو"
+        },
+        {
+            "Code": "139784",
+            "Name": "Torre de Moncorvo",
+            "NameAr": "تورري دي مونكورفو"
+        },
+        {
+            "Code": "139345",
+            "Name": "Torreira",
+            "NameAr": "توررييرا"
+        },
+        {
+            "Code": "139791",
+            "Name": "Torres Novas",
+            "NameAr": "تورريس نوفاس"
+        },
+        {
+            "Code": "139348",
+            "Name": "Torres Vedras",
+            "NameAr": "تورريس فيدراس"
+        },
+        {
+            "Code": "140081",
+            "Name": "Trancoso",
+            "NameAr": "ترانكوسو"
+        },
+        {
+            "Code": "139807",
+            "Name": "Travancas",
+            "NameAr": "ترافانكاس"
+        },
+        {
+            "Code": "139372",
+            "Name": "Travancinha",
+            "NameAr": "ترافانكينها"
+        },
+        {
+            "Code": "140839",
+            "Name": "Trofa,   Porto District",
+            "NameAr": "تروفا بورتو ديستريكت"
+        },
+        {
+            "Code": "139395",
+            "Name": "Troia",
+            "NameAr": "ترويا"
+        },
+        {
+            "Code": "141526",
+            "Name": "Turcifal",
+            "NameAr": "توركيفال"
+        },
+        {
+            "Code": "141562",
+            "Name": "Unhais da Serra",
+            "NameAr": "ونهايس دا سيررا"
+        },
+        {
+            "Code": "141590",
+            "Name": "Vagos",
+            "NameAr": "فاجوس"
+        },
+        {
+            "Code": "141289",
+            "Name": "Valado dos Frades",
+            "NameAr": "فالادو دوس فراديس"
+        },
+        {
+            "Code": "141295",
+            "Name": "Valdigem",
+            "NameAr": "فالديجيم"
+        },
+        {
+            "Code": "141422",
+            "Name": "Vale de Amoreira",
+            "NameAr": "فالي دي امورييرا"
+        },
+        {
+            "Code": "141127",
+            "Name": "Vale de Cambra",
+            "NameAr": "فالي دي كامبرا"
+        },
+        {
+            "Code": "141128",
+            "Name": "Vale de Mendiz",
+            "NameAr": "فالي دي مينديز"
+        },
+        {
+            "Code": "141423",
+            "Name": "Vale de Parra",
+            "NameAr": "فالي دي باررا"
+        },
+        {
+            "Code": "140581",
+            "Name": "Vale do Garrao",
+            "NameAr": "فالي دو جارراو"
+        },
+        {
+            "Code": "148414",
+            "Name": "Vale do Lobo",
+            "NameAr": "فالي دو لوبو"
+        },
+        {
+            "Code": "148415",
+            "Name": "Valenca do Douro",
+            "NameAr": "فالينكا دو دوورو"
+        },
+        {
+            "Code": "142517",
+            "Name": "Valenca do Minho",
+            "NameAr": "فالينكا دو مينهو"
+        },
+        {
+            "Code": "141440",
+            "Name": "Valongo,   Porto District",
+            "NameAr": "فالونجو بورتو ديستريكت"
+        },
+        {
+            "Code": "140598",
+            "Name": "Valpacos",
+            "NameAr": "فالباكوس"
+        },
+        {
+            "Code": "107218",
+            "Name": "Varzea",
+            "NameAr": "فارزيا"
+        },
+        {
+            "Code": "148444",
+            "Name": "Vau",
+            "NameAr": "فاو"
+        },
+        {
+            "Code": "141468",
+            "Name": "Velas",
+            "NameAr": "فيلاس"
+        },
+        {
+            "Code": "148460",
+            "Name": "Venda Nova",
+            "NameAr": "فيندا نوفا"
+        },
+        {
+            "Code": "148461",
+            "Name": "Vendas Novas",
+            "NameAr": "فينداس نوفاس"
+        },
+        {
+            "Code": "148466",
+            "Name": "Ventosa",
+            "NameAr": "فينتوسا"
+        },
+        {
+            "Code": "142010",
+            "Name": "Viana do Castelo",
+            "NameAr": "فيانا دو كاستيلو"
+        },
+        {
+            "Code": "155474",
+            "Name": "Viana do Castelo District",
+            "NameAr": "فيانا دو كاستيلو ديستريكت"
+        },
+        {
+            "Code": "148487",
+            "Name": "Vidago",
+            "NameAr": "فيداجو"
+        },
+        {
+            "Code": "142018",
+            "Name": "Vidigueira",
+            "NameAr": "فيديجوييرا"
+        },
+        {
+            "Code": "142019",
+            "Name": "Vieira de Leiria",
+            "NameAr": "فيييرا دي لييريا"
+        },
+        {
+            "Code": "141502",
+            "Name": "Vieira do Minho",
+            "NameAr": "فيييرا دو مينهو"
+        },
+        {
+            "Code": "148502",
+            "Name": "Vila Baleira",
+            "NameAr": "فيلا بالييرا"
+        },
+        {
+            "Code": "107867",
+            "Name": "Vila de Rei",
+            "NameAr": "فيلا دي ريي"
+        },
+        {
+            "Code": "142586",
+            "Name": "Vila do Bispo",
+            "NameAr": "فيلا دو بيسبو"
+        },
+        {
+            "Code": "142587",
+            "Name": "Vila do Conde,   Porto District",
+            "NameAr": "فيلا دو كوندي بورتو ديستريكت"
+        },
+        {
+            "Code": "141507",
+            "Name": "Vila do Paco",
+            "NameAr": "فيلا دو باكو"
+        },
+        {
+            "Code": "141870",
+            "Name": "Vila do Porto",
+            "NameAr": "فيلا دو بورتو"
+        },
+        {
+            "Code": "142025",
+            "Name": "Vila Flor",
+            "NameAr": "فيلا فلور"
+        },
+        {
+            "Code": "140894",
+            "Name": "Vila Franca de Xira",
+            "NameAr": "فيلا فرانكا دي كسيرا"
+        },
+        {
+            "Code": "142026",
+            "Name": "Vila Franca do Campo",
+            "NameAr": "فيلا فرانكا دو كامبو"
+        },
+        {
+            "Code": "148503",
+            "Name": "Vila Nova de Cacela",
+            "NameAr": "فيلا نوفا دي كاكيلا"
+        },
+        {
+            "Code": "148504",
+            "Name": "Vila Nova de Cerveira",
+            "NameAr": "فيلا نوفا دي كيرفييرا"
+        },
+        {
+            "Code": "141327",
+            "Name": "Vila Nova de Famalicao",
+            "NameAr": "فيلا نوفا دي فاماليكاو"
+        },
+        {
+            "Code": "141328",
+            "Name": "Vila Nova de Gaia,   Porto District",
+            "NameAr": "فيلا نوفا دي جايا بورتو ديستريكت"
+        },
+        {
+            "Code": "141329",
+            "Name": "Vila Nova de Milfontes",
+            "NameAr": "فيلا نوفا دي ميلفونتيس"
+        },
+        {
+            "Code": "142326",
+            "Name": "Vila Nova de Poiares",
+            "NameAr": "فيلا نوفا دي بوياريس"
+        },
+        {
+            "Code": "142327",
+            "Name": "Vila Nova de Santo Andre",
+            "NameAr": "فيلا نوفا دي سانتو اندري"
+        },
+        {
+            "Code": "107689",
+            "Name": "Vila Nova de Tazem",
+            "NameAr": "فيلا نوفا دي تازيم"
+        },
+        {
+            "Code": "142027",
+            "Name": "Vila Nova do Corvo",
+            "NameAr": "فيلا نوفا دو كورفو"
+        },
+        {
+            "Code": "142028",
+            "Name": "Vila Pouca da Beira",
+            "NameAr": "فيلا بووكا دا بييرا"
+        },
+        {
+            "Code": "108663",
+            "Name": "Vila Pouca de Aguiar",
+            "NameAr": "فيلا بووكا دي اجويار"
+        },
+        {
+            "Code": "141508",
+            "Name": "Vila Praia de Ancora",
+            "NameAr": "فيلا برايا دي انكورا"
+        },
+        {
+            "Code": "141871",
+            "Name": "Vila Real",
+            "NameAr": "فيلا ريال"
+        },
+        {
+            "Code": "141872",
+            "Name": "Vila Real de Santo Antonio",
+            "NameAr": "فيلا ريال دي سانتو انتونيو"
+        },
+        {
+            "Code": "142588",
+            "Name": "Vila Ruiva",
+            "NameAr": "فيلا رويفا"
+        },
+        {
+            "Code": "107690",
+            "Name": "Vila Velha de Rodao",
+            "NameAr": "فيلا فيلها دي روداو"
+        },
+        {
+            "Code": "140896",
+            "Name": "Vila Verde",
+            "NameAr": "فيلا فيردي"
+        },
+        {
+            "Code": "141330",
+            "Name": "Vila Vicosa",
+            "NameAr": "فيلا فيكوسا"
+        },
+        {
+            "Code": "142590",
+            "Name": "Vila-Nova",
+            "NameAr": "فيلا-نوفا"
+        },
+        {
+            "Code": "142332",
+            "Name": "Vilamoura,   Algarve",
+            "NameAr": "فيلاموورا الجارفي"
+        },
+        {
+            "Code": "160806",
+            "Name": "Vilar Da Veiga",
+            "NameAr": "فيلار دا فييجا"
+        },
+        {
+            "Code": "142592",
+            "Name": "Vilar Formoso",
+            "NameAr": "فيلار فورموسو"
+        },
+        {
+            "Code": "141894",
+            "Name": "Vimioso",
+            "NameAr": "فيميوسو"
+        },
+        {
+            "Code": "107876",
+            "Name": "Vinhais",
+            "NameAr": "فينهايس"
+        },
+        {
+            "Code": "140926",
+            "Name": "Viseu",
+            "NameAr": "فيسيو"
+        },
+        {
+            "Code": "148551",
+            "Name": "Vizela",
+            "NameAr": "فيزيلا"
+        },
+        {
+            "Code": "143206",
+            "Name": "Vouzela",
+            "NameAr": "فووزيلا"
+        },
+        {
+            "Code": "142480",
+            "Name": "Zambujeira do Mar",
+            "NameAr": "زامبوجييرا دو مار"
+        }
+    ],
+    "totalCities": 572
+}

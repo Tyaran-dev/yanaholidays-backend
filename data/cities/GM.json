@@ -1,0 +1,92 @@
+{
+    "id": "GM",
+    "countryCode": "GM",
+    "cities": [
+        {
+            "Code": "110116",
+            "Name": "Baboon Islands",
+            "NameAr": "بابوون يسلاندس"
+        },
+        {
+            "Code": "110656",
+            "Name": "Bakau",
+            "NameAr": "باكاو"
+        },
+        {
+            "Code": "110991",
+            "Name": "Banjul",
+            "NameAr": "بانجول"
+        },
+        {
+            "Code": "111573",
+            "Name": "Bijilo",
+            "NameAr": "بيجيلو"
+        },
+        {
+            "Code": "105675",
+            "Name": "Brufut Heights",
+            "NameAr": "بروفوت هييجهتس"
+        },
+        {
+            "Code": "112829",
+            "Name": "Cape Point",
+            "NameAr": "كابي بوينت"
+        },
+        {
+            "Code": "116365",
+            "Name": "Dog Island (Gambia)",
+            "NameAr": "دوج يسلاند جامبيا"
+        },
+        {
+            "Code": "118237",
+            "Name": "Fajara",
+            "NameAr": "فاجارا"
+        },
+        {
+            "Code": "105833",
+            "Name": "Gunjur",
+            "NameAr": "جونجور"
+        },
+        {
+            "Code": "122179",
+            "Name": "Janjangbureh",
+            "NameAr": "جانجانجبوريه"
+        },
+        {
+            "Code": "123197",
+            "Name": "Kanilai",
+            "NameAr": "كانيلاي"
+        },
+        {
+            "Code": "123514",
+            "Name": "Kartung",
+            "NameAr": "كارتونج"
+        },
+        {
+            "Code": "123142",
+            "Name": "Kerr Sering",
+            "NameAr": "كيرر سيرينج"
+        },
+        {
+            "Code": "124410",
+            "Name": "Kotu",
+            "NameAr": "كوتو"
+        },
+        {
+            "Code": "135567",
+            "Name": "Sanyang",
+            "NameAr": "سانيانج"
+        },
+        {
+            "Code": "136278",
+            "Name": "Serrekunda",
+            "NameAr": "سيرريكوندا"
+        },
+        {
+            "Code": "107624",
+            "Name": "Yundum",
+            "NameAr": "يوندوم"
+        }
+    ],
+    "totalCities": 17
+}

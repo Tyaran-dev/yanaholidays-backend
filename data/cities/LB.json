@@ -1,0 +1,252 @@
+{
+    "id": "LB",
+    "countryCode": "LB",
+    "cities": [
+        {
+            "Code": "101337",
+            "Name": "Ain Ebel",
+            "NameAr": "اين يبيل"
+        },
+        {
+            "Code": "105070",
+            "Name": "Ajaltun",
+            "NameAr": "اجالتون"
+        },
+        {
+            "Code": "100378",
+            "Name": "Al Arz",
+            "NameAr": "ال ارز"
+        },
+        {
+            "Code": "105154",
+            "Name": "Al-Qalamoun",
+            "NameAr": "ال-قالاموون"
+        },
+        {
+            "Code": "100638",
+            "Name": "Aley",
+            "NameAr": "اليي"
+        },
+        {
+            "Code": "105185",
+            "Name": "Baabdath",
+            "NameAr": "باابداته"
+        },
+        {
+            "Code": "109780",
+            "Name": "Baalbek",
+            "NameAr": "باالبيك"
+        },
+        {
+            "Code": "110517",
+            "Name": "Barouk",
+            "NameAr": "بارووك"
+        },
+        {
+            "Code": "111399",
+            "Name": "Batroun",
+            "NameAr": "باتروون"
+        },
+        {
+            "Code": "110925",
+            "Name": "Beirut",
+            "NameAr": "بيروت"
+        },
+        {
+            "Code": "111632",
+            "Name": "Beiteddine",
+            "NameAr": "بييتيدديني"
+        },
+        {
+            "Code": "150164",
+            "Name": "Bekaa",
+            "NameAr": "بيكاا"
+        },
+        {
+            "Code": "111291",
+            "Name": "Bhamdoun",
+            "NameAr": "بهامدوون"
+        },
+        {
+            "Code": "105650",
+            "Name": "Bikfaya",
+            "NameAr": "بيكفايا"
+        },
+        {
+            "Code": "112393",
+            "Name": "Broumana",
+            "NameAr": "بروومانا"
+        },
+        {
+            "Code": "113195",
+            "Name": "Bsalim",
+            "NameAr": "بساليم"
+        },
+        {
+            "Code": "113196",
+            "Name": "Bsharri",
+            "NameAr": "بسهارري"
+        },
+        {
+            "Code": "112842",
+            "Name": "Byblos",
+            "NameAr": "بيبلوس"
+        },
+        {
+            "Code": "114550",
+            "Name": "Chtaura",
+            "NameAr": "كهتاورا"
+        },
+        {
+            "Code": "251111",
+            "Name": "Dahr El Souane",
+            "NameAr": "داهر يل سوواني"
+        },
+        {
+            "Code": "104939",
+            "Name": "Damour",
+            "NameAr": "داموور"
+        },
+        {
+            "Code": "417082",
+            "Name": "Deir al-Qamar",
+            "NameAr": "ديير ال-قامار"
+        },
+        {
+            "Code": "117356",
+            "Name": "Dhour El Choueir",
+            "NameAr": "دهوور يل كهوويير"
+        },
+        {
+            "Code": "105788",
+            "Name": "Douma",
+            "NameAr": "دووما"
+        },
+        {
+            "Code": "149010",
+            "Name": "Ehden",
+            "NameAr": "يهدين"
+        },
+        {
+            "Code": "117597",
+            "Name": "Faraya-Mzaar",
+            "NameAr": "فارايا-مزاار"
+        },
+        {
+            "Code": "106114",
+            "Name": "Gouvernement Libanonberg",
+            "NameAr": "جووفيرنيمينت ليبانونبيرج"
+        },
+        {
+            "Code": "106135",
+            "Name": "Hamat",
+            "NameAr": "هامات"
+        },
+        {
+            "Code": "106137",
+            "Name": "Hammana",
+            "NameAr": "هاممانا"
+        },
+        {
+            "Code": "104077",
+            "Name": "Jbaa",
+            "NameAr": "جباا"
+        },
+        {
+            "Code": "121799",
+            "Name": "Jezzine",
+            "NameAr": "جيززيني"
+        },
+        {
+            "Code": "145834",
+            "Name": "Jiyeh",
+            "NameAr": "جيييه"
+        },
+        {
+            "Code": "122890",
+            "Name": "Jounieh",
+            "NameAr": "جوونييه"
+        },
+        {
+            "Code": "122951",
+            "Name": "Kaslik",
+            "NameAr": "كاسليك"
+        },
+        {
+            "Code": "103959",
+            "Name": "Keserwan",
+            "NameAr": "كيسيروان"
+        },
+        {
+            "Code": "123148",
+            "Name": "Kfardebiane",
+            "NameAr": "كفارديبياني"
+        },
+        {
+            "Code": "108377",
+            "Name": "Kobayat",
+            "NameAr": "كوبايات"
+        },
+        {
+            "Code": "241387",
+            "Name": "Mayrouba",
+            "NameAr": "مايرووبا"
+        },
+        {
+            "Code": "102616",
+            "Name": "Mechref",
+            "NameAr": "ميكهريف"
+        },
+        {
+            "Code": "104360",
+            "Name": "Miziara",
+            "NameAr": "ميزيارا"
+        },
+        {
+            "Code": "129244",
+            "Name": "Mzaar Kfardebian",
+            "NameAr": "مزاار كفارديبيان"
+        },
+        {
+            "Code": "281038",
+            "Name": "Naqoura",
+            "NameAr": "ناقوورا"
+        },
+        {
+            "Code": "102677",
+            "Name": "Rayfun",
+            "NameAr": "رايفون"
+        },
+        {
+            "Code": "134689",
+            "Name": "Saida",
+            "NameAr": "سايدا"
+        },
+        {
+            "Code": "106362",
+            "Name": "Tabarja",
+            "NameAr": "تابارجا"
+        },
+        {
+            "Code": "141794",
+            "Name": "Tripoli",
+            "NameAr": "تريبولي"
+        },
+        {
+            "Code": "107803",
+            "Name": "Tyre",
+            "NameAr": "تيري"
+        },
+        {
+            "Code": "142928",
+            "Name": "Zahle",
+            "NameAr": "زاهلي"
+        },
+        {
+            "Code": "108700",
+            "Name": "Zefta",
+            "NameAr": "زيفتا"
+        }
+    ],
+    "totalCities": 49
+}

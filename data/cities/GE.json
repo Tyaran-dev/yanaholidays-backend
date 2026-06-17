@@ -1,0 +1,287 @@
+{
+    "id": "GE",
+    "countryCode": "GE",
+    "cities": [
+        {
+            "Code": "104977",
+            "Name": "Achalziche",
+            "NameAr": "اكهالزيكهي"
+        },
+        {
+            "Code": "148926",
+            "Name": "Akhaltsikhe",
+            "NameAr": "اكهالتسيكهي"
+        },
+        {
+            "Code": "269226",
+            "Name": "Akhmeta",
+            "NameAr": "اكهميتا"
+        },
+        {
+            "Code": "105157",
+            "Name": "Ambrolauri",
+            "NameAr": "امبرولاوري"
+        },
+        {
+            "Code": "101560",
+            "Name": "Anaklia",
+            "NameAr": "اناكليا"
+        },
+        {
+            "Code": "280974",
+            "Name": "Babaneuri",
+            "NameAr": "بابانيوري"
+        },
+        {
+            "Code": "110660",
+            "Name": "Bakuriani",
+            "NameAr": "باكورياني"
+        },
+        {
+            "Code": "111040",
+            "Name": "Batumi",
+            "NameAr": "باتومي"
+        },
+        {
+            "Code": "105659",
+            "Name": "Bolnisi",
+            "NameAr": "بولنيسي"
+        },
+        {
+            "Code": "111382",
+            "Name": "Borjomi",
+            "NameAr": "بورجومي"
+        },
+        {
+            "Code": "101408",
+            "Name": "Chakvi",
+            "NameAr": "كهاكفي"
+        },
+        {
+            "Code": "298488",
+            "Name": "Dusheti",
+            "NameAr": "دوسهيتي"
+        },
+        {
+            "Code": "108224",
+            "Name": "Eniseli",
+            "NameAr": "ينيسيلي"
+        },
+        {
+            "Code": "117980",
+            "Name": "Gagra",
+            "NameAr": "جاجرا"
+        },
+        {
+            "Code": "119684",
+            "Name": "Gonio",
+            "NameAr": "جونيو"
+        },
+        {
+            "Code": "148931",
+            "Name": "Gori",
+            "NameAr": "جوري"
+        },
+        {
+            "Code": "105924",
+            "Name": "Grigoleti",
+            "NameAr": "جريجوليتي"
+        },
+        {
+            "Code": "119764",
+            "Name": "Gudauri",
+            "NameAr": "جوداوري"
+        },
+        {
+            "Code": "108276",
+            "Name": "Gudauta",
+            "NameAr": "جوداوتا"
+        },
+        {
+            "Code": "417492",
+            "Name": "Harsum",
+            "NameAr": "هارسوم"
+        },
+        {
+            "Code": "153792",
+            "Name": "Imereti",
+            "NameAr": "يميريتي"
+        },
+        {
+            "Code": "124284",
+            "Name": "Kobuleti",
+            "NameAr": "كوبوليتي"
+        },
+        {
+            "Code": "123786",
+            "Name": "Kutaisi",
+            "NameAr": "كوتايسي"
+        },
+        {
+            "Code": "160254",
+            "Name": "Kvareli",
+            "NameAr": "كفاريلي"
+        },
+        {
+            "Code": "101980",
+            "Name": "Kvesheti",
+            "NameAr": "كفيسهيتي"
+        },
+        {
+            "Code": "103658",
+            "Name": "Kwariati",
+            "NameAr": "كوارياتي"
+        },
+        {
+            "Code": "105550",
+            "Name": "Lagodekhi",
+            "NameAr": "لاجوديكهي"
+        },
+        {
+            "Code": "104019",
+            "Name": "Makhinjauri",
+            "NameAr": "ماكهينجاوري"
+        },
+        {
+            "Code": "106476",
+            "Name": "Manglisi",
+            "NameAr": "مانجليسي"
+        },
+        {
+            "Code": "128220",
+            "Name": "Mestia",
+            "NameAr": "ميستيا"
+        },
+        {
+            "Code": "417333",
+            "Name": "Misaktsieli",
+            "NameAr": "ميساكتسييلي"
+        },
+        {
+            "Code": "103006",
+            "Name": "Mzcheta",
+            "NameAr": "مزكهيتا"
+        },
+        {
+            "Code": "104267",
+            "Name": "Natachtari",
+            "NameAr": "ناتاكهتاري"
+        },
+        {
+            "Code": "104549",
+            "Name": "Nowy Afon",
+            "NameAr": "نووي افون"
+        },
+        {
+            "Code": "132983",
+            "Name": "Poti",
+            "NameAr": "بوتي"
+        },
+        {
+            "Code": "133157",
+            "Name": "Qwareli",
+            "NameAr": "قواريلي"
+        },
+        {
+            "Code": "103226",
+            "Name": "Rustawi",
+            "NameAr": "روستاوي"
+        },
+        {
+            "Code": "417084",
+            "Name": "Sachkhere",
+            "NameAr": "ساكهكهيري"
+        },
+        {
+            "Code": "232438",
+            "Name": "Sairme",
+            "NameAr": "سايرمي"
+        },
+        {
+            "Code": "286284",
+            "Name": "Samtredia",
+            "NameAr": "سامتريديا"
+        },
+        {
+            "Code": "106315",
+            "Name": "Shekvetili",
+            "NameAr": "سهيكفيتيلي"
+        },
+        {
+            "Code": "136310",
+            "Name": "Sighnaghi",
+            "NameAr": "سيجهناجهي"
+        },
+        {
+            "Code": "137595",
+            "Name": "Signaghi",
+            "NameAr": "سيجناجهي"
+        },
+        {
+            "Code": "107237",
+            "Name": "Sochumi",
+            "NameAr": "سوكهومي"
+        },
+        {
+            "Code": "418072",
+            "Name": "Sparta",
+            "NameAr": "سبارتا"
+        },
+        {
+            "Code": "138262",
+            "Name": "Stepantsminda",
+            "NameAr": "ستيبانتسميندا"
+        },
+        {
+            "Code": "107271",
+            "Name": "Sugdidi",
+            "NameAr": "سوجديدي"
+        },
+        {
+            "Code": "148935",
+            "Name": "Tbilisi",
+            "NameAr": "تبيليسي"
+        },
+        {
+            "Code": "139046",
+            "Name": "Telavi",
+            "NameAr": "تيلافي"
+        },
+        {
+            "Code": "417539",
+            "Name": "Tskaltubo",
+            "NameAr": "تسكالتوبو"
+        },
+        {
+            "Code": "141102",
+            "Name": "Ureki",
+            "NameAr": "وريكي"
+        },
+        {
+            "Code": "148928",
+            "Name": "Vardzia",
+            "NameAr": "فاردزيا"
+        },
+        {
+            "Code": "107807",
+            "Name": "Zandrypsch",
+            "NameAr": "زاندريبسكه"
+        },
+        {
+            "Code": "417202",
+            "Name": "Zestafoni",
+            "NameAr": "زيستافوني"
+        },
+        {
+            "Code": "107431",
+            "Name": "Zqaltubo",
+            "NameAr": "زقالتوبو"
+        },
+        {
+            "Code": "302414",
+            "Name": "Zugdidi",
+            "NameAr": "زوجديدي"
+        }
+    ],
+    "totalCities": 56
+}

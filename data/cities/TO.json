@@ -1,0 +1,57 @@
+{
+    "id": "TO",
+    "countryCode": "TO",
+    "cities": [
+        {
+            "Code": "110077",
+            "Name": "Atata",
+            "NameAr": "اتاتا"
+        },
+        {
+            "Code": "150742",
+            "Name": "Eua",
+            "NameAr": "يوا"
+        },
+        {
+            "Code": "117748",
+            "Name": "Fafa Island",
+            "NameAr": "فافا يسلاند"
+        },
+        {
+            "Code": "117656",
+            "Name": "Foa",
+            "NameAr": "فوا"
+        },
+        {
+            "Code": "268790",
+            "Name": "Mala",
+            "NameAr": "مالا"
+        },
+        {
+            "Code": "129758",
+            "Name": "Neiafu",
+            "NameAr": "نييافو"
+        },
+        {
+            "Code": "150650",
+            "Name": "Niuafo'ou",
+            "NameAr": "نيوافووو"
+        },
+        {
+            "Code": "151157",
+            "Name": "Niuatoputapu",
+            "NameAr": "نيواتوبوتابو"
+        },
+        {
+            "Code": "146929",
+            "Name": "Nuku'Alofa",
+            "NameAr": "نوكوالوفا"
+        },
+        {
+            "Code": "140327",
+            "Name": "Tongatapu Island",
+            "NameAr": "تونجاتابو يسلاند"
+        }
+    ],
+    "totalCities": 10
+}

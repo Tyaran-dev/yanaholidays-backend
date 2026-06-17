@@ -1,0 +1,317 @@
+{
+    "id": "LU",
+    "countryCode": "LU",
+    "cities": [
+        {
+            "Code": "106065",
+            "Name": "Aansebuerg",
+            "NameAr": "اانسيبويرج"
+        },
+        {
+            "Code": "109996",
+            "Name": "Asselborn",
+            "NameAr": "اسسيلبورن"
+        },
+        {
+            "Code": "109702",
+            "Name": "Bad Mondorf",
+            "NameAr": "باد موندورف"
+        },
+        {
+            "Code": "110552",
+            "Name": "Beaufort",
+            "NameAr": "بياوفورت"
+        },
+        {
+            "Code": "111652",
+            "Name": "Belvaux",
+            "NameAr": "بيلفاوكس"
+        },
+        {
+            "Code": "144195",
+            "Name": "Berdorf",
+            "NameAr": "بيردورف"
+        },
+        {
+            "Code": "108050",
+            "Name": "Beringen",
+            "NameAr": "بيرينجين"
+        },
+        {
+            "Code": "105398",
+            "Name": "Bettembourg",
+            "NameAr": "بيتتيمبوورج"
+        },
+        {
+            "Code": "105293",
+            "Name": "Bettendorf",
+            "NameAr": "بيتتيندورف"
+        },
+        {
+            "Code": "112296",
+            "Name": "Bollendorf-Pont",
+            "NameAr": "بولليندورف-بونت"
+        },
+        {
+            "Code": "112518",
+            "Name": "Bourscheid",
+            "NameAr": "بوورسكهييد"
+        },
+        {
+            "Code": "112813",
+            "Name": "Canach",
+            "NameAr": "كاناكه"
+        },
+        {
+            "Code": "115232",
+            "Name": "Clervaux",
+            "NameAr": "كليرفاوكس"
+        },
+        {
+            "Code": "117362",
+            "Name": "Diekirch",
+            "NameAr": "دييكيركه"
+        },
+        {
+            "Code": "417368",
+            "Name": "Differdange",
+            "NameAr": "ديففيردانجي"
+        },
+        {
+            "Code": "116995",
+            "Name": "Dirbach",
+            "NameAr": "ديرباكه"
+        },
+        {
+            "Code": "117030",
+            "Name": "Dudelange",
+            "NameAr": "دوديلانجي"
+        },
+        {
+            "Code": "116487",
+            "Name": "Echternach",
+            "NameAr": "يكهتيرناكه"
+        },
+        {
+            "Code": "105798",
+            "Name": "Ehnen",
+            "NameAr": "يهنين"
+        },
+        {
+            "Code": "106034",
+            "Name": "Eisenbach",
+            "NameAr": "ييسينباكه"
+        },
+        {
+            "Code": "117249",
+            "Name": "Erpeldange",
+            "NameAr": "يربيلدانجي"
+        },
+        {
+            "Code": "118105",
+            "Name": "Esch-sur-Alzette",
+            "NameAr": "يسكه-سور-الزيتتي"
+        },
+        {
+            "Code": "116873",
+            "Name": "Esch-sur-Sure",
+            "NameAr": "يسكه-سور-سوري"
+        },
+        {
+            "Code": "118104",
+            "Name": "Eschdorf",
+            "NameAr": "يسكهدورف"
+        },
+        {
+            "Code": "118159",
+            "Name": "Findel",
+            "NameAr": "فينديل"
+        },
+        {
+            "Code": "102230",
+            "Name": "Fischbach",
+            "NameAr": "فيسكهباكه"
+        },
+        {
+            "Code": "117658",
+            "Name": "Foetz",
+            "NameAr": "فويتز"
+        },
+        {
+            "Code": "117960",
+            "Name": "Frisange",
+            "NameAr": "فريسانجي"
+        },
+        {
+            "Code": "119597",
+            "Name": "Gaichel",
+            "NameAr": "جايكهيل"
+        },
+        {
+            "Code": "145445",
+            "Name": "Grevenmacher",
+            "NameAr": "جريفينماكهير"
+        },
+        {
+            "Code": "120146",
+            "Name": "Grundhof",
+            "NameAr": "جروندهوف"
+        },
+        {
+            "Code": "145511",
+            "Name": "Haller",
+            "NameAr": "هاللير"
+        },
+        {
+            "Code": "105948",
+            "Name": "Heffingen",
+            "NameAr": "هيففينجين"
+        },
+        {
+            "Code": "120652",
+            "Name": "Heiderscheid",
+            "NameAr": "هييديرسكهييد"
+        },
+        {
+            "Code": "417018",
+            "Name": "Helperknapp",
+            "NameAr": "هيلبيركنابب"
+        },
+        {
+            "Code": "121671",
+            "Name": "Hoscheid",
+            "NameAr": "هوسكهييد"
+        },
+        {
+            "Code": "102365",
+            "Name": "Junglinster",
+            "NameAr": "جونجلينستير"
+        },
+        {
+            "Code": "124189",
+            "Name": "Kautenbach",
+            "NameAr": "كاوتينباكه"
+        },
+        {
+            "Code": "124541",
+            "Name": "Larochette",
+            "NameAr": "لاروكهيتتي"
+        },
+        {
+            "Code": "103976",
+            "Name": "Lasauvage",
+            "NameAr": "لاساوفاجي"
+        },
+        {
+            "Code": "126573",
+            "Name": "Lipperscheid",
+            "NameAr": "ليببيرسكهييد"
+        },
+        {
+            "Code": "126587",
+            "Name": "Livange",
+            "NameAr": "ليفانجي"
+        },
+        {
+            "Code": "146395",
+            "Name": "Luxembourg",
+            "NameAr": "لوكسيمبوورج"
+        },
+        {
+            "Code": "146455",
+            "Name": "Mamer",
+            "NameAr": "مامير"
+        },
+        {
+            "Code": "130238",
+            "Name": "Olm",
+            "NameAr": "ولم"
+        },
+        {
+            "Code": "103425",
+            "Name": "Perl",
+            "NameAr": "بيرل"
+        },
+        {
+            "Code": "147165",
+            "Name": "Petange",
+            "NameAr": "بيتانجي"
+        },
+        {
+            "Code": "133485",
+            "Name": "Pommerloch",
+            "NameAr": "بومميرلوكه"
+        },
+        {
+            "Code": "133323",
+            "Name": "Remich",
+            "NameAr": "ريميكه"
+        },
+        {
+            "Code": "147550",
+            "Name": "Roeser",
+            "NameAr": "رويسير"
+        },
+        {
+            "Code": "136669",
+            "Name": "Scheidgen",
+            "NameAr": "سكهييدجين"
+        },
+        {
+            "Code": "136583",
+            "Name": "Schengen",
+            "NameAr": "سكهينجين"
+        },
+        {
+            "Code": "136673",
+            "Name": "Schifflange",
+            "NameAr": "سكهيففلانجي"
+        },
+        {
+            "Code": "137363",
+            "Name": "Senningerberg",
+            "NameAr": "سيننينجيربيرج"
+        },
+        {
+            "Code": "138938",
+            "Name": "Strassen",
+            "NameAr": "ستراسسين"
+        },
+        {
+            "Code": "141205",
+            "Name": "Troisvierges",
+            "NameAr": "ترويسفييرجيس"
+        },
+        {
+            "Code": "142310",
+            "Name": "Vianden",
+            "NameAr": "فياندين"
+        },
+        {
+            "Code": "107886",
+            "Name": "Walferdange",
+            "NameAr": "والفيردانجي"
+        },
+        {
+            "Code": "142245",
+            "Name": "Wallendorf-Pont",
+            "NameAr": "والليندورف-بونت"
+        },
+        {
+            "Code": "142641",
+            "Name": "Weilerbach",
+            "NameAr": "وييليرباكه"
+        },
+        {
+            "Code": "107892",
+            "Name": "Weiswampach",
+            "NameAr": "وييسوامباكه"
+        },
+        {
+            "Code": "141733",
+            "Name": "Wiltz",
+            "NameAr": "ويلتز"
+        }
+    ],
+    "totalCities": 62
+}

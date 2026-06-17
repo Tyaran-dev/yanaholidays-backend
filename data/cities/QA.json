@@ -1,0 +1,42 @@
+{
+    "id": "QA",
+    "countryCode": "QA",
+    "cities": [
+        {
+            "Code": "415422",
+            "Name": "Al Shamal",
+            "NameAr": "ال سهامال"
+        },
+        {
+            "Code": "161045",
+            "Name": "Ar-Ru'ays/Al Ruwais",
+            "NameAr": "ار-روايس ال رووايس"
+        },
+        {
+            "Code": "116201",
+            "Name": "Doha",
+            "NameAr": "دوها"
+        },
+        {
+            "Code": "417570",
+            "Name": "Dukhan",
+            "NameAr": "دوكهان"
+        },
+        {
+            "Code": "402580",
+            "Name": "Lusail",
+            "NameAr": "لوسايل"
+        },
+        {
+            "Code": "161102",
+            "Name": "Mesaieed",
+            "NameAr": "ميسايييد"
+        },
+        {
+            "Code": "417027",
+            "Name": "Sumaysimah",
+            "NameAr": "سومايسيماه"
+        }
+    ],
+    "totalCities": 7
+}

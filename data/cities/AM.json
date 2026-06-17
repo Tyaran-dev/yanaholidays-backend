@@ -1,0 +1,137 @@
+{
+    "id": "AM",
+    "countryCode": "AM",
+    "cities": [
+        {
+            "Code": "100353",
+            "Name": "Aghveran",
+            "NameAr": "اجهفيران"
+        },
+        {
+            "Code": "102150",
+            "Name": "Alaverdi",
+            "NameAr": "الافيردي"
+        },
+        {
+            "Code": "105169",
+            "Name": "Argavand",
+            "NameAr": "ارجافاند"
+        },
+        {
+            "Code": "149587",
+            "Name": "Arzakan",
+            "NameAr": "ارزاكان"
+        },
+        {
+            "Code": "116657",
+            "Name": "Dilijan",
+            "NameAr": "ديليجان"
+        },
+        {
+            "Code": "102324",
+            "Name": "Dzoraget",
+            "NameAr": "دزوراجيت"
+        },
+        {
+            "Code": "119784",
+            "Name": "Gjumri",
+            "NameAr": "ججومري"
+        },
+        {
+            "Code": "119824",
+            "Name": "Goris",
+            "NameAr": "جوريس"
+        },
+        {
+            "Code": "417847",
+            "Name": "Gyulagarak",
+            "NameAr": "جيولاجاراك"
+        },
+        {
+            "Code": "251010",
+            "Name": "Hankavan",
+            "NameAr": "هانكافان"
+        },
+        {
+            "Code": "104057",
+            "Name": "Hrazdan",
+            "NameAr": "هرازدان"
+        },
+        {
+            "Code": "101923",
+            "Name": "Ijevan",
+            "NameAr": "يجيفان"
+        },
+        {
+            "Code": "122756",
+            "Name": "Jermuk",
+            "NameAr": "جيرموك"
+        },
+        {
+            "Code": "106169",
+            "Name": "Kalavan",
+            "NameAr": "كالافان"
+        },
+        {
+            "Code": "151776",
+            "Name": "Leninakan",
+            "NameAr": "لينيناكان"
+        },
+        {
+            "Code": "129983",
+            "Name": "Odzun",
+            "NameAr": "ودزون"
+        },
+        {
+            "Code": "137375",
+            "Name": "Sevan",
+            "NameAr": "سيفان"
+        },
+        {
+            "Code": "106896",
+            "Name": "Sisian",
+            "NameAr": "سيسيان"
+        },
+        {
+            "Code": "140660",
+            "Name": "Tsakhkadzor",
+            "NameAr": "تساكهكادزور"
+        },
+        {
+            "Code": "107653",
+            "Name": "Tsapatagh",
+            "NameAr": "تساباتاجه"
+        },
+        {
+            "Code": "107937",
+            "Name": "Urtsadzor",
+            "NameAr": "ورتسادزور"
+        },
+        {
+            "Code": "141447",
+            "Name": "Vanadzor",
+            "NameAr": "فانادزور"
+        },
+        {
+            "Code": "107952",
+            "Name": "Vayk",
+            "NameAr": "فايك"
+        },
+        {
+            "Code": "143317",
+            "Name": "Xankendi",
+            "NameAr": "كسانكيندي"
+        },
+        {
+            "Code": "143893",
+            "Name": "Yeghegnadzor",
+            "NameAr": "ييجهيجنادزور"
+        },
+        {
+            "Code": "143896",
+            "Name": "Yerevan",
+            "NameAr": "ييريفان"
+        }
+    ],
+    "totalCities": 26
+}

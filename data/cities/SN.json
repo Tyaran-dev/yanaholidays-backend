@@ -1,0 +1,182 @@
+{
+    "id": "SN",
+    "countryCode": "SN",
+    "cities": [
+        {
+            "Code": "100437",
+            "Name": "Abene",
+            "NameAr": "ابيني"
+        },
+        {
+            "Code": "113356",
+            "Name": "Cape Skirring",
+            "NameAr": "كابي سكيررينج"
+        },
+        {
+            "Code": "144849",
+            "Name": "Dakar",
+            "NameAr": "داكار"
+        },
+        {
+            "Code": "289524",
+            "Name": "Diamniadio",
+            "NameAr": "ديامنياديو"
+        },
+        {
+            "Code": "116662",
+            "Name": "Dionewar",
+            "NameAr": "ديونيوار"
+        },
+        {
+            "Code": "105486",
+            "Name": "Diourbel",
+            "NameAr": "ديووربيل"
+        },
+        {
+            "Code": "148861",
+            "Name": "Elinkine",
+            "NameAr": "يلينكيني"
+        },
+        {
+            "Code": "118451",
+            "Name": "Fimela",
+            "NameAr": "فيميلا"
+        },
+        {
+            "Code": "122668",
+            "Name": "Ile Goree",
+            "NameAr": "يلي جوريي"
+        },
+        {
+            "Code": "105624",
+            "Name": "Joal-Fadiout",
+            "NameAr": "جوال-فاديووت"
+        },
+        {
+            "Code": "122799",
+            "Name": "Kafountine",
+            "NameAr": "كافوونتيني"
+        },
+        {
+            "Code": "122829",
+            "Name": "Kaolack",
+            "NameAr": "كاولاكك"
+        },
+        {
+            "Code": "396583",
+            "Name": "Karang",
+            "NameAr": "كارانج"
+        },
+        {
+            "Code": "124616",
+            "Name": "La Somone",
+            "NameAr": "لا سوموني"
+        },
+        {
+            "Code": "124378",
+            "Name": "Lac Rose",
+            "NameAr": "لاك روسي"
+        },
+        {
+            "Code": "124848",
+            "Name": "Le Warang",
+            "NameAr": "لي وارانج"
+        },
+        {
+            "Code": "125273",
+            "Name": "Les Almadies",
+            "NameAr": "ليس المادييس"
+        },
+        {
+            "Code": "125896",
+            "Name": "Lompoul",
+            "NameAr": "لومبوول"
+        },
+        {
+            "Code": "102581",
+            "Name": "Louga",
+            "NameAr": "لووجا"
+        },
+        {
+            "Code": "127707",
+            "Name": "Mbodiene",
+            "NameAr": "مبودييني"
+        },
+        {
+            "Code": "150202",
+            "Name": "Mbour",
+            "NameAr": "مبوور"
+        },
+        {
+            "Code": "102035",
+            "Name": "Ndangane",
+            "NameAr": "ندانجاني"
+        },
+        {
+            "Code": "295078",
+            "Name": "Ngaparou",
+            "NameAr": "نجاباروو"
+        },
+        {
+            "Code": "149513",
+            "Name": "Niaga",
+            "NameAr": "نياجا"
+        },
+        {
+            "Code": "131129",
+            "Name": "Nijaning",
+            "NameAr": "نيجانينج"
+        },
+        {
+            "Code": "132035",
+            "Name": "Palmarin",
+            "NameAr": "بالمارين"
+        },
+        {
+            "Code": "132903",
+            "Name": "Popenguine",
+            "NameAr": "بوبينجويني"
+        },
+        {
+            "Code": "135659",
+            "Name": "Saint-Louis",
+            "NameAr": "ساينت-لوويس"
+        },
+        {
+            "Code": "147677",
+            "Name": "Saly",
+            "NameAr": "سالي"
+        },
+        {
+            "Code": "103591",
+            "Name": "Sindia",
+            "NameAr": "سينديا"
+        },
+        {
+            "Code": "149519",
+            "Name": "Tare",
+            "NameAr": "تاري"
+        },
+        {
+            "Code": "155781",
+            "Name": "Thies",
+            "NameAr": "تهييس"
+        },
+        {
+            "Code": "249148",
+            "Name": "Toubab Dialao",
+            "NameAr": "تووباب ديالاو"
+        },
+        {
+            "Code": "140075",
+            "Name": "Toubacouta",
+            "NameAr": "تووباكووتا"
+        },
+        {
+            "Code": "143847",
+            "Name": "Ziguinchor",
+            "NameAr": "زيجوينكهور"
+        }
+    ],
+    "totalCities": 35
+}

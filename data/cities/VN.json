@@ -1,0 +1,587 @@
+{
+    "id": "VN",
+    "countryCode": "VN",
+    "cities": [
+        {
+            "Code": "105089",
+            "Name": "An Hai",
+            "NameAr": "ان هاي"
+        },
+        {
+            "Code": "102190",
+            "Name": "Ba Ria",
+            "NameAr": "با ريا"
+        },
+        {
+            "Code": "105117",
+            "Name": "Bac Giang",
+            "NameAr": "باك جيانج"
+        },
+        {
+            "Code": "148853",
+            "Name": "Bac Lieu",
+            "NameAr": "باك لييو"
+        },
+        {
+            "Code": "150345",
+            "Name": "Bac Ninh",
+            "NameAr": "باك نينه"
+        },
+        {
+            "Code": "101495",
+            "Name": "Bao Loc",
+            "NameAr": "باو لوك"
+        },
+        {
+            "Code": "108048",
+            "Name": "Ben Cat",
+            "NameAr": "بين كات"
+        },
+        {
+            "Code": "150336",
+            "Name": "Ben Tre",
+            "NameAr": "بين تري"
+        },
+        {
+            "Code": "417850",
+            "Name": "Bich Son",
+            "NameAr": "بيكه سون"
+        },
+        {
+            "Code": "111566",
+            "Name": "Bien Hoa",
+            "NameAr": "بيين هوا"
+        },
+        {
+            "Code": "105048",
+            "Name": "Binh Chau",
+            "NameAr": "بينه كهاو"
+        },
+        {
+            "Code": "157571",
+            "Name": "Binh Dinh",
+            "NameAr": "بينه دينه"
+        },
+        {
+            "Code": "150306",
+            "Name": "Binh Duong",
+            "NameAr": "بينه دوونج"
+        },
+        {
+            "Code": "157512",
+            "Name": "Binh Thuan",
+            "NameAr": "بينه تهوان"
+        },
+        {
+            "Code": "144426",
+            "Name": "Buon Ma Thuot",
+            "NameAr": "بوون ما تهووت"
+        },
+        {
+            "Code": "295598",
+            "Name": "C? Chi",
+            "NameAr": "ك كهي"
+        },
+        {
+            "Code": "151350",
+            "Name": "Ca Mau",
+            "NameAr": "كا ماو"
+        },
+        {
+            "Code": "113039",
+            "Name": "Cai Be",
+            "NameAr": "كاي بي"
+        },
+        {
+            "Code": "357328",
+            "Name": "Cam Lam",
+            "NameAr": "كام لام"
+        },
+        {
+            "Code": "334424",
+            "Name": "Cam Ranh",
+            "NameAr": "كام رانه"
+        },
+        {
+            "Code": "112812",
+            "Name": "Can Tho",
+            "NameAr": "كان تهو"
+        },
+        {
+            "Code": "113910",
+            "Name": "Catba Island",
+            "NameAr": "كاتبا يسلاند"
+        },
+        {
+            "Code": "114514",
+            "Name": "Chau Doc",
+            "NameAr": "كهاو دوك"
+        },
+        {
+            "Code": "205237",
+            "Name": "Co To",
+            "NameAr": "كو تو"
+        },
+        {
+            "Code": "115540",
+            "Name": "Con Dao",
+            "NameAr": "كون داو"
+        },
+        {
+            "Code": "268740",
+            "Name": "Cu Jut",
+            "NameAr": "كو جوت"
+        },
+        {
+            "Code": "106241",
+            "Name": "Cua Lap",
+            "NameAr": "كوا لاب"
+        },
+        {
+            "Code": "108174",
+            "Name": "Cua Lo",
+            "NameAr": "كوا لو"
+        },
+        {
+            "Code": "150185",
+            "Name": "Da Lat",
+            "NameAr": "دا لات"
+        },
+        {
+            "Code": "108178",
+            "Name": "Da Nang",
+            "NameAr": "دا نانج"
+        },
+        {
+            "Code": "115622",
+            "Name": "Dalat",
+            "NameAr": "دالات"
+        },
+        {
+            "Code": "116038",
+            "Name": "Danang",
+            "NameAr": "دانانج"
+        },
+        {
+            "Code": "116343",
+            "Name": "Dien Bien Phu",
+            "NameAr": "ديين بيين بهو"
+        },
+        {
+            "Code": "101855",
+            "Name": "Dien Chau",
+            "NameAr": "ديين كهاو"
+        },
+        {
+            "Code": "116671",
+            "Name": "Doc Let Beach",
+            "NameAr": "دوك ليت بياكه"
+        },
+        {
+            "Code": "106264",
+            "Name": "Dong Ha",
+            "NameAr": "دونج ها"
+        },
+        {
+            "Code": "116681",
+            "Name": "Dong Hoi",
+            "NameAr": "دونج هوي"
+        },
+        {
+            "Code": "121141",
+            "Name": "Ha Giang",
+            "NameAr": "ها جيانج"
+        },
+        {
+            "Code": "417032",
+            "Name": "Ha Long",
+            "NameAr": "ها لونج"
+        },
+        {
+            "Code": "108279",
+            "Name": "Ha Tien",
+            "NameAr": "ها تيين"
+        },
+        {
+            "Code": "105937",
+            "Name": "Ha Tinh",
+            "NameAr": "ها تينه"
+        },
+        {
+            "Code": "119535",
+            "Name": "Hai Duong",
+            "NameAr": "هاي دوونج"
+        },
+        {
+            "Code": "120450",
+            "Name": "Hai Phong",
+            "NameAr": "هاي بهونج"
+        },
+        {
+            "Code": "120459",
+            "Name": "Halong",
+            "NameAr": "هالونج"
+        },
+        {
+            "Code": "108282",
+            "Name": "Ham Thuan Nam",
+            "NameAr": "هام تهوان نام"
+        },
+        {
+            "Code": "145535",
+            "Name": "Hanoi",
+            "NameAr": "هانوي"
+        },
+        {
+            "Code": "121921",
+            "Name": "Ho Chi Minh City",
+            "NameAr": "هو كهي مينه كيتي"
+        },
+        {
+            "Code": "145631",
+            "Name": "Ho Tram",
+            "NameAr": "هو ترام"
+        },
+        {
+            "Code": "108298",
+            "Name": "Hoa Binh",
+            "NameAr": "هوا بينه"
+        },
+        {
+            "Code": "383165",
+            "Name": "Hoa Lu",
+            "NameAr": "هوا لو"
+        },
+        {
+            "Code": "334188",
+            "Name": "Hoan Kiem",
+            "NameAr": "هوان كييم"
+        },
+        {
+            "Code": "121253",
+            "Name": "Hoi An",
+            "NameAr": "هوي ان"
+        },
+        {
+            "Code": "122636",
+            "Name": "Hue",
+            "NameAr": "هوي"
+        },
+        {
+            "Code": "103960",
+            "Name": "Khe Sanh",
+            "NameAr": "كهي سانه"
+        },
+        {
+            "Code": "101963",
+            "Name": "Kon Tum",
+            "NameAr": "كون توم"
+        },
+        {
+            "Code": "123848",
+            "Name": "Lagi",
+            "NameAr": "لاجي"
+        },
+        {
+            "Code": "103901",
+            "Name": "Lai Chau",
+            "NameAr": "لاي كهاو"
+        },
+        {
+            "Code": "124798",
+            "Name": "Lang Co",
+            "NameAr": "لانج كو"
+        },
+        {
+            "Code": "125772",
+            "Name": "Lang Son",
+            "NameAr": "لانج سون"
+        },
+        {
+            "Code": "124673",
+            "Name": "Lao Cai",
+            "NameAr": "لاو كاي"
+        },
+        {
+            "Code": "126320",
+            "Name": "Long Hai",
+            "NameAr": "لونج هاي"
+        },
+        {
+            "Code": "151404",
+            "Name": "Long Xuyen",
+            "NameAr": "لونج كسويين"
+        },
+        {
+            "Code": "104630",
+            "Name": "Ma Da Gui",
+            "NameAr": "ما دا جوي"
+        },
+        {
+            "Code": "150342",
+            "Name": "Mai Chau",
+            "NameAr": "ماي كهاو"
+        },
+        {
+            "Code": "130321",
+            "Name": "Mui Ne",
+            "NameAr": "موي ني"
+        },
+        {
+            "Code": "150296",
+            "Name": "My Tho",
+            "NameAr": "مي تهو"
+        },
+        {
+            "Code": "130182",
+            "Name": "Nha Trang",
+            "NameAr": "نها ترانج"
+        },
+        {
+            "Code": "129901",
+            "Name": "Ninh Binh",
+            "NameAr": "نينه بينه"
+        },
+        {
+            "Code": "102043",
+            "Name": "Ninh Hoa",
+            "NameAr": "نينه هوا"
+        },
+        {
+            "Code": "132490",
+            "Name": "Phan Rang",
+            "NameAr": "بهان رانج"
+        },
+        {
+            "Code": "132491",
+            "Name": "Phan Thiet",
+            "NameAr": "بهان تهييت"
+        },
+        {
+            "Code": "261788",
+            "Name": "Pho Yen",
+            "NameAr": "بهو يين"
+        },
+        {
+            "Code": "104855",
+            "Name": "Phong Nha",
+            "NameAr": "بهونج نها"
+        },
+        {
+            "Code": "147178",
+            "Name": "Phu Quoc",
+            "NameAr": "بهو قووك"
+        },
+        {
+            "Code": "294719",
+            "Name": "Phu Quoc Island",
+            "NameAr": "بهو قووك يسلاند"
+        },
+        {
+            "Code": "157570",
+            "Name": "Phu Tho",
+            "NameAr": "بهو تهو"
+        },
+        {
+            "Code": "391676",
+            "Name": "Phuc Yen",
+            "NameAr": "بهوك يين"
+        },
+        {
+            "Code": "133457",
+            "Name": "Pleiku",
+            "NameAr": "بلييكو"
+        },
+        {
+            "Code": "102765",
+            "Name": "Pom Coong village",
+            "NameAr": "بوم كوونج فيللاجي"
+        },
+        {
+            "Code": "106713",
+            "Name": "Quan Lan",
+            "NameAr": "قوان لان"
+        },
+        {
+            "Code": "132603",
+            "Name": "Quang Ngai",
+            "NameAr": "قوانج نجاي"
+        },
+        {
+            "Code": "103089",
+            "Name": "Quang Tri",
+            "NameAr": "قوانج تري"
+        },
+        {
+            "Code": "130296",
+            "Name": "Quy Nhon",
+            "NameAr": "قوي نهون"
+        },
+        {
+            "Code": "133163",
+            "Name": "Rach Gia",
+            "NameAr": "راكه جيا"
+        },
+        {
+            "Code": "103256",
+            "Name": "Sam Son",
+            "NameAr": "سام سون"
+        },
+        {
+            "Code": "136088",
+            "Name": "Sapa",
+            "NameAr": "سابا"
+        },
+        {
+            "Code": "151333",
+            "Name": "Soc Trang",
+            "NameAr": "سوك ترانج"
+        },
+        {
+            "Code": "107732",
+            "Name": "SON HAO",
+            "NameAr": "سون هاو"
+        },
+        {
+            "Code": "151015",
+            "Name": "Son La",
+            "NameAr": "سون لا"
+        },
+        {
+            "Code": "351509",
+            "Name": "Song Cau",
+            "NameAr": "سونج كاو"
+        },
+        {
+            "Code": "106822",
+            "Name": "Tam Dao",
+            "NameAr": "تام داو"
+        },
+        {
+            "Code": "148145",
+            "Name": "Tam Hai",
+            "NameAr": "تام هاي"
+        },
+        {
+            "Code": "108587",
+            "Name": "Tam Ky",
+            "NameAr": "تام كي"
+        },
+        {
+            "Code": "157557",
+            "Name": "Tay Ninh",
+            "NameAr": "تاي نينه"
+        },
+        {
+            "Code": "157521",
+            "Name": "Thai Binh",
+            "NameAr": "تهاي بينه"
+        },
+        {
+            "Code": "157524",
+            "Name": "Thai Nguyen",
+            "NameAr": "تهاي نجويين"
+        },
+        {
+            "Code": "107169",
+            "Name": "Thanh Hoa",
+            "NameAr": "تهانه هوا"
+        },
+        {
+            "Code": "150321",
+            "Name": "Thanh Hoa / Sam Son Beach",
+            "NameAr": "تهانه هوا سام سون بياكه"
+        },
+        {
+            "Code": "106386",
+            "Name": "Thu Dau Mot",
+            "NameAr": "تهو داو موت"
+        },
+        {
+            "Code": "351887",
+            "Name": "Thuan An",
+            "NameAr": "تهوان ان"
+        },
+        {
+            "Code": "139749",
+            "Name": "Thuan An Town",
+            "NameAr": "تهوان ان توون"
+        },
+        {
+            "Code": "107826",
+            "Name": "Trang Bang",
+            "NameAr": "ترانج بانج"
+        },
+        {
+            "Code": "148296",
+            "Name": "Trang Bom",
+            "NameAr": "ترانج بوم"
+        },
+        {
+            "Code": "388650",
+            "Name": "Tu Son",
+            "NameAr": "تو سون"
+        },
+        {
+            "Code": "141805",
+            "Name": "Tuan Chau Island",
+            "NameAr": "توان كهاو يسلاند"
+        },
+        {
+            "Code": "148353",
+            "Name": "Tuy Hoa",
+            "NameAr": "توي هوا"
+        },
+        {
+            "Code": "107117",
+            "Name": "Tuy Phong",
+            "NameAr": "توي بهونج"
+        },
+        {
+            "Code": "139848",
+            "Name": "Tuyen Quang",
+            "NameAr": "تويين قوانج"
+        },
+        {
+            "Code": "394722",
+            "Name": "Vi Thanh",
+            "NameAr": "في تهانه"
+        },
+        {
+            "Code": "205267",
+            "Name": "Viet Tri",
+            "NameAr": "فييت تري"
+        },
+        {
+            "Code": "142356",
+            "Name": "Vinh",
+            "NameAr": "فينه"
+        },
+        {
+            "Code": "151712",
+            "Name": "Vinh Long",
+            "NameAr": "فينه لونج"
+        },
+        {
+            "Code": "150331",
+            "Name": "Vinh Phuc",
+            "NameAr": "فينه بهوك"
+        },
+        {
+            "Code": "280330",
+            "Name": "Vinh Yen",
+            "NameAr": "فينه يين"
+        },
+        {
+            "Code": "142386",
+            "Name": "Vung Tau",
+            "NameAr": "فونج تاو"
+        },
+        {
+            "Code": "107998",
+            "Name": "Xuyen Moc",
+            "NameAr": "كسويين موك"
+        }
+    ],
+    "totalCities": 116
+}

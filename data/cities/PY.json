@@ -1,0 +1,122 @@
+{
+    "id": "PY",
+    "countryCode": "PY",
+    "cities": [
+        {
+            "Code": "109188",
+            "Name": "Altos",
+            "NameAr": "التوس"
+        },
+        {
+            "Code": "101642",
+            "Name": "Aregua",
+            "NameAr": "اريجوا"
+        },
+        {
+            "Code": "109641",
+            "Name": "Asuncion",
+            "NameAr": "اسونكيون"
+        },
+        {
+            "Code": "110843",
+            "Name": "Bella Vista",
+            "NameAr": "بيللا فيستا"
+        },
+        {
+            "Code": "104664",
+            "Name": "Caacupe",
+            "NameAr": "كااكوبي"
+        },
+        {
+            "Code": "113479",
+            "Name": "Caapucu",
+            "NameAr": "كاابوكو"
+        },
+        {
+            "Code": "155049",
+            "Name": "Canindeyu Department",
+            "NameAr": "كانيندييو ديبارتمينت"
+        },
+        {
+            "Code": "115338",
+            "Name": "Ciudad del Este",
+            "NameAr": "كيوداد ديل يستي"
+        },
+        {
+            "Code": "106300",
+            "Name": "Conception",
+            "NameAr": "كونكيبتيون"
+        },
+        {
+            "Code": "115415",
+            "Name": "Coronel Oviedo",
+            "NameAr": "كورونيل وفييدو"
+        },
+        {
+            "Code": "116240",
+            "Name": "Curuzu",
+            "NameAr": "كوروزو"
+        },
+        {
+            "Code": "149495",
+            "Name": "Doctor Juan Leon Mallorquin",
+            "NameAr": "دوكتور جوان ليون ماللورقوين"
+        },
+        {
+            "Code": "145087",
+            "Name": "Encarnacion",
+            "NameAr": "ينكارناكيون"
+        },
+        {
+            "Code": "117621",
+            "Name": "Filadelfia",
+            "NameAr": "فيلاديلفيا"
+        },
+        {
+            "Code": "120837",
+            "Name": "Hernandarias",
+            "NameAr": "هيرناندارياس"
+        },
+        {
+            "Code": "149487",
+            "Name": "Itaugua",
+            "NameAr": "يتاوجوا"
+        },
+        {
+            "Code": "127043",
+            "Name": "Luque",
+            "NameAr": "لوقوي"
+        },
+        {
+            "Code": "128251",
+            "Name": "Minga Guazu",
+            "NameAr": "مينجا جوازو"
+        },
+        {
+            "Code": "134880",
+            "Name": "San Bernardino",
+            "NameAr": "سان بيرناردينو"
+        },
+        {
+            "Code": "107332",
+            "Name": "San Lorenzo",
+            "NameAr": "سان لورينزو"
+        },
+        {
+            "Code": "147710",
+            "Name": "San Miguel",
+            "NameAr": "سان ميجويل"
+        },
+        {
+            "Code": "141793",
+            "Name": "Trinidad",
+            "NameAr": "ترينيداد"
+        },
+        {
+            "Code": "149484",
+            "Name": "Villarrica",
+            "NameAr": "فيللارريكا"
+        }
+    ],
+    "totalCities": 23
+}

@@ -1,0 +1,542 @@
+{
+    "id": "IS",
+    "countryCode": "IS",
+    "cities": [
+        {
+            "Code": "100690",
+            "Name": "Akranes",
+            "NameAr": "اكرانيس"
+        },
+        {
+            "Code": "100488",
+            "Name": "Akureyri",
+            "NameAr": "اكورييري"
+        },
+        {
+            "Code": "106079",
+            "Name": "Alftanes",
+            "NameAr": "الفتانيس"
+        },
+        {
+            "Code": "109245",
+            "Name": "Arborg",
+            "NameAr": "اربورج"
+        },
+        {
+            "Code": "101062",
+            "Name": "Arnes",
+            "NameAr": "ارنيس"
+        },
+        {
+            "Code": "150479",
+            "Name": "Bakkafjordur",
+            "NameAr": "باككافجوردور"
+        },
+        {
+            "Code": "110793",
+            "Name": "Bardadalur",
+            "NameAr": "باردادالور"
+        },
+        {
+            "Code": "150707",
+            "Name": "Bildudalur",
+            "NameAr": "بيلدودالور"
+        },
+        {
+            "Code": "111219",
+            "Name": "Biskupstungur",
+            "NameAr": "بيسكوبستونجور"
+        },
+        {
+            "Code": "144263",
+            "Name": "Bjarnarfjordur",
+            "NameAr": "بجارنارفجوردور"
+        },
+        {
+            "Code": "287983",
+            "Name": "Bláskógabyggd",
+            "NameAr": "بل سك جابيججد"
+        },
+        {
+            "Code": "111237",
+            "Name": "Blonduos",
+            "NameAr": "بلوندووس"
+        },
+        {
+            "Code": "112239",
+            "Name": "Borganes",
+            "NameAr": "بورجانيس"
+        },
+        {
+            "Code": "111380",
+            "Name": "Borgarfjodur",
+            "NameAr": "بورجارفجودور"
+        },
+        {
+            "Code": "151348",
+            "Name": "Borgarfjordur Eystri",
+            "NameAr": "بورجارفجوردور ييستري"
+        },
+        {
+            "Code": "112358",
+            "Name": "Brattholt",
+            "NameAr": "براتتهولت"
+        },
+        {
+            "Code": "112099",
+            "Name": "Breidalur",
+            "NameAr": "برييدالور"
+        },
+        {
+            "Code": "112287",
+            "Name": "Breiddalsvik",
+            "NameAr": "برييددالسفيك"
+        },
+        {
+            "Code": "112599",
+            "Name": "Budardalur",
+            "NameAr": "بوداردالور"
+        },
+        {
+            "Code": "363342",
+            "Name": "Budir",
+            "NameAr": "بودير"
+        },
+        {
+            "Code": "116616",
+            "Name": "Dalvik",
+            "NameAr": "دالفيك"
+        },
+        {
+            "Code": "115717",
+            "Name": "Djupavogur",
+            "NameAr": "دجوبافوجور"
+        },
+        {
+            "Code": "116755",
+            "Name": "Egilsstadir",
+            "NameAr": "يجيلسستادير"
+        },
+        {
+            "Code": "117196",
+            "Name": "Eskifjor?ur",
+            "NameAr": "يسكيفجورور"
+        },
+        {
+            "Code": "150743",
+            "Name": "Fagurholsmyri",
+            "NameAr": "فاجورهولسميري"
+        },
+        {
+            "Code": "117884",
+            "Name": "Faskru?sfjor?ur",
+            "NameAr": "فاسكروسفجورور"
+        },
+        {
+            "Code": "151370",
+            "Name": "Flateyri",
+            "NameAr": "فلاتييري"
+        },
+        {
+            "Code": "118299",
+            "Name": "Fludir",
+            "NameAr": "فلودير"
+        },
+        {
+            "Code": "118970",
+            "Name": "Geysir",
+            "NameAr": "جييسير"
+        },
+        {
+            "Code": "119665",
+            "Name": "Gnupverjahreppur",
+            "NameAr": "جنوبفيرجاهريببور"
+        },
+        {
+            "Code": "151455",
+            "Name": "Grimsey",
+            "NameAr": "جريمسيي"
+        },
+        {
+            "Code": "121096",
+            "Name": "Grimsnes",
+            "NameAr": "جريمسنيس"
+        },
+        {
+            "Code": "119870",
+            "Name": "Grindavik",
+            "NameAr": "جريندافيك"
+        },
+        {
+            "Code": "121113",
+            "Name": "Grundarfjordur",
+            "NameAr": "جروندارفجوردور"
+        },
+        {
+            "Code": "120173",
+            "Name": "Hafnarfjordur",
+            "NameAr": "هافنارفجوردور"
+        },
+        {
+            "Code": "120456",
+            "Name": "Hallormsstadur",
+            "NameAr": "هاللورمسستادور"
+        },
+        {
+            "Code": "121320",
+            "Name": "Hella",
+            "NameAr": "هيللا"
+        },
+        {
+            "Code": "120263",
+            "Name": "Hellissandur",
+            "NameAr": "هيلليسساندور"
+        },
+        {
+            "Code": "120928",
+            "Name": "Hestheimar",
+            "NameAr": "هيستهييمار"
+        },
+        {
+            "Code": "121643",
+            "Name": "Hofn",
+            "NameAr": "هوفن"
+        },
+        {
+            "Code": "151101",
+            "Name": "Holmavik",
+            "NameAr": "هولمافيك"
+        },
+        {
+            "Code": "121003",
+            "Name": "Hornafjordur",
+            "NameAr": "هورنافجوردور"
+        },
+        {
+            "Code": "121021",
+            "Name": "Hredarvatn",
+            "NameAr": "هريدارفاتن"
+        },
+        {
+            "Code": "269441",
+            "Name": "Hrunamannahreppur",
+            "NameAr": "هرونامانناهريببور"
+        },
+        {
+            "Code": "121562",
+            "Name": "Hrutafjordur",
+            "NameAr": "هروتافجوردور"
+        },
+        {
+            "Code": "121698",
+            "Name": "Husafell",
+            "NameAr": "هوسافيلل"
+        },
+        {
+            "Code": "145707",
+            "Name": "Husavik",
+            "NameAr": "هوسافيك"
+        },
+        {
+            "Code": "122656",
+            "Name": "Hvalfjordur",
+            "NameAr": "هفالفجوردور"
+        },
+        {
+            "Code": "121701",
+            "Name": "Hvammstangi",
+            "NameAr": "هفاممستانجي"
+        },
+        {
+            "Code": "108314",
+            "Name": "Hvammur",
+            "NameAr": "هفاممور"
+        },
+        {
+            "Code": "122090",
+            "Name": "Hveragerdi",
+            "NameAr": "هفيراجيردي"
+        },
+        {
+            "Code": "145709",
+            "Name": "Hveravellir",
+            "NameAr": "هفيرافيللير"
+        },
+        {
+            "Code": "121437",
+            "Name": "Hvolsvollur",
+            "NameAr": "هفولسفوللور"
+        },
+        {
+            "Code": "121756",
+            "Name": "Isafjordur",
+            "NameAr": "يسافجوردور"
+        },
+        {
+            "Code": "123235",
+            "Name": "Keflafik",
+            "NameAr": "كيفلافيك"
+        },
+        {
+            "Code": "101198",
+            "Name": "Keflavik",
+            "NameAr": "كيفلافيك"
+        },
+        {
+            "Code": "123028",
+            "Name": "Kirkjubaejarklaustur",
+            "NameAr": "كيركجوبايجاركلاوستور"
+        },
+        {
+            "Code": "151473",
+            "Name": "Kopasker",
+            "NameAr": "كوباسكير"
+        },
+        {
+            "Code": "123302",
+            "Name": "Kopavogur",
+            "NameAr": "كوبافوجور"
+        },
+        {
+            "Code": "125798",
+            "Name": "Laugar",
+            "NameAr": "لاوجار"
+        },
+        {
+            "Code": "124161",
+            "Name": "Laugarbakki",
+            "NameAr": "لاوجارباككي"
+        },
+        {
+            "Code": "146177",
+            "Name": "Laugarvatn",
+            "NameAr": "لاوجارفاتن"
+        },
+        {
+            "Code": "146745",
+            "Name": "Mosfellsbaer",
+            "NameAr": "موسفيللسباير"
+        },
+        {
+            "Code": "130347",
+            "Name": "Myvatn",
+            "NameAr": "ميفاتن"
+        },
+        {
+            "Code": "129828",
+            "Name": "Neskaupstadur",
+            "NameAr": "نيسكاوبستادور"
+        },
+        {
+            "Code": "129927",
+            "Name": "Nordwestisland",
+            "NameAr": "نوردويستيسلاند"
+        },
+        {
+            "Code": "131905",
+            "Name": "Olafsfjordur",
+            "NameAr": "ولافسفجوردور"
+        },
+        {
+            "Code": "130657",
+            "Name": "Olafsvik",
+            "NameAr": "ولافسفيك"
+        },
+        {
+            "Code": "130676",
+            "Name": "Oraefi",
+            "NameAr": "ورايفي"
+        },
+        {
+            "Code": "132067",
+            "Name": "Patreksfjordur",
+            "NameAr": "باتريكسفجوردور"
+        },
+        {
+            "Code": "151169",
+            "Name": "Raufarhofn",
+            "NameAr": "راوفارهوفن"
+        },
+        {
+            "Code": "133900",
+            "Name": "Reydarfjordur",
+            "NameAr": "رييدارفجوردور"
+        },
+        {
+            "Code": "150822",
+            "Name": "Reykholar",
+            "NameAr": "رييكهولار"
+        },
+        {
+            "Code": "133337",
+            "Name": "Reykholt",
+            "NameAr": "رييكهولت"
+        },
+        {
+            "Code": "102949",
+            "Name": "Reykjanesb?r",
+            "NameAr": "رييكجانيسبر"
+        },
+        {
+            "Code": "135090",
+            "Name": "Reykjavik",
+            "NameAr": "رييكجافيك"
+        },
+        {
+            "Code": "137206",
+            "Name": "Saudarkrokur",
+            "NameAr": "ساوداركروكور"
+        },
+        {
+            "Code": "137264",
+            "Name": "Selfoss",
+            "NameAr": "سيلفوسس"
+        },
+        {
+            "Code": "138648",
+            "Name": "Seydisfjordur",
+            "NameAr": "سييديسفجوردور"
+        },
+        {
+            "Code": "137413",
+            "Name": "Siglufjordur",
+            "NameAr": "سيجلوفجوردور"
+        },
+        {
+            "Code": "137040",
+            "Name": "Skagarfjodur",
+            "NameAr": "سكاجارفجودور"
+        },
+        {
+            "Code": "138015",
+            "Name": "Skagastrond",
+            "NameAr": "سكاجاستروند"
+        },
+        {
+            "Code": "160789",
+            "Name": "Skammidalur\t",
+            "NameAr": "سكامميدالور"
+        },
+        {
+            "Code": "107723",
+            "Name": "Skogar",
+            "NameAr": "سكوجار"
+        },
+        {
+            "Code": "138033",
+            "Name": "Snaefellsbaer",
+            "NameAr": "سنايفيللسباير"
+        },
+        {
+            "Code": "160790",
+            "Name": "Snfellsbr\t",
+            "NameAr": "سنفيللسبر"
+        },
+        {
+            "Code": "288000",
+            "Name": "Stadarstadur",
+            "NameAr": "ستادارستادور"
+        },
+        {
+            "Code": "148077",
+            "Name": "Storutjarnir",
+            "NameAr": "ستوروتجارنير"
+        },
+        {
+            "Code": "138934",
+            "Name": "Strandabyggd",
+            "NameAr": "ستراندابيججد"
+        },
+        {
+            "Code": "138288",
+            "Name": "Stykkisholmur",
+            "NameAr": "ستيككيسهولمور"
+        },
+        {
+            "Code": "139289",
+            "Name": "Sudavik",
+            "NameAr": "سودافيك"
+        },
+        {
+            "Code": "138855",
+            "Name": "Sudisland",
+            "NameAr": "سوديسلاند"
+        },
+        {
+            "Code": "151697",
+            "Name": "Sudureyri",
+            "NameAr": "سودورييري"
+        },
+        {
+            "Code": "139644",
+            "Name": "Svinadalur",
+            "NameAr": "سفينادالور"
+        },
+        {
+            "Code": "148142",
+            "Name": "Tal Thjorsardalur",
+            "NameAr": "تال تهجورساردالور"
+        },
+        {
+            "Code": "139081",
+            "Name": "Thingeyjarsveit",
+            "NameAr": "تهينجييجارسفييت"
+        },
+        {
+            "Code": "151597",
+            "Name": "Thingeyri",
+            "NameAr": "تهينجييري"
+        },
+        {
+            "Code": "148209",
+            "Name": "Thingvellir",
+            "NameAr": "تهينجفيللير"
+        },
+        {
+            "Code": "150848",
+            "Name": "Thorshofn",
+            "NameAr": "تهورسهوفن"
+        },
+        {
+            "Code": "141851",
+            "Name": "Uthli",
+            "NameAr": "وتهلي"
+        },
+        {
+            "Code": "141978",
+            "Name": "Varmahlid",
+            "NameAr": "فارماهليد"
+        },
+        {
+            "Code": "142545",
+            "Name": "Vatnsdalur",
+            "NameAr": "فاتنسدالور"
+        },
+        {
+            "Code": "141318",
+            "Name": "Vestmannaeyjar",
+            "NameAr": "فيستمانناييجار"
+        },
+        {
+            "Code": "140893",
+            "Name": "Vik i Myrdal",
+            "NameAr": "فيك ي ميردال"
+        },
+        {
+            "Code": "143198",
+            "Name": "Vogar",
+            "NameAr": "فوجار"
+        },
+        {
+            "Code": "142216",
+            "Name": "Vopnafjordur",
+            "NameAr": "فوبنافجوردور"
+        },
+        {
+            "Code": "143653",
+            "Name": "Ytra-Aland",
+            "NameAr": "يترا-الاند"
+        }
+    ],
+    "totalCities": 107
+}

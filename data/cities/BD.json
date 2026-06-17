@@ -1,0 +1,97 @@
+{
+    "id": "BD",
+    "countryCode": "BD",
+    "cities": [
+        {
+            "Code": "149601",
+            "Name": "Barisal",
+            "NameAr": "باريسال"
+        },
+        {
+            "Code": "105658",
+            "Name": "Bogra",
+            "NameAr": "بوجرا"
+        },
+        {
+            "Code": "114754",
+            "Name": "Chittagong",
+            "NameAr": "كهيتتاجونج"
+        },
+        {
+            "Code": "104926",
+            "Name": "Cox's Bazar",
+            "NameAr": "كوكسس بازار"
+        },
+        {
+            "Code": "115879",
+            "Name": "Dhaka",
+            "NameAr": "دهاكا"
+        },
+        {
+            "Code": "149637",
+            "Name": "Dinajpur",
+            "NameAr": "ديناجبور"
+        },
+        {
+            "Code": "285235",
+            "Name": "Gaibandha",
+            "NameAr": "جايباندها"
+        },
+        {
+            "Code": "152563",
+            "Name": "Gazipur District",
+            "NameAr": "جازيبور ديستريكت"
+        },
+        {
+            "Code": "149687",
+            "Name": "Jessore",
+            "NameAr": "جيسسوري"
+        },
+        {
+            "Code": "263544",
+            "Name": "Khulna City",
+            "NameAr": "كهولنا كيتي"
+        },
+        {
+            "Code": "149748",
+            "Name": "Moulvibazar",
+            "NameAr": "موولفيبازار"
+        },
+        {
+            "Code": "358122",
+            "Name": "Pirozali",
+            "NameAr": "بيروزالي"
+        },
+        {
+            "Code": "149783",
+            "Name": "Rajshahi",
+            "NameAr": "راجسهاهي"
+        },
+        {
+            "Code": "149784",
+            "Name": "Rangpur",
+            "NameAr": "رانجبور"
+        },
+        {
+            "Code": "102969",
+            "Name": "Sabhar",
+            "NameAr": "سابهار"
+        },
+        {
+            "Code": "149804",
+            "Name": "Savar",
+            "NameAr": "سافار"
+        },
+        {
+            "Code": "107249",
+            "Name": "Sreemangal",
+            "NameAr": "سرييمانجال"
+        },
+        {
+            "Code": "149819",
+            "Name": "Sylhet",
+            "NameAr": "سيلهيت"
+        }
+    ],
+    "totalCities": 18
+}

@@ -1,0 +1,77 @@
+{
+    "id": "JO",
+    "countryCode": "JO",
+    "cities": [
+        {
+            "Code": "100380",
+            "Name": "Al Karak",
+            "NameAr": "ال كاراك"
+        },
+        {
+            "Code": "102158",
+            "Name": "Al-Salt",
+            "NameAr": "ال-سالت"
+        },
+        {
+            "Code": "109198",
+            "Name": "Amman",
+            "NameAr": "عمان"
+        },
+        {
+            "Code": "149864",
+            "Name": "Aqaba",
+            "NameAr": "اقابا"
+        },
+        {
+            "Code": "144859",
+            "Name": "Dana",
+            "NameAr": "دانا"
+        },
+        {
+            "Code": "116274",
+            "Name": "Dead Sea",
+            "NameAr": "دياد سيا"
+        },
+        {
+            "Code": "145771",
+            "Name": "Irbid",
+            "NameAr": "يربيد"
+        },
+        {
+            "Code": "122332",
+            "Name": "Jarash",
+            "NameAr": "جاراسه"
+        },
+        {
+            "Code": "127082",
+            "Name": "Ma'In Hot Springs",
+            "NameAr": "ماين هوت سبرينجس"
+        },
+        {
+            "Code": "146410",
+            "Name": "Madaba",
+            "NameAr": "مادابا"
+        },
+        {
+            "Code": "132144",
+            "Name": "Petra",
+            "NameAr": "بيترا"
+        },
+        {
+            "Code": "138987",
+            "Name": "Sweimeh",
+            "NameAr": "سوييميه"
+        },
+        {
+            "Code": "141400",
+            "Name": "Wadi Musa",
+            "NameAr": "وادي موسا"
+        },
+        {
+            "Code": "141928",
+            "Name": "Wadi Rum",
+            "NameAr": "وادي روم"
+        }
+    ],
+    "totalCities": 14
+}

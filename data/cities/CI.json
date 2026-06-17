@@ -1,0 +1,27 @@
+{
+    "id": "CI",
+    "countryCode": "CI",
+    "cities": [
+        {
+            "Code": "100759",
+            "Name": "Abidjan",
+            "NameAr": "ابيدجان"
+        },
+        {
+            "Code": "110229",
+            "Name": "Assini",
+            "NameAr": "اسسيني"
+        },
+        {
+            "Code": "120400",
+            "Name": "Grand-Bassam",
+            "NameAr": "جراند-باسسام"
+        },
+        {
+            "Code": "417289",
+            "Name": "San-Pedro",
+            "NameAr": "سان-بيدرو"
+        }
+    ],
+    "totalCities": 4
+}

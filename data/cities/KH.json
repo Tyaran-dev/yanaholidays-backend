@@ -1,0 +1,177 @@
+{
+    "id": "KH",
+    "countryCode": "KH",
+    "cities": [
+        {
+            "Code": "100898",
+            "Name": "Angkor",
+            "NameAr": "انجكور"
+        },
+        {
+            "Code": "102197",
+            "Name": "Banlung",
+            "NameAr": "بانلونج"
+        },
+        {
+            "Code": "110534",
+            "Name": "Battambang",
+            "NameAr": "باتتامبانج"
+        },
+        {
+            "Code": "105251",
+            "Name": "Chbar Mon",
+            "NameAr": "كهبار مون"
+        },
+        {
+            "Code": "145875",
+            "Name": "Kampong Cham",
+            "NameAr": "كامبونج كهام"
+        },
+        {
+            "Code": "101949",
+            "Name": "Kampong Chhnang",
+            "NameAr": "كامبونج كههنانج"
+        },
+        {
+            "Code": "121846",
+            "Name": "Kampong Som",
+            "NameAr": "كامبونج سوم"
+        },
+        {
+            "Code": "105635",
+            "Name": "Kampong Speu",
+            "NameAr": "كامبونج سبيو"
+        },
+        {
+            "Code": "121847",
+            "Name": "Kampong Thom",
+            "NameAr": "كامبونج تهوم"
+        },
+        {
+            "Code": "145876",
+            "Name": "Kampot",
+            "NameAr": "كامبوت"
+        },
+        {
+            "Code": "123136",
+            "Name": "Kep",
+            "NameAr": "كيب"
+        },
+        {
+            "Code": "123974",
+            "Name": "Koh Kong",
+            "NameAr": "كوه كونج"
+        },
+        {
+            "Code": "150324",
+            "Name": "Koh Rong",
+            "NameAr": "كوه رونج"
+        },
+        {
+            "Code": "103647",
+            "Name": "Koh Rong Sanloem",
+            "NameAr": "كوه رونج سانلويم"
+        },
+        {
+            "Code": "145991",
+            "Name": "Koh Russey",
+            "NameAr": "كوه روسسيي"
+        },
+        {
+            "Code": "106194",
+            "Name": "Koh Sdach (King Island)",
+            "NameAr": "كوه سداكه كينج يسلاند"
+        },
+        {
+            "Code": "103648",
+            "Name": "Koh Ta Kiev Island",
+            "NameAr": "كوه تا كييف يسلاند"
+        },
+        {
+            "Code": "123323",
+            "Name": "Kratie",
+            "NameAr": "كراتيي"
+        },
+        {
+            "Code": "146386",
+            "Name": "Lumphat",
+            "NameAr": "لومبهات"
+        },
+        {
+            "Code": "128933",
+            "Name": "Mondol Seima",
+            "NameAr": "موندول سييما"
+        },
+        {
+            "Code": "131379",
+            "Name": "Pailin",
+            "NameAr": "بايلين"
+        },
+        {
+            "Code": "131527",
+            "Name": "Phnom Penh",
+            "NameAr": "بهنوم بينه"
+        },
+        {
+            "Code": "132877",
+            "Name": "Poipet",
+            "NameAr": "بويبيت"
+        },
+        {
+            "Code": "257261",
+            "Name": "Prasat Bakong",
+            "NameAr": "براسات باكونج"
+        },
+        {
+            "Code": "106699",
+            "Name": "Prey Veng",
+            "NameAr": "بريي فينج"
+        },
+        {
+            "Code": "106708",
+            "Name": "Pursat",
+            "NameAr": "بورسات"
+        },
+        {
+            "Code": "135016",
+            "Name": "Saem Village",
+            "NameAr": "سايم فيللاجي"
+        },
+        {
+            "Code": "269152",
+            "Name": "Sameakki Mean Chey",
+            "NameAr": "سامياككي ميان كهيي"
+        },
+        {
+            "Code": "103385",
+            "Name": "Sen Monourom",
+            "NameAr": "سين مونووروم"
+        },
+        {
+            "Code": "137759",
+            "Name": "Siem Reap",
+            "NameAr": "سييم رياب"
+        },
+        {
+            "Code": "150278",
+            "Name": "Sihanoukville",
+            "NameAr": "سيهانووكفيللي"
+        },
+        {
+            "Code": "103181",
+            "Name": "Sisophon",
+            "NameAr": "سيسوبهون"
+        },
+        {
+            "Code": "150844",
+            "Name": "Stung Treng",
+            "NameAr": "ستونج ترينج"
+        },
+        {
+            "Code": "149824",
+            "Name": "Tatai",
+            "NameAr": "تاتاي"
+        }
+    ],
+    "totalCities": 34
+}

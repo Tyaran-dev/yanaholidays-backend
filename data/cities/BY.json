@@ -1,0 +1,172 @@
+{
+    "id": "BY",
+    "countryCode": "BY",
+    "cities": [
+        {
+            "Code": "110368",
+            "Name": "Babrujsk",
+            "NameAr": "بابروجسك"
+        },
+        {
+            "Code": "101666",
+            "Name": "Baranovichi",
+            "NameAr": "بارانوفيكهي"
+        },
+        {
+            "Code": "102203",
+            "Name": "Barysau",
+            "NameAr": "باريساو"
+        },
+        {
+            "Code": "101315",
+            "Name": "Beryaroza",
+            "NameAr": "بيرياروزا"
+        },
+        {
+            "Code": "105206",
+            "Name": "Braslav",
+            "NameAr": "براسلاف"
+        },
+        {
+            "Code": "112726",
+            "Name": "Brest",
+            "NameAr": "بريست"
+        },
+        {
+            "Code": "102315",
+            "Name": "Domacevo",
+            "NameAr": "دوماكيفو"
+        },
+        {
+            "Code": "105793",
+            "Name": "Dziarzynsk",
+            "NameAr": "دزيارزينسك"
+        },
+        {
+            "Code": "120361",
+            "Name": "Gomel",
+            "NameAr": "جوميل"
+        },
+        {
+            "Code": "102442",
+            "Name": "Hlybokaye",
+            "NameAr": "هليبوكايي"
+        },
+        {
+            "Code": "122631",
+            "Name": "Hrodna",
+            "NameAr": "هرودنا"
+        },
+        {
+            "Code": "145989",
+            "Name": "Kobryn",
+            "NameAr": "كوبرين"
+        },
+        {
+            "Code": "104128",
+            "Name": "Kruglitsa",
+            "NameAr": "كروجليتسا"
+        },
+        {
+            "Code": "127081",
+            "Name": "Mahiljou",
+            "NameAr": "ماهيلجوو"
+        },
+        {
+            "Code": "104153",
+            "Name": "Maladsetschna",
+            "NameAr": "مالادسيتسكهنا"
+        },
+        {
+            "Code": "128604",
+            "Name": "Minsk",
+            "NameAr": "مينسك"
+        },
+        {
+            "Code": "102814",
+            "Name": "Mjory",
+            "NameAr": "مجوري"
+        },
+        {
+            "Code": "103842",
+            "Name": "Mozyr",
+            "NameAr": "موزير"
+        },
+        {
+            "Code": "129806",
+            "Name": "Nawapolazk",
+            "NameAr": "ناوابولازك"
+        },
+        {
+            "Code": "102866",
+            "Name": "Nekhachevo Village",
+            "NameAr": "نيكهاكهيفو فيللاجي"
+        },
+        {
+            "Code": "102868",
+            "Name": "Nesvizh",
+            "NameAr": "نيسفيزه"
+        },
+        {
+            "Code": "102050",
+            "Name": "Nowogrudok",
+            "NameAr": "نوووجرودوك"
+        },
+        {
+            "Code": "103470",
+            "Name": "Radashkovichy",
+            "NameAr": "راداسهكوفيكهي"
+        },
+        {
+            "Code": "103113",
+            "Name": "Rahatschou",
+            "NameAr": "راهاتسكهوو"
+        },
+        {
+            "Code": "149787",
+            "Name": "Ratamka",
+            "NameAr": "راتامكا"
+        },
+        {
+            "Code": "108505",
+            "Name": "Saslauje",
+            "NameAr": "ساسلاوجي"
+        },
+        {
+            "Code": "103590",
+            "Name": "Silichy",
+            "NameAr": "سيليكهي"
+        },
+        {
+            "Code": "107731",
+            "Name": "Soltanovka",
+            "NameAr": "سولتانوفكا"
+        },
+        {
+            "Code": "149850",
+            "Name": "Vitebsk",
+            "NameAr": "فيتيبسك"
+        },
+        {
+            "Code": "106411",
+            "Name": "Volkovichi",
+            "NameAr": "فولكوفيكهي"
+        },
+        {
+            "Code": "142726",
+            "Name": "Wizebsk",
+            "NameAr": "ويزيبسك"
+        },
+        {
+            "Code": "108033",
+            "Name": "Zdanovichi",
+            "NameAr": "زدانوفيكهي"
+        },
+        {
+            "Code": "143542",
+            "Name": "Zhlobin",
+            "NameAr": "زهلوبين"
+        }
+    ],
+    "totalCities": 33
+}

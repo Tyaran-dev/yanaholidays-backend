@@ -1,0 +1,6652 @@
+{
+    "id": "CA",
+    "countryCode": "CA",
+    "cities": [
+        {
+            "Code": "100210",
+            "Name": "101 Mile House,   British Columbia",
+            "NameAr": "ميلي هووسي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "100429",
+            "Name": "108 Mile House",
+            "NameAr": "ميلي هووسي"
+        },
+        {
+            "Code": "100013",
+            "Name": "Abbotsford,   British Columbia",
+            "NameAr": "اببوتسفورد بريتيسه كولومبيا"
+        },
+        {
+            "Code": "417138",
+            "Name": "Acton Vale",
+            "NameAr": "اكتون فالي"
+        },
+        {
+            "Code": "100455",
+            "Name": "Advocate Harbour,   Nova Scotia",
+            "NameAr": "ادفوكاتي هاربوور نوفا سكوتيا"
+        },
+        {
+            "Code": "100136",
+            "Name": "Agassiz,   British Columbia",
+            "NameAr": "اجاسسيز بريتيسه كولومبيا"
+        },
+        {
+            "Code": "100370",
+            "Name": "Ainsworth,   British Columbia",
+            "NameAr": "اينسوورته بريتيسه كولومبيا"
+        },
+        {
+            "Code": "100068",
+            "Name": "Airdrie,   Alberta",
+            "NameAr": "ايردريي البيرتا"
+        },
+        {
+            "Code": "100162",
+            "Name": "Ajax,   Ontario",
+            "NameAr": "اجاكس ونتاريو"
+        },
+        {
+            "Code": "150943",
+            "Name": "Aklavik,   Northwest Territories",
+            "NameAr": "اكلافيك نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "150944",
+            "Name": "Akulivik,   Quebec",
+            "NameAr": "اكوليفيك قويبيك"
+        },
+        {
+            "Code": "100389",
+            "Name": "Alban,   Ontario",
+            "NameAr": "البان ونتاريو"
+        },
+        {
+            "Code": "100394",
+            "Name": "Alberta,   Alberta",
+            "NameAr": "البيرتا البيرتا"
+        },
+        {
+            "Code": "100822",
+            "Name": "Alberton,   Prince Edward Island",
+            "NameAr": "البيرتون برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "100179",
+            "Name": "Aldergrove,   British Columbia",
+            "NameAr": "الديرجروفي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151411",
+            "Name": "Alert Bay,   British Columbia",
+            "NameAr": "اليرت باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "257712",
+            "Name": "Algoma District",
+            "NameAr": "الجوما ديستريكت"
+        },
+        {
+            "Code": "104990",
+            "Name": "Algonquin Highlands,   Ontario",
+            "NameAr": "الجونقوين هيجهلاندس ونتاريو"
+        },
+        {
+            "Code": "100855",
+            "Name": "Alliston,   Ontario",
+            "NameAr": "الليستون ونتاريو"
+        },
+        {
+            "Code": "108856",
+            "Name": "Alma",
+            "NameAr": "الما"
+        },
+        {
+            "Code": "100975",
+            "Name": "Alton,   Ontario",
+            "NameAr": "التون ونتاريو"
+        },
+        {
+            "Code": "109439",
+            "Name": "Amherst,   Nova Scotia",
+            "NameAr": "امهيرست نوفا سكوتيا"
+        },
+        {
+            "Code": "151414",
+            "Name": "Amos,   Quebec",
+            "NameAr": "اموس قويبيك"
+        },
+        {
+            "Code": "101559",
+            "Name": "Amqui",
+            "NameAr": "امقوي"
+        },
+        {
+            "Code": "150473",
+            "Name": "Anahim Lake,   British Columbia",
+            "NameAr": "اناهيم لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "100998",
+            "Name": "Ancienne Lorette,   Quebec",
+            "NameAr": "انكيينني لوريتتي قويبيك"
+        },
+        {
+            "Code": "109126",
+            "Name": "Anglin Lake,   SasKatchewan",
+            "NameAr": "انجلين لاكي ساسكاتكهيوان"
+        },
+        {
+            "Code": "150546",
+            "Name": "Angling Lake,   Ontario",
+            "NameAr": "انجلينج لاكي ونتاريو"
+        },
+        {
+            "Code": "109574",
+            "Name": "Angus,   Ontario",
+            "NameAr": "انجوس ونتاريو"
+        },
+        {
+            "Code": "109222",
+            "Name": "Annapolis Royal,   Nova Scotia",
+            "NameAr": "اننابوليس رويال نوفا سكوتيا"
+        },
+        {
+            "Code": "101028",
+            "Name": "Antigonish,   Nova Scotia",
+            "NameAr": "انتيجونيسه نوفا سكوتيا"
+        },
+        {
+            "Code": "150549",
+            "Name": "Arctic Bay,   Nunavut",
+            "NameAr": "اركتيك باي نونافوت"
+        },
+        {
+            "Code": "109388",
+            "Name": "Argentia,   Newfoundland and Labrador",
+            "NameAr": "ارجينتيا نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "110288",
+            "Name": "Arichat,   Nova Scotia",
+            "NameAr": "اريكهات نوفا سكوتيا"
+        },
+        {
+            "Code": "150551",
+            "Name": "Armstrong,   British Columbia",
+            "NameAr": "ارمسترونج بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150411",
+            "Name": "Arnes,   Manitoba",
+            "NameAr": "ارنيس مانيتوبا"
+        },
+        {
+            "Code": "109969",
+            "Name": "Arnprior,   Ontario",
+            "NameAr": "ارنبريور ونتاريو"
+        },
+        {
+            "Code": "109284",
+            "Name": "Asbestos,   Quebec",
+            "NameAr": "اسبيستوس قويبيك"
+        },
+        {
+            "Code": "110317",
+            "Name": "Ashcroft,   British Columbia",
+            "NameAr": "اسهكروفت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "109638",
+            "Name": "Assiniboia,   Saskatchewan",
+            "NameAr": "اسسينيبويا ساسكاتكهيوان"
+        },
+        {
+            "Code": "110329",
+            "Name": "Athabasca,   Alberta",
+            "NameAr": "اتهاباسكا البيرتا"
+        },
+        {
+            "Code": "101581",
+            "Name": "Atholville",
+            "NameAr": "اتهولفيللي"
+        },
+        {
+            "Code": "150696",
+            "Name": "Atikokan,   Ontario",
+            "NameAr": "اتيكوكان ونتاريو"
+        },
+        {
+            "Code": "109644",
+            "Name": "Atlin,   British Columbia",
+            "NameAr": "اتلين بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150553",
+            "Name": "Attawapiskat,   Ontario",
+            "NameAr": "اتتاوابيسكات ونتاريو"
+        },
+        {
+            "Code": "109759",
+            "Name": "Aurora,   Ontario",
+            "NameAr": "اورورا ونتاريو"
+        },
+        {
+            "Code": "200993",
+            "Name": "Ayers Cliff,   Quebec",
+            "NameAr": "اييرس كليفف قويبيك"
+        },
+        {
+            "Code": "111074",
+            "Name": "Baddack,   Nova Scotia",
+            "NameAr": "بادداكك نوفا سكوتيا"
+        },
+        {
+            "Code": "150478",
+            "Name": "Baie Johan Beetz,   Quebec",
+            "NameAr": "بايي جوهان بييتز قويبيك"
+        },
+        {
+            "Code": "111087",
+            "Name": "Baie-Comeau,   Quebec",
+            "NameAr": "بايي-كومياو قويبيك"
+        },
+        {
+            "Code": "110749",
+            "Name": "Baie-Saint-Paul,   Quebec",
+            "NameAr": "بايي-ساينت-باول قويبيك"
+        },
+        {
+            "Code": "111089",
+            "Name": "Baie-Sainte-Catherine,   Quebec",
+            "NameAr": "بايي-ساينتي-كاتهيريني قويبيك"
+        },
+        {
+            "Code": "144064",
+            "Name": "Baie-Trinite,   Quebec",
+            "NameAr": "بايي-ترينيتي قويبيك"
+        },
+        {
+            "Code": "151419",
+            "Name": "Baker Lake,   Nunavut",
+            "NameAr": "باكير لاكي نونافوت"
+        },
+        {
+            "Code": "101593",
+            "Name": "Balfour",
+            "NameAr": "بالفوور"
+        },
+        {
+            "Code": "101596",
+            "Name": "Baltimore",
+            "NameAr": "بالتيموري"
+        },
+        {
+            "Code": "150415",
+            "Name": "Bamfield,   British Columbia",
+            "NameAr": "بامفييلد بريتيسه كولومبيا"
+        },
+        {
+            "Code": "110684",
+            "Name": "Bancroft,   Ontario",
+            "NameAr": "بانكروفت ونتاريو"
+        },
+        {
+            "Code": "110415",
+            "Name": "Banff,   Alberta",
+            "NameAr": "بانفف البيرتا"
+        },
+        {
+            "Code": "111010",
+            "Name": "Barkerville,   British Columbia",
+            "NameAr": "باركيرفيللي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "101601",
+            "Name": "Barrhead",
+            "NameAr": "باررهياد"
+        },
+        {
+            "Code": "110719",
+            "Name": "Barrie,   Ontario",
+            "NameAr": "بارريي ونتاريو"
+        },
+        {
+            "Code": "111149",
+            "Name": "Barriere,   British Columbia",
+            "NameAr": "باررييري بريتيسه كولومبيا"
+        },
+        {
+            "Code": "148885",
+            "Name": "Barry's Bay",
+            "NameAr": "بارريس باي"
+        },
+        {
+            "Code": "101498",
+            "Name": "Bassano",
+            "NameAr": "باسسانو"
+        },
+        {
+            "Code": "101604",
+            "Name": "Batchawana Bay",
+            "NameAr": "باتكهاوانا باي"
+        },
+        {
+            "Code": "111037",
+            "Name": "Bathurst,   New Brunswick",
+            "NameAr": "باتهورست نيو برونسويكك"
+        },
+        {
+            "Code": "144130",
+            "Name": "Battle Harbour Island",
+            "NameAr": "باتتلي هاربوور يسلاند"
+        },
+        {
+            "Code": "102120",
+            "Name": "Bay Roberts",
+            "NameAr": "باي روبيرتس"
+        },
+        {
+            "Code": "376388",
+            "Name": "Bayfield",
+            "NameAr": "بايفييلد"
+        },
+        {
+            "Code": "105387",
+            "Name": "Beachburg",
+            "NameAr": "بياكهبورج"
+        },
+        {
+            "Code": "102121",
+            "Name": "Beamsville",
+            "NameAr": "بيامسفيللي"
+        },
+        {
+            "Code": "151062",
+            "Name": "Bearskin Lake,   Ontario",
+            "NameAr": "بيارسكين لاكي ونتاريو"
+        },
+        {
+            "Code": "101503",
+            "Name": "Beauce",
+            "NameAr": "بياوكي"
+        },
+        {
+            "Code": "105278",
+            "Name": "Beauharnois",
+            "NameAr": "بياوهارنويس"
+        },
+        {
+            "Code": "418135",
+            "Name": "Beaumont,   Quebec",
+            "NameAr": "بياومونت قويبيك"
+        },
+        {
+            "Code": "110825",
+            "Name": "Beaupre,   Quebec",
+            "NameAr": "بياوبري قويبيك"
+        },
+        {
+            "Code": "110466",
+            "Name": "Beausejour,   Manitoba",
+            "NameAr": "بياوسيجوور مانيتوبا"
+        },
+        {
+            "Code": "111856",
+            "Name": "Beaver Creek,   Yukon",
+            "NameAr": "بيافير كرييك يوكون"
+        },
+        {
+            "Code": "110556",
+            "Name": "Becancour,   Quebec",
+            "NameAr": "بيكانكوور قويبيك"
+        },
+        {
+            "Code": "111863",
+            "Name": "Bedford,   Nova Scotia",
+            "NameAr": "بيدفورد نوفا سكوتيا"
+        },
+        {
+            "Code": "110562",
+            "Name": "Bedwell River,   British Columbia",
+            "NameAr": "بيدويلل ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105281",
+            "Name": "Beiseker",
+            "NameAr": "بييسيكير"
+        },
+        {
+            "Code": "110574",
+            "Name": "Bella Coola,   British Columbia",
+            "NameAr": "بيللا كوولا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "111508",
+            "Name": "Belle Cote,   Nova Scotia",
+            "NameAr": "بيللي كوتي نوفا سكوتيا"
+        },
+        {
+            "Code": "110486",
+            "Name": "Belleville,   Ontario",
+            "NameAr": "بيلليفيللي ونتاريو"
+        },
+        {
+            "Code": "105040",
+            "Name": "Beloeil",
+            "NameAr": "بيلوييل"
+        },
+        {
+            "Code": "105726",
+            "Name": "Belwood",
+            "NameAr": "بيلووود"
+        },
+        {
+            "Code": "151424",
+            "Name": "Berens River,   Manitoba",
+            "NameAr": "بيرينس ريفير مانيتوبا"
+        },
+        {
+            "Code": "111454",
+            "Name": "Beresford,   New Brunswick",
+            "NameAr": "بيريسفورد نيو برونسويكك"
+        },
+        {
+            "Code": "111546",
+            "Name": "Berthierville,   Quebec",
+            "NameAr": "بيرتهييرفيللي قويبيك"
+        },
+        {
+            "Code": "111495",
+            "Name": "Big Creek,   Ontario",
+            "NameAr": "بيج كرييك ونتاريو"
+        },
+        {
+            "Code": "105408",
+            "Name": "Bittern Lake",
+            "NameAr": "بيتتيرن لاكي"
+        },
+        {
+            "Code": "150418",
+            "Name": "Black Tickle,   Newfoundland and Labrador",
+            "NameAr": "بلاكك تيككلي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "111730",
+            "Name": "Blackfalds,   Alberta",
+            "NameAr": "بلاككفالدس البيرتا"
+        },
+        {
+            "Code": "111731",
+            "Name": "Blainville,   Quebec",
+            "NameAr": "بلاينفيللي قويبيك"
+        },
+        {
+            "Code": "112402",
+            "Name": "Blairmore,   Alberta",
+            "NameAr": "بلايرموري البيرتا"
+        },
+        {
+            "Code": "150710",
+            "Name": "Blanc Sablon,   Quebec",
+            "NameAr": "بلانك سابلون قويبيك"
+        },
+        {
+            "Code": "105301",
+            "Name": "Blenheim",
+            "NameAr": "بلينهييم"
+        },
+        {
+            "Code": "108067",
+            "Name": "Blind Bay",
+            "NameAr": "بليند باي"
+        },
+        {
+            "Code": "105052",
+            "Name": "Blind River",
+            "NameAr": "بليند ريفير"
+        },
+        {
+            "Code": "151426",
+            "Name": "Bloodvein,   Manitoba",
+            "NameAr": "بلوودفيين مانيتوبا"
+        },
+        {
+            "Code": "105656",
+            "Name": "Blue Mountain",
+            "NameAr": "بلوي موونتاين"
+        },
+        {
+            "Code": "150244",
+            "Name": "Blue Mountains,   Ontario",
+            "NameAr": "بلوي موونتاينس ونتاريو"
+        },
+        {
+            "Code": "144286",
+            "Name": "Blue River,   British Columbia",
+            "NameAr": "بلوي ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "160771",
+            "Name": "Bobcaygeon",
+            "NameAr": "بوبكايجيون"
+        },
+        {
+            "Code": "112225",
+            "Name": "Boischatel,   Quebec",
+            "NameAr": "بويسكهاتيل قويبيك"
+        },
+        {
+            "Code": "104640",
+            "Name": "Bolton,   Ontario",
+            "NameAr": "بولتون ونتاريو"
+        },
+        {
+            "Code": "111265",
+            "Name": "Bonaventure,   Quebec",
+            "NameAr": "بونافينتوري قويبيك"
+        },
+        {
+            "Code": "102220",
+            "Name": "Bonavista",
+            "NameAr": "بونافيستا"
+        },
+        {
+            "Code": "112452",
+            "Name": "Bonnyville,   Alberta",
+            "NameAr": "بوننيفيللي البيرتا"
+        },
+        {
+            "Code": "151067",
+            "Name": "Borden,   Saskatchewan",
+            "NameAr": "بوردين ساسكاتكهيوان"
+        },
+        {
+            "Code": "151068",
+            "Name": "Borden,   Ontario",
+            "NameAr": "بوردين ونتاريو"
+        },
+        {
+            "Code": "108073",
+            "Name": "Borden-Carleton",
+            "NameAr": "بوردين-كارليتون"
+        },
+        {
+            "Code": "105197",
+            "Name": "Boston Bar",
+            "NameAr": "بوستون بار"
+        },
+        {
+            "Code": "417187",
+            "Name": "Botwood",
+            "NameAr": "بوتووود"
+        },
+        {
+            "Code": "111965",
+            "Name": "Boucherville,   Quebec",
+            "NameAr": "بووكهيرفيللي قويبيك"
+        },
+        {
+            "Code": "112070",
+            "Name": "Bouctouche,   New Brunswick",
+            "NameAr": "بووكتووكهي نيو برونسويكك"
+        },
+        {
+            "Code": "104867",
+            "Name": "Bourget",
+            "NameAr": "بوورجيت"
+        },
+        {
+            "Code": "105200",
+            "Name": "Boutiliers Point",
+            "NameAr": "بووتيلييرس بوينت"
+        },
+        {
+            "Code": "105311",
+            "Name": "Bowen Island",
+            "NameAr": "بووين يسلاند"
+        },
+        {
+            "Code": "112081",
+            "Name": "Bowmanville,   Ontario",
+            "NameAr": "بوومانفيللي ونتاريو"
+        },
+        {
+            "Code": "105312",
+            "Name": "Bowser",
+            "NameAr": "بووسير"
+        },
+        {
+            "Code": "112488",
+            "Name": "Bracebridge,   Ontario",
+            "NameAr": "براكيبريدجي ونتاريو"
+        },
+        {
+            "Code": "112701",
+            "Name": "Brackley Beach,   Prince Edward Island",
+            "NameAr": "براككليي بياكه برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "112708",
+            "Name": "Brampton,   Ontario",
+            "NameAr": "برامبتون ونتاريو"
+        },
+        {
+            "Code": "144347",
+            "Name": "Brandon,   Manitoba",
+            "NameAr": "براندون مانيتوبا"
+        },
+        {
+            "Code": "144350",
+            "Name": "Brantford,   Ontario",
+            "NameAr": "برانتفورد ونتاريو"
+        },
+        {
+            "Code": "112509",
+            "Name": "Brentwood Bay,   British Columbia",
+            "NameAr": "برينتووود باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "108086",
+            "Name": "Bridge Lake,   British Columbia",
+            "NameAr": "بريدجي لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105671",
+            "Name": "Bridgetown",
+            "NameAr": "بريدجيتوون"
+        },
+        {
+            "Code": "112561",
+            "Name": "Bridgewater,   Nova Scotia",
+            "NameAr": "بريدجيواتير نوفا سكوتيا"
+        },
+        {
+            "Code": "144372",
+            "Name": "Brier Island,   Nova Scotia",
+            "NameAr": "بريير يسلاند نوفا سكوتيا"
+        },
+        {
+            "Code": "113395",
+            "Name": "Brighton,   Ontario",
+            "NameAr": "بريجهتون ونتاريو"
+        },
+        {
+            "Code": "101369",
+            "Name": "Bristol",
+            "NameAr": "بريستول"
+        },
+        {
+            "Code": "113178",
+            "Name": "British Columbia",
+            "NameAr": "بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105209",
+            "Name": "Broadview",
+            "NameAr": "بروادفييو"
+        },
+        {
+            "Code": "150958",
+            "Name": "Brochet,   Manitoba",
+            "NameAr": "بروكهيت مانيتوبا"
+        },
+        {
+            "Code": "112014",
+            "Name": "Brockville,   Ontario",
+            "NameAr": "بروككفيللي ونتاريو"
+        },
+        {
+            "Code": "112965",
+            "Name": "Bromont,   Quebec",
+            "NameAr": "برومونت قويبيك"
+        },
+        {
+            "Code": "113410",
+            "Name": "Brooks,   Alberta",
+            "NameAr": "برووكس البيرتا"
+        },
+        {
+            "Code": "112026",
+            "Name": "Brossard,   Quebec",
+            "NameAr": "بروسسارد قويبيك"
+        },
+        {
+            "Code": "150563",
+            "Name": "Broughton Island,   Nunavut",
+            "NameAr": "برووجهتون يسلاند نونافوت"
+        },
+        {
+            "Code": "104875",
+            "Name": "Brownsburg",
+            "NameAr": "بروونسبورج"
+        },
+        {
+            "Code": "113203",
+            "Name": "Buckhorn,   Ontario",
+            "NameAr": "بوككهورن ونتاريو"
+        },
+        {
+            "Code": "150959",
+            "Name": "Buffalo Narrows,   Saskatchewan",
+            "NameAr": "بوففالو ناررووس ساسكاتكهيوان"
+        },
+        {
+            "Code": "112171",
+            "Name": "Burlington,   Ontario",
+            "NameAr": "بورلينجتون ونتاريو"
+        },
+        {
+            "Code": "113013",
+            "Name": "Burnaby,   British Columbia",
+            "NameAr": "بورنابي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "113015",
+            "Name": "Burns Lake,   British Columbia",
+            "NameAr": "بورنس لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "113017",
+            "Name": "Burwash Landing,   Yukon",
+            "NameAr": "بورواسه لاندينج يوكون"
+        },
+        {
+            "Code": "108098",
+            "Name": "Cabot Trail,   Nova Scotia",
+            "NameAr": "كابوت ترايل نوفا سكوتيا"
+        },
+        {
+            "Code": "113486",
+            "Name": "Cache Creek,   British Columbia",
+            "NameAr": "كاكهي كرييك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "112771",
+            "Name": "Calabogie,   Ontario",
+            "NameAr": "كالابوجيي ونتاريو"
+        },
+        {
+            "Code": "112776",
+            "Name": "Caledonia,   Ontario",
+            "NameAr": "كاليدونيا ونتاريو"
+        },
+        {
+            "Code": "113135",
+            "Name": "Calgary,   Alberta",
+            "NameAr": "كالجاري البيرتا"
+        },
+        {
+            "Code": "144481",
+            "Name": "Calumet,   Quebec",
+            "NameAr": "كالوميت قويبيك"
+        },
+        {
+            "Code": "112879",
+            "Name": "Cambridge,   Ontario",
+            "NameAr": "كامبريدجي ونتاريو"
+        },
+        {
+            "Code": "150963",
+            "Name": "Cambridge Bay,   Nunavut",
+            "NameAr": "كامبريدجي باي نونافوت"
+        },
+        {
+            "Code": "112882",
+            "Name": "Campbell River,   British Columbia",
+            "NameAr": "كامببيلل ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105695",
+            "Name": "Campbellford",
+            "NameAr": "كامببيللفورد"
+        },
+        {
+            "Code": "144495",
+            "Name": "Campbellton,   New Brunswick",
+            "NameAr": "كامببيللتون نيو برونسويكك"
+        },
+        {
+            "Code": "112809",
+            "Name": "Camrose,   Alberta",
+            "NameAr": "كامروسي البيرتا"
+        },
+        {
+            "Code": "101782",
+            "Name": "Canim Lake",
+            "NameAr": "كانيم لاكي"
+        },
+        {
+            "Code": "113939",
+            "Name": "Canmore,   Alberta",
+            "NameAr": "كانموري البيرتا"
+        },
+        {
+            "Code": "104895",
+            "Name": "Canning",
+            "NameAr": "كاننينج"
+        },
+        {
+            "Code": "144525",
+            "Name": "Cap-aux-Meules,   Quebec",
+            "NameAr": "كاب-اوكس-ميوليس قويبيك"
+        },
+        {
+            "Code": "113947",
+            "Name": "Cap-Chat,   Quebec",
+            "NameAr": "كاب-كهات قويبيك"
+        },
+        {
+            "Code": "108110",
+            "Name": "Cap-Pele",
+            "NameAr": "كاب-بيلي"
+        },
+        {
+            "Code": "114181",
+            "Name": "Cape Anguille,   Newfoundland and Labrador",
+            "NameAr": "كابي انجويللي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "358370",
+            "Name": "Cape Breton Island,   Nova Scotia",
+            "NameAr": "كابي بريتون يسلاند نوفا سكوتيا"
+        },
+        {
+            "Code": "151073",
+            "Name": "Cape Dorset,   Nunavut",
+            "NameAr": "كابي دورسيت نونافوت"
+        },
+        {
+            "Code": "151352",
+            "Name": "Cape Dyer,   Nunavut",
+            "NameAr": "كابي ديير نونافوت"
+        },
+        {
+            "Code": "108109",
+            "Name": "Caplan",
+            "NameAr": "كابلان"
+        },
+        {
+            "Code": "113366",
+            "Name": "Caraquet,   New Brunswick",
+            "NameAr": "كاراقويت نيو برونسويكك"
+        },
+        {
+            "Code": "417189",
+            "Name": "Carbonear",
+            "NameAr": "كاربونيار"
+        },
+        {
+            "Code": "113842",
+            "Name": "Carcross,   Yukon",
+            "NameAr": "كاركروسس يوكون"
+        },
+        {
+            "Code": "101795",
+            "Name": "Cardston",
+            "NameAr": "كاردستون"
+        },
+        {
+            "Code": "113844",
+            "Name": "Cariboo Country,   British Columbia",
+            "NameAr": "كاريبوو كوونتري بريتيسه كولومبيا"
+        },
+        {
+            "Code": "144540",
+            "Name": "Carleton,   Ontario",
+            "NameAr": "كارليتون ونتاريو"
+        },
+        {
+            "Code": "113376",
+            "Name": "Carlyle,   SasKatchewan",
+            "NameAr": "كارليلي ساسكاتكهيوان"
+        },
+        {
+            "Code": "113766",
+            "Name": "Carmacks,   Yukon",
+            "NameAr": "كارماككس يوكون"
+        },
+        {
+            "Code": "104901",
+            "Name": "Carnduff",
+            "NameAr": "كارندوفف"
+        },
+        {
+            "Code": "113966",
+            "Name": "Caroline,   Alberta",
+            "NameAr": "كاروليني البيرتا"
+        },
+        {
+            "Code": "151353",
+            "Name": "Cartwright,   Newfoundland and Labrador",
+            "NameAr": "كارتوريجهت نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "150968",
+            "Name": "Casselman,   Ontario",
+            "NameAr": "كاسسيلمان ونتاريو"
+        },
+        {
+            "Code": "114884",
+            "Name": "Castlegar,   British Columbia",
+            "NameAr": "كاستليجار بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150969",
+            "Name": "Cat Lake,   Ontario",
+            "NameAr": "كات لاكي ونتاريو"
+        },
+        {
+            "Code": "108127",
+            "Name": "Causapscal",
+            "NameAr": "كاوسابسكال"
+        },
+        {
+            "Code": "113919",
+            "Name": "Cavendish,   Prince Edward Island",
+            "NameAr": "كافينديسه برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "105243",
+            "Name": "Cawston,   British Columbia",
+            "NameAr": "كاوستون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "114075",
+            "Name": "Celista,   British Columbia",
+            "NameAr": "كيليستا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "113680",
+            "Name": "Chambord,   Quebec",
+            "NameAr": "كهامبورد قويبيك"
+        },
+        {
+            "Code": "144620",
+            "Name": "Chance Harbour,   New Brunswick",
+            "NameAr": "كهانكي هاربوور نيو برونسويكك"
+        },
+        {
+            "Code": "150720",
+            "Name": "Chandler,   Quebec",
+            "NameAr": "كهاندلير قويبيك"
+        },
+        {
+            "Code": "108134",
+            "Name": "Chapais",
+            "NameAr": "كهابايس"
+        },
+        {
+            "Code": "150568",
+            "Name": "Chapleau,   Ontario",
+            "NameAr": "كهابلياو ونتاريو"
+        },
+        {
+            "Code": "150434",
+            "Name": "Charlo,   New Brunswick",
+            "NameAr": "كهارلو نيو برونسويكك"
+        },
+        {
+            "Code": "114949",
+            "Name": "Charlos Cove,   Nova Scotia",
+            "NameAr": "كهارلوس كوفي نوفا سكوتيا"
+        },
+        {
+            "Code": "114498",
+            "Name": "Charlottetown,   Prince Edward Island",
+            "NameAr": "كهارلوتتيتوون برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "114621",
+            "Name": "Chase,   British Columbia",
+            "NameAr": "كهاسي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "114247",
+            "Name": "Chateau Richer,   Quebec",
+            "NameAr": "كهاتياو ريكهير قويبيك"
+        },
+        {
+            "Code": "101223",
+            "Name": "Chatham,   Ontario",
+            "NameAr": "كهاتهام ونتاريو"
+        },
+        {
+            "Code": "260979",
+            "Name": "Chelsea",
+            "NameAr": "كهيلسيا"
+        },
+        {
+            "Code": "101813",
+            "Name": "Chelton",
+            "NameAr": "كهيلتون"
+        },
+        {
+            "Code": "114519",
+            "Name": "Chemainus,   British Columbia",
+            "NameAr": "كهيماينوس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105377",
+            "Name": "Cherry Valley",
+            "NameAr": "كهيرري فالليي"
+        },
+        {
+            "Code": "114788",
+            "Name": "Cheticamp,   Nova Scotia",
+            "NameAr": "كهيتيكامب نوفا سكوتيا"
+        },
+        {
+            "Code": "114526",
+            "Name": "Chetwynd,   British Columbia",
+            "NameAr": "كهيتويند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150435",
+            "Name": "Chevery,   Quebec",
+            "NameAr": "كهيفيري قويبيك"
+        },
+        {
+            "Code": "150974",
+            "Name": "Chibougamau,   Quebec",
+            "NameAr": "كهيبووجاماو قويبيك"
+        },
+        {
+            "Code": "114655",
+            "Name": "Chicoutimi,   Quebec",
+            "NameAr": "كهيكووتيمي قويبيك"
+        },
+        {
+            "Code": "151435",
+            "Name": "Chilko Lake,   British Columbia",
+            "NameAr": "كهيلكو لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "144674",
+            "Name": "Chilliwack,   British Columbia",
+            "NameAr": "كهيلليواكك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150570",
+            "Name": "Chisasibi,   Quebec",
+            "NameAr": "كهيساسيبي قويبيك"
+        },
+        {
+            "Code": "106216",
+            "Name": "Christina Lake",
+            "NameAr": "كهريستينا لاكي"
+        },
+        {
+            "Code": "102274",
+            "Name": "Christopher Lake",
+            "NameAr": "كهريستوبهير لاكي"
+        },
+        {
+            "Code": "115329",
+            "Name": "Churchill,   Manitoba",
+            "NameAr": "كهوركهيلل مانيتوبا"
+        },
+        {
+            "Code": "114825",
+            "Name": "Churchill Falls,   Newfoundland and Labrador",
+            "NameAr": "كهوركهيلل فاللس نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "114378",
+            "Name": "Clairmont,   Alberta",
+            "NameAr": "كلايرمونت البيرتا"
+        },
+        {
+            "Code": "115343",
+            "Name": "Clarenville,   Newfoundland and Labrador",
+            "NameAr": "كلارينفيللي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "115794",
+            "Name": "Claresholm,   Alberta",
+            "NameAr": "كلاريسهولم البيرتا"
+        },
+        {
+            "Code": "144713",
+            "Name": "Clearwater,   British Columbia",
+            "NameAr": "كليارواتير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "108153",
+            "Name": "Clinton",
+            "NameAr": "كلينتون"
+        },
+        {
+            "Code": "114318",
+            "Name": "Clinton B.C.,   British Columbia",
+            "NameAr": "كلينتون ب ك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106296",
+            "Name": "Cloyne",
+            "NameAr": "كلويني"
+        },
+        {
+            "Code": "150722",
+            "Name": "Clyde River,   Nunavut",
+            "NameAr": "كليدي ريفير نونافوت"
+        },
+        {
+            "Code": "106226",
+            "Name": "Cobble Hill",
+            "NameAr": "كوببلي هيلل"
+        },
+        {
+            "Code": "115452",
+            "Name": "Cobourg,   Ontario",
+            "NameAr": "كوبوورج ونتاريو"
+        },
+        {
+            "Code": "105386",
+            "Name": "Cocagne",
+            "NameAr": "كوكاجني"
+        },
+        {
+            "Code": "108784",
+            "Name": "Cochrane,   Alberta",
+            "NameAr": "كوكهراني البيرتا"
+        },
+        {
+            "Code": "115362",
+            "Name": "Cochrane,   Ontario",
+            "NameAr": "كوكهراني ونتاريو"
+        },
+        {
+            "Code": "105448",
+            "Name": "Coe Hill",
+            "NameAr": "كوي هيلل"
+        },
+        {
+            "Code": "115366",
+            "Name": "Cold Lake,   Alberta",
+            "NameAr": "كولد لاكي البيرتا"
+        },
+        {
+            "Code": "115248",
+            "Name": "Coldbrook,   Nova Scotia",
+            "NameAr": "كولدبرووك نوفا سكوتيا"
+        },
+        {
+            "Code": "115829",
+            "Name": "Collingwood,   Ontario",
+            "NameAr": "كوللينجووود ونتاريو"
+        },
+        {
+            "Code": "150979",
+            "Name": "Colville Lake,   Northwest Territories",
+            "NameAr": "كولفيللي لاكي نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "114999",
+            "Name": "Comox,   British Columbia",
+            "NameAr": "كوموكس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "115275",
+            "Name": "Conklin,   Alberta",
+            "NameAr": "كونكلين البيرتا"
+        },
+        {
+            "Code": "150439",
+            "Name": "Coppermine,   Nunavut",
+            "NameAr": "كوببيرميني نونافوت"
+        },
+        {
+            "Code": "115019",
+            "Name": "Coquitlam,   British Columbia",
+            "NameAr": "كوقويتلام بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151079",
+            "Name": "Coral Harbour,   Nunavut",
+            "NameAr": "كورال هاربوور نونافوت"
+        },
+        {
+            "Code": "115294",
+            "Name": "Cormorant Island,   British Columbia",
+            "NameAr": "كورمورانت يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "115507",
+            "Name": "Corner Brook,   Newfoundland and Labrador",
+            "NameAr": "كورنير برووك نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "115565",
+            "Name": "Cornwall,   Ontario",
+            "NameAr": "كورنوالل ونتاريو"
+        },
+        {
+            "Code": "150500",
+            "Name": "Cortes Bay,   British Columbia",
+            "NameAr": "كورتيس باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "115584",
+            "Name": "Courtenay,   British Columbia",
+            "NameAr": "كوورتيناي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "115528",
+            "Name": "Cowansville,   Quebec",
+            "NameAr": "كووانسفيللي قويبيك"
+        },
+        {
+            "Code": "115056",
+            "Name": "Cowichan Bay,   British Columbia",
+            "NameAr": "كوويكهان باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "115320",
+            "Name": "Cranbrook,   British Columbia",
+            "NameAr": "كرانبرووك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "115592",
+            "Name": "Crawford Bay,   British Columbia",
+            "NameAr": "كراوفورد باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105465",
+            "Name": "Creemore",
+            "NameAr": "كرييموري"
+        },
+        {
+            "Code": "115065",
+            "Name": "Creston,   British Columbia",
+            "NameAr": "كريستون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "108171",
+            "Name": "Crofton",
+            "NameAr": "كروفتون"
+        },
+        {
+            "Code": "151362",
+            "Name": "Cross Lake,   Manitoba",
+            "NameAr": "كروسس لاكي مانيتوبا"
+        },
+        {
+            "Code": "106240",
+            "Name": "Crossfield",
+            "NameAr": "كروسسفييلد"
+        },
+        {
+            "Code": "108173",
+            "Name": "Crystal Beach,   Ontario",
+            "NameAr": "كريستال بياكه ونتاريو"
+        },
+        {
+            "Code": "144828",
+            "Name": "Crystall Falls,   Ontario",
+            "NameAr": "كريستالل فاللس ونتاريو"
+        },
+        {
+            "Code": "101842",
+            "Name": "Cultus Lake",
+            "NameAr": "كولتوس لاكي"
+        },
+        {
+            "Code": "116135",
+            "Name": "Dalhousie,   New Brunswick",
+            "NameAr": "دالهووسيي نيو برونسويكك"
+        },
+        {
+            "Code": "104940",
+            "Name": "Darlings Lake",
+            "NameAr": "دارلينجس لاكي"
+        },
+        {
+            "Code": "115656",
+            "Name": "Dartmouth,   Nova Scotia",
+            "NameAr": "دارتمووته نوفا سكوتيا"
+        },
+        {
+            "Code": "116152",
+            "Name": "Dauphin,   Manitoba",
+            "NameAr": "داوبهين مانيتوبا"
+        },
+        {
+            "Code": "151082",
+            "Name": "Davis Inlet,   Newfoundland and Labrador",
+            "NameAr": "دافيس ينليت نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "116050",
+            "Name": "Dawson City,   Yukon",
+            "NameAr": "داوسون كيتي يوكون"
+        },
+        {
+            "Code": "115661",
+            "Name": "Dawson Creek,   British Columbia",
+            "NameAr": "داوسون كرييك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "102306",
+            "Name": "Deacon",
+            "NameAr": "دياكون"
+        },
+        {
+            "Code": "115667",
+            "Name": "Dead Man's Flats,   Alberta",
+            "NameAr": "دياد مانس فلاتس البيرتا"
+        },
+        {
+            "Code": "150728",
+            "Name": "Dean River,   British Columbia",
+            "NameAr": "ديان ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "144882",
+            "Name": "Dease Lake,   British Columbia",
+            "NameAr": "دياسي لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106249",
+            "Name": "Deep River",
+            "NameAr": "دييب ريفير"
+        },
+        {
+            "Code": "116650",
+            "Name": "Deer Lake,   Ontario",
+            "NameAr": "ديير لاكي ونتاريو"
+        },
+        {
+            "Code": "159040",
+            "Name": "Deer Lake - Corner Brook,   Newfoundland and Labrador",
+            "NameAr": "ديير لاكي - كورنير برووك نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "108182",
+            "Name": "Degelis",
+            "NameAr": "ديجيليس"
+        },
+        {
+            "Code": "105477",
+            "Name": "Delhi",
+            "NameAr": "ديلهي"
+        },
+        {
+            "Code": "115208",
+            "Name": "Delta,   British Columbia",
+            "NameAr": "ديلتا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106003",
+            "Name": "Denholm",
+            "NameAr": "دينهولم"
+        },
+        {
+            "Code": "106253",
+            "Name": "Denman Island",
+            "NameAr": "دينمان يسلاند"
+        },
+        {
+            "Code": "116072",
+            "Name": "Denny Island,   British Columbia",
+            "NameAr": "دينني يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "117346",
+            "Name": "Deschambault,   Quebec",
+            "NameAr": "ديسكهامباولت قويبيك"
+        },
+        {
+            "Code": "104947",
+            "Name": "Didsbury",
+            "NameAr": "ديدسبوري"
+        },
+        {
+            "Code": "115701",
+            "Name": "Dieppe,   New Brunswick",
+            "NameAr": "دييببي نيو برونسويكك"
+        },
+        {
+            "Code": "116347",
+            "Name": "Digby,   Nova Scotia",
+            "NameAr": "ديجبي نوفا سكوتيا"
+        },
+        {
+            "Code": "417030",
+            "Name": "Dildo",
+            "NameAr": "ديلدو"
+        },
+        {
+            "Code": "116366",
+            "Name": "Dolbeau,   Quebec",
+            "NameAr": "دولبياو قويبيك"
+        },
+        {
+            "Code": "108196",
+            "Name": "Dolbeau-Mistassini",
+            "NameAr": "دولبياو-ميستاسسيني"
+        },
+        {
+            "Code": "108203",
+            "Name": "Dorset",
+            "NameAr": "دورسيت"
+        },
+        {
+            "Code": "115750",
+            "Name": "Dorval,   Quebec",
+            "NameAr": "دورفال قويبيك"
+        },
+        {
+            "Code": "144961",
+            "Name": "Douglas Lake,   British Columbia",
+            "NameAr": "دووجلاس لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "116388",
+            "Name": "Drayton Valley,   Alberta",
+            "NameAr": "درايتون فالليي البيرتا"
+        },
+        {
+            "Code": "144977",
+            "Name": "Drumheller,   Alberta",
+            "NameAr": "درومهيللير البيرتا"
+        },
+        {
+            "Code": "115934",
+            "Name": "Drummondville,   Quebec",
+            "NameAr": "درومموندفيللي قويبيك"
+        },
+        {
+            "Code": "116925",
+            "Name": "Dryden,   Ontario",
+            "NameAr": "دريدين ونتاريو"
+        },
+        {
+            "Code": "116927",
+            "Name": "Dublin,   Ontario",
+            "NameAr": "دوبلين ونتاريو"
+        },
+        {
+            "Code": "101869",
+            "Name": "Dudswell",
+            "NameAr": "دودسويلل"
+        },
+        {
+            "Code": "115943",
+            "Name": "Duhamel,   Quebec",
+            "NameAr": "دوهاميل قويبيك"
+        },
+        {
+            "Code": "116937",
+            "Name": "Duncan,   British Columbia",
+            "NameAr": "دونكان بريتيسه كولومبيا"
+        },
+        {
+            "Code": "116458",
+            "Name": "Dundee,   Nova Scotia",
+            "NameAr": "دونديي نوفا سكوتيا"
+        },
+        {
+            "Code": "106028",
+            "Name": "Dunham",
+            "NameAr": "دونهام"
+        },
+        {
+            "Code": "116942",
+            "Name": "Dunnville,   Ontario",
+            "NameAr": "دوننفيللي ونتاريو"
+        },
+        {
+            "Code": "106269",
+            "Name": "Durham-Sud",
+            "NameAr": "دورهام-سود"
+        },
+        {
+            "Code": "106270",
+            "Name": "Dwight",
+            "NameAr": "دويجهت"
+        },
+        {
+            "Code": "117052",
+            "Name": "Eagle Creek,   British Columbia",
+            "NameAr": "ياجلي كرييك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "116473",
+            "Name": "Eagle Lakes,   Ontario",
+            "NameAr": "ياجلي لاكيس ونتاريو"
+        },
+        {
+            "Code": "116725",
+            "Name": "Eagle Plains,   Yukon",
+            "NameAr": "ياجلي بلاينس يوكون"
+        },
+        {
+            "Code": "150736",
+            "Name": "Earlton,   Ontario",
+            "NameAr": "يارلتون ونتاريو"
+        },
+        {
+            "Code": "116415",
+            "Name": "East Ferris,   Ontario",
+            "NameAr": "ياست فيرريس ونتاريو"
+        },
+        {
+            "Code": "115979",
+            "Name": "East Kemptville,   Nova Scotia",
+            "NameAr": "ياست كيمبتفيللي نوفا سكوتيا"
+        },
+        {
+            "Code": "105795",
+            "Name": "Eastman",
+            "NameAr": "ياستمان"
+        },
+        {
+            "Code": "117060",
+            "Name": "Eastport,   Newfoundland and Labrador",
+            "NameAr": "ياستبورت نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "145037",
+            "Name": "Edmonton,   Alberta",
+            "NameAr": "يدمونتون البيرتا"
+        },
+        {
+            "Code": "117070",
+            "Name": "Edmundston,   New Brunswick",
+            "NameAr": "يدموندستون نيو برونسويكك"
+        },
+        {
+            "Code": "116491",
+            "Name": "Edson,   Alberta",
+            "NameAr": "يدسون البيرتا"
+        },
+        {
+            "Code": "117080",
+            "Name": "Egmont,   British Columbia",
+            "NameAr": "يجمونت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105515",
+            "Name": "Elkford",
+            "NameAr": "يلكفورد"
+        },
+        {
+            "Code": "118061",
+            "Name": "Elkwater,   Alberta",
+            "NameAr": "يلكواتير البيرتا"
+        },
+        {
+            "Code": "118062",
+            "Name": "Elliot Lake,   Ontario",
+            "NameAr": "يلليوت لاكي ونتاريو"
+        },
+        {
+            "Code": "145076",
+            "Name": "Elora,   Ontario",
+            "NameAr": "يلورا ونتاريو"
+        },
+        {
+            "Code": "101883",
+            "Name": "Emerson",
+            "NameAr": "يميرسون"
+        },
+        {
+            "Code": "117235",
+            "Name": "Enderby,   British Columbia",
+            "NameAr": "ينديربي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "117807",
+            "Name": "Enfield,   Nova Scotia",
+            "NameAr": "ينفييلد نوفا سكوتيا"
+        },
+        {
+            "Code": "106048",
+            "Name": "Entrelacs",
+            "NameAr": "ينتريلاكس"
+        },
+        {
+            "Code": "118099",
+            "Name": "Errington,   British Columbia",
+            "NameAr": "يررينجتون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106051",
+            "Name": "Espanola",
+            "NameAr": "يسبانولا"
+        },
+        {
+            "Code": "117202",
+            "Name": "Esterel,   Quebec",
+            "NameAr": "يستيريل قويبيك"
+        },
+        {
+            "Code": "117733",
+            "Name": "Esterhazy,   SasKatchewan",
+            "NameAr": "يستيرهازي ساسكاتكهيوان"
+        },
+        {
+            "Code": "145121",
+            "Name": "Estevan,   Saskatchewan",
+            "NameAr": "يستيفان ساسكاتكهيوان"
+        },
+        {
+            "Code": "101196",
+            "Name": "Etobicoke,   Ontario",
+            "NameAr": "يتوبيكوكي ونتاريو"
+        },
+        {
+            "Code": "118234",
+            "Name": "Fairhaven,   British Columbia",
+            "NameAr": "فايرهافين بريتيسه كولومبيا"
+        },
+        {
+            "Code": "117587",
+            "Name": "Fairmont Hot Springs,   British Columbia",
+            "NameAr": "فايرمونت هوت سبرينجس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150992",
+            "Name": "Fairview,   Prince Edward Island",
+            "NameAr": "فايرفييو برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "150993",
+            "Name": "Fairview,   Alberta",
+            "NameAr": "فايرفييو البيرتا"
+        },
+        {
+            "Code": "117290",
+            "Name": "Fall River,   Nova Scotia",
+            "NameAr": "فالل ريفير نوفا سكوتيا"
+        },
+        {
+            "Code": "118133",
+            "Name": "Faro,   Yukon",
+            "NameAr": "فارو يوكون"
+        },
+        {
+            "Code": "118807",
+            "Name": "Fatima,   Quebec",
+            "NameAr": "فاتيما قويبيك"
+        },
+        {
+            "Code": "101717",
+            "Name": "Fenelon Falls,   Ontario",
+            "NameAr": "فينيلون فاللس ونتاريو"
+        },
+        {
+            "Code": "102462",
+            "Name": "Fergus",
+            "NameAr": "فيرجوس"
+        },
+        {
+            "Code": "118262",
+            "Name": "Ferme-Neuve,   Quebec",
+            "NameAr": "فيرمي-نيوفي قويبيك"
+        },
+        {
+            "Code": "118265",
+            "Name": "Fernie,   British Columbia",
+            "NameAr": "فيرنيي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "247581",
+            "Name": "Fernwood",
+            "NameAr": "فيرنووود"
+        },
+        {
+            "Code": "118560",
+            "Name": "Field,   British Columbia",
+            "NameAr": "فييلد بريتيسه كولومبيا"
+        },
+        {
+            "Code": "145192",
+            "Name": "Fintry,   British Columbia",
+            "NameAr": "فينتري بريتيسه كولومبيا"
+        },
+        {
+            "Code": "118575",
+            "Name": "Flesherton,   Ontario",
+            "NameAr": "فليسهيرتون ونتاريو"
+        },
+        {
+            "Code": "151090",
+            "Name": "Flin Flon,   Manitoba",
+            "NameAr": "فلين فلون مانيتوبا"
+        },
+        {
+            "Code": "105424",
+            "Name": "Florenceville-Bristol",
+            "NameAr": "فلورينكيفيللي-بريستول"
+        },
+        {
+            "Code": "117660",
+            "Name": "Fogo Island,   Newfoundland and Labrador",
+            "NameAr": "فوجو يسلاند نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "150452",
+            "Name": "Fond Du Lac,   Saskatchewan",
+            "NameAr": "فوند دو لاك ساسكاتكهيوان"
+        },
+        {
+            "Code": "102467",
+            "Name": "Foresters Falls",
+            "NameAr": "فوريستيرس فاللس"
+        },
+        {
+            "Code": "145231",
+            "Name": "Forestville,   Quebec",
+            "NameAr": "فوريستفيللي قويبيك"
+        },
+        {
+            "Code": "150513",
+            "Name": "Fort Albany,   Ontario",
+            "NameAr": "فورت الباني ونتاريو"
+        },
+        {
+            "Code": "151091",
+            "Name": "Fort Chipewyan,   Alberta",
+            "NameAr": "فورت كهيبيويان البيرتا"
+        },
+        {
+            "Code": "117929",
+            "Name": "Fort Erie,   Ontario",
+            "NameAr": "فورت يريي ونتاريو"
+        },
+        {
+            "Code": "118877",
+            "Name": "Fort Frances,   Ontario",
+            "NameAr": "فورت فرانكيس ونتاريو"
+        },
+        {
+            "Code": "150515",
+            "Name": "Fort Good Hope,   Northwest Territories",
+            "NameAr": "فورت جوود هوبي نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "150516",
+            "Name": "Fort Hope,   Ontario",
+            "NameAr": "فورت هوبي ونتاريو"
+        },
+        {
+            "Code": "118195",
+            "Name": "Fort MacLeod,   Alberta",
+            "NameAr": "فورت ماكليود البيرتا"
+        },
+        {
+            "Code": "145239",
+            "Name": "Fort McMurray,   Alberta",
+            "NameAr": "فورت مكمورراي البيرتا"
+        },
+        {
+            "Code": "117932",
+            "Name": "Fort Nelson,   British Columbia",
+            "NameAr": "فورت نيلسون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150454",
+            "Name": "Fort Norman,   Northwest Territories",
+            "NameAr": "فورت نورمان نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "150997",
+            "Name": "Fort Resolution,   Northwest Territories",
+            "NameAr": "فورت ريسولوتيون نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "118328",
+            "Name": "Fort Saint John,   British Columbia",
+            "NameAr": "فورت ساينت جوهن بريتيسه كولومبيا"
+        },
+        {
+            "Code": "118196",
+            "Name": "Fort Saskatchewan,   Alberta",
+            "NameAr": "فورت ساسكاتكهيوان البيرتا"
+        },
+        {
+            "Code": "150748",
+            "Name": "Fort Severn,   Ontario",
+            "NameAr": "فورت سيفيرن ونتاريو"
+        },
+        {
+            "Code": "117933",
+            "Name": "Fort Simpson,   Northwest Territory",
+            "NameAr": "فورت سيمبسون نورتهويست تيرريتوري"
+        },
+        {
+            "Code": "117934",
+            "Name": "Fort Smith,   Northwest Territory",
+            "NameAr": "فورت سميته نورتهويست تيرريتوري"
+        },
+        {
+            "Code": "118880",
+            "Name": "Fort St. James,   British Columbia",
+            "NameAr": "فورت ست جاميس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "102397",
+            "Name": "Fort-Coulonge",
+            "NameAr": "فورت-كوولونجي"
+        },
+        {
+            "Code": "118333",
+            "Name": "Fox Creek,   Alberta",
+            "NameAr": "فوكس كرييك البيرتا"
+        },
+        {
+            "Code": "151448",
+            "Name": "Fox Harbour,   Newfoundland and Labrador",
+            "NameAr": "فوكس هاربوور نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "118206",
+            "Name": "Frances Lake,   Yukon",
+            "NameAr": "فرانكيس لاكي يوكون"
+        },
+        {
+            "Code": "118360",
+            "Name": "Fredericton,   New Brunswick",
+            "NameAr": "فريديريكتون نيو برونسويكك"
+        },
+        {
+            "Code": "417191",
+            "Name": "Frelighsburg,   Quebec",
+            "NameAr": "فريليجهسبورج قويبيك"
+        },
+        {
+            "Code": "118627",
+            "Name": "French River,   Prince Edward Island",
+            "NameAr": "فرينكه ريفير برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "118220",
+            "Name": "French Village,   Nova Scotia",
+            "NameAr": "فرينكه فيللاجي نوفا سكوتيا"
+        },
+        {
+            "Code": "117985",
+            "Name": "Galiano Island,   British Columbia",
+            "NameAr": "جاليانو يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "119612",
+            "Name": "Gananoque,   Ontario",
+            "NameAr": "جانانوقوي ونتاريو"
+        },
+        {
+            "Code": "118554",
+            "Name": "Gander,   Newfoundland and Labrador",
+            "NameAr": "جاندير نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "106097",
+            "Name": "Garden Bay",
+            "NameAr": "جاردين باي"
+        },
+        {
+            "Code": "119352",
+            "Name": "Gaspe,   Quebec",
+            "NameAr": "جاسبي قويبيك"
+        },
+        {
+            "Code": "119355",
+            "Name": "Gatineau,   Quebec",
+            "NameAr": "جاتينياو قويبيك"
+        },
+        {
+            "Code": "118677",
+            "Name": "Georgetown,   Ontario",
+            "NameAr": "جيورجيتوون ونتاريو"
+        },
+        {
+            "Code": "119257",
+            "Name": "Georgina,   Ontario",
+            "NameAr": "جيورجينا ونتاريو"
+        },
+        {
+            "Code": "151092",
+            "Name": "Geraldton,   Ontario",
+            "NameAr": "جيرالدتون ونتاريو"
+        },
+        {
+            "Code": "150999",
+            "Name": "Gethsemani,   Quebec",
+            "NameAr": "جيتهسيماني قويبيك"
+        },
+        {
+            "Code": "119268",
+            "Name": "Gibsons,   British Columbia",
+            "NameAr": "جيبسونس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150458",
+            "Name": "Gillam,   Manitoba",
+            "NameAr": "جيللام مانيتوبا"
+        },
+        {
+            "Code": "118701",
+            "Name": "Gimli,   Manitoba",
+            "NameAr": "جيملي مانيتوبا"
+        },
+        {
+            "Code": "119393",
+            "Name": "Girardville,   Quebec",
+            "NameAr": "جيراردفيللي قويبيك"
+        },
+        {
+            "Code": "151380",
+            "Name": "Gjoa Haven,   Northwest Territories",
+            "NameAr": "ججوا هافين نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "145370",
+            "Name": "Glimpse Lake,   British Columbia",
+            "NameAr": "جليمبسي لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105822",
+            "Name": "Godbout",
+            "NameAr": "جودبووت"
+        },
+        {
+            "Code": "118731",
+            "Name": "Goderich,   Ontario",
+            "NameAr": "جوديريكه ونتاريو"
+        },
+        {
+            "Code": "151450",
+            "Name": "Gods River,   Manitoba",
+            "NameAr": "جودس ريفير مانيتوبا"
+        },
+        {
+            "Code": "238248",
+            "Name": "Goffs,   Nova Scotia",
+            "NameAr": "جوففس نوفا سكوتيا"
+        },
+        {
+            "Code": "119155",
+            "Name": "Gold River,   British Columbia",
+            "NameAr": "جولد ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "119156",
+            "Name": "Goldbridge,   British Columbia",
+            "NameAr": "جولدبريدجي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "145382",
+            "Name": "Golden,   British Columbia",
+            "NameAr": "جولدين بريتيسه كولومبيا"
+        },
+        {
+            "Code": "119820",
+            "Name": "Goose Bay,   Newfoundland and Labrador",
+            "NameAr": "جووسي باي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "145392",
+            "Name": "Gore Bay,   Ontario",
+            "NameAr": "جوري باي ونتاريو"
+        },
+        {
+            "Code": "106113",
+            "Name": "Goulais River",
+            "NameAr": "جوولايس ريفير"
+        },
+        {
+            "Code": "118766",
+            "Name": "Grafton,   Ontario",
+            "NameAr": "جرافتون ونتاريو"
+        },
+        {
+            "Code": "119988",
+            "Name": "Granby,   Quebec",
+            "NameAr": "جرانبي قويبيك"
+        },
+        {
+            "Code": "119192",
+            "Name": "Grand Bank,   Newfoundland and Labrador",
+            "NameAr": "جراند بانك نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "292926",
+            "Name": "Grand Bend",
+            "NameAr": "جراند بيند"
+        },
+        {
+            "Code": "119193",
+            "Name": "Grand Falls,   New Brunswick",
+            "NameAr": "جراند فاللس نيو برونسويكك"
+        },
+        {
+            "Code": "370720",
+            "Name": "Grand Falls - Windsor,   Newfoundland and Labrador",
+            "NameAr": "جراند فاللس - ويندسور نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "119439",
+            "Name": "Grand Forks,   British Columbia",
+            "NameAr": "جراند فوركس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "145412",
+            "Name": "Grand Manan,   New Brunswick",
+            "NameAr": "جراند مانان نيو برونسويكك"
+        },
+        {
+            "Code": "119991",
+            "Name": "Grand Prairie,   Alberta",
+            "NameAr": "جراند برايريي البيرتا"
+        },
+        {
+            "Code": "101756",
+            "Name": "Grand Rapids",
+            "NameAr": "جراند رابيدس"
+        },
+        {
+            "Code": "101757",
+            "Name": "Grand-Pre",
+            "NameAr": "جراند-بري"
+        },
+        {
+            "Code": "118779",
+            "Name": "Grand-Remous,   Quebec",
+            "NameAr": "جراند-ريمووس قويبيك"
+        },
+        {
+            "Code": "119442",
+            "Name": "Grande Cache,   Alberta",
+            "NameAr": "جراندي كاكهي البيرتا"
+        },
+        {
+            "Code": "119993",
+            "Name": "Grandes-Bergeronnes,   Quebec",
+            "NameAr": "جرانديس-بيرجيروننيس قويبيك"
+        },
+        {
+            "Code": "145417",
+            "Name": "Grandes-Piles,   Quebec",
+            "NameAr": "جرانديس-بيليس قويبيك"
+        },
+        {
+            "Code": "119449",
+            "Name": "Granum,   Alberta",
+            "NameAr": "جرانوم البيرتا"
+        },
+        {
+            "Code": "119450",
+            "Name": "Granville Ferry,   Nova Scotia",
+            "NameAr": "جرانفيللي فيرري نوفا سكوتيا"
+        },
+        {
+            "Code": "120415",
+            "Name": "Gravenhurst,   Ontario",
+            "NameAr": "جرافينهورست ونتاريو"
+        },
+        {
+            "Code": "150593",
+            "Name": "Greenway Sound,   British Columbia",
+            "NameAr": "جريينواي سووند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151453",
+            "Name": "Greenwood,   British Columbia",
+            "NameAr": "جريينووود بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151454",
+            "Name": "Greenwood,   Nova Scotia",
+            "NameAr": "جريينووود نوفا سكوتيا"
+        },
+        {
+            "Code": "108271",
+            "Name": "Grenville-sur-la-Rouge",
+            "NameAr": "جرينفيللي-سور-لا-رووجي"
+        },
+        {
+            "Code": "121095",
+            "Name": "Grimsby,   Ontario",
+            "NameAr": "جريمسبي ونتاريو"
+        },
+        {
+            "Code": "145452",
+            "Name": "Grimshaw,   Alberta",
+            "NameAr": "جريمسهاو البيرتا"
+        },
+        {
+            "Code": "150756",
+            "Name": "Grise Fiord,   Nunavut",
+            "NameAr": "جريسي فيورد نونافوت"
+        },
+        {
+            "Code": "119734",
+            "Name": "Gros Morne National Park,   Newfoundland and Labrador",
+            "NameAr": "جروس مورني ناتيونال بارك نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "119916",
+            "Name": "Guelph,   Ontario",
+            "NameAr": "جويلبه ونتاريو"
+        },
+        {
+            "Code": "119929",
+            "Name": "Guysborough,   Nova Scotia",
+            "NameAr": "جويسبورووجه نوفا سكوتيا"
+        },
+        {
+            "Code": "120579",
+            "Name": "Hackett's Cove,   Nova Scotia",
+            "NameAr": "هاككيتتس كوفي نوفا سكوتيا"
+        },
+        {
+            "Code": "120452",
+            "Name": "Haines Junction,   Yukon",
+            "NameAr": "هاينيس جونكتيون يوكون"
+        },
+        {
+            "Code": "120184",
+            "Name": "Halfmoon Bay,   British Columbia",
+            "NameAr": "هالفموون باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "120087",
+            "Name": "Haliburton,   Ontario",
+            "NameAr": "هاليبورتون ونتاريو"
+        },
+        {
+            "Code": "119946",
+            "Name": "Halifax,   Nova Scotia",
+            "NameAr": "هاليفاكس نوفا سكوتيا"
+        },
+        {
+            "Code": "151002",
+            "Name": "Hall Beach,   Nunavut",
+            "NameAr": "هالل بياكه نونافوت"
+        },
+        {
+            "Code": "101777",
+            "Name": "Ham-Sud",
+            "NameAr": "هام-سود"
+        },
+        {
+            "Code": "145521",
+            "Name": "Hamilton,   Ontario",
+            "NameAr": "هاميلتون ونتاريو"
+        },
+        {
+            "Code": "120471",
+            "Name": "Hanna,   Alberta",
+            "NameAr": "هاننا البيرتا"
+        },
+        {
+            "Code": "108287",
+            "Name": "Hanover",
+            "NameAr": "هانوفير"
+        },
+        {
+            "Code": "101779",
+            "Name": "Harbour Grace",
+            "NameAr": "هاربوور جراكي"
+        },
+        {
+            "Code": "120208",
+            "Name": "Harbourville,   Nova Scotia",
+            "NameAr": "هاربوورفيللي نوفا سكوتيا"
+        },
+        {
+            "Code": "105840",
+            "Name": "Harcourt",
+            "NameAr": "هاركوورت"
+        },
+        {
+            "Code": "121188",
+            "Name": "Harrison Hot Springs,   British Columbia",
+            "NameAr": "هارريسون هوت سبرينجس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "120216",
+            "Name": "Harrison Mills,   British Columbia",
+            "NameAr": "هارريسون ميللس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151004",
+            "Name": "Hartley Bay,   British Columbia",
+            "NameAr": "هارتليي باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "120618",
+            "Name": "Harvie Heights,   Alberta",
+            "NameAr": "هارفيي هييجهتس البيرتا"
+        },
+        {
+            "Code": "120233",
+            "Name": "Haute-Aboujagane,   New Brunswick",
+            "NameAr": "هاوتي-ابووجاجاني نيو برونسويكك"
+        },
+        {
+            "Code": "120509",
+            "Name": "Havre-aux-Maisons,   Quebec",
+            "NameAr": "هافري-اوكس-مايسونس قويبيك"
+        },
+        {
+            "Code": "418030",
+            "Name": "Havre-Saint-Pierre",
+            "NameAr": "هافري-ساينت-بييرري"
+        },
+        {
+            "Code": "145556",
+            "Name": "Hawkesbury,   Ontario",
+            "NameAr": "هاوكيسبوري ونتاريو"
+        },
+        {
+            "Code": "120242",
+            "Name": "Hay River,   Northwest Territory",
+            "NameAr": "هاي ريفير نورتهويست تيرريتوري"
+        },
+        {
+            "Code": "120806",
+            "Name": "Hearst,   Ontario",
+            "NameAr": "هيارست ونتاريو"
+        },
+        {
+            "Code": "120807",
+            "Name": "Hebertville,   Quebec",
+            "NameAr": "هيبيرتفيللي قويبيك"
+        },
+        {
+            "Code": "121872",
+            "Name": "Hecla,   Manitoba",
+            "NameAr": "هيكلا مانيتوبا"
+        },
+        {
+            "Code": "120251",
+            "Name": "Hecla-und-Fury-Inseln,   Nunavut",
+            "NameAr": "هيكلا-وند-فوري-ينسيلن نونافوت"
+        },
+        {
+            "Code": "105844",
+            "Name": "Hedley",
+            "NameAr": "هيدليي"
+        },
+        {
+            "Code": "105846",
+            "Name": "Heriot Bay",
+            "NameAr": "هيريوت باي"
+        },
+        {
+            "Code": "105847",
+            "Name": "Hermanville",
+            "NameAr": "هيرمانفيللي"
+        },
+        {
+            "Code": "120694",
+            "Name": "High Level,   Alberta",
+            "NameAr": "هيجه ليفيل البيرتا"
+        },
+        {
+            "Code": "120695",
+            "Name": "High Prairie,   Alberta",
+            "NameAr": "هيجه برايريي البيرتا"
+        },
+        {
+            "Code": "120848",
+            "Name": "High River,   Alberta",
+            "NameAr": "هيجه ريفير البيرتا"
+        },
+        {
+            "Code": "121916",
+            "Name": "Hinton,   Alberta",
+            "NameAr": "هينتون البيرتا"
+        },
+        {
+            "Code": "151461",
+            "Name": "Holman,   Northwest Territories",
+            "NameAr": "هولمان نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "102520",
+            "Name": "Holyrood",
+            "NameAr": "هوليروود"
+        },
+        {
+            "Code": "105957",
+            "Name": "Honeymoon Bay",
+            "NameAr": "هونييموون باي"
+        },
+        {
+            "Code": "121384",
+            "Name": "Hope,   British Columbia",
+            "NameAr": "هوبي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151384",
+            "Name": "Hopedale,   Newfoundland and Labrador",
+            "NameAr": "هوبيدالي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "101553",
+            "Name": "Hopewell Cape",
+            "NameAr": "هوبيويلل كابي"
+        },
+        {
+            "Code": "121271",
+            "Name": "Hopewell Hill,   New Brunswick",
+            "NameAr": "هوبيويلل هيلل نيو برونسويكك"
+        },
+        {
+            "Code": "151103",
+            "Name": "Hornepayne,   Ontario",
+            "NameAr": "هورنيبايني ونتاريو"
+        },
+        {
+            "Code": "121957",
+            "Name": "Houston,   British Columbia",
+            "NameAr": "هووستون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "121301",
+            "Name": "Hubbards,   Nova Scotia",
+            "NameAr": "هوبباردس نوفا سكوتيا"
+        },
+        {
+            "Code": "151105",
+            "Name": "Hudson Bay,   Saskatchewan",
+            "NameAr": "هودسون باي ساسكاتكهيوان"
+        },
+        {
+            "Code": "121572",
+            "Name": "Hudson's Hope,   British Columbia",
+            "NameAr": "هودسونس هوبي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "101253",
+            "Name": "Hull,   Ontario",
+            "NameAr": "هولل ونتاريو"
+        },
+        {
+            "Code": "101256",
+            "Name": "Hull",
+            "NameAr": "هولل"
+        },
+        {
+            "Code": "121693",
+            "Name": "Humboldt,   Saskatchewan",
+            "NameAr": "هومبولدت ساسكاتكهيوان"
+        },
+        {
+            "Code": "121972",
+            "Name": "Huntsville,   Ontario",
+            "NameAr": "هونتسفيللي ونتاريو"
+        },
+        {
+            "Code": "150529",
+            "Name": "Igloolik,   Nunavut",
+            "NameAr": "يجلووليك نونافوت"
+        },
+        {
+            "Code": "151106",
+            "Name": "Ignace,   Ontario",
+            "NameAr": "يجناكي ونتاريو"
+        },
+        {
+            "Code": "121604",
+            "Name": "Ile D'Orleans,   Quebec",
+            "NameAr": "يلي دورليانس قويبيك"
+        },
+        {
+            "Code": "122102",
+            "Name": "Ile-aux-Coudres,   Quebec",
+            "NameAr": "يلي-اوكس-كوودريس قويبيك"
+        },
+        {
+            "Code": "145746",
+            "Name": "Indian Harbour,   Nova Scotia",
+            "NameAr": "ينديان هاربوور نوفا سكوتيا"
+        },
+        {
+            "Code": "122115",
+            "Name": "Ingersoll,   Ontario",
+            "NameAr": "ينجيرسولل ونتاريو"
+        },
+        {
+            "Code": "121617",
+            "Name": "Ingonish Beach,   Nova Scotia",
+            "NameAr": "ينجونيسه بياكه نوفا سكوتيا"
+        },
+        {
+            "Code": "121070",
+            "Name": "Innisfail,   Alberta",
+            "NameAr": "يننيسفايل البيرتا"
+        },
+        {
+            "Code": "145752",
+            "Name": "Innisfil,   Ontario",
+            "NameAr": "يننيسفيل ونتاريو"
+        },
+        {
+            "Code": "150464",
+            "Name": "Inukjuak,   Quebec",
+            "NameAr": "ينوكجواك قويبيك"
+        },
+        {
+            "Code": "122018",
+            "Name": "Inuvik,   Northwest Territory",
+            "NameAr": "ينوفيك نورتهويست تيرريتوري"
+        },
+        {
+            "Code": "121743",
+            "Name": "Invermere,   British Columbia",
+            "NameAr": "ينفيرميري بريتيسه كولومبيا"
+        },
+        {
+            "Code": "152844",
+            "Name": "Inverness County,   Nova Scotia",
+            "NameAr": "ينفيرنيسس كوونتي نوفا سكوتيا"
+        },
+        {
+            "Code": "122026",
+            "Name": "Iona,   Nova Scotia",
+            "NameAr": "يونا نوفا سكوتيا"
+        },
+        {
+            "Code": "121490",
+            "Name": "Iqaluit,   Nunavut",
+            "NameAr": "يقالويت نونافوت"
+        },
+        {
+            "Code": "108325",
+            "Name": "Iroquois Falls",
+            "NameAr": "يروقوويس فاللس"
+        },
+        {
+            "Code": "121497",
+            "Name": "Iskut,   British Columbia",
+            "NameAr": "يسكوت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150599",
+            "Name": "Ivujivik,   Quebec",
+            "NameAr": "يفوجيفيك قويبيك"
+        },
+        {
+            "Code": "102352",
+            "Name": "Ivy Lea",
+            "NameAr": "يفي ليا"
+        },
+        {
+            "Code": "103929",
+            "Name": "Jackson's Point,   Ontario",
+            "NameAr": "جاككسونس بوينت ونتاريو"
+        },
+        {
+            "Code": "122856",
+            "Name": "Jasper,   Alberta",
+            "NameAr": "جاسبير البيرتا"
+        },
+        {
+            "Code": "151195",
+            "Name": "Jenpeg,   Manitoba",
+            "NameAr": "جينبيج مانيتوبا"
+        },
+        {
+            "Code": "122467",
+            "Name": "Jesmond,   British Columbia",
+            "NameAr": "جيسموند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "105625",
+            "Name": "Johnstown",
+            "NameAr": "جوهنستوون"
+        },
+        {
+            "Code": "151119",
+            "Name": "Joliette,   Quebec",
+            "NameAr": "جولييتتي قويبيك"
+        },
+        {
+            "Code": "122363",
+            "Name": "Jordan,   Ontario",
+            "NameAr": "جوردان ونتاريو"
+        },
+        {
+            "Code": "122924",
+            "Name": "Kamloops,   British Columbia",
+            "NameAr": "كاملووبس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "108355",
+            "Name": "Kamouraska",
+            "NameAr": "كامووراسكا"
+        },
+        {
+            "Code": "122928",
+            "Name": "Kananaskis,   Alberta",
+            "NameAr": "كاناناسكيس البيرتا"
+        },
+        {
+            "Code": "150538",
+            "Name": "Kangiqsualujjuaq,   Quebec",
+            "NameAr": "كانجيقسوالوججواق قويبيك"
+        },
+        {
+            "Code": "151392",
+            "Name": "Kangiqsujuaq,   Quebec",
+            "NameAr": "كانجيقسوجواق قويبيك"
+        },
+        {
+            "Code": "150602",
+            "Name": "Kangirsuk,   Quebec",
+            "NameAr": "كانجيرسوك قويبيك"
+        },
+        {
+            "Code": "122935",
+            "Name": "Kapuskasing,   Ontario",
+            "NameAr": "كابوسكاسينج ونتاريو"
+        },
+        {
+            "Code": "106184",
+            "Name": "Kars",
+            "NameAr": "كارس"
+        },
+        {
+            "Code": "151123",
+            "Name": "Kasabonika,   Ontario",
+            "NameAr": "كاسابونيكا ونتاريو"
+        },
+        {
+            "Code": "122292",
+            "Name": "Kawartha Lakes,   Ontario",
+            "NameAr": "كاوارتها لاكيس ونتاريو"
+        },
+        {
+            "Code": "145910",
+            "Name": "Keene,   Ontario",
+            "NameAr": "كييني ونتاريو"
+        },
+        {
+            "Code": "105639",
+            "Name": "Keewatin",
+            "NameAr": "كييواتين"
+        },
+        {
+            "Code": "151395",
+            "Name": "Kegaska,   Quebec",
+            "NameAr": "كيجاسكا قويبيك"
+        },
+        {
+            "Code": "122970",
+            "Name": "Kejimkujik National P+D6967ark",
+            "NameAr": "كيجيمكوجيك ناتيونال ب د ارك"
+        },
+        {
+            "Code": "123653",
+            "Name": "Kelowna,   British Columbia",
+            "NameAr": "كيلوونا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "123245",
+            "Name": "Kemble,   Ontario",
+            "NameAr": "كيمبلي ونتاريو"
+        },
+        {
+            "Code": "104102",
+            "Name": "Kemptville",
+            "NameAr": "كيمبتفيللي"
+        },
+        {
+            "Code": "122558",
+            "Name": "Keno City,   Yukon",
+            "NameAr": "كينو كيتي يوكون"
+        },
+        {
+            "Code": "122977",
+            "Name": "Kenogami Lake,   Ontario",
+            "NameAr": "كينوجامي لاكي ونتاريو"
+        },
+        {
+            "Code": "123538",
+            "Name": "Kenora,   Ontario",
+            "NameAr": "كينورا ونتاريو"
+        },
+        {
+            "Code": "123131",
+            "Name": "Kensington,   Prince Edward Island",
+            "NameAr": "كينسينجتون برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "124219",
+            "Name": "Kentville,   Nova Scotia",
+            "NameAr": "كينتفيللي نوفا سكوتيا"
+        },
+        {
+            "Code": "104103",
+            "Name": "Keremeos",
+            "NameAr": "كيريميوس"
+        },
+        {
+            "Code": "123677",
+            "Name": "Kicking Horse,   British Columbia",
+            "NameAr": "كيككينج هورسي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151115",
+            "Name": "Killaloe,   Ontario",
+            "NameAr": "كيللالوي ونتاريو"
+        },
+        {
+            "Code": "123266",
+            "Name": "Killarney,   Manitoba",
+            "NameAr": "كيللارنيي مانيتوبا"
+        },
+        {
+            "Code": "122586",
+            "Name": "Kimberley,   Ontario",
+            "NameAr": "كيمبيرليي ونتاريو"
+        },
+        {
+            "Code": "122587",
+            "Name": "Kincardine,   Ontario",
+            "NameAr": "كينكارديني ونتاريو"
+        },
+        {
+            "Code": "123009",
+            "Name": "Kindersley,   Saskatchewan",
+            "NameAr": "كينديرسليي ساسكاتكهيوان"
+        },
+        {
+            "Code": "151129",
+            "Name": "Kingfisher Lake,   Ontario",
+            "NameAr": "كينجفيسهير لاكي ونتاريو"
+        },
+        {
+            "Code": "103715",
+            "Name": "Kingsclear",
+            "NameAr": "كينجسكليار"
+        },
+        {
+            "Code": "123693",
+            "Name": "Kingston,   Ontario",
+            "NameAr": "كينجستون ونتاريو"
+        },
+        {
+            "Code": "104109",
+            "Name": "Kingsville",
+            "NameAr": "كينجسفيللي"
+        },
+        {
+            "Code": "123182",
+            "Name": "Kirkland Lake,   Ontario",
+            "NameAr": "كيركلاند لاكي ونتاريو"
+        },
+        {
+            "Code": "123184",
+            "Name": "Kitchener,   Ontario",
+            "NameAr": "كيتكهينير ونتاريو"
+        },
+        {
+            "Code": "103868",
+            "Name": "Kitimat",
+            "NameAr": "كيتيمات"
+        },
+        {
+            "Code": "124268",
+            "Name": "Kleena Kleene,   British Columbia",
+            "NameAr": "كليينا كلييني بريتيسه كولومبيا"
+        },
+        {
+            "Code": "124274",
+            "Name": "Klemtu,   British Columbia",
+            "NameAr": "كليمتو بريتيسه كولومبيا"
+        },
+        {
+            "Code": "145984",
+            "Name": "Kluane Lake,   Yukon",
+            "NameAr": "كلواني لاكي يوكون"
+        },
+        {
+            "Code": "123968",
+            "Name": "Knowlton,   Quebec",
+            "NameAr": "كنوولتون قويبيك"
+        },
+        {
+            "Code": "123994",
+            "Name": "Kootenay-Nationalpark,   British Columbia",
+            "NameAr": "كووتيناي-ناتيونالبارك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151265",
+            "Name": "Kuujjuaq,   Quebec",
+            "NameAr": "كووججواق قويبيك"
+        },
+        {
+            "Code": "151203",
+            "Name": "Kuujjuarapik,   Quebec",
+            "NameAr": "كووججوارابيك قويبيك"
+        },
+        {
+            "Code": "123361",
+            "Name": "Kyle,   SasKatchewan",
+            "NameAr": "كيلي ساسكاتكهيوان"
+        },
+        {
+            "Code": "389075",
+            "Name": "L Ile-du-Havre-Aubert,   Quebec",
+            "NameAr": "ل يلي-دو-هافري-اوبيرت قويبيك"
+        },
+        {
+            "Code": "124128",
+            "Name": "L'Anse au Clair,   Newfoundland and Labrador",
+            "NameAr": "لانسي او كلاير نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "124534",
+            "Name": "L'Anse-a-la-Cabane,   Quebec",
+            "NameAr": "لانسي-ا-لا-كاباني قويبيك"
+        },
+        {
+            "Code": "146147",
+            "Name": "L'Anse-Saint-Jean,   Quebec",
+            "NameAr": "لانسي-ساينت-جيان قويبيك"
+        },
+        {
+            "Code": "105579",
+            "Name": "L'Islet",
+            "NameAr": "ليسليت"
+        },
+        {
+            "Code": "104425",
+            "Name": "La Dore",
+            "NameAr": "لا دوري"
+        },
+        {
+            "Code": "146069",
+            "Name": "La Malbaie,   Quebec",
+            "NameAr": "لا مالبايي قويبيك"
+        },
+        {
+            "Code": "108393",
+            "Name": "La Martre",
+            "NameAr": "لا مارتري"
+        },
+        {
+            "Code": "108394",
+            "Name": "La Pocatiere",
+            "NameAr": "لا بوكاتييري"
+        },
+        {
+            "Code": "151399",
+            "Name": "La Ronge,   Saskatchewan",
+            "NameAr": "لا رونجي ساسكاتكهيوان"
+        },
+        {
+            "Code": "151400",
+            "Name": "La Sarre,   Quebec",
+            "NameAr": "لا سارري قويبيك"
+        },
+        {
+            "Code": "151204",
+            "Name": "La Tabatiere,   Quebec",
+            "NameAr": "لا تاباتييري قويبيك"
+        },
+        {
+            "Code": "124500",
+            "Name": "La Tuque,   Quebec",
+            "NameAr": "لا توقوي قويبيك"
+        },
+        {
+            "Code": "202220",
+            "Name": "Labelle,   Quebec",
+            "NameAr": "لابيللي قويبيك"
+        },
+        {
+            "Code": "125732",
+            "Name": "Labrador City,   Newfoundland and Labrador",
+            "NameAr": "لابرادور كيتي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "293695",
+            "Name": "Lac Beauport,   Quebec",
+            "NameAr": "لاك بياوبورت قويبيك"
+        },
+        {
+            "Code": "150619",
+            "Name": "Lac Brochet,   Manitoba",
+            "NameAr": "لاك بروكهيت مانيتوبا"
+        },
+        {
+            "Code": "124628",
+            "Name": "Lac Brome,   Quebec",
+            "NameAr": "لاك برومي قويبيك"
+        },
+        {
+            "Code": "146089",
+            "Name": "Lac Edouard,   Quebec",
+            "NameAr": "لاك يدووارد قويبيك"
+        },
+        {
+            "Code": "146090",
+            "Name": "Lac La Biche,   Alberta",
+            "NameAr": "لاك لا بيكهي البيرتا"
+        },
+        {
+            "Code": "123836",
+            "Name": "Lac la Hache,   British Columbia",
+            "NameAr": "لاك لا هاكهي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150884",
+            "Name": "Lac La Martre,   Northwest Territories",
+            "NameAr": "لاك لا مارتري نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "103667",
+            "Name": "Lac-Bouchette",
+            "NameAr": "لاك-بووكهيتتي"
+        },
+        {
+            "Code": "124630",
+            "Name": "Lac-Etchemin,   Quebec",
+            "NameAr": "لاك-يتكهيمين قويبيك"
+        },
+        {
+            "Code": "125739",
+            "Name": "Lac-Megantic,   Quebec",
+            "NameAr": "لاك-ميجانتيك قويبيك"
+        },
+        {
+            "Code": "124631",
+            "Name": "Lac-Saguay,   Quebec",
+            "NameAr": "لاك-ساجواي قويبيك"
+        },
+        {
+            "Code": "103899",
+            "Name": "Lac-Superieur",
+            "NameAr": "لاك-سوبيرييور"
+        },
+        {
+            "Code": "123840",
+            "Name": "Lacolle,   Quebec",
+            "NameAr": "لاكوللي قويبيك"
+        },
+        {
+            "Code": "108398",
+            "Name": "Lacombe",
+            "NameAr": "لاكومبي"
+        },
+        {
+            "Code": "124390",
+            "Name": "Ladysmith,   British Columbia",
+            "NameAr": "لاديسميته بريتيسه كولومبيا"
+        },
+        {
+            "Code": "125060",
+            "Name": "Lake Country,   British Columbia",
+            "NameAr": "لاكي كوونتري بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106417",
+            "Name": "Lake Cowichan",
+            "NameAr": "لاكي كوويكهان"
+        },
+        {
+            "Code": "125062",
+            "Name": "Lake Louise Village,   Alberta",
+            "NameAr": "لاكي لوويسي فيللاجي البيرتا"
+        },
+        {
+            "Code": "103903",
+            "Name": "Lake St. Peter",
+            "NameAr": "لاكي ست بيتير"
+        },
+        {
+            "Code": "104437",
+            "Name": "Lakefield",
+            "NameAr": "لاكيفييلد"
+        },
+        {
+            "Code": "150885",
+            "Name": "Langford",
+            "NameAr": "لانجفورد"
+        },
+        {
+            "Code": "124122",
+            "Name": "Langley,   British Columbia",
+            "NameAr": "لانجليي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "417144",
+            "Name": "Lanigan",
+            "NameAr": "لانيجان"
+        },
+        {
+            "Code": "124808",
+            "Name": "Lanoraie,   Quebec",
+            "NameAr": "لانورايي قويبيك"
+        },
+        {
+            "Code": "125216",
+            "Name": "Lansdowne,   Ontario",
+            "NameAr": "لانسدووني ونتاريو"
+        },
+        {
+            "Code": "103864",
+            "Name": "Larouche",
+            "NameAr": "لارووكهي"
+        },
+        {
+            "Code": "105557",
+            "Name": "Laurentian Hills",
+            "NameAr": "لاورينتيان هيللس"
+        },
+        {
+            "Code": "125108",
+            "Name": "Laval,   Quebec",
+            "NameAr": "لافال قويبيك"
+        },
+        {
+            "Code": "151476",
+            "Name": "Leaf Rapids,   Manitoba",
+            "NameAr": "لياف رابيدس مانيتوبا"
+        },
+        {
+            "Code": "125134",
+            "Name": "Leamington,   Ontario",
+            "NameAr": "ليامينجتون ونتاريو"
+        },
+        {
+            "Code": "125941",
+            "Name": "Leduc,   Alberta",
+            "NameAr": "ليدوك البيرتا"
+        },
+        {
+            "Code": "105570",
+            "Name": "Les Eboulements",
+            "NameAr": "ليس يبووليمينتس"
+        },
+        {
+            "Code": "125818",
+            "Name": "Les Escoumins,   Quebec",
+            "NameAr": "ليس يسكوومينس قويبيك"
+        },
+        {
+            "Code": "125557",
+            "Name": "Lethbridge,   Alberta",
+            "NameAr": "ليتهبريدجي البيرتا"
+        },
+        {
+            "Code": "146255",
+            "Name": "Levis,   Quebec",
+            "NameAr": "ليفيس قويبيك"
+        },
+        {
+            "Code": "125286",
+            "Name": "Lewisporte,   Newfoundland and Labrador",
+            "NameAr": "ليويسبورتي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "151272",
+            "Name": "Liard River,   British Columbia",
+            "NameAr": "ليارد ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106439",
+            "Name": "Likely",
+            "NameAr": "ليكيلي"
+        },
+        {
+            "Code": "125440",
+            "Name": "Lillooet,   British Columbia",
+            "NameAr": "ليللوويت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "125449",
+            "Name": "Lindsay,   Ontario",
+            "NameAr": "ليندساي ونتاريو"
+        },
+        {
+            "Code": "126574",
+            "Name": "Liscomb Mills,   Nova Scotia",
+            "NameAr": "ليسكومب ميللس نوفا سكوتيا"
+        },
+        {
+            "Code": "411883",
+            "Name": "Listowel,   Ontario",
+            "NameAr": "ليستوويل ونتاريو"
+        },
+        {
+            "Code": "126285",
+            "Name": "Little Atlin Lake,   Yukon",
+            "NameAr": "ليتتلي اتلين لاكي يوكون"
+        },
+        {
+            "Code": "126037",
+            "Name": "Little Current,   Ontario",
+            "NameAr": "ليتتلي كوررينت ونتاريو"
+        },
+        {
+            "Code": "102573",
+            "Name": "Little Fort",
+            "NameAr": "ليتتلي فورت"
+        },
+        {
+            "Code": "150889",
+            "Name": "Little Grand Rapids,   Manitoba",
+            "NameAr": "ليتتلي جراند رابيدس مانيتوبا"
+        },
+        {
+            "Code": "105581",
+            "Name": "Little Pond",
+            "NameAr": "ليتتلي بوند"
+        },
+        {
+            "Code": "124933",
+            "Name": "Little Shemogue,   New Brunswick",
+            "NameAr": "ليتتلي سهيموجوي نيو برونسويكك"
+        },
+        {
+            "Code": "125473",
+            "Name": "Little York,   Prince Edward Island",
+            "NameAr": "ليتتلي يورك برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "146318",
+            "Name": "Lively,   Ontario",
+            "NameAr": "ليفيلي ونتاريو"
+        },
+        {
+            "Code": "146319",
+            "Name": "Liverpool,   Nova Scotia",
+            "NameAr": "ليفيربوول نوفا سكوتيا"
+        },
+        {
+            "Code": "125595",
+            "Name": "Lloydminster (Alberta),   Alberta",
+            "NameAr": "للويدمينستير البيرتا البيرتا"
+        },
+        {
+            "Code": "146330",
+            "Name": "Lloydminster (Saskatchewan),   Alberta",
+            "NameAr": "للويدمينستير ساسكاتكهيوان البيرتا"
+        },
+        {
+            "Code": "104613",
+            "Name": "Logan Lake",
+            "NameAr": "لوجان لاكي"
+        },
+        {
+            "Code": "126179",
+            "Name": "London,   Ontario",
+            "NameAr": "لوندون ونتاريو"
+        },
+        {
+            "Code": "126634",
+            "Name": "Lone Butte,   British Columbia",
+            "NameAr": "لوني بوتتي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "104616",
+            "Name": "Long Sault",
+            "NameAr": "لونج ساولت"
+        },
+        {
+            "Code": "126638",
+            "Name": "Longgueuil,   Quebec",
+            "NameAr": "لونججويويل قويبيك"
+        },
+        {
+            "Code": "146352",
+            "Name": "Longueuil,   Quebec",
+            "NameAr": "لونجويويل قويبيك"
+        },
+        {
+            "Code": "125903",
+            "Name": "Lords Cove,   Newfoundland and Labrador",
+            "NameAr": "لوردس كوفي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "126350",
+            "Name": "Louisbourg,   Nova Scotia",
+            "NameAr": "لوويسبوورج نوفا سكوتيا"
+        },
+        {
+            "Code": "106455",
+            "Name": "Louiseville",
+            "NameAr": "لوويسيفيللي"
+        },
+        {
+            "Code": "126374",
+            "Name": "Lund,   British Columbia",
+            "NameAr": "لوند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "125650",
+            "Name": "Lunenburg,   Nova Scotia",
+            "NameAr": "لونينبورج نوفا سكوتيا"
+        },
+        {
+            "Code": "150894",
+            "Name": "Lynn Lake,   Manitoba",
+            "NameAr": "لينن لاكي مانيتوبا"
+        },
+        {
+            "Code": "417190",
+            "Name": "Lyster,   Quebec",
+            "NameAr": "ليستير قويبيك"
+        },
+        {
+            "Code": "126247",
+            "Name": "Lytton,   British Columbia",
+            "NameAr": "ليتتون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "126694",
+            "Name": "M’Chigeeng,   Ontario",
+            "NameAr": "م كهيجيينج ونتاريو"
+        },
+        {
+            "Code": "126094",
+            "Name": "Mabou,   Nova Scotia",
+            "NameAr": "مابوو نوفا سكوتيا"
+        },
+        {
+            "Code": "294373",
+            "Name": "Macklin,   Saskatchewan",
+            "NameAr": "ماككلين ساسكاتكهيوان"
+        },
+        {
+            "Code": "126705",
+            "Name": "Mactier,   Ontario",
+            "NameAr": "ماكتيير ونتاريو"
+        },
+        {
+            "Code": "106468",
+            "Name": "Madawaska Valley,   Ontario",
+            "NameAr": "ماداواسكا فالليي ونتاريو"
+        },
+        {
+            "Code": "126102",
+            "Name": "Madeira Park,   British Columbia",
+            "NameAr": "مادييرا بارك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "104473",
+            "Name": "Madeleine-Centre",
+            "NameAr": "ماديلييني-كينتري"
+        },
+        {
+            "Code": "146426",
+            "Name": "Magog,   Quebec",
+            "NameAr": "ماجوج قويبيك"
+        },
+        {
+            "Code": "126768",
+            "Name": "Mahone Bay,   Nova Scotia",
+            "NameAr": "ماهوني باي نوفا سكوتيا"
+        },
+        {
+            "Code": "146431",
+            "Name": "Main Brook,   Newfoundland and Labrador",
+            "NameAr": "ماين برووك نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "151408",
+            "Name": "Makkovik,   Newfoundland and Labrador",
+            "NameAr": "ماككوفيك نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "127393",
+            "Name": "Malahat,   British Columbia",
+            "NameAr": "مالاهات بريتيسه كولومبيا"
+        },
+        {
+            "Code": "126143",
+            "Name": "Manawan,   Quebec",
+            "NameAr": "ماناوان قويبيك"
+        },
+        {
+            "Code": "146461",
+            "Name": "Mandeville,   Quebec",
+            "NameAr": "مانديفيللي قويبيك"
+        },
+        {
+            "Code": "152840",
+            "Name": "Manitoba,   Manitoba",
+            "NameAr": "مانيتوبا مانيتوبا"
+        },
+        {
+            "Code": "126968",
+            "Name": "Manitoulin Island,   Ontario",
+            "NameAr": "مانيتوولين يسلاند ونتاريو"
+        },
+        {
+            "Code": "151145",
+            "Name": "Manitouwadge,   Ontario",
+            "NameAr": "مانيتوووادجي ونتاريو"
+        },
+        {
+            "Code": "151218",
+            "Name": "Manitowaning,   Ontario",
+            "NameAr": "مانيتووانينج ونتاريو"
+        },
+        {
+            "Code": "127420",
+            "Name": "Maniwaki,   Quebec",
+            "NameAr": "مانيواكي قويبيك"
+        },
+        {
+            "Code": "388860",
+            "Name": "Manning,   Alberta",
+            "NameAr": "ماننينج البيرتا"
+        },
+        {
+            "Code": "127423",
+            "Name": "Manning Provincia Park,   British Columbia",
+            "NameAr": "ماننينج بروفينكيا بارك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "126401",
+            "Name": "Mansonville,   Quebec",
+            "NameAr": "مانسونفيللي قويبيك"
+        },
+        {
+            "Code": "127431",
+            "Name": "Maple Creek,   Saskatchewan",
+            "NameAr": "مابلي كرييك ساسكاتكهيوان"
+        },
+        {
+            "Code": "126974",
+            "Name": "Maple Ridge,   British Columbia",
+            "NameAr": "مابلي ريدجي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "146488",
+            "Name": "Marathon,   Ontario",
+            "NameAr": "ماراتهون ونتاريو"
+        },
+        {
+            "Code": "146495",
+            "Name": "Margaree Forks,   Nova Scotia",
+            "NameAr": "مارجاريي فوركس نوفا سكوتيا"
+        },
+        {
+            "Code": "104326",
+            "Name": "Margaree Harbour",
+            "NameAr": "مارجاريي هاربوور"
+        },
+        {
+            "Code": "126410",
+            "Name": "Margaree Valley,   Nova Scotia",
+            "NameAr": "مارجاريي فالليي نوفا سكوتيا"
+        },
+        {
+            "Code": "106482",
+            "Name": "Marieville",
+            "NameAr": "مارييفيللي"
+        },
+        {
+            "Code": "127461",
+            "Name": "Markham,   Ontario",
+            "NameAr": "ماركهام ونتاريو"
+        },
+        {
+            "Code": "127835",
+            "Name": "Marsh Lake,   Yukon",
+            "NameAr": "مارسه لاكي يوكون"
+        },
+        {
+            "Code": "102609",
+            "Name": "Martensville",
+            "NameAr": "مارتينسفيللي"
+        },
+        {
+            "Code": "151280",
+            "Name": "Mary's Harbour,   Newfoundland and Labrador",
+            "NameAr": "ماريس هاربوور نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "127016",
+            "Name": "Marystown,   Newfoundland and Labrador",
+            "NameAr": "ماريستوون نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "104035",
+            "Name": "Marysville",
+            "NameAr": "ماريسفيللي"
+        },
+        {
+            "Code": "127022",
+            "Name": "Mashteuiatsh,   Quebec",
+            "NameAr": "ماسهتيوياتسه قويبيك"
+        },
+        {
+            "Code": "150897",
+            "Name": "Masset,   British Columbia",
+            "NameAr": "ماسسيت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106489",
+            "Name": "Massey",
+            "NameAr": "ماسسيي"
+        },
+        {
+            "Code": "150898",
+            "Name": "Matagami,   Quebec",
+            "NameAr": "ماتاجامي قويبيك"
+        },
+        {
+            "Code": "126900",
+            "Name": "Matane,   Quebec",
+            "NameAr": "ماتاني قويبيك"
+        },
+        {
+            "Code": "126902",
+            "Name": "Matapedia,   Quebec",
+            "NameAr": "ماتابيديا قويبيك"
+        },
+        {
+            "Code": "102613",
+            "Name": "Mattawa",
+            "NameAr": "ماتتاوا"
+        },
+        {
+            "Code": "126908",
+            "Name": "Mavillette,   Nova Scotia",
+            "NameAr": "مافيلليتتي نوفا سكوتيا"
+        },
+        {
+            "Code": "126474",
+            "Name": "Mayfield,   Prince Edward Island",
+            "NameAr": "مايفييلد برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "103809",
+            "Name": "Mayne Island",
+            "NameAr": "مايني يسلاند"
+        },
+        {
+            "Code": "128163",
+            "Name": "Mayo,   Yukon",
+            "NameAr": "مايو يوكون"
+        },
+        {
+            "Code": "127868",
+            "Name": "McBride,   British Columbia",
+            "NameAr": "مكبريدي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106493",
+            "Name": "McCreary",
+            "NameAr": "مككرياري"
+        },
+        {
+            "Code": "104039",
+            "Name": "McGregor",
+            "NameAr": "مكجريجور"
+        },
+        {
+            "Code": "146563",
+            "Name": "McKellar,   Ontario",
+            "NameAr": "مككيللار ونتاريو"
+        },
+        {
+            "Code": "127711",
+            "Name": "Meadow Lake,   Saskatchewan",
+            "NameAr": "ميادوو لاكي ساسكاتكهيوان"
+        },
+        {
+            "Code": "146567",
+            "Name": "Meaford,   Ontario",
+            "NameAr": "ميافورد ونتاريو"
+        },
+        {
+            "Code": "146572",
+            "Name": "Medicine Hat,   Alberta",
+            "NameAr": "ميديكيني هات البيرتا"
+        },
+        {
+            "Code": "126929",
+            "Name": "Melfort,   Saskatchewan",
+            "NameAr": "ميلفورت ساسكاتكهيوان"
+        },
+        {
+            "Code": "128198",
+            "Name": "Melville,   Saskatchewan",
+            "NameAr": "ميلفيللي ساسكاتكهيوان"
+        },
+        {
+            "Code": "127739",
+            "Name": "Merrickville,   Ontario",
+            "NameAr": "ميرريككفيللي ونتاريو"
+        },
+        {
+            "Code": "127740",
+            "Name": "Merritt,   British Columbia",
+            "NameAr": "ميرريتت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "104770",
+            "Name": "Metabetchouan-Lac-a-la-Croix",
+            "NameAr": "ميتابيتكهووان-لاك-ا-لا-كرويكس"
+        },
+        {
+            "Code": "104187",
+            "Name": "Middleton",
+            "NameAr": "ميددليتون"
+        },
+        {
+            "Code": "127638",
+            "Name": "Midland,   Ontario",
+            "NameAr": "ميدلاند ونتاريو"
+        },
+        {
+            "Code": "128244",
+            "Name": "Mille-Isles,   Quebec",
+            "NameAr": "ميللي-يسليس قويبيك"
+        },
+        {
+            "Code": "128247",
+            "Name": "Milton,   Ontario",
+            "NameAr": "ميلتون ونتاريو"
+        },
+        {
+            "Code": "102628",
+            "Name": "Miltonvale Park",
+            "NameAr": "ميلتونفالي بارك"
+        },
+        {
+            "Code": "151150",
+            "Name": "Minaki,   Ontario",
+            "NameAr": "ميناكي ونتاريو"
+        },
+        {
+            "Code": "104191",
+            "Name": "Minden Hills,   Ontario",
+            "NameAr": "ميندين هيللس ونتاريو"
+        },
+        {
+            "Code": "128291",
+            "Name": "Minett,   Ontario",
+            "NameAr": "مينيتت ونتاريو"
+        },
+        {
+            "Code": "128603",
+            "Name": "Minnedosa,   Manitoba",
+            "NameAr": "ميننيدوسا مانيتوبا"
+        },
+        {
+            "Code": "102631",
+            "Name": "Mirabel",
+            "NameAr": "ميرابيل"
+        },
+        {
+            "Code": "128297",
+            "Name": "Miramichi,   New Brunswick",
+            "NameAr": "ميراميكهي نيو برونسويكك"
+        },
+        {
+            "Code": "127225",
+            "Name": "Mission,   British Columbia",
+            "NameAr": "ميسسيون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "127226",
+            "Name": "Mississauga,   Ontario",
+            "NameAr": "ميسسيسساوجا ونتاريو"
+        },
+        {
+            "Code": "128335",
+            "Name": "Moncton,   New Brunswick",
+            "NameAr": "مونكتون نيو برونسويكك"
+        },
+        {
+            "Code": "128949",
+            "Name": "Mont Tremblant,   Quebec",
+            "NameAr": "مونت تريمبلانت قويبيك"
+        },
+        {
+            "Code": "128511",
+            "Name": "Mont-Joli,   Quebec",
+            "NameAr": "مونت-جولي قويبيك"
+        },
+        {
+            "Code": "129021",
+            "Name": "Mont-Laurier,   Quebec",
+            "NameAr": "مونت-لاوريير قويبيك"
+        },
+        {
+            "Code": "129364",
+            "Name": "Mont-Saint-Hilaire,   Quebec",
+            "NameAr": "مونت-ساينت-هيلايري قويبيك"
+        },
+        {
+            "Code": "146685",
+            "Name": "Montague,   Prince Edward Island",
+            "NameAr": "مونتاجوي برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "128965",
+            "Name": "Montebello,   Quebec",
+            "NameAr": "مونتيبيللو قويبيك"
+        },
+        {
+            "Code": "128513",
+            "Name": "Montmagny,   Quebec",
+            "NameAr": "مونتماجني قويبيك"
+        },
+        {
+            "Code": "127960",
+            "Name": "Montreal,   Quebec",
+            "NameAr": "مونتريال قويبيك"
+        },
+        {
+            "Code": "128991",
+            "Name": "Moose Jaw,   Saskatchewan",
+            "NameAr": "مووسي جاو ساسكاتكهيوان"
+        },
+        {
+            "Code": "146721",
+            "Name": "Moosomin,   SasKatchewan",
+            "NameAr": "مووسومين ساسكاتكهيوان"
+        },
+        {
+            "Code": "151534",
+            "Name": "Moosonee,   Ontario",
+            "NameAr": "مووسونيي ونتاريو"
+        },
+        {
+            "Code": "127975",
+            "Name": "Morden,   Manitoba",
+            "NameAr": "موردين مانيتوبا"
+        },
+        {
+            "Code": "129619",
+            "Name": "Morell,   Prince Edward Island",
+            "NameAr": "موريلل برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "417141",
+            "Name": "Moretons Harbour",
+            "NameAr": "موريتونس هاربوور"
+        },
+        {
+            "Code": "129628",
+            "Name": "Morin-Heights,   Quebec",
+            "NameAr": "مورين-هييجهتس قويبيك"
+        },
+        {
+            "Code": "127984",
+            "Name": "Morris,   Manitoba",
+            "NameAr": "مورريس مانيتوبا"
+        },
+        {
+            "Code": "129633",
+            "Name": "Morrisburg,   Ontario",
+            "NameAr": "مورريسبورج ونتاريو"
+        },
+        {
+            "Code": "102840",
+            "Name": "Mount Pearl",
+            "NameAr": "موونت بيارل"
+        },
+        {
+            "Code": "128003",
+            "Name": "Mount Royal,   Quebec",
+            "NameAr": "موونت رويال قويبيك"
+        },
+        {
+            "Code": "129072",
+            "Name": "Mount Stewart,   Prince Edward Island",
+            "NameAr": "موونت ستيوارت برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "104256",
+            "Name": "Mulmur",
+            "NameAr": "مولمور"
+        },
+        {
+            "Code": "129425",
+            "Name": "Muncho Lake,   British Columbia",
+            "NameAr": "مونكهو لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "417188",
+            "Name": "Murray Harbour",
+            "NameAr": "مورراي هاربوور"
+        },
+        {
+            "Code": "129437",
+            "Name": "Muskoka,   Ontario",
+            "NameAr": "موسكوكا ونتاريو"
+        },
+        {
+            "Code": "150644",
+            "Name": "Muskrat Dam,   Ontario",
+            "NameAr": "موسكرات دام ونتاريو"
+        },
+        {
+            "Code": "130339",
+            "Name": "Musquodoboit Harbour,   Nova Scotia",
+            "NameAr": "موسقوودوبويت هاربوور نوفا سكوتيا"
+        },
+        {
+            "Code": "151639",
+            "Name": "Nain,   Newfoundland and Labrador",
+            "NameAr": "ناين نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "103851",
+            "Name": "Nakusp",
+            "NameAr": "ناكوسب"
+        },
+        {
+            "Code": "151289",
+            "Name": "Namu,   British Columbia",
+            "NameAr": "نامو بريتيسه كولومبيا"
+        },
+        {
+            "Code": "128712",
+            "Name": "Nanaimo,   British Columbia",
+            "NameAr": "نانايمو بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150904",
+            "Name": "Nanisivik,   Nunavut",
+            "NameAr": "نانيسيفيك نونافوت"
+        },
+        {
+            "Code": "129263",
+            "Name": "Nanoose Bay,   British Columbia",
+            "NameAr": "نانووسي باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "128719",
+            "Name": "Napanee,   Ontario",
+            "NameAr": "نابانيي ونتاريو"
+        },
+        {
+            "Code": "146808",
+            "Name": "Naramata,   British Columbia",
+            "NameAr": "ناراماتا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151233",
+            "Name": "Natashquan,   Quebec",
+            "NameAr": "ناتاسهقوان قويبيك"
+        },
+        {
+            "Code": "129817",
+            "Name": "Neepawa,   Manitoba",
+            "NameAr": "نييباوا مانيتوبا"
+        },
+        {
+            "Code": "129291",
+            "Name": "Nelson,   British Columbia",
+            "NameAr": "نيلسون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151542",
+            "Name": "Nemiscau,   Quebec",
+            "NameAr": "نيميسكاو قويبيك"
+        },
+        {
+            "Code": "146862",
+            "Name": "New Brunswick,   New Brunswick",
+            "NameAr": "نيو برونسويكك نيو برونسويكك"
+        },
+        {
+            "Code": "150909",
+            "Name": "New Carlisle,   Quebec",
+            "NameAr": "نيو كارليسلي قويبيك"
+        },
+        {
+            "Code": "129222",
+            "Name": "New Glasgow,   Nova Scotia",
+            "NameAr": "نيو جلاسجوو نوفا سكوتيا"
+        },
+        {
+            "Code": "130448",
+            "Name": "New Hazelton,   British Columbia",
+            "NameAr": "نيو هازيلتون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "129860",
+            "Name": "New Liskeard,   Ontario",
+            "NameAr": "نيو ليسكيارد ونتاريو"
+        },
+        {
+            "Code": "102038",
+            "Name": "New Minas",
+            "NameAr": "نيو ميناس"
+        },
+        {
+            "Code": "129227",
+            "Name": "New Richmond,   Quebec",
+            "NameAr": "نيو ريكهموند قويبيك"
+        },
+        {
+            "Code": "130169",
+            "Name": "New Westminster,   British Columbia",
+            "NameAr": "نيو ويستمينستير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "129885",
+            "Name": "Newmarket,   Ontario",
+            "NameAr": "نيوماركيت ونتاريو"
+        },
+        {
+            "Code": "131116",
+            "Name": "Niagara Falls,   Ontario",
+            "NameAr": "نياجارا فاللس ونتاريو"
+        },
+        {
+            "Code": "129890",
+            "Name": "Niagara on the Lake,   Ontario",
+            "NameAr": "نياجارا ون تهي لاكي ونتاريو"
+        },
+        {
+            "Code": "294127",
+            "Name": "Nipawin",
+            "NameAr": "نيباوين"
+        },
+        {
+            "Code": "131138",
+            "Name": "Nisku,   Alberta",
+            "NameAr": "نيسكو البيرتا"
+        },
+        {
+            "Code": "131152",
+            "Name": "Nominingue,   Quebec",
+            "NameAr": "نومينينجوي قويبيك"
+        },
+        {
+            "Code": "151237",
+            "Name": "Norman Wells,   Northwest Territories",
+            "NameAr": "نورمان ويللس نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "130514",
+            "Name": "North Battleford,   Saskatchewan",
+            "NameAr": "نورته باتتليفورد ساسكاتكهيوان"
+        },
+        {
+            "Code": "130556",
+            "Name": "North Bay,   Ontario",
+            "NameAr": "نورته باي ونتاريو"
+        },
+        {
+            "Code": "130519",
+            "Name": "North Hatley,   Quebec",
+            "NameAr": "نورته هاتليي قويبيك"
+        },
+        {
+            "Code": "103030",
+            "Name": "North Head",
+            "NameAr": "نورته هياد"
+        },
+        {
+            "Code": "106555",
+            "Name": "North Lake",
+            "NameAr": "نورته لاكي"
+        },
+        {
+            "Code": "102882",
+            "Name": "North Port",
+            "NameAr": "نورته بورت"
+        },
+        {
+            "Code": "150913",
+            "Name": "North Spirit Lake,   Ontario",
+            "NameAr": "نورته سبيريت لاكي ونتاريو"
+        },
+        {
+            "Code": "130900",
+            "Name": "North Sydney,   Nova Scotia",
+            "NameAr": "نورته سيدنيي نوفا سكوتيا"
+        },
+        {
+            "Code": "129501",
+            "Name": "North Vancouver,   British Columbia",
+            "NameAr": "نورته فانكووفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151292",
+            "Name": "Norway House,   Manitoba",
+            "NameAr": "نورواي هووسي مانيتوبا"
+        },
+        {
+            "Code": "417112",
+            "Name": "Notre-Dame-de-l'lle-Perrot,   Quebec",
+            "NameAr": "نوتري-دامي-دي-لللي-بيرروت قويبيك"
+        },
+        {
+            "Code": "348416",
+            "Name": "Notre-Dame-de-la-Merci,   Quebec",
+            "NameAr": "نوتري-دامي-دي-لا-ميركي قويبيك"
+        },
+        {
+            "Code": "104541",
+            "Name": "Notre-Dame-de-la-Salette",
+            "NameAr": "نوتري-دامي-دي-لا-ساليتتي"
+        },
+        {
+            "Code": "129510",
+            "Name": "Notre-Dame-des-Sept-Douleurs,   Quebec",
+            "NameAr": "نوتري-دامي-ديس-سيبت-دووليورس قويبيك"
+        },
+        {
+            "Code": "104282",
+            "Name": "Notre-Dame-du-Mont-Carmel",
+            "NameAr": "نوتري-دامي-دو-مونت-كارميل"
+        },
+        {
+            "Code": "292244",
+            "Name": "Notre-Dame-du-Portage",
+            "NameAr": "نوتري-دامي-دو-بورتاجي"
+        },
+        {
+            "Code": "131177",
+            "Name": "Nouvelle,   Quebec",
+            "NameAr": "نووفيللي قويبيك"
+        },
+        {
+            "Code": "131909",
+            "Name": "O'Leary,   Prince Edward Island",
+            "NameAr": "ولياري برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "131199",
+            "Name": "Oakville,   Ontario",
+            "NameAr": "واكفيللي ونتاريو"
+        },
+        {
+            "Code": "151240",
+            "Name": "Ocean Falls,   British Columbia",
+            "NameAr": "وكيان فاللس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151241",
+            "Name": "Ogoki,   Ontario",
+            "NameAr": "وجوكي ونتاريو"
+        },
+        {
+            "Code": "104396",
+            "Name": "Oka",
+            "NameAr": "وكا"
+        },
+        {
+            "Code": "131257",
+            "Name": "Okanagan Falls,   British Columbia",
+            "NameAr": "وكاناجان فاللس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "130617",
+            "Name": "Okotoks,   Alberta",
+            "NameAr": "وكوتوكس البيرتا"
+        },
+        {
+            "Code": "151296",
+            "Name": "Old Crow,   Yukon Territory",
+            "NameAr": "ولد كروو يوكون تيرريتوري"
+        },
+        {
+            "Code": "130232",
+            "Name": "Olds,   Alberta",
+            "NameAr": "ولدس البيرتا"
+        },
+        {
+            "Code": "130235",
+            "Name": "Oliver,   British Columbia",
+            "NameAr": "وليفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "130669",
+            "Name": "Onanole,   Manitoba",
+            "NameAr": "ونانولي مانيتوبا"
+        },
+        {
+            "Code": "130249",
+            "Name": "Orangeville,   Ontario",
+            "NameAr": "ورانجيفيللي ونتاريو"
+        },
+        {
+            "Code": "131293",
+            "Name": "Orford,   Quebec",
+            "NameAr": "ورفورد قويبيك"
+        },
+        {
+            "Code": "131297",
+            "Name": "Orillia,   Ontario",
+            "NameAr": "وريلليا ونتاريو"
+        },
+        {
+            "Code": "130695",
+            "Name": "Oro-Medonte,   Ontario",
+            "NameAr": "ورو-ميدونتي ونتاريو"
+        },
+        {
+            "Code": "130806",
+            "Name": "Oromocto,   New Brunswick",
+            "NameAr": "وروموكتو نيو برونسويكك"
+        },
+        {
+            "Code": "130815",
+            "Name": "Oshawa,   Ontario",
+            "NameAr": "وسهاوا ونتاريو"
+        },
+        {
+            "Code": "130704",
+            "Name": "Osoyoos,   British Columbia",
+            "NameAr": "وسويووس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "130721",
+            "Name": "Ottawa,   Ontario",
+            "NameAr": "وتتاوا ونتاريو"
+        },
+        {
+            "Code": "147048",
+            "Name": "Owen Sound,   Ontario",
+            "NameAr": "ووين سووند ونتاريو"
+        },
+        {
+            "Code": "150661",
+            "Name": "Oxford House,   Manitoba",
+            "NameAr": "وكسفورد هووسي مانيتوبا"
+        },
+        {
+            "Code": "132011",
+            "Name": "Oyen,   Alberta",
+            "NameAr": "ويين البيرتا"
+        },
+        {
+            "Code": "132017",
+            "Name": "Pacific Rim National Park,   British Columbia",
+            "NameAr": "باكيفيك ريم ناتيونال بارك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150799",
+            "Name": "Pangnirtung,   Nunavut",
+            "NameAr": "بانجنيرتونج نونافوت"
+        },
+        {
+            "Code": "132044",
+            "Name": "Panorama,   British Columbia",
+            "NameAr": "بانوراما بريتيسه كولومبيا"
+        },
+        {
+            "Code": "132677",
+            "Name": "Papineauville,   Quebec",
+            "NameAr": "بابينياوفيللي قويبيك"
+        },
+        {
+            "Code": "150663",
+            "Name": "Paradise River,   Newfoundland and Labrador",
+            "NameAr": "باراديسي ريفير نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "103416",
+            "Name": "Parham",
+            "NameAr": "بارهام"
+        },
+        {
+            "Code": "106584",
+            "Name": "Paris",
+            "NameAr": "باريس"
+        },
+        {
+            "Code": "131455",
+            "Name": "Parksville,   British Columbia",
+            "NameAr": "باركسفيللي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "131765",
+            "Name": "Parrsboro,   Nova Scotia",
+            "NameAr": "باررسبورو نوفا سكوتيا"
+        },
+        {
+            "Code": "131560",
+            "Name": "Parry Sound,   Ontario",
+            "NameAr": "بارري سووند ونتاريو"
+        },
+        {
+            "Code": "147105",
+            "Name": "Parson,   British Columbia",
+            "NameAr": "بارسون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "147109",
+            "Name": "Paspebiac,   Quebec",
+            "NameAr": "باسبيبياك قويبيك"
+        },
+        {
+            "Code": "151551",
+            "Name": "Paulatuk,   Northwest Territories",
+            "NameAr": "باولاتوك نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "132075",
+            "Name": "Peace River,   Alberta",
+            "NameAr": "بياكي ريفير البيرتا"
+        },
+        {
+            "Code": "106591",
+            "Name": "Peachland",
+            "NameAr": "بياكهلاند"
+        },
+        {
+            "Code": "151305",
+            "Name": "Peawanuck,   Ontario",
+            "NameAr": "بياوانوكك ونتاريو"
+        },
+        {
+            "Code": "103264",
+            "Name": "Pefferlaw",
+            "NameAr": "بيففيرلاو"
+        },
+        {
+            "Code": "147141",
+            "Name": "Pemberton,   British Columbia",
+            "NameAr": "بيمبيرتون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "147142",
+            "Name": "Pembroke,   Ontario",
+            "NameAr": "بيمبروكي ونتاريو"
+        },
+        {
+            "Code": "106594",
+            "Name": "Pender Island",
+            "NameAr": "بيندير يسلاند"
+        },
+        {
+            "Code": "106595",
+            "Name": "Penetanguishene",
+            "NameAr": "بينيتانجويسهيني"
+        },
+        {
+            "Code": "106668",
+            "Name": "Penobsquis",
+            "NameAr": "بينوبسقويس"
+        },
+        {
+            "Code": "102899",
+            "Name": "Pense",
+            "NameAr": "بينسي"
+        },
+        {
+            "Code": "132729",
+            "Name": "Penticton,   British Columbia",
+            "NameAr": "بينتيكتون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "131496",
+            "Name": "Perce,   Quebec",
+            "NameAr": "بيركي قويبيك"
+        },
+        {
+            "Code": "132467",
+            "Name": "Perth,   Ontario",
+            "NameAr": "بيرته ونتاريو"
+        },
+        {
+            "Code": "102753",
+            "Name": "Perth-Andover",
+            "NameAr": "بيرته-اندوفير"
+        },
+        {
+            "Code": "131606",
+            "Name": "Petawawa,   Ontario",
+            "NameAr": "بيتاواوا ونتاريو"
+        },
+        {
+            "Code": "132760",
+            "Name": "Peterborough,   Ontario",
+            "NameAr": "بيتيربورووجه ونتاريو"
+        },
+        {
+            "Code": "106601",
+            "Name": "Petit-Rocher",
+            "NameAr": "بيتيت-روكهير"
+        },
+        {
+            "Code": "104854",
+            "Name": "Petit-Saguenay",
+            "NameAr": "بيتيت-ساجويناي"
+        },
+        {
+            "Code": "131608",
+            "Name": "Petite-Riviere-Saint-Francois,   Quebec",
+            "NameAr": "بيتيتي-ريفييري-ساينت-فرانكويس قويبيك"
+        },
+        {
+            "Code": "132763",
+            "Name": "Petite-Vallee,   Quebec",
+            "NameAr": "بيتيتي-فالليي قويبيك"
+        },
+        {
+            "Code": "103273",
+            "Name": "Petty Harbour",
+            "NameAr": "بيتتي هاربوور"
+        },
+        {
+            "Code": "132783",
+            "Name": "Pickering,   Ontario",
+            "NameAr": "بيككيرينج ونتاريو"
+        },
+        {
+            "Code": "151555",
+            "Name": "Pickle Lake,   Ontario",
+            "NameAr": "بيككلي لاكي ونتاريو"
+        },
+        {
+            "Code": "147183",
+            "Name": "Picton,   Ontario",
+            "NameAr": "بيكتون ونتاريو"
+        },
+        {
+            "Code": "132167",
+            "Name": "Pictou,   Nova Scotia",
+            "NameAr": "بيكتوو نوفا سكوتيا"
+        },
+        {
+            "Code": "131533",
+            "Name": "Piedmont,   Quebec",
+            "NameAr": "بييدمونت قويبيك"
+        },
+        {
+            "Code": "150809",
+            "Name": "Pikangikum,   Ontario",
+            "NameAr": "بيكانجيكوم ونتاريو"
+        },
+        {
+            "Code": "131089",
+            "Name": "Pincher Creek,   Alberta",
+            "NameAr": "بينكهير كرييك البيرتا"
+        },
+        {
+            "Code": "151556",
+            "Name": "Pine Point,   Northwest Territories",
+            "NameAr": "بيني بوينت نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "147210",
+            "Name": "Pitt Meadows,   British Columbia",
+            "NameAr": "بيتت ميادووس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "132822",
+            "Name": "Placentia,   Newfoundland and Labrador",
+            "NameAr": "بلاكينتيا نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "106685",
+            "Name": "Plaster Rock",
+            "NameAr": "بلاستير روكك"
+        },
+        {
+            "Code": "104226",
+            "Name": "Plessisville",
+            "NameAr": "بليسسيسفيللي"
+        },
+        {
+            "Code": "132355",
+            "Name": "Plum Point,   Newfoundland and Labrador",
+            "NameAr": "بلوم بوينت نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "102762",
+            "Name": "Plympton-Wyoming",
+            "NameAr": "بليمبتون-ويومينج"
+        },
+        {
+            "Code": "103068",
+            "Name": "Pocologan",
+            "NameAr": "بوكولوجان"
+        },
+        {
+            "Code": "147258",
+            "Name": "Pohenegamook,   Quebec",
+            "NameAr": "بوهينيجامووك قويبيك"
+        },
+        {
+            "Code": "103296",
+            "Name": "Pointe-a-la-Fregate",
+            "NameAr": "بوينتي-ا-لا-فريجاتي"
+        },
+        {
+            "Code": "131801",
+            "Name": "Pointe-Claire,   Quebec",
+            "NameAr": "بوينتي-كلايري قويبيك"
+        },
+        {
+            "Code": "150812",
+            "Name": "Pond Inlet,   Nunavut",
+            "NameAr": "بوند ينليت نونافوت"
+        },
+        {
+            "Code": "133488",
+            "Name": "Ponoka,   Alberta",
+            "NameAr": "بونوكا البيرتا"
+        },
+        {
+            "Code": "103300",
+            "Name": "Pont-Rouge",
+            "NameAr": "بونت-رووجي"
+        },
+        {
+            "Code": "151562",
+            "Name": "Poplar Hill,   Ontario",
+            "NameAr": "بوبلار هيلل ونتاريو"
+        },
+        {
+            "Code": "151310",
+            "Name": "Poplar River,   Manitoba",
+            "NameAr": "بوبلار ريفير مانيتوبا"
+        },
+        {
+            "Code": "132390",
+            "Name": "Port Alberni,   British Columbia",
+            "NameAr": "بورت البيرني بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106692",
+            "Name": "Port Albert",
+            "NameAr": "بورت البيرت"
+        },
+        {
+            "Code": "132304",
+            "Name": "Port au Choix,   Newfoundland and Labrador",
+            "NameAr": "بورت او كهويكس نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "131828",
+            "Name": "Port Aux Basques,   Newfoundland and Labrador",
+            "NameAr": "بورت اوكس باسقويس نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "102915",
+            "Name": "Port Carling",
+            "NameAr": "بورت كارلينج"
+        },
+        {
+            "Code": "147289",
+            "Name": "Port Colborne,   Ontario",
+            "NameAr": "بورت كولبورني ونتاريو"
+        },
+        {
+            "Code": "133558",
+            "Name": "Port Coquitlam,   British Columbia",
+            "NameAr": "بورت كوقويتلام بريتيسه كولومبيا"
+        },
+        {
+            "Code": "103304",
+            "Name": "Port Edward",
+            "NameAr": "بورت يدوارد"
+        },
+        {
+            "Code": "133505",
+            "Name": "Port Elgin,   Ontario",
+            "NameAr": "بورت يلجين ونتاريو"
+        },
+        {
+            "Code": "103305",
+            "Name": "Port George",
+            "NameAr": "بورت جيورجي"
+        },
+        {
+            "Code": "134269",
+            "Name": "Port Hardy,   British Columbia",
+            "NameAr": "بورت هاردي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "132308",
+            "Name": "Port Hastings,   Nova Scotia",
+            "NameAr": "بورت هاستينجس نوفا سكوتيا"
+        },
+        {
+            "Code": "134270",
+            "Name": "Port Hawkesbury,   Nova Scotia",
+            "NameAr": "بورت هاوكيسبوري نوفا سكوتيا"
+        },
+        {
+            "Code": "134271",
+            "Name": "Port Hawksbury,   Nova Scotia",
+            "NameAr": "بورت هاوكسبوري نوفا سكوتيا"
+        },
+        {
+            "Code": "132309",
+            "Name": "Port Hope,   Ontario",
+            "NameAr": "بورت هوبي ونتاريو"
+        },
+        {
+            "Code": "131834",
+            "Name": "Port Hope Simpson,   Newfoundland and Labrador",
+            "NameAr": "بورت هوبي سيمبسون نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "133251",
+            "Name": "Port McNeill,   British Columbia",
+            "NameAr": "بورت مكنييلل بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106634",
+            "Name": "Port McNicoll",
+            "NameAr": "بورت مكنيكولل"
+        },
+        {
+            "Code": "151651",
+            "Name": "Port Menier,   Quebec",
+            "NameAr": "بورت مينيير قويبيك"
+        },
+        {
+            "Code": "103306",
+            "Name": "Port Renfrew",
+            "NameAr": "بورت رينفريو"
+        },
+        {
+            "Code": "132311",
+            "Name": "Port Rexton,   Newfoundland and Labrador",
+            "NameAr": "بورت ريكستون نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "133254",
+            "Name": "Port Severn,   Ontario",
+            "NameAr": "بورت سيفيرن ونتاريو"
+        },
+        {
+            "Code": "150928",
+            "Name": "Port Simpson,   British Columbia",
+            "NameAr": "بورت سيمبسون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "132917",
+            "Name": "Port Stanley,   Ontario",
+            "NameAr": "بورت ستانليي ونتاريو"
+        },
+        {
+            "Code": "133565",
+            "Name": "Port Sydney,   Nova Scotia",
+            "NameAr": "بورت سيدنيي نوفا سكوتيا"
+        },
+        {
+            "Code": "147299",
+            "Name": "Port Williams,   Nova Scotia",
+            "NameAr": "بورت ويلليامس نوفا سكوتيا"
+        },
+        {
+            "Code": "133258",
+            "Name": "Port-Daniel,   Quebec",
+            "NameAr": "بورت-دانييل قويبيك"
+        },
+        {
+            "Code": "132403",
+            "Name": "Portage La Prairie,   Manitoba",
+            "NameAr": "بورتاجي لا برايريي مانيتوبا"
+        },
+        {
+            "Code": "132920",
+            "Name": "Porter Cove,   New Brunswick",
+            "NameAr": "بورتير كوفي نيو برونسويكك"
+        },
+        {
+            "Code": "131845",
+            "Name": "Porters Lake,   Nova Scotia",
+            "NameAr": "بورتيرس لاكي نوفا سكوتيا"
+        },
+        {
+            "Code": "106695",
+            "Name": "Portneuf",
+            "NameAr": "بورتنيوف"
+        },
+        {
+            "Code": "133277",
+            "Name": "Portugal Cove,   Newfoundland and Labrador",
+            "NameAr": "بورتوجال كوفي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "151247",
+            "Name": "Postville,   Newfoundland and Labrador",
+            "NameAr": "بوستفيللي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "151652",
+            "Name": "Povungnituk,   Quebec",
+            "NameAr": "بوفونجنيتوك قويبيك"
+        },
+        {
+            "Code": "134304",
+            "Name": "Powel River,   British Columbia",
+            "NameAr": "بوويل ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "134305",
+            "Name": "Powell River,   British Columbia",
+            "NameAr": "بوويلل ريفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150667",
+            "Name": "Prescott,   Ontario",
+            "NameAr": "بريسكوتت ونتاريو"
+        },
+        {
+            "Code": "147363",
+            "Name": "Priddis,   Alberta",
+            "NameAr": "بريدديس البيرتا"
+        },
+        {
+            "Code": "132549",
+            "Name": "Prince Albert,   Saskatchewan",
+            "NameAr": "برينكي البيرت ساسكاتكهيوان"
+        },
+        {
+            "Code": "133100",
+            "Name": "Prince George,   British Columbia",
+            "NameAr": "برينكي جيورجي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "133102",
+            "Name": "Prince Rupert,   British Columbia",
+            "NameAr": "برينكي روبيرت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "133963",
+            "Name": "Princess Royal Island,   British Columbia",
+            "NameAr": "برينكيسس رويال يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "147369",
+            "Name": "Princeton,   British Columbia",
+            "NameAr": "برينكيتون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "102927",
+            "Name": "Princeville",
+            "NameAr": "برينكيفيللي"
+        },
+        {
+            "Code": "133615",
+            "Name": "Provost,   Alberta",
+            "NameAr": "بروفوست البيرتا"
+        },
+        {
+            "Code": "151166",
+            "Name": "Pukatawagan,   Manitoba",
+            "NameAr": "بوكاتاواجان مانيتوبا"
+        },
+        {
+            "Code": "133727",
+            "Name": "Quadra Island,   British Columbia",
+            "NameAr": "قوادرا يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151250",
+            "Name": "Qualicum,   British Columbia",
+            "NameAr": "قواليكوم بريتيسه كولومبيا"
+        },
+        {
+            "Code": "133651",
+            "Name": "Qualicum Beach,   British Columbia",
+            "NameAr": "قواليكوم بياكه بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150818",
+            "Name": "Quaqtaq,   Quebec",
+            "NameAr": "قواقتاق قويبيك"
+        },
+        {
+            "Code": "102786",
+            "Name": "Quatsino",
+            "NameAr": "قواتسينو"
+        },
+        {
+            "Code": "151168",
+            "Name": "Quebec City,   Quebec",
+            "NameAr": "قويبيك كيتي قويبيك"
+        },
+        {
+            "Code": "133653",
+            "Name": "Queen Charlotte,   British Columbia",
+            "NameAr": "قويين كهارلوتتي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "265471",
+            "Name": "Queens County,   Prince Edward Island",
+            "NameAr": "قويينس كوونتي برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "133152",
+            "Name": "Queensland,   Alberta",
+            "NameAr": "قويينسلاند البيرتا"
+        },
+        {
+            "Code": "133154",
+            "Name": "Quesnel,   British Columbia",
+            "NameAr": "قويسنيل بريتيسه كولومبيا"
+        },
+        {
+            "Code": "132610",
+            "Name": "Quirpon,   Newfoundland and Labrador",
+            "NameAr": "قويربون نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "133660",
+            "Name": "Quispamsis,   New Brunswick",
+            "NameAr": "قويسبامسيس نيو برونسويكك"
+        },
+        {
+            "Code": "150256",
+            "Name": "RA©gion Test,   MontrÃ©al",
+            "NameAr": "را جيون تيست مونتر ال"
+        },
+        {
+            "Code": "102669",
+            "Name": "Racine",
+            "NameAr": "راكيني"
+        },
+        {
+            "Code": "102670",
+            "Name": "Radisson",
+            "NameAr": "راديسسون"
+        },
+        {
+            "Code": "134203",
+            "Name": "Radium Hot Springs,   British Columbia",
+            "NameAr": "راديوم هوت سبرينجس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151319",
+            "Name": "Rainbow Lake,   Alberta",
+            "NameAr": "راينبوو لاكي البيرتا"
+        },
+        {
+            "Code": "102794",
+            "Name": "Rainy River",
+            "NameAr": "رايني ريفير"
+        },
+        {
+            "Code": "260965",
+            "Name": "Raleigh,   Newfoundland and Labrador",
+            "NameAr": "رالييجه نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "133757",
+            "Name": "Ramara,   Ontario",
+            "NameAr": "رامارا ونتاريو"
+        },
+        {
+            "Code": "150671",
+            "Name": "Rankin Inlet,   Nunavut",
+            "NameAr": "رانكين ينليت نونافوت"
+        },
+        {
+            "Code": "134715",
+            "Name": "Rawdon,   Quebec",
+            "NameAr": "راودون قويبيك"
+        },
+        {
+            "Code": "133306",
+            "Name": "Red Bay,   Newfoundland and Labrador",
+            "NameAr": "ريد باي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "135066",
+            "Name": "Red Deer,   Alberta",
+            "NameAr": "ريد ديير البيرتا"
+        },
+        {
+            "Code": "133866",
+            "Name": "Red Lake,   Ontario",
+            "NameAr": "ريد لاكي ونتاريو"
+        },
+        {
+            "Code": "151170",
+            "Name": "Red Sucker Lake,   Manitoba",
+            "NameAr": "ريد سوككير لاكي مانيتوبا"
+        },
+        {
+            "Code": "102680",
+            "Name": "Redvers",
+            "NameAr": "ريدفيرس"
+        },
+        {
+            "Code": "133702",
+            "Name": "Redwater,   Alberta",
+            "NameAr": "ريدواتير البيرتا"
+        },
+        {
+            "Code": "134238",
+            "Name": "Regina,   Saskatchewan",
+            "NameAr": "ريجينا ساسكاتكهيوان"
+        },
+        {
+            "Code": "133329",
+            "Name": "Renfrew,   Ontario",
+            "NameAr": "رينفريو ونتاريو"
+        },
+        {
+            "Code": "102798",
+            "Name": "Repentigny",
+            "NameAr": "ريبينتيجني"
+        },
+        {
+            "Code": "151171",
+            "Name": "Repulse Bay,   Nunavut",
+            "NameAr": "ريبولسي باي نونافوت"
+        },
+        {
+            "Code": "150672",
+            "Name": "Resolute,   Nunavut",
+            "NameAr": "ريسولوتي نونافوت"
+        },
+        {
+            "Code": "147499",
+            "Name": "Revelstoke,   British Columbia",
+            "NameAr": "ريفيلستوكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "133909",
+            "Name": "Richibucto,   New Brunswick",
+            "NameAr": "ريكهيبوكتو نيو برونسويكك"
+        },
+        {
+            "Code": "133825",
+            "Name": "Richmond,   British Columbia",
+            "NameAr": "ريكهموند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "147514",
+            "Name": "Richmond Hill,   Ontario",
+            "NameAr": "ريكهموند هيلل ونتاريو"
+        },
+        {
+            "Code": "147516",
+            "Name": "Ridgetown,   Ontario",
+            "NameAr": "ريدجيتوون ونتاريو"
+        },
+        {
+            "Code": "134402",
+            "Name": "Rigaud,   Quebec",
+            "NameAr": "ريجاود قويبيك"
+        },
+        {
+            "Code": "151255",
+            "Name": "Rigolet,   Newfoundland and Labrador",
+            "NameAr": "ريجوليت نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "135114",
+            "Name": "Rimbey,   Alberta",
+            "NameAr": "ريمبيي البيرتا"
+        },
+        {
+            "Code": "134404",
+            "Name": "Rimouski,   Quebec",
+            "NameAr": "ريمووسكي قويبيك"
+        },
+        {
+            "Code": "134420",
+            "Name": "River Valley,   Ontario",
+            "NameAr": "ريفير فالليي ونتاريو"
+        },
+        {
+            "Code": "151256",
+            "Name": "Rivers Inlet,   British Columbia",
+            "NameAr": "ريفيرس ينليت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "134422",
+            "Name": "Riverview,   New Brunswick",
+            "NameAr": "ريفيرفييو نيو برونسويكك"
+        },
+        {
+            "Code": "134942",
+            "Name": "Riviere Du Loup,   Quebec",
+            "NameAr": "ريفييري دو لووب قويبيك"
+        },
+        {
+            "Code": "134799",
+            "Name": "Riviere-Madeleine,   Quebec",
+            "NameAr": "ريفييري-ماديلييني قويبيك"
+        },
+        {
+            "Code": "135719",
+            "Name": "Riviere-Rouge,   Quebec",
+            "NameAr": "ريفييري-رووجي قويبيك"
+        },
+        {
+            "Code": "106731",
+            "Name": "Roberts Creek",
+            "NameAr": "روبيرتس كرييك"
+        },
+        {
+            "Code": "133377",
+            "Name": "Roberval,   Quebec",
+            "NameAr": "روبيرفال قويبيك"
+        },
+        {
+            "Code": "102697",
+            "Name": "Rock Lake (Alberta)",
+            "NameAr": "روكك لاكي البيرتا"
+        },
+        {
+            "Code": "134952",
+            "Name": "Rocky Harbour,   Newfoundland and Labrador",
+            "NameAr": "روككي هاربوور نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "134520",
+            "Name": "Rocky Mountain House,   Alberta",
+            "NameAr": "روككي موونتاين هووسي البيرتا"
+        },
+        {
+            "Code": "102807",
+            "Name": "Rosebud",
+            "NameAr": "روسيبود"
+        },
+        {
+            "Code": "103220",
+            "Name": "Rosedale",
+            "NameAr": "روسيدالي"
+        },
+        {
+            "Code": "134545",
+            "Name": "Rosemere,   Quebec",
+            "NameAr": "روسيميري قويبيك"
+        },
+        {
+            "Code": "206925",
+            "Name": "Rosetown",
+            "NameAr": "روسيتوون"
+        },
+        {
+            "Code": "150932",
+            "Name": "Ross River,   Yukon Territory",
+            "NameAr": "روسس ريفير يوكون تيرريتوري"
+        },
+        {
+            "Code": "134077",
+            "Name": "Rossland,   British Columbia",
+            "NameAr": "روسسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151257",
+            "Name": "Round Lake,   Ontario",
+            "NameAr": "رووند لاكي ونتاريو"
+        },
+        {
+            "Code": "417115",
+            "Name": "Routhierville",
+            "NameAr": "رووتهييرفيللي"
+        },
+        {
+            "Code": "134996",
+            "Name": "Rouyn-Noranda,   Quebec",
+            "NameAr": "رووين-نوراندا قويبيك"
+        },
+        {
+            "Code": "108451",
+            "Name": "Roxton Falls",
+            "NameAr": "روكستون فاللس"
+        },
+        {
+            "Code": "103210",
+            "Name": "Rusticoville",
+            "NameAr": "روستيكوفيللي"
+        },
+        {
+            "Code": "134675",
+            "Name": "Saanichton,   British Columbia",
+            "NameAr": "ساانيكهتون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150828",
+            "Name": "Sachigo Lake,   Ontario",
+            "NameAr": "ساكهيجو لاكي ونتاريو"
+        },
+        {
+            "Code": "150674",
+            "Name": "Sachs Harbour,   Northwest Territories",
+            "NameAr": "ساكهس هاربوور نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "135802",
+            "Name": "Sackville,   New Brunswick",
+            "NameAr": "ساككفيللي نيو برونسويكك"
+        },
+        {
+            "Code": "147603",
+            "Name": "Sacre-Coeur,   Quebec",
+            "NameAr": "ساكري-كويور قويبيك"
+        },
+        {
+            "Code": "160130",
+            "Name": "Saguenay,   Quebec",
+            "NameAr": "ساجويناي قويبيك"
+        },
+        {
+            "Code": "134126",
+            "Name": "Saint Albert,   Alberta",
+            "NameAr": "ساينت البيرت البيرتا"
+        },
+        {
+            "Code": "134691",
+            "Name": "Saint Andre,   Quebec",
+            "NameAr": "ساينت اندري قويبيك"
+        },
+        {
+            "Code": "135170",
+            "Name": "Saint Antonin,   Quebec",
+            "NameAr": "ساينت انتونين قويبيك"
+        },
+        {
+            "Code": "107002",
+            "Name": "Saint Basile-le-Grand",
+            "NameAr": "ساينت باسيلي-لي-جراند"
+        },
+        {
+            "Code": "134696",
+            "Name": "Saint Felicien,   Quebec",
+            "NameAr": "ساينت فيليكيين قويبيك"
+        },
+        {
+            "Code": "134697",
+            "Name": "Saint Ferreol les Neiges,   Quebec",
+            "NameAr": "ساينت فيرريول ليس نييجيس قويبيك"
+        },
+        {
+            "Code": "135623",
+            "Name": "Saint Gedeon,   Quebec",
+            "NameAr": "ساينت جيديون قويبيك"
+        },
+        {
+            "Code": "135625",
+            "Name": "Saint Hippolyte,   Quebec",
+            "NameAr": "ساينت هيببوليتي قويبيك"
+        },
+        {
+            "Code": "147614",
+            "Name": "Saint Hyacinthe,   Quebec",
+            "NameAr": "ساينت هياكينتهي قويبيك"
+        },
+        {
+            "Code": "135809",
+            "Name": "Saint John,   New Brunswick",
+            "NameAr": "ساينت جوهن نيو برونسويكك"
+        },
+        {
+            "Code": "106748",
+            "Name": "Saint Leonard",
+            "NameAr": "ساينت ليونارد"
+        },
+        {
+            "Code": "135179",
+            "Name": "Saint Louis (Kouchibouguac NP),   New Brunswick",
+            "NameAr": "ساينت لوويس كووكهيبووجواك نب نيو برونسويكك"
+        },
+        {
+            "Code": "108464",
+            "Name": "Saint Stephen",
+            "NameAr": "ساينت ستيبهين"
+        },
+        {
+            "Code": "107004",
+            "Name": "Saint-Adolphe-d’Howard",
+            "NameAr": "ساينت-ادولبهي-د هووارد"
+        },
+        {
+            "Code": "135818",
+            "Name": "Saint-Aime-des-Lacs,   Quebec",
+            "NameAr": "ساينت-ايمي-ديس-لاكس قويبيك"
+        },
+        {
+            "Code": "418128",
+            "Name": "Saint-Alexis,   Quebec",
+            "NameAr": "ساينت-اليكسيس قويبيك"
+        },
+        {
+            "Code": "135635",
+            "Name": "Saint-Alexis-de-Monts,   Quebec",
+            "NameAr": "ساينت-اليكسيس-دي-مونتس قويبيك"
+        },
+        {
+            "Code": "135184",
+            "Name": "Saint-Alphonse-Rodriguez,   Quebec",
+            "NameAr": "ساينت-البهونسي-رودريجويز قويبيك"
+        },
+        {
+            "Code": "103326",
+            "Name": "Saint-Anaclet-de-Lessard",
+            "NameAr": "ساينت-اناكليت-دي-ليسسارد"
+        },
+        {
+            "Code": "417280",
+            "Name": "Saint-Andre-Avellin,   Quebec",
+            "NameAr": "ساينت-اندري-افيللين قويبيك"
+        },
+        {
+            "Code": "134705",
+            "Name": "Saint-Antoine-de-Tilly,   Quebec",
+            "NameAr": "ساينت-انتويني-دي-تيللي قويبيك"
+        },
+        {
+            "Code": "103327",
+            "Name": "Saint-Antoine-sur-Richelieu",
+            "NameAr": "ساينت-انتويني-سور-ريكهيلييو"
+        },
+        {
+            "Code": "103232",
+            "Name": "Saint-Aubert",
+            "NameAr": "ساينت-اوبيرت"
+        },
+        {
+            "Code": "103538",
+            "Name": "Saint-Augustin-de-Desmaures",
+            "NameAr": "ساينت-اوجوستين-دي-ديسماوريس"
+        },
+        {
+            "Code": "418031",
+            "Name": "Saint-Bernard-de-Lacolle",
+            "NameAr": "ساينت-بيرنارد-دي-لاكوللي"
+        },
+        {
+            "Code": "418130",
+            "Name": "Saint-Bruno-de-Montarville,   Quebec",
+            "NameAr": "ساينت-برونو-دي-مونتارفيللي قويبيك"
+        },
+        {
+            "Code": "418131",
+            "Name": "Saint-Charles-de-Bourget,   Quebec",
+            "NameAr": "ساينت-كهارليس-دي-بوورجيت قويبيك"
+        },
+        {
+            "Code": "103235",
+            "Name": "Saint-Come,   Quebec",
+            "NameAr": "ساينت-كومي قويبيك"
+        },
+        {
+            "Code": "417337",
+            "Name": "Saint-Damien-de-Buckland",
+            "NameAr": "ساينت-داميين-دي-بوككلاند"
+        },
+        {
+            "Code": "408852",
+            "Name": "Saint-David-de-Falardeau,   Quebec",
+            "NameAr": "ساينت-دافيد-دي-فالاردياو قويبيك"
+        },
+        {
+            "Code": "103636",
+            "Name": "Saint-Denis-sur-Richelieu",
+            "NameAr": "ساينت-دينيس-سور-ريكهيلييو"
+        },
+        {
+            "Code": "102975",
+            "Name": "Saint-Donat",
+            "NameAr": "ساينت-دونات"
+        },
+        {
+            "Code": "134149",
+            "Name": "Saint-Elie,   Quebec",
+            "NameAr": "ساينت-يليي قويبيك"
+        },
+        {
+            "Code": "136421",
+            "Name": "Saint-Eustache,   Quebec",
+            "NameAr": "ساينت-يوستاكهي قويبيك"
+        },
+        {
+            "Code": "135278",
+            "Name": "Saint-Faustin-Lac-Carre,   Quebec",
+            "NameAr": "ساينت-فاوستين-لاك-كارري قويبيك"
+        },
+        {
+            "Code": "103482",
+            "Name": "Saint-Ferdinand",
+            "NameAr": "ساينت-فيرديناند"
+        },
+        {
+            "Code": "103239",
+            "Name": "Saint-Gabriel-de-Valcartier",
+            "NameAr": "ساينت-جابرييل-دي-فالكارتيير"
+        },
+        {
+            "Code": "135654",
+            "Name": "Saint-George,   Quebec",
+            "NameAr": "ساينت-جيورجي قويبيك"
+        },
+        {
+            "Code": "135203",
+            "Name": "Saint-Georges,   Quebec",
+            "NameAr": "ساينت-جيورجيس قويبيك"
+        },
+        {
+            "Code": "134158",
+            "Name": "Saint-Georges-de-Malbaie,   Quebec",
+            "NameAr": "ساينت-جيورجيس-دي-مالبايي قويبيك"
+        },
+        {
+            "Code": "108471",
+            "Name": "Saint-Hilarion",
+            "NameAr": "ساينت-هيلاريون"
+        },
+        {
+            "Code": "103485",
+            "Name": "Saint-Honore",
+            "NameAr": "ساينت-هونوري"
+        },
+        {
+            "Code": "102723",
+            "Name": "Saint-Ignace-de-Stanbridge",
+            "NameAr": "ساينت-يجناكي-دي-ستانبريدجي"
+        },
+        {
+            "Code": "136426",
+            "Name": "Saint-Jacques de Leeds,   Quebec",
+            "NameAr": "ساينت-جاكقويس دي لييدس قويبيك"
+        },
+        {
+            "Code": "135286",
+            "Name": "Saint-Jean-de-Matha,   Quebec",
+            "NameAr": "ساينت-جيان-دي-ماتها قويبيك"
+        },
+        {
+            "Code": "412457",
+            "Name": "Saint-Jean-des-Piles,   Quebec",
+            "NameAr": "ساينت-جيان-ديس-بيليس قويبيك"
+        },
+        {
+            "Code": "147643",
+            "Name": "Saint-Jean-Port-Joli,   Quebec",
+            "NameAr": "ساينت-جيان-بورت-جولي قويبيك"
+        },
+        {
+            "Code": "135288",
+            "Name": "Saint-Jean-sur-Richelieu,   Quebec",
+            "NameAr": "ساينت-جيان-سور-ريكهيلييو قويبيك"
+        },
+        {
+            "Code": "135289",
+            "Name": "Saint-Jerome,   Quebec",
+            "NameAr": "ساينت-جيرومي قويبيك"
+        },
+        {
+            "Code": "136119",
+            "Name": "Saint-Joachim,   Quebec",
+            "NameAr": "ساينت-جواكهيم قويبيك"
+        },
+        {
+            "Code": "134821",
+            "Name": "Saint-Joseph-de-la-Rive,   Quebec",
+            "NameAr": "ساينت-جوسيبه-دي-لا-ريفي قويبيك"
+        },
+        {
+            "Code": "417105",
+            "Name": "Saint-Laurent-de-l'Île - d'Orléans",
+            "NameAr": "ساينت-لاورينت-دي-ل لي - دورليانس"
+        },
+        {
+            "Code": "136128",
+            "Name": "Saint-Marc-sur-Richelieu,   Quebec",
+            "NameAr": "ساينت-مارك-سور-ريكهيلييو قويبيك"
+        },
+        {
+            "Code": "103336",
+            "Name": "Saint-Mathieu-de-Beloeil",
+            "NameAr": "ساينت-ماتهييو-دي-بيلوييل"
+        },
+        {
+            "Code": "135224",
+            "Name": "Saint-Mathieu-du-Parc,   Quebec",
+            "NameAr": "ساينت-ماتهييو-دو-بارك قويبيك"
+        },
+        {
+            "Code": "135668",
+            "Name": "Saint-Michel-des-Saints,   Quebec",
+            "NameAr": "ساينت-ميكهيل-ديس-ساينتس قويبيك"
+        },
+        {
+            "Code": "107313",
+            "Name": "Saint-Norbert-d'Arthabaska",
+            "NameAr": "ساينت-نوربيرت-دارتهاباسكا"
+        },
+        {
+            "Code": "103244",
+            "Name": "Saint-Ours",
+            "NameAr": "ساينت-وورس"
+        },
+        {
+            "Code": "136136",
+            "Name": "Saint-Paul-de-Montminy,   Quebec",
+            "NameAr": "ساينت-باول-دي-مونتميني قويبيك"
+        },
+        {
+            "Code": "135675",
+            "Name": "Saint-Paulin,   Quebec",
+            "NameAr": "ساينت-باولين قويبيك"
+        },
+        {
+            "Code": "107014",
+            "Name": "Saint-Philemon",
+            "NameAr": "ساينت-بهيليمون"
+        },
+        {
+            "Code": "107316",
+            "Name": "Saint-Pierre-de-l'Ile-d'Orleans",
+            "NameAr": "ساينت-بييرري-دي-ليلي-دورليانس"
+        },
+        {
+            "Code": "134842",
+            "Name": "Saint-Raymond,   Quebec",
+            "NameAr": "ساينت-رايموند قويبيك"
+        },
+        {
+            "Code": "134843",
+            "Name": "Saint-Rose-du-Nord,   Quebec",
+            "NameAr": "ساينت-روسي-دو-نورد قويبيك"
+        },
+        {
+            "Code": "135375",
+            "Name": "Saint-Simeon,   Quebec",
+            "NameAr": "ساينت-سيميون قويبيك"
+        },
+        {
+            "Code": "135306",
+            "Name": "Saint-Sulpice,   Quebec",
+            "NameAr": "ساينت-سولبيكي قويبيك"
+        },
+        {
+            "Code": "135839",
+            "Name": "Saint-Ubalde,   Quebec",
+            "NameAr": "ساينت-وبالدي قويبيك"
+        },
+        {
+            "Code": "106754",
+            "Name": "Saint-Valere",
+            "NameAr": "ساينت-فاليري"
+        },
+        {
+            "Code": "103340",
+            "Name": "Saint-Zenon",
+            "NameAr": "ساينت-زينون"
+        },
+        {
+            "Code": "103487",
+            "Name": "Saint-Zotique",
+            "NameAr": "ساينت-زوتيقوي"
+        },
+        {
+            "Code": "147630",
+            "Name": "Sainte Adele,   Quebec",
+            "NameAr": "ساينتي اديلي قويبيك"
+        },
+        {
+            "Code": "135643",
+            "Name": "Sainte-Agathe-des-Monts,   Quebec",
+            "NameAr": "ساينتي-اجاتهي-ديس-مونتس قويبيك"
+        },
+        {
+            "Code": "108467",
+            "Name": "Sainte-Anne-de-Sabrevois",
+            "NameAr": "ساينتي-انني-دي-سابريفويس"
+        },
+        {
+            "Code": "102976",
+            "Name": "Sainte-Anne-de-Sorel",
+            "NameAr": "ساينتي-انني-دي-سوريل"
+        },
+        {
+            "Code": "135334",
+            "Name": "Sainte-Anne-des-Monts,   Quebec",
+            "NameAr": "ساينتي-انني-ديس-مونتس قويبيك"
+        },
+        {
+            "Code": "417106",
+            "Name": "Sainte-Brigitte-de-Laval",
+            "NameAr": "ساينتي-بريجيتتي-دي-لافال"
+        },
+        {
+            "Code": "102977",
+            "Name": "Sainte-Catherine",
+            "NameAr": "ساينتي-كاتهيريني"
+        },
+        {
+            "Code": "107307",
+            "Name": "Sainte-Catherine-de-Hatley",
+            "NameAr": "ساينتي-كاتهيريني-دي-هاتليي"
+        },
+        {
+            "Code": "136419",
+            "Name": "Sainte-Christine-d'Auvergne,   Quebec",
+            "NameAr": "ساينتي-كهريستيني-داوفيرجني قويبيك"
+        },
+        {
+            "Code": "107009",
+            "Name": "Sainte-Eulalie",
+            "NameAr": "ساينتي-يولاليي"
+        },
+        {
+            "Code": "418132",
+            "Name": "Sainte-Famille,   Ile d'Orleans",
+            "NameAr": "ساينتي-فاميللي يلي دورليانس"
+        },
+        {
+            "Code": "103638",
+            "Name": "Sainte-Flavie",
+            "NameAr": "ساينتي-فلافيي"
+        },
+        {
+            "Code": "103480",
+            "Name": "Sainte-Hedwidge",
+            "NameAr": "ساينتي-هيدويدجي"
+        },
+        {
+            "Code": "299611",
+            "Name": "Sainte-Helene-de-Bagot,   Quebec",
+            "NameAr": "ساينتي-هيليني-دي-باجوت قويبيك"
+        },
+        {
+            "Code": "108468",
+            "Name": "Sainte-Julie",
+            "NameAr": "ساينتي-جوليي"
+        },
+        {
+            "Code": "103481",
+            "Name": "Sainte-Luce",
+            "NameAr": "ساينتي-لوكي"
+        },
+        {
+            "Code": "417140",
+            "Name": "Sainte-Lucie-de-Doncaster,   Quebec",
+            "NameAr": "ساينتي-لوكيي-دي-دونكاستير قويبيك"
+        },
+        {
+            "Code": "328056",
+            "Name": "Sainte-Marguerite-du-Lac-Masson,   Quebec",
+            "NameAr": "ساينتي-مارجويريتي-دو-لاك-ماسسون قويبيك"
+        },
+        {
+            "Code": "103238",
+            "Name": "Sainte-Marie",
+            "NameAr": "ساينتي-ماريي"
+        },
+        {
+            "Code": "134847",
+            "Name": "Salaberry-de-Valleyfield,   Quebec",
+            "NameAr": "سالابيرري-دي-فاللييفييلد قويبيك"
+        },
+        {
+            "Code": "151258",
+            "Name": "Salluit,   Quebec",
+            "NameAr": "ساللويت قويبيك"
+        },
+        {
+            "Code": "134859",
+            "Name": "Salmon Arm,   British Columbia",
+            "NameAr": "سالمون ارم بريتيسه كولومبيا"
+        },
+        {
+            "Code": "135392",
+            "Name": "Salomon Arm,   British Columbia",
+            "NameAr": "سالومون ارم بريتيسه كولومبيا"
+        },
+        {
+            "Code": "135925",
+            "Name": "Salt Spring Island,   British Columbia",
+            "NameAr": "سالت سبرينج يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151579",
+            "Name": "Sandspit,   British Columbia",
+            "NameAr": "ساندسبيت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151660",
+            "Name": "Sandy Lake,   Ontario",
+            "NameAr": "ساندي لاكي ونتاريو"
+        },
+        {
+            "Code": "151662",
+            "Name": "Sanikiluaq,   Nunavut",
+            "NameAr": "سانيكيلواق نونافوت"
+        },
+        {
+            "Code": "137199",
+            "Name": "Sarnia,   Ontario",
+            "NameAr": "سارنيا ونتاريو"
+        },
+        {
+            "Code": "136098",
+            "Name": "Saskatoon,   Saskatchewan",
+            "NameAr": "ساسكاتوون ساسكاتكهيوان"
+        },
+        {
+            "Code": "136563",
+            "Name": "Saturna Island,   British Columbia",
+            "NameAr": "ساتورنا يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "137209",
+            "Name": "Sault Sainte Marie,   Ontario",
+            "NameAr": "ساولت ساينتي ماريي ونتاريو"
+        },
+        {
+            "Code": "136920",
+            "Name": "Savona,   British Columbia",
+            "NameAr": "سافونا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "108509",
+            "Name": "Sayabec",
+            "NameAr": "سايابيك"
+        },
+        {
+            "Code": "136925",
+            "Name": "Scanterbury,   Manitoba",
+            "NameAr": "سكانتيربوري مانيتوبا"
+        },
+        {
+            "Code": "136667",
+            "Name": "Schefferville,   Quebec",
+            "NameAr": "سكهيففيرفيللي قويبيك"
+        },
+        {
+            "Code": "103526",
+            "Name": "Schreiber",
+            "NameAr": "سكهرييبير"
+        },
+        {
+            "Code": "103571",
+            "Name": "Scotsburn",
+            "NameAr": "سكوتسبورن"
+        },
+        {
+            "Code": "417192",
+            "Name": "Scotstown,   Quebec",
+            "NameAr": "سكوتستوون قويبيك"
+        },
+        {
+            "Code": "137243",
+            "Name": "Scott,   Quebec",
+            "NameAr": "سكوتت قويبيك"
+        },
+        {
+            "Code": "107360",
+            "Name": "Sebright",
+            "NameAr": "سيبريجهت"
+        },
+        {
+            "Code": "136747",
+            "Name": "Sechelt,   British Columbia",
+            "NameAr": "سيكهيلت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "137697",
+            "Name": "Seebe,   Alberta",
+            "NameAr": "سييبي البيرتا"
+        },
+        {
+            "Code": "136995",
+            "Name": "Selkirk,   Manitoba",
+            "NameAr": "سيلكيرك مانيتوبا"
+        },
+        {
+            "Code": "151581",
+            "Name": "Senneterre,   Quebec",
+            "NameAr": "سيننيتيرري قويبيك"
+        },
+        {
+            "Code": "137008",
+            "Name": "Sept Illes,   Quebec",
+            "NameAr": "سيبت يلليس قويبيك"
+        },
+        {
+            "Code": "147860",
+            "Name": "Sept-Iles,   Quebec",
+            "NameAr": "سيبت-يليس قويبيك"
+        },
+        {
+            "Code": "136283",
+            "Name": "Severn Bridge,   Ontario",
+            "NameAr": "سيفيرن بريدجي ونتاريو"
+        },
+        {
+            "Code": "151329",
+            "Name": "Shamattawa,   Manitoba",
+            "NameAr": "سهاماتتاوا مانيتوبا"
+        },
+        {
+            "Code": "138660",
+            "Name": "Shaunavon,   Saskatchewan",
+            "NameAr": "سهاونافون ساسكاتكهيوان"
+        },
+        {
+            "Code": "147881",
+            "Name": "Shawinigan,   Quebec",
+            "NameAr": "سهاوينيجان قويبيك"
+        },
+        {
+            "Code": "137743",
+            "Name": "Shawnigan Lake,   British Columbia",
+            "NameAr": "سهاونيجان لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "107372",
+            "Name": "Shawville",
+            "NameAr": "سهاوفيللي"
+        },
+        {
+            "Code": "147882",
+            "Name": "Shediac,   New Brunswick",
+            "NameAr": "سهيدياك نيو برونسويكك"
+        },
+        {
+            "Code": "138662",
+            "Name": "Shefford,   Quebec",
+            "NameAr": "سهيففورد قويبيك"
+        },
+        {
+            "Code": "106314",
+            "Name": "Sheguiandah",
+            "NameAr": "سهيجويانداه"
+        },
+        {
+            "Code": "138663",
+            "Name": "Shelburne,   Nova Scotia",
+            "NameAr": "سهيلبورني نوفا سكوتيا"
+        },
+        {
+            "Code": "103172",
+            "Name": "Shepody",
+            "NameAr": "سهيبودي"
+        },
+        {
+            "Code": "136808",
+            "Name": "Sherbrook,   Quebec",
+            "NameAr": "سهيربرووك قويبيك"
+        },
+        {
+            "Code": "137576",
+            "Name": "Sherbrooke,   Nova Scotia",
+            "NameAr": "سهيربرووكي نوفا سكوتيا"
+        },
+        {
+            "Code": "103583",
+            "Name": "Sherkston",
+            "NameAr": "سهيركستون"
+        },
+        {
+            "Code": "147888",
+            "Name": "Sherwood Park,   Alberta",
+            "NameAr": "سهيرووود بارك البيرتا"
+        },
+        {
+            "Code": "136303",
+            "Name": "Shubenacadie,   Nova Scotia",
+            "NameAr": "سهوبيناكاديي نوفا سكوتيا"
+        },
+        {
+            "Code": "137320",
+            "Name": "Sicamous,   British Columbia",
+            "NameAr": "سيكامووس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "136305",
+            "Name": "Sidney,   British Columbia",
+            "NameAr": "سيدنيي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "137467",
+            "Name": "Silver Star",
+            "NameAr": "سيلفير ستار"
+        },
+        {
+            "Code": "137421",
+            "Name": "Simcoe,   Ontario",
+            "NameAr": "سيمكوي ونتاريو"
+        },
+        {
+            "Code": "138712",
+            "Name": "Sioux Lookout,   Ontario",
+            "NameAr": "سيووكس لووكووت ونتاريو"
+        },
+        {
+            "Code": "137493",
+            "Name": "Slave Lake,   Alberta",
+            "NameAr": "سلافي لاكي البيرتا"
+        },
+        {
+            "Code": "138024",
+            "Name": "Sleepy Cove Island",
+            "NameAr": "سلييبي كوفي يسلاند"
+        },
+        {
+            "Code": "147950",
+            "Name": "Smith's Cove,   Nova Scotia",
+            "NameAr": "سميتهس كوفي نوفا سكوتيا"
+        },
+        {
+            "Code": "137055",
+            "Name": "Smithers,   British Columbia",
+            "NameAr": "سميتهيرس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "147951",
+            "Name": "Smiths Falls,   Ontario",
+            "NameAr": "سميتهس فاللس ونتاريو"
+        },
+        {
+            "Code": "108549",
+            "Name": "Smoky Lake",
+            "NameAr": "سموكي لاكي"
+        },
+        {
+            "Code": "106329",
+            "Name": "Smoky Lane",
+            "NameAr": "سموكي لاني"
+        },
+        {
+            "Code": "417354",
+            "Name": "Snow Lake",
+            "NameAr": "سنوو لاكي"
+        },
+        {
+            "Code": "108552",
+            "Name": "Sointula",
+            "NameAr": "سوينتولا"
+        },
+        {
+            "Code": "138137",
+            "Name": "Somerset Island,   Nunavat",
+            "NameAr": "سوميرسيت يسلاند نونافات"
+        },
+        {
+            "Code": "108556",
+            "Name": "Somerville",
+            "NameAr": "سوميرفيللي"
+        },
+        {
+            "Code": "137080",
+            "Name": "Sonora Island,   British Columbia",
+            "NameAr": "سونورا يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "138321",
+            "Name": "Sooke,   British Columbia",
+            "NameAr": "سووكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "103606",
+            "Name": "Sorel-Tracy",
+            "NameAr": "سوريل-تراكي"
+        },
+        {
+            "Code": "108559",
+            "Name": "Sorrento",
+            "NameAr": "سوررينتو"
+        },
+        {
+            "Code": "107060",
+            "Name": "South Frontenac",
+            "NameAr": "سووته فرونتيناك"
+        },
+        {
+            "Code": "106915",
+            "Name": "South Hazelton",
+            "NameAr": "سووته هازيلتون"
+        },
+        {
+            "Code": "150840",
+            "Name": "South Indian Lake,   Manitoba",
+            "NameAr": "سووته ينديان لاكي مانيتوبا"
+        },
+        {
+            "Code": "147976",
+            "Name": "South Pender,   British Columbia",
+            "NameAr": "سووته بيندير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "107244",
+            "Name": "South River",
+            "NameAr": "سووته ريفير"
+        },
+        {
+            "Code": "138162",
+            "Name": "Southampton,   Ontario",
+            "NameAr": "سووتهامبتون ونتاريو"
+        },
+        {
+            "Code": "138172",
+            "Name": "Sparwood,   British Columbia",
+            "NameAr": "سبارووود بريتيسه كولومبيا"
+        },
+        {
+            "Code": "107734",
+            "Name": "Spences Bridge",
+            "NameAr": "سبينكيس بريدجي"
+        },
+        {
+            "Code": "138520",
+            "Name": "Spout Lake,   British Columbia",
+            "NameAr": "سبووت لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "138091",
+            "Name": "Spring Bay",
+            "NameAr": "سبرينج باي"
+        },
+        {
+            "Code": "138365",
+            "Name": "Springdale,   Newfoundland and Labrador",
+            "NameAr": "سبرينجدالي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "147993",
+            "Name": "Squamish,   British Columbia",
+            "NameAr": "سقواميسه بريتيسه كولومبيا"
+        },
+        {
+            "Code": "138190",
+            "Name": "St Andrews,   New Brunswick",
+            "NameAr": "ست اندريوس نيو برونسويكك"
+        },
+        {
+            "Code": "137123",
+            "Name": "St Paul,   Alberta",
+            "NameAr": "ست باول البيرتا"
+        },
+        {
+            "Code": "147997",
+            "Name": "St Thomas,   Ontario",
+            "NameAr": "ست تهوماس ونتاريو"
+        },
+        {
+            "Code": "148035",
+            "Name": "St-Alexis-de-Matapedia,   Quebec",
+            "NameAr": "ست-اليكسيس-دي-ماتابيديا قويبيك"
+        },
+        {
+            "Code": "418133",
+            "Name": "St-Donat de Rimouski",
+            "NameAr": "ست-دونات دي ريمووسكي"
+        },
+        {
+            "Code": "139282",
+            "Name": "St-Simon",
+            "NameAr": "ست-سيمون"
+        },
+        {
+            "Code": "103200",
+            "Name": "St. Albert,   Alberta",
+            "NameAr": "ست البيرت البيرتا"
+        },
+        {
+            "Code": "137126",
+            "Name": "St. Anthony,   Newfoundland and Labrador",
+            "NameAr": "ست انتهوني نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "147999",
+            "Name": "St. Apollinaire,   Quebec",
+            "NameAr": "ست ابوللينايري قويبيك"
+        },
+        {
+            "Code": "138376",
+            "Name": "St. Catharines,   Ontario",
+            "NameAr": "ست كاتهارينيس ونتاريو"
+        },
+        {
+            "Code": "148002",
+            "Name": "St. Charles,   Ontario",
+            "NameAr": "ست كهارليس ونتاريو"
+        },
+        {
+            "Code": "139475",
+            "Name": "St. John's,   Newfoundland and Labrador",
+            "NameAr": "ست جوهنس نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "139476",
+            "Name": "St. Liboire,   Quebec",
+            "NameAr": "ست ليبويري قويبيك"
+        },
+        {
+            "Code": "148018",
+            "Name": "St. Marys,   Nova Scotia",
+            "NameAr": "ست ماريس نوفا سكوتيا"
+        },
+        {
+            "Code": "138874",
+            "Name": "St. Peter,   Nova Scotia",
+            "NameAr": "ست بيتير نوفا سكوتيا"
+        },
+        {
+            "Code": "138237",
+            "Name": "St. Peters,   Nova Scotia",
+            "NameAr": "ست بيتيرس نوفا سكوتيا"
+        },
+        {
+            "Code": "148026",
+            "Name": "St. Sauveur des Monts,   Quebec",
+            "NameAr": "ست ساوفيور ديس مونتس قويبيك"
+        },
+        {
+            "Code": "148030",
+            "Name": "St. Urbain,   Quebec",
+            "NameAr": "ست ورباين قويبيك"
+        },
+        {
+            "Code": "138783",
+            "Name": "St.Martins,   New Brunswick",
+            "NameAr": "ست مارتينس نيو برونسويكك"
+        },
+        {
+            "Code": "108565",
+            "Name": "Stanhope",
+            "NameAr": "ستانهوبي"
+        },
+        {
+            "Code": "417029",
+            "Name": "Stanstead,   Quebec",
+            "NameAr": "ستانستياد قويبيك"
+        },
+        {
+            "Code": "138808",
+            "Name": "Ste-Anne-de-Beaupre,   Quebec",
+            "NameAr": "ستي-انني-دي-بياوبري قويبيك"
+        },
+        {
+            "Code": "148048",
+            "Name": "Ste-Catherine-de-la-Jacques,   Quebec",
+            "NameAr": "ستي-كاتهيريني-دي-لا-جاكقويس قويبيك"
+        },
+        {
+            "Code": "139501",
+            "Name": "Ste-Flore-de-Grand-Mere,   Quebec",
+            "NameAr": "ستي-فلوري-دي-جراند-ميري قويبيك"
+        },
+        {
+            "Code": "138252",
+            "Name": "Steady Brook,   Newfoundland and Labrador",
+            "NameAr": "ستيادي برووك نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "139505",
+            "Name": "Steinbach,   Manitoba",
+            "NameAr": "ستيينباكه مانيتوبا"
+        },
+        {
+            "Code": "138908",
+            "Name": "Stellarton,   Nova Scotia",
+            "NameAr": "ستيللارتون نوفا سكوتيا"
+        },
+        {
+            "Code": "138263",
+            "Name": "Stephenville,   Newfoundland and Labrador",
+            "NameAr": "ستيبهينفيللي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "137821",
+            "Name": "Stettler,   Alberta",
+            "NameAr": "ستيتتلير البيرتا"
+        },
+        {
+            "Code": "139516",
+            "Name": "Stewart,   British Columbia",
+            "NameAr": "ستيوارت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "140201",
+            "Name": "Stoneham,   Quebec",
+            "NameAr": "ستونيهام قويبيك"
+        },
+        {
+            "Code": "138925",
+            "Name": "Stony Plain,   Alberta",
+            "NameAr": "ستوني بلاين البيرتا"
+        },
+        {
+            "Code": "151336",
+            "Name": "Stony Rapids,   Saskatchewan",
+            "NameAr": "ستوني رابيدس ساسكاتكهيوان"
+        },
+        {
+            "Code": "107134",
+            "Name": "Stoughton",
+            "NameAr": "ستووجهتون"
+        },
+        {
+            "Code": "138939",
+            "Name": "Stratford,   Ontario",
+            "NameAr": "ستراتفورد ونتاريو"
+        },
+        {
+            "Code": "139279",
+            "Name": "Strathmore,   Alberta",
+            "NameAr": "ستراتهموري البيرتا"
+        },
+        {
+            "Code": "151591",
+            "Name": "Strathroy,   Ontario",
+            "NameAr": "ستراتهروي ونتاريو"
+        },
+        {
+            "Code": "106351",
+            "Name": "Strathroy-Caradoc",
+            "NameAr": "ستراتهروي-كارادوك"
+        },
+        {
+            "Code": "151021",
+            "Name": "Stuart Island,   British Columbia",
+            "NameAr": "ستوارت يسلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "139128",
+            "Name": "Sturgeon Falls,   Ontario",
+            "NameAr": "ستورجيون فاللس ونتاريو"
+        },
+        {
+            "Code": "138955",
+            "Name": "Sudbury,   Ontario",
+            "NameAr": "سودبوري ونتاريو"
+        },
+        {
+            "Code": "151022",
+            "Name": "Sullivan Bay,   British Columbia",
+            "NameAr": "سولليفان باي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "139145",
+            "Name": "Summerland,   British Columbia",
+            "NameAr": "سومميرلاند بريتيسه كولومبيا"
+        },
+        {
+            "Code": "138302",
+            "Name": "Summerside,   Prince Edward Island",
+            "NameAr": "سومميرسيدي برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "138304",
+            "Name": "Sun Peaks,   British Columbia",
+            "NameAr": "سون بياكس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "139862",
+            "Name": "Sundre,   Alberta",
+            "NameAr": "سوندري البيرتا"
+        },
+        {
+            "Code": "139869",
+            "Name": "Surrey,   British Columbia",
+            "NameAr": "سورريي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "139870",
+            "Name": "Sussex,   New Brunswick",
+            "NameAr": "سوسسيكس نيو برونسويكك"
+        },
+        {
+            "Code": "138977",
+            "Name": "Sutton,   Ontario",
+            "NameAr": "سوتتون ونتاريو"
+        },
+        {
+            "Code": "140250",
+            "Name": "Swan River,   Manitoba",
+            "NameAr": "سوان ريفير مانيتوبا"
+        },
+        {
+            "Code": "140256",
+            "Name": "Swift Current,   Saskatchewan",
+            "NameAr": "سويفت كوررينت ساسكاتكهيوان"
+        },
+        {
+            "Code": "139542",
+            "Name": "Sydney,   Nova Scotia",
+            "NameAr": "سيدنيي نوفا سكوتيا"
+        },
+        {
+            "Code": "139655",
+            "Name": "Sylvan Lake,   Alberta",
+            "NameAr": "سيلفان لاكي البيرتا"
+        },
+        {
+            "Code": "139887",
+            "Name": "Taber,   Alberta",
+            "NameAr": "تابير البيرتا"
+        },
+        {
+            "Code": "151700",
+            "Name": "Tadoule Lake,   Manitoba",
+            "NameAr": "تادوولي لاكي مانيتوبا"
+        },
+        {
+            "Code": "139549",
+            "Name": "Tadoussac,   Quebec",
+            "NameAr": "تادووسساك قويبيك"
+        },
+        {
+            "Code": "139178",
+            "Name": "Tagish Lake,   British Columbia",
+            "NameAr": "تاجيسه لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151514",
+            "Name": "Tahsis,   British Columbia",
+            "NameAr": "تاهسيس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "150688",
+            "Name": "Taloyoak,   Nunavut",
+            "NameAr": "تالويواك نونافوت"
+        },
+        {
+            "Code": "138591",
+            "Name": "Tatamagouche,   Nova Scotia",
+            "NameAr": "تاتاماجووكهي نوفا سكوتيا"
+        },
+        {
+            "Code": "140989",
+            "Name": "Telegraph Cove,   British Columbia",
+            "NameAr": "تيليجرابه كوفي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151028",
+            "Name": "Telegraph Creek,   British Columbia",
+            "NameAr": "تيليجرابه كرييك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "139993",
+            "Name": "Telkwa,   British Columbia",
+            "NameAr": "تيلكوا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "138609",
+            "Name": "Temagami,   Ontario",
+            "NameAr": "تيماجامي ونتاريو"
+        },
+        {
+            "Code": "139994",
+            "Name": "Temiscouata-sur-le-Lac,   Quebec",
+            "NameAr": "تيميسكوواتا-سور-لي-لاك قويبيك"
+        },
+        {
+            "Code": "139726",
+            "Name": "Terrace,   British Columbia",
+            "NameAr": "تيرراكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "139728",
+            "Name": "Terrebonne,   Quebec",
+            "NameAr": "تيرريبونني قويبيك"
+        },
+        {
+            "Code": "151487",
+            "Name": "Teslin,   Yukon Territory",
+            "NameAr": "تيسلين يوكون تيرريتوري"
+        },
+        {
+            "Code": "151520",
+            "Name": "Tete A La Baleine,   Quebec",
+            "NameAr": "تيتي ا لا بالييني قويبيك"
+        },
+        {
+            "Code": "139607",
+            "Name": "The Pas,   Manitoba",
+            "NameAr": "تهي باس مانيتوبا"
+        },
+        {
+            "Code": "106384",
+            "Name": "Thessalon",
+            "NameAr": "تهيسسالون"
+        },
+        {
+            "Code": "140023",
+            "Name": "Thetford Mines,   Quebec",
+            "NameAr": "تهيتفورد مينيس قويبيك"
+        },
+        {
+            "Code": "140028",
+            "Name": "Thompson,   Manitoba",
+            "NameAr": "تهومبسون مانيتوبا"
+        },
+        {
+            "Code": "140751",
+            "Name": "Thorold,   Ontario",
+            "NameAr": "تهورولد ونتاريو"
+        },
+        {
+            "Code": "140030",
+            "Name": "Three Hills,   Alberta",
+            "NameAr": "تهريي هيللس البيرتا"
+        },
+        {
+            "Code": "148220",
+            "Name": "Thunder Bay,   Ontario",
+            "NameAr": "تهوندير باي ونتاريو"
+        },
+        {
+            "Code": "141046",
+            "Name": "Tillsonburg,   Ontario",
+            "NameAr": "تيللسونبورج ونتاريو"
+        },
+        {
+            "Code": "106391",
+            "Name": "Timberlea",
+            "NameAr": "تيمبيرليا"
+        },
+        {
+            "Code": "140308",
+            "Name": "Timmins,   Ontario",
+            "NameAr": "تيممينس ونتاريو"
+        },
+        {
+            "Code": "139763",
+            "Name": "Tisdale,   Saskatchewan",
+            "NameAr": "تيسدالي ساسكاتكهيوان"
+        },
+        {
+            "Code": "141063",
+            "Name": "Tobermory,   Ontario",
+            "NameAr": "توبيرموري ونتاريو"
+        },
+        {
+            "Code": "148248",
+            "Name": "Tofino,   British Columbia",
+            "NameAr": "توفينو بريتيسه كولومبيا"
+        },
+        {
+            "Code": "140333",
+            "Name": "Toronto,   Ontario",
+            "NameAr": "تورونتو ونتاريو"
+        },
+        {
+            "Code": "140349",
+            "Name": "Tracadie-Sheila,   New Brunswick",
+            "NameAr": "تراكاديي-سهييلا نيو برونسويكك"
+        },
+        {
+            "Code": "141770",
+            "Name": "Trail,   British Columbia",
+            "NameAr": "ترايل بريتيسه كولومبيا"
+        },
+        {
+            "Code": "141194",
+            "Name": "Trenton,   Ontario",
+            "NameAr": "ترينتون ونتاريو"
+        },
+        {
+            "Code": "139380",
+            "Name": "Trepassey,   Newfoundland and Labrador",
+            "NameAr": "تريباسسيي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "148322",
+            "Name": "Trinity,   Newfoundland and Labrador",
+            "NameAr": "ترينيتي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "140378",
+            "Name": "Trois Rivieres,   Quebec",
+            "NameAr": "ترويس ريفييريس قويبيك"
+        },
+        {
+            "Code": "140652",
+            "Name": "Trois-Pistoles,   Quebec",
+            "NameAr": "ترويس-بيستوليس قويبيك"
+        },
+        {
+            "Code": "139822",
+            "Name": "Trois-Rives,   Quebec",
+            "NameAr": "ترويس-ريفيس قويبيك"
+        },
+        {
+            "Code": "107436",
+            "Name": "Troy",
+            "NameAr": "تروي"
+        },
+        {
+            "Code": "140847",
+            "Name": "Truro,   Nova Scotia",
+            "NameAr": "ترورو نوفا سكوتيا"
+        },
+        {
+            "Code": "141214",
+            "Name": "Tsawwassen,   British Columbia",
+            "NameAr": "تساوواسسين بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151680",
+            "Name": "Tuktoyaktuk,   Northwest Territories",
+            "NameAr": "توكتوياكتوك نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "141811",
+            "Name": "Tumbler Ridge,   British Columbia",
+            "NameAr": "تومبلير ريدجي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "106858",
+            "Name": "Tweed",
+            "NameAr": "توييد"
+        },
+        {
+            "Code": "148356",
+            "Name": "Twillingate,   Newfoundland and Labrador",
+            "NameAr": "تويللينجاتي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "140099",
+            "Name": "Ucluelet,   British Columbia",
+            "NameAr": "وكلويليت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151036",
+            "Name": "Umiujaq,   Quebec",
+            "NameAr": "وميوجاق قويبيك"
+        },
+        {
+            "Code": "141265",
+            "Name": "Upper Economy,   Nova Scotia",
+            "NameAr": "وببير يكونومي نوفا سكوتيا"
+        },
+        {
+            "Code": "151498",
+            "Name": "Uranium City,   Saskatchewan",
+            "NameAr": "ورانيوم كيتي ساسكاتكهيوان"
+        },
+        {
+            "Code": "107942",
+            "Name": "Utterson",
+            "NameAr": "وتتيرسون"
+        },
+        {
+            "Code": "140154",
+            "Name": "Val D'Or,   Quebec",
+            "NameAr": "فال دور قويبيك"
+        },
+        {
+            "Code": "140155",
+            "Name": "Val-David,   Quebec",
+            "NameAr": "فال-دافيد قويبيك"
+        },
+        {
+            "Code": "106870",
+            "Name": "Val-des-Lacs",
+            "NameAr": "فال-ديس-لاكس"
+        },
+        {
+            "Code": "141439",
+            "Name": "Val-Morin,   Quebec",
+            "NameAr": "فال-مورين قويبيك"
+        },
+        {
+            "Code": "141424",
+            "Name": "Valemount,   British Columbia",
+            "NameAr": "فاليموونت بريتيسه كولومبيا"
+        },
+        {
+            "Code": "140169",
+            "Name": "Valleyview,   Alberta",
+            "NameAr": "فاللييفييو البيرتا"
+        },
+        {
+            "Code": "141448",
+            "Name": "Vancouver,   British Columbia",
+            "NameAr": "فانكووفير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "108651",
+            "Name": "Vanderhoof",
+            "NameAr": "فانديرهووف"
+        },
+        {
+            "Code": "107853",
+            "Name": "Vars",
+            "NameAr": "فارس"
+        },
+        {
+            "Code": "140609",
+            "Name": "Vaudreuil,   Quebec",
+            "NameAr": "فاودريويل قويبيك"
+        },
+        {
+            "Code": "141628",
+            "Name": "Vaughan,   Ontario",
+            "NameAr": "فاوجهان ونتاريو"
+        },
+        {
+            "Code": "107130",
+            "Name": "Vegreville",
+            "NameAr": "فيجريفيللي"
+        },
+        {
+            "Code": "142560",
+            "Name": "Venise-en-Quebec,   Quebec",
+            "NameAr": "فينيسي-ين-قويبيك قويبيك"
+        },
+        {
+            "Code": "141313",
+            "Name": "Vermilion,   Alberta",
+            "NameAr": "فيرميليون البيرتا"
+        },
+        {
+            "Code": "141485",
+            "Name": "Vernon,   British Columbia",
+            "NameAr": "فيرنون بريتيسه كولومبيا"
+        },
+        {
+            "Code": "141189",
+            "Name": "Victoire,   Ontario",
+            "NameAr": "فيكتويري ونتاريو"
+        },
+        {
+            "Code": "141495",
+            "Name": "Victoria,   British Columbia",
+            "NameAr": "فيكتوريا بريتيسه كولومبيا"
+        },
+        {
+            "Code": "142017",
+            "Name": "Victoria-by-the-Sea,   Prince Edward Island",
+            "NameAr": "فيكتوريا-بي-تهي-سيا برينكي يدوارد يسلاند"
+        },
+        {
+            "Code": "141321",
+            "Name": "Victoriaville,   Quebec",
+            "NameAr": "فيكتوريافيللي قويبيك"
+        },
+        {
+            "Code": "106405",
+            "Name": "Villeroy",
+            "NameAr": "فيلليروي"
+        },
+        {
+            "Code": "140924",
+            "Name": "Virden,   Manitoba",
+            "NameAr": "فيردين مانيتوبا"
+        },
+        {
+            "Code": "107701",
+            "Name": "Wabasca",
+            "NameAr": "واباسكا"
+        },
+        {
+            "Code": "151501",
+            "Name": "Wabush,   Newfoundland and Labrador",
+            "NameAr": "وابوسه نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "107518",
+            "Name": "Wahnapitae,   Ontario",
+            "NameAr": "واهنابيتاي ونتاريو"
+        },
+        {
+            "Code": "141935",
+            "Name": "Wainwright,   Alberta",
+            "NameAr": "واينوريجهت البيرتا"
+        },
+        {
+            "Code": "333238",
+            "Name": "Wakefield,   Quebec",
+            "NameAr": "واكيفييلد قويبيك"
+        },
+        {
+            "Code": "143077",
+            "Name": "Walkerton,   Ontario",
+            "NameAr": "والكيرتون ونتاريو"
+        },
+        {
+            "Code": "142775",
+            "Name": "Wallace,   Nova Scotia",
+            "NameAr": "واللاكي نوفا سكوتيا"
+        },
+        {
+            "Code": "141412",
+            "Name": "Wallaceburg,   Ontario",
+            "NameAr": "واللاكيبورج ونتاريو"
+        },
+        {
+            "Code": "143084",
+            "Name": "Walters Falls,   Ontario",
+            "NameAr": "والتيرس فاللس ونتاريو"
+        },
+        {
+            "Code": "107705",
+            "Name": "Warwick",
+            "NameAr": "وارويكك"
+        },
+        {
+            "Code": "148617",
+            "Name": "Wasaga Beach,   Ontario",
+            "NameAr": "واساجا بياكه ونتاريو"
+        },
+        {
+            "Code": "107889",
+            "Name": "Wasagaming",
+            "NameAr": "واساجامينج"
+        },
+        {
+            "Code": "107593",
+            "Name": "Washago",
+            "NameAr": "واسهاجو"
+        },
+        {
+            "Code": "151715",
+            "Name": "Waskaganish,   Quebec",
+            "NameAr": "واسكاجانيسه قويبيك"
+        },
+        {
+            "Code": "143101",
+            "Name": "Waskesiu Lake,   Saskatchewan",
+            "NameAr": "واسكيسيو لاكي ساسكاتكهيوان"
+        },
+        {
+            "Code": "142267",
+            "Name": "Waterloo,   Ontario",
+            "NameAr": "واتيرلوو ونتاريو"
+        },
+        {
+            "Code": "148624",
+            "Name": "Waterton Lakes,   Alberta",
+            "NameAr": "واتيرتون لاكيس البيرتا"
+        },
+        {
+            "Code": "142630",
+            "Name": "Waterton Park,   Alberta",
+            "NameAr": "واتيرتون بارك البيرتا"
+        },
+        {
+            "Code": "141655",
+            "Name": "Waterville,   Quebec",
+            "NameAr": "واتيرفيللي قويبيك"
+        },
+        {
+            "Code": "107706",
+            "Name": "Watrous",
+            "NameAr": "واترووس"
+        },
+        {
+            "Code": "148627",
+            "Name": "Watson Lake,   Yukon",
+            "NameAr": "واتسون لاكي يوكون"
+        },
+        {
+            "Code": "143109",
+            "Name": "Wawa,   Ontario",
+            "NameAr": "واوا ونتاريو"
+        },
+        {
+            "Code": "150858",
+            "Name": "Webequie,   Ontario",
+            "NameAr": "ويبيقويي ونتاريو"
+        },
+        {
+            "Code": "142649",
+            "Name": "Welland,   Ontario",
+            "NameAr": "ويللاند ونتاريو"
+        },
+        {
+            "Code": "375347",
+            "Name": "Wellington,   Ontario",
+            "NameAr": "ويللينجتون ونتاريو"
+        },
+        {
+            "Code": "247712",
+            "Name": "Wellington County",
+            "NameAr": "ويللينجتون كوونتي"
+        },
+        {
+            "Code": "142829",
+            "Name": "Wells,   British Columbia",
+            "NameAr": "ويللس بريتيسه كولومبيا"
+        },
+        {
+            "Code": "151717",
+            "Name": "Wemindji,   Quebec",
+            "NameAr": "ويميندجي قويبيك"
+        },
+        {
+            "Code": "143134",
+            "Name": "Wendake,   Quebec",
+            "NameAr": "وينداكي قويبيك"
+        },
+        {
+            "Code": "141681",
+            "Name": "Wentworth,   Nova Scotia",
+            "NameAr": "وينتوورته نوفا سكوتيا"
+        },
+        {
+            "Code": "142148",
+            "Name": "Westbank,   British Columbia",
+            "NameAr": "ويستبانك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "143152",
+            "Name": "Western Shore,   Nova Scotia",
+            "NameAr": "ويستيرن سهوري نوفا سكوتيا"
+        },
+        {
+            "Code": "107709",
+            "Name": "Westerose",
+            "NameAr": "ويستيروسي"
+        },
+        {
+            "Code": "143712",
+            "Name": "Westlock,   Alberta",
+            "NameAr": "ويستلوكك البيرتا"
+        },
+        {
+            "Code": "290483",
+            "Name": "Westport,   Nova Scotia",
+            "NameAr": "ويستبورت نوفا سكوتيا"
+        },
+        {
+            "Code": "142991",
+            "Name": "Wetaskiwin,   Alberta",
+            "NameAr": "ويتاسكيوين البيرتا"
+        },
+        {
+            "Code": "141698",
+            "Name": "Weyburn,   Saskatchewan",
+            "NameAr": "وييبورن ساسكاتكهيوان"
+        },
+        {
+            "Code": "151040",
+            "Name": "Whale Cove,   Nunavut",
+            "NameAr": "وهالي كوفي نونافوت"
+        },
+        {
+            "Code": "107500",
+            "Name": "Wheatley",
+            "NameAr": "وهياتليي"
+        },
+        {
+            "Code": "143410",
+            "Name": "Whistler,   British Columbia",
+            "NameAr": "وهيستلير بريتيسه كولومبيا"
+        },
+        {
+            "Code": "143168",
+            "Name": "Whitby,   Ontario",
+            "NameAr": "وهيتبي ونتاريو"
+        },
+        {
+            "Code": "148675",
+            "Name": "White Point,   Nova Scotia",
+            "NameAr": "وهيتي بوينت نوفا سكوتيا"
+        },
+        {
+            "Code": "151505",
+            "Name": "White River,   Ontario",
+            "NameAr": "وهيتي ريفير ونتاريو"
+        },
+        {
+            "Code": "148677",
+            "Name": "White Rock,   British Columbia",
+            "NameAr": "وهيتي روكك بريتيسه كولومبيا"
+        },
+        {
+            "Code": "141703",
+            "Name": "Whitecourt,   Alberta",
+            "NameAr": "وهيتيكوورت البيرتا"
+        },
+        {
+            "Code": "142996",
+            "Name": "Whitehorse,   Yukon",
+            "NameAr": "وهيتيهورسي يوكون"
+        },
+        {
+            "Code": "143423",
+            "Name": "Whitney,   Ontario",
+            "NameAr": "وهيتنيي ونتاريو"
+        },
+        {
+            "Code": "377470",
+            "Name": "Whycocomagh,   Nova Scotia",
+            "NameAr": "وهيكوكوماجه نوفا سكوتيا"
+        },
+        {
+            "Code": "141708",
+            "Name": "Wiarton,   Ontario",
+            "NameAr": "ويارتون ونتاريو"
+        },
+        {
+            "Code": "151690",
+            "Name": "Williams Harbour,   Newfoundland and Labrador",
+            "NameAr": "ويلليامس هاربوور نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "142705",
+            "Name": "Williams Lake,   British Columbia",
+            "NameAr": "ويلليامس لاكي بريتيسه كولومبيا"
+        },
+        {
+            "Code": "143022",
+            "Name": "Windermere,   British Columbia",
+            "NameAr": "وينديرميري بريتيسه كولومبيا"
+        },
+        {
+            "Code": "101191",
+            "Name": "Windsor,   Nova Scotia",
+            "NameAr": "ويندسور نوفا سكوتيا"
+        },
+        {
+            "Code": "142841",
+            "Name": "Windsor,   Ontario",
+            "NameAr": "ويندسور ونتاريو"
+        },
+        {
+            "Code": "142844",
+            "Name": "Winkler,   Manitoba",
+            "NameAr": "وينكلير مانيتوبا"
+        },
+        {
+            "Code": "143031",
+            "Name": "Winnipeg,   Manitoba",
+            "NameAr": "ويننيبيج مانيتوبا"
+        },
+        {
+            "Code": "148722",
+            "Name": "Witless Bay,   Newfoundland and Labrador",
+            "NameAr": "ويتليسس باي نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "143765",
+            "Name": "Wolfville,   Nova Scotia",
+            "NameAr": "وولففيللي نوفا سكوتيا"
+        },
+        {
+            "Code": "150776",
+            "Name": "Wollaston Lake,   Saskatchewan",
+            "NameAr": "ووللاستون لاكي ساسكاتكهيوان"
+        },
+        {
+            "Code": "108986",
+            "Name": "Woodstock",
+            "NameAr": "ووودستوكك"
+        },
+        {
+            "Code": "143055",
+            "Name": "Woodstock,   New Brunswick",
+            "NameAr": "ووودستوكك نيو برونسويكك"
+        },
+        {
+            "Code": "142873",
+            "Name": "Woodview,   Ontario",
+            "NameAr": "ووودفييو ونتاريو"
+        },
+        {
+            "Code": "142874",
+            "Name": "Woody Point,   Newfoundland and Labrador",
+            "NameAr": "ووودي بوينت نيوفووندلاند اند لابرادور"
+        },
+        {
+            "Code": "151691",
+            "Name": "Wrigley,   Northwest Territories",
+            "NameAr": "وريجليي نورتهويست تيرريتورييس"
+        },
+        {
+            "Code": "151044",
+            "Name": "Wunnummin Lake,   Ontario",
+            "NameAr": "ووننوممين لاكي ونتاريو"
+        },
+        {
+            "Code": "107907",
+            "Name": "Wycliffe",
+            "NameAr": "ويكليففي"
+        },
+        {
+            "Code": "143482",
+            "Name": "Wymbolwood Beach,   Ontario",
+            "NameAr": "ويمبولووود بياكه ونتاريو"
+        },
+        {
+            "Code": "107544",
+            "Name": "Yale",
+            "NameAr": "يالي"
+        },
+        {
+            "Code": "148761",
+            "Name": "Yarmouth,   Nova Scotia",
+            "NameAr": "يارمووته نوفا سكوتيا"
+        },
+        {
+            "Code": "148768",
+            "Name": "Yellowknife,   Northwest Territory",
+            "NameAr": "ييللووكنيفي نورتهويست تيرريتوري"
+        },
+        {
+            "Code": "107621",
+            "Name": "Ymir",
+            "NameAr": "يمير"
+        },
+        {
+            "Code": "249197",
+            "Name": "York",
+            "NameAr": "يورك"
+        },
+        {
+            "Code": "151722",
+            "Name": "York Landing,   Manitoba",
+            "NameAr": "يورك لاندينج مانيتوبا"
+        },
+        {
+            "Code": "143518",
+            "Name": "Yorkton,   Saskatchewan",
+            "NameAr": "يوركتون ساسكاتكهيوان"
+        },
+        {
+            "Code": "142492",
+            "Name": "Zephyr,   Ontario",
+            "NameAr": "زيبهير ونتاريو"
+        },
+        {
+            "Code": "108043",
+            "Name": "Zurich",
+            "NameAr": "زوريكه"
+        }
+    ],
+    "totalCities": 1329
+}

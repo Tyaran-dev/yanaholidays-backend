@@ -1,0 +1,12 @@
+{
+    "id": "CF",
+    "countryCode": "CF",
+    "cities": [
+        {
+            "Code": "110989",
+            "Name": "Bangui",
+            "NameAr": "بانجوي"
+        }
+    ],
+    "totalCities": 1
+}

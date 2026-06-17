@@ -1,0 +1,267 @@
+{
+    "id": "MT",
+    "countryCode": "MT",
+    "cities": [
+        {
+            "Code": "110238",
+            "Name": "Attard",
+            "NameAr": "اتتارد"
+        },
+        {
+            "Code": "408981",
+            "Name": "Birgu",
+            "NameAr": "بيرجو"
+        },
+        {
+            "Code": "112190",
+            "Name": "Birzebbuga",
+            "NameAr": "بيرزيببوجا"
+        },
+        {
+            "Code": "112054",
+            "Name": "Bugibba",
+            "NameAr": "بوجيببا"
+        },
+        {
+            "Code": "115215",
+            "Name": "Cirkewwa",
+            "NameAr": "كيركيووا"
+        },
+        {
+            "Code": "115387",
+            "Name": "Comino Island",
+            "NameAr": "كومينو يسلاند"
+        },
+        {
+            "Code": "118971",
+            "Name": "Ghajnsielem",
+            "NameAr": "جهاجنسييليم"
+        },
+        {
+            "Code": "119767",
+            "Name": "Ghammar",
+            "NameAr": "جهاممار"
+        },
+        {
+            "Code": "119110",
+            "Name": "Gharb",
+            "NameAr": "جهارب"
+        },
+        {
+            "Code": "118972",
+            "Name": "Ghasri",
+            "NameAr": "جهاسري"
+        },
+        {
+            "Code": "119304",
+            "Name": "Golden Bay",
+            "NameAr": "جولدين باي"
+        },
+        {
+            "Code": "145403",
+            "Name": "Gozo Island",
+            "NameAr": "جوزو يسلاند"
+        },
+        {
+            "Code": "119524",
+            "Name": "Gzira",
+            "NameAr": "جزيرا"
+        },
+        {
+            "Code": "145884",
+            "Name": "Kappara",
+            "NameAr": "كاببارا"
+        },
+        {
+            "Code": "122981",
+            "Name": "Kercem",
+            "NameAr": "كيركيم"
+        },
+        {
+            "Code": "126792",
+            "Name": "Malta",
+            "NameAr": "مالتا"
+        },
+        {
+            "Code": "126850",
+            "Name": "Marfa",
+            "NameAr": "مارفا"
+        },
+        {
+            "Code": "128083",
+            "Name": "Marsalforn",
+            "NameAr": "مارسالفورن"
+        },
+        {
+            "Code": "127010",
+            "Name": "Marsascala",
+            "NameAr": "مارساسكالا"
+        },
+        {
+            "Code": "126877",
+            "Name": "Marsaxlokk",
+            "NameAr": "مارساكسلوكك"
+        },
+        {
+            "Code": "127875",
+            "Name": "Mdina",
+            "NameAr": "مدينا"
+        },
+        {
+            "Code": "128805",
+            "Name": "Mellieha",
+            "NameAr": "ميللييها"
+        },
+        {
+            "Code": "146617",
+            "Name": "Mgarr",
+            "NameAr": "مجارر"
+        },
+        {
+            "Code": "129387",
+            "Name": "Mosta",
+            "NameAr": "موستا"
+        },
+        {
+            "Code": "129410",
+            "Name": "Msida",
+            "NameAr": "مسيدا"
+        },
+        {
+            "Code": "129101",
+            "Name": "Munxar",
+            "NameAr": "مونكسار"
+        },
+        {
+            "Code": "129721",
+            "Name": "Nadur",
+            "NameAr": "نادور"
+        },
+        {
+            "Code": "128736",
+            "Name": "Naxxar",
+            "NameAr": "ناكسكسار"
+        },
+        {
+            "Code": "134373",
+            "Name": "Qala",
+            "NameAr": "قالا"
+        },
+        {
+            "Code": "147417",
+            "Name": "Qawra",
+            "NameAr": "قاورا"
+        },
+        {
+            "Code": "134011",
+            "Name": "Qrendi",
+            "NameAr": "قريندي"
+        },
+        {
+            "Code": "102789",
+            "Name": "Rabat",
+            "NameAr": "رابات"
+        },
+        {
+            "Code": "136465",
+            "Name": "San Anton",
+            "NameAr": "سان انتون"
+        },
+        {
+            "Code": "135952",
+            "Name": "San Lawrenz",
+            "NameAr": "سان لاورينز"
+        },
+        {
+            "Code": "135995",
+            "Name": "Sannat",
+            "NameAr": "ساننات"
+        },
+        {
+            "Code": "136608",
+            "Name": "Santa Lucija",
+            "NameAr": "سانتا لوكيجا"
+        },
+        {
+            "Code": "373663",
+            "Name": "Senglea",
+            "NameAr": "سينجليا"
+        },
+        {
+            "Code": "138112",
+            "Name": "Sliema",
+            "NameAr": "سلييما"
+        },
+        {
+            "Code": "138530",
+            "Name": "St. Andrew''s",
+            "NameAr": "ست اندريوس"
+        },
+        {
+            "Code": "139203",
+            "Name": "St. George's Bay",
+            "NameAr": "ست جيورجيس باي"
+        },
+        {
+            "Code": "138770",
+            "Name": "St. Julian s/San Giljan",
+            "NameAr": "ست جوليان س سان جيلجان"
+        },
+        {
+            "Code": "148021",
+            "Name": "St. Paul's Bay",
+            "NameAr": "ست باولس باي"
+        },
+        {
+            "Code": "107284",
+            "Name": "Swieqi",
+            "NameAr": "سوييقي"
+        },
+        {
+            "Code": "106948",
+            "Name": "Tarxien",
+            "NameAr": "تاركسيين"
+        },
+        {
+            "Code": "141435",
+            "Name": "Valletta",
+            "NameAr": "فالليتتا"
+        },
+        {
+            "Code": "140885",
+            "Name": "Victoria",
+            "NameAr": "فيكتوريا"
+        },
+        {
+            "Code": "143091",
+            "Name": "Wardija",
+            "NameAr": "وارديجا"
+        },
+        {
+            "Code": "143316",
+            "Name": "Xaghra",
+            "NameAr": "كساجهرا"
+        },
+        {
+            "Code": "142437",
+            "Name": "Xemxija",
+            "NameAr": "كسيمكسيجا"
+        },
+        {
+            "Code": "365648",
+            "Name": "Xewkija",
+            "NameAr": "كسيوكيجا"
+        },
+        {
+            "Code": "142895",
+            "Name": "Xlendi",
+            "NameAr": "كسليندي"
+        },
+        {
+            "Code": "142486",
+            "Name": "Zebbug",
+            "NameAr": "زيببوج"
+        }
+    ],
+    "totalCities": 52
+}

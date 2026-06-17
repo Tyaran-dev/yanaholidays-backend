@@ -1,0 +1,22 @@
+{
+    "id": "BN",
+    "countryCode": "BN",
+    "cities": [
+        {
+            "Code": "110772",
+            "Name": "Bandar Seri Begawan",
+            "NameAr": "باندار سيري بيجاوان"
+        },
+        {
+            "Code": "123440",
+            "Name": "Jerudong",
+            "NameAr": "جيرودونج"
+        },
+        {
+            "Code": "151133",
+            "Name": "Kuala Belait",
+            "NameAr": "كوالا بيلايت"
+        }
+    ],
+    "totalCities": 3
+}

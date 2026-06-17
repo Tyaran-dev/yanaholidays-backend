@@ -1,0 +1,347 @@
+{
+    "id": "TZ",
+    "countryCode": "TZ",
+    "cities": [
+        {
+            "Code": "110206",
+            "Name": "Arusha",
+            "NameAr": "اروسها"
+        },
+        {
+            "Code": "110146",
+            "Name": "Bagamoyo",
+            "NameAr": "باجامويو"
+        },
+        {
+            "Code": "149971",
+            "Name": "Bariadi",
+            "NameAr": "باريادي"
+        },
+        {
+            "Code": "113475",
+            "Name": "Bwejuu",
+            "NameAr": "بويجوو"
+        },
+        {
+            "Code": "114488",
+            "Name": "Changuu Island",
+            "NameAr": "كهانجوو يسلاند"
+        },
+        {
+            "Code": "114280",
+            "Name": "Chuini Ruins/Bububu",
+            "NameAr": "كهويني روينس بوبوبو"
+        },
+        {
+            "Code": "115775",
+            "Name": "Chwaka",
+            "NameAr": "كهواكا"
+        },
+        {
+            "Code": "116626",
+            "Name": "Dar-es-Salaam",
+            "NameAr": "دار-يس-سالاام"
+        },
+        {
+            "Code": "144937",
+            "Name": "Dodoma",
+            "NameAr": "دودوما"
+        },
+        {
+            "Code": "145469",
+            "Name": "Grumeti-Wildreservat",
+            "NameAr": "جروميتي-ويلدريسيرفات"
+        },
+        {
+            "Code": "145756",
+            "Name": "Insel Mnemba",
+            "NameAr": "ينسيل منيمبا"
+        },
+        {
+            "Code": "121080",
+            "Name": "Insel Pemba",
+            "NameAr": "ينسيل بيمبا"
+        },
+        {
+            "Code": "122445",
+            "Name": "Jambiani",
+            "NameAr": "جامبياني"
+        },
+        {
+            "Code": "122528",
+            "Name": "Karatu",
+            "NameAr": "كاراتو"
+        },
+        {
+            "Code": "122855",
+            "Name": "Katavi-Nationalpark",
+            "NameAr": "كاتافي-ناتيونالبارك"
+        },
+        {
+            "Code": "123129",
+            "Name": "Kendwa",
+            "NameAr": "كيندوا"
+        },
+        {
+            "Code": "145936",
+            "Name": "Kigomani",
+            "NameAr": "كيجوماني"
+        },
+        {
+            "Code": "123549",
+            "Name": "Kijangwani",
+            "NameAr": "كيجانجواني"
+        },
+        {
+            "Code": "124237",
+            "Name": "Kilimani",
+            "NameAr": "كيليماني"
+        },
+        {
+            "Code": "123036",
+            "Name": "Kiwengwa Beach",
+            "NameAr": "كيوينجوا بياكه"
+        },
+        {
+            "Code": "145972",
+            "Name": "Kizimkazi",
+            "NameAr": "كيزيمكازي"
+        },
+        {
+            "Code": "418050",
+            "Name": "Kwangwazi",
+            "NameAr": "كوانجوازي"
+        },
+        {
+            "Code": "125182",
+            "Name": "Lake Manyara National Park",
+            "NameAr": "لاكي مانيارا ناتيونال بارك"
+        },
+        {
+            "Code": "125757",
+            "Name": "Lake Natron",
+            "NameAr": "لاكي ناترون"
+        },
+        {
+            "Code": "126371",
+            "Name": "Lukuba Island",
+            "NameAr": "لوكوبا يسلاند"
+        },
+        {
+            "Code": "126234",
+            "Name": "Lushoto",
+            "NameAr": "لوسهوتو"
+        },
+        {
+            "Code": "371222",
+            "Name": "Machame",
+            "NameAr": "ماكهامي"
+        },
+        {
+            "Code": "126106",
+            "Name": "Mafia Island",
+            "NameAr": "مافيا يسلاند"
+        },
+        {
+            "Code": "125686",
+            "Name": "Mahale-Mountains-Nationalpark",
+            "NameAr": "ماهالي-موونتاينس-ناتيونالبارك"
+        },
+        {
+            "Code": "127387",
+            "Name": "Mahonda",
+            "NameAr": "ماهوندا"
+        },
+        {
+            "Code": "125697",
+            "Name": "Makunduchi",
+            "NameAr": "ماكوندوكهي"
+        },
+        {
+            "Code": "128035",
+            "Name": "Mangapwani",
+            "NameAr": "مانجابواني"
+        },
+        {
+            "Code": "128053",
+            "Name": "Marangu",
+            "NameAr": "مارانجو"
+        },
+        {
+            "Code": "160775",
+            "Name": "Marumbi",
+            "NameAr": "مارومبي"
+        },
+        {
+            "Code": "127856",
+            "Name": "Matemwe Beach",
+            "NameAr": "ماتيموي بياكه"
+        },
+        {
+            "Code": "127872",
+            "Name": "Mchangamle",
+            "NameAr": "مكهانجاملي"
+        },
+        {
+            "Code": "127596",
+            "Name": "Menai Bay",
+            "NameAr": "ميناي باي"
+        },
+        {
+            "Code": "127650",
+            "Name": "Mikumi National Park",
+            "NameAr": "ميكومي ناتيونال بارك"
+        },
+        {
+            "Code": "149968",
+            "Name": "Misima",
+            "NameAr": "ميسيما"
+        },
+        {
+            "Code": "128885",
+            "Name": "Mkomazi Game Reserve",
+            "NameAr": "مكومازي جامي ريسيرفي"
+        },
+        {
+            "Code": "127248",
+            "Name": "Mombasa",
+            "NameAr": "مومباسا"
+        },
+        {
+            "Code": "129047",
+            "Name": "Morogoro",
+            "NameAr": "موروجورو"
+        },
+        {
+            "Code": "129639",
+            "Name": "Moshi",
+            "NameAr": "موسهي"
+        },
+        {
+            "Code": "149964",
+            "Name": "Mtwara",
+            "NameAr": "متوارا"
+        },
+        {
+            "Code": "149963",
+            "Name": "Musoma",
+            "NameAr": "موسوما"
+        },
+        {
+            "Code": "128695",
+            "Name": "Mwanza",
+            "NameAr": "موانزا"
+        },
+        {
+            "Code": "130181",
+            "Name": "Ngorongoro Conservation Area",
+            "NameAr": "نجورونجورو كونسيرفاتيون اريا"
+        },
+        {
+            "Code": "130048",
+            "Name": "Nungwi",
+            "NameAr": "نونجوي"
+        },
+        {
+            "Code": "130865",
+            "Name": "Paje",
+            "NameAr": "باجي"
+        },
+        {
+            "Code": "132668",
+            "Name": "Pangani",
+            "NameAr": "بانجاني"
+        },
+        {
+            "Code": "149956",
+            "Name": "Pemba Island",
+            "NameAr": "بيمبا يسلاند"
+        },
+        {
+            "Code": "132215",
+            "Name": "Pingwe",
+            "NameAr": "بينجوي"
+        },
+        {
+            "Code": "132289",
+            "Name": "Pongwe",
+            "NameAr": "بونجوي"
+        },
+        {
+            "Code": "133644",
+            "Name": "Pwani Mchangani",
+            "NameAr": "بواني مكهانجاني"
+        },
+        {
+            "Code": "135775",
+            "Name": "Ruaha National Park",
+            "NameAr": "رواها ناتيونال بارك"
+        },
+        {
+            "Code": "147580",
+            "Name": "Rubondo Island National Park",
+            "NameAr": "روبوندو يسلاند ناتيونال بارك"
+        },
+        {
+            "Code": "149960",
+            "Name": "Saadani",
+            "NameAr": "سااداني"
+        },
+        {
+            "Code": "147597",
+            "Name": "Saadani-Nationalpark",
+            "NameAr": "سااداني-ناتيونالبارك"
+        },
+        {
+            "Code": "137716",
+            "Name": "Selous Game Reserve",
+            "NameAr": "سيلووس جامي ريسيرفي"
+        },
+        {
+            "Code": "136768",
+            "Name": "Serengeti National Park",
+            "NameAr": "سيرينجيتي ناتيونال بارك"
+        },
+        {
+            "Code": "138487",
+            "Name": "Soni",
+            "NameAr": "سوني"
+        },
+        {
+            "Code": "138924",
+            "Name": "Stone Town",
+            "NameAr": "ستوني توون"
+        },
+        {
+            "Code": "149957",
+            "Name": "Tanga",
+            "NameAr": "تانجا"
+        },
+        {
+            "Code": "139911",
+            "Name": "Tanganjikasee",
+            "NameAr": "تانجانجيكاسيي"
+        },
+        {
+            "Code": "139682",
+            "Name": "Tarangire National Park",
+            "NameAr": "تارانجيري ناتيونال بارك"
+        },
+        {
+            "Code": "205172",
+            "Name": "Unguja",
+            "NameAr": "ونجوجا"
+        },
+        {
+            "Code": "141103",
+            "Name": "Uroa",
+            "NameAr": "وروا"
+        },
+        {
+            "Code": "143346",
+            "Name": "Zanzibar",
+            "NameAr": "زانزيبار"
+        }
+    ],
+    "totalCities": 68
+}

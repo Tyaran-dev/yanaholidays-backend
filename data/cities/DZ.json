@@ -1,0 +1,202 @@
+{
+            "id": "DZ",
+            "countryCode": "DZ",
+            "cities": [
+                {
+                    "Code": "149577",
+                    "Name": "Adrar",
+                    "NameAr": "أدرار"
+                },
+                {
+                    "Code": "303015",
+                    "Name": "Akbou",
+                    "NameAr": "أقبو"
+                },
+                {
+                    "Code": "109517",
+                    "Name": "Algiers",
+                    "NameAr": "الجزائر"
+                },
+                {
+                    "Code": "109579",
+                    "Name": "Annaba",
+                    "NameAr": "عنابة"
+                },
+                {
+                    "Code": "418000",
+                    "Name": "Bab El Oued",
+                    "NameAr": "باب الواد"
+                },
+                {
+                    "Code": "109938",
+                    "Name": "Bab Ezzouar",
+                    "NameAr": "باب الزوار"
+                },
+                {
+                    "Code": "149602",
+                    "Name": "Batna",
+                    "NameAr": "باتنة"
+                },
+                {
+                    "Code": "149604",
+                    "Name": "Bechar",
+                    "NameAr": "بشار"
+                },
+                {
+                    "Code": "144156",
+                    "Name": "Bejaia",
+                    "NameAr": "بجاية"
+                },
+                {
+                    "Code": "149609",
+                    "Name": "Blida",
+                    "NameAr": "البليدة"
+                },
+                {
+                    "Code": "149615",
+                    "Name": "Boumerdes",
+                    "NameAr": "بومرداس"
+                },
+                {
+                    "Code": "149617",
+                    "Name": "Boussaada",
+                    "NameAr": "بوسعيدة"
+                },
+                {
+                    "Code": "149626",
+                    "Name": "Chlef",
+                    "NameAr": "الشلف"
+                },
+                {
+                    "Code": "115277",
+                    "Name": "Constantine",
+                    "NameAr": "قسنطينة"
+                },
+                {
+                    "Code": "149639",
+                    "Name": "Djanet",
+                    "NameAr": "جانت"
+                },
+                {
+                    "Code": "117095",
+                    "Name": "El Oued",
+                    "NameAr": "الوادي"
+                },
+                {
+                    "Code": "250921",
+                    "Name": "Es Senia",
+                    "NameAr": "السنيا"
+                },
+                {
+                    "Code": "119377",
+                    "Name": "Ghardaia",
+                    "NameAr": "غرداية"
+                },
+                {
+                    "Code": "120872",
+                    "Name": "Hassi Messaoud",
+                    "NameAr": "حاسي مسعود"
+                },
+                {
+                    "Code": "149688",
+                    "Name": "Jijel",
+                    "NameAr": "جيجل"
+                },
+                {
+                    "Code": "149733",
+                    "Name": "Mascara",
+                    "NameAr": "معسكر"
+                },
+                {
+                    "Code": "257465",
+                    "Name": "Mostaganem",
+                    "NameAr": "مستغانم"
+                },
+                {
+                    "Code": "154285",
+                    "Name": "Mostaganem Province",
+                    "NameAr": "موستاجانيم بروفينكي"
+                },
+                {
+                    "Code": "130789",
+                    "Name": "Oran",
+                    "NameAr": "وران"
+                },
+                {
+                    "Code": "417020",
+                    "Name": "Ouled Fayet",
+                    "NameAr": "ووليد فاييت"
+                },
+                {
+                    "Code": "149806",
+                    "Name": "Setif",
+                    "NameAr": "سيتيف"
+                },
+                {
+                    "Code": "149811",
+                    "Name": "Sidi Bel Abbes",
+                    "NameAr": "سيدي بيل اببيس"
+                },
+                {
+                    "Code": "149813",
+                    "Name": "Skikda",
+                    "NameAr": "سكيكدا"
+                },
+                {
+                    "Code": "138795",
+                    "Name": "Staoueli",
+                    "NameAr": "ستاوويلي"
+                },
+                {
+                    "Code": "402467",
+                    "Name": "Taghit",
+                    "NameAr": "تاجهيت"
+                },
+                {
+                    "Code": "149822",
+                    "Name": "Tamanrasset",
+                    "NameAr": "تامانراسسيت"
+                },
+                {
+                    "Code": "149831",
+                    "Name": "Tiaret",
+                    "NameAr": "تياريت"
+                },
+                {
+                    "Code": "149833",
+                    "Name": "Timimoun",
+                    "NameAr": "تيميموون"
+                },
+                {
+                    "Code": "149835",
+                    "Name": "Tipasa",
+                    "NameAr": "تيباسا"
+                },
+                {
+                    "Code": "141059",
+                    "Name": "Tizi Oozou",
+                    "NameAr": "تيزي ووزوو"
+                },
+                {
+                    "Code": "154272",
+                    "Name": "Tizi Ouzou",
+                    "NameAr": "تيزي ووزوو"
+                },
+                {
+                    "Code": "141062",
+                    "Name": "Tlemcen",
+                    "NameAr": "تليمكين"
+                },
+                {
+                    "Code": "149837",
+                    "Name": "Touggourt",
+                    "NameAr": "تووججوورت"
+                },
+                {
+                    "Code": "301150",
+                    "Name": "Zeralda",
+                    "NameAr": "زيرالدا"
+                }
+            ],
+            "totalCities": 39
+        }

@@ -1,0 +1,122 @@
+{
+    "id": "ZW",
+    "countryCode": "ZW",
+    "cities": [
+        {
+            "Code": "275046",
+            "Name": "Beatrice",
+            "NameAr": "بياتريكي"
+        },
+        {
+            "Code": "111870",
+            "Name": "Beitbridge",
+            "NameAr": "بييتبريدجي"
+        },
+        {
+            "Code": "112606",
+            "Name": "Bulawayo",
+            "NameAr": "بولاوايو"
+        },
+        {
+            "Code": "150097",
+            "Name": "Chiredzi",
+            "NameAr": "كهيريدزي"
+        },
+        {
+            "Code": "150099",
+            "Name": "Dete",
+            "NameAr": "ديتي"
+        },
+        {
+            "Code": "118740",
+            "Name": "Gonarezhou Nationalpark",
+            "NameAr": "جوناريزهوو ناتيونالبارك"
+        },
+        {
+            "Code": "150092",
+            "Name": "Gweru",
+            "NameAr": "جويرو"
+        },
+        {
+            "Code": "119964",
+            "Name": "Harare",
+            "NameAr": "هاراري"
+        },
+        {
+            "Code": "150596",
+            "Name": "Hwange",
+            "NameAr": "هوانجي"
+        },
+        {
+            "Code": "121975",
+            "Name": "Hwange National Park",
+            "NameAr": "هوانجي ناتيونال بارك"
+        },
+        {
+            "Code": "123474",
+            "Name": "Kadoma",
+            "NameAr": "كادوما"
+        },
+        {
+            "Code": "122269",
+            "Name": "Kariba",
+            "NameAr": "كاريبا"
+        },
+        {
+            "Code": "150094",
+            "Name": "Kotwa",
+            "NameAr": "كوتوا"
+        },
+        {
+            "Code": "146114",
+            "Name": "Lake Mutirikwe / Lake Kyle",
+            "NameAr": "لاكي موتيريكوي لاكي كيلي"
+        },
+        {
+            "Code": "127098",
+            "Name": "Malilangwe Wildlife Reserve",
+            "NameAr": "ماليلانجوي ويلدليفي ريسيرفي"
+        },
+        {
+            "Code": "126898",
+            "Name": "Masvingo",
+            "NameAr": "ماسفينجو"
+        },
+        {
+            "Code": "127530",
+            "Name": "Matobo National Park",
+            "NameAr": "ماتوبو ناتيونال بارك"
+        },
+        {
+            "Code": "150089",
+            "Name": "Matopos",
+            "NameAr": "ماتوبوس"
+        },
+        {
+            "Code": "126905",
+            "Name": "Matusadona-Nationalpark",
+            "NameAr": "ماتوسادونا-ناتيونالبارك"
+        },
+        {
+            "Code": "129717",
+            "Name": "Mutare",
+            "NameAr": "موتاري"
+        },
+        {
+            "Code": "150085",
+            "Name": "Nyanga",
+            "NameAr": "نيانجا"
+        },
+        {
+            "Code": "146933",
+            "Name": "Nyanga-Nationalpark",
+            "NameAr": "نيانجا-ناتيونالبارك"
+        },
+        {
+            "Code": "141497",
+            "Name": "Victoria Falls",
+            "NameAr": "فيكتوريا فاللس"
+        }
+    ],
+    "totalCities": 23
+}

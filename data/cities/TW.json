@@ -1,0 +1,432 @@
+{
+    "id": "TW",
+    "countryCode": "TW",
+    "cities": [
+        {
+            "Code": "106083",
+            "Name": "Alishan",
+            "NameAr": "اليسهان"
+        },
+        {
+            "Code": "144155",
+            "Name": "Beinan",
+            "NameAr": "بيينان"
+        },
+        {
+            "Code": "114939",
+            "Name": "Chang Hua",
+            "NameAr": "كهانج هوا"
+        },
+        {
+            "Code": "105252",
+            "Name": "Checheng",
+            "NameAr": "كهيكهينج"
+        },
+        {
+            "Code": "144667",
+            "Name": "Chiayi",
+            "NameAr": "كهيايي"
+        },
+        {
+            "Code": "101249",
+            "Name": "Dashu",
+            "NameAr": "داسهو"
+        },
+        {
+            "Code": "102305",
+            "Name": "Datong",
+            "NameAr": "داتونج"
+        },
+        {
+            "Code": "104955",
+            "Name": "Donggang",
+            "NameAr": "دونججانج"
+        },
+        {
+            "Code": "401532",
+            "Name": "Donghe",
+            "NameAr": "دونجهي"
+        },
+        {
+            "Code": "150231",
+            "Name": "Dongshan",
+            "NameAr": "دونجسهان"
+        },
+        {
+            "Code": "108202",
+            "Name": "Dongshan Township",
+            "NameAr": "دونجسهان توونسهيب"
+        },
+        {
+            "Code": "105524",
+            "Name": "Fanlu, Chiayi",
+            "NameAr": "فانلو كهيايي"
+        },
+        {
+            "Code": "397532",
+            "Name": "Fenglin",
+            "NameAr": "فينجلين"
+        },
+        {
+            "Code": "102461",
+            "Name": "Fengping Village",
+            "NameAr": "فينجبينج فيللاجي"
+        },
+        {
+            "Code": "102402",
+            "Name": "Fuli",
+            "NameAr": "فولي"
+        },
+        {
+            "Code": "119682",
+            "Name": "Gongliao",
+            "NameAr": "جونجلياو"
+        },
+        {
+            "Code": "121120",
+            "Name": "Guanshan",
+            "NameAr": "جوانسهان"
+        },
+        {
+            "Code": "145589",
+            "Name": "Hengchun",
+            "NameAr": "هينجكهون"
+        },
+        {
+            "Code": "121684",
+            "Name": "Hsin-Tien",
+            "NameAr": "هسين-تيين"
+        },
+        {
+            "Code": "145689",
+            "Name": "Hsinchu",
+            "NameAr": "هسينكهو"
+        },
+        {
+            "Code": "122632",
+            "Name": "Hualien",
+            "NameAr": "هواليين"
+        },
+        {
+            "Code": "389344",
+            "Name": "Huwei",
+            "NameAr": "هوويي"
+        },
+        {
+            "Code": "402142",
+            "Name": "Huxi",
+            "NameAr": "هوكسي"
+        },
+        {
+            "Code": "121713",
+            "Name": "Ilan",
+            "NameAr": "يلان"
+        },
+        {
+            "Code": "102361",
+            "Name": "Jian",
+            "NameAr": "جيان"
+        },
+        {
+            "Code": "121802",
+            "Name": "Jiaoxi",
+            "NameAr": "جياوكسي"
+        },
+        {
+            "Code": "291099",
+            "Name": "Jinning",
+            "NameAr": "جيننينج"
+        },
+        {
+            "Code": "122475",
+            "Name": "Jinshan",
+            "NameAr": "جينسهان"
+        },
+        {
+            "Code": "122258",
+            "Name": "Kaohsiung",
+            "NameAr": "كاوهسيونج"
+        },
+        {
+            "Code": "124197",
+            "Name": "Keelung",
+            "NameAr": "كييلونج"
+        },
+        {
+            "Code": "145920",
+            "Name": "Kenting",
+            "NameAr": "كينتينج"
+        },
+        {
+            "Code": "150292",
+            "Name": "Kinmen",
+            "NameAr": "كينمين"
+        },
+        {
+            "Code": "104603",
+            "Name": "Linbian",
+            "NameAr": "لينبيان"
+        },
+        {
+            "Code": "150289",
+            "Name": "Liuqiu",
+            "NameAr": "ليوقيو"
+        },
+        {
+            "Code": "126184",
+            "Name": "Longtan",
+            "NameAr": "لونجتان"
+        },
+        {
+            "Code": "125622",
+            "Name": "Lotung",
+            "NameAr": "لوتونج"
+        },
+        {
+            "Code": "127322",
+            "Name": "Lugang",
+            "NameAr": "لوجانج"
+        },
+        {
+            "Code": "102666",
+            "Name": "Lugu, Nantou",
+            "NameAr": "لوجو نانتوو"
+        },
+        {
+            "Code": "150191",
+            "Name": "Luodong",
+            "NameAr": "لوودونج"
+        },
+        {
+            "Code": "106464",
+            "Name": "Luye",
+            "NameAr": "لويي"
+        },
+        {
+            "Code": "150274",
+            "Name": "Magong",
+            "NameAr": "ماجونج"
+        },
+        {
+            "Code": "126940",
+            "Name": "Makung",
+            "NameAr": "ماكونج"
+        },
+        {
+            "Code": "102602",
+            "Name": "Manzhou",
+            "NameAr": "مانزهوو"
+        },
+        {
+            "Code": "128258",
+            "Name": "Miaoli",
+            "NameAr": "مياولي"
+        },
+        {
+            "Code": "103844",
+            "Name": "Mudan",
+            "NameAr": "مودان"
+        },
+        {
+            "Code": "130110",
+            "Name": "Nantou",
+            "NameAr": "نانتوو"
+        },
+        {
+            "Code": "103852",
+            "Name": "Nanzhuang",
+            "NameAr": "نانزهوانج"
+        },
+        {
+            "Code": "104374",
+            "Name": "New Taipei City",
+            "NameAr": "نيو تايبيي كيتي"
+        },
+        {
+            "Code": "151242",
+            "Name": "Orchid Island",
+            "NameAr": "وركهيد يسلاند"
+        },
+        {
+            "Code": "131488",
+            "Name": "Penghu",
+            "NameAr": "بينجهو"
+        },
+        {
+            "Code": "132517",
+            "Name": "Pingtung",
+            "NameAr": "بينجتونج"
+        },
+        {
+            "Code": "150259",
+            "Name": "Puli",
+            "NameAr": "بولي"
+        },
+        {
+            "Code": "103462",
+            "Name": "Puli (Nantou)",
+            "NameAr": "بولي نانتوو"
+        },
+        {
+            "Code": "103100",
+            "Name": "Ren-ai",
+            "NameAr": "رين-اي"
+        },
+        {
+            "Code": "102709",
+            "Name": "Ruisui",
+            "NameAr": "رويسوي"
+        },
+        {
+            "Code": "135997",
+            "Name": "Sansia",
+            "NameAr": "سانسيا"
+        },
+        {
+            "Code": "103519",
+            "Name": "Sanyi",
+            "NameAr": "سانيي"
+        },
+        {
+            "Code": "137748",
+            "Name": "Shiou Lin Village",
+            "NameAr": "سهيوو لين فيللاجي"
+        },
+        {
+            "Code": "148895",
+            "Name": "Shoufeng",
+            "NameAr": "سهووفينج"
+        },
+        {
+            "Code": "138436",
+            "Name": "Sitou",
+            "NameAr": "سيتوو"
+        },
+        {
+            "Code": "107153",
+            "Name": "Taibao",
+            "NameAr": "تايباو"
+        },
+        {
+            "Code": "139004",
+            "Name": "Taichung",
+            "NameAr": "تايكهونج"
+        },
+        {
+            "Code": "139181",
+            "Name": "Tainan",
+            "NameAr": "تاينان"
+        },
+        {
+            "Code": "139664",
+            "Name": "Taipei",
+            "NameAr": "تايبيي"
+        },
+        {
+            "Code": "106365",
+            "Name": "Taishan",
+            "NameAr": "تايسهان"
+        },
+        {
+            "Code": "139551",
+            "Name": "Taitung",
+            "NameAr": "تايتونج"
+        },
+        {
+            "Code": "140295",
+            "Name": "Tamsui",
+            "NameAr": "تامسوي"
+        },
+        {
+            "Code": "139021",
+            "Name": "Taoyuan",
+            "NameAr": "تاويوان"
+        },
+        {
+            "Code": "106973",
+            "Name": "Toucheng",
+            "NameAr": "تووكهينج"
+        },
+        {
+            "Code": "107196",
+            "Name": "Tucheng",
+            "NameAr": "توكهينج"
+        },
+        {
+            "Code": "148606",
+            "Name": "Wan Li",
+            "NameAr": "وان لي"
+        },
+        {
+            "Code": "143088",
+            "Name": "Wanli",
+            "NameAr": "وانلي"
+        },
+        {
+            "Code": "142424",
+            "Name": "Wujie",
+            "NameAr": "ووجيي"
+        },
+        {
+            "Code": "107413",
+            "Name": "Xincheng",
+            "NameAr": "كسينكهينج"
+        },
+        {
+            "Code": "101248",
+            "Name": "Yilan",
+            "NameAr": "ييلان"
+        },
+        {
+            "Code": "108698",
+            "Name": "Yuanlin",
+            "NameAr": "يوانلين"
+        },
+        {
+            "Code": "108002",
+            "Name": "Yuanshan",
+            "NameAr": "يوانسهان"
+        },
+        {
+            "Code": "143338",
+            "Name": "Yuchi Township",
+            "NameAr": "يوكهي توونسهيب"
+        },
+        {
+            "Code": "143812",
+            "Name": "Yunlin",
+            "NameAr": "يونلين"
+        },
+        {
+            "Code": "371137",
+            "Name": "Zhonghe",
+            "NameAr": "زهونجهي"
+        },
+        {
+            "Code": "142496",
+            "Name": "Zhongli",
+            "NameAr": "زهونجلي"
+        },
+        {
+            "Code": "107925",
+            "Name": "Zhuangwei",
+            "NameAr": "زهوانجويي"
+        },
+        {
+            "Code": "107561",
+            "Name": "Zhubei",
+            "NameAr": "زهوبيي"
+        },
+        {
+            "Code": "107926",
+            "Name": "Zhuqi",
+            "NameAr": "زهوقي"
+        },
+        {
+            "Code": "107927",
+            "Name": "Zhushan",
+            "NameAr": "زهوسهان"
+        }
+    ],
+    "totalCities": 85
+}

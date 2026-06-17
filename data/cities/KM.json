@@ -1,0 +1,37 @@
+{
+    "id": "KM",
+    "countryCode": "KM",
+    "cities": [
+        {
+            "Code": "106271",
+            "Name": "Dzaoudzi",
+            "NameAr": "دزاوودزي"
+        },
+        {
+            "Code": "118778",
+            "Name": "Grande Comore",
+            "NameAr": "جراندي كوموري"
+        },
+        {
+            "Code": "145878",
+            "Name": "Kani Keli",
+            "NameAr": "كاني كيلي"
+        },
+        {
+            "Code": "126795",
+            "Name": "Mamoudzou",
+            "NameAr": "ماموودزوو"
+        },
+        {
+            "Code": "106492",
+            "Name": "Mayotte",
+            "NameAr": "مايوتتي"
+        },
+        {
+            "Code": "129631",
+            "Name": "Moroni",
+            "NameAr": "موروني"
+        }
+    ],
+    "totalCities": 6
+}

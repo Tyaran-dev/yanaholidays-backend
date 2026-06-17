@@ -1,0 +1,27 @@
+{
+    "id": "GF",
+    "countryCode": "GF",
+    "cities": [
+        {
+            "Code": "114453",
+            "Name": "Cayenne",
+            "NameAr": "كايينني"
+        },
+        {
+            "Code": "124414",
+            "Name": "Kourou",
+            "NameAr": "كووروو"
+        },
+        {
+            "Code": "102611",
+            "Name": "Matoury",
+            "NameAr": "ماتووري"
+        },
+        {
+            "Code": "103334",
+            "Name": "Saint-Laurent-du-Maroni",
+            "NameAr": "ساينت-لاورينت-دو-ماروني"
+        }
+    ],
+    "totalCities": 4
+}

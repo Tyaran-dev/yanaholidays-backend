@@ -1,0 +1,17 @@
+{
+    "id": "LR",
+    "countryCode": "LR",
+    "cities": [
+        {
+            "Code": "205314",
+            "Name": "Harbel",
+            "NameAr": "هاربيل"
+        },
+        {
+            "Code": "128655",
+            "Name": "Monrovia",
+            "NameAr": "مونروفيا"
+        }
+    ],
+    "totalCities": 2
+}

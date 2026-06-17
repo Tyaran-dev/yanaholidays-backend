@@ -1,0 +1,592 @@
+{
+    "id": "SI",
+    "countryCode": "SI",
+    "cities": [
+        {
+            "Code": "296184",
+            "Name": "Škofljica",
+            "NameAr": "كوفلجيكا"
+        },
+        {
+            "Code": "102147",
+            "Name": "Ajdovscina",
+            "NameAr": "اجدوفسكينا"
+        },
+        {
+            "Code": "109577",
+            "Name": "Ankaran",
+            "NameAr": "انكاران"
+        },
+        {
+            "Code": "144279",
+            "Name": "Bled",
+            "NameAr": "بليد"
+        },
+        {
+            "Code": "112652",
+            "Name": "Bohinj",
+            "NameAr": "بوهينج"
+        },
+        {
+            "Code": "112653",
+            "Name": "Bohinjska Bistrica",
+            "NameAr": "بوهينجسكا بيستريكا"
+        },
+        {
+            "Code": "112224",
+            "Name": "Bohinjsko Jezero",
+            "NameAr": "بوهينجسكو جيزيرو"
+        },
+        {
+            "Code": "144337",
+            "Name": "Bovec",
+            "NameAr": "بوفيك"
+        },
+        {
+            "Code": "144357",
+            "Name": "Brda",
+            "NameAr": "بردا"
+        },
+        {
+            "Code": "112369",
+            "Name": "Brezice",
+            "NameAr": "بريزيكي"
+        },
+        {
+            "Code": "275337",
+            "Name": "Brezovica",
+            "NameAr": "بريزوفيكا"
+        },
+        {
+            "Code": "113913",
+            "Name": "Catez",
+            "NameAr": "كاتيز"
+        },
+        {
+            "Code": "114678",
+            "Name": "Celje",
+            "NameAr": "كيلجي"
+        },
+        {
+            "Code": "113587",
+            "Name": "Cerklje na Gorenjskem",
+            "NameAr": "كيركلجي نا جورينجسكيم"
+        },
+        {
+            "Code": "295803",
+            "Name": "Cerknica",
+            "NameAr": "كيركنيكا"
+        },
+        {
+            "Code": "113666",
+            "Name": "Cerkno",
+            "NameAr": "كيركنو"
+        },
+        {
+            "Code": "115149",
+            "Name": "Crni Vrh",
+            "NameAr": "كرني فره"
+        },
+        {
+            "Code": "101860",
+            "Name": "Divaca",
+            "NameAr": "ديفاكا"
+        },
+        {
+            "Code": "116200",
+            "Name": "Dobrna",
+            "NameAr": "دوبرنا"
+        },
+        {
+            "Code": "106261",
+            "Name": "Dobrovo",
+            "NameAr": "دوبروفو"
+        },
+        {
+            "Code": "115729",
+            "Name": "Dolenjske Toplice",
+            "NameAr": "دولينجسكي توبليكي"
+        },
+        {
+            "Code": "116369",
+            "Name": "Domzale",
+            "NameAr": "دومزالي"
+        },
+        {
+            "Code": "120385",
+            "Name": "Gozd Martuljek",
+            "NameAr": "جوزد مارتولجيك"
+        },
+        {
+            "Code": "118761",
+            "Name": "Gradac",
+            "NameAr": "جراداك"
+        },
+        {
+            "Code": "121108",
+            "Name": "Grosuplje",
+            "NameAr": "جروسوبلجي"
+        },
+        {
+            "Code": "120310",
+            "Name": "Hocko Pohorje",
+            "NameAr": "هوككو بوهورجي"
+        },
+        {
+            "Code": "122061",
+            "Name": "Ivanjkovci",
+            "NameAr": "يفانجكوفكي"
+        },
+        {
+            "Code": "122435",
+            "Name": "Izola",
+            "NameAr": "يزولا"
+        },
+        {
+            "Code": "123441",
+            "Name": "Jezersko",
+            "NameAr": "جيزيرسكو"
+        },
+        {
+            "Code": "123494",
+            "Name": "Kamnik",
+            "NameAr": "كامنيك"
+        },
+        {
+            "Code": "123053",
+            "Name": "Kobarid",
+            "NameAr": "كوباريد"
+        },
+        {
+            "Code": "123972",
+            "Name": "Kocevje",
+            "NameAr": "كوكيفجي"
+        },
+        {
+            "Code": "123303",
+            "Name": "Koper",
+            "NameAr": "كوبير"
+        },
+        {
+            "Code": "296606",
+            "Name": "Kostanjevica na Krki",
+            "NameAr": "كوستانجيفيكا نا كركي"
+        },
+        {
+            "Code": "103653",
+            "Name": "Kozina",
+            "NameAr": "كوزينا"
+        },
+        {
+            "Code": "123900",
+            "Name": "Kranj",
+            "NameAr": "كرانج"
+        },
+        {
+            "Code": "124422",
+            "Name": "Kranjska Gora",
+            "NameAr": "كرانجسكا جورا"
+        },
+        {
+            "Code": "146173",
+            "Name": "Lasko",
+            "NameAr": "لاسكو"
+        },
+        {
+            "Code": "124706",
+            "Name": "Laze v Tuhinju",
+            "NameAr": "لازي ف توهينجو"
+        },
+        {
+            "Code": "124862",
+            "Name": "Lendava",
+            "NameAr": "ليندافا"
+        },
+        {
+            "Code": "125981",
+            "Name": "Lesce",
+            "NameAr": "ليسكي"
+        },
+        {
+            "Code": "146302",
+            "Name": "Lipizza",
+            "NameAr": "ليبيززا"
+        },
+        {
+            "Code": "124937",
+            "Name": "Ljubljana",
+            "NameAr": "لجوبلجانا"
+        },
+        {
+            "Code": "103922",
+            "Name": "Ljubno ob Savinji",
+            "NameAr": "لجوبنو وب سافينجي"
+        },
+        {
+            "Code": "104457",
+            "Name": "Ljutomer",
+            "NameAr": "لجوتومير"
+        },
+        {
+            "Code": "125600",
+            "Name": "Log pod Mangartom",
+            "NameAr": "لوج بود مانجارتوم"
+        },
+        {
+            "Code": "126170",
+            "Name": "Logatec",
+            "NameAr": "لوجاتيك"
+        },
+        {
+            "Code": "126941",
+            "Name": "Mala Nedelja",
+            "NameAr": "مالا نيديلجا"
+        },
+        {
+            "Code": "127488",
+            "Name": "Maribor",
+            "NameAr": "ماريبور"
+        },
+        {
+            "Code": "126922",
+            "Name": "Medvode",
+            "NameAr": "ميدفودي"
+        },
+        {
+            "Code": "127597",
+            "Name": "Menges",
+            "NameAr": "مينجيس"
+        },
+        {
+            "Code": "293916",
+            "Name": "Miren-Kostanjevica",
+            "NameAr": "ميرين-كوستانجيفيكا"
+        },
+        {
+            "Code": "416705",
+            "Name": "Mokronog-Trebelno",
+            "NameAr": "موكرونوج-تريبيلنو"
+        },
+        {
+            "Code": "129039",
+            "Name": "Moravske Toplice",
+            "NameAr": "مورافسكي توبليكي"
+        },
+        {
+            "Code": "129013",
+            "Name": "Most na Soci",
+            "NameAr": "موست نا سوكي"
+        },
+        {
+            "Code": "128009",
+            "Name": "Mozirje",
+            "NameAr": "موزيرجي"
+        },
+        {
+            "Code": "129711",
+            "Name": "Murska Sobota / Olsnitz",
+            "NameAr": "مورسكا سوبوتا ولسنيتز"
+        },
+        {
+            "Code": "129782",
+            "Name": "Naklo",
+            "NameAr": "ناكلو"
+        },
+        {
+            "Code": "130536",
+            "Name": "Nova Gorica",
+            "NameAr": "نوفا جوريكا"
+        },
+        {
+            "Code": "129518",
+            "Name": "Novo Mesto",
+            "NameAr": "نوفو ميستو"
+        },
+        {
+            "Code": "131957",
+            "Name": "Osilnica",
+            "NameAr": "وسيلنيكا"
+        },
+        {
+            "Code": "130828",
+            "Name": "Otocec",
+            "NameAr": "وتوكيك"
+        },
+        {
+            "Code": "132220",
+            "Name": "Piran",
+            "NameAr": "بيران"
+        },
+        {
+            "Code": "132329",
+            "Name": "Planica",
+            "NameAr": "بلانيكا"
+        },
+        {
+            "Code": "133205",
+            "Name": "Podcetrtek",
+            "NameAr": "بودكيترتيك"
+        },
+        {
+            "Code": "132360",
+            "Name": "Pohorje",
+            "NameAr": "بوهورجي"
+        },
+        {
+            "Code": "133218",
+            "Name": "Poljane nad Skofjo Loko",
+            "NameAr": "بولجاني ناد سكوفجو لوكو"
+        },
+        {
+            "Code": "133219",
+            "Name": "Poljcane",
+            "NameAr": "بولجكاني"
+        },
+        {
+            "Code": "133273",
+            "Name": "Portoroz",
+            "NameAr": "بورتوروز"
+        },
+        {
+            "Code": "132982",
+            "Name": "Postojna",
+            "NameAr": "بوستوجنا"
+        },
+        {
+            "Code": "132536",
+            "Name": "Prebold",
+            "NameAr": "بريبولد"
+        },
+        {
+            "Code": "133955",
+            "Name": "Preddvor",
+            "NameAr": "بريددفور"
+        },
+        {
+            "Code": "160783",
+            "Name": "Preloge\t",
+            "NameAr": "بريلوجي"
+        },
+        {
+            "Code": "133097",
+            "Name": "Prevalje",
+            "NameAr": "بريفالجي"
+        },
+        {
+            "Code": "133038",
+            "Name": "Ptuj",
+            "NameAr": "بتوج"
+        },
+        {
+            "Code": "417489",
+            "Name": "Radece",
+            "NameAr": "راديكي"
+        },
+        {
+            "Code": "134033",
+            "Name": "Radenci",
+            "NameAr": "رادينكي"
+        },
+        {
+            "Code": "133167",
+            "Name": "Radovljica",
+            "NameAr": "رادوفلجيكا"
+        },
+        {
+            "Code": "102673",
+            "Name": "Rakitna",
+            "NameAr": "راكيتنا"
+        },
+        {
+            "Code": "381596",
+            "Name": "Ratece",
+            "NameAr": "راتيكي"
+        },
+        {
+            "Code": "134713",
+            "Name": "Ravne na Koroskem",
+            "NameAr": "رافني نا كوروسكيم"
+        },
+        {
+            "Code": "296187",
+            "Name": "Ribnica na Pohorju",
+            "NameAr": "ريبنيكا نا بوهورجو"
+        },
+        {
+            "Code": "135115",
+            "Name": "Rimske Toplice",
+            "NameAr": "ريمسكي توبليكي"
+        },
+        {
+            "Code": "133396",
+            "Name": "Rogaska Slatina",
+            "NameAr": "روجاسكا سلاتينا"
+        },
+        {
+            "Code": "136760",
+            "Name": "Sempeter pri Gorici",
+            "NameAr": "سيمبيتير بري جوريكي"
+        },
+        {
+            "Code": "417320",
+            "Name": "Sentilj",
+            "NameAr": "سينتيلج"
+        },
+        {
+            "Code": "108529",
+            "Name": "Sentjanz pri Dravogradu",
+            "NameAr": "سينتجانز بري درافوجرادو"
+        },
+        {
+            "Code": "291240",
+            "Name": "Sevnica",
+            "NameAr": "سيفنيكا"
+        },
+        {
+            "Code": "137378",
+            "Name": "Sezana",
+            "NameAr": "سيزانا"
+        },
+        {
+            "Code": "138450",
+            "Name": "Skofja Loka",
+            "NameAr": "سكوفجا لوكا"
+        },
+        {
+            "Code": "138027",
+            "Name": "Slovenj Gradec",
+            "NameAr": "سلوفينج جراديك"
+        },
+        {
+            "Code": "137640",
+            "Name": "Slovenska Bistrica",
+            "NameAr": "سلوفينسكا بيستريكا"
+        },
+        {
+            "Code": "137641",
+            "Name": "Slovenske Konjice",
+            "NameAr": "سلوفينسكي كونجيكي"
+        },
+        {
+            "Code": "147948",
+            "Name": "Smarjeske Toplice",
+            "NameAr": "سمارجيسكي توبليكي"
+        },
+        {
+            "Code": "137498",
+            "Name": "Smlednik",
+            "NameAr": "سمليدنيك"
+        },
+        {
+            "Code": "137059",
+            "Name": "Soca",
+            "NameAr": "سوكا"
+        },
+        {
+            "Code": "147960",
+            "Name": "Solcava",
+            "NameAr": "سولكافا"
+        },
+        {
+            "Code": "137548",
+            "Name": "Spodnja Idrija",
+            "NameAr": "سبودنجا يدريجا"
+        },
+        {
+            "Code": "139454",
+            "Name": "Srednja vas v Bohinju",
+            "NameAr": "سريدنجا فاس ف بوهينجو"
+        },
+        {
+            "Code": "417478",
+            "Name": "Srpenica",
+            "NameAr": "سربينيكا"
+        },
+        {
+            "Code": "138796",
+            "Name": "Stara Fuzina",
+            "NameAr": "ستارا فوزينا"
+        },
+        {
+            "Code": "138944",
+            "Name": "Strunjan",
+            "NameAr": "سترونجان"
+        },
+        {
+            "Code": "107178",
+            "Name": "Tolmin",
+            "NameAr": "تولمين"
+        },
+        {
+            "Code": "148266",
+            "Name": "Topolsica",
+            "NameAr": "توبولسيكا"
+        },
+        {
+            "Code": "140635",
+            "Name": "Trebelno",
+            "NameAr": "تريبيلنو"
+        },
+        {
+            "Code": "148301",
+            "Name": "Trebnje",
+            "NameAr": "تريبنجي"
+        },
+        {
+            "Code": "107112",
+            "Name": "Trnovo",
+            "NameAr": "ترنوفو"
+        },
+        {
+            "Code": "139823",
+            "Name": "Trojane",
+            "NameAr": "تروجاني"
+        },
+        {
+            "Code": "107205",
+            "Name": "Unterdrauburg",
+            "NameAr": "ونتيردراوبورج"
+        },
+        {
+            "Code": "148453",
+            "Name": "Velenje",
+            "NameAr": "فيلينجي"
+        },
+        {
+            "Code": "142004",
+            "Name": "Verzej",
+            "NameAr": "فيرزيج"
+        },
+        {
+            "Code": "142753",
+            "Name": "Vrhnika",
+            "NameAr": "فرهنيكا"
+        },
+        {
+            "Code": "142930",
+            "Name": "Zalec",
+            "NameAr": "زاليك"
+        },
+        {
+            "Code": "417498",
+            "Name": "Zasavci",
+            "NameAr": "زاسافكي"
+        },
+        {
+            "Code": "143928",
+            "Name": "Zgornja Polskava",
+            "NameAr": "زجورنجا بولسكافا"
+        },
+        {
+            "Code": "143539",
+            "Name": "Zgornje Gorje",
+            "NameAr": "زجورنجي جورجي"
+        },
+        {
+            "Code": "143373",
+            "Name": "Zrece",
+            "NameAr": "زريكي"
+        }
+    ],
+    "totalCities": 117
+}

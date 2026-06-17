@@ -1,0 +1,2397 @@
+{
+    "id": "ID",
+    "countryCode": "ID",
+    "cities": [
+        {
+            "Code": "100110",
+            "Name": "Ababi,   Bali",
+            "NameAr": "ابابي بالي"
+        },
+        {
+            "Code": "151341",
+            "Name": "Amahai,   Maluku",
+            "NameAr": "اماهاي مالوكو"
+        },
+        {
+            "Code": "109435",
+            "Name": "Ambon,   Maluku",
+            "NameAr": "امبون مالوكو"
+        },
+        {
+            "Code": "109315",
+            "Name": "Amed",
+            "NameAr": "اميد"
+        },
+        {
+            "Code": "109319",
+            "Name": "Amlapura,   Bali",
+            "NameAr": "املابورا بالي"
+        },
+        {
+            "Code": "150474",
+            "Name": "Anggi,   Papua",
+            "NameAr": "انججي بابوا"
+        },
+        {
+            "Code": "100918",
+            "Name": "Anyer,   East Java",
+            "NameAr": "انيير ياست جافا"
+        },
+        {
+            "Code": "150407",
+            "Name": "Apalapsili,   Papua",
+            "NameAr": "ابالابسيلي بابوا"
+        },
+        {
+            "Code": "101460",
+            "Name": "Apuan,   Bali",
+            "NameAr": "ابوان بالي"
+        },
+        {
+            "Code": "150695",
+            "Name": "Atambua,   East Nusa Tenggara",
+            "NameAr": "اتامبوا ياست نوسا تينججارا"
+        },
+        {
+            "Code": "150950",
+            "Name": "Babo,   Papua",
+            "NameAr": "بابو بابوا"
+        },
+        {
+            "Code": "150413",
+            "Name": "Bade,   Papua",
+            "NameAr": "بادي بابوا"
+        },
+        {
+            "Code": "150699",
+            "Name": "Bajawa,   East Nusa Tenggara",
+            "NameAr": "باجاوا ياست نوسا تينججارا"
+        },
+        {
+            "Code": "105187",
+            "Name": "Baki,   Central Java",
+            "NameAr": "باكي كينترال جافا"
+        },
+        {
+            "Code": "109729",
+            "Name": "Balangan,   Bali",
+            "NameAr": "بالانجان بالي"
+        },
+        {
+            "Code": "110670",
+            "Name": "Bali,   Bali",
+            "NameAr": "بالي بالي"
+        },
+        {
+            "Code": "273721",
+            "Name": "Balige",
+            "NameAr": "باليجي"
+        },
+        {
+            "Code": "111104",
+            "Name": "Balikpapan,   East Kalimantan",
+            "NameAr": "باليكبابان ياست كاليمانتان"
+        },
+        {
+            "Code": "151421",
+            "Name": "Banaina,   North Kalimantan",
+            "NameAr": "باناينا نورته كاليمانتان"
+        },
+        {
+            "Code": "110411",
+            "Name": "Banda Aceh,   Aceh",
+            "NameAr": "باندا اكيه اكيه"
+        },
+        {
+            "Code": "150700",
+            "Name": "Bandanaira",
+            "NameAr": "باندانايرا"
+        },
+        {
+            "Code": "110985",
+            "Name": "Bandar Lampung,   lampung",
+            "NameAr": "باندار لامبونج لامبونج"
+        },
+        {
+            "Code": "110774",
+            "Name": "Bandung,   West Java",
+            "NameAr": "باندونج ويست جافا"
+        },
+        {
+            "Code": "110852",
+            "Name": "Bandungan",
+            "NameAr": "باندونجان"
+        },
+        {
+            "Code": "153685",
+            "Name": "Bangka Belitung Islands,   Sumatera Selatan",
+            "NameAr": "بانجكا بيليتونج يسلاندس سوماتيرا سيلاتان"
+        },
+        {
+            "Code": "110988",
+            "Name": "Bangka Island,   Bangka Belitung",
+            "NameAr": "بانجكا يسلاند بانجكا بيليتونج"
+        },
+        {
+            "Code": "102196",
+            "Name": "Banjarbaru,   South Kalimantan",
+            "NameAr": "بانجاربارو سووته كاليمانتان"
+        },
+        {
+            "Code": "144094",
+            "Name": "Banjarmasin,   South Kalimantan",
+            "NameAr": "بانجارماسين سووته كاليمانتان"
+        },
+        {
+            "Code": "150298",
+            "Name": "Banjarnegara,   Central Java",
+            "NameAr": "بانجارنيجارا كينترال جافا"
+        },
+        {
+            "Code": "153668",
+            "Name": "Banten",
+            "NameAr": "بانتين"
+        },
+        {
+            "Code": "411208",
+            "Name": "Banyumas",
+            "NameAr": "بانيوماس"
+        },
+        {
+            "Code": "144097",
+            "Name": "Banyuwangi,   East Java",
+            "NameAr": "بانيووانجي ياست جافا"
+        },
+        {
+            "Code": "110423",
+            "Name": "Banyuwedang,   Bali",
+            "NameAr": "بانيوويدانج بالي"
+        },
+        {
+            "Code": "398556",
+            "Name": "Batam",
+            "NameAr": "باتام"
+        },
+        {
+            "Code": "110531",
+            "Name": "Batam Island,   Batam",
+            "NameAr": "باتام يسلاند باتام"
+        },
+        {
+            "Code": "111168",
+            "Name": "Batu,   East Java",
+            "NameAr": "باتو ياست جافا"
+        },
+        {
+            "Code": "110451",
+            "Name": "Batu Aji,   Riau",
+            "NameAr": "باتو اجي رياو"
+        },
+        {
+            "Code": "110537",
+            "Name": "Batu Gosok,   East Nusa Tenggara",
+            "NameAr": "باتو جوسوك ياست نوسا تينججارا"
+        },
+        {
+            "Code": "101500",
+            "Name": "Batu Karas,   West Java",
+            "NameAr": "باتو كاراس ويست جافا"
+        },
+        {
+            "Code": "110813",
+            "Name": "Batu Layar,   West Nusa Tenggara",
+            "NameAr": "باتو لايار ويست نوسا تينججارا"
+        },
+        {
+            "Code": "111169",
+            "Name": "Batuan,   Bali",
+            "NameAr": "باتوان بالي"
+        },
+        {
+            "Code": "111170",
+            "Name": "Batubelig,   Bali",
+            "NameAr": "باتوبيليج بالي"
+        },
+        {
+            "Code": "101301",
+            "Name": "Batulicin,   South Kalimantan",
+            "NameAr": "باتوليكين سووته كاليمانتان"
+        },
+        {
+            "Code": "111401",
+            "Name": "Baturaden,   Central Java",
+            "NameAr": "باتورادين كينترال جافا"
+        },
+        {
+            "Code": "110538",
+            "Name": "Baturiti,   Bali",
+            "NameAr": "باتوريتي بالي"
+        },
+        {
+            "Code": "295349",
+            "Name": "Batusangkar",
+            "NameAr": "باتوسانجكار"
+        },
+        {
+            "Code": "101302",
+            "Name": "Bau-Bau",
+            "NameAr": "باو-باو"
+        },
+        {
+            "Code": "111624",
+            "Name": "Bedugul,   Bali",
+            "NameAr": "بيدوجول بالي"
+        },
+        {
+            "Code": "111423",
+            "Name": "Bekasi,   Jakarta",
+            "NameAr": "بيكاسي جاكارتا"
+        },
+        {
+            "Code": "308370",
+            "Name": "Belitung Island",
+            "NameAr": "بيليتونج يسلاند"
+        },
+        {
+            "Code": "111897",
+            "Name": "Bengkulu,   Bengkulu",
+            "NameAr": "بينجكولو بينجكولو"
+        },
+        {
+            "Code": "110506",
+            "Name": "Benoa-Beach,   Bali",
+            "NameAr": "بينوا-بياكه بالي"
+        },
+        {
+            "Code": "112095",
+            "Name": "Berastagi,   North Sumatra",
+            "NameAr": "بيراستاجي نورته سوماترا"
+        },
+        {
+            "Code": "150301",
+            "Name": "Berau,   East Kalimantan",
+            "NameAr": "بيراو ياست كاليمانتان"
+        },
+        {
+            "Code": "111487",
+            "Name": "Biak,   Papua",
+            "NameAr": "بياك بابوا"
+        },
+        {
+            "Code": "111506",
+            "Name": "Bima,   West Nusa Tenggara",
+            "NameAr": "بيما ويست نوسا تينججارا"
+        },
+        {
+            "Code": "228529",
+            "Name": "Bintan",
+            "NameAr": "بينتان"
+        },
+        {
+            "Code": "112185",
+            "Name": "Bintan Island,   Riau",
+            "NameAr": "بينتان يسلاند رياو"
+        },
+        {
+            "Code": "112621",
+            "Name": "Bira,   South Sulawesi",
+            "NameAr": "بيرا سووته سولاويسي"
+        },
+        {
+            "Code": "121073",
+            "Name": "Birie Island,   West Papua",
+            "NameAr": "بيريي يسلاند ويست بابوا"
+        },
+        {
+            "Code": "111221",
+            "Name": "Bitung,   North Sulawesi",
+            "NameAr": "بيتونج نورته سولاويسي"
+        },
+        {
+            "Code": "160866",
+            "Name": "Blahbatuh,   Bali",
+            "NameAr": "بلاهباتوه بالي"
+        },
+        {
+            "Code": "111235",
+            "Name": "Blitar,   East Java",
+            "NameAr": "بليتار ياست جافا"
+        },
+        {
+            "Code": "112437",
+            "Name": "Bogor,   West Java",
+            "NameAr": "بوجور ويست جافا"
+        },
+        {
+            "Code": "111252",
+            "Name": "Bohorok,   North Sumatra",
+            "NameAr": "بوهوروك نورته سوماترا"
+        },
+        {
+            "Code": "144300",
+            "Name": "Bojonegoro,   East Java",
+            "NameAr": "بوجونيجورو ياست جافا"
+        },
+        {
+            "Code": "151066",
+            "Name": "Bokondini,   Papua",
+            "NameAr": "بوكونديني بابوا"
+        },
+        {
+            "Code": "111266",
+            "Name": "Bondalem,   Bali",
+            "NameAr": "بونداليم بالي"
+        },
+        {
+            "Code": "112232",
+            "Name": "Bondowoso,   East Java",
+            "NameAr": "بوندوووسو ياست جافا"
+        },
+        {
+            "Code": "111376",
+            "Name": "Bontang,   East Kalimantan",
+            "NameAr": "بونتانج ياست كاليمانتان"
+        },
+        {
+            "Code": "111385",
+            "Name": "Borobudur,   Special Region of Yogyakarta",
+            "NameAr": "بوروبودور سبيكيال ريجيون وف يوجياكارتا"
+        },
+        {
+            "Code": "112688",
+            "Name": "Botik Island,   West Sumatra",
+            "NameAr": "بوتيك يسلاند ويست سوماترا"
+        },
+        {
+            "Code": "105313",
+            "Name": "Boyolali,   Central Java",
+            "NameAr": "بويولالي كينترال جافا"
+        },
+        {
+            "Code": "112158",
+            "Name": "Buitan,   Bali",
+            "NameAr": "بويتان بالي"
+        },
+        {
+            "Code": "112997",
+            "Name": "Bukit Lawang,   North Sumatra",
+            "NameAr": "بوكيت لاوانج نورته سوماترا"
+        },
+        {
+            "Code": "113077",
+            "Name": "Bukittinggi,   West Sumatra",
+            "NameAr": "بوكيتتينججي ويست سوماترا"
+        },
+        {
+            "Code": "104879",
+            "Name": "Bumi Serpong Damai,   Banten",
+            "NameAr": "بومي سيربونج داماي بانتين"
+        },
+        {
+            "Code": "112059",
+            "Name": "Bunaken Isand,   North Sulawesi",
+            "NameAr": "بوناكين يساند نورته سولاويسي"
+        },
+        {
+            "Code": "105220",
+            "Name": "Bunutan,   Bali",
+            "NameAr": "بونوتان بالي"
+        },
+        {
+            "Code": "150564",
+            "Name": "Buol,   Central Sulawesi",
+            "NameAr": "بوول كينترال سولاويسي"
+        },
+        {
+            "Code": "112895",
+            "Name": "Candi Dasa",
+            "NameAr": "كاندي داسا"
+        },
+        {
+            "Code": "112822",
+            "Name": "Canggu,   Bali",
+            "NameAr": "كانججو بالي"
+        },
+        {
+            "Code": "113373",
+            "Name": "Carita Beach,   Banten",
+            "NameAr": "كاريتا بياكه بانتين"
+        },
+        {
+            "Code": "114581",
+            "Name": "Ceningan Island,   Bali",
+            "NameAr": "كينينجان يسلاند بالي"
+        },
+        {
+            "Code": "144602",
+            "Name": "Cepu,   Central Java",
+            "NameAr": "كيبو كينترال جافا"
+        },
+        {
+            "Code": "144605",
+            "Name": "Ceru,   Central Java",
+            "NameAr": "كيرو كينترال جافا"
+        },
+        {
+            "Code": "115776",
+            "Name": "Ciamis,   West Java",
+            "NameAr": "كياميس ويست جافا"
+        },
+        {
+            "Code": "115330",
+            "Name": "Cianjur,   West Java",
+            "NameAr": "كيانجور ويست جافا"
+        },
+        {
+            "Code": "114284",
+            "Name": "Ciater,   West Java",
+            "NameAr": "كياتير ويست جافا"
+        },
+        {
+            "Code": "114558",
+            "Name": "Cikarang,   Jakarta",
+            "NameAr": "كيكارانج جاكارتا"
+        },
+        {
+            "Code": "144694",
+            "Name": "Cilacap,   Central Java",
+            "NameAr": "كيلاكاب كينترال جافا"
+        },
+        {
+            "Code": "114560",
+            "Name": "Cilegon,   Banten",
+            "NameAr": "كيليجون بانتين"
+        },
+        {
+            "Code": "114832",
+            "Name": "Cipanas,   West Java",
+            "NameAr": "كيباناس ويست جافا"
+        },
+        {
+            "Code": "114833",
+            "Name": "Cirebon,   West Java",
+            "NameAr": "كيريبون ويست جافا"
+        },
+        {
+            "Code": "106293",
+            "Name": "Cisarua,   West Java",
+            "NameAr": "كيساروا ويست جافا"
+        },
+        {
+            "Code": "105764",
+            "Name": "Curugrendeng,   West Java",
+            "NameAr": "كوروجريندينج ويست جافا"
+        },
+        {
+            "Code": "101847",
+            "Name": "Dalung,   Bali",
+            "NameAr": "دالونج بالي"
+        },
+        {
+            "Code": "150727",
+            "Name": "Datadawai,   East Kalimantan",
+            "NameAr": "داتاداواي ياست كاليمانتان"
+        },
+        {
+            "Code": "106252",
+            "Name": "Demak,   Central Java",
+            "NameAr": "ديماك كينترال جافا"
+        },
+        {
+            "Code": "116287",
+            "Name": "Denpasar,   Bali",
+            "NameAr": "دينباسار بالي"
+        },
+        {
+            "Code": "117344",
+            "Name": "Depok,   Special Region of Yogyakarta",
+            "NameAr": "ديبوك سبيكيال ريجيون وف يوجياكارتا"
+        },
+        {
+            "Code": "108189",
+            "Name": "Desa Peken,   Bali",
+            "NameAr": "ديسا بيكين بالي"
+        },
+        {
+            "Code": "105778",
+            "Name": "Desa Sebatu,   Bali",
+            "NameAr": "ديسا سيباتو بالي"
+        },
+        {
+            "Code": "417863",
+            "Name": "Dolok Sanggul",
+            "NameAr": "دولوك سانججول"
+        },
+        {
+            "Code": "117429",
+            "Name": "Dumai,   Riau",
+            "NameAr": "دوماي رياو"
+        },
+        {
+            "Code": "116948",
+            "Name": "Duri,   Riau",
+            "NameAr": "دوري رياو"
+        },
+        {
+            "Code": "150508",
+            "Name": "Enarotali,   Papua",
+            "NameAr": "يناروتالي بابوا"
+        },
+        {
+            "Code": "150585",
+            "Name": "Ende,   East Nusa Tenggara",
+            "NameAr": "يندي ياست نوسا تينججارا"
+        },
+        {
+            "Code": "118176",
+            "Name": "Flores,   East Nusa Tenggara",
+            "NameAr": "فلوريس ياست نوسا تينججارا"
+        },
+        {
+            "Code": "106093",
+            "Name": "Gajahan,   Central Java",
+            "NameAr": "جاجاهان كينترال جافا"
+        },
+        {
+            "Code": "118555",
+            "Name": "Gangga Island,   North Sulawesi",
+            "NameAr": "جانججا يسلاند نورته سولاويسي"
+        },
+        {
+            "Code": "118003",
+            "Name": "Garut,   West Java",
+            "NameAr": "جاروت ويست جافا"
+        },
+        {
+            "Code": "150998",
+            "Name": "Gebe,   North Maluku",
+            "NameAr": "جيبي نورته مالوكو"
+        },
+        {
+            "Code": "284679",
+            "Name": "Genteng",
+            "NameAr": "جينتينج"
+        },
+        {
+            "Code": "119381",
+            "Name": "Gianyar",
+            "NameAr": "جيانيار"
+        },
+        {
+            "Code": "119387",
+            "Name": "Gili Air,   West Nusa Tenggara",
+            "NameAr": "جيلي اير ويست نوسا تينججارا"
+        },
+        {
+            "Code": "392532",
+            "Name": "Gili Gede",
+            "NameAr": "جيلي جيدي"
+        },
+        {
+            "Code": "119272",
+            "Name": "Gili Meno,   West Nusa Tenggara",
+            "NameAr": "جيلي مينو ويست نوسا تينججارا"
+        },
+        {
+            "Code": "105911",
+            "Name": "Gili Sudak,   West Nusa Tenggara",
+            "NameAr": "جيلي سوداك ويست نوسا تينججارا"
+        },
+        {
+            "Code": "118984",
+            "Name": "Gili Trawangan,   West Nusa Tenggara",
+            "NameAr": "جيلي تراوانجان ويست نوسا تينججارا"
+        },
+        {
+            "Code": "119688",
+            "Name": "Gorontalo,   North Sulawesi",
+            "NameAr": "جورونتالو نورته سولاويسي"
+        },
+        {
+            "Code": "406249",
+            "Name": "Gresik",
+            "NameAr": "جريسيك"
+        },
+        {
+            "Code": "153680",
+            "Name": "Grogol",
+            "NameAr": "جروجول"
+        },
+        {
+            "Code": "411215",
+            "Name": "Gunung Kidul",
+            "NameAr": "جونونج كيدول"
+        },
+        {
+            "Code": "120592",
+            "Name": "Halmahera,   North Maluku",
+            "NameAr": "هالماهيرا نورته مالوكو"
+        },
+        {
+            "Code": "122098",
+            "Name": "Ijen Nationalpark,   East Java",
+            "NameAr": "يجين ناتيونالبارك ياست جافا"
+        },
+        {
+            "Code": "150867",
+            "Name": "Illaga,   Papua",
+            "NameAr": "يللاجا بابوا"
+        },
+        {
+            "Code": "150530",
+            "Name": "Ilu,   Papua",
+            "NameAr": "يلو بابوا"
+        },
+        {
+            "Code": "150531",
+            "Name": "Inanwatan,   Papua",
+            "NameAr": "ينانواتان بابوا"
+        },
+        {
+            "Code": "121465",
+            "Name": "Indramayu,   West Java",
+            "NameAr": "يندرامايو ويست جافا"
+        },
+        {
+            "Code": "122069",
+            "Name": "Jakarta,   Jakarta",
+            "NameAr": "جاكارتا جاكارتا"
+        },
+        {
+            "Code": "122071",
+            "Name": "Jambi,   Jambi",
+            "NameAr": "جامبي جامبي"
+        },
+        {
+            "Code": "102355",
+            "Name": "Jatingaleh,   Central Java",
+            "NameAr": "جاتينجاليه كينترال جافا"
+        },
+        {
+            "Code": "101362",
+            "Name": "Java,   Java",
+            "NameAr": "جافا جافا"
+        },
+        {
+            "Code": "122337",
+            "Name": "Jayapura,   Papua",
+            "NameAr": "جايابورا بابوا"
+        },
+        {
+            "Code": "123435",
+            "Name": "Jember,   East Java",
+            "NameAr": "جيمبير ياست جافا"
+        },
+        {
+            "Code": "122462",
+            "Name": "Jepara,   Central Java",
+            "NameAr": "جيبارا كينترال جافا"
+        },
+        {
+            "Code": "123442",
+            "Name": "Jimbaran",
+            "NameAr": "جيمباران"
+        },
+        {
+            "Code": "105886",
+            "Name": "Jombang,   East Java",
+            "NameAr": "جومبانج ياست جافا"
+        },
+        {
+            "Code": "151391",
+            "Name": "Kaimana,   Papua",
+            "NameAr": "كايمانا بابوا"
+        },
+        {
+            "Code": "122241",
+            "Name": "Kalianda,   lampung",
+            "NameAr": "كالياندا لامبونج"
+        },
+        {
+            "Code": "122812",
+            "Name": "Kalibaru,   Jawa Timur",
+            "NameAr": "كاليبارو جاوا تيمور"
+        },
+        {
+            "Code": "150601",
+            "Name": "Kambuaya,   Papua",
+            "NameAr": "كامبوايا بابوا"
+        },
+        {
+            "Code": "123080",
+            "Name": "Kanawa Island,   East Nusa Tenggara",
+            "NameAr": "كاناوا يسلاند ياست نوسا تينججارا"
+        },
+        {
+            "Code": "104099",
+            "Name": "Karang Suraga,   Banten",
+            "NameAr": "كارانج سوراجا بانتين"
+        },
+        {
+            "Code": "122835",
+            "Name": "Karangasem,   Bali",
+            "NameAr": "كارانجاسيم بالي"
+        },
+        {
+            "Code": "123207",
+            "Name": "Karawang,   West Java",
+            "NameAr": "كاراوانج ويست جافا"
+        },
+        {
+            "Code": "122840",
+            "Name": "Karimun Island,   Riau",
+            "NameAr": "كاريمون يسلاند رياو"
+        },
+        {
+            "Code": "108359",
+            "Name": "Karimunjawa,   Central Java",
+            "NameAr": "كاريمونجاوا كينترال جافا"
+        },
+        {
+            "Code": "380742",
+            "Name": "Karo",
+            "NameAr": "كارو"
+        },
+        {
+            "Code": "151470",
+            "Name": "Karubaga,   Papua",
+            "NameAr": "كاروباجا بابوا"
+        },
+        {
+            "Code": "151124",
+            "Name": "Kau,   North Maluku",
+            "NameAr": "كاو نورته مالوكو"
+        },
+        {
+            "Code": "124193",
+            "Name": "Kayu Putih,   East Jakarta",
+            "NameAr": "كايو بوتيه ياست جاكارتا"
+        },
+        {
+            "Code": "150878",
+            "Name": "Kebar,   Papua",
+            "NameAr": "كيبار بابوا"
+        },
+        {
+            "Code": "411207",
+            "Name": "Kebumen",
+            "NameAr": "كيبومين"
+        },
+        {
+            "Code": "123121",
+            "Name": "Kediri,   East Java",
+            "NameAr": "كيديري ياست جافا"
+        },
+        {
+            "Code": "108366",
+            "Name": "Kedisan,   Bali",
+            "NameAr": "كيديسان بالي"
+        },
+        {
+            "Code": "122549",
+            "Name": "Kedonganan,   Bali",
+            "NameAr": "كيدونجانان بالي"
+        },
+        {
+            "Code": "150614",
+            "Name": "Keisah,   Papua",
+            "NameAr": "كييساه بابوا"
+        },
+        {
+            "Code": "151472",
+            "Name": "Kelila,   Papua",
+            "NameAr": "كيليلا بابوا"
+        },
+        {
+            "Code": "123536",
+            "Name": "Kendari,   Southeast Sulawesi",
+            "NameAr": "كينداري سووتهياست سولاويسي"
+        },
+        {
+            "Code": "102544",
+            "Name": "Kenten,   South Sumatera",
+            "NameAr": "كينتين سووته سوماتيرا"
+        },
+        {
+            "Code": "123540",
+            "Name": "Kerambitan,   Bali",
+            "NameAr": "كيرامبيتان بالي"
+        },
+        {
+            "Code": "123141",
+            "Name": "Kerobokan",
+            "NameAr": "كيروبوكان"
+        },
+        {
+            "Code": "124223",
+            "Name": "Ketapang,   West Sulawesi",
+            "NameAr": "كيتابانج ويست سولاويسي"
+        },
+        {
+            "Code": "150881",
+            "Name": "Kimam,   Papua",
+            "NameAr": "كيمام بابوا"
+        },
+        {
+            "Code": "123175",
+            "Name": "Kintamani,   Bali",
+            "NameAr": "كينتاماني بالي"
+        },
+        {
+            "Code": "104112",
+            "Name": "Klabala,   West Papua",
+            "NameAr": "كلابالا ويست بابوا"
+        },
+        {
+            "Code": "339613",
+            "Name": "Klaten",
+            "NameAr": "كلاتين"
+        },
+        {
+            "Code": "103650",
+            "Name": "Kopo,   West Java",
+            "NameAr": "كوبو ويست جافا"
+        },
+        {
+            "Code": "124287",
+            "Name": "Kota Rembang,   Central Java",
+            "NameAr": "كوتا ريمبانج كينترال جافا"
+        },
+        {
+            "Code": "150616",
+            "Name": "Kotabangun,   East Kalimantan",
+            "NameAr": "كوتابانجون ياست كاليمانتان"
+        },
+        {
+            "Code": "151201",
+            "Name": "Kotabaru,   Special Region of Yogyakarta",
+            "NameAr": "كوتابارو سبيكيال ريجيون وف يوجياكارتا"
+        },
+        {
+            "Code": "221383",
+            "Name": "Kotamobagu",
+            "NameAr": "كوتاموباجو"
+        },
+        {
+            "Code": "123340",
+            "Name": "Kubu,   Bali",
+            "NameAr": "كوبو بالي"
+        },
+        {
+            "Code": "124998",
+            "Name": "Kudus,   Central Java",
+            "NameAr": "كودوس كينترال جافا"
+        },
+        {
+            "Code": "124316",
+            "Name": "Kumai,   Central Kalimantan",
+            "NameAr": "كوماي كينترال كاليمانتان"
+        },
+        {
+            "Code": "124318",
+            "Name": "Kuningan,   West Java",
+            "NameAr": "كونينجان ويست جافا"
+        },
+        {
+            "Code": "125007",
+            "Name": "Kupang,   East Nusa Tenggara",
+            "NameAr": "كوبانج ياست نوسا تينججارا"
+        },
+        {
+            "Code": "123919",
+            "Name": "Kuta,   West Nusa Tenggara",
+            "NameAr": "كوتا ويست نوسا تينججارا"
+        },
+        {
+            "Code": "125016",
+            "Name": "Kuta,   Bali",
+            "NameAr": "كوتا بالي"
+        },
+        {
+            "Code": "125017",
+            "Name": "Kutacane,   Aceh",
+            "NameAr": "كوتاكاني اكيه"
+        },
+        {
+            "Code": "125733",
+            "Name": "Labuan Bajo,   East Nusa Tenggara",
+            "NameAr": "لابوان باجو ياست نوسا تينججارا"
+        },
+        {
+            "Code": "150612",
+            "Name": "Labuha,   North Maluku",
+            "NameAr": "لابوها نورته مالوكو"
+        },
+        {
+            "Code": "351379",
+            "Name": "Labuhan Pandan",
+            "NameAr": "لابوهان باندان"
+        },
+        {
+            "Code": "391125",
+            "Name": "Lahat",
+            "NameAr": "لاهات"
+        },
+        {
+            "Code": "124645",
+            "Name": "Lake Toba,   North Sumatra",
+            "NameAr": "لاكي توبا نورته سوماترا"
+        },
+        {
+            "Code": "103746",
+            "Name": "Lalang Linggah,   Bali",
+            "NameAr": "لالانج لينججاه بالي"
+        },
+        {
+            "Code": "303375",
+            "Name": "Lamongan",
+            "NameAr": "لامونجان"
+        },
+        {
+            "Code": "150886",
+            "Name": "Langgur,   Maluku",
+            "NameAr": "لانججور مالوكو"
+        },
+        {
+            "Code": "125212",
+            "Name": "Langsa,   Aceh",
+            "NameAr": "لانجسا اكيه"
+        },
+        {
+            "Code": "151206",
+            "Name": "Larantuka,   East Nusa Tenggara",
+            "NameAr": "لارانتوكا ياست نوسا تينججارا"
+        },
+        {
+            "Code": "126498",
+            "Name": "Legian,   Bali",
+            "NameAr": "ليجيان بالي"
+        },
+        {
+            "Code": "334897",
+            "Name": "Legian Beach",
+            "NameAr": "ليجيان بياكه"
+        },
+        {
+            "Code": "103682",
+            "Name": "Legian Kaja,   Bali",
+            "NameAr": "ليجيان كاجا بالي"
+        },
+        {
+            "Code": "125954",
+            "Name": "Lembang,   West Java",
+            "NameAr": "ليمبانج ويست جافا"
+        },
+        {
+            "Code": "146227",
+            "Name": "Lembongan Island,   Bali",
+            "NameAr": "ليمبونجان يسلاند بالي"
+        },
+        {
+            "Code": "151135",
+            "Name": "Lereh,   Papua",
+            "NameAr": "ليريه بابوا"
+        },
+        {
+            "Code": "151137",
+            "Name": "Lewoleba,   East Nusa Tenggara",
+            "NameAr": "ليووليبا ياست نوسا تينججارا"
+        },
+        {
+            "Code": "125834",
+            "Name": "Lhoksuemawe,   Aceh",
+            "NameAr": "لهوكسويماوي اكيه"
+        },
+        {
+            "Code": "126269",
+            "Name": "Lingsar,   West Nusa Tenggara",
+            "NameAr": "لينجسار ويست نوسا تينججارا"
+        },
+        {
+            "Code": "101178",
+            "Name": "Lombok,   West Nusa Tenggara",
+            "NameAr": "لومبوك ويست نوسا تينججارا"
+        },
+        {
+            "Code": "125632",
+            "Name": "Lovina Beach,   Bali",
+            "NameAr": "لوفينا بياكه بالي"
+        },
+        {
+            "Code": "126056",
+            "Name": "Lubuk Linggau,   South Sumatera",
+            "NameAr": "لوبوك لينججاو سووته سوماتيرا"
+        },
+        {
+            "Code": "102587",
+            "Name": "Lumajang,   East Java",
+            "NameAr": "لوماجانج ياست جافا"
+        },
+        {
+            "Code": "150629",
+            "Name": "Lunyuk,   West Nusa Tenggara",
+            "NameAr": "لونيوك ويست نوسا تينججارا"
+        },
+        {
+            "Code": "151276",
+            "Name": "Luwuk,   Central Sulawesi",
+            "NameAr": "لوووك كينترال سولاويسي"
+        },
+        {
+            "Code": "126105",
+            "Name": "Madiun,   East Java",
+            "NameAr": "ماديون ياست جافا"
+        },
+        {
+            "Code": "146422",
+            "Name": "Magelang,   Central Java",
+            "NameAr": "ماجيلانج كينترال جافا"
+        },
+        {
+            "Code": "394807",
+            "Name": "Majalengka",
+            "NameAr": "ماجالينجكا"
+        },
+        {
+            "Code": "126937",
+            "Name": "Makassar,   South Sulawesi",
+            "NameAr": "ماكاسسار سووته سولاويسي"
+        },
+        {
+            "Code": "126781",
+            "Name": "Malang,   East Java",
+            "NameAr": "مالانج ياست جافا"
+        },
+        {
+            "Code": "153654",
+            "Name": "Maluku",
+            "NameAr": "مالوكو"
+        },
+        {
+            "Code": "151144",
+            "Name": "Mamuju,   West Sulawesi",
+            "NameAr": "ماموجو ويست سولاويسي"
+        },
+        {
+            "Code": "126960",
+            "Name": "Manado,   North Sulawesi",
+            "NameAr": "مانادو نورته سولاويسي"
+        },
+        {
+            "Code": "104752",
+            "Name": "Manggul,   South Sumatera",
+            "NameAr": "مانججول سووته سوماتيرا"
+        },
+        {
+            "Code": "151628",
+            "Name": "Mangole,   North Maluku",
+            "NameAr": "مانجولي نورته مالوكو"
+        },
+        {
+            "Code": "126153",
+            "Name": "Maninjau,   West Sumatra",
+            "NameAr": "مانينجاو ويست سوماترا"
+        },
+        {
+            "Code": "126399",
+            "Name": "Manokwari,   Papua",
+            "NameAr": "مانوكواري بابوا"
+        },
+        {
+            "Code": "126812",
+            "Name": "Mansuar,   West Papua",
+            "NameAr": "مانسوار ويست بابوا"
+        },
+        {
+            "Code": "102608",
+            "Name": "Martapura,   South Kalimantan",
+            "NameAr": "مارتابورا سووته كاليمانتان"
+        },
+        {
+            "Code": "150782",
+            "Name": "Masamba,   South Sulawesi",
+            "NameAr": "ماسامبا سووته سولاويسي"
+        },
+        {
+            "Code": "127855",
+            "Name": "Mataram,   West Nusa Tenggara",
+            "NameAr": "ماتارام ويست نوسا تينججارا"
+        },
+        {
+            "Code": "127539",
+            "Name": "Maumere,   East Nusa Tenggara",
+            "NameAr": "ماوميري ياست نوسا تينججارا"
+        },
+        {
+            "Code": "128177",
+            "Name": "Medan,   North Sumatra",
+            "NameAr": "ميدان نورته سوماترا"
+        },
+        {
+            "Code": "128141",
+            "Name": "Medana Beach,   Bali",
+            "NameAr": "ميدانا بياكه بالي"
+        },
+        {
+            "Code": "127575",
+            "Name": "Mendire",
+            "NameAr": "مينديري"
+        },
+        {
+            "Code": "127905",
+            "Name": "Mengwi,   Bali",
+            "NameAr": "مينجوي بالي"
+        },
+        {
+            "Code": "146592",
+            "Name": "Menjangan,   Bali",
+            "NameAr": "مينجانجان بالي"
+        },
+        {
+            "Code": "127727",
+            "Name": "Mentawai Islands,   West Sumatra",
+            "NameAr": "مينتاواي يسلاندس ويست سوماترا"
+        },
+        {
+            "Code": "127169",
+            "Name": "Merauke,   South Papua",
+            "NameAr": "ميراوكي سووته بابوا"
+        },
+        {
+            "Code": "151221",
+            "Name": "Merdey,   Papua",
+            "NameAr": "ميرديي بابوا"
+        },
+        {
+            "Code": "299297",
+            "Name": "Metro",
+            "NameAr": "ميترو"
+        },
+        {
+            "Code": "401233",
+            "Name": "Mimika",
+            "NameAr": "ميميكا"
+        },
+        {
+            "Code": "151633",
+            "Name": "Moanamani,   Papua",
+            "NameAr": "مواناماني بابوا"
+        },
+        {
+            "Code": "127700",
+            "Name": "Mojokerto,   East Java",
+            "NameAr": "موجوكيرتو ياست جافا"
+        },
+        {
+            "Code": "106517",
+            "Name": "Moni-Woloara,   East Nusa Tenggara",
+            "NameAr": "موني-وولوارا ياست نوسا تينججارا"
+        },
+        {
+            "Code": "151227",
+            "Name": "Morotai Island,   North Maluku",
+            "NameAr": "موروتاي يسلاند نورته مالوكو"
+        },
+        {
+            "Code": "129075",
+            "Name": "Moyo Island,   West Nusa Tenggara",
+            "NameAr": "مويو يسلاند ويست نوسا تينججارا"
+        },
+        {
+            "Code": "129682",
+            "Name": "Mt. Bromo,   East Java",
+            "NameAr": "مت برومو ياست جافا"
+        },
+        {
+            "Code": "129076",
+            "Name": "Muara Bungo,   Jambi",
+            "NameAr": "موارا بونجو جامبي"
+        },
+        {
+            "Code": "102845",
+            "Name": "Muara Enim,   South Sumatera",
+            "NameAr": "موارا ينيم سووته سوماتيرا"
+        },
+        {
+            "Code": "128468",
+            "Name": "Munduk",
+            "NameAr": "موندوك"
+        },
+        {
+            "Code": "151638",
+            "Name": "Muting,   Papua",
+            "NameAr": "موتينج بابوا"
+        },
+        {
+            "Code": "150645",
+            "Name": "Nabire,   Papua",
+            "NameAr": "نابيري بابوا"
+        },
+        {
+            "Code": "129121",
+            "Name": "Nabucco Island,   North Sulawesi",
+            "NameAr": "نابوككو يسلاند نورته سولاويسي"
+        },
+        {
+            "Code": "129149",
+            "Name": "Nagoya,   Riau",
+            "NameAr": "ناجويا رياو"
+        },
+        {
+            "Code": "151539",
+            "Name": "Naha,   North Sulawesi",
+            "NameAr": "ناها نورته سولاويسي"
+        },
+        {
+            "Code": "151541",
+            "Name": "Namlea,   Maluku",
+            "NameAr": "نامليا مالوكو"
+        },
+        {
+            "Code": "151288",
+            "Name": "Namrole,   Maluku",
+            "NameAr": "نامرولي مالوكو"
+        },
+        {
+            "Code": "129740",
+            "Name": "Natar,   lampung",
+            "NameAr": "ناتار لامبونج"
+        },
+        {
+            "Code": "129799",
+            "Name": "Natuna Islands,   Riau",
+            "NameAr": "ناتونا يسلاندس رياو"
+        },
+        {
+            "Code": "130180",
+            "Name": "Ngadisari,   East Java",
+            "NameAr": "نجاديساري ياست جافا"
+        },
+        {
+            "Code": "129454",
+            "Name": "Nias Island,   North Sumatra",
+            "NameAr": "نياس يسلاند نورته سوماترا"
+        },
+        {
+            "Code": "130004",
+            "Name": "Nikoi Island,   Riau",
+            "NameAr": "نيكوي يسلاند رياو"
+        },
+        {
+            "Code": "150653",
+            "Name": "Numfoor,   Papua",
+            "NameAr": "نومفوور بابوا"
+        },
+        {
+            "Code": "150914",
+            "Name": "Nunukan,   North Kalimantan",
+            "NameAr": "نونوكان نورته كاليمانتان"
+        },
+        {
+            "Code": "129531",
+            "Name": "Nusa Dua,   Bali",
+            "NameAr": "نوسا دوا بالي"
+        },
+        {
+            "Code": "122127",
+            "Name": "Nusa Penida,   Bali",
+            "NameAr": "نوسا بينيدا بالي"
+        },
+        {
+            "Code": "151546",
+            "Name": "Obano,   Papua",
+            "NameAr": "وبانو بابوا"
+        },
+        {
+            "Code": "150656",
+            "Name": "Okaba,   Papua",
+            "NameAr": "وكابا بابوا"
+        },
+        {
+            "Code": "150657",
+            "Name": "Oksibil,   Papua",
+            "NameAr": "وكسيبيل بابوا"
+        },
+        {
+            "Code": "147057",
+            "Name": "Pacet,   West Java",
+            "NameAr": "باكيت ويست جافا"
+        },
+        {
+            "Code": "291112",
+            "Name": "Paciran",
+            "NameAr": "باكيران"
+        },
+        {
+            "Code": "130307",
+            "Name": "Pacung,   Bali",
+            "NameAr": "باكونج بالي"
+        },
+        {
+            "Code": "130851",
+            "Name": "Padang,   West Sumatra",
+            "NameAr": "بادانج ويست سوماترا"
+        },
+        {
+            "Code": "130308",
+            "Name": "Padang Bai,   Bali",
+            "NameAr": "بادانج باي بالي"
+        },
+        {
+            "Code": "103055",
+            "Name": "Padang Padang Beach",
+            "NameAr": "بادانج بادانج بياكه"
+        },
+        {
+            "Code": "130309",
+            "Name": "Padang Sidempuan,   North Sumatra",
+            "NameAr": "بادانج سيديمبوان نورته سوماترا"
+        },
+        {
+            "Code": "130742",
+            "Name": "Padangbai,   Bali",
+            "NameAr": "بادانجباي بالي"
+        },
+        {
+            "Code": "132027",
+            "Name": "Palangkaraya,   Central Kalimantan",
+            "NameAr": "بالانجكارايا كينترال كاليمانتان"
+        },
+        {
+            "Code": "130319",
+            "Name": "Palasari,   Bali",
+            "NameAr": "بالاساري بالي"
+        },
+        {
+            "Code": "132650",
+            "Name": "Palembang,   South Sumatera",
+            "NameAr": "باليمبانج سووته سوماتيرا"
+        },
+        {
+            "Code": "132040",
+            "Name": "Palu,   Central Sulawesi",
+            "NameAr": "بالو كينترال سولاويسي"
+        },
+        {
+            "Code": "239584",
+            "Name": "Pamekasan",
+            "NameAr": "باميكاسان"
+        },
+        {
+            "Code": "131395",
+            "Name": "Pandeglang,   Banten",
+            "NameAr": "بانديجلانج بانتين"
+        },
+        {
+            "Code": "147084",
+            "Name": "Pangandaran,   West Java",
+            "NameAr": "بانجانداران ويست جافا"
+        },
+        {
+            "Code": "131003",
+            "Name": "Pangkal Pinang,   Bangka Belitung Island",
+            "NameAr": "بانجكال بينانج بانجكا بيليتونج يسلاند"
+        },
+        {
+            "Code": "147086",
+            "Name": "Pangkalan Bun,   Central Kalimantan",
+            "NameAr": "بانجكالان بون كينترال كاليمانتان"
+        },
+        {
+            "Code": "130879",
+            "Name": "Pangururan,   North Sumatra",
+            "NameAr": "بانجوروران نورته سوماترا"
+        },
+        {
+            "Code": "132045",
+            "Name": "Pantar,   East Nusa Tenggara",
+            "NameAr": "بانتار ياست نوسا تينججارا"
+        },
+        {
+            "Code": "131551",
+            "Name": "Parapat,   North Sumatra",
+            "NameAr": "بارابات نورته سوماترا"
+        },
+        {
+            "Code": "150178",
+            "Name": "Parepare,   South Sulawesi",
+            "NameAr": "باريباري سووته سولاويسي"
+        },
+        {
+            "Code": "147113",
+            "Name": "Pasuruan,   East Java",
+            "NameAr": "باسوروان ياست جافا"
+        },
+        {
+            "Code": "106588",
+            "Name": "Pati,   Central Java",
+            "NameAr": "باتي كينترال جافا"
+        },
+        {
+            "Code": "131574",
+            "Name": "Payangan,   Bali",
+            "NameAr": "بايانجان بالي"
+        },
+        {
+            "Code": "132077",
+            "Name": "Pecatu,   Bali",
+            "NameAr": "بيكاتو بالي"
+        },
+        {
+            "Code": "132440",
+            "Name": "Pekalongan,   Central Java",
+            "NameAr": "بيكالونجان كينترال جافا"
+        },
+        {
+            "Code": "102731",
+            "Name": "Pekambingan,   Bali",
+            "NameAr": "بيكامبينجان بالي"
+        },
+        {
+            "Code": "132109",
+            "Name": "Pekanbaru,   Riau",
+            "NameAr": "بيكانبارو رياو"
+        },
+        {
+            "Code": "147138",
+            "Name": "Pelabuhan Ratu,   West Java",
+            "NameAr": "بيلابوهان راتو ويست جافا"
+        },
+        {
+            "Code": "132715",
+            "Name": "Pelaga,   Bali",
+            "NameAr": "بيلاجا بالي"
+        },
+        {
+            "Code": "103266",
+            "Name": "Peliatan,   Bali",
+            "NameAr": "بيلياتان بالي"
+        },
+        {
+            "Code": "104847",
+            "Name": "Pemalang,   Central Java",
+            "NameAr": "بيمالانج كينترال جافا"
+        },
+        {
+            "Code": "131589",
+            "Name": "Pematang Siantar,   North Sumatra",
+            "NameAr": "بيماتانج سيانتار نورته سوماترا"
+        },
+        {
+            "Code": "131485",
+            "Name": "Pemuteran,   Bali",
+            "NameAr": "بيموتيران بالي"
+        },
+        {
+            "Code": "104848",
+            "Name": "Penebel,   Bali",
+            "NameAr": "بينيبيل بالي"
+        },
+        {
+            "Code": "106596",
+            "Name": "Penuktukan,   Bali",
+            "NameAr": "بينوكتوكان بالي"
+        },
+        {
+            "Code": "103269",
+            "Name": "Pererenan,   South Sulawesi",
+            "NameAr": "بيريرينان سووته سولاويسي"
+        },
+        {
+            "Code": "147168",
+            "Name": "Petjatu,   Bali",
+            "NameAr": "بيتجاتو بالي"
+        },
+        {
+            "Code": "147272",
+            "Name": "Ponorogo,   East Java",
+            "NameAr": "بونوروجو ياست جافا"
+        },
+        {
+            "Code": "131821",
+            "Name": "Pontianak,   West Kalimantan",
+            "NameAr": "بونتياناك ويست كاليمانتان"
+        },
+        {
+            "Code": "151566",
+            "Name": "Poso,   Central Sulawesi",
+            "NameAr": "بوسو كينترال سولاويسي"
+        },
+        {
+            "Code": "132949",
+            "Name": "Prabumulih,   South Sumatera",
+            "NameAr": "برابوموليه سووته سوماتيرا"
+        },
+        {
+            "Code": "108406",
+            "Name": "Praya,   West Nusa Tenggara",
+            "NameAr": "برايا ويست نوسا تينججارا"
+        },
+        {
+            "Code": "147365",
+            "Name": "Prigen,   East Java",
+            "NameAr": "بريجين ياست جافا"
+        },
+        {
+            "Code": "133106",
+            "Name": "Probolinggo,   East Java",
+            "NameAr": "بروبولينججو ياست جافا"
+        },
+        {
+            "Code": "417045",
+            "Name": "Pulau Bawah",
+            "NameAr": "بولاو باواه"
+        },
+        {
+            "Code": "133992",
+            "Name": "Pulau Cubadak,   West Sumatra",
+            "NameAr": "بولاو كوباداك ويست سوماترا"
+        },
+        {
+            "Code": "132579",
+            "Name": "Pulau Derawan,   East Kalimantan",
+            "NameAr": "بولاو ديراوان ياست كاليمانتان"
+        },
+        {
+            "Code": "132581",
+            "Name": "Pulau Menyawakan,   Central Java",
+            "NameAr": "بولاو مينياواكان كينترال جافا"
+        },
+        {
+            "Code": "417272",
+            "Name": "Pulau Unauna",
+            "NameAr": "بولاو وناونا"
+        },
+        {
+            "Code": "133627",
+            "Name": "Pulau Weh,   Banda Aceh",
+            "NameAr": "بولاو ويه باندا اكيه"
+        },
+        {
+            "Code": "133132",
+            "Name": "Puncak,   West Java",
+            "NameAr": "بونكاك ويست جافا"
+        },
+        {
+            "Code": "147409",
+            "Name": "Pupuan,   Bali",
+            "NameAr": "بوبوان بالي"
+        },
+        {
+            "Code": "134175",
+            "Name": "Purwakarta,   West Java",
+            "NameAr": "بورواكارتا ويست جافا"
+        },
+        {
+            "Code": "134366",
+            "Name": "Purwodadi,   Central Java",
+            "NameAr": "بوروودادي كينترال جافا"
+        },
+        {
+            "Code": "134367",
+            "Name": "Purwokerto,   Central Java",
+            "NameAr": "بورووكيرتو كينترال جافا"
+        },
+        {
+            "Code": "133071",
+            "Name": "Putri Nyale,   West Nusa Tenggara",
+            "NameAr": "بوتري نيالي ويست نوسا تينججارا"
+        },
+        {
+            "Code": "151570",
+            "Name": "Putussibau,   West Kalimantan",
+            "NameAr": "بوتوسسيباو ويست كاليمانتان"
+        },
+        {
+            "Code": "151318",
+            "Name": "Raha,   Southeast Sulawesi",
+            "NameAr": "راها سووتهياست سولاويسي"
+        },
+        {
+            "Code": "133173",
+            "Name": "Raja Ampat,   West Papua",
+            "NameAr": "راجا امبات ويست بابوا"
+        },
+        {
+            "Code": "245299",
+            "Name": "Ranai",
+            "NameAr": "راناي"
+        },
+        {
+            "Code": "151253",
+            "Name": "Ransiki,   Papua",
+            "NameAr": "رانسيكي بابوا"
+        },
+        {
+            "Code": "103097",
+            "Name": "Rantau Prapat,   North Sumatra",
+            "NameAr": "رانتاو برابات نورته سوماترا"
+        },
+        {
+            "Code": "133840",
+            "Name": "Rantepao,   South Sulawesi",
+            "NameAr": "رانتيباو سووته سولاويسي"
+        },
+        {
+            "Code": "417848",
+            "Name": "Rejang Lebong",
+            "NameAr": "ريجانج ليبونج"
+        },
+        {
+            "Code": "133327",
+            "Name": "Rendang,   Bali",
+            "NameAr": "ريندانج بالي"
+        },
+        {
+            "Code": "150931",
+            "Name": "Rokot,   West Sumatra",
+            "NameAr": "روكوت ويست سوماترا"
+        },
+        {
+            "Code": "150934",
+            "Name": "Roti,   East Nusa Tenggara",
+            "NameAr": "روتي ياست نوسا تينججارا"
+        },
+        {
+            "Code": "135148",
+            "Name": "Ruteng,   East Nusa Tenggara",
+            "NameAr": "روتينج ياست نوسا تينججارا"
+        },
+        {
+            "Code": "134112",
+            "Name": "Saba,   Bali",
+            "NameAr": "سابا بالي"
+        },
+        {
+            "Code": "151177",
+            "Name": "Sabang,   Aceh",
+            "NameAr": "سابانج اكيه"
+        },
+        {
+            "Code": "134122",
+            "Name": "Sahaung island,   North Sulawesi",
+            "NameAr": "ساهاونج يسلاند نورته سولاويسي"
+        },
+        {
+            "Code": "135851",
+            "Name": "Salatiga,   Central Java",
+            "NameAr": "سالاتيجا كينترال جافا"
+        },
+        {
+            "Code": "136458",
+            "Name": "Samarinda,   East Kalimantan",
+            "NameAr": "ساماريندا ياست كاليمانتان"
+        },
+        {
+            "Code": "135704",
+            "Name": "Sambirenteng,   Bali",
+            "NameAr": "سامبيرينتينج بالي"
+        },
+        {
+            "Code": "135928",
+            "Name": "Samboja,   East Kalimantan",
+            "NameAr": "سامبوجا ياست كاليمانتان"
+        },
+        {
+            "Code": "160076",
+            "Name": "Samosir",
+            "NameAr": "ساموسير"
+        },
+        {
+            "Code": "136461",
+            "Name": "Samosir Island,   North Sumatra",
+            "NameAr": "ساموسير يسلاند نورته سوماترا"
+        },
+        {
+            "Code": "108476",
+            "Name": "Sampang,   East Java",
+            "NameAr": "سامبانج ياست جافا"
+        },
+        {
+            "Code": "150937",
+            "Name": "Sampit,   Central Kalimantan",
+            "NameAr": "سامبيت كينترال كاليمانتان"
+        },
+        {
+            "Code": "150833",
+            "Name": "Sanana,   North Maluku",
+            "NameAr": "سانانا نورته مالوكو"
+        },
+        {
+            "Code": "136765",
+            "Name": "Sangatta,   East Kalimantan",
+            "NameAr": "سانجاتتا ياست كاليمانتان"
+        },
+        {
+            "Code": "151661",
+            "Name": "Sangir,   Papua",
+            "NameAr": "سانجير بابوا"
+        },
+        {
+            "Code": "417234",
+            "Name": "Sangkulirang",
+            "NameAr": "سانجكوليرانج"
+        },
+        {
+            "Code": "136084",
+            "Name": "Sanur,   Bali",
+            "NameAr": "سانور بالي"
+        },
+        {
+            "Code": "136397",
+            "Name": "Saparua,   West Nusa Tenggara",
+            "NameAr": "ساباروا ويست نوسا تينججارا"
+        },
+        {
+            "Code": "136875",
+            "Name": "Sarangan,   Central Java",
+            "NameAr": "سارانجان كينترال جافا"
+        },
+        {
+            "Code": "151182",
+            "Name": "Sarmi,   Papua",
+            "NameAr": "سارمي بابوا"
+        },
+        {
+            "Code": "103567",
+            "Name": "Sawahlunto,   West Sumatra",
+            "NameAr": "ساواهلونتو ويست سوماترا"
+        },
+        {
+            "Code": "151183",
+            "Name": "Sawu,   East Nusa Tenggara",
+            "NameAr": "ساوو ياست نوسا تينججارا"
+        },
+        {
+            "Code": "136744",
+            "Name": "Sebayur Island,   East Nusa Tenggara",
+            "NameAr": "سيبايور يسلاند ياست نوسا تينججارا"
+        },
+        {
+            "Code": "409695",
+            "Name": "Sekotong Beach",
+            "NameAr": "سيكوتونج بياكه"
+        },
+        {
+            "Code": "136988",
+            "Name": "Sekupang,   Riau Islands",
+            "NameAr": "سيكوبانج رياو يسلاندس"
+        },
+        {
+            "Code": "339040",
+            "Name": "Selat",
+            "NameAr": "سيلات"
+        },
+        {
+            "Code": "136754",
+            "Name": "Selayar,   South Sulawesi",
+            "NameAr": "سيلايار سووته سولاويسي"
+        },
+        {
+            "Code": "383767",
+            "Name": "Selong Belanak",
+            "NameAr": "سيلونج بيلاناك"
+        },
+        {
+            "Code": "147848",
+            "Name": "Semarang,   Central Java",
+            "NameAr": "سيمارانج كينترال جافا"
+        },
+        {
+            "Code": "137001",
+            "Name": "Seminyak,   Bali",
+            "NameAr": "سيمينياك بالي"
+        },
+        {
+            "Code": "106793",
+            "Name": "Sendang,   East Java",
+            "NameAr": "سيندانج ياست جافا"
+        },
+        {
+            "Code": "136266",
+            "Name": "Senggigi Beach,   West Nusa Tenggara",
+            "NameAr": "سينججيجي بياكه ويست نوسا تينججارا"
+        },
+        {
+            "Code": "137281",
+            "Name": "Sentul City,   West Java",
+            "NameAr": "سينتول كيتي ويست جافا"
+        },
+        {
+            "Code": "137971",
+            "Name": "Serang,   Banten",
+            "NameAr": "سيرانج بانتين"
+        },
+        {
+            "Code": "136272",
+            "Name": "Seraya Kecil Island,   East Nusa Tenggara",
+            "NameAr": "سيرايا كيكيل يسلاند ياست نوسا تينججارا"
+        },
+        {
+            "Code": "108530",
+            "Name": "Seririt,   Bali",
+            "NameAr": "سيريريت بالي"
+        },
+        {
+            "Code": "150836",
+            "Name": "Serui,   Papua",
+            "NameAr": "سيروي بابوا"
+        },
+        {
+            "Code": "137587",
+            "Name": "Sibolga,   North Sumatra",
+            "NameAr": "سيبولجا نورته سوماترا"
+        },
+        {
+            "Code": "137589",
+            "Name": "Sidemen,   Bali",
+            "NameAr": "سيديمين بالي"
+        },
+        {
+            "Code": "103589",
+            "Name": "Sidoarjo,   East Java",
+            "NameAr": "سيدوارجو ياست جافا"
+        },
+        {
+            "Code": "137417",
+            "Name": "Sikuai Island,   Papua",
+            "NameAr": "سيكواي يسلاند بابوا"
+        },
+        {
+            "Code": "137598",
+            "Name": "Siladen Island,   North Sulawesi",
+            "NameAr": "سيلادين يسلاند نورته سولاويسي"
+        },
+        {
+            "Code": "106647",
+            "Name": "Singakerta,   Bali",
+            "NameAr": "سينجاكيرتا بالي"
+        },
+        {
+            "Code": "138424",
+            "Name": "Singaraja,   West Java",
+            "NameAr": "سينجاراجا ويست جافا"
+        },
+        {
+            "Code": "137472",
+            "Name": "Singkawang,   West Kalimantan",
+            "NameAr": "سينجكاوانج ويست كاليمانتان"
+        },
+        {
+            "Code": "151013",
+            "Name": "Singkep,   Riau Islands",
+            "NameAr": "سينجكيب رياو يسلاندس"
+        },
+        {
+            "Code": "417851",
+            "Name": "Sintang",
+            "NameAr": "سينتانج"
+        },
+        {
+            "Code": "147925",
+            "Name": "Sipirok,   North Sumatra",
+            "NameAr": "سيبيروك نورته سوماترا"
+        },
+        {
+            "Code": "107227",
+            "Name": "Situbondo,   East Java",
+            "NameAr": "سيتوبوندو ياست جافا"
+        },
+        {
+            "Code": "107234",
+            "Name": "Sleman,   Special Region of Yogyakarta",
+            "NameAr": "سليمان سبيكيال ريجيون وف يوجياكارتا"
+        },
+        {
+            "Code": "158056",
+            "Name": "Solo,   Central Java",
+            "NameAr": "سولو كينترال جافا"
+        },
+        {
+            "Code": "137507",
+            "Name": "Solo Baru,   Central Java",
+            "NameAr": "سولو بارو كينترال جافا"
+        },
+        {
+            "Code": "342067",
+            "Name": "Soreang",
+            "NameAr": "سوريانج"
+        },
+        {
+            "Code": "151016",
+            "Name": "Soroako,   South Sulawesi",
+            "NameAr": "سورواكو سووته سولاويسي"
+        },
+        {
+            "Code": "138326",
+            "Name": "Sorong,   Papua",
+            "NameAr": "سورونج بابوا"
+        },
+        {
+            "Code": "409917",
+            "Name": "South Jakarta",
+            "NameAr": "سووته جاكارتا"
+        },
+        {
+            "Code": "394912",
+            "Name": "South Tangerang",
+            "NameAr": "سووته تانجيرانج"
+        },
+        {
+            "Code": "411214",
+            "Name": "Sragen",
+            "NameAr": "سراجين"
+        },
+        {
+            "Code": "148091",
+            "Name": "Subang,   West Java",
+            "NameAr": "سوبانج ويست جافا"
+        },
+        {
+            "Code": "148098",
+            "Name": "Sukabumi,   West Java",
+            "NameAr": "سوكابومي ويست جافا"
+        },
+        {
+            "Code": "107141",
+            "Name": "Sukamakmur,   West Java",
+            "NameAr": "سوكاماكمور ويست جافا"
+        },
+        {
+            "Code": "106805",
+            "Name": "Sukawati,   Bali",
+            "NameAr": "سوكاواتي بالي"
+        },
+        {
+            "Code": "108578",
+            "Name": "Sukoharjo,   Central Java",
+            "NameAr": "سوكوهارجو كينترال جافا"
+        },
+        {
+            "Code": "138964",
+            "Name": "Sumba Island,   East Nusa Tenggara",
+            "NameAr": "سومبا يسلاند ياست نوسا تينججارا"
+        },
+        {
+            "Code": "151698",
+            "Name": "Sumbawa,   West Nusa Tenggara",
+            "NameAr": "سومباوا ويست نوسا تينججارا"
+        },
+        {
+            "Code": "139144",
+            "Name": "Sumbawa Besar,   West Nusa Tenggara",
+            "NameAr": "سومباوا بيسار ويست نوسا تينججارا"
+        },
+        {
+            "Code": "417852",
+            "Name": "Sumedang",
+            "NameAr": "سوميدانج"
+        },
+        {
+            "Code": "107752",
+            "Name": "Sumenep,   East Java",
+            "NameAr": "سومينيب ياست جافا"
+        },
+        {
+            "Code": "294063",
+            "Name": "Sungai Liat",
+            "NameAr": "سونجاي ليات"
+        },
+        {
+            "Code": "151512",
+            "Name": "Surabaya,   East Java",
+            "NameAr": "سورابايا ياست جافا"
+        },
+        {
+            "Code": "137874",
+            "Name": "Surakarta (Solo),   Central Java",
+            "NameAr": "سوراكارتا سولو كينترال جافا"
+        },
+        {
+            "Code": "139545",
+            "Name": "Tabanan,   Bali",
+            "NameAr": "تابانان بالي"
+        },
+        {
+            "Code": "223027",
+            "Name": "Takengon",
+            "NameAr": "تاكينجون"
+        },
+        {
+            "Code": "151515",
+            "Name": "Tambolaka,   East dua Utara",
+            "NameAr": "تامبولاكا ياست دوا وتارا"
+        },
+        {
+            "Code": "366439",
+            "Name": "Tampaksiring",
+            "NameAr": "تامباكسيرينج"
+        },
+        {
+            "Code": "107159",
+            "Name": "Tana Paser,   East Kalimantan",
+            "NameAr": "تانا باسير ياست كاليمانتان"
+        },
+        {
+            "Code": "151483",
+            "Name": "Tana Toraja",
+            "NameAr": "تانا توراجا"
+        },
+        {
+            "Code": "139679",
+            "Name": "Tanah Lot,   Bali",
+            "NameAr": "تاناه لوت بالي"
+        },
+        {
+            "Code": "229278",
+            "Name": "Tanah Lot Beach,   Bali",
+            "NameAr": "تاناه لوت بياكه بالي"
+        },
+        {
+            "Code": "148147",
+            "Name": "Tanawangko,   North Sulawesi",
+            "NameAr": "تاناوانجكو نورته سولاويسي"
+        },
+        {
+            "Code": "139913",
+            "Name": "Tangerang,   Jakarta",
+            "NameAr": "تانجيرانج جاكارتا"
+        },
+        {
+            "Code": "139559",
+            "Name": "Tanjung,   West Nusa Tenggara",
+            "NameAr": "تانجونج ويست نوسا تينججارا"
+        },
+        {
+            "Code": "108589",
+            "Name": "Tanjung Balai,   North Sumatra",
+            "NameAr": "تانجونج بالاي نورته سوماترا"
+        },
+        {
+            "Code": "139680",
+            "Name": "Tanjung Benoa",
+            "NameAr": "تانجونج بينوا"
+        },
+        {
+            "Code": "417864",
+            "Name": "Tanjung Morawa",
+            "NameAr": "تانجونج موراوا"
+        },
+        {
+            "Code": "139195",
+            "Name": "Tanjung Pandan,   Bangka Belitung Island",
+            "NameAr": "تانجونج باندان بانجكا بيليتونج يسلاند"
+        },
+        {
+            "Code": "139196",
+            "Name": "Tanjung Pinang,   Riau Islands",
+            "NameAr": "تانجونج بينانج رياو يسلاندس"
+        },
+        {
+            "Code": "139915",
+            "Name": "Tanjung Ringgit,   West Nusa Tenggara",
+            "NameAr": "تانجونج رينججيت ويست نوسا تينججارا"
+        },
+        {
+            "Code": "151517",
+            "Name": "Tanjung Selor,   North Kalimantan",
+            "NameAr": "تانجونج سيلور نورته كاليمانتان"
+        },
+        {
+            "Code": "139916",
+            "Name": "Tanjung Tabalong,   Central Kalimantan",
+            "NameAr": "تانجونج تابالونج كينترال كاليمانتان"
+        },
+        {
+            "Code": "139018",
+            "Name": "Tanjung Tinggi,   Bangka Belitung",
+            "NameAr": "تانجونج تينججي بانجكا بيليتونج"
+        },
+        {
+            "Code": "107765",
+            "Name": "Tanjungpandan,   Bangka Belitung",
+            "NameAr": "تانجونجباندان بانجكا بيليتونج"
+        },
+        {
+            "Code": "138581",
+            "Name": "Tarakan,   North Kalimantan",
+            "NameAr": "تاراكان نورته كاليمانتان"
+        },
+        {
+            "Code": "148161",
+            "Name": "Tasikmalaya,   West Java",
+            "NameAr": "تاسيكمالايا ويست جافا"
+        },
+        {
+            "Code": "139700",
+            "Name": "Tawangmangu,   Central Java",
+            "NameAr": "تاوانجمانجو كينترال جافا"
+        },
+        {
+            "Code": "139704",
+            "Name": "Tegal,   Central Java",
+            "NameAr": "تيجال كينترال جافا"
+        },
+        {
+            "Code": "139991",
+            "Name": "Tegallalang,   Bali",
+            "NameAr": "تيجاللالانج بالي"
+        },
+        {
+            "Code": "139043",
+            "Name": "Tejakula,   Bali",
+            "NameAr": "تيجاكولا بالي"
+        },
+        {
+            "Code": "107298",
+            "Name": "Teluk Bakau,   Riau",
+            "NameAr": "تيلوك باكاو رياو"
+        },
+        {
+            "Code": "396166",
+            "Name": "Temanggung",
+            "NameAr": "تيمانججونج"
+        },
+        {
+            "Code": "151595",
+            "Name": "Tembagapura,   Papua",
+            "NameAr": "تيمباجابورا بابوا"
+        },
+        {
+            "Code": "139943",
+            "Name": "Tembilahan,   Riau",
+            "NameAr": "تيمبيلاهان رياو"
+        },
+        {
+            "Code": "139051",
+            "Name": "Tembok,   Bali",
+            "NameAr": "تيمبوك بالي"
+        },
+        {
+            "Code": "139711",
+            "Name": "Temega",
+            "NameAr": "تيميجا"
+        },
+        {
+            "Code": "151486",
+            "Name": "Teminabuan,   Papua",
+            "NameAr": "تيمينابوان بابوا"
+        },
+        {
+            "Code": "370710",
+            "Name": "Temon",
+            "NameAr": "تيمون"
+        },
+        {
+            "Code": "148185",
+            "Name": "Temukus,   Bali",
+            "NameAr": "تيموكوس بالي"
+        },
+        {
+            "Code": "108601",
+            "Name": "Tenggarong,   East Kalimantan",
+            "NameAr": "تينججارونج ياست كاليمانتان"
+        },
+        {
+            "Code": "148188",
+            "Name": "Tentana,   Central Sulawesi",
+            "NameAr": "تينتانا كينترال سولاويسي"
+        },
+        {
+            "Code": "151596",
+            "Name": "Ternate,   North Maluku",
+            "NameAr": "تيرناتي نورته مالوكو"
+        },
+        {
+            "Code": "139951",
+            "Name": "Ternate Island,   North Maluku",
+            "NameAr": "تيرناتي يسلاند نورته مالوكو"
+        },
+        {
+            "Code": "140015",
+            "Name": "Tetebatu,   West Nusa Tenggara",
+            "NameAr": "تيتيباتو ويست نوسا تينججارا"
+        },
+        {
+            "Code": "108605",
+            "Name": "The Hok,   Jambi",
+            "NameAr": "تهي هوك جامبي"
+        },
+        {
+            "Code": "141048",
+            "Name": "Timika,   Papua",
+            "NameAr": "تيميكا بابوا"
+        },
+        {
+            "Code": "150849",
+            "Name": "Tiom,   Papua",
+            "NameAr": "تيوم بابوا"
+        },
+        {
+            "Code": "139769",
+            "Name": "Togian Islands,   Central Sulawesi",
+            "NameAr": "توجيان يسلاندس كينترال سولاويسي"
+        },
+        {
+            "Code": "151600",
+            "Name": "Tolitoli,   Central Sulawesi",
+            "NameAr": "توليتولي كينترال سولاويسي"
+        },
+        {
+            "Code": "141071",
+            "Name": "Tomohon,   North Sulawesi",
+            "NameAr": "توموهون نورته سولاويسي"
+        },
+        {
+            "Code": "140814",
+            "Name": "Trawas,   East Java",
+            "NameAr": "تراواس ياست جافا"
+        },
+        {
+            "Code": "401229",
+            "Name": "Trenggalek",
+            "NameAr": "ترينججاليك"
+        },
+        {
+            "Code": "411216",
+            "Name": "Tuban",
+            "NameAr": "توبان"
+        },
+        {
+            "Code": "141806",
+            "Name": "Tuban Beach",
+            "NameAr": "توبان بياكه"
+        },
+        {
+            "Code": "107197",
+            "Name": "Tugu Utara,   Jakarta",
+            "NameAr": "توجو وتارا جاكارتا"
+        },
+        {
+            "Code": "107837",
+            "Name": "Tukad Abu,   Bali",
+            "NameAr": "توكاد ابو بالي"
+        },
+        {
+            "Code": "148345",
+            "Name": "Tulamben,   Bali",
+            "NameAr": "تولامبين بالي"
+        },
+        {
+            "Code": "140859",
+            "Name": "Tulungagung,   East Java",
+            "NameAr": "تولونجاجونج ياست جافا"
+        },
+        {
+            "Code": "140521",
+            "Name": "Ubud,   Bali",
+            "NameAr": "وبود بالي"
+        },
+        {
+            "Code": "140702",
+            "Name": "Ujung Pandang,   South Sulawesi",
+            "NameAr": "وجونج باندانج سووته سولاويسي"
+        },
+        {
+            "Code": "140708",
+            "Name": "Uluwatu,   Bali",
+            "NameAr": "ولوواتو بالي"
+        },
+        {
+            "Code": "140538",
+            "Name": "Umalas,   Bali",
+            "NameAr": "ومالاس بالي"
+        },
+        {
+            "Code": "140118",
+            "Name": "Ungasan,   Bali",
+            "NameAr": "ونجاسان بالي"
+        },
+        {
+            "Code": "151037",
+            "Name": "Wagethe,   Southwest Papua",
+            "NameAr": "واجيتهي سووتهويست بابوا"
+        },
+        {
+            "Code": "142764",
+            "Name": "Waigeo Island,   West Papua",
+            "NameAr": "وايجيو يسلاند ويست بابوا"
+        },
+        {
+            "Code": "142235",
+            "Name": "Waikabubak,   Sumba Barat",
+            "NameAr": "وايكابوباك سومبا بارات"
+        },
+        {
+            "Code": "151038",
+            "Name": "Waingapu,   Sumba Barat",
+            "NameAr": "واينجابو سومبا بارات"
+        },
+        {
+            "Code": "143069",
+            "Name": "Wairita,   East Nusa Tenggara",
+            "NameAr": "وايريتا ياست نوسا تينججارا"
+        },
+        {
+            "Code": "143237",
+            "Name": "Wakatobi Island,   Southeast Sulawesi",
+            "NameAr": "واكاتوبي يسلاند سووتهياست سولاويسي"
+        },
+        {
+            "Code": "148597",
+            "Name": "Waleabahi,   Central Sulawesi",
+            "NameAr": "والياباهي كينترال سولاويسي"
+        },
+        {
+            "Code": "141956",
+            "Name": "Wamena,   Papua",
+            "NameAr": "وامينا بابوا"
+        },
+        {
+            "Code": "107980",
+            "Name": "Wanci,   Southeast Sulawesi",
+            "NameAr": "وانكي سووتهياست سولاويسي"
+        },
+        {
+            "Code": "151688",
+            "Name": "Waris,   Papua",
+            "NameAr": "واريس بابوا"
+        },
+        {
+            "Code": "151616",
+            "Name": "Wasior,   Papua",
+            "NameAr": "واسيور بابوا"
+        },
+        {
+            "Code": "108680",
+            "Name": "Watampone,   South Sulawesi",
+            "NameAr": "واتامبوني سووته سولاويسي"
+        },
+        {
+            "Code": "143111",
+            "Name": "Way Kambas Nationalpark,   lampung",
+            "NameAr": "واي كامباس ناتيونالبارك لامبونج"
+        },
+        {
+            "Code": "388602",
+            "Name": "Wonosari",
+            "NameAr": "وونوساري"
+        },
+        {
+            "Code": "143612",
+            "Name": "Wonosobo,   Central Java",
+            "NameAr": "وونوسوبو كينترال جافا"
+        },
+        {
+            "Code": "107996",
+            "Name": "Wukirsari,   DIY Yogyakarta",
+            "NameAr": "ووكيرساري ديي يوجياكارتا"
+        },
+        {
+            "Code": "142463",
+            "Name": "Yogyakarta,   Special Region of Yogyakarta",
+            "NameAr": "يوجياكارتا سبيكيال ريجيون وف يوجياكارتا"
+        }
+    ],
+    "totalCities": 478
+}

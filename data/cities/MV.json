@@ -1,0 +1,362 @@
+{
+    "id": "MV",
+    "countryCode": "MV",
+    "cities": [
+        {
+            "Code": "154711",
+            "Name": "Alifu Dhaalu Atoll",
+            "NameAr": "اليفو دهاالو اتولل"
+        },
+        {
+            "Code": "110183",
+            "Name": "Ari Atoll",
+            "NameAr": "اري اتولل"
+        },
+        {
+            "Code": "144025",
+            "Name": "Baa Atoll",
+            "NameAr": "باا اتولل"
+        },
+        {
+            "Code": "150285",
+            "Name": "Chalakudy",
+            "NameAr": "كهالاكودي"
+        },
+        {
+            "Code": "106256",
+            "Name": "Dharavandhoo",
+            "NameAr": "دهارافاندهوو"
+        },
+        {
+            "Code": "106257",
+            "Name": "Dhiffushi",
+            "NameAr": "دهيففوسهي"
+        },
+        {
+            "Code": "117355",
+            "Name": "Dhigufinolhu",
+            "NameAr": "دهيجوفينولهو"
+        },
+        {
+            "Code": "115693",
+            "Name": "Dhigurah Island",
+            "NameAr": "دهيجوراه يسلاند"
+        },
+        {
+            "Code": "115694",
+            "Name": "Dhonakulhi Island",
+            "NameAr": "دهوناكولهي يسلاند"
+        },
+        {
+            "Code": "116300",
+            "Name": "Dhoni Mighili",
+            "NameAr": "دهوني ميجهيلي"
+        },
+        {
+            "Code": "117280",
+            "Name": "Faafu Atoll",
+            "NameAr": "فاافو اتولل"
+        },
+        {
+            "Code": "101262",
+            "Name": "Fesdu Island",
+            "NameAr": "فيسدو يسلاند"
+        },
+        {
+            "Code": "117664",
+            "Name": "Fonimagoodhoo",
+            "NameAr": "فونيماجوودهوو"
+        },
+        {
+            "Code": "391791",
+            "Name": "Fulidhoo",
+            "NameAr": "فوليدهوو"
+        },
+        {
+            "Code": "145289",
+            "Name": "Funamadua",
+            "NameAr": "فونامادوا"
+        },
+        {
+            "Code": "118391",
+            "Name": "Gaafu Dhaalu Atoll",
+            "NameAr": "جاافو دهاالو اتولل"
+        },
+        {
+            "Code": "118553",
+            "Name": "Gan",
+            "NameAr": "جان"
+        },
+        {
+            "Code": "119512",
+            "Name": "Guraidhoo",
+            "NameAr": "جورايدهوو"
+        },
+        {
+            "Code": "145496",
+            "Name": "Haa Alifu Atoll",
+            "NameAr": "هاا اليفو اتولل"
+        },
+        {
+            "Code": "154717",
+            "Name": "Haa Dhaalu Atoll",
+            "NameAr": "هاا دهاالو اتولل"
+        },
+        {
+            "Code": "119960",
+            "Name": "Hanimaadhoo",
+            "NameAr": "هانيماادهوو"
+        },
+        {
+            "Code": "120660",
+            "Name": "Helengeli",
+            "NameAr": "هيلينجيلي"
+        },
+        {
+            "Code": "120738",
+            "Name": "Hondaafushi",
+            "NameAr": "هونداافوسهي"
+        },
+        {
+            "Code": "122641",
+            "Name": "Hulhule Island",
+            "NameAr": "هولهولي يسلاند"
+        },
+        {
+            "Code": "121964",
+            "Name": "Hulhumale Island",
+            "NameAr": "هولهومالي يسلاند"
+        },
+        {
+            "Code": "286675",
+            "Name": "Ifuru",
+            "NameAr": "يفورو"
+        },
+        {
+            "Code": "121600",
+            "Name": "Ihuru",
+            "NameAr": "يهورو"
+        },
+        {
+            "Code": "154714",
+            "Name": "Kaafu Atoll",
+            "NameAr": "كاافو اتولل"
+        },
+        {
+            "Code": "122624",
+            "Name": "Komandoo",
+            "NameAr": "كوماندوو"
+        },
+        {
+            "Code": "123770",
+            "Name": "Kuda Huraa",
+            "NameAr": "كودا هوراا"
+        },
+        {
+            "Code": "281077",
+            "Name": "Kudahuvadhoo (DDD-Dhaalu Atoll)",
+            "NameAr": "كوداهوفادهوو ددد-دهاالو اتولل"
+        },
+        {
+            "Code": "125245",
+            "Name": "Laviyani Atoll",
+            "NameAr": "لافيياني اتولل"
+        },
+        {
+            "Code": "126010",
+            "Name": "Lily",
+            "NameAr": "ليلي"
+        },
+        {
+            "Code": "104472",
+            "Name": "Maadhoo",
+            "NameAr": "ماادهوو"
+        },
+        {
+            "Code": "126740",
+            "Name": "Maafushi",
+            "NameAr": "ماافوسهي"
+        },
+        {
+            "Code": "127057",
+            "Name": "Maalefushi",
+            "NameAr": "مااليفوسهي"
+        },
+        {
+            "Code": "146416",
+            "Name": "Madivaru",
+            "NameAr": "ماديفارو"
+        },
+        {
+            "Code": "101365",
+            "Name": "Maldives",
+            "NameAr": "مالديفيس"
+        },
+        {
+            "Code": "127096",
+            "Name": "Male",
+            "NameAr": "مالي"
+        },
+        {
+            "Code": "146449",
+            "Name": "Malediven",
+            "NameAr": "ماليديفين"
+        },
+        {
+            "Code": "103806",
+            "Name": "Mathiveri",
+            "NameAr": "ماتهيفيري"
+        },
+        {
+            "Code": "150349",
+            "Name": "Meedhupparu",
+            "NameAr": "مييدهوببارو"
+        },
+        {
+            "Code": "127563",
+            "Name": "Meemu Atoll",
+            "NameAr": "مييمو اتولل"
+        },
+        {
+            "Code": "128144",
+            "Name": "Meeru",
+            "NameAr": "مييرو"
+        },
+        {
+            "Code": "128816",
+            "Name": "Meradhoo Island",
+            "NameAr": "ميرادهوو يسلاند"
+        },
+        {
+            "Code": "104229",
+            "Name": "Milaidhoo",
+            "NameAr": "ميلايدهوو"
+        },
+        {
+            "Code": "127222",
+            "Name": "Mirihi",
+            "NameAr": "ميريهي"
+        },
+        {
+            "Code": "104255",
+            "Name": "Muli",
+            "NameAr": "مولي"
+        },
+        {
+            "Code": "129153",
+            "Name": "Nakatchafushi",
+            "NameAr": "ناكاتكهافوسهي"
+        },
+        {
+            "Code": "104377",
+            "Name": "Nilandhoo",
+            "NameAr": "نيلاندهوو"
+        },
+        {
+            "Code": "129489",
+            "Name": "Noonu Atoll",
+            "NameAr": "نوونو اتولل"
+        },
+        {
+            "Code": "130501",
+            "Name": "Nord Huvadhu Atoll",
+            "NameAr": "نورد هوفادهو اتولل"
+        },
+        {
+            "Code": "129930",
+            "Name": "North Ari Atoll",
+            "NameAr": "نورته اري اتولل"
+        },
+        {
+            "Code": "130562",
+            "Name": "North Male Atoll",
+            "NameAr": "نورته مالي اتولل"
+        },
+        {
+            "Code": "146935",
+            "Name": "Nyaviyani Atoll",
+            "NameAr": "نيافيياني اتولل"
+        },
+        {
+            "Code": "135030",
+            "Name": "Raa Atoll",
+            "NameAr": "راا اتولل"
+        },
+        {
+            "Code": "134221",
+            "Name": "Rangali",
+            "NameAr": "رانجالي"
+        },
+        {
+            "Code": "150286",
+            "Name": "Rannalhi",
+            "NameAr": "راننالهي"
+        },
+        {
+            "Code": "149094",
+            "Name": "Rasdhoo",
+            "NameAr": "راسدهوو"
+        },
+        {
+            "Code": "135054",
+            "Name": "Rasdhu Atoll",
+            "NameAr": "راسدهو اتولل"
+        },
+        {
+            "Code": "133704",
+            "Name": "Reethi",
+            "NameAr": "رييتهي"
+        },
+        {
+            "Code": "136289",
+            "Name": "Shaviyani Atoll",
+            "NameAr": "سهافيياني اتولل"
+        },
+        {
+            "Code": "138159",
+            "Name": "South Male Atoll",
+            "NameAr": "سووته مالي اتولل"
+        },
+        {
+            "Code": "138069",
+            "Name": "South Nilandhe Atoll",
+            "NameAr": "سووته نيلاندهي اتولل"
+        },
+        {
+            "Code": "148196",
+            "Name": "Thaa Atoll",
+            "NameAr": "تهاا اتولل"
+        },
+        {
+            "Code": "140427",
+            "Name": "Thulagiri",
+            "NameAr": "تهولاجيري"
+        },
+        {
+            "Code": "108636",
+            "Name": "Ukulhas Island",
+            "NameAr": "وكولهاس يسلاند"
+        },
+        {
+            "Code": "150364",
+            "Name": "Vadoo",
+            "NameAr": "فادوو"
+        },
+        {
+            "Code": "148451",
+            "Name": "Velassaru (Laguna)",
+            "NameAr": "فيلاسسارو لاجونا"
+        },
+        {
+            "Code": "141987",
+            "Name": "Veligandu",
+            "NameAr": "فيليجاندو"
+        },
+        {
+            "Code": "142593",
+            "Name": "Vilingili",
+            "NameAr": "فيلينجيلي"
+        }
+    ],
+    "totalCities": 71
+}

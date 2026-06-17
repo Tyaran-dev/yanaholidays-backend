@@ -1,0 +1,152 @@
+{
+    "id": "PK",
+    "countryCode": "PK",
+    "cities": [
+        {
+            "Code": "149287",
+            "Name": "Abbottabad",
+            "NameAr": "اببوتتاباد"
+        },
+        {
+            "Code": "150698",
+            "Name": "Bahawalnagar",
+            "NameAr": "باهاوالناجار"
+        },
+        {
+            "Code": "111081",
+            "Name": "Bahawalpur",
+            "NameAr": "باهاوالبور"
+        },
+        {
+            "Code": "151425",
+            "Name": "Bhurban",
+            "NameAr": "بهوربان"
+        },
+        {
+            "Code": "118236",
+            "Name": "Faisalabad",
+            "NameAr": "فايسالاباد"
+        },
+        {
+            "Code": "119116",
+            "Name": "Gilgit",
+            "NameAr": "جيلجيت"
+        },
+        {
+            "Code": "304984",
+            "Name": "Gujranwala",
+            "NameAr": "جوجرانوالا"
+        },
+        {
+            "Code": "120438",
+            "Name": "Gwadar",
+            "NameAr": "جوادار"
+        },
+        {
+            "Code": "122041",
+            "Name": "Islamabad",
+            "NameAr": "يسلاماباد"
+        },
+        {
+            "Code": "122265",
+            "Name": "Karachi",
+            "NameAr": "كاراكهي"
+        },
+        {
+            "Code": "122529",
+            "Name": "Karimabad",
+            "NameAr": "كاريماباد"
+        },
+        {
+            "Code": "125176",
+            "Name": "Lahore",
+            "NameAr": "لاهوري"
+        },
+        {
+            "Code": "149292",
+            "Name": "Mohenjo Daro",
+            "NameAr": "موهينجو دارو"
+        },
+        {
+            "Code": "128571",
+            "Name": "Multan",
+            "NameAr": "مولتان"
+        },
+        {
+            "Code": "130337",
+            "Name": "Murree",
+            "NameAr": "مورريي"
+        },
+        {
+            "Code": "130343",
+            "Name": "Muzaffarabad",
+            "NameAr": "موزاففاراباد"
+        },
+        {
+            "Code": "263488",
+            "Name": "Naran",
+            "NameAr": "ناران"
+        },
+        {
+            "Code": "149272",
+            "Name": "Nawab Shah",
+            "NameAr": "ناواب سهاه"
+        },
+        {
+            "Code": "132470",
+            "Name": "Peschawar",
+            "NameAr": "بيسكهاوار"
+        },
+        {
+            "Code": "151809",
+            "Name": "Peshawar",
+            "NameAr": "بيسهاوار"
+        },
+        {
+            "Code": "133736",
+            "Name": "Quetta",
+            "NameAr": "قويتتا"
+        },
+        {
+            "Code": "133859",
+            "Name": "Rawalpindi",
+            "NameAr": "راوالبيندي"
+        },
+        {
+            "Code": "149276",
+            "Name": "Sahiwal",
+            "NameAr": "ساهيوال"
+        },
+        {
+            "Code": "147609",
+            "Name": "Saidu Sharif",
+            "NameAr": "سايدو سهاريف"
+        },
+        {
+            "Code": "106791",
+            "Name": "Sehwan",
+            "NameAr": "سيهوان"
+        },
+        {
+            "Code": "137311",
+            "Name": "Shigar",
+            "NameAr": "سهيجار"
+        },
+        {
+            "Code": "137450",
+            "Name": "Sialkot",
+            "NameAr": "سيالكوت"
+        },
+        {
+            "Code": "149286",
+            "Name": "Skardu",
+            "NameAr": "سكاردو"
+        },
+        {
+            "Code": "149299",
+            "Name": "Sukkur",
+            "NameAr": "سوككور"
+        }
+    ],
+    "totalCities": 29
+}

@@ -1,0 +1,12 @@
+{
+    "id": "TL",
+    "countryCode": "TL",
+    "cities": [
+        {
+            "Code": "116656",
+            "Name": "Dili",
+            "NameAr": "ديلي"
+        }
+    ],
+    "totalCities": 1
+}

@@ -1,0 +1,322 @@
+{
+    "id": "DO",
+    "countryCode": "DO",
+    "cities": [
+        {
+            "Code": "104709",
+            "Name": "Altos de Cofresi",
+            "NameAr": "التوس دي كوفريسي"
+        },
+        {
+            "Code": "101477",
+            "Name": "Azua",
+            "NameAr": "ازوا"
+        },
+        {
+            "Code": "105191",
+            "Name": "Bani",
+            "NameAr": "باني"
+        },
+        {
+            "Code": "144099",
+            "Name": "Barahona",
+            "NameAr": "باراهونا"
+        },
+        {
+            "Code": "102208",
+            "Name": "Bavaro",
+            "NameAr": "بافارو"
+        },
+        {
+            "Code": "101606",
+            "Name": "Bayaguana",
+            "NameAr": "باياجوانا"
+        },
+        {
+            "Code": "110816",
+            "Name": "Bayahibe",
+            "NameAr": "باياهيبي"
+        },
+        {
+            "Code": "112640",
+            "Name": "Boca Chica",
+            "NameAr": "بوكا كهيكا"
+        },
+        {
+            "Code": "112848",
+            "Name": "Cabarete",
+            "NameAr": "كاباريتي"
+        },
+        {
+            "Code": "417910",
+            "Name": "Cabeza de Toro",
+            "NameAr": "كابيزا دي تورو"
+        },
+        {
+            "Code": "150960",
+            "Name": "Cabo Rojo",
+            "NameAr": "كابو روجو"
+        },
+        {
+            "Code": "112852",
+            "Name": "Cabrera",
+            "NameAr": "كابريرا"
+        },
+        {
+            "Code": "113349",
+            "Name": "Cap Cana",
+            "NameAr": "كاب كانا"
+        },
+        {
+            "Code": "115493",
+            "Name": "Constanza",
+            "NameAr": "كونستانزا"
+        },
+        {
+            "Code": "104954",
+            "Name": "Dominican Republic",
+            "NameAr": "دومينيكان ريبوبليك"
+        },
+        {
+            "Code": "117101",
+            "Name": "El Seibo",
+            "NameAr": "يل سييبو"
+        },
+        {
+            "Code": "158498",
+            "Name": "Guayacanes",
+            "NameAr": "جواياكانيس"
+        },
+        {
+            "Code": "120874",
+            "Name": "Hato Mayor",
+            "NameAr": "هاتو مايور"
+        },
+        {
+            "Code": "121221",
+            "Name": "Higuey",
+            "NameAr": "هيجويي"
+        },
+        {
+            "Code": "122180",
+            "Name": "Jarabacoa",
+            "NameAr": "جاراباكوا"
+        },
+        {
+            "Code": "122365",
+            "Name": "Juan Dolio",
+            "NameAr": "جوان دوليو"
+        },
+        {
+            "Code": "104138",
+            "Name": "La Costa de Buen Hombre",
+            "NameAr": "لا كوستا دي بوين هومبري"
+        },
+        {
+            "Code": "123825",
+            "Name": "La Romana",
+            "NameAr": "لا رومانا"
+        },
+        {
+            "Code": "103666",
+            "Name": "La Vega",
+            "NameAr": "لا فيجا"
+        },
+        {
+            "Code": "160760",
+            "Name": "Las Calderas",
+            "NameAr": "لاس كالديراس"
+        },
+        {
+            "Code": "103906",
+            "Name": "Las Canas",
+            "NameAr": "لاس كاناس"
+        },
+        {
+            "Code": "125224",
+            "Name": "Las Galeras",
+            "NameAr": "لاس جاليراس"
+        },
+        {
+            "Code": "160759",
+            "Name": "Las Salinas",
+            "NameAr": "لاس ساليناس"
+        },
+        {
+            "Code": "124546",
+            "Name": "Las Terrenas",
+            "NameAr": "لاس تيرريناس"
+        },
+        {
+            "Code": "126191",
+            "Name": "Los Cacaos",
+            "NameAr": "لوس كاكاوس"
+        },
+        {
+            "Code": "160869",
+            "Name": "Los Guineos Perdidos\t",
+            "NameAr": "لوس جوينيوس بيرديدوس"
+        },
+        {
+            "Code": "126680",
+            "Name": "Luperon",
+            "NameAr": "لوبيرون"
+        },
+        {
+            "Code": "126771",
+            "Name": "Maimon",
+            "NameAr": "مايمون"
+        },
+        {
+            "Code": "161020",
+            "Name": "Miches,   El Ceibo",
+            "NameAr": "ميكهيس يل كييبو"
+        },
+        {
+            "Code": "146695",
+            "Name": "Monte Cristi",
+            "NameAr": "مونتي كريستي"
+        },
+        {
+            "Code": "378330",
+            "Name": "Nagua",
+            "NameAr": "ناجوا"
+        },
+        {
+            "Code": "106578",
+            "Name": "Palmar de Ocoa",
+            "NameAr": "بالمار دي وكوا"
+        },
+        {
+            "Code": "106583",
+            "Name": "Paraiso",
+            "NameAr": "بارايسو"
+        },
+        {
+            "Code": "131582",
+            "Name": "Pedernales",
+            "NameAr": "بيديرناليس"
+        },
+        {
+            "Code": "417017",
+            "Name": "Pepillo Salcedo",
+            "NameAr": "بيبيللو سالكيدو"
+        },
+        {
+            "Code": "103271",
+            "Name": "Perla Marina",
+            "NameAr": "بيرلا مارينا"
+        },
+        {
+            "Code": "132239",
+            "Name": "Platon",
+            "NameAr": "بلاتون"
+        },
+        {
+            "Code": "132200",
+            "Name": "Playa Bavaro",
+            "NameAr": "بلايا بافارو"
+        },
+        {
+            "Code": "161107",
+            "Name": "Playa de Arena Gorda",
+            "NameAr": "بلايا دي ارينا جوردا"
+        },
+        {
+            "Code": "132344",
+            "Name": "Playa Dorada",
+            "NameAr": "بلايا دورادا"
+        },
+        {
+            "Code": "133981",
+            "Name": "Pueblo Bavaro",
+            "NameAr": "بويبلو بافارو"
+        },
+        {
+            "Code": "133052",
+            "Name": "Puerto Plata",
+            "NameAr": "بويرتو بلاتا"
+        },
+        {
+            "Code": "147406",
+            "Name": "Punta Cana",
+            "NameAr": "بونتا كانا"
+        },
+        {
+            "Code": "102780",
+            "Name": "Punta Goleta",
+            "NameAr": "بونتا جوليتا"
+        },
+        {
+            "Code": "132589",
+            "Name": "Punta Rucia",
+            "NameAr": "بونتا روكيا"
+        },
+        {
+            "Code": "135122",
+            "Name": "Rio San Juan / San Juan",
+            "NameAr": "ريو سان جوان سان جوان"
+        },
+        {
+            "Code": "149791",
+            "Name": "Sabana de la Mar",
+            "NameAr": "سابانا دي لا مار"
+        },
+        {
+            "Code": "134869",
+            "Name": "Samana",
+            "NameAr": "سامانا"
+        },
+        {
+            "Code": "103136",
+            "Name": "San Francisco de Macoris",
+            "NameAr": "سان فرانكيسكو دي ماكوريس"
+        },
+        {
+            "Code": "135948",
+            "Name": "San Jose de las Matas",
+            "NameAr": "سان جوسي دي لاس ماتاس"
+        },
+        {
+            "Code": "135890",
+            "Name": "San Jose de Ocoa",
+            "NameAr": "سان جوسي دي وكوا"
+        },
+        {
+            "Code": "136030",
+            "Name": "San Pedro de Macrois",
+            "NameAr": "سان بيدرو دي ماكرويس"
+        },
+        {
+            "Code": "158499",
+            "Name": "San Rafael del Yuma",
+            "NameAr": "سان رافايل ديل يوما"
+        },
+        {
+            "Code": "151326",
+            "Name": "Santiago",
+            "NameAr": "سانتياجو"
+        },
+        {
+            "Code": "136390",
+            "Name": "Santiago de los Caballeros",
+            "NameAr": "سانتياجو دي لوس كابالليروس"
+        },
+        {
+            "Code": "147756",
+            "Name": "Santo Domingo",
+            "NameAr": "سانتو دومينجو"
+        },
+        {
+            "Code": "138148",
+            "Name": "Sosua",
+            "NameAr": "سوسوا"
+        },
+        {
+            "Code": "140735",
+            "Name": "Uvero Alto",
+            "NameAr": "وفيرو التو"
+        }
+    ],
+    "totalCities": 63
+}

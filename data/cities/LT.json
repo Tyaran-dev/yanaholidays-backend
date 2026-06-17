@@ -1,0 +1,302 @@
+{
+        "id": "LT",
+        "countryCode": "LT",
+        "cities": [
+            {
+                "Code": "109307",
+                "Name": "Alytus",
+                "NameAr": "اليتوس"
+            },
+            {
+                "Code": "100919",
+                "Name": "Anyksciai",
+                "NameAr": "انيكسكياي"
+            },
+            {
+                "Code": "110091",
+                "Name": "Aukstadvaris",
+                "NameAr": "اوكستادفاريس"
+            },
+            {
+                "Code": "111582",
+                "Name": "Birstonas",
+                "NameAr": "بيرستوناس"
+            },
+            {
+                "Code": "111776",
+                "Name": "Birzai",
+                "NameAr": "بيرزاي"
+            },
+            {
+                "Code": "160858",
+                "Name": "Bubiai",
+                "NameAr": "بوبياي"
+            },
+            {
+                "Code": "377121",
+                "Name": "Dreverna",
+                "NameAr": "دريفيرنا"
+            },
+            {
+                "Code": "144979",
+                "Name": "Druskininkai",
+                "NameAr": "دروسكينينكاي"
+            },
+            {
+                "Code": "119230",
+                "Name": "Garliava",
+                "NameAr": "جارليافا"
+            },
+            {
+                "Code": "108257",
+                "Name": "Gobergiske",
+                "NameAr": "جوبيرجيسكي"
+            },
+            {
+                "Code": "105925",
+                "Name": "Grinaiciai",
+                "NameAr": "جرينايكياي"
+            },
+            {
+                "Code": "122485",
+                "Name": "Jonischken",
+                "NameAr": "جونيسكهكين"
+            },
+            {
+                "Code": "122223",
+                "Name": "Juodkrante",
+                "NameAr": "جوودكرانتي"
+            },
+            {
+                "Code": "122374",
+                "Name": "Jurbarkas",
+                "NameAr": "جورباركاس"
+            },
+            {
+                "Code": "105888",
+                "Name": "Kaisiadorys",
+                "NameAr": "كايسيادوريس"
+            },
+            {
+                "Code": "123212",
+                "Name": "Karkle",
+                "NameAr": "كاركلي"
+            },
+            {
+                "Code": "123639",
+                "Name": "Kaunas",
+                "NameAr": "كاوناس"
+            },
+            {
+                "Code": "123120",
+                "Name": "Kedainiai",
+                "NameAr": "كيداينياي"
+            },
+            {
+                "Code": "123667",
+                "Name": "Kernave",
+                "NameAr": "كيرنافي"
+            },
+            {
+                "Code": "123696",
+                "Name": "Kintai",
+                "NameAr": "كينتاي"
+            },
+            {
+                "Code": "123708",
+                "Name": "Klaipeda",
+                "NameAr": "كلايبيدا"
+            },
+            {
+                "Code": "125215",
+                "Name": "Lankupiai",
+                "NameAr": "لانكوبياي"
+            },
+            {
+                "Code": "124705",
+                "Name": "Lazdijai",
+                "NameAr": "لازديجاي"
+            },
+            {
+                "Code": "128064",
+                "Name": "Marijampole",
+                "NameAr": "ماريجامبولي"
+            },
+            {
+                "Code": "126477",
+                "Name": "Mazeikiai",
+                "NameAr": "مازييكياي"
+            },
+            {
+                "Code": "104194",
+                "Name": "Minija",
+                "NameAr": "مينيجا"
+            },
+            {
+                "Code": "128635",
+                "Name": "Moletai",
+                "NameAr": "موليتاي"
+            },
+            {
+                "Code": "131119",
+                "Name": "Nida",
+                "NameAr": "نيدا"
+            },
+            {
+                "Code": "103056",
+                "Name": "Padubysis",
+                "NameAr": "بادوبيسيس"
+            },
+            {
+                "Code": "147064",
+                "Name": "Pagegiai",
+                "NameAr": "باجيجياي"
+            },
+            {
+                "Code": "102078",
+                "Name": "Pakruojis",
+                "NameAr": "باكرووجيس"
+            },
+            {
+                "Code": "132026",
+                "Name": "Palanga",
+                "NameAr": "بالانجا"
+            },
+            {
+                "Code": "131397",
+                "Name": "Panevezys",
+                "NameAr": "بانيفيزيس"
+            },
+            {
+                "Code": "132757",
+                "Name": "Pervalka",
+                "NameAr": "بيرفالكا"
+            },
+            {
+                "Code": "147221",
+                "Name": "Plateliai",
+                "NameAr": "بلاتيلياي"
+            },
+            {
+                "Code": "103287",
+                "Name": "Plinksiu",
+                "NameAr": "بلينكسيو"
+            },
+            {
+                "Code": "132868",
+                "Name": "Plunge",
+                "NameAr": "بلونجي"
+            },
+            {
+                "Code": "132962",
+                "Name": "Preila",
+                "NameAr": "برييلا"
+            },
+            {
+                "Code": "133602",
+                "Name": "Prienai",
+                "NameAr": "برييناي"
+            },
+            {
+                "Code": "102792",
+                "Name": "Radziunai",
+                "NameAr": "رادزيوناي"
+            },
+            {
+                "Code": "106743",
+                "Name": "Rusne",
+                "NameAr": "روسني"
+            },
+            {
+                "Code": "106755",
+                "Name": "Sakiai",
+                "NameAr": "ساكياي"
+            },
+            {
+                "Code": "108506",
+                "Name": "Sasnava",
+                "NameAr": "ساسنافا"
+            },
+            {
+                "Code": "137406",
+                "Name": "Siauliai",
+                "NameAr": "سياولياي"
+            },
+            {
+                "Code": "137996",
+                "Name": "Silute",
+                "NameAr": "سيلوتي"
+            },
+            {
+                "Code": "138115",
+                "Name": "Smalininkai",
+                "NameAr": "سمالينينكاي"
+            },
+            {
+                "Code": "139640",
+                "Name": "Sventoji",
+                "NameAr": "سفينتوجي"
+            },
+            {
+                "Code": "139535",
+                "Name": "Sverksna",
+                "NameAr": "سفيركسنا"
+            },
+            {
+                "Code": "140976",
+                "Name": "Taurage",
+                "NameAr": "تاوراجي"
+            },
+            {
+                "Code": "106379",
+                "Name": "Telsiai",
+                "NameAr": "تيلسياي"
+            },
+            {
+                "Code": "139365",
+                "Name": "Trakai",
+                "NameAr": "تراكاي"
+            },
+            {
+                "Code": "106860",
+                "Name": "Ukmerge",
+                "NameAr": "وكميرجي"
+            },
+            {
+                "Code": "107940",
+                "Name": "Utena",
+                "NameAr": "وتينا"
+            },
+            {
+                "Code": "148465",
+                "Name": "Vente",
+                "NameAr": "فينتي"
+            },
+            {
+                "Code": "108666",
+                "Name": "Vilkanastrai",
+                "NameAr": "فيلكاناستراي"
+            },
+            {
+                "Code": "106401",
+                "Name": "Vilkaviskis",
+                "NameAr": "فيلكافيسكيس"
+            },
+            {
+                "Code": "141893",
+                "Name": "Vilnius",
+                "NameAr": "فيلنيوس"
+            },
+            {
+                "Code": "148542",
+                "Name": "Visaginas",
+                "NameAr": "فيساجيناس"
+            },
+            {
+                "Code": "107806",
+                "Name": "Zalioji",
+                "NameAr": "زاليوجي"
+            }
+        ],
+        "totalCities": 59
+    }

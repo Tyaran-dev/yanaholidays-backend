@@ -1,0 +1,47 @@
+{
+    "id": "LI",
+    "countryCode": "LI",
+    "cities": [
+        {
+            "Code": "117192",
+            "Name": "Eschen",
+            "NameAr": "يسكهين"
+        },
+        {
+            "Code": "146278",
+            "Name": "Liechtenstein",
+            "NameAr": "لييكهتينستيين"
+        },
+        {
+            "Code": "126784",
+            "Name": "Malbun (Liechtenstein)",
+            "NameAr": "مالبون لييكهتينستيين"
+        },
+        {
+            "Code": "129192",
+            "Name": "Nendeln",
+            "NameAr": "نينديلن"
+        },
+        {
+            "Code": "137225",
+            "Name": "Schaan",
+            "NameAr": "سكهاان"
+        },
+        {
+            "Code": "139389",
+            "Name": "Triesen",
+            "NameAr": "ترييسين"
+        },
+        {
+            "Code": "140829",
+            "Name": "Triesenberg",
+            "NameAr": "ترييسينبيرج"
+        },
+        {
+            "Code": "148405",
+            "Name": "Vaduz",
+            "NameAr": "فادوز"
+        }
+    ],
+    "totalCities": 8
+}

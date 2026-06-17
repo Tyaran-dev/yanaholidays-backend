@@ -1,0 +1,312 @@
+{
+    "id": "MU",
+    "countryCode": "MU",
+    "cities": [
+        {
+            "Code": "104703",
+            "Name": "Albion",
+            "NameAr": "البيون"
+        },
+        {
+            "Code": "109348",
+            "Name": "Anse aux Anglais",
+            "NameAr": "انسي اوكس انجلايس"
+        },
+        {
+            "Code": "109821",
+            "Name": "Baie du Tombeau",
+            "NameAr": "بايي دو تومبياو"
+        },
+        {
+            "Code": "144065",
+            "Name": "Bain Boeuf",
+            "NameAr": "باين بويوف"
+        },
+        {
+            "Code": "109825",
+            "Name": "Balaclava",
+            "NameAr": "بالاكلافا"
+        },
+        {
+            "Code": "110551",
+            "Name": "Beau Champ",
+            "NameAr": "بياو كهامب"
+        },
+        {
+            "Code": "111872",
+            "Name": "Bel Ombre",
+            "NameAr": "بيل ومبري"
+        },
+        {
+            "Code": "111509",
+            "Name": "Belle Mare",
+            "NameAr": "بيللي ماري"
+        },
+        {
+            "Code": "111728",
+            "Name": "Black River",
+            "NameAr": "بلاكك ريفير"
+        },
+        {
+            "Code": "112213",
+            "Name": "Blue Bay",
+            "NameAr": "بلوي باي"
+        },
+        {
+            "Code": "406525",
+            "Name": "Bois Cheri",
+            "NameAr": "بويس كهيري"
+        },
+        {
+            "Code": "144479",
+            "Name": "Calodyne",
+            "NameAr": "كالوديني"
+        },
+        {
+            "Code": "113351",
+            "Name": "Cap Malheureux",
+            "NameAr": "كاب مالهيوريوكس"
+        },
+        {
+            "Code": "144616",
+            "Name": "Chamarel",
+            "NameAr": "كهاماريل"
+        },
+        {
+            "Code": "101240",
+            "Name": "Chemin Grenier",
+            "NameAr": "كهيمين جرينيير"
+        },
+        {
+            "Code": "108187",
+            "Name": "D'Epinay",
+            "NameAr": "ديبيناي"
+        },
+        {
+            "Code": "116728",
+            "Name": "East Coast",
+            "NameAr": "ياست كواست"
+        },
+        {
+            "Code": "116958",
+            "Name": "Ebene",
+            "NameAr": "يبيني"
+        },
+        {
+            "Code": "118576",
+            "Name": "Flic en Flac",
+            "NameAr": "فليك ين فلاك"
+        },
+        {
+            "Code": "119438",
+            "Name": "Grand Baie",
+            "NameAr": "جراند بايي"
+        },
+        {
+            "Code": "119990",
+            "Name": "Grand Bay",
+            "NameAr": "جراند باي"
+        },
+        {
+            "Code": "145410",
+            "Name": "Grand Gaube",
+            "NameAr": "جراند جاوبي"
+        },
+        {
+            "Code": "118774",
+            "Name": "Grand Port",
+            "NameAr": "جراند بورت"
+        },
+        {
+            "Code": "119703",
+            "Name": "Grand River South East",
+            "NameAr": "جراند ريفير سووته ياست"
+        },
+        {
+            "Code": "114041",
+            "Name": "Grande Case Noyale",
+            "NameAr": "جراندي كاسي نويالي"
+        },
+        {
+            "Code": "120401",
+            "Name": "Grande Riviere Sud-Est",
+            "NameAr": "جراندي ريفييري سود-يست"
+        },
+        {
+            "Code": "122105",
+            "Name": "Ilot Malais",
+            "NameAr": "يلوت مالايس"
+        },
+        {
+            "Code": "124052",
+            "Name": "La Balise Marina",
+            "NameAr": "لا باليسي مارينا"
+        },
+        {
+            "Code": "101983",
+            "Name": "La Gaulette",
+            "NameAr": "لا جاوليتتي"
+        },
+        {
+            "Code": "124355",
+            "Name": "La Pointe Jerome",
+            "NameAr": "لا بوينتي جيرومي"
+        },
+        {
+            "Code": "123820",
+            "Name": "La Preneuse",
+            "NameAr": "لا برينيوسي"
+        },
+        {
+            "Code": "124576",
+            "Name": "Le Morne",
+            "NameAr": "لي مورني"
+        },
+        {
+            "Code": "127080",
+            "Name": "Mahebourg",
+            "NameAr": "ماهيبوورج"
+        },
+        {
+            "Code": "150281",
+            "Name": "Mauritius",
+            "NameAr": "ماوريتيوس"
+        },
+        {
+            "Code": "127804",
+            "Name": "Moka",
+            "NameAr": "موكا"
+        },
+        {
+            "Code": "128903",
+            "Name": "Mont Choisy",
+            "NameAr": "مونت كهويسي"
+        },
+        {
+            "Code": "129932",
+            "Name": "North Coast",
+            "NameAr": "نورته كواست"
+        },
+        {
+            "Code": "147079",
+            "Name": "Palmar",
+            "NameAr": "بالمار"
+        },
+        {
+            "Code": "132129",
+            "Name": "Pereybere",
+            "NameAr": "بيرييبيري"
+        },
+        {
+            "Code": "147260",
+            "Name": "Pointe aux Canonniers",
+            "NameAr": "بوينتي اوكس كانوننييرس"
+        },
+        {
+            "Code": "131800",
+            "Name": "Pointe aux Piments",
+            "NameAr": "بوينتي اوكس بيمينتس"
+        },
+        {
+            "Code": "133478",
+            "Name": "Pointe aux Roches",
+            "NameAr": "بوينتي اوكس روكهيس"
+        },
+        {
+            "Code": "133211",
+            "Name": "Pointe d' Esny",
+            "NameAr": "بوينتي د يسني"
+        },
+        {
+            "Code": "132398",
+            "Name": "Port Louis",
+            "NameAr": "بورت لوويس"
+        },
+        {
+            "Code": "102092",
+            "Name": "Port Mathurin",
+            "NameAr": "بورت ماتهورين"
+        },
+        {
+            "Code": "147327",
+            "Name": "Poste de Flacq",
+            "NameAr": "بوستي دي فلاكق"
+        },
+        {
+            "Code": "147328",
+            "Name": "Poste Lafayette",
+            "NameAr": "بوستي لافاييتتي"
+        },
+        {
+            "Code": "133730",
+            "Name": "Quatre Bornes",
+            "NameAr": "قواتري بورنيس"
+        },
+        {
+            "Code": "108437",
+            "Name": "Riviere des Anguilles",
+            "NameAr": "ريفييري ديس انجويلليس"
+        },
+        {
+            "Code": "134943",
+            "Name": "Riviere du Rempart",
+            "NameAr": "ريفييري دو ريمبارت"
+        },
+        {
+            "Code": "134505",
+            "Name": "Riviere Noire",
+            "NameAr": "ريفييري نويري"
+        },
+        {
+            "Code": "134806",
+            "Name": "Roches Noire",
+            "NameAr": "روكهيس نويري"
+        },
+        {
+            "Code": "134523",
+            "Name": "Rodrigues Island",
+            "NameAr": "رودريجويس يسلاند"
+        },
+        {
+            "Code": "148007",
+            "Name": "St. Felix",
+            "NameAr": "ست فيليكس"
+        },
+        {
+            "Code": "139906",
+            "Name": "Tamarin",
+            "NameAr": "تامارين"
+        },
+        {
+            "Code": "141011",
+            "Name": "Terre Rouge",
+            "NameAr": "تيرري رووجي"
+        },
+        {
+            "Code": "140658",
+            "Name": "Trou aux Biches",
+            "NameAr": "تروو اوكس بيكهيس"
+        },
+        {
+            "Code": "140842",
+            "Name": "Trou d'Eau Douce",
+            "NameAr": "تروو دياو دووكي"
+        },
+        {
+            "Code": "140679",
+            "Name": "Turtle Bay",
+            "NameAr": "تورتلي باي"
+        },
+        {
+            "Code": "141286",
+            "Name": "Vacoas",
+            "NameAr": "فاكواس"
+        },
+        {
+            "Code": "142966",
+            "Name": "West Coast",
+            "NameAr": "ويست كواست"
+        }
+    ],
+    "totalCities": 61
+}

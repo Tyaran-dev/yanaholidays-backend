@@ -1,0 +1,22 @@
+{
+    "id": "GW",
+    "countryCode": "GW",
+    "cities": [
+        {
+            "Code": "111318",
+            "Name": "Bissau",
+            "NameAr": "بيسساو"
+        },
+        {
+            "Code": "121054",
+            "Name": "Ile de Rubane",
+            "NameAr": "يلي دي روباني"
+        },
+        {
+            "Code": "148975",
+            "Name": "Rubane",
+            "NameAr": "روباني"
+        }
+    ],
+    "totalCities": 3
+}

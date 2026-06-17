@@ -1,0 +1,12 @@
+{
+    "id": "SS",
+    "countryCode": "SS",
+    "cities": [
+        {
+            "Code": "417043",
+            "Name": "Juba",
+            "NameAr": "جوبا"
+        }
+    ],
+    "totalCities": 1
+}

@@ -1,0 +1,3437 @@
+{
+    "id": "JP",
+    "countryCode": "JP",
+    "cities": [
+        {
+            "Code": "100643",
+            "Name": "Abashiri",
+            "NameAr": "اباسهيري"
+        },
+        {
+            "Code": "100560",
+            "Name": "Abuta",
+            "NameAr": "ابوتا"
+        },
+        {
+            "Code": "372133",
+            "Name": "Adachi",
+            "NameAr": "اداكهي"
+        },
+        {
+            "Code": "100777",
+            "Name": "Adzumino",
+            "NameAr": "ادزومينو"
+        },
+        {
+            "Code": "154431",
+            "Name": "Agatsuma",
+            "NameAr": "اجاتسوما"
+        },
+        {
+            "Code": "105062",
+            "Name": "Ageo",
+            "NameAr": "اجيو"
+        },
+        {
+            "Code": "151046",
+            "Name": "Aguni",
+            "NameAr": "اجوني"
+        },
+        {
+            "Code": "154492",
+            "Name": "Aichi",
+            "NameAr": "ايكهي"
+        },
+        {
+            "Code": "100161",
+            "Name": "Aizuwakamatsu",
+            "NameAr": "ايزوواكاماتسو"
+        },
+        {
+            "Code": "105071",
+            "Name": "Ajigasawa",
+            "NameAr": "اجيجاساوا"
+        },
+        {
+            "Code": "232526",
+            "Name": "Akaigawa",
+            "NameAr": "اكايجاوا"
+        },
+        {
+            "Code": "106074",
+            "Name": "Akashi",
+            "NameAr": "اكاسهي"
+        },
+        {
+            "Code": "418153",
+            "Name": "Aki",
+            "NameAr": "اكي"
+        },
+        {
+            "Code": "100074",
+            "Name": "Akishima",
+            "NameAr": "اكيسهيما"
+        },
+        {
+            "Code": "100276",
+            "Name": "Akita",
+            "NameAr": "اكيتا"
+        },
+        {
+            "Code": "101621",
+            "Name": "Akkeshi",
+            "NameAr": "اككيسهي"
+        },
+        {
+            "Code": "104986",
+            "Name": "Ako",
+            "NameAr": "اكو"
+        },
+        {
+            "Code": "109309",
+            "Name": "Amagasaki",
+            "NameAr": "اماجاساكي"
+        },
+        {
+            "Code": "109545",
+            "Name": "Amakusa",
+            "NameAr": "اماكوسا"
+        },
+        {
+            "Code": "109434",
+            "Name": "Amami-Oshima",
+            "NameAr": "امامي-وسهيما"
+        },
+        {
+            "Code": "418158",
+            "Name": "Ando",
+            "NameAr": "اندو"
+        },
+        {
+            "Code": "101145",
+            "Name": "Anjo",
+            "NameAr": "انجو"
+        },
+        {
+            "Code": "104718",
+            "Name": "Annaka",
+            "NameAr": "انناكا"
+        },
+        {
+            "Code": "109478",
+            "Name": "Aomori",
+            "NameAr": "اوموري"
+        },
+        {
+            "Code": "100934",
+            "Name": "Arao",
+            "NameAr": "اراو"
+        },
+        {
+            "Code": "104728",
+            "Name": "Arida",
+            "NameAr": "اريدا"
+        },
+        {
+            "Code": "397557",
+            "Name": "Asahi",
+            "NameAr": "اساهي"
+        },
+        {
+            "Code": "109983",
+            "Name": "Asahikawa",
+            "NameAr": "اساهيكاوا"
+        },
+        {
+            "Code": "295232",
+            "Name": "Asaka",
+            "NameAr": "اساكا"
+        },
+        {
+            "Code": "109984",
+            "Name": "Asakura",
+            "NameAr": "اساكورا"
+        },
+        {
+            "Code": "105108",
+            "Name": "Ashikaga",
+            "NameAr": "اسهيكاجا"
+        },
+        {
+            "Code": "109994",
+            "Name": "Aso",
+            "NameAr": "اسو"
+        },
+        {
+            "Code": "109744",
+            "Name": "Atami",
+            "NameAr": "اتامي"
+        },
+        {
+            "Code": "110081",
+            "Name": "Atsugi",
+            "NameAr": "اتسوجي"
+        },
+        {
+            "Code": "101473",
+            "Name": "Awaji",
+            "NameAr": "اواجي"
+        },
+        {
+            "Code": "105016",
+            "Name": "Awara",
+            "NameAr": "اوارا"
+        },
+        {
+            "Code": "101478",
+            "Name": "Azumino",
+            "NameAr": "ازومينو"
+        },
+        {
+            "Code": "111534",
+            "Name": "Beppu",
+            "NameAr": "بيببو"
+        },
+        {
+            "Code": "111759",
+            "Name": "Biei",
+            "NameAr": "بييي"
+        },
+        {
+            "Code": "108094",
+            "Name": "Bungo-ono",
+            "NameAr": "بونجو-ونو"
+        },
+        {
+            "Code": "113693",
+            "Name": "Chatan",
+            "NameAr": "كهاتان"
+        },
+        {
+            "Code": "114532",
+            "Name": "Chiba",
+            "NameAr": "كهيبا"
+        },
+        {
+            "Code": "114654",
+            "Name": "Chichibu",
+            "NameAr": "كهيكهيبو"
+        },
+        {
+            "Code": "389666",
+            "Name": "Chigasaki",
+            "NameAr": "كهيجاساكي"
+        },
+        {
+            "Code": "105443",
+            "Name": "Chikuma",
+            "NameAr": "كهيكوما"
+        },
+        {
+            "Code": "105256",
+            "Name": "Chikusei",
+            "NameAr": "كهيكوسيي"
+        },
+        {
+            "Code": "114657",
+            "Name": "Chikushino",
+            "NameAr": "كهيكوسهينو"
+        },
+        {
+            "Code": "114358",
+            "Name": "Chino",
+            "NameAr": "كهينو"
+        },
+        {
+            "Code": "106287",
+            "Name": "Chiryu",
+            "NameAr": "كهيريو"
+        },
+        {
+            "Code": "154371",
+            "Name": "Chita-gun",
+            "NameAr": "كهيتا-جون"
+        },
+        {
+            "Code": "115764",
+            "Name": "Chitose",
+            "NameAr": "كهيتوسي"
+        },
+        {
+            "Code": "278235",
+            "Name": "Chosei District",
+            "NameAr": "كهوسيي ديستريكت"
+        },
+        {
+            "Code": "114366",
+            "Name": "Choshi",
+            "NameAr": "كهوسهي"
+        },
+        {
+            "Code": "114551",
+            "Name": "Chubu",
+            "NameAr": "كهوبو"
+        },
+        {
+            "Code": "114764",
+            "Name": "Chuo-ku",
+            "NameAr": "كهوو-كو"
+        },
+        {
+            "Code": "106244",
+            "Name": "Daisen",
+            "NameAr": "دايسين"
+        },
+        {
+            "Code": "106246",
+            "Name": "Date",
+            "NameAr": "داتي"
+        },
+        {
+            "Code": "346903",
+            "Name": "Dazaifu",
+            "NameAr": "دازايفو"
+        },
+        {
+            "Code": "116485",
+            "Name": "Ebina",
+            "NameAr": "يبينا"
+        },
+        {
+            "Code": "154393",
+            "Name": "Ehime",
+            "NameAr": "يهيمي"
+        },
+        {
+            "Code": "108222",
+            "Name": "Ena",
+            "NameAr": "ينا"
+        },
+        {
+            "Code": "105517",
+            "Name": "Engaru",
+            "NameAr": "ينجارو"
+        },
+        {
+            "Code": "105519",
+            "Name": "Erimo",
+            "NameAr": "يريمو"
+        },
+        {
+            "Code": "119037",
+            "Name": "Fuchu",
+            "NameAr": "فوكهو"
+        },
+        {
+            "Code": "105435",
+            "Name": "Fuefuki",
+            "NameAr": "فويفوكي"
+        },
+        {
+            "Code": "118643",
+            "Name": "Fuji",
+            "NameAr": "فوجي"
+        },
+        {
+            "Code": "101730",
+            "Name": "Fujieda",
+            "NameAr": "فوجييدا"
+        },
+        {
+            "Code": "118904",
+            "Name": "Fujikawaguchiko",
+            "NameAr": "فوجيكاواجوكهيكو"
+        },
+        {
+            "Code": "101731",
+            "Name": "Fujinomiya",
+            "NameAr": "فوجينومييا"
+        },
+        {
+            "Code": "105436",
+            "Name": "Fujisato",
+            "NameAr": "فوجيساتو"
+        },
+        {
+            "Code": "117967",
+            "Name": "Fujisawa",
+            "NameAr": "فوجيساوا"
+        },
+        {
+            "Code": "119583",
+            "Name": "Fujiyoshida",
+            "NameAr": "فوجييوسهيدا"
+        },
+        {
+            "Code": "235642",
+            "Name": "Fukagawa",
+            "NameAr": "فوكاجاوا"
+        },
+        {
+            "Code": "418149",
+            "Name": "Fukaura",
+            "NameAr": "فوكاورا"
+        },
+        {
+            "Code": "118905",
+            "Name": "Fukaya",
+            "NameAr": "فوكايا"
+        },
+        {
+            "Code": "102401",
+            "Name": "Fukuchiyama",
+            "NameAr": "فوكوكهيياما"
+        },
+        {
+            "Code": "118644",
+            "Name": "Fukui",
+            "NameAr": "فوكوي"
+        },
+        {
+            "Code": "118383",
+            "Name": "Fukuoka",
+            "NameAr": "فوكووكا"
+        },
+        {
+            "Code": "402074",
+            "Name": "Fukuroi",
+            "NameAr": "فوكوروي"
+        },
+        {
+            "Code": "118645",
+            "Name": "Fukushima",
+            "NameAr": "فوكوسهيما"
+        },
+        {
+            "Code": "117968",
+            "Name": "Fukuyama",
+            "NameAr": "فوكوياما"
+        },
+        {
+            "Code": "145288",
+            "Name": "Funabashi",
+            "NameAr": "فوناباسهي"
+        },
+        {
+            "Code": "118388",
+            "Name": "Furano",
+            "NameAr": "فورانو"
+        },
+        {
+            "Code": "118549",
+            "Name": "Gamagori",
+            "NameAr": "جاماجوري"
+        },
+        {
+            "Code": "108251",
+            "Name": "Geisei",
+            "NameAr": "جييسيي"
+        },
+        {
+            "Code": "118684",
+            "Name": "Gero",
+            "NameAr": "جيرو"
+        },
+        {
+            "Code": "119270",
+            "Name": "Gifu",
+            "NameAr": "جيفو"
+        },
+        {
+            "Code": "337687",
+            "Name": "Ginowan",
+            "NameAr": "جينووان"
+        },
+        {
+            "Code": "118705",
+            "Name": "Ginowan-shi",
+            "NameAr": "جينووان-سهي"
+        },
+        {
+            "Code": "119806",
+            "Name": "Gobo",
+            "NameAr": "جوبو"
+        },
+        {
+            "Code": "108264",
+            "Name": "Gotemba",
+            "NameAr": "جوتيمبا"
+        },
+        {
+            "Code": "101754",
+            "Name": "Goto",
+            "NameAr": "جوتو"
+        },
+        {
+            "Code": "417088",
+            "Name": "Gotsu",
+            "NameAr": "جوتسو"
+        },
+        {
+            "Code": "106129",
+            "Name": "Gujo",
+            "NameAr": "جوجو"
+        },
+        {
+            "Code": "120159",
+            "Name": "Gunma",
+            "NameAr": "جونما"
+        },
+        {
+            "Code": "101542",
+            "Name": "Hachijo",
+            "NameAr": "هاكهيجو"
+        },
+        {
+            "Code": "120442",
+            "Name": "Hachimantai",
+            "NameAr": "هاكهيمانتاي"
+        },
+        {
+            "Code": "145501",
+            "Name": "Hachinohe",
+            "NameAr": "هاكهينوهي"
+        },
+        {
+            "Code": "119529",
+            "Name": "Hachioji",
+            "NameAr": "هاكهيوجي"
+        },
+        {
+            "Code": "102428",
+            "Name": "Hadano",
+            "NameAr": "هادانو"
+        },
+        {
+            "Code": "385081",
+            "Name": "Hagi",
+            "NameAr": "هاجي"
+        },
+        {
+            "Code": "120084",
+            "Name": "Hakodate",
+            "NameAr": "هاكوداتي"
+        },
+        {
+            "Code": "120455",
+            "Name": "Hakone",
+            "NameAr": "هاكوني"
+        },
+        {
+            "Code": "120587",
+            "Name": "Hakuba",
+            "NameAr": "هاكوبا"
+        },
+        {
+            "Code": "101776",
+            "Name": "Hakusan",
+            "NameAr": "هاكوسان"
+        },
+        {
+            "Code": "119951",
+            "Name": "Hamamatsu",
+            "NameAr": "هاماماتسو"
+        },
+        {
+            "Code": "101778",
+            "Name": "Hamura",
+            "NameAr": "هامورا"
+        },
+        {
+            "Code": "120754",
+            "Name": "Hanamaki",
+            "NameAr": "هاناماكي"
+        },
+        {
+            "Code": "145531",
+            "Name": "Handa",
+            "NameAr": "هاندا"
+        },
+        {
+            "Code": "145533",
+            "Name": "Hanno",
+            "NameAr": "هاننو"
+        },
+        {
+            "Code": "102506",
+            "Name": "Hanyu",
+            "NameAr": "هانيو"
+        },
+        {
+            "Code": "212107",
+            "Name": "Hasami-cho",
+            "NameAr": "هاسامي-كهو"
+        },
+        {
+            "Code": "102450",
+            "Name": "Hashimoto",
+            "NameAr": "هاسهيموتو"
+        },
+        {
+            "Code": "151005",
+            "Name": "Hateruma",
+            "NameAr": "هاتيروما"
+        },
+        {
+            "Code": "120228",
+            "Name": "Hatsukaichi",
+            "NameAr": "هاتسوكايكهي"
+        },
+        {
+            "Code": "101547",
+            "Name": "Hayashima",
+            "NameAr": "هاياسهيما"
+        },
+        {
+            "Code": "106147",
+            "Name": "Hida",
+            "NameAr": "هيدا"
+        },
+        {
+            "Code": "293001",
+            "Name": "Higashi-osaka",
+            "NameAr": "هيجاسهي-وساكا"
+        },
+        {
+            "Code": "102438",
+            "Name": "Higashihiroshima",
+            "NameAr": "هيجاسهيهيروسهيما"
+        },
+        {
+            "Code": "120693",
+            "Name": "Higashiizu",
+            "NameAr": "هيجاسهييزو"
+        },
+        {
+            "Code": "120847",
+            "Name": "Higashikawa",
+            "NameAr": "هيجاسهيكاوا"
+        },
+        {
+            "Code": "106148",
+            "Name": "Higashimatsushima",
+            "NameAr": "هيجاسهيماتسوسهيما"
+        },
+        {
+            "Code": "299231",
+            "Name": "Higashimatsuyama",
+            "NameAr": "هيجاسهيماتسوياما"
+        },
+        {
+            "Code": "417087",
+            "Name": "Higashimorokata",
+            "NameAr": "هيجاسهيموروكاتا"
+        },
+        {
+            "Code": "102515",
+            "Name": "Higashimurayama",
+            "NameAr": "هيجاسهيموراياما"
+        },
+        {
+            "Code": "120933",
+            "Name": "Higashimuro-gun",
+            "NameAr": "هيجاسهيمورو-جون"
+        },
+        {
+            "Code": "108293",
+            "Name": "Higashiomi",
+            "NameAr": "هيجاسهيومي"
+        },
+        {
+            "Code": "121222",
+            "Name": "Hiji",
+            "NameAr": "هيجي"
+        },
+        {
+            "Code": "121347",
+            "Name": "Hikone",
+            "NameAr": "هيكوني"
+        },
+        {
+            "Code": "121353",
+            "Name": "Himeji",
+            "NameAr": "هيميجي"
+        },
+        {
+            "Code": "356530",
+            "Name": "Himi",
+            "NameAr": "هيمي"
+        },
+        {
+            "Code": "418161",
+            "Name": "Hino",
+            "NameAr": "هينو"
+        },
+        {
+            "Code": "102441",
+            "Name": "Hirado",
+            "NameAr": "هيرادو"
+        },
+        {
+            "Code": "106151",
+            "Name": "Hirakata",
+            "NameAr": "هيراكاتا"
+        },
+        {
+            "Code": "121232",
+            "Name": "Hiratsuka",
+            "NameAr": "هيراتسوكا"
+        },
+        {
+            "Code": "389372",
+            "Name": "Hirono",
+            "NameAr": "هيرونو"
+        },
+        {
+            "Code": "120708",
+            "Name": "Hirosaki",
+            "NameAr": "هيروساكي"
+        },
+        {
+            "Code": "120299",
+            "Name": "Hiroshima",
+            "NameAr": "هيروسهيما"
+        },
+        {
+            "Code": "120950",
+            "Name": "Hirugami Onsen",
+            "NameAr": "هيروجامي ونسين"
+        },
+        {
+            "Code": "397561",
+            "Name": "Hisayama",
+            "NameAr": "هيساياما"
+        },
+        {
+            "Code": "120711",
+            "Name": "Hita",
+            "NameAr": "هيتا"
+        },
+        {
+            "Code": "120712",
+            "Name": "Hitachi (Ibaraki)",
+            "NameAr": "هيتاكهي يباراكي"
+        },
+        {
+            "Code": "120303",
+            "Name": "Hitoyoshi",
+            "NameAr": "هيتويوسهي"
+        },
+        {
+            "Code": "154452",
+            "Name": "Hiyama-gun",
+            "NameAr": "هيياما-جون"
+        },
+        {
+            "Code": "105853",
+            "Name": "Hodatsushimizu",
+            "NameAr": "هوداتسوسهيميزو"
+        },
+        {
+            "Code": "121244",
+            "Name": "Hofu",
+            "NameAr": "هوفو"
+        },
+        {
+            "Code": "120974",
+            "Name": "Hokkaido",
+            "NameAr": "هوككايدو"
+        },
+        {
+            "Code": "120969",
+            "Name": "Hokuto",
+            "NameAr": "هوكوتو"
+        },
+        {
+            "Code": "121292",
+            "Name": "Houki",
+            "NameAr": "هووكي"
+        },
+        {
+            "Code": "150305",
+            "Name": "Hyogo",
+            "NameAr": "هيوجو"
+        },
+        {
+            "Code": "121442",
+            "Name": "Ibaraki",
+            "NameAr": "يباراكي"
+        },
+        {
+            "Code": "150317",
+            "Name": "Ibusuki",
+            "NameAr": "يبوسوكي"
+        },
+        {
+            "Code": "102532",
+            "Name": "Ichikawa",
+            "NameAr": "يكهيكاوا"
+        },
+        {
+            "Code": "145714",
+            "Name": "Ichinomiya",
+            "NameAr": "يكهينومييا"
+        },
+        {
+            "Code": "121446",
+            "Name": "Ichinoseki",
+            "NameAr": "يكهينوسيكي"
+        },
+        {
+            "Code": "360814",
+            "Name": "Ie",
+            "NameAr": "يي"
+        },
+        {
+            "Code": "145719",
+            "Name": "Iga",
+            "NameAr": "يجا"
+        },
+        {
+            "Code": "298738",
+            "Name": "Iheya",
+            "NameAr": "يهييا"
+        },
+        {
+            "Code": "122665",
+            "Name": "Iida",
+            "NameAr": "ييدا"
+        },
+        {
+            "Code": "105871",
+            "Name": "Iiyama",
+            "NameAr": "ييياما"
+        },
+        {
+            "Code": "385348",
+            "Name": "Ikaruga",
+            "NameAr": "يكاروجا"
+        },
+        {
+            "Code": "105872",
+            "Name": "Ikeda",
+            "NameAr": "يكيدا"
+        },
+        {
+            "Code": "292161",
+            "Name": "Iki",
+            "NameAr": "يكي"
+        },
+        {
+            "Code": "145724",
+            "Name": "Iki (Insel)",
+            "NameAr": "يكي ينسيل"
+        },
+        {
+            "Code": "121456",
+            "Name": "Ikuchi Island",
+            "NameAr": "يكوكهي يسلاند"
+        },
+        {
+            "Code": "122106",
+            "Name": "Imabari",
+            "NameAr": "يماباري"
+        },
+        {
+            "Code": "108320",
+            "Name": "Imari",
+            "NameAr": "يماري"
+        },
+        {
+            "Code": "122109",
+            "Name": "Inagawa",
+            "NameAr": "يناجاوا"
+        },
+        {
+            "Code": "303747",
+            "Name": "Inagi",
+            "NameAr": "يناجي"
+        },
+        {
+            "Code": "298497",
+            "Name": "Inawashiro",
+            "NameAr": "يناواسهيرو"
+        },
+        {
+            "Code": "122703",
+            "Name": "Inuyama",
+            "NameAr": "ينوياما"
+        },
+        {
+            "Code": "104067",
+            "Name": "Inzai",
+            "NameAr": "ينزاي"
+        },
+        {
+            "Code": "104069",
+            "Name": "Irabu",
+            "NameAr": "يرابو"
+        },
+        {
+            "Code": "121749",
+            "Name": "Iriomote Jima Island",
+            "NameAr": "يريوموتي جيما يسلاند"
+        },
+        {
+            "Code": "412287",
+            "Name": "Isa",
+            "NameAr": "يسا"
+        },
+        {
+            "Code": "104072",
+            "Name": "Isahaya",
+            "NameAr": "يساهايا"
+        },
+        {
+            "Code": "121494",
+            "Name": "Ise",
+            "NameAr": "يسي"
+        },
+        {
+            "Code": "105605",
+            "Name": "Isehara",
+            "NameAr": "يسيهارا"
+        },
+        {
+            "Code": "102346",
+            "Name": "Isesaki",
+            "NameAr": "يسيساكي"
+        },
+        {
+            "Code": "122712",
+            "Name": "Ishigaki",
+            "NameAr": "يسهيجاكي"
+        },
+        {
+            "Code": "284609",
+            "Name": "Ishikari",
+            "NameAr": "يسهيكاري"
+        },
+        {
+            "Code": "151808",
+            "Name": "Ishikawa",
+            "NameAr": "يسهيكاوا"
+        },
+        {
+            "Code": "105875",
+            "Name": "Ishinomaki",
+            "NameAr": "يسهينوماكي"
+        },
+        {
+            "Code": "297547",
+            "Name": "Isumi",
+            "NameAr": "يسومي"
+        },
+        {
+            "Code": "122428",
+            "Name": "Ito",
+            "NameAr": "يتو"
+        },
+        {
+            "Code": "122310",
+            "Name": "Itoman",
+            "NameAr": "يتومان"
+        },
+        {
+            "Code": "417538",
+            "Name": "Iwafune-gun",
+            "NameAr": "يوافوني-جون"
+        },
+        {
+            "Code": "122739",
+            "Name": "Iwaki",
+            "NameAr": "يواكي"
+        },
+        {
+            "Code": "105609",
+            "Name": "Iwakuni",
+            "NameAr": "يواكوني"
+        },
+        {
+            "Code": "106086",
+            "Name": "Iwakura",
+            "NameAr": "يواكورا"
+        },
+        {
+            "Code": "150534",
+            "Name": "Iwami",
+            "NameAr": "يوامي"
+        },
+        {
+            "Code": "154424",
+            "Name": "Iwate",
+            "NameAr": "يواتي"
+        },
+        {
+            "Code": "121508",
+            "Name": "Izu",
+            "NameAr": "يزو"
+        },
+        {
+            "Code": "122168",
+            "Name": "Izumiotsu",
+            "NameAr": "يزوميوتسو"
+        },
+        {
+            "Code": "145794",
+            "Name": "Izumisano",
+            "NameAr": "يزوميسانو"
+        },
+        {
+            "Code": "122169",
+            "Name": "Izumo",
+            "NameAr": "يزومو"
+        },
+        {
+            "Code": "122356",
+            "Name": "Joetsu",
+            "NameAr": "جويتسو"
+        },
+        {
+            "Code": "104085",
+            "Name": "Joso",
+            "NameAr": "جوسو"
+        },
+        {
+            "Code": "299732",
+            "Name": "Kadogawa",
+            "NameAr": "كادوجاوا"
+        },
+        {
+            "Code": "121821",
+            "Name": "Kadoma",
+            "NameAr": "كادوما"
+        },
+        {
+            "Code": "122800",
+            "Name": "Kaga",
+            "NameAr": "كاجا"
+        },
+        {
+            "Code": "154380",
+            "Name": "Kagawa",
+            "NameAr": "كاجاوا"
+        },
+        {
+            "Code": "122504",
+            "Name": "Kagoshima",
+            "NameAr": "كاجوسهيما"
+        },
+        {
+            "Code": "108349",
+            "Name": "Kahoku",
+            "NameAr": "كاهوكو"
+        },
+        {
+            "Code": "104091",
+            "Name": "Kainan",
+            "NameAr": "كاينان"
+        },
+        {
+            "Code": "108351",
+            "Name": "Kaizuka",
+            "NameAr": "كايزوكا"
+        },
+        {
+            "Code": "122234",
+            "Name": "Kakegawa",
+            "NameAr": "كاكيجاوا"
+        },
+        {
+            "Code": "154506",
+            "Name": "Kako-gun",
+            "NameAr": "كاكو-جون"
+        },
+        {
+            "Code": "101945",
+            "Name": "Kamaishi",
+            "NameAr": "كامايسهي"
+        },
+        {
+            "Code": "123489",
+            "Name": "Kamakura",
+            "NameAr": "كاماكورا"
+        },
+        {
+            "Code": "122821",
+            "Name": "Kameoka",
+            "NameAr": "كاميوكا"
+        },
+        {
+            "Code": "122248",
+            "Name": "Kameyama",
+            "NameAr": "كاميياما"
+        },
+        {
+            "Code": "160040",
+            "Name": "Kami,   Hyogo (prefecture)",
+            "NameAr": "كامي هيوجو بريفيكتوري"
+        },
+        {
+            "Code": "121844",
+            "Name": "Kamiamakusa",
+            "NameAr": "كامياماكوسا"
+        },
+        {
+            "Code": "106176",
+            "Name": "Kamifurano",
+            "NameAr": "كاميفورانو"
+        },
+        {
+            "Code": "103704",
+            "Name": "Kamiich",
+            "NameAr": "كامييكه"
+        },
+        {
+            "Code": "123492",
+            "Name": "Kamikawa",
+            "NameAr": "كاميكاوا"
+        },
+        {
+            "Code": "104095",
+            "Name": "Kamisu",
+            "NameAr": "كاميسو"
+        },
+        {
+            "Code": "298717",
+            "Name": "Kamo District",
+            "NameAr": "كامو ديستريكت"
+        },
+        {
+            "Code": "123192",
+            "Name": "Kamogawa",
+            "NameAr": "كاموجاوا"
+        },
+        {
+            "Code": "122927",
+            "Name": "Kanagawa",
+            "NameAr": "كاناجاوا"
+        },
+        {
+            "Code": "121850",
+            "Name": "Kanazawa",
+            "NameAr": "كانازاوا"
+        },
+        {
+            "Code": "123499",
+            "Name": "Kanda",
+            "NameAr": "كاندا"
+        },
+        {
+            "Code": "384786",
+            "Name": "Kanoya",
+            "NameAr": "كانويا"
+        },
+        {
+            "Code": "122837",
+            "Name": "Karatsu",
+            "NameAr": "كاراتسو"
+        },
+        {
+            "Code": "122271",
+            "Name": "Kariya",
+            "NameAr": "كارييا"
+        },
+        {
+            "Code": "122278",
+            "Name": "Karuizawa",
+            "NameAr": "كارويزاوا"
+        },
+        {
+            "Code": "148988",
+            "Name": "Kasama",
+            "NameAr": "كاساما"
+        },
+        {
+            "Code": "102539",
+            "Name": "Kashiba",
+            "NameAr": "كاسهيبا"
+        },
+        {
+            "Code": "122536",
+            "Name": "Kashihara",
+            "NameAr": "كاسهيهارا"
+        },
+        {
+            "Code": "376862",
+            "Name": "Kashiko Island",
+            "NameAr": "كاسهيكو يسلاند"
+        },
+        {
+            "Code": "103707",
+            "Name": "Kashiwa",
+            "NameAr": "كاسهيوا"
+        },
+        {
+            "Code": "303746",
+            "Name": "Katori",
+            "NameAr": "كاتوري"
+        },
+        {
+            "Code": "376422",
+            "Name": "Katsuragi",
+            "NameAr": "كاتسوراجي"
+        },
+        {
+            "Code": "123224",
+            "Name": "Katsuura",
+            "NameAr": "كاتسوورا"
+        },
+        {
+            "Code": "103955",
+            "Name": "Kawaba",
+            "NameAr": "كاوابا"
+        },
+        {
+            "Code": "108364",
+            "Name": "Kawachinagano",
+            "NameAr": "كاواكهيناجانو"
+        },
+        {
+            "Code": "123228",
+            "Name": "Kawagoe",
+            "NameAr": "كاواجوي"
+        },
+        {
+            "Code": "102543",
+            "Name": "Kawaguchi",
+            "NameAr": "كاواجوكهي"
+        },
+        {
+            "Code": "124192",
+            "Name": "Kawasaki",
+            "NameAr": "كاواساكي"
+        },
+        {
+            "Code": "123643",
+            "Name": "Kawazu",
+            "NameAr": "كاوازو"
+        },
+        {
+            "Code": "124194",
+            "Name": "Kazuno",
+            "NameAr": "كازونو"
+        },
+        {
+            "Code": "106185",
+            "Name": "Kesennuma",
+            "NameAr": "كيسيننوما"
+        },
+        {
+            "Code": "123551",
+            "Name": "Kikuchi",
+            "NameAr": "كيكوكهي"
+        },
+        {
+            "Code": "101673",
+            "Name": "Kikugawa",
+            "NameAr": "كيكوجاوا"
+        },
+        {
+            "Code": "398274",
+            "Name": "Kin",
+            "NameAr": "كين"
+        },
+        {
+            "Code": "122590",
+            "Name": "Kinosaki-gun",
+            "NameAr": "كينوساكي-جون"
+        },
+        {
+            "Code": "124256",
+            "Name": "Kirishima",
+            "NameAr": "كيريسهيما"
+        },
+        {
+            "Code": "145961",
+            "Name": "Kisarazu",
+            "NameAr": "كيسارازو"
+        },
+        {
+            "Code": "292084",
+            "Name": "Kishiwada",
+            "NameAr": "كيسهيوادا"
+        },
+        {
+            "Code": "416983",
+            "Name": "Kiso",
+            "NameAr": "كيسو"
+        },
+        {
+            "Code": "151396",
+            "Name": "Kitadaito",
+            "NameAr": "كيتادايتو"
+        },
+        {
+            "Code": "145966",
+            "Name": "Kitagawa",
+            "NameAr": "كيتاجاوا"
+        },
+        {
+            "Code": "122610",
+            "Name": "Kitahiroshima",
+            "NameAr": "كيتاهيروسهيما"
+        },
+        {
+            "Code": "123584",
+            "Name": "Kitakami",
+            "NameAr": "كيتاكامي"
+        },
+        {
+            "Code": "122611",
+            "Name": "Kitakyushu",
+            "NameAr": "كيتاكيوسهو"
+        },
+        {
+            "Code": "145967",
+            "Name": "Kitami",
+            "NameAr": "كيتامي"
+        },
+        {
+            "Code": "104111",
+            "Name": "Kitanakagusuku",
+            "NameAr": "كيتاناكاجوسوكو"
+        },
+        {
+            "Code": "145968",
+            "Name": "Kitashiobara",
+            "NameAr": "كيتاسهيوبارا"
+        },
+        {
+            "Code": "259347",
+            "Name": "Kiyokawa",
+            "NameAr": "كييوكاوا"
+        },
+        {
+            "Code": "123054",
+            "Name": "Kobe",
+            "NameAr": "كوبي"
+        },
+        {
+            "Code": "123607",
+            "Name": "Kochi",
+            "NameAr": "كوكهي"
+        },
+        {
+            "Code": "145990",
+            "Name": "Kofu",
+            "NameAr": "كوفو"
+        },
+        {
+            "Code": "123871",
+            "Name": "Koka",
+            "NameAr": "كوكا"
+        },
+        {
+            "Code": "101688",
+            "Name": "Komagane",
+            "NameAr": "كوماجاني"
+        },
+        {
+            "Code": "124949",
+            "Name": "Komatsu",
+            "NameAr": "كوماتسو"
+        },
+        {
+            "Code": "103649",
+            "Name": "Komono",
+            "NameAr": "كومونو"
+        },
+        {
+            "Code": "122626",
+            "Name": "Komoro",
+            "NameAr": "كومورو"
+        },
+        {
+            "Code": "124959",
+            "Name": "Koriyama",
+            "NameAr": "كوريياما"
+        },
+        {
+            "Code": "108381",
+            "Name": "Kosai",
+            "NameAr": "كوساي"
+        },
+        {
+            "Code": "124006",
+            "Name": "Kota",
+            "NameAr": "كوتا"
+        },
+        {
+            "Code": "103882",
+            "Name": "Kotohira",
+            "NameAr": "كوتوهيرا"
+        },
+        {
+            "Code": "418157",
+            "Name": "Kotoura",
+            "NameAr": "كوتوورا"
+        },
+        {
+            "Code": "124291",
+            "Name": "Koya-san",
+            "NameAr": "كويا-سان"
+        },
+        {
+            "Code": "418144",
+            "Name": "Kudamatsu,   Yamaguchi Prefecture",
+            "NameAr": "كوداماتسو ياماجوكهي بريفيكتوري"
+        },
+        {
+            "Code": "123772",
+            "Name": "Kuju",
+            "NameAr": "كوجو"
+        },
+        {
+            "Code": "123773",
+            "Name": "Kumagaya",
+            "NameAr": "كوماجايا"
+        },
+        {
+            "Code": "123915",
+            "Name": "Kumamoto",
+            "NameAr": "كوماموتو"
+        },
+        {
+            "Code": "104132",
+            "Name": "Kumano (Mie)",
+            "NameAr": "كومانو ميي"
+        },
+        {
+            "Code": "146050",
+            "Name": "Kumejima",
+            "NameAr": "كوميجيما"
+        },
+        {
+            "Code": "154374",
+            "Name": "Kunigami",
+            "NameAr": "كونيجامي"
+        },
+        {
+            "Code": "124321",
+            "Name": "Kurashiki",
+            "NameAr": "كوراسهيكي"
+        },
+        {
+            "Code": "101702",
+            "Name": "Kurayoshi",
+            "NameAr": "كورايوسهي"
+        },
+        {
+            "Code": "124448",
+            "Name": "Kure",
+            "NameAr": "كوري"
+        },
+        {
+            "Code": "108390",
+            "Name": "Kuriyama",
+            "NameAr": "كوريياما"
+        },
+        {
+            "Code": "123349",
+            "Name": "Kurobe",
+            "NameAr": "كوروبي"
+        },
+        {
+            "Code": "101977",
+            "Name": "Kuroiso",
+            "NameAr": "كورويسو"
+        },
+        {
+            "Code": "402216",
+            "Name": "Kurokawa",
+            "NameAr": "كوروكاوا"
+        },
+        {
+            "Code": "125011",
+            "Name": "Kurume",
+            "NameAr": "كورومي"
+        },
+        {
+            "Code": "125014",
+            "Name": "Kusatsu (Gunma)",
+            "NameAr": "كوساتسو جونما"
+        },
+        {
+            "Code": "123353",
+            "Name": "Kusatsu (Shiga)",
+            "NameAr": "كوساتسو سهيجا"
+        },
+        {
+            "Code": "123918",
+            "Name": "Kushimoto",
+            "NameAr": "كوسهيموتو"
+        },
+        {
+            "Code": "125015",
+            "Name": "Kushiro",
+            "NameAr": "كوسهيرو"
+        },
+        {
+            "Code": "124452",
+            "Name": "Kutchan",
+            "NameAr": "كوتكهان"
+        },
+        {
+            "Code": "125018",
+            "Name": "Kuwana",
+            "NameAr": "كووانا"
+        },
+        {
+            "Code": "123792",
+            "Name": "Kyotango",
+            "NameAr": "كيوتانجو"
+        },
+        {
+            "Code": "123363",
+            "Name": "Kyoto",
+            "NameAr": "كيوتو"
+        },
+        {
+            "Code": "103777",
+            "Name": "Machida",
+            "NameAr": "ماكهيدا"
+        },
+        {
+            "Code": "125678",
+            "Name": "Maebashi",
+            "NameAr": "مايباسهي"
+        },
+        {
+            "Code": "127086",
+            "Name": "Maizuru",
+            "NameAr": "مايزورو"
+        },
+        {
+            "Code": "104020",
+            "Name": "Makinohara",
+            "NameAr": "ماكينوهارا"
+        },
+        {
+            "Code": "128042",
+            "Name": "Maniwa",
+            "NameAr": "مانيوا"
+        },
+        {
+            "Code": "304520",
+            "Name": "Manno",
+            "NameAr": "ماننو"
+        },
+        {
+            "Code": "128097",
+            "Name": "Marugame",
+            "NameAr": "ماروجامي"
+        },
+        {
+            "Code": "353391",
+            "Name": "Masuda",
+            "NameAr": "ماسودا"
+        },
+        {
+            "Code": "282348",
+            "Name": "Matsubara",
+            "NameAr": "ماتسوبارا"
+        },
+        {
+            "Code": "127534",
+            "Name": "Matsue",
+            "NameAr": "ماتسوي"
+        },
+        {
+            "Code": "128119",
+            "Name": "Matsumoto",
+            "NameAr": "ماتسوموتو"
+        },
+        {
+            "Code": "127535",
+            "Name": "Matsusaka",
+            "NameAr": "ماتسوساكا"
+        },
+        {
+            "Code": "128155",
+            "Name": "Matsuyama",
+            "NameAr": "ماتسوياما"
+        },
+        {
+            "Code": "150901",
+            "Name": "Memanbetsu",
+            "NameAr": "ميمانبيتسو"
+        },
+        {
+            "Code": "127201",
+            "Name": "Mihara",
+            "NameAr": "ميهارا"
+        },
+        {
+            "Code": "254628",
+            "Name": "Mikata District",
+            "NameAr": "ميكاتا ديستريكت"
+        },
+        {
+            "Code": "103819",
+            "Name": "Mimasaka",
+            "NameAr": "ميماساكا"
+        },
+        {
+            "Code": "128286",
+            "Name": "Minabe",
+            "NameAr": "مينابي"
+        },
+        {
+            "Code": "146638",
+            "Name": "Minakami-machi",
+            "NameAr": "ميناكامي-ماكهي"
+        },
+        {
+            "Code": "297550",
+            "Name": "Minamata",
+            "NameAr": "ميناماتا"
+        },
+        {
+            "Code": "146639",
+            "Name": "Minami",
+            "NameAr": "مينامي"
+        },
+        {
+            "Code": "104352",
+            "Name": "Minami Alps",
+            "NameAr": "مينامي البس"
+        },
+        {
+            "Code": "104779",
+            "Name": "Minami Uonuma",
+            "NameAr": "مينامي وونوما"
+        },
+        {
+            "Code": "128287",
+            "Name": "Minami-Awaji",
+            "NameAr": "مينامي-اواجي"
+        },
+        {
+            "Code": "102629",
+            "Name": "Minamiaso",
+            "NameAr": "مينامياسو"
+        },
+        {
+            "Code": "127210",
+            "Name": "Minamiboso",
+            "NameAr": "ميناميبوسو"
+        },
+        {
+            "Code": "146640",
+            "Name": "Minamichita",
+            "NameAr": "ميناميكهيتا"
+        },
+        {
+            "Code": "294324",
+            "Name": "Minamidaito",
+            "NameAr": "ميناميدايتو"
+        },
+        {
+            "Code": "127664",
+            "Name": "Minamiizu",
+            "NameAr": "مينامييزو"
+        },
+        {
+            "Code": "146641",
+            "Name": "Minamioguni",
+            "NameAr": "ميناميوجوني"
+        },
+        {
+            "Code": "304503",
+            "Name": "Minamisaku District",
+            "NameAr": "ميناميساكو ديستريكت"
+        },
+        {
+            "Code": "104780",
+            "Name": "Minamitane",
+            "NameAr": "ميناميتاني"
+        },
+        {
+            "Code": "300676",
+            "Name": "Minamitsuru District",
+            "NameAr": "ميناميتسورو ديستريكت"
+        },
+        {
+            "Code": "128249",
+            "Name": "Minamiuonuma",
+            "NameAr": "ميناميوونوما"
+        },
+        {
+            "Code": "384839",
+            "Name": "Minamiyamashiro",
+            "NameAr": "ميناميياماسهيرو"
+        },
+        {
+            "Code": "104783",
+            "Name": "Misaki",
+            "NameAr": "ميساكي"
+        },
+        {
+            "Code": "403352",
+            "Name": "Misasa",
+            "NameAr": "ميساسا"
+        },
+        {
+            "Code": "128608",
+            "Name": "Misawa",
+            "NameAr": "ميساوا"
+        },
+        {
+            "Code": "127787",
+            "Name": "Mishima",
+            "NameAr": "ميسهيما"
+        },
+        {
+            "Code": "128614",
+            "Name": "Mito",
+            "NameAr": "ميتو"
+        },
+        {
+            "Code": "102633",
+            "Name": "Miura",
+            "NameAr": "ميورا"
+        },
+        {
+            "Code": "154428",
+            "Name": "Miyagi",
+            "NameAr": "ميياجي"
+        },
+        {
+            "Code": "128618",
+            "Name": "Miyajima Island",
+            "NameAr": "ميياجيما يسلاند"
+        },
+        {
+            "Code": "104197",
+            "Name": "Miyako",
+            "NameAr": "ميياكو"
+        },
+        {
+            "Code": "128619",
+            "Name": "Miyako Jima Island",
+            "NameAr": "ميياكو جيما يسلاند"
+        },
+        {
+            "Code": "104357",
+            "Name": "Miyakojima",
+            "NameAr": "ميياكوجيما"
+        },
+        {
+            "Code": "128620",
+            "Name": "Miyakonojo",
+            "NameAr": "ميياكونوجو"
+        },
+        {
+            "Code": "102813",
+            "Name": "Miyawaka",
+            "NameAr": "ميياواكا"
+        },
+        {
+            "Code": "127231",
+            "Name": "Miyazaki",
+            "NameAr": "مييازاكي"
+        },
+        {
+            "Code": "128621",
+            "Name": "Miyazu",
+            "NameAr": "مييازو"
+        },
+        {
+            "Code": "104358",
+            "Name": "Miyoshi",
+            "NameAr": "مييوسهي"
+        },
+        {
+            "Code": "104235",
+            "Name": "Miyota",
+            "NameAr": "مييوتا"
+        },
+        {
+            "Code": "127235",
+            "Name": "Mogami",
+            "NameAr": "موجامي"
+        },
+        {
+            "Code": "106516",
+            "Name": "Mombetsu",
+            "NameAr": "مومبيتسو"
+        },
+        {
+            "Code": "150903",
+            "Name": "Monbetsu",
+            "NameAr": "مونبيتسو"
+        },
+        {
+            "Code": "127977",
+            "Name": "Moriguchi",
+            "NameAr": "موريجوكهي"
+        },
+        {
+            "Code": "129043",
+            "Name": "Morioka",
+            "NameAr": "موريوكا"
+        },
+        {
+            "Code": "102991",
+            "Name": "Moriyama",
+            "NameAr": "موريياما"
+        },
+        {
+            "Code": "146748",
+            "Name": "Motobu",
+            "NameAr": "موتوبو"
+        },
+        {
+            "Code": "129697",
+            "Name": "Munakata",
+            "NameAr": "موناكاتا"
+        },
+        {
+            "Code": "361198",
+            "Name": "Murakami",
+            "NameAr": "موراكامي"
+        },
+        {
+            "Code": "102847",
+            "Name": "Muraoka",
+            "NameAr": "موراوكا"
+        },
+        {
+            "Code": "151637",
+            "Name": "Muroran",
+            "NameAr": "موروران"
+        },
+        {
+            "Code": "129436",
+            "Name": "Musashino",
+            "NameAr": "موساسهينو"
+        },
+        {
+            "Code": "129440",
+            "Name": "Mutsu",
+            "NameAr": "موتسو"
+        },
+        {
+            "Code": "129141",
+            "Name": "Myoko",
+            "NameAr": "ميوكو"
+        },
+        {
+            "Code": "103008",
+            "Name": "Nabari",
+            "NameAr": "ناباري"
+        },
+        {
+            "Code": "129445",
+            "Name": "Nachikatsuura",
+            "NameAr": "ناكهيكاتسوورا"
+        },
+        {
+            "Code": "146796",
+            "Name": "Nagahama",
+            "NameAr": "ناجاهاما"
+        },
+        {
+            "Code": "418154",
+            "Name": "Nagai",
+            "NameAr": "ناجاي"
+        },
+        {
+            "Code": "346934",
+            "Name": "Nagaizumi",
+            "NameAr": "ناجايزومي"
+        },
+        {
+            "Code": "129147",
+            "Name": "Nagano",
+            "NameAr": "ناجانو"
+        },
+        {
+            "Code": "129252",
+            "Name": "Nagaoka",
+            "NameAr": "ناجاوكا"
+        },
+        {
+            "Code": "104259",
+            "Name": "Nagara",
+            "NameAr": "ناجارا"
+        },
+        {
+            "Code": "342990",
+            "Name": "Nagareyama",
+            "NameAr": "ناجاريياما"
+        },
+        {
+            "Code": "128705",
+            "Name": "Nagasaki",
+            "NameAr": "ناجاساكي"
+        },
+        {
+            "Code": "130101",
+            "Name": "Nago",
+            "NameAr": "ناجو"
+        },
+        {
+            "Code": "129148",
+            "Name": "Nagoya",
+            "NameAr": "ناجويا"
+        },
+        {
+            "Code": "129725",
+            "Name": "Naha",
+            "NameAr": "ناها"
+        },
+        {
+            "Code": "154513",
+            "Name": "Naka",
+            "NameAr": "ناكا"
+        },
+        {
+            "Code": "154471",
+            "Name": "Naka District",
+            "NameAr": "ناكا ديستريكت"
+        },
+        {
+            "Code": "154483",
+            "Name": "Nakagami District",
+            "NameAr": "ناكاجامي ديستريكت"
+        },
+        {
+            "Code": "128708",
+            "Name": "Nakano",
+            "NameAr": "ناكانو"
+        },
+        {
+            "Code": "102028",
+            "Name": "Nakanojo",
+            "NameAr": "ناكانوجو"
+        },
+        {
+            "Code": "104507",
+            "Name": "Nakasatsunai",
+            "NameAr": "ناكاساتسوناي"
+        },
+        {
+            "Code": "151540",
+            "Name": "Nakashibetsu",
+            "NameAr": "ناكاسهيبيتسو"
+        },
+        {
+            "Code": "351782",
+            "Name": "Nakatsu",
+            "NameAr": "ناكاتسو"
+        },
+        {
+            "Code": "130104",
+            "Name": "Nakijin",
+            "NameAr": "ناكيجين"
+        },
+        {
+            "Code": "146801",
+            "Name": "Nanao",
+            "NameAr": "ناناو"
+        },
+        {
+            "Code": "102853",
+            "Name": "Nanjo",
+            "NameAr": "نانجو"
+        },
+        {
+            "Code": "129158",
+            "Name": "Nankan",
+            "NameAr": "نانكان"
+        },
+        {
+            "Code": "106537",
+            "Name": "Nantan",
+            "NameAr": "نانتان"
+        },
+        {
+            "Code": "102031",
+            "Name": "Naoshima",
+            "NameAr": "ناوسهيما"
+        },
+        {
+            "Code": "130114",
+            "Name": "Nara",
+            "NameAr": "نارا"
+        },
+        {
+            "Code": "129736",
+            "Name": "Narashino",
+            "NameAr": "ناراسهينو"
+        },
+        {
+            "Code": "128724",
+            "Name": "Narita",
+            "NameAr": "ناريتا"
+        },
+        {
+            "Code": "129796",
+            "Name": "Naruto",
+            "NameAr": "ناروتو"
+        },
+        {
+            "Code": "146817",
+            "Name": "Nasu",
+            "NameAr": "ناسو"
+        },
+        {
+            "Code": "300166",
+            "Name": "Nasukarasuyama",
+            "NameAr": "ناسوكاراسوياما"
+        },
+        {
+            "Code": "104511",
+            "Name": "Nasushiobara",
+            "NameAr": "ناسوسهيوبارا"
+        },
+        {
+            "Code": "104512",
+            "Name": "Natori",
+            "NameAr": "ناتوري"
+        },
+        {
+            "Code": "102859",
+            "Name": "Nayoro",
+            "NameAr": "نايورو"
+        },
+        {
+            "Code": "129761",
+            "Name": "Nemuro",
+            "NameAr": "نيمورو"
+        },
+        {
+            "Code": "102872",
+            "Name": "Neyagawa",
+            "NameAr": "نيياجاوا"
+        },
+        {
+            "Code": "102873",
+            "Name": "Nichinan",
+            "NameAr": "نيكهينان"
+        },
+        {
+            "Code": "130478",
+            "Name": "Niigata",
+            "NameAr": "نييجاتا"
+        },
+        {
+            "Code": "150912",
+            "Name": "Niihama",
+            "NameAr": "نييهاما"
+        },
+        {
+            "Code": "106547",
+            "Name": "Niikappu",
+            "NameAr": "نييكاببو"
+        },
+        {
+            "Code": "418146",
+            "Name": "Nikaho,   Akita Prefecture",
+            "NameAr": "نيكاهو اكيتا بريفيكتوري"
+        },
+        {
+            "Code": "130540",
+            "Name": "Nikko",
+            "NameAr": "نيككو"
+        },
+        {
+            "Code": "104379",
+            "Name": "Nirasaki",
+            "NameAr": "نيراساكي"
+        },
+        {
+            "Code": "131136",
+            "Name": "Niseko",
+            "NameAr": "نيسيكو"
+        },
+        {
+            "Code": "213925",
+            "Name": "Nishihara",
+            "NameAr": "نيسهيهارا"
+        },
+        {
+            "Code": "129904",
+            "Name": "Nishinomiya",
+            "NameAr": "نيسهينومييا"
+        },
+        {
+            "Code": "151236",
+            "Name": "Nishinoomote",
+            "NameAr": "نيسهينووموتي"
+        },
+        {
+            "Code": "104277",
+            "Name": "Nishitsugaru District",
+            "NameAr": "نيسهيتسوجارو ديستريكت"
+        },
+        {
+            "Code": "131137",
+            "Name": "Nishiwaga",
+            "NameAr": "نيسهيواجا"
+        },
+        {
+            "Code": "129905",
+            "Name": "Nishiwaki",
+            "NameAr": "نيسهيواكي"
+        },
+        {
+            "Code": "130201",
+            "Name": "Nobeoka",
+            "NameAr": "نوبيوكا"
+        },
+        {
+            "Code": "131145",
+            "Name": "Noboribetsu",
+            "NameAr": "نوبوريبيتسو"
+        },
+        {
+            "Code": "131151",
+            "Name": "Nomi",
+            "NameAr": "نومي"
+        },
+        {
+            "Code": "129525",
+            "Name": "Nozawaonsen",
+            "NameAr": "نوزاواونسين"
+        },
+        {
+            "Code": "102888",
+            "Name": "Numata",
+            "NameAr": "نوماتا"
+        },
+        {
+            "Code": "130916",
+            "Name": "Numazu",
+            "NameAr": "نومازو"
+        },
+        {
+            "Code": "418168",
+            "Name": "Nyuzen",
+            "NameAr": "نيوزين"
+        },
+        {
+            "Code": "130063",
+            "Name": "Obama",
+            "NameAr": "وباما"
+        },
+        {
+            "Code": "418147",
+            "Name": "Obanazawa",
+            "NameAr": "وبانازاوا"
+        },
+        {
+            "Code": "130605",
+            "Name": "Obihiro",
+            "NameAr": "وبيهيرو"
+        },
+        {
+            "Code": "106563",
+            "Name": "Odate",
+            "NameAr": "وداتي"
+        },
+        {
+            "Code": "146972",
+            "Name": "Odawara",
+            "NameAr": "وداوارا"
+        },
+        {
+            "Code": "402239",
+            "Name": "Oga",
+            "NameAr": "وجا"
+        },
+        {
+            "Code": "130956",
+            "Name": "Ogaki",
+            "NameAr": "وجاكي"
+        },
+        {
+            "Code": "130224",
+            "Name": "Oiso",
+            "NameAr": "ويسو"
+        },
+        {
+            "Code": "146982",
+            "Name": "Oita",
+            "NameAr": "ويتا"
+        },
+        {
+            "Code": "389703",
+            "Name": "Okawa",
+            "NameAr": "وكاوا"
+        },
+        {
+            "Code": "130226",
+            "Name": "Okayama",
+            "NameAr": "وكاياما"
+        },
+        {
+            "Code": "131903",
+            "Name": "Okazaki",
+            "NameAr": "وكازاكي"
+        },
+        {
+            "Code": "130653",
+            "Name": "Okinawa",
+            "NameAr": "وكيناوا"
+        },
+        {
+            "Code": "151161",
+            "Name": "Okino Erabu",
+            "NameAr": "وكينو يرابو"
+        },
+        {
+            "Code": "150658",
+            "Name": "Okushiri",
+            "NameAr": "وكوسهيري"
+        },
+        {
+            "Code": "131273",
+            "Name": "Omachi",
+            "NameAr": "وماكهي"
+        },
+        {
+            "Code": "102064",
+            "Name": "Omaezaki",
+            "NameAr": "ومايزاكي"
+        },
+        {
+            "Code": "102891",
+            "Name": "Ome",
+            "NameAr": "ومي"
+        },
+        {
+            "Code": "130668",
+            "Name": "Omihachiman",
+            "NameAr": "وميهاكهيمان"
+        },
+        {
+            "Code": "130243",
+            "Name": "Omiya",
+            "NameAr": "ومييا"
+        },
+        {
+            "Code": "150660",
+            "Name": "Omura",
+            "NameAr": "ومورا"
+        },
+        {
+            "Code": "403435",
+            "Name": "Omuta",
+            "NameAr": "وموتا"
+        },
+        {
+            "Code": "102892",
+            "Name": "Onjuku",
+            "NameAr": "ونجوكو"
+        },
+        {
+            "Code": "106566",
+            "Name": "Onna",
+            "NameAr": "وننا"
+        },
+        {
+            "Code": "130987",
+            "Name": "Onomichi",
+            "NameAr": "ونوميكهي"
+        },
+        {
+            "Code": "417166",
+            "Name": "Onuma-gun",
+            "NameAr": "ونوما-جون"
+        },
+        {
+            "Code": "130813",
+            "Name": "Osaka",
+            "NameAr": "وساكا"
+        },
+        {
+            "Code": "103401",
+            "Name": "Osaki",
+            "NameAr": "وساكي"
+        },
+        {
+            "Code": "131955",
+            "Name": "Oshu",
+            "NameAr": "وسهو"
+        },
+        {
+            "Code": "367123",
+            "Name": "Ota",
+            "NameAr": "وتا"
+        },
+        {
+            "Code": "104412",
+            "Name": "Otari",
+            "NameAr": "وتاري"
+        },
+        {
+            "Code": "131350",
+            "Name": "Otaru",
+            "NameAr": "وتارو"
+        },
+        {
+            "Code": "412314",
+            "Name": "Otawara",
+            "NameAr": "وتاوارا"
+        },
+        {
+            "Code": "130718",
+            "Name": "Otofuke",
+            "NameAr": "وتوفوكي"
+        },
+        {
+            "Code": "130829",
+            "Name": "Otsu",
+            "NameAr": "وتسو"
+        },
+        {
+            "Code": "130734",
+            "Name": "Owani",
+            "NameAr": "وواني"
+        },
+        {
+            "Code": "103053",
+            "Name": "Oyama",
+            "NameAr": "وياما"
+        },
+        {
+            "Code": "102004",
+            "Name": "Pippu",
+            "NameAr": "بيببو"
+        },
+        {
+            "Code": "108403",
+            "Name": "Prafektur Kagawa",
+            "NameAr": "برافيكتور كاجاوا"
+        },
+        {
+            "Code": "151320",
+            "Name": "Rebun",
+            "NameAr": "ريبون"
+        },
+        {
+            "Code": "135715",
+            "Name": "Rishirifuji",
+            "NameAr": "ريسهيريفوجي"
+        },
+        {
+            "Code": "108457",
+            "Name": "Rusutsu",
+            "NameAr": "روسوتسو"
+        },
+        {
+            "Code": "381880",
+            "Name": "Ryugasaki",
+            "NameAr": "ريوجاساكي"
+        },
+        {
+            "Code": "102716",
+            "Name": "Sado",
+            "NameAr": "سادو"
+        },
+        {
+            "Code": "135490",
+            "Name": "Saga",
+            "NameAr": "ساجا"
+        },
+        {
+            "Code": "300169",
+            "Name": "Sagae",
+            "NameAr": "ساجاي"
+        },
+        {
+            "Code": "147606",
+            "Name": "Sagamihara",
+            "NameAr": "ساجاميهارا"
+        },
+        {
+            "Code": "135242",
+            "Name": "Saigo",
+            "NameAr": "سايجو"
+        },
+        {
+            "Code": "135805",
+            "Name": "Saijo",
+            "NameAr": "سايجو"
+        },
+        {
+            "Code": "103229",
+            "Name": "Saiki",
+            "NameAr": "سايكي"
+        },
+        {
+            "Code": "158757",
+            "Name": "Saitama,   Saitama (prefecture)",
+            "NameAr": "سايتاما سايتاما بريفيكتوري"
+        },
+        {
+            "Code": "135846",
+            "Name": "Saitama-shi",
+            "NameAr": "سايتاما-سهي"
+        },
+        {
+            "Code": "135688",
+            "Name": "Sakai",
+            "NameAr": "ساكاي"
+        },
+        {
+            "Code": "107319",
+            "Name": "Sakaiminato",
+            "NameAr": "ساكايميناتو"
+        },
+        {
+            "Code": "135312",
+            "Name": "Sakaki",
+            "NameAr": "ساكاكي"
+        },
+        {
+            "Code": "134846",
+            "Name": "Sakata",
+            "NameAr": "ساكاتا"
+        },
+        {
+            "Code": "107320",
+            "Name": "Saku (Nagano)",
+            "NameAr": "ساكو ناجانو"
+        },
+        {
+            "Code": "103251",
+            "Name": "Sakura",
+            "NameAr": "ساكورا"
+        },
+        {
+            "Code": "381851",
+            "Name": "Sakura",
+            "NameAr": "ساكورا"
+        },
+        {
+            "Code": "106756",
+            "Name": "Sakurai",
+            "NameAr": "ساكوراي"
+        },
+        {
+            "Code": "106760",
+            "Name": "Samani",
+            "NameAr": "ساماني"
+        },
+        {
+            "Code": "135521",
+            "Name": "Sanada",
+            "NameAr": "سانادا"
+        },
+        {
+            "Code": "135976",
+            "Name": "Sanda",
+            "NameAr": "ساندا"
+        },
+        {
+            "Code": "135988",
+            "Name": "Sanjo",
+            "NameAr": "سانجو"
+        },
+        {
+            "Code": "135996",
+            "Name": "Sano",
+            "NameAr": "سانو"
+        },
+        {
+            "Code": "147771",
+            "Name": "Sapporo,   Hokkaido",
+            "NameAr": "ساببورو هوككايدو"
+        },
+        {
+            "Code": "107041",
+            "Name": "Saroma",
+            "NameAr": "ساروما"
+        },
+        {
+            "Code": "137203",
+            "Name": "Sasebo",
+            "NameAr": "ساسيبو"
+        },
+        {
+            "Code": "107042",
+            "Name": "Satsumasendai",
+            "NameAr": "ساتسوماسينداي"
+        },
+        {
+            "Code": "297548",
+            "Name": "Satte",
+            "NameAr": "ساتتي"
+        },
+        {
+            "Code": "281500",
+            "Name": "Sawara",
+            "NameAr": "ساوارا"
+        },
+        {
+            "Code": "136999",
+            "Name": "Semboku",
+            "NameAr": "سيمبوكو"
+        },
+        {
+            "Code": "137004",
+            "Name": "Sendai",
+            "NameAr": "سينداي"
+        },
+        {
+            "Code": "103577",
+            "Name": "Sennan",
+            "NameAr": "سيننان"
+        },
+        {
+            "Code": "154695",
+            "Name": "Sera-gun",
+            "NameAr": "سيرا-جون"
+        },
+        {
+            "Code": "136796",
+            "Name": "Shari",
+            "NameAr": "سهاري"
+        },
+        {
+            "Code": "103536",
+            "Name": "Shibata",
+            "NameAr": "سهيباتا"
+        },
+        {
+            "Code": "160755",
+            "Name": "Shibetsu",
+            "NameAr": "سهيبيتسو"
+        },
+        {
+            "Code": "150318",
+            "Name": "Shibukawa",
+            "NameAr": "سهيبوكاوا"
+        },
+        {
+            "Code": "136809",
+            "Name": "Shiga",
+            "NameAr": "سهيجا"
+        },
+        {
+            "Code": "418160",
+            "Name": "Shijonawate",
+            "NameAr": "سهيجوناواتي"
+        },
+        {
+            "Code": "108534",
+            "Name": "Shikokuchuo",
+            "NameAr": "سهيكوكوكهوو"
+        },
+        {
+            "Code": "138671",
+            "Name": "Shima",
+            "NameAr": "سهيما"
+        },
+        {
+            "Code": "137442",
+            "Name": "Shimabara",
+            "NameAr": "سهيمابارا"
+        },
+        {
+            "Code": "103173",
+            "Name": "Shimada",
+            "NameAr": "سهيمادا"
+        },
+        {
+            "Code": "292566",
+            "Name": "Shimamoto",
+            "NameAr": "سهيماموتو"
+        },
+        {
+            "Code": "138672",
+            "Name": "Shimanto",
+            "NameAr": "سهيمانتو"
+        },
+        {
+            "Code": "138674",
+            "Name": "Shimoda",
+            "NameAr": "سهيمودا"
+        },
+        {
+            "Code": "376874",
+            "Name": "Shimogo",
+            "NameAr": "سهيموجو"
+        },
+        {
+            "Code": "150678",
+            "Name": "Shimojishima",
+            "NameAr": "سهيموجيسهيما"
+        },
+        {
+            "Code": "137313",
+            "Name": "Shimonoseki",
+            "NameAr": "سهيمونوسيكي"
+        },
+        {
+            "Code": "154419",
+            "Name": "Shimotakai District",
+            "NameAr": "سهيموتاكاي ديستريكت"
+        },
+        {
+            "Code": "103584",
+            "Name": "Shinano",
+            "NameAr": "سهينانو"
+        },
+        {
+            "Code": "103388",
+            "Name": "Shingu",
+            "NameAr": "سهينجو"
+        },
+        {
+            "Code": "107375",
+            "Name": "Shinhidaka",
+            "NameAr": "سهينهيداكا"
+        },
+        {
+            "Code": "137314",
+            "Name": "Shinjo",
+            "NameAr": "سهينجو"
+        },
+        {
+            "Code": "293107",
+            "Name": "Shinjuku",
+            "NameAr": "سهينجوكو"
+        },
+        {
+            "Code": "103389",
+            "Name": "Shinshiro",
+            "NameAr": "سهينسهيرو"
+        },
+        {
+            "Code": "137579",
+            "Name": "Shintoku",
+            "NameAr": "سهينتوكو"
+        },
+        {
+            "Code": "103537",
+            "Name": "Shiogama",
+            "NameAr": "سهيوجاما"
+        },
+        {
+            "Code": "103585",
+            "Name": "Shiojiri",
+            "NameAr": "سهيوجيري"
+        },
+        {
+            "Code": "137580",
+            "Name": "Shirahama",
+            "NameAr": "سهيراهاما"
+        },
+        {
+            "Code": "136299",
+            "Name": "Shirakawa",
+            "NameAr": "سهيراكاوا"
+        },
+        {
+            "Code": "103586",
+            "Name": "Shirako",
+            "NameAr": "سهيراكو"
+        },
+        {
+            "Code": "418173",
+            "Name": "Shiraoka",
+            "NameAr": "سهيراوكا"
+        },
+        {
+            "Code": "137445",
+            "Name": "shiretoko",
+            "NameAr": "سهيريتوكو"
+        },
+        {
+            "Code": "154511",
+            "Name": "Shiroishi",
+            "NameAr": "سهيرويسهي"
+        },
+        {
+            "Code": "137398",
+            "Name": "Shizukuishi",
+            "NameAr": "سهيزوكويسهي"
+        },
+        {
+            "Code": "147893",
+            "Name": "Shizuoka",
+            "NameAr": "سهيزووكا"
+        },
+        {
+            "Code": "137400",
+            "Name": "Shobara",
+            "NameAr": "سهوبارا"
+        },
+        {
+            "Code": "137446",
+            "Name": "Shodoshima",
+            "NameAr": "سهودوسهيما"
+        },
+        {
+            "Code": "151696",
+            "Name": "Shonai",
+            "NameAr": "سهوناي"
+        },
+        {
+            "Code": "106802",
+            "Name": "Shunan",
+            "NameAr": "سهونان"
+        },
+        {
+            "Code": "137653",
+            "Name": "Sobetsu",
+            "NameAr": "سوبيتسو"
+        },
+        {
+            "Code": "412288",
+            "Name": "Sodegaura",
+            "NameAr": "سوديجاورا"
+        },
+        {
+            "Code": "138294",
+            "Name": "Suita",
+            "NameAr": "سويتا"
+        },
+        {
+            "Code": "140228",
+            "Name": "Sukagawa",
+            "NameAr": "سوكاجاوا"
+        },
+        {
+            "Code": "390388",
+            "Name": "Sukumo",
+            "NameAr": "سوكومو"
+        },
+        {
+            "Code": "107143",
+            "Name": "Sumida",
+            "NameAr": "سوميدا"
+        },
+        {
+            "Code": "139518",
+            "Name": "Sumoto",
+            "NameAr": "سوموتو"
+        },
+        {
+            "Code": "392228",
+            "Name": "Suooshima",
+            "NameAr": "سوووسهيما"
+        },
+        {
+            "Code": "309663",
+            "Name": "Susami",
+            "NameAr": "سوسامي"
+        },
+        {
+            "Code": "107079",
+            "Name": "Susono",
+            "NameAr": "سوسونو"
+        },
+        {
+            "Code": "139638",
+            "Name": "Suwa",
+            "NameAr": "سووا"
+        },
+        {
+            "Code": "148113",
+            "Name": "Suzuka",
+            "NameAr": "سوزوكا"
+        },
+        {
+            "Code": "139174",
+            "Name": "Tachikawa",
+            "NameAr": "تاكهيكاوا"
+        },
+        {
+            "Code": "261606",
+            "Name": "Tadami",
+            "NameAr": "تادامي"
+        },
+        {
+            "Code": "107288",
+            "Name": "Tagajo",
+            "NameAr": "تاجاجو"
+        },
+        {
+            "Code": "138563",
+            "Name": "Tahara",
+            "NameAr": "تاهارا"
+        },
+        {
+            "Code": "347710",
+            "Name": "Taito",
+            "NameAr": "تايتو"
+        },
+        {
+            "Code": "107760",
+            "Name": "Tajimi",
+            "NameAr": "تاجيمي"
+        },
+        {
+            "Code": "139183",
+            "Name": "Takachiho",
+            "NameAr": "تاكاكهيهو"
+        },
+        {
+            "Code": "139668",
+            "Name": "Takahama",
+            "NameAr": "تاكاهاما"
+        },
+        {
+            "Code": "418185",
+            "Name": "Takahama-cho",
+            "NameAr": "تاكاهاما-كهو"
+        },
+        {
+            "Code": "412350",
+            "Name": "Takahashi",
+            "NameAr": "تاكاهاسهي"
+        },
+        {
+            "Code": "148138",
+            "Name": "Takamatsu",
+            "NameAr": "تاكاماتسو"
+        },
+        {
+            "Code": "107155",
+            "Name": "Takaoka",
+            "NameAr": "تاكاوكا"
+        },
+        {
+            "Code": "139899",
+            "Name": "Takarazuka",
+            "NameAr": "تاكارازوكا"
+        },
+        {
+            "Code": "417537",
+            "Name": "Takasago",
+            "NameAr": "تاكاساجو"
+        },
+        {
+            "Code": "148140",
+            "Name": "Takasaki",
+            "NameAr": "تاكاساكي"
+        },
+        {
+            "Code": "140277",
+            "Name": "Takashima-gun",
+            "NameAr": "تاكاسهيما-جون"
+        },
+        {
+            "Code": "148141",
+            "Name": "Takatsuki",
+            "NameAr": "تاكاتسوكي"
+        },
+        {
+            "Code": "139184",
+            "Name": "Takayama",
+            "NameAr": "تاكاياما"
+        },
+        {
+            "Code": "138568",
+            "Name": "Takeo",
+            "NameAr": "تاكيو"
+        },
+        {
+            "Code": "154498",
+            "Name": "Taki-gun",
+            "NameAr": "تاكي-جون"
+        },
+        {
+            "Code": "106941",
+            "Name": "Takikawa",
+            "NameAr": "تاكيكاوا"
+        },
+        {
+            "Code": "107156",
+            "Name": "Takinoue",
+            "NameAr": "تاكينووي"
+        },
+        {
+            "Code": "297553",
+            "Name": "Taku",
+            "NameAr": "تاكو"
+        },
+        {
+            "Code": "140288",
+            "Name": "Tama",
+            "NameAr": "تاما"
+        },
+        {
+            "Code": "148989",
+            "Name": "Tamana",
+            "NameAr": "تامانا"
+        },
+        {
+            "Code": "107762",
+            "Name": "Tamano",
+            "NameAr": "تامانو"
+        },
+        {
+            "Code": "140296",
+            "Name": "Tanabe",
+            "NameAr": "تانابي"
+        },
+        {
+            "Code": "151516",
+            "Name": "Tanegashima",
+            "NameAr": "تانيجاسهيما"
+        },
+        {
+            "Code": "418189",
+            "Name": "Tano",
+            "NameAr": "تانو"
+        },
+        {
+            "Code": "151674",
+            "Name": "Taramajima",
+            "NameAr": "تاراماجيما"
+        },
+        {
+            "Code": "300117",
+            "Name": "Tarumizu",
+            "NameAr": "تاروميزو"
+        },
+        {
+            "Code": "107768",
+            "Name": "Tateyama",
+            "NameAr": "تاتيياما"
+        },
+        {
+            "Code": "107295",
+            "Name": "Tatsugo",
+            "NameAr": "تاتسوجو"
+        },
+        {
+            "Code": "106950",
+            "Name": "Tatsuno",
+            "NameAr": "تاتسونو"
+        },
+        {
+            "Code": "319568",
+            "Name": "Ten-ei",
+            "NameAr": "تين-يي"
+        },
+        {
+            "Code": "139053",
+            "Name": "Tendo",
+            "NameAr": "تيندو"
+        },
+        {
+            "Code": "384277",
+            "Name": "Tenri",
+            "NameAr": "تينري"
+        },
+        {
+            "Code": "139729",
+            "Name": "Teshikaga",
+            "NameAr": "تيسهيكاجا"
+        },
+        {
+            "Code": "139767",
+            "Name": "Toba",
+            "NameAr": "توبا"
+        },
+        {
+            "Code": "154523",
+            "Name": "Tochigi",
+            "NameAr": "توكهيجي"
+        },
+        {
+            "Code": "418163",
+            "Name": "Togitsu",
+            "NameAr": "توجيتسو"
+        },
+        {
+            "Code": "107176",
+            "Name": "Tohaku District",
+            "NameAr": "توهاكو ديستريكت"
+        },
+        {
+            "Code": "139327",
+            "Name": "Tokashiki Island",
+            "NameAr": "توكاسهيكي يسلاند"
+        },
+        {
+            "Code": "139770",
+            "Name": "Tokoname",
+            "NameAr": "توكونامي"
+        },
+        {
+            "Code": "107643",
+            "Name": "Tokorozawa",
+            "NameAr": "توكوروزاوا"
+        },
+        {
+            "Code": "151522",
+            "Name": "Tokunoshima",
+            "NameAr": "توكونوسهيما"
+        },
+        {
+            "Code": "140458",
+            "Name": "Tokushima",
+            "NameAr": "توكوسهيما"
+        },
+        {
+            "Code": "148251",
+            "Name": "Tokyo",
+            "NameAr": "طوكيو"
+        },
+        {
+            "Code": "140464",
+            "Name": "Tomakomai",
+            "NameAr": "توماكوماي"
+        },
+        {
+            "Code": "106839",
+            "Name": "Tomigusuku",
+            "NameAr": "توميجوسوكو"
+        },
+        {
+            "Code": "107646",
+            "Name": "Tomioka",
+            "NameAr": "توميوكا"
+        },
+        {
+            "Code": "140057",
+            "Name": "Tonami",
+            "NameAr": "تونامي"
+        },
+        {
+            "Code": "107102",
+            "Name": "Tondabayashi",
+            "NameAr": "تونداباياسهي"
+        },
+        {
+            "Code": "154409",
+            "Name": "Tone District",
+            "NameAr": "توني ديستريكت"
+        },
+        {
+            "Code": "107179",
+            "Name": "Tonosho",
+            "NameAr": "تونوسهو"
+        },
+        {
+            "Code": "393245",
+            "Name": "Toride",
+            "NameAr": "توريدي"
+        },
+        {
+            "Code": "384955",
+            "Name": "Tosashimizu",
+            "NameAr": "توساسهيميزو"
+        },
+        {
+            "Code": "141758",
+            "Name": "Tosu",
+            "NameAr": "توسو"
+        },
+        {
+            "Code": "139357",
+            "Name": "Tottori",
+            "NameAr": "توتتوري"
+        },
+        {
+            "Code": "140346",
+            "Name": "Towada",
+            "NameAr": "تووادا"
+        },
+        {
+            "Code": "107825",
+            "Name": "Toyako",
+            "NameAr": "توياكو"
+        },
+        {
+            "Code": "107107",
+            "Name": "Toyako (Toyako-cho)",
+            "NameAr": "توياكو توياكو-كهو"
+        },
+        {
+            "Code": "237247",
+            "Name": "Toyako Hot Spring",
+            "NameAr": "توياكو هوت سبرينج"
+        },
+        {
+            "Code": "141765",
+            "Name": "Toyama",
+            "NameAr": "توياما"
+        },
+        {
+            "Code": "141766",
+            "Name": "Toyohashi",
+            "NameAr": "تويوهاسهي"
+        },
+        {
+            "Code": "148292",
+            "Name": "Toyokawa",
+            "NameAr": "تويوكاوا"
+        },
+        {
+            "Code": "148293",
+            "Name": "Toyonaka",
+            "NameAr": "تويوناكا"
+        },
+        {
+            "Code": "141767",
+            "Name": "Toyooka",
+            "NameAr": "تويووكا"
+        },
+        {
+            "Code": "140348",
+            "Name": "Toyota",
+            "NameAr": "تويوتا"
+        },
+        {
+            "Code": "108620",
+            "Name": "Toyoura",
+            "NameAr": "تويوورا"
+        },
+        {
+            "Code": "139406",
+            "Name": "Tsu",
+            "NameAr": "تسو"
+        },
+        {
+            "Code": "139407",
+            "Name": "Tsuchiura",
+            "NameAr": "تسوكهيورا"
+        },
+        {
+            "Code": "232130",
+            "Name": "Tsugaru",
+            "NameAr": "تسوجارو"
+        },
+        {
+            "Code": "141803",
+            "Name": "Tsukuba",
+            "NameAr": "تسوكوبا"
+        },
+        {
+            "Code": "141804",
+            "Name": "Tsumagoi",
+            "NameAr": "تسوماجوي"
+        },
+        {
+            "Code": "418155",
+            "Name": "Tsuno",
+            "NameAr": "تسونو"
+        },
+        {
+            "Code": "108626",
+            "Name": "Tsurugashima",
+            "NameAr": "تسوروجاسهيما"
+        },
+        {
+            "Code": "106852",
+            "Name": "Tsurui",
+            "NameAr": "تسوروي"
+        },
+        {
+            "Code": "140853",
+            "Name": "Tsuruoka",
+            "NameAr": "تسورووكا"
+        },
+        {
+            "Code": "150764",
+            "Name": "Tsushima",
+            "NameAr": "تسوسهيما"
+        },
+        {
+            "Code": "139408",
+            "Name": "Tsuwano",
+            "NameAr": "تسووانو"
+        },
+        {
+            "Code": "406497",
+            "Name": "Tsuyama",
+            "NameAr": "تسوياما"
+        },
+        {
+            "Code": "140693",
+            "Name": "Ube",
+            "NameAr": "وبي"
+        },
+        {
+            "Code": "140102",
+            "Name": "Ueda",
+            "NameAr": "ويدا"
+        },
+        {
+            "Code": "292879",
+            "Name": "Uji",
+            "NameAr": "وجي"
+        },
+        {
+            "Code": "140724",
+            "Name": "Unzen",
+            "NameAr": "ونزين"
+        },
+        {
+            "Code": "107934",
+            "Name": "Uozu",
+            "NameAr": "ووزو"
+        },
+        {
+            "Code": "107845",
+            "Name": "Urakawa",
+            "NameAr": "وراكاوا"
+        },
+        {
+            "Code": "407386",
+            "Name": "Urasoe",
+            "NameAr": "وراسوي"
+        },
+        {
+            "Code": "141846",
+            "Name": "Urayasu",
+            "NameAr": "وراياسو"
+        },
+        {
+            "Code": "148385",
+            "Name": "Ureshino Onsen",
+            "NameAr": "وريسهينو ونسين"
+        },
+        {
+            "Code": "397727",
+            "Name": "Uruma",
+            "NameAr": "وروما"
+        },
+        {
+            "Code": "361489",
+            "Name": "Usa",
+            "NameAr": "وسا"
+        },
+        {
+            "Code": "141279",
+            "Name": "Utsunomiya",
+            "NameAr": "وتسونومييا"
+        },
+        {
+            "Code": "141112",
+            "Name": "Uwajima",
+            "NameAr": "وواجيما"
+        },
+        {
+            "Code": "107487",
+            "Name": "Wajima",
+            "NameAr": "واجيما"
+        },
+        {
+            "Code": "141936",
+            "Name": "Wakayama",
+            "NameAr": "واكاياما"
+        },
+        {
+            "Code": "143239",
+            "Name": "Wakkanai",
+            "NameAr": "واككاناي"
+        },
+        {
+            "Code": "409614",
+            "Name": "Yabu",
+            "NameAr": "يابو"
+        },
+        {
+            "Code": "398137",
+            "Name": "Yachimata",
+            "NameAr": "ياكهيماتا"
+        },
+        {
+            "Code": "361187",
+            "Name": "Yachiyo",
+            "NameAr": "ياكهييو"
+        },
+        {
+            "Code": "154469",
+            "Name": "Yaeyama",
+            "NameAr": "يايياما"
+        },
+        {
+            "Code": "107542",
+            "Name": "Yaita",
+            "NameAr": "يايتا"
+        },
+        {
+            "Code": "106309",
+            "Name": "Yaizu",
+            "NameAr": "يايزو"
+        },
+        {
+            "Code": "143887",
+            "Name": "Yakushima Island",
+            "NameAr": "ياكوسهيما يسلاند"
+        },
+        {
+            "Code": "389552",
+            "Name": "Yamaga",
+            "NameAr": "ياماجا"
+        },
+        {
+            "Code": "143324",
+            "Name": "Yamagata",
+            "NameAr": "ياماجاتا"
+        },
+        {
+            "Code": "148753",
+            "Name": "Yamaguchi",
+            "NameAr": "ياماجوكهي"
+        },
+        {
+            "Code": "107913",
+            "Name": "Yamanaka-See",
+            "NameAr": "ياماناكا-سيي"
+        },
+        {
+            "Code": "108691",
+            "Name": "Yamanakako",
+            "NameAr": "ياماناكاكو"
+        },
+        {
+            "Code": "142901",
+            "Name": "Yamanashi",
+            "NameAr": "ياماناسهي"
+        },
+        {
+            "Code": "143888",
+            "Name": "Yamanouchi",
+            "NameAr": "يامانووكهي"
+        },
+        {
+            "Code": "107617",
+            "Name": "Yamatokoriyama",
+            "NameAr": "ياماتوكوريياما"
+        },
+        {
+            "Code": "107999",
+            "Name": "Yanagawa",
+            "NameAr": "ياناجاوا"
+        },
+        {
+            "Code": "107618",
+            "Name": "Yatsushiro",
+            "NameAr": "ياتسوسهيرو"
+        },
+        {
+            "Code": "148766",
+            "Name": "Yawatahama",
+            "NameAr": "ياواتاهاما"
+        },
+        {
+            "Code": "143650",
+            "Name": "Yokkaichi",
+            "NameAr": "يوككايكهي"
+        },
+        {
+            "Code": "142913",
+            "Name": "Yokohama",
+            "NameAr": "يوكوهاما"
+        },
+        {
+            "Code": "142914",
+            "Name": "Yokosuka",
+            "NameAr": "يوكوسوكا"
+        },
+        {
+            "Code": "108697",
+            "Name": "Yokote",
+            "NameAr": "يوكوتي"
+        },
+        {
+            "Code": "107622",
+            "Name": "Yomitan",
+            "NameAr": "يوميتان"
+        },
+        {
+            "Code": "143334",
+            "Name": "Yonago",
+            "NameAr": "يوناجو"
+        },
+        {
+            "Code": "224715",
+            "Name": "Yonaguni",
+            "NameAr": "يوناجوني"
+        },
+        {
+            "Code": "148772",
+            "Name": "Yonezawa",
+            "NameAr": "يونيزاوا"
+        },
+        {
+            "Code": "142917",
+            "Name": "Yoron",
+            "NameAr": "يورون"
+        },
+        {
+            "Code": "143520",
+            "Name": "Yosano",
+            "NameAr": "يوسانو"
+        },
+        {
+            "Code": "278234",
+            "Name": "Yoshino District",
+            "NameAr": "يوسهينو ديستريكت"
+        },
+        {
+            "Code": "143811",
+            "Name": "Yufu",
+            "NameAr": "يوفو"
+        },
+        {
+            "Code": "143339",
+            "Name": "Yugawara",
+            "NameAr": "يوجاوارا"
+        },
+        {
+            "Code": "142921",
+            "Name": "Yukuhashi",
+            "NameAr": "يوكوهاسهي"
+        },
+        {
+            "Code": "143813",
+            "Name": "Yunotsu",
+            "NameAr": "يونوتسو"
+        },
+        {
+            "Code": "107547",
+            "Name": "Yura",
+            "NameAr": "يورا"
+        },
+        {
+            "Code": "107548",
+            "Name": "Yurihama",
+            "NameAr": "يوريهاما"
+        },
+        {
+            "Code": "107918",
+            "Name": "Yurihonjo",
+            "NameAr": "يوريهونجو"
+        },
+        {
+            "Code": "299434",
+            "Name": "Yusuhara",
+            "NameAr": "يوسوهارا"
+        },
+        {
+            "Code": "142922",
+            "Name": "Yutsubo",
+            "NameAr": "يوتسوبو"
+        },
+        {
+            "Code": "143908",
+            "Name": "Yuzawa",
+            "NameAr": "يوزاوا"
+        },
+        {
+            "Code": "108031",
+            "Name": "Zamami",
+            "NameAr": "زامامي"
+        },
+        {
+            "Code": "143347",
+            "Name": "Zao",
+            "NameAr": "زاو"
+        }
+    ],
+    "totalCities": 686
+}

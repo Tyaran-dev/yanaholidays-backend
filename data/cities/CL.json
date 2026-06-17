@@ -1,0 +1,712 @@
+{
+    "id": "CL",
+    "countryCode": "CL",
+    "cities": [
+        {
+            "Code": "100186",
+            "Name": "Algarrobo",
+            "NameAr": "الجارروبو"
+        },
+        {
+            "Code": "101347",
+            "Name": "Alto Bio Bio",
+            "NameAr": "التو بيو بيو"
+        },
+        {
+            "Code": "101135",
+            "Name": "Ancud",
+            "NameAr": "انكود"
+        },
+        {
+            "Code": "109474",
+            "Name": "Antofagasta",
+            "NameAr": "انتوفاجاستا"
+        },
+        {
+            "Code": "101459",
+            "Name": "Antuco",
+            "NameAr": "انتوكو"
+        },
+        {
+            "Code": "109394",
+            "Name": "Arica",
+            "NameAr": "اريكا"
+        },
+        {
+            "Code": "110153",
+            "Name": "Bahia Inglesa",
+            "NameAr": "باهيا ينجليسا"
+        },
+        {
+            "Code": "111114",
+            "Name": "Balmaceda",
+            "NameAr": "بالماكيدا"
+        },
+        {
+            "Code": "114134",
+            "Name": "Calama",
+            "NameAr": "كالاما"
+        },
+        {
+            "Code": "105691",
+            "Name": "Caldera",
+            "NameAr": "كالديرا"
+        },
+        {
+            "Code": "108108",
+            "Name": "Capitan Pastene",
+            "NameAr": "كابيتان باستيني"
+        },
+        {
+            "Code": "113633",
+            "Name": "Castro",
+            "NameAr": "كاسترو"
+        },
+        {
+            "Code": "150719",
+            "Name": "Chaiten",
+            "NameAr": "كهايتين"
+        },
+        {
+            "Code": "150433",
+            "Name": "Chanaral",
+            "NameAr": "كهانارال"
+        },
+        {
+            "Code": "114271",
+            "Name": "Chile Chico",
+            "NameAr": "كهيلي كهيكو"
+        },
+        {
+            "Code": "114356",
+            "Name": "Chillan",
+            "NameAr": "كهيللان"
+        },
+        {
+            "Code": "106286",
+            "Name": "Chimbarongo",
+            "NameAr": "كهيمبارونجو"
+        },
+        {
+            "Code": "114325",
+            "Name": "Cochamo",
+            "NameAr": "كوكهامو"
+        },
+        {
+            "Code": "150497",
+            "Name": "Cochrane",
+            "NameAr": "كوكهراني"
+        },
+        {
+            "Code": "105269",
+            "Name": "Colbun",
+            "NameAr": "كولبون"
+        },
+        {
+            "Code": "144755",
+            "Name": "Concepcion",
+            "NameAr": "كونكيبكيون"
+        },
+        {
+            "Code": "114436",
+            "Name": "Concon",
+            "NameAr": "كونكون"
+        },
+        {
+            "Code": "106231",
+            "Name": "Constitucion",
+            "NameAr": "كونستيتوكيون"
+        },
+        {
+            "Code": "115282",
+            "Name": "Copiapo",
+            "NameAr": "كوبيابو"
+        },
+        {
+            "Code": "144773",
+            "Name": "Coquimbo",
+            "NameAr": "كوقويمبو"
+        },
+        {
+            "Code": "115994",
+            "Name": "Coyhaique",
+            "NameAr": "كويهايقوي"
+        },
+        {
+            "Code": "116598",
+            "Name": "Curacautin",
+            "NameAr": "كوراكاوتين"
+        },
+        {
+            "Code": "105990",
+            "Name": "Curanilahue",
+            "NameAr": "كورانيلاهوي"
+        },
+        {
+            "Code": "105472",
+            "Name": "Curanipe",
+            "NameAr": "كورانيبي"
+        },
+        {
+            "Code": "116019",
+            "Name": "Curico",
+            "NameAr": "كوريكو"
+        },
+        {
+            "Code": "102311",
+            "Name": "Dichato",
+            "NameAr": "ديكهاتو"
+        },
+        {
+            "Code": "116480",
+            "Name": "Easter Island",
+            "NameAr": "ياستير يسلاند"
+        },
+        {
+            "Code": "101878",
+            "Name": "El Quisco",
+            "NameAr": "يل قويسكو"
+        },
+        {
+            "Code": "151444",
+            "Name": "El Salvador",
+            "NameAr": "يل سالفادور"
+        },
+        {
+            "Code": "119582",
+            "Name": "Frutillar",
+            "NameAr": "فروتيللار"
+        },
+        {
+            "Code": "118390",
+            "Name": "Futaleufu",
+            "NameAr": "فوتاليوفو"
+        },
+        {
+            "Code": "120603",
+            "Name": "Hanga Roa",
+            "NameAr": "هانجا روا"
+        },
+        {
+            "Code": "106158",
+            "Name": "Horcon",
+            "NameAr": "هوركون"
+        },
+        {
+            "Code": "122637",
+            "Name": "Huechuraba",
+            "NameAr": "هويكهورابا"
+        },
+        {
+            "Code": "102340",
+            "Name": "Iloca",
+            "NameAr": "يلوكا"
+        },
+        {
+            "Code": "121747",
+            "Name": "Iquique",
+            "NameAr": "يقويقوي"
+        },
+        {
+            "Code": "122156",
+            "Name": "Isla Jechica",
+            "NameAr": "يسلا جيكهيكا"
+        },
+        {
+            "Code": "123827",
+            "Name": "La Serena",
+            "NameAr": "لا سيرينا"
+        },
+        {
+            "Code": "124756",
+            "Name": "Lago General Carrera",
+            "NameAr": "لاجو جينيرال كارريرا"
+        },
+        {
+            "Code": "108400",
+            "Name": "Lago Lanalhue",
+            "NameAr": "لاجو لانالهوي"
+        },
+        {
+            "Code": "103755",
+            "Name": "Las Cruces",
+            "NameAr": "لاس كروكيس"
+        },
+        {
+            "Code": "103757",
+            "Name": "Las Trancas",
+            "NameAr": "لاس ترانكاس"
+        },
+        {
+            "Code": "104601",
+            "Name": "Lican Ray",
+            "NameAr": "ليكان راي"
+        },
+        {
+            "Code": "125309",
+            "Name": "Linares",
+            "NameAr": "ليناريس"
+        },
+        {
+            "Code": "151621",
+            "Name": "Los Andes",
+            "NameAr": "لوس انديس"
+        },
+        {
+            "Code": "127285",
+            "Name": "Los Angeles",
+            "NameAr": "لوس أنجلوس"
+        },
+        {
+            "Code": "102658",
+            "Name": "Los Lagos",
+            "NameAr": "لوس لاجوس"
+        },
+        {
+            "Code": "152958",
+            "Name": "Los Rios",
+            "NameAr": "لوس ريوس"
+        },
+        {
+            "Code": "106454",
+            "Name": "Los Vilos",
+            "NameAr": "لوس فيلوس"
+        },
+        {
+            "Code": "104013",
+            "Name": "Machali",
+            "NameAr": "ماكهالي"
+        },
+        {
+            "Code": "126775",
+            "Name": "Maitencillo",
+            "NameAr": "مايتينكيللو"
+        },
+        {
+            "Code": "103787",
+            "Name": "Malloa",
+            "NameAr": "ماللوا"
+        },
+        {
+            "Code": "104167",
+            "Name": "Matanzas",
+            "NameAr": "ماتانزاس"
+        },
+        {
+            "Code": "104172",
+            "Name": "Maule",
+            "NameAr": "ماولي"
+        },
+        {
+            "Code": "104177",
+            "Name": "Mehuin",
+            "NameAr": "ميهوين"
+        },
+        {
+            "Code": "102617",
+            "Name": "Mejillones",
+            "NameAr": "ميجيللونيس"
+        },
+        {
+            "Code": "129583",
+            "Name": "Monte Patria",
+            "NameAr": "مونتي باتريا"
+        },
+        {
+            "Code": "102030",
+            "Name": "Nancagua",
+            "NameAr": "نانكاجوا"
+        },
+        {
+            "Code": "103013",
+            "Name": "Negrete",
+            "NameAr": "نيجريتي"
+        },
+        {
+            "Code": "417079",
+            "Name": "Neltume",
+            "NameAr": "نيلتومي"
+        },
+        {
+            "Code": "104400",
+            "Name": "Olmue",
+            "NameAr": "ولموي"
+        },
+        {
+            "Code": "130817",
+            "Name": "Osorno",
+            "NameAr": "وسورنو"
+        },
+        {
+            "Code": "131707",
+            "Name": "Ovalle",
+            "NameAr": "وفاللي"
+        },
+        {
+            "Code": "104417",
+            "Name": "Paine",
+            "NameAr": "بايني"
+        },
+        {
+            "Code": "102081",
+            "Name": "Palmilla",
+            "NameAr": "بالميللا"
+        },
+        {
+            "Code": "132669",
+            "Name": "Panguipulli",
+            "NameAr": "بانجويبوللي"
+        },
+        {
+            "Code": "103260",
+            "Name": "Parral",
+            "NameAr": "باررال"
+        },
+        {
+            "Code": "132127",
+            "Name": "Peralillo",
+            "NameAr": "بيراليللو"
+        },
+        {
+            "Code": "147182",
+            "Name": "Pichidangui",
+            "NameAr": "بيكهيدانجوي"
+        },
+        {
+            "Code": "102902",
+            "Name": "Pichidegua",
+            "NameAr": "بيكهيديجوا"
+        },
+        {
+            "Code": "132497",
+            "Name": "Pichilemu",
+            "NameAr": "بيكهيليمو"
+        },
+        {
+            "Code": "106615",
+            "Name": "Pinto",
+            "NameAr": "بينتو"
+        },
+        {
+            "Code": "102907",
+            "Name": "Pirque",
+            "NameAr": "بيرقوي"
+        },
+        {
+            "Code": "103283",
+            "Name": "Pisco Elqui",
+            "NameAr": "بيسكو يلقوي"
+        },
+        {
+            "Code": "133570",
+            "Name": "Portillo",
+            "NameAr": "بورتيللو"
+        },
+        {
+            "Code": "150814",
+            "Name": "Porvenir",
+            "NameAr": "بورفينير"
+        },
+        {
+            "Code": "106702",
+            "Name": "Providencia",
+            "NameAr": "بروفيدينكيا"
+        },
+        {
+            "Code": "132560",
+            "Name": "Pucon",
+            "NameAr": "بوكون"
+        },
+        {
+            "Code": "132564",
+            "Name": "Pueblo de Codpa",
+            "NameAr": "بويبلو دي كودبا"
+        },
+        {
+            "Code": "102929",
+            "Name": "Puerto Aisen",
+            "NameAr": "بويرتو ايسين"
+        },
+        {
+            "Code": "133619",
+            "Name": "Puerto Bertrand",
+            "NameAr": "بويرتو بيرتراند"
+        },
+        {
+            "Code": "266989",
+            "Name": "Puerto Chacabuco",
+            "NameAr": "بويرتو كهاكابوكو"
+        },
+        {
+            "Code": "132570",
+            "Name": "Puerto Guadal",
+            "NameAr": "بويرتو جوادال"
+        },
+        {
+            "Code": "147394",
+            "Name": "Puerto Montt",
+            "NameAr": "بويرتو مونتت"
+        },
+        {
+            "Code": "132573",
+            "Name": "Puerto Natales",
+            "NameAr": "بويرتو ناتاليس"
+        },
+        {
+            "Code": "133989",
+            "Name": "Puerto Octay",
+            "NameAr": "بويرتو وكتاي"
+        },
+        {
+            "Code": "102778",
+            "Name": "Puerto Saavedra",
+            "NameAr": "بويرتو ساافيدرا"
+        },
+        {
+            "Code": "133053",
+            "Name": "Puerto Varas",
+            "NameAr": "بويرتو فاراس"
+        },
+        {
+            "Code": "134357",
+            "Name": "Puerto Williams",
+            "NameAr": "بويرتو ويلليامس"
+        },
+        {
+            "Code": "133633",
+            "Name": "Punta Arenas",
+            "NameAr": "بونتا اريناس"
+        },
+        {
+            "Code": "102932",
+            "Name": "Puqueldon",
+            "NameAr": "بوقويلدون"
+        },
+        {
+            "Code": "132596",
+            "Name": "Putre",
+            "NameAr": "بوتري"
+        },
+        {
+            "Code": "134179",
+            "Name": "Puyehue Nationalpark",
+            "NameAr": "بوييهوي ناتيونالبارك"
+        },
+        {
+            "Code": "102111",
+            "Name": "Queilen",
+            "NameAr": "قوييلين"
+        },
+        {
+            "Code": "103090",
+            "Name": "Quicavi",
+            "NameAr": "قويكافي"
+        },
+        {
+            "Code": "102935",
+            "Name": "Quillota",
+            "NameAr": "قويللوتا"
+        },
+        {
+            "Code": "103111",
+            "Name": "Quilpue",
+            "NameAr": "قويلبوي"
+        },
+        {
+            "Code": "134189",
+            "Name": "Quintero",
+            "NameAr": "قوينتيرو"
+        },
+        {
+            "Code": "132628",
+            "Name": "Rancagua",
+            "NameAr": "رانكاجوا"
+        },
+        {
+            "Code": "134739",
+            "Name": "Renaca",
+            "NameAr": "ريناكا"
+        },
+        {
+            "Code": "102682",
+            "Name": "Rengo",
+            "NameAr": "رينجو"
+        },
+        {
+            "Code": "103102",
+            "Name": "Rinconada",
+            "NameAr": "رينكونادا"
+        },
+        {
+            "Code": "135119",
+            "Name": "Rio Hurtado",
+            "NameAr": "ريو هورتادو"
+        },
+        {
+            "Code": "134511",
+            "Name": "Robinson Crusoe Island",
+            "NameAr": "روبينسون كروسوي يسلاند"
+        },
+        {
+            "Code": "307731",
+            "Name": "Salamanca",
+            "NameAr": "سالامانكا"
+        },
+        {
+            "Code": "147676",
+            "Name": "Salto Del Laja",
+            "NameAr": "سالتو ديل لاجا"
+        },
+        {
+            "Code": "103133",
+            "Name": "San Alfonso",
+            "NameAr": "سان الفونسو"
+        },
+        {
+            "Code": "135872",
+            "Name": "San Antonio",
+            "NameAr": "سان انتونيو"
+        },
+        {
+            "Code": "108482",
+            "Name": "San Felipe",
+            "NameAr": "سان فيليبي"
+        },
+        {
+            "Code": "136321",
+            "Name": "San Fernando",
+            "NameAr": "سان فيرناندو"
+        },
+        {
+            "Code": "107327",
+            "Name": "San Francisco de Mostazal",
+            "NameAr": "سان فرانكيسكو دي موستازال"
+        },
+        {
+            "Code": "107328",
+            "Name": "San Javier",
+            "NameAr": "سان جافيير"
+        },
+        {
+            "Code": "136327",
+            "Name": "San Jose de Maipo",
+            "NameAr": "سان جوسي دي مايبو"
+        },
+        {
+            "Code": "135969",
+            "Name": "San Pedro de Atacama",
+            "NameAr": "سان بيدرو دي اتاكاما"
+        },
+        {
+            "Code": "136058",
+            "Name": "Santa Cruz",
+            "NameAr": "سانتا كروز"
+        },
+        {
+            "Code": "136380",
+            "Name": "Santa Rita",
+            "NameAr": "سانتا ريتا"
+        },
+        {
+            "Code": "151263",
+            "Name": "Santiago",
+            "NameAr": "سانتياجو"
+        },
+        {
+            "Code": "139555",
+            "Name": "Talca",
+            "NameAr": "تالكا"
+        },
+        {
+            "Code": "139671",
+            "Name": "Talcahuano",
+            "NameAr": "تالكاهوانو"
+        },
+        {
+            "Code": "151192",
+            "Name": "Taltal",
+            "NameAr": "تالتال"
+        },
+        {
+            "Code": "139716",
+            "Name": "Temuco",
+            "NameAr": "تيموكو"
+        },
+        {
+            "Code": "106382",
+            "Name": "Teno",
+            "NameAr": "تينو"
+        },
+        {
+            "Code": "151677",
+            "Name": "Tocopilla",
+            "NameAr": "توكوبيللا"
+        },
+        {
+            "Code": "106968",
+            "Name": "Tome",
+            "NameAr": "تومي"
+        },
+        {
+            "Code": "108615",
+            "Name": "Tongoy",
+            "NameAr": "تونجوي"
+        },
+        {
+            "Code": "140340",
+            "Name": "Torres del Paine",
+            "NameAr": "تورريس ديل بايني"
+        },
+        {
+            "Code": "141421",
+            "Name": "Valdivia",
+            "NameAr": "فالديفيا"
+        },
+        {
+            "Code": "141602",
+            "Name": "Valle de Colchagua",
+            "NameAr": "فاللي دي كولكهاجوا"
+        },
+        {
+            "Code": "140167",
+            "Name": "Valle Nevado",
+            "NameAr": "فاللي نيفادو"
+        },
+        {
+            "Code": "141303",
+            "Name": "Vallenar",
+            "NameAr": "فاللينار"
+        },
+        {
+            "Code": "141139",
+            "Name": "Valparaiso",
+            "NameAr": "فالبارايسو"
+        },
+        {
+            "Code": "106890",
+            "Name": "Vicuna",
+            "NameAr": "فيكونا"
+        },
+        {
+            "Code": "142048",
+            "Name": "Villarrica",
+            "NameAr": "فيللارريكا"
+        },
+        {
+            "Code": "142619",
+            "Name": "Vina del Mar",
+            "NameAr": "فينا ديل مار"
+        },
+        {
+            "Code": "107623",
+            "Name": "Yumbel",
+            "NameAr": "يومبيل"
+        },
+        {
+            "Code": "107553",
+            "Name": "Zapallar",
+            "NameAr": "زاباللار"
+        }
+    ],
+    "totalCities": 141
+}

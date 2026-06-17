@@ -1,0 +1,112 @@
+{
+    "id": "AG",
+    "countryCode": "AG",
+    "cities": [
+        {
+            "Code": "109586",
+            "Name": "Antigua",
+            "NameAr": "انتيجوا"
+        },
+        {
+            "Code": "111257",
+            "Name": "Bolans",
+            "NameAr": "بولانس"
+        },
+        {
+            "Code": "112919",
+            "Name": "Carlisle Bay",
+            "NameAr": "كارليسلي باي"
+        },
+        {
+            "Code": "114862",
+            "Name": "Codrington",
+            "NameAr": "كودرينجتون"
+        },
+        {
+            "Code": "117360",
+            "Name": "Dian Bay",
+            "NameAr": "ديان باي"
+        },
+        {
+            "Code": "118083",
+            "Name": "English Harbour",
+            "NameAr": "ينجليسه هاربوور"
+        },
+        {
+            "Code": "145150",
+            "Name": "Falmouth Harbour",
+            "NameAr": "فالمووته هاربوور"
+        },
+        {
+            "Code": "118511",
+            "Name": "Freemans Village",
+            "NameAr": "فرييمانس فيللاجي"
+        },
+        {
+            "Code": "149656",
+            "Name": "Freetown",
+            "NameAr": "فرييتوون"
+        },
+        {
+            "Code": "120239",
+            "Name": "Hawksbill",
+            "NameAr": "هاوكسبيلل"
+        },
+        {
+            "Code": "145640",
+            "Name": "Hog John Bay",
+            "NameAr": "هوج جوهن باي"
+        },
+        {
+            "Code": "103939",
+            "Name": "Jolly Harbour",
+            "NameAr": "جوللي هاربوور"
+        },
+        {
+            "Code": "125611",
+            "Name": "Long Island",
+            "NameAr": "لونج يسلاند"
+        },
+        {
+            "Code": "127403",
+            "Name": "Mamora Bay",
+            "NameAr": "مامورا باي"
+        },
+        {
+            "Code": "146990",
+            "Name": "Old Road",
+            "NameAr": "ولد رواد"
+        },
+        {
+            "Code": "154313",
+            "Name": "Saint John",
+            "NameAr": "ساينت جوهن"
+        },
+        {
+            "Code": "138472",
+            "Name": "Soldier's Bay",
+            "NameAr": "سولدييرس باي"
+        },
+        {
+            "Code": "138225",
+            "Name": "St. John",
+            "NameAr": "ست جوهن"
+        },
+        {
+            "Code": "138396",
+            "Name": "St. Philips",
+            "NameAr": "ست بهيليبس"
+        },
+        {
+            "Code": "139220",
+            "Name": "St. Phillips",
+            "NameAr": "ست بهيلليبس"
+        },
+        {
+            "Code": "148420",
+            "Name": "Valley Church",
+            "NameAr": "فالليي كهوركه"
+        }
+    ],
+    "totalCities": 21
+}

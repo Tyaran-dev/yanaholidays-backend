@@ -1,0 +1,17 @@
+{
+    "id": "SM",
+    "countryCode": "SM",
+    "cities": [
+        {
+            "Code": "135894",
+            "Name": "San Marino",
+            "NameAr": "سان مارينو"
+        },
+        {
+            "Code": "136774",
+            "Name": "Serravalle",
+            "NameAr": "سيررافاللي"
+        }
+    ],
+    "totalCities": 2
+}

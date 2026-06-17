@@ -1,0 +1,202 @@
+{
+    "id": "AL",
+    "countryCode": "AL",
+    "cities": [
+        {
+            "Code": "106078",
+            "Name": "Albanien",
+            "NameAr": "البانيين"
+        },
+        {
+            "Code": "110951",
+            "Name": "Berat",
+            "NameAr": "بيرات"
+        },
+        {
+            "Code": "144216",
+            "Name": "Berxulle",
+            "NameAr": "بيرتشولي"
+        },
+        {
+            "Code": "104862",
+            "Name": "Borsh",
+            "NameAr": "بورش"
+        },
+        {
+            "Code": "144914",
+            "Name": "Dhermi",
+            "NameAr": "ذيرمي"
+        },
+        {
+            "Code": "308408",
+            "Name": "Diber County",
+            "NameAr": "مقاطعة ديبر"
+        },
+        {
+            "Code": "116950",
+            "Name": "Durres",
+            "NameAr": "دورس"
+        },
+        {
+            "Code": "116532",
+            "Name": "Elbasan",
+            "NameAr": "إلباسان"
+        },
+        {
+            "Code": "117619",
+            "Name": "Fier",
+            "NameAr": "فيير"
+        },
+        {
+            "Code": "108247",
+            "Name": "Fushe-Kruje",
+            "NameAr": "فوسهي-كروجي"
+        },
+        {
+            "Code": "145361",
+            "Name": "Gjirokastra / Gjirokaster",
+            "NameAr": "غيروكاسترا"
+        },
+        {
+            "Code": "119305",
+            "Name": "Golem",
+            "NameAr": "غولم"
+        },
+        {
+            "Code": "120702",
+            "Name": "Himare",
+            "NameAr": "هيماره"
+        },
+        {
+            "Code": "103709",
+            "Name": "Kavaja",
+            "NameAr": "كافايا"
+        },
+        {
+            "Code": "123067",
+            "Name": "Korca",
+            "NameAr": "كورچا"
+        },
+        {
+            "Code": "257547",
+            "Name": "Korce County",
+            "NameAr": "مقاطعة كورچا"
+        },
+        {
+            "Code": "146040",
+            "Name": "Kruje",
+            "NameAr": "كرويا"
+        },
+        {
+            "Code": "123912",
+            "Name": "Ksamil",
+            "NameAr": "كساميل"
+        },
+        {
+            "Code": "105539",
+            "Name": "Kukes",
+            "NameAr": "كوكس"
+        },
+        {
+            "Code": "125289",
+            "Name": "Lezhe",
+            "NameAr": "ليجه"
+        },
+        {
+            "Code": "126233",
+            "Name": "Lushnja",
+            "NameAr": "لوشنا"
+        },
+        {
+            "Code": "104570",
+            "Name": "Orikum",
+            "NameAr": "أوريكوم"
+        },
+        {
+            "Code": "103407",
+            "Name": "Palase",
+            "NameAr": "بالاس"
+        },
+        {
+            "Code": "103427",
+            "Name": "Peshkopia",
+            "NameAr": "بيشكوبيه"
+        },
+        {
+            "Code": "133519",
+            "Name": "Pogradec",
+            "NameAr": "بوغراديتس"
+        },
+        {
+            "Code": "108420",
+            "Name": "Radhime",
+            "NameAr": "راذيم"
+        },
+        {
+            "Code": "134718",
+            "Name": "Razem",
+            "NameAr": "رازم"
+        },
+        {
+            "Code": "135116",
+            "Name": "Rinas",
+            "NameAr": "ريناس"
+        },
+        {
+            "Code": "147773",
+            "Name": "Saranda",
+            "NameAr": "ساراندا"
+        },
+        {
+            "Code": "149801",
+            "Name": "Sarande",
+            "NameAr": "سارانده"
+        },
+        {
+            "Code": "137392",
+            "Name": "Shengjin",
+            "NameAr": "شينغجين"
+        },
+        {
+            "Code": "149810",
+            "Name": "Shkoder",
+            "NameAr": "شكودر"
+        },
+        {
+            "Code": "147894",
+            "Name": "Shkodra",
+            "NameAr": "شكودرا"
+        },
+        {
+            "Code": "140445",
+            "Name": "Tirana",
+            "NameAr": "تيرانا"
+        },
+        {
+            "Code": "379330",
+            "Name": "Tirana County",
+            "NameAr": "تيرانا كوونتي"
+        },
+        {
+            "Code": "107439",
+            "Name": "Tushemisht",
+            "NameAr": "توشيميشت"
+        },
+        {
+            "Code": "107857",
+            "Name": "Velipoja",
+            "NameAr": "فيليبويا"
+        },
+        {
+            "Code": "141375",
+            "Name": "Vlore",
+            "NameAr": "فلوره"
+        },
+        {
+            "Code": "141387",
+            "Name": "Vora",
+            "NameAr": "فورا"
+        }
+    ],
+    "totalCities": 39
+}

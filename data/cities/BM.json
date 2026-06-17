@@ -1,0 +1,67 @@
+{
+    "id": "BM",
+    "countryCode": "BM",
+    "cities": [
+        {
+            "Code": "109724",
+            "Name": "Bailey's Bay",
+            "NameAr": "بايلييس باي"
+        },
+        {
+            "Code": "150481",
+            "Name": "Bermuda",
+            "NameAr": "بيرمودا"
+        },
+        {
+            "Code": "115875",
+            "Name": "Devonshire",
+            "NameAr": "ديفونسهيري"
+        },
+        {
+            "Code": "120463",
+            "Name": "Hamilton",
+            "NameAr": "هاميلتون"
+        },
+        {
+            "Code": "130745",
+            "Name": "Paget",
+            "NameAr": "باجيت"
+        },
+        {
+            "Code": "137140",
+            "Name": "Sandys",
+            "NameAr": "سانديس"
+        },
+        {
+            "Code": "138760",
+            "Name": "Somerset Village",
+            "NameAr": "سوميرسيت فيللاجي"
+        },
+        {
+            "Code": "137535",
+            "Name": "Southampton",
+            "NameAr": "سووتهامبتون"
+        },
+        {
+            "Code": "138344",
+            "Name": "Southhampton Beach",
+            "NameAr": "سووتههامبتون بياكه"
+        },
+        {
+            "Code": "137776",
+            "Name": "St. George",
+            "NameAr": "ست جيورجي"
+        },
+        {
+            "Code": "141807",
+            "Name": "Tucker's Town",
+            "NameAr": "توككيرس توون"
+        },
+        {
+            "Code": "142626",
+            "Name": "Warwick",
+            "NameAr": "وارويكك"
+        }
+    ],
+    "totalCities": 12
+}

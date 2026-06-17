@@ -1,0 +1,17 @@
+{
+    "id": "FK",
+    "countryCode": "FK",
+    "cities": [
+        {
+            "Code": "150642",
+            "Name": "Mount Pleasant",
+            "NameAr": "موونت بلياسانت"
+        },
+        {
+            "Code": "278913",
+            "Name": "Stanley",
+            "NameAr": "ستانليي"
+        }
+    ],
+    "totalCities": 2
+}

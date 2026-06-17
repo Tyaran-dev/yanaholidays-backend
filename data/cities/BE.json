@@ -1,0 +1,2327 @@
+{
+    "id": "BE",
+    "countryCode": "BE",
+    "cities": [
+        {
+            "Code": "100324",
+            "Name": "Aalst",
+            "NameAr": "االست"
+        },
+        {
+            "Code": "100109",
+            "Name": "Aalter",
+            "NameAr": "االتير"
+        },
+        {
+            "Code": "100433",
+            "Name": "Aarschot",
+            "NameAr": "اارسكهوت"
+        },
+        {
+            "Code": "100544",
+            "Name": "Aartselaar",
+            "NameAr": "اارتسيلاار"
+        },
+        {
+            "Code": "101612",
+            "Name": "Achene",
+            "NameAr": "اكهيني"
+        },
+        {
+            "Code": "100122",
+            "Name": "Achouffe",
+            "NameAr": "اكهووففي"
+        },
+        {
+            "Code": "115666",
+            "Name": "Adinkerke",
+            "NameAr": "ادينكيركي"
+        },
+        {
+            "Code": "100572",
+            "Name": "Affligem",
+            "NameAr": "اففليجيم"
+        },
+        {
+            "Code": "100735",
+            "Name": "Alle-sur-Semois",
+            "NameAr": "اللي-سور-سيمويس"
+        },
+        {
+            "Code": "109429",
+            "Name": "Alveringem",
+            "NameAr": "الفيرينجيم"
+        },
+        {
+            "Code": "109100",
+            "Name": "Amel",
+            "NameAr": "اميل"
+        },
+        {
+            "Code": "109337",
+            "Name": "Angleur",
+            "NameAr": "انجليور"
+        },
+        {
+            "Code": "109575",
+            "Name": "Anhee",
+            "NameAr": "انهيي"
+        },
+        {
+            "Code": "109231",
+            "Name": "Anseremme",
+            "NameAr": "انسيريممي"
+        },
+        {
+            "Code": "109358",
+            "Name": "Antwerp",
+            "NameAr": "انتويرب"
+        },
+        {
+            "Code": "110188",
+            "Name": "Arlon",
+            "NameAr": "ارلون"
+        },
+        {
+            "Code": "109282",
+            "Name": "As",
+            "NameAr": "اس"
+        },
+        {
+            "Code": "417181",
+            "Name": "Assenede",
+            "NameAr": "اسسينيدي"
+        },
+        {
+            "Code": "109739",
+            "Name": "Assesse",
+            "NameAr": "اسسيسسي"
+        },
+        {
+            "Code": "110336",
+            "Name": "Attert",
+            "NameAr": "اتتيرت"
+        },
+        {
+            "Code": "110006",
+            "Name": "Aubange",
+            "NameAr": "اوبانجي"
+        },
+        {
+            "Code": "109648",
+            "Name": "Aubel",
+            "NameAr": "اوبيل"
+        },
+        {
+            "Code": "101471",
+            "Name": "Auvelais",
+            "NameAr": "اوفيلايس"
+        },
+        {
+            "Code": "109931",
+            "Name": "Ave-et-Auffe",
+            "NameAr": "افي-يت-اوففي"
+        },
+        {
+            "Code": "109765",
+            "Name": "Avelgem",
+            "NameAr": "افيلجيم"
+        },
+        {
+            "Code": "109936",
+            "Name": "Aye",
+            "NameAr": "ايي"
+        },
+        {
+            "Code": "110035",
+            "Name": "Aywaille",
+            "NameAr": "ايوايللي"
+        },
+        {
+            "Code": "110366",
+            "Name": "Baarle-Hertog",
+            "NameAr": "باارلي-هيرتوج"
+        },
+        {
+            "Code": "101486",
+            "Name": "Balatre",
+            "NameAr": "بالاتري"
+        },
+        {
+            "Code": "101492",
+            "Name": "Banneux",
+            "NameAr": "باننيوكس"
+        },
+        {
+            "Code": "110788",
+            "Name": "Barbencon",
+            "NameAr": "باربينكون"
+        },
+        {
+            "Code": "110524",
+            "Name": "Barvaux",
+            "NameAr": "بارفاوكس"
+        },
+        {
+            "Code": "111032",
+            "Name": "Basse-Bodeux",
+            "NameAr": "باسسي-بوديوكس"
+        },
+        {
+            "Code": "110449",
+            "Name": "Bastogne",
+            "NameAr": "باستوجني"
+        },
+        {
+            "Code": "111059",
+            "Name": "Beauraing",
+            "NameAr": "بياوراينج"
+        },
+        {
+            "Code": "417123",
+            "Name": "Beauvechain",
+            "NameAr": "بياوفيكهاين"
+        },
+        {
+            "Code": "144141",
+            "Name": "Beauvoorde",
+            "NameAr": "بياوفووردي"
+        },
+        {
+            "Code": "110910",
+            "Name": "Beccol Theux",
+            "NameAr": "بيككول تهيوكس"
+        },
+        {
+            "Code": "110920",
+            "Name": "Beernem",
+            "NameAr": "بييرنيم"
+        },
+        {
+            "Code": "105389",
+            "Name": "Beerse",
+            "NameAr": "بييرسي"
+        },
+        {
+            "Code": "110571",
+            "Name": "Belgium",
+            "NameAr": "بيلجيوم"
+        },
+        {
+            "Code": "105725",
+            "Name": "Belvaux",
+            "NameAr": "بيلفاوكس"
+        },
+        {
+            "Code": "111176",
+            "Name": "Beringen",
+            "NameAr": "بيرينجين"
+        },
+        {
+            "Code": "417124",
+            "Name": "Berlare",
+            "NameAr": "بيرلاري"
+        },
+        {
+            "Code": "105397",
+            "Name": "Berneau",
+            "NameAr": "بيرنياو"
+        },
+        {
+            "Code": "417176",
+            "Name": "Bernissart",
+            "NameAr": "بيرنيسسارت"
+        },
+        {
+            "Code": "290700",
+            "Name": "Bertem",
+            "NameAr": "بيرتيم"
+        },
+        {
+            "Code": "102129",
+            "Name": "Bertrix",
+            "NameAr": "بيرتريكس"
+        },
+        {
+            "Code": "111193",
+            "Name": "Beuzet",
+            "NameAr": "بيوزيت"
+        },
+        {
+            "Code": "111479",
+            "Name": "Beveren",
+            "NameAr": "بيفيرين"
+        },
+        {
+            "Code": "144244",
+            "Name": "Bievre",
+            "NameAr": "بييفري"
+        },
+        {
+            "Code": "111505",
+            "Name": "Bilzen",
+            "NameAr": "بيلزين"
+        },
+        {
+            "Code": "144270",
+            "Name": "Blaimont",
+            "NameAr": "بلايمونت"
+        },
+        {
+            "Code": "112403",
+            "Name": "Blankenberge",
+            "NameAr": "بلانكينبيرجي"
+        },
+        {
+            "Code": "112206",
+            "Name": "Blegny",
+            "NameAr": "بليجني"
+        },
+        {
+            "Code": "111360",
+            "Name": "Bois-de-Villers",
+            "NameAr": "بويس-دي-فيلليرس"
+        },
+        {
+            "Code": "112663",
+            "Name": "Bomal-sur-Ourthe",
+            "NameAr": "بومال-سور-وورتهي"
+        },
+        {
+            "Code": "112305",
+            "Name": "Boncelles",
+            "NameAr": "بونكيلليس"
+        },
+        {
+            "Code": "112308",
+            "Name": "Bonheiden",
+            "NameAr": "بونهييدين"
+        },
+        {
+            "Code": "112317",
+            "Name": "Borgloon",
+            "NameAr": "بورجلوون"
+        },
+        {
+            "Code": "108076",
+            "Name": "Borlo",
+            "NameAr": "بورلو"
+        },
+        {
+            "Code": "112467",
+            "Name": "Bornem",
+            "NameAr": "بورنيم"
+        },
+        {
+            "Code": "112690",
+            "Name": "Bouillon",
+            "NameAr": "بوويللون"
+        },
+        {
+            "Code": "104868",
+            "Name": "Boussu-lez-Walcourt",
+            "NameAr": "بووسسو-ليز-والكوورت"
+        },
+        {
+            "Code": "112335",
+            "Name": "Bousval",
+            "NameAr": "بووسفال"
+        },
+        {
+            "Code": "112484",
+            "Name": "Bovigny",
+            "NameAr": "بوفيجني"
+        },
+        {
+            "Code": "112704",
+            "Name": "Braine-le-Chateau",
+            "NameAr": "برايني-لي-كهاتياو"
+        },
+        {
+            "Code": "144352",
+            "Name": "Brasschaat",
+            "NameAr": "براسسكهاات"
+        },
+        {
+            "Code": "108083",
+            "Name": "Brecht",
+            "NameAr": "بريكهت"
+        },
+        {
+            "Code": "112548",
+            "Name": "Bredene",
+            "NameAr": "بريديني"
+        },
+        {
+            "Code": "112285",
+            "Name": "Bree",
+            "NameAr": "بريي"
+        },
+        {
+            "Code": "112588",
+            "Name": "Bruges",
+            "NameAr": "بروجيس"
+        },
+        {
+            "Code": "113060",
+            "Name": "Brussels",
+            "NameAr": "بروسسيلس"
+        },
+        {
+            "Code": "325616",
+            "Name": "Buellingen",
+            "NameAr": "بويللينجين"
+        },
+        {
+            "Code": "105680",
+            "Name": "Bullingen",
+            "NameAr": "بوللينجين"
+        },
+        {
+            "Code": "113450",
+            "Name": "Bure",
+            "NameAr": "بوري"
+        },
+        {
+            "Code": "144429",
+            "Name": "Burg-Reuland",
+            "NameAr": "بورج-ريولاند"
+        },
+        {
+            "Code": "113472",
+            "Name": "Butgenbach",
+            "NameAr": "بوتجينباكه"
+        },
+        {
+            "Code": "114044",
+            "Name": "Casteau",
+            "NameAr": "كاستياو"
+        },
+        {
+            "Code": "101805",
+            "Name": "Celles",
+            "NameAr": "كيلليس"
+        },
+        {
+            "Code": "114495",
+            "Name": "Charleroi",
+            "NameAr": "كهارليروي"
+        },
+        {
+            "Code": "114728",
+            "Name": "Chaudfontaine",
+            "NameAr": "كهاودفونتايني"
+        },
+        {
+            "Code": "144650",
+            "Name": "Cherain",
+            "NameAr": "كهيراين"
+        },
+        {
+            "Code": "114528",
+            "Name": "Chevetogne",
+            "NameAr": "كهيفيتوجني"
+        },
+        {
+            "Code": "108143",
+            "Name": "Chimay",
+            "NameAr": "كهيماي"
+        },
+        {
+            "Code": "105257",
+            "Name": "Chiny-sur Semois",
+            "NameAr": "كهيني-سور سيمويس"
+        },
+        {
+            "Code": "115780",
+            "Name": "Ciney",
+            "NameAr": "كينيي"
+        },
+        {
+            "Code": "114995",
+            "Name": "Comblain-au-Pont",
+            "NameAr": "كومبلاين-او-بونت"
+        },
+        {
+            "Code": "144752",
+            "Name": "Comblain-la-Tour",
+            "NameAr": "كومبلاين-لا-توور"
+        },
+        {
+            "Code": "144766",
+            "Name": "Coo",
+            "NameAr": "كوو"
+        },
+        {
+            "Code": "115105",
+            "Name": "Corbion",
+            "NameAr": "كوربيون"
+        },
+        {
+            "Code": "108165",
+            "Name": "Court-Saint-Etienne",
+            "NameAr": "كوورت-ساينت-يتيينني"
+        },
+        {
+            "Code": "115155",
+            "Name": "Crupet",
+            "NameAr": "كروبيت"
+        },
+        {
+            "Code": "418025",
+            "Name": "CULEMBORG",
+            "NameAr": "كوليمبورج"
+        },
+        {
+            "Code": "115627",
+            "Name": "Damme",
+            "NameAr": "داممي"
+        },
+        {
+            "Code": "144875",
+            "Name": "Daverdisse",
+            "NameAr": "دافيرديسسي"
+        },
+        {
+            "Code": "144880",
+            "Name": "De Haan",
+            "NameAr": "دي هاان"
+        },
+        {
+            "Code": "100107",
+            "Name": "De Panne",
+            "NameAr": "دي بانني"
+        },
+        {
+            "Code": "115671",
+            "Name": "Deerlijk",
+            "NameAr": "دييرليجك"
+        },
+        {
+            "Code": "297768",
+            "Name": "Deinze",
+            "NameAr": "ديينزي"
+        },
+        {
+            "Code": "115682",
+            "Name": "Dendermonde",
+            "NameAr": "دينديرموندي"
+        },
+        {
+            "Code": "101853",
+            "Name": "Dessel",
+            "NameAr": "ديسسيل"
+        },
+        {
+            "Code": "102308",
+            "Name": "Deurle",
+            "NameAr": "ديورلي"
+        },
+        {
+            "Code": "116189",
+            "Name": "Diegem",
+            "NameAr": "دييجيم"
+        },
+        {
+            "Code": "116313",
+            "Name": "Diest",
+            "NameAr": "دييست"
+        },
+        {
+            "Code": "116317",
+            "Name": "Diksmuide",
+            "NameAr": "ديكسمويدي"
+        },
+        {
+            "Code": "115705",
+            "Name": "Dilbeek",
+            "NameAr": "ديلبييك"
+        },
+        {
+            "Code": "101856",
+            "Name": "Dilsen-Stokkem",
+            "NameAr": "ديلسين-ستوككيم"
+        },
+        {
+            "Code": "115710",
+            "Name": "Dinant",
+            "NameAr": "دينانت"
+        },
+        {
+            "Code": "115725",
+            "Name": "Dochamps",
+            "NameAr": "دوكهامبس"
+        },
+        {
+            "Code": "116438",
+            "Name": "Drogenbos",
+            "NameAr": "دروجينبوس"
+        },
+        {
+            "Code": "106024",
+            "Name": "Drongen",
+            "NameAr": "درونجين"
+        },
+        {
+            "Code": "106025",
+            "Name": "Dudzele",
+            "NameAr": "دودزيلي"
+        },
+        {
+            "Code": "116710",
+            "Name": "Duinbergen",
+            "NameAr": "دوينبيرجين"
+        },
+        {
+            "Code": "145003",
+            "Name": "Durbuy",
+            "NameAr": "دوربوي"
+        },
+        {
+            "Code": "116959",
+            "Name": "Eben-Emael",
+            "NameAr": "يبين-يمايل"
+        },
+        {
+            "Code": "417340",
+            "Name": "Ecaussinnes-d Enghien",
+            "NameAr": "يكاوسسيننيس-د ينجهيين"
+        },
+        {
+            "Code": "101874",
+            "Name": "Edegem",
+            "NameAr": "يديجيم"
+        },
+        {
+            "Code": "105506",
+            "Name": "Eeklo",
+            "NameAr": "ييكلو"
+        },
+        {
+            "Code": "108219",
+            "Name": "Elewijt",
+            "NameAr": "يليويجت"
+        },
+        {
+            "Code": "116542",
+            "Name": "Ellezelles",
+            "NameAr": "يلليزيلليس"
+        },
+        {
+            "Code": "108221",
+            "Name": "Elverdinge",
+            "NameAr": "يلفيردينجي"
+        },
+        {
+            "Code": "117684",
+            "Name": "Emines",
+            "NameAr": "يمينيس"
+        },
+        {
+            "Code": "117810",
+            "Name": "Enghien",
+            "NameAr": "ينجهيين"
+        },
+        {
+            "Code": "108226",
+            "Name": "Eprave",
+            "NameAr": "يبرافي"
+        },
+        {
+            "Code": "117829",
+            "Name": "Erezee",
+            "NameAr": "يريزيي"
+        },
+        {
+            "Code": "108229",
+            "Name": "Erondegem",
+            "NameAr": "يرونديجيم"
+        },
+        {
+            "Code": "117837",
+            "Name": "Erpe-Mere",
+            "NameAr": "يربي-ميري"
+        },
+        {
+            "Code": "117259",
+            "Name": "Essen",
+            "NameAr": "يسسين"
+        },
+        {
+            "Code": "117212",
+            "Name": "Eupen",
+            "NameAr": "يوبين"
+        },
+        {
+            "Code": "117741",
+            "Name": "Evergem",
+            "NameAr": "يفيرجيم"
+        },
+        {
+            "Code": "108235",
+            "Name": "Eynatten",
+            "NameAr": "ييناتتين"
+        },
+        {
+            "Code": "118238",
+            "Name": "Falaen",
+            "NameAr": "فالاين"
+        },
+        {
+            "Code": "145163",
+            "Name": "Fayt-Lez-Manage",
+            "NameAr": "فايت-ليز-ماناجي"
+        },
+        {
+            "Code": "118145",
+            "Name": "Feluy",
+            "NameAr": "فيلوي"
+        },
+        {
+            "Code": "117897",
+            "Name": "Ferrieres",
+            "NameAr": "فيررييريس"
+        },
+        {
+            "Code": "117645",
+            "Name": "Fleurus",
+            "NameAr": "فليوروس"
+        },
+        {
+            "Code": "117651",
+            "Name": "Florenville",
+            "NameAr": "فلورينفيللي"
+        },
+        {
+            "Code": "102235",
+            "Name": "Fosses-la-Ville",
+            "NameAr": "فوسسيس-لا-فيللي"
+        },
+        {
+            "Code": "117940",
+            "Name": "Frahan",
+            "NameAr": "فراهان"
+        },
+        {
+            "Code": "118503",
+            "Name": "Francorchamps",
+            "NameAr": "فرانكوركهامبس"
+        },
+        {
+            "Code": "118373",
+            "Name": "Froidchapelle",
+            "NameAr": "فرويدكهابيللي"
+        },
+        {
+            "Code": "102405",
+            "Name": "Galmaarden",
+            "NameAr": "جالمااردين"
+        },
+        {
+            "Code": "145326",
+            "Name": "Gavere",
+            "NameAr": "جافيري"
+        },
+        {
+            "Code": "118942",
+            "Name": "Gedinne",
+            "NameAr": "جيدينني"
+        },
+        {
+            "Code": "118669",
+            "Name": "Geel",
+            "NameAr": "جييل"
+        },
+        {
+            "Code": "376209",
+            "Name": "Geetbets",
+            "NameAr": "جييتبيتس"
+        },
+        {
+            "Code": "145334",
+            "Name": "Gembloux",
+            "NameAr": "جيمبلووكس"
+        },
+        {
+            "Code": "145337",
+            "Name": "Genk",
+            "NameAr": "جينك"
+        },
+        {
+            "Code": "102479",
+            "Name": "Geraardsbergen",
+            "NameAr": "جيرااردسبيرجين"
+        },
+        {
+            "Code": "118690",
+            "Name": "Ghent",
+            "NameAr": "جهينت"
+        },
+        {
+            "Code": "119769",
+            "Name": "Ghislenghien",
+            "NameAr": "جهيسلينجهيين"
+        },
+        {
+            "Code": "118987",
+            "Name": "Gingelom",
+            "NameAr": "جينجيلوم"
+        },
+        {
+            "Code": "119781",
+            "Name": "Gistel",
+            "NameAr": "جيستيل"
+        },
+        {
+            "Code": "417127",
+            "Name": "Gooik",
+            "NameAr": "جوويك"
+        },
+        {
+            "Code": "120378",
+            "Name": "Gosselies",
+            "NameAr": "جوسسيلييس"
+        },
+        {
+            "Code": "119329",
+            "Name": "Gouvy",
+            "NameAr": "جووفي"
+        },
+        {
+            "Code": "145449",
+            "Name": "Grimbergen",
+            "NameAr": "جريمبيرجين"
+        },
+        {
+            "Code": "121100",
+            "Name": "Grobbendonk",
+            "NameAr": "جروببيندونك"
+        },
+        {
+            "Code": "119732",
+            "Name": "Groot Bijgaarden",
+            "NameAr": "جرووت بيججااردين"
+        },
+        {
+            "Code": "120131",
+            "Name": "Groot Gelmen",
+            "NameAr": "جرووت جيلمين"
+        },
+        {
+            "Code": "119751",
+            "Name": "Grupont",
+            "NameAr": "جروبونت"
+        },
+        {
+            "Code": "120577",
+            "Name": "Haasrode",
+            "NameAr": "هااسرودي"
+        },
+        {
+            "Code": "121144",
+            "Name": "Habay La Neuve",
+            "NameAr": "هاباي لا نيوفي"
+        },
+        {
+            "Code": "121167",
+            "Name": "Halle",
+            "NameAr": "هاللي"
+        },
+        {
+            "Code": "106138",
+            "Name": "Hamme",
+            "NameAr": "هاممي"
+        },
+        {
+            "Code": "119553",
+            "Name": "Hamont-Achel",
+            "NameAr": "هامونت-اكهيل"
+        },
+        {
+            "Code": "119962",
+            "Name": "Han-Sur-Lesse",
+            "NameAr": "هان-سور-ليسسي"
+        },
+        {
+            "Code": "145539",
+            "Name": "Harre",
+            "NameAr": "هارري"
+        },
+        {
+            "Code": "120496",
+            "Name": "Hasselt",
+            "NameAr": "هاسسيلت"
+        },
+        {
+            "Code": "160182",
+            "Name": "Hastiere,   Champagne-Ardenne",
+            "NameAr": "هاستييري كهامباجني-اردينني"
+        },
+        {
+            "Code": "120519",
+            "Name": "Hechtel / Eksel",
+            "NameAr": "هيكهتيل يكسيل"
+        },
+        {
+            "Code": "102451",
+            "Name": "Heers",
+            "NameAr": "هييرس"
+        },
+        {
+            "Code": "120658",
+            "Name": "Heist-op-den-Berg",
+            "NameAr": "هييست-وب-دين-بيرج"
+        },
+        {
+            "Code": "121326",
+            "Name": "Henri-Chapelle",
+            "NameAr": "هينري-كهابيللي"
+        },
+        {
+            "Code": "120274",
+            "Name": "Hensies",
+            "NameAr": "هينسييس"
+        },
+        {
+            "Code": "121889",
+            "Name": "Herbeumont",
+            "NameAr": "هيربيومونت"
+        },
+        {
+            "Code": "121891",
+            "Name": "Herentals",
+            "NameAr": "هيرينتالس"
+        },
+        {
+            "Code": "417129",
+            "Name": "Herne",
+            "NameAr": "هيرني"
+        },
+        {
+            "Code": "106146",
+            "Name": "Herselt",
+            "NameAr": "هيرسيلت"
+        },
+        {
+            "Code": "121334",
+            "Name": "Herstal",
+            "NameAr": "هيرستال"
+        },
+        {
+            "Code": "121335",
+            "Name": "Herve",
+            "NameAr": "هيرفي"
+        },
+        {
+            "Code": "120843",
+            "Name": "Heusden Zolder",
+            "NameAr": "هيوسدين زولدير"
+        },
+        {
+            "Code": "120289",
+            "Name": "Heuvelland",
+            "NameAr": "هيوفيللاند"
+        },
+        {
+            "Code": "160829",
+            "Name": "Hoegaarden",
+            "NameAr": "هويجااردين"
+        },
+        {
+            "Code": "121241",
+            "Name": "Hoeilaart",
+            "NameAr": "هوييلاارت"
+        },
+        {
+            "Code": "354773",
+            "Name": "Hoeselt",
+            "NameAr": "هويسيلت"
+        },
+        {
+            "Code": "121644",
+            "Name": "Hofstade",
+            "NameAr": "هوفستادي"
+        },
+        {
+            "Code": "120976",
+            "Name": "Hollogne",
+            "NameAr": "هوللوجني"
+        },
+        {
+            "Code": "120731",
+            "Name": "Holsbeek",
+            "NameAr": "هولسبييك"
+        },
+        {
+            "Code": "381865",
+            "Name": "Hooglede",
+            "NameAr": "هووجليدي"
+        },
+        {
+            "Code": "145679",
+            "Name": "Hotton",
+            "NameAr": "هوتتون"
+        },
+        {
+            "Code": "121011",
+            "Name": "Houffalize",
+            "NameAr": "هووففاليزي"
+        },
+        {
+            "Code": "121013",
+            "Name": "Houmart",
+            "NameAr": "هوومارت"
+        },
+        {
+            "Code": "145684",
+            "Name": "Houthalen-Helchteren",
+            "NameAr": "هووتهالين-هيلكهتيرين"
+        },
+        {
+            "Code": "145685",
+            "Name": "Houyet",
+            "NameAr": "هووييت"
+        },
+        {
+            "Code": "122074",
+            "Name": "Huldenberg-Neerijse",
+            "NameAr": "هولدينبيرج-نييريجسي"
+        },
+        {
+            "Code": "121041",
+            "Name": "Huy",
+            "NameAr": "هوي"
+        },
+        {
+            "Code": "121046",
+            "Name": "Ichtegem",
+            "NameAr": "يكهتيجيم"
+        },
+        {
+            "Code": "121708",
+            "Name": "Ieper",
+            "NameAr": "ييبير"
+        },
+        {
+            "Code": "122163",
+            "Name": "Itegem",
+            "NameAr": "يتيجيم"
+        },
+        {
+            "Code": "122737",
+            "Name": "Ittre",
+            "NameAr": "يتتري"
+        },
+        {
+            "Code": "122741",
+            "Name": "Izegem",
+            "NameAr": "يزيجيم"
+        },
+        {
+            "Code": "145796",
+            "Name": "Jabbeke",
+            "NameAr": "جاببيكي"
+        },
+        {
+            "Code": "145808",
+            "Name": "Jalhay",
+            "NameAr": "جالهاي"
+        },
+        {
+            "Code": "122897",
+            "Name": "Jupille",
+            "NameAr": "جوبيللي"
+        },
+        {
+            "Code": "102534",
+            "Name": "Kanne",
+            "NameAr": "كانني"
+        },
+        {
+            "Code": "124178",
+            "Name": "Kasterlee",
+            "NameAr": "كاستيرليي"
+        },
+        {
+            "Code": "123652",
+            "Name": "Kelmis",
+            "NameAr": "كيلميس"
+        },
+        {
+            "Code": "123124",
+            "Name": "Kemmel",
+            "NameAr": "كيمميل"
+        },
+        {
+            "Code": "103967",
+            "Name": "Kinrooi",
+            "NameAr": "كينرووي"
+        },
+        {
+            "Code": "123045",
+            "Name": "Kluisbergen",
+            "NameAr": "كلويسبيرجين"
+        },
+        {
+            "Code": "124281",
+            "Name": "Knesselare",
+            "NameAr": "كنيسسيلاري"
+        },
+        {
+            "Code": "123863",
+            "Name": "Knokke",
+            "NameAr": "كنوككي"
+        },
+        {
+            "Code": "123967",
+            "Name": "Knokke-Zoute",
+            "NameAr": "كنوككي-زووتي"
+        },
+        {
+            "Code": "104117",
+            "Name": "Kobbegem",
+            "NameAr": "كوببيجيم"
+        },
+        {
+            "Code": "123613",
+            "Name": "Koksijde",
+            "NameAr": "كوكسيجدي"
+        },
+        {
+            "Code": "417174",
+            "Name": "Kortemark",
+            "NameAr": "كورتيمارك"
+        },
+        {
+            "Code": "123310",
+            "Name": "Kortenberg",
+            "NameAr": "كورتينبيرج"
+        },
+        {
+            "Code": "397815",
+            "Name": "Kortessem",
+            "NameAr": "كورتيسسيم"
+        },
+        {
+            "Code": "124960",
+            "Name": "Kortrijk",
+            "NameAr": "كورتريجك"
+        },
+        {
+            "Code": "104129",
+            "Name": "Kruishoutem",
+            "NameAr": "كرويسهووتيم"
+        },
+        {
+            "Code": "124048",
+            "Name": "Kuurne",
+            "NameAr": "كوورني"
+        },
+        {
+            "Code": "125046",
+            "Name": "La Gleize",
+            "NameAr": "لا جلييزي"
+        },
+        {
+            "Code": "125712",
+            "Name": "La Louviere",
+            "NameAr": "لا لووفييري"
+        },
+        {
+            "Code": "123953",
+            "Name": "La Roche-en-Ardenne",
+            "NameAr": "لا روكهي-ين-اردينني"
+        },
+        {
+            "Code": "103858",
+            "Name": "Lacuisine",
+            "NameAr": "لاكويسيني"
+        },
+        {
+            "Code": "124074",
+            "Name": "Laforet",
+            "NameAr": "لافوريت"
+        },
+        {
+            "Code": "124108",
+            "Name": "Lanaken",
+            "NameAr": "لاناكين"
+        },
+        {
+            "Code": "125773",
+            "Name": "Langemark-Poelkapelle",
+            "NameAr": "لانجيمارك-بويلكابيللي"
+        },
+        {
+            "Code": "125084",
+            "Name": "Lanklaar",
+            "NameAr": "لانكلاار"
+        },
+        {
+            "Code": "146185",
+            "Name": "Lavacherie",
+            "NameAr": "لافاكهيريي"
+        },
+        {
+            "Code": "125945",
+            "Name": "Leernes",
+            "NameAr": "لييرنيس"
+        },
+        {
+            "Code": "124860",
+            "Name": "Lembeke",
+            "NameAr": "ليمبيكي"
+        },
+        {
+            "Code": "125394",
+            "Name": "Lendelede",
+            "NameAr": "لينديليدي"
+        },
+        {
+            "Code": "125156",
+            "Name": "Leopoldsburg",
+            "NameAr": "ليوبولدسبورج"
+        },
+        {
+            "Code": "102564",
+            "Name": "Les Bons Villers",
+            "NameAr": "ليس بونس فيلليرس"
+        },
+        {
+            "Code": "124892",
+            "Name": "Leuven",
+            "NameAr": "ليوفين"
+        },
+        {
+            "Code": "126544",
+            "Name": "Libin",
+            "NameAr": "ليبين"
+        },
+        {
+            "Code": "125426",
+            "Name": "Libramont",
+            "NameAr": "ليبرامونت"
+        },
+        {
+            "Code": "126551",
+            "Name": "Liege",
+            "NameAr": "لييجي"
+        },
+        {
+            "Code": "125844",
+            "Name": "Lier",
+            "NameAr": "ليير"
+        },
+        {
+            "Code": "417113",
+            "Name": "Lierde",
+            "NameAr": "لييردي"
+        },
+        {
+            "Code": "125845",
+            "Name": "Lierneux",
+            "NameAr": "لييرنيوكس"
+        },
+        {
+            "Code": "126009",
+            "Name": "Ligneuville",
+            "NameAr": "ليجنيوفيللي"
+        },
+        {
+            "Code": "146283",
+            "Name": "Lille",
+            "NameAr": "ليللي"
+        },
+        {
+            "Code": "126013",
+            "Name": "Limelette",
+            "NameAr": "ليميليتتي"
+        },
+        {
+            "Code": "126016",
+            "Name": "Limont",
+            "NameAr": "ليمونت"
+        },
+        {
+            "Code": "125869",
+            "Name": "Lisogne",
+            "NameAr": "ليسوجني"
+        },
+        {
+            "Code": "125320",
+            "Name": "Lissewege",
+            "NameAr": "ليسسيويجي"
+        },
+        {
+            "Code": "104462",
+            "Name": "Lo-Reninge",
+            "NameAr": "لو-رينينجي"
+        },
+        {
+            "Code": "146334",
+            "Name": "Lochristi",
+            "NameAr": "لوكهريستي"
+        },
+        {
+            "Code": "126315",
+            "Name": "Lokeren",
+            "NameAr": "لوكيرين"
+        },
+        {
+            "Code": "126317",
+            "Name": "Lommel",
+            "NameAr": "لومميل"
+        },
+        {
+            "Code": "126332",
+            "Name": "Loppem",
+            "NameAr": "لوببيم"
+        },
+        {
+            "Code": "126206",
+            "Name": "Louette St. Pierre",
+            "NameAr": "لوويتتي ست بييرري"
+        },
+        {
+            "Code": "126353",
+            "Name": "Louvain-la-Neuve",
+            "NameAr": "لووفاين-لا-نيوفي"
+        },
+        {
+            "Code": "127304",
+            "Name": "Louveigne",
+            "NameAr": "لووفييجني"
+        },
+        {
+            "Code": "126677",
+            "Name": "Lummen",
+            "NameAr": "لوممين"
+        },
+        {
+            "Code": "126732",
+            "Name": "Lustin",
+            "NameAr": "لوستين"
+        },
+        {
+            "Code": "126697",
+            "Name": "Maarkedal",
+            "NameAr": "مااركيدال"
+        },
+        {
+            "Code": "146403",
+            "Name": "Maaseik",
+            "NameAr": "مااسييك"
+        },
+        {
+            "Code": "146404",
+            "Name": "Maasmechelen",
+            "NameAr": "مااسميكهيلين"
+        },
+        {
+            "Code": "126759",
+            "Name": "Maffe",
+            "NameAr": "ماففي"
+        },
+        {
+            "Code": "146437",
+            "Name": "Maissin",
+            "NameAr": "مايسسين"
+        },
+        {
+            "Code": "126786",
+            "Name": "Maldegem",
+            "NameAr": "مالديجيم"
+        },
+        {
+            "Code": "126134",
+            "Name": "Malmedy",
+            "NameAr": "مالميدي"
+        },
+        {
+            "Code": "126967",
+            "Name": "Manhay",
+            "NameAr": "مانهاي"
+        },
+        {
+            "Code": "126406",
+            "Name": "Marche-en-Famenne",
+            "NameAr": "ماركهي-ين-فامينني"
+        },
+        {
+            "Code": "128054",
+            "Name": "Marcourt",
+            "NameAr": "ماركوورت"
+        },
+        {
+            "Code": "126880",
+            "Name": "Martelange",
+            "NameAr": "مارتيلانجي"
+        },
+        {
+            "Code": "127848",
+            "Name": "Masnuy-Saint-Jean",
+            "NameAr": "ماسنوي-ساينت-جيان"
+        },
+        {
+            "Code": "104037",
+            "Name": "Mazy",
+            "NameAr": "مازي"
+        },
+        {
+            "Code": "150348",
+            "Name": "Mechelen",
+            "NameAr": "ميكهيلين"
+        },
+        {
+            "Code": "128175",
+            "Name": "Mecheln",
+            "NameAr": "ميكهيلن"
+        },
+        {
+            "Code": "146574",
+            "Name": "Meer",
+            "NameAr": "ميير"
+        },
+        {
+            "Code": "104341",
+            "Name": "Meeuwen-Gruitrode",
+            "NameAr": "مييووين-جرويترودي"
+        },
+        {
+            "Code": "104491",
+            "Name": "Meise",
+            "NameAr": "مييسي"
+        },
+        {
+            "Code": "104492",
+            "Name": "Melle",
+            "NameAr": "ميللي"
+        },
+        {
+            "Code": "128813",
+            "Name": "Menen",
+            "NameAr": "مينين"
+        },
+        {
+            "Code": "127732",
+            "Name": "Merchtem",
+            "NameAr": "ميركهتيم"
+        },
+        {
+            "Code": "128209",
+            "Name": "Merelbeke",
+            "NameAr": "ميريلبيكي"
+        },
+        {
+            "Code": "376906",
+            "Name": "Merkem",
+            "NameAr": "ميركيم"
+        },
+        {
+            "Code": "417126",
+            "Name": "Mesen",
+            "NameAr": "ميسين"
+        },
+        {
+            "Code": "127187",
+            "Name": "Middelkerke",
+            "NameAr": "ميدديلكيركي"
+        },
+        {
+            "Code": "127802",
+            "Name": "Modave",
+            "NameAr": "مودافي"
+        },
+        {
+            "Code": "146666",
+            "Name": "Mol",
+            "NameAr": "مول"
+        },
+        {
+            "Code": "128330",
+            "Name": "Momignies",
+            "NameAr": "موميجنييس"
+        },
+        {
+            "Code": "151151",
+            "Name": "Mons",
+            "NameAr": "مونس"
+        },
+        {
+            "Code": "128657",
+            "Name": "Mons (Bergen)",
+            "NameAr": "مونس بيرجين"
+        },
+        {
+            "Code": "128342",
+            "Name": "Mont St Aubert",
+            "NameAr": "مونت ست اوبيرت"
+        },
+        {
+            "Code": "104791",
+            "Name": "Mont-Saint-Guibert",
+            "NameAr": "مونت-ساينت-جويبيرت"
+        },
+        {
+            "Code": "128525",
+            "Name": "Moorsel",
+            "NameAr": "موورسيل"
+        },
+        {
+            "Code": "102010",
+            "Name": "Morlanwelz",
+            "NameAr": "مورلانويلز"
+        },
+        {
+            "Code": "129678",
+            "Name": "Mouscron",
+            "NameAr": "مووسكرون"
+        },
+        {
+            "Code": "129660",
+            "Name": "Moxhe",
+            "NameAr": "موكسهي"
+        },
+        {
+            "Code": "130351",
+            "Name": "Nadrin",
+            "NameAr": "نادرين"
+        },
+        {
+            "Code": "129260",
+            "Name": "Namur",
+            "NameAr": "نامور"
+        },
+        {
+            "Code": "129273",
+            "Name": "Nassogne",
+            "NameAr": "ناسسوجني"
+        },
+        {
+            "Code": "104515",
+            "Name": "Nazareth",
+            "NameAr": "نازاريته"
+        },
+        {
+            "Code": "130403",
+            "Name": "Neufchateau",
+            "NameAr": "نيوفكهاتياو"
+        },
+        {
+            "Code": "104530",
+            "Name": "Nidrum",
+            "NameAr": "نيدروم"
+        },
+        {
+            "Code": "146891",
+            "Name": "Nieuwerkerken",
+            "NameAr": "نييوويركيركين"
+        },
+        {
+            "Code": "131127",
+            "Name": "Nieuwpoort",
+            "NameAr": "نييووبوورت"
+        },
+        {
+            "Code": "130484",
+            "Name": "Ninove",
+            "NameAr": "نينوفي"
+        },
+        {
+            "Code": "104380",
+            "Name": "Nismes",
+            "NameAr": "نيسميس"
+        },
+        {
+            "Code": "130542",
+            "Name": "Nivelles",
+            "NameAr": "نيفيلليس"
+        },
+        {
+            "Code": "130883",
+            "Name": "Noirefontaine",
+            "NameAr": "نويريفونتايني"
+        },
+        {
+            "Code": "104287",
+            "Name": "Nucleo Bandeirante",
+            "NameAr": "نوكليو باندييرانتي"
+        },
+        {
+            "Code": "129532",
+            "Name": "Ny",
+            "NameAr": "ني"
+        },
+        {
+            "Code": "130607",
+            "Name": "Ocquier",
+            "NameAr": "وكقويير"
+        },
+        {
+            "Code": "146976",
+            "Name": "Oeren",
+            "NameAr": "ويرين"
+        },
+        {
+            "Code": "130094",
+            "Name": "Oeselgem",
+            "NameAr": "ويسيلجيم"
+        },
+        {
+            "Code": "146980",
+            "Name": "Oignies En Thierache",
+            "NameAr": "ويجنييس ين تهييراكهي"
+        },
+        {
+            "Code": "130985",
+            "Name": "Onhaye",
+            "NameAr": "ونهايي"
+        },
+        {
+            "Code": "131279",
+            "Name": "Oostduinkerke",
+            "NameAr": "ووستدوينكيركي"
+        },
+        {
+            "Code": "130989",
+            "Name": "Oostkamp",
+            "NameAr": "ووستكامب"
+        },
+        {
+            "Code": "103043",
+            "Name": "Oostrozebeke",
+            "NameAr": "ووستروزيبيكي"
+        },
+        {
+            "Code": "104300",
+            "Name": "Oostvleteren",
+            "NameAr": "ووستفليتيرين"
+        },
+        {
+            "Code": "130823",
+            "Name": "Ostend",
+            "NameAr": "وستيند"
+        },
+        {
+            "Code": "130724",
+            "Name": "Ottignies",
+            "NameAr": "وتتيجنييس"
+        },
+        {
+            "Code": "131973",
+            "Name": "Oud-Turnhout",
+            "NameAr": "وود-تورنهووت"
+        },
+        {
+            "Code": "131359",
+            "Name": "Oudenaarde",
+            "NameAr": "وودينااردي"
+        },
+        {
+            "Code": "131699",
+            "Name": "Oudenburg",
+            "NameAr": "وودينبورج"
+        },
+        {
+            "Code": "130289",
+            "Name": "Ouffet",
+            "NameAr": "ووففيت"
+        },
+        {
+            "Code": "376155",
+            "Name": "Oupeye",
+            "NameAr": "ووبييي"
+        },
+        {
+            "Code": "130729",
+            "Name": "Ouren",
+            "NameAr": "وورين"
+        },
+        {
+            "Code": "132008",
+            "Name": "Overijse",
+            "NameAr": "وفيريجسي"
+        },
+        {
+            "Code": "102074",
+            "Name": "Overpelt",
+            "NameAr": "وفيربيلت"
+        },
+        {
+            "Code": "130838",
+            "Name": "Ovifat",
+            "NameAr": "وفيفات"
+        },
+        {
+            "Code": "131711",
+            "Name": "Paal",
+            "NameAr": "باال"
+        },
+        {
+            "Code": "132029",
+            "Name": "Palenge-Durbuy",
+            "NameAr": "بالينجي-دوربوي"
+        },
+        {
+            "Code": "131732",
+            "Name": "Paliseul",
+            "NameAr": "باليسيول"
+        },
+        {
+            "Code": "131553",
+            "Name": "Parike-Brakel",
+            "NameAr": "باريكي-براكيل"
+        },
+        {
+            "Code": "131477",
+            "Name": "Peer",
+            "NameAr": "بيير"
+        },
+        {
+            "Code": "132460",
+            "Name": "Pepinster",
+            "NameAr": "بيبينستير"
+        },
+        {
+            "Code": "131594",
+            "Name": "Pereybere",
+            "NameAr": "بيرييبيري"
+        },
+        {
+            "Code": "102755",
+            "Name": "Peruwelz",
+            "NameAr": "بيروويلز"
+        },
+        {
+            "Code": "132142",
+            "Name": "Petite Chapelle",
+            "NameAr": "بيتيتي كهابيللي"
+        },
+        {
+            "Code": "160827",
+            "Name": "Plank",
+            "NameAr": "بلانك"
+        },
+        {
+            "Code": "303724",
+            "Name": "Plombieres",
+            "NameAr": "بلومبييريس"
+        },
+        {
+            "Code": "133479",
+            "Name": "Poix St. Hubert",
+            "NameAr": "بويكس ست هوبيرت"
+        },
+        {
+            "Code": "132283",
+            "Name": "Polleur",
+            "NameAr": "بولليور"
+        },
+        {
+            "Code": "133548",
+            "Name": "Poperinge",
+            "NameAr": "بوبيرينجي"
+        },
+        {
+            "Code": "108417",
+            "Name": "Puurs",
+            "NameAr": "بوورس"
+        },
+        {
+            "Code": "133168",
+            "Name": "Raeren",
+            "NameAr": "رايرين"
+        },
+        {
+            "Code": "133681",
+            "Name": "Ransart",
+            "NameAr": "رانسارت"
+        },
+        {
+            "Code": "133861",
+            "Name": "Rebecq",
+            "NameAr": "ريبيكق"
+        },
+        {
+            "Code": "134736",
+            "Name": "Rekem",
+            "NameAr": "ريكيم"
+        },
+        {
+            "Code": "135082",
+            "Name": "Remouchamps",
+            "NameAr": "ريمووكهامبس"
+        },
+        {
+            "Code": "159545",
+            "Name": "Rendeux",
+            "NameAr": "رينديوكس"
+        },
+        {
+            "Code": "133334",
+            "Name": "Retie",
+            "NameAr": "ريتيي"
+        },
+        {
+            "Code": "133834",
+            "Name": "Riemst / Heukelom",
+            "NameAr": "رييمست هيوكيلوم"
+        },
+        {
+            "Code": "103122",
+            "Name": "Rijmenam",
+            "NameAr": "ريجمينام"
+        },
+        {
+            "Code": "134506",
+            "Name": "Rixensart",
+            "NameAr": "ريكسينسارت"
+        },
+        {
+            "Code": "134510",
+            "Name": "Robertville",
+            "NameAr": "روبيرتفيللي"
+        },
+        {
+            "Code": "135727",
+            "Name": "Rochefort",
+            "NameAr": "روكهيفورت"
+        },
+        {
+            "Code": "103106",
+            "Name": "Rochehaut",
+            "NameAr": "روكهيهاوت"
+        },
+        {
+            "Code": "134613",
+            "Name": "Roeselare",
+            "NameAr": "رويسيلاري"
+        },
+        {
+            "Code": "135740",
+            "Name": "Rollegem",
+            "NameAr": "رولليجيم"
+        },
+        {
+            "Code": "134538",
+            "Name": "Ronse",
+            "NameAr": "رونسي"
+        },
+        {
+            "Code": "102963",
+            "Name": "Roosdaal",
+            "NameAr": "رووسداال"
+        },
+        {
+            "Code": "135767",
+            "Name": "Roumont",
+            "NameAr": "روومونت"
+        },
+        {
+            "Code": "135777",
+            "Name": "Ruddervoorde",
+            "NameAr": "رودديرفووردي"
+        },
+        {
+            "Code": "134586",
+            "Name": "Ruisbroek",
+            "NameAr": "رويسبرويك"
+        },
+        {
+            "Code": "147586",
+            "Name": "Rumbeke",
+            "NameAr": "رومبيكي"
+        },
+        {
+            "Code": "134129",
+            "Name": "Saint Hubert",
+            "NameAr": "ساينت هوبيرت"
+        },
+        {
+            "Code": "135648",
+            "Name": "Sainte-Ode",
+            "NameAr": "ساينتي-ودي"
+        },
+        {
+            "Code": "108469",
+            "Name": "Saintes",
+            "NameAr": "ساينتيس"
+        },
+        {
+            "Code": "135994",
+            "Name": "Sankt Vith",
+            "NameAr": "سانكت فيته"
+        },
+        {
+            "Code": "136553",
+            "Name": "Sart-Lez-Spa",
+            "NameAr": "سارت-ليز-سبا"
+        },
+        {
+            "Code": "107049",
+            "Name": "Schonberg",
+            "NameAr": "سكهونبيرج"
+        },
+        {
+            "Code": "136957",
+            "Name": "Schore",
+            "NameAr": "سكهوري"
+        },
+        {
+            "Code": "137002",
+            "Name": "Semois",
+            "NameAr": "سيمويس"
+        },
+        {
+            "Code": "137278",
+            "Name": "Seneffe",
+            "NameAr": "سينيففي"
+        },
+        {
+            "Code": "137618",
+            "Name": "Sint-Genesius-Rode",
+            "NameAr": "سينت-جينيسيوس-رودي"
+        },
+        {
+            "Code": "417128",
+            "Name": "Sint-Gillis-Waas",
+            "NameAr": "سينت-جيلليس-وااس"
+        },
+        {
+            "Code": "138009",
+            "Name": "Sint-Laureins",
+            "NameAr": "سينت-لاوريينس"
+        },
+        {
+            "Code": "147920",
+            "Name": "Sint-Maria-Horebeke",
+            "NameAr": "سينت-ماريا-هوريبيكي"
+        },
+        {
+            "Code": "138710",
+            "Name": "Sint-Martens-Latem",
+            "NameAr": "سينت-مارتينس-لاتيم"
+        },
+        {
+            "Code": "137427",
+            "Name": "Sint-Niklaas",
+            "NameAr": "سينت-نيكلااس"
+        },
+        {
+            "Code": "137474",
+            "Name": "Sint-Truiden",
+            "NameAr": "سينت-ترويدين"
+        },
+        {
+            "Code": "138481",
+            "Name": "Somme-Leuze",
+            "NameAr": "سوممي-ليوزي"
+        },
+        {
+            "Code": "108562",
+            "Name": "Soumagne",
+            "NameAr": "سووماجني"
+        },
+        {
+            "Code": "138498",
+            "Name": "Sourbrodt",
+            "NameAr": "سووربرودت"
+        },
+        {
+            "Code": "139435",
+            "Name": "Spa",
+            "NameAr": "سبا"
+        },
+        {
+            "Code": "417336",
+            "Name": "Spiere-Helkijn",
+            "NameAr": "سبييري-هيلكيجن"
+        },
+        {
+            "Code": "138194",
+            "Name": "St. Andries",
+            "NameAr": "ست اندرييس"
+        },
+        {
+            "Code": "137777",
+            "Name": "St. Ghislain",
+            "NameAr": "ست جهيسلاين"
+        },
+        {
+            "Code": "138789",
+            "Name": "Stambruges",
+            "NameAr": "ستامبروجيس"
+        },
+        {
+            "Code": "138417",
+            "Name": "Stavelot",
+            "NameAr": "ستافيلوت"
+        },
+        {
+            "Code": "139268",
+            "Name": "Stoumont",
+            "NameAr": "ستوومونت"
+        },
+        {
+            "Code": "139591",
+            "Name": "Temse",
+            "NameAr": "تيمسي"
+        },
+        {
+            "Code": "140001",
+            "Name": "Tenneville",
+            "NameAr": "تيننيفيللي"
+        },
+        {
+            "Code": "141007",
+            "Name": "Ternat",
+            "NameAr": "تيرنات"
+        },
+        {
+            "Code": "139958",
+            "Name": "Tervuren",
+            "NameAr": "تيرفورين"
+        },
+        {
+            "Code": "107774",
+            "Name": "Tessenderlo",
+            "NameAr": "تيسسينديرلو"
+        },
+        {
+            "Code": "139959",
+            "Name": "Teuven",
+            "NameAr": "تيوفين"
+        },
+        {
+            "Code": "140024",
+            "Name": "Theux",
+            "NameAr": "تهيوكس"
+        },
+        {
+            "Code": "139613",
+            "Name": "Thimister-Clermont",
+            "NameAr": "تهيميستير-كليرمونت"
+        },
+        {
+            "Code": "139750",
+            "Name": "Thuin",
+            "NameAr": "تهوين"
+        },
+        {
+            "Code": "139303",
+            "Name": "Tielt",
+            "NameAr": "تييلت"
+        },
+        {
+            "Code": "141042",
+            "Name": "Tienen",
+            "NameAr": "تيينين"
+        },
+        {
+            "Code": "139775",
+            "Name": "Tongeren",
+            "NameAr": "تونجيرين"
+        },
+        {
+            "Code": "140785",
+            "Name": "Torhout",
+            "NameAr": "تورهووت"
+        },
+        {
+            "Code": "148289",
+            "Name": "Tournai",
+            "NameAr": "توورناي"
+        },
+        {
+            "Code": "141204",
+            "Name": "Trois-Ponts",
+            "NameAr": "ترويس-بونتس"
+        },
+        {
+            "Code": "148328",
+            "Name": "Trooz",
+            "NameAr": "ترووز"
+        },
+        {
+            "Code": "107836",
+            "Name": "Tubeke",
+            "NameAr": "توبيكي"
+        },
+        {
+            "Code": "140403",
+            "Name": "Turnhout",
+            "NameAr": "تورنهووت"
+        },
+        {
+            "Code": "141104",
+            "Name": "Ursel",
+            "NameAr": "ورسيل"
+        },
+        {
+            "Code": "148437",
+            "Name": "Varsenare",
+            "NameAr": "فارسيناري"
+        },
+        {
+            "Code": "141463",
+            "Name": "Vaux-sur-Sure",
+            "NameAr": "فاوكس-سور-سوري"
+        },
+        {
+            "Code": "142556",
+            "Name": "Vencimont",
+            "NameAr": "فينكيمونت"
+        },
+        {
+            "Code": "141183",
+            "Name": "Verviers",
+            "NameAr": "فيرفييرس"
+        },
+        {
+            "Code": "107571",
+            "Name": "Vesqueville",
+            "NameAr": "فيسقويفيللي"
+        },
+        {
+            "Code": "142571",
+            "Name": "Veurne",
+            "NameAr": "فيورني"
+        },
+        {
+            "Code": "142021",
+            "Name": "Vielsalm",
+            "NameAr": "فييلسالم"
+        },
+        {
+            "Code": "141864",
+            "Name": "Vignee",
+            "NameAr": "فيجنيي"
+        },
+        {
+            "Code": "148527",
+            "Name": "Villers-sur-Lesse",
+            "NameAr": "فيلليرس-سور-ليسسي"
+        },
+        {
+            "Code": "141359",
+            "Name": "Vilvoorde",
+            "NameAr": "فيلفووردي"
+        },
+        {
+            "Code": "141901",
+            "Name": "Virton",
+            "NameAr": "فيرتون"
+        },
+        {
+            "Code": "143186",
+            "Name": "Vise",
+            "NameAr": "فيسي"
+        },
+        {
+            "Code": "107879",
+            "Name": "Vleteren",
+            "NameAr": "فليتيرين"
+        },
+        {
+            "Code": "142734",
+            "Name": "Vlezenbeek",
+            "NameAr": "فليزينبييك"
+        },
+        {
+            "Code": "148557",
+            "Name": "Voeren",
+            "NameAr": "فويرين"
+        },
+        {
+            "Code": "148574",
+            "Name": "Vremde",
+            "NameAr": "فريمدي"
+        },
+        {
+            "Code": "140948",
+            "Name": "Vresse-sur-Semois",
+            "NameAr": "فريسسي-سور-سيمويس"
+        },
+        {
+            "Code": "142754",
+            "Name": "Vroenhoven",
+            "NameAr": "فروينهوفين"
+        },
+        {
+            "Code": "142390",
+            "Name": "Waasmunster",
+            "NameAr": "وااسمونستير"
+        },
+        {
+            "Code": "143233",
+            "Name": "Waimes",
+            "NameAr": "وايميس"
+        },
+        {
+            "Code": "148588",
+            "Name": "Walcourt",
+            "NameAr": "والكوورت"
+        },
+        {
+            "Code": "107592",
+            "Name": "Walshoutem",
+            "NameAr": "والسهووتيم"
+        },
+        {
+            "Code": "391960",
+            "Name": "Wanze",
+            "NameAr": "وانزي"
+        },
+        {
+            "Code": "143259",
+            "Name": "Waregem",
+            "NameAr": "واريجيم"
+        },
+        {
+            "Code": "142094",
+            "Name": "Waterloo",
+            "NameAr": "واتيرلوو"
+        },
+        {
+            "Code": "143273",
+            "Name": "Watou",
+            "NameAr": "واتوو"
+        },
+        {
+            "Code": "143108",
+            "Name": "Wavre",
+            "NameAr": "وافري"
+        },
+        {
+            "Code": "143279",
+            "Name": "Weelde",
+            "NameAr": "وييلدي"
+        },
+        {
+            "Code": "142290",
+            "Name": "Wellen",
+            "NameAr": "ويللين"
+        },
+        {
+            "Code": "143130",
+            "Name": "Wellin",
+            "NameAr": "ويللين"
+        },
+        {
+            "Code": "142292",
+            "Name": "Wenduine",
+            "NameAr": "ويندويني"
+        },
+        {
+            "Code": "142961",
+            "Name": "Werbomont",
+            "NameAr": "ويربومونت"
+        },
+        {
+            "Code": "142129",
+            "Name": "Werchter",
+            "NameAr": "ويركهتير"
+        },
+        {
+            "Code": "143392",
+            "Name": "Westende",
+            "NameAr": "ويستيندي"
+        },
+        {
+            "Code": "143393",
+            "Name": "Westende-Bad",
+            "NameAr": "ويستيندي-باد"
+        },
+        {
+            "Code": "142675",
+            "Name": "Westerlo",
+            "NameAr": "ويستيرلو"
+        },
+        {
+            "Code": "142987",
+            "Name": "Westouter",
+            "NameAr": "ويستووتير"
+        },
+        {
+            "Code": "397756",
+            "Name": "Wetteren",
+            "NameAr": "ويتتيرين"
+        },
+        {
+            "Code": "141697",
+            "Name": "Wevelgem",
+            "NameAr": "ويفيلجيم"
+        },
+        {
+            "Code": "141700",
+            "Name": "Weywertz",
+            "NameAr": "وييويرتز"
+        },
+        {
+            "Code": "148717",
+            "Name": "Wirtzfeld",
+            "NameAr": "ويرتزفيلد"
+        },
+        {
+            "Code": "143532",
+            "Name": "Zaventem",
+            "NameAr": "زافينتيم"
+        },
+        {
+            "Code": "143534",
+            "Name": "Zedelgem",
+            "NameAr": "زيديلجيم"
+        },
+        {
+            "Code": "143923",
+            "Name": "Zelzate",
+            "NameAr": "زيلزاتي"
+        },
+        {
+            "Code": "298879",
+            "Name": "Zingem",
+            "NameAr": "زينجيم"
+        },
+        {
+            "Code": "150779",
+            "Name": "Zoersel",
+            "NameAr": "زويرسيل"
+        },
+        {
+            "Code": "143853",
+            "Name": "Zonhoven",
+            "NameAr": "زونهوفين"
+        },
+        {
+            "Code": "334807",
+            "Name": "Zonnebeke",
+            "NameAr": "زوننيبيكي"
+        },
+        {
+            "Code": "417178",
+            "Name": "Zoutleeuw",
+            "NameAr": "زووتلييوو"
+        },
+        {
+            "Code": "148825",
+            "Name": "Zuienkerke",
+            "NameAr": "زويينكيركي"
+        },
+        {
+            "Code": "369800",
+            "Name": "Zulte",
+            "NameAr": "زولتي"
+        },
+        {
+            "Code": "143377",
+            "Name": "Zutendaal",
+            "NameAr": "زوتينداال"
+        },
+        {
+            "Code": "148830",
+            "Name": "Zwevegem",
+            "NameAr": "زويفيجيم"
+        }
+    ],
+    "totalCities": 464
+}

@@ -1,0 +1,17 @@
+{
+    "id": "TG",
+    "countryCode": "TG",
+    "cities": [
+        {
+            "Code": "145886",
+            "Name": "Kara",
+            "NameAr": "كارا"
+        },
+        {
+            "Code": "125358",
+            "Name": "Lome",
+            "NameAr": "لومي"
+        }
+    ],
+    "totalCities": 2
+}

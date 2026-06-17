@@ -1,0 +1,1312 @@
+{
+    "id": "FI",
+    "countryCode": "FI",
+    "cities": [
+        {
+            "Code": "100542",
+            "Name": "Aanekoski",
+            "NameAr": "اانيكوسكي"
+        },
+        {
+            "Code": "100325",
+            "Name": "Aavasaksa",
+            "NameAr": "اافاساكسا"
+        },
+        {
+            "Code": "101206",
+            "Name": "Ahtari",
+            "NameAr": "اهتاري"
+        },
+        {
+            "Code": "100061",
+            "Name": "Ahtaris",
+            "NameAr": "اهتاريس"
+        },
+        {
+            "Code": "100374",
+            "Name": "Akaslompolo",
+            "NameAr": "اكاسلومبولو"
+        },
+        {
+            "Code": "106075",
+            "Name": "Alajarvi",
+            "NameAr": "الاجارفي"
+        },
+        {
+            "Code": "154171",
+            "Name": "Aland",
+            "NameAr": "الاند"
+        },
+        {
+            "Code": "109462",
+            "Name": "Ankkurinkuja",
+            "NameAr": "انككورينكوجا"
+        },
+        {
+            "Code": "101164",
+            "Name": "Anttola",
+            "NameAr": "انتتولا"
+        },
+        {
+            "Code": "105171",
+            "Name": "Artjarvi",
+            "NameAr": "ارتجارفي"
+        },
+        {
+            "Code": "110094",
+            "Name": "Autti",
+            "NameAr": "اوتتي"
+        },
+        {
+            "Code": "112088",
+            "Name": "Brando",
+            "NameAr": "براندو"
+        },
+        {
+            "Code": "117108",
+            "Name": "Eckero",
+            "NameAr": "يككيرو"
+        },
+        {
+            "Code": "116981",
+            "Name": "Ekenas",
+            "NameAr": "يكيناس"
+        },
+        {
+            "Code": "117153",
+            "Name": "Ellivuori",
+            "NameAr": "يلليفووري"
+        },
+        {
+            "Code": "117237",
+            "Name": "Enontekio",
+            "NameAr": "ينونتيكيو"
+        },
+        {
+            "Code": "117515",
+            "Name": "Espoo",
+            "NameAr": "يسبوو"
+        },
+        {
+            "Code": "102455",
+            "Name": "Eura",
+            "NameAr": "يورا"
+        },
+        {
+            "Code": "106059",
+            "Name": "Fiskars",
+            "NameAr": "فيسكارس"
+        },
+        {
+            "Code": "118336",
+            "Name": "Forssa",
+            "NameAr": "فورسسا"
+        },
+        {
+            "Code": "118968",
+            "Name": "Geta",
+            "NameAr": "جيتا"
+        },
+        {
+            "Code": "417405",
+            "Name": "Gottby",
+            "NameAr": "جوتتبي"
+        },
+        {
+            "Code": "120091",
+            "Name": "Hameenlinna",
+            "NameAr": "هاميينليننا"
+        },
+        {
+            "Code": "120196",
+            "Name": "Hamina",
+            "NameAr": "هامينا"
+        },
+        {
+            "Code": "120760",
+            "Name": "Hankasalmi",
+            "NameAr": "هانكاسالمي"
+        },
+        {
+            "Code": "120469",
+            "Name": "Hankikuja",
+            "NameAr": "هانكيكوجا"
+        },
+        {
+            "Code": "120200",
+            "Name": "Hanko",
+            "NameAr": "هانكو"
+        },
+        {
+            "Code": "120219",
+            "Name": "Hartola",
+            "NameAr": "هارتولا"
+        },
+        {
+            "Code": "105942",
+            "Name": "Hauho",
+            "NameAr": "هاوهو"
+        },
+        {
+            "Code": "145553",
+            "Name": "Haukipudas",
+            "NameAr": "هاوكيبوداس"
+        },
+        {
+            "Code": "417470",
+            "Name": "Hausjarvi",
+            "NameAr": "هاوسجارفي"
+        },
+        {
+            "Code": "120525",
+            "Name": "Heinavesi",
+            "NameAr": "هيينافيسي"
+        },
+        {
+            "Code": "121878",
+            "Name": "Heinola",
+            "NameAr": "هيينولا"
+        },
+        {
+            "Code": "120663",
+            "Name": "Helsinki",
+            "NameAr": "هيلسينكي"
+        },
+        {
+            "Code": "417412",
+            "Name": "Hirsjärvi",
+            "NameAr": "هيرسج رفي"
+        },
+        {
+            "Code": "121635",
+            "Name": "Hirvensalmi",
+            "NameAr": "هيرفينسالمي"
+        },
+        {
+            "Code": "145628",
+            "Name": "Hirvihaara",
+            "NameAr": "هيرفيهاارا"
+        },
+        {
+            "Code": "120977",
+            "Name": "Hollola",
+            "NameAr": "هوللولا"
+        },
+        {
+            "Code": "105961",
+            "Name": "Huhdasjarvi",
+            "NameAr": "هوهداسجارفي"
+        },
+        {
+            "Code": "102526",
+            "Name": "Humppila",
+            "NameAr": "هومببيلا"
+        },
+        {
+            "Code": "122659",
+            "Name": "Hyrynsalmi",
+            "NameAr": "هيرينسالمي"
+        },
+        {
+            "Code": "121440",
+            "Name": "Hyvinkaa",
+            "NameAr": "هيفينكاا"
+        },
+        {
+            "Code": "121712",
+            "Name": "Iisalmi",
+            "NameAr": "ييسالمي"
+        },
+        {
+            "Code": "121051",
+            "Name": "Ikaalinen",
+            "NameAr": "يكاالينين"
+        },
+        {
+            "Code": "105966",
+            "Name": "Ilmajoki",
+            "NameAr": "يلماجوكي"
+        },
+        {
+            "Code": "145738",
+            "Name": "Imatra",
+            "NameAr": "يماترا"
+        },
+        {
+            "Code": "121722",
+            "Name": "Inari",
+            "NameAr": "يناري"
+        },
+        {
+            "Code": "122687",
+            "Name": "Inga",
+            "NameAr": "ينجا"
+        },
+        {
+            "Code": "121618",
+            "Name": "Inkeroinen",
+            "NameAr": "ينكيروينين"
+        },
+        {
+            "Code": "145783",
+            "Name": "Iso-Syote",
+            "NameAr": "يسو-سيوتي"
+        },
+        {
+            "Code": "122313",
+            "Name": "Ivalo",
+            "NameAr": "يفالو"
+        },
+        {
+            "Code": "105613",
+            "Name": "Jalasjarvi",
+            "NameAr": "جالاسجارفي"
+        },
+        {
+            "Code": "103691",
+            "Name": "Jamijarvi",
+            "NameAr": "جاميجارفي"
+        },
+        {
+            "Code": "121516",
+            "Name": "Jamsa",
+            "NameAr": "جامسا"
+        },
+        {
+            "Code": "105615",
+            "Name": "Jamsankoski",
+            "NameAr": "جامسانكوسكي"
+        },
+        {
+            "Code": "122746",
+            "Name": "Jarvenpaa",
+            "NameAr": "جارفينباا"
+        },
+        {
+            "Code": "122355",
+            "Name": "Joensuu",
+            "NameAr": "جوينسوو"
+        },
+        {
+            "Code": "122361",
+            "Name": "Jongunjoki",
+            "NameAr": "جونجونجوكي"
+        },
+        {
+            "Code": "122887",
+            "Name": "Joroinen",
+            "NameAr": "جوروينين"
+        },
+        {
+            "Code": "122489",
+            "Name": "Joutsa",
+            "NameAr": "جووتسا"
+        },
+        {
+            "Code": "121820",
+            "Name": "Jyvaskyla",
+            "NameAr": "جيفاسكيلا"
+        },
+        {
+            "Code": "123471",
+            "Name": "Kaaresuvanto",
+            "NameAr": "كااريسوفانتو"
+        },
+        {
+            "Code": "122498",
+            "Name": "Kaarina",
+            "NameAr": "كاارينا"
+        },
+        {
+            "Code": "122509",
+            "Name": "Kajaani",
+            "NameAr": "كاجااني"
+        },
+        {
+            "Code": "145859",
+            "Name": "Kalajoki",
+            "NameAr": "كالاجوكي"
+        },
+        {
+            "Code": "104097",
+            "Name": "Kangasala",
+            "NameAr": "كانجاسالا"
+        },
+        {
+            "Code": "145879",
+            "Name": "Kankaanpaa",
+            "NameAr": "كانكاانباا"
+        },
+        {
+            "Code": "122521",
+            "Name": "Kankainen",
+            "NameAr": "كانكاينين"
+        },
+        {
+            "Code": "417487",
+            "Name": "Kannonkoski",
+            "NameAr": "كاننونكوسكي"
+        },
+        {
+            "Code": "104098",
+            "Name": "Kannuskoski",
+            "NameAr": "كاننوسكوسكي"
+        },
+        {
+            "Code": "122836",
+            "Name": "Karankamaki",
+            "NameAr": "كارانكاماكي"
+        },
+        {
+            "Code": "122940",
+            "Name": "Karjalohja",
+            "NameAr": "كارجالوهجا"
+        },
+        {
+            "Code": "103953",
+            "Name": "Kasnas",
+            "NameAr": "كاسناس"
+        },
+        {
+            "Code": "151471",
+            "Name": "Kauhajoki",
+            "NameAr": "كاوهاجوكي"
+        },
+        {
+            "Code": "123226",
+            "Name": "Kauhava",
+            "NameAr": "كاوهافا"
+        },
+        {
+            "Code": "122967",
+            "Name": "Kaukoraitti",
+            "NameAr": "كاوكورايتتي"
+        },
+        {
+            "Code": "123640",
+            "Name": "Kaustinen",
+            "NameAr": "كاوستينين"
+        },
+        {
+            "Code": "122969",
+            "Name": "Keitele",
+            "NameAr": "كييتيلي"
+        },
+        {
+            "Code": "123533",
+            "Name": "Kemi",
+            "NameAr": "كيمي"
+        },
+        {
+            "Code": "123654",
+            "Name": "Kemijarvi",
+            "NameAr": "كيميجارفي"
+        },
+        {
+            "Code": "123655",
+            "Name": "Keminmaa",
+            "NameAr": "كيمينماا"
+        },
+        {
+            "Code": "124208",
+            "Name": "Kemio",
+            "NameAr": "كيميو"
+        },
+        {
+            "Code": "261767",
+            "Name": "Kemiönsaari",
+            "NameAr": "كيمي نسااري"
+        },
+        {
+            "Code": "123535",
+            "Name": "Kempele",
+            "NameAr": "كيمبيلي"
+        },
+        {
+            "Code": "108367",
+            "Name": "Kerava",
+            "NameAr": "كيرافا"
+        },
+        {
+            "Code": "123665",
+            "Name": "Kerimaki",
+            "NameAr": "كيريماكي"
+        },
+        {
+            "Code": "123144",
+            "Name": "Kesalahti",
+            "NameAr": "كيسالاهتي"
+        },
+        {
+            "Code": "122572",
+            "Name": "Keuruu",
+            "NameAr": "كيوروو"
+        },
+        {
+            "Code": "123265",
+            "Name": "Kiljava",
+            "NameAr": "كيلجافا"
+        },
+        {
+            "Code": "124240",
+            "Name": "Kilpisjarvi",
+            "NameAr": "كيلبيسجارفي"
+        },
+        {
+            "Code": "122602",
+            "Name": "Kirkkonummi",
+            "NameAr": "كيرككونوممي"
+        },
+        {
+            "Code": "124259",
+            "Name": "Kitee",
+            "NameAr": "كيتيي"
+        },
+        {
+            "Code": "145970",
+            "Name": "Kittila",
+            "NameAr": "كيتتيلا"
+        },
+        {
+            "Code": "124263",
+            "Name": "Kiuruvesi",
+            "NameAr": "كيوروفيسي"
+        },
+        {
+            "Code": "123585",
+            "Name": "Kivijarvi",
+            "NameAr": "كيفيجارفي"
+        },
+        {
+            "Code": "106195",
+            "Name": "Kokar",
+            "NameAr": "كوكار"
+        },
+        {
+            "Code": "145992",
+            "Name": "Kokemaki",
+            "NameAr": "كوكيماكي"
+        },
+        {
+            "Code": "145994",
+            "Name": "Kokkola",
+            "NameAr": "كوككولا"
+        },
+        {
+            "Code": "123614",
+            "Name": "Kolari",
+            "NameAr": "كولاري"
+        },
+        {
+            "Code": "123978",
+            "Name": "Koli",
+            "NameAr": "كولي"
+        },
+        {
+            "Code": "108382",
+            "Name": "Kostomukscha",
+            "NameAr": "كوستوموكسكها"
+        },
+        {
+            "Code": "146017",
+            "Name": "Kotka",
+            "NameAr": "كوتكا"
+        },
+        {
+            "Code": "123748",
+            "Name": "Kouvola",
+            "NameAr": "كووفولا"
+        },
+        {
+            "Code": "101971",
+            "Name": "Kruunupyy",
+            "NameAr": "كروونوبيي"
+        },
+        {
+            "Code": "123341",
+            "Name": "Kuhmo",
+            "NameAr": "كوهمو"
+        },
+        {
+            "Code": "123778",
+            "Name": "Kuopio",
+            "NameAr": "كووبيو"
+        },
+        {
+            "Code": "150610",
+            "Name": "Kuorevesi",
+            "NameAr": "كووريفيسي"
+        },
+        {
+            "Code": "124320",
+            "Name": "Kuortane",
+            "NameAr": "كوورتاني"
+        },
+        {
+            "Code": "125009",
+            "Name": "Kurkimaki",
+            "NameAr": "كوركيماكي"
+        },
+        {
+            "Code": "417046",
+            "Name": "Kustavi",
+            "NameAr": "كوستافي"
+        },
+        {
+            "Code": "124453",
+            "Name": "Kuusa",
+            "NameAr": "كووسا"
+        },
+        {
+            "Code": "124454",
+            "Name": "Kuusamo",
+            "NameAr": "كووسامو"
+        },
+        {
+            "Code": "124082",
+            "Name": "Lahti",
+            "NameAr": "لاهتي"
+        },
+        {
+            "Code": "104435",
+            "Name": "Laitila",
+            "NameAr": "لايتيلا"
+        },
+        {
+            "Code": "124674",
+            "Name": "Lapinjarvi",
+            "NameAr": "لابينجارفي"
+        },
+        {
+            "Code": "124815",
+            "Name": "Lappajarvi",
+            "NameAr": "لابباجارفي"
+        },
+        {
+            "Code": "124136",
+            "Name": "Lappeenranta",
+            "NameAr": "لاببيينرانتا"
+        },
+        {
+            "Code": "102001",
+            "Name": "Lapua",
+            "NameAr": "لابوا"
+        },
+        {
+            "Code": "125489",
+            "Name": "Laukaa",
+            "NameAr": "لاوكاا"
+        },
+        {
+            "Code": "417341",
+            "Name": "Lemland",
+            "NameAr": "ليملاند"
+        },
+        {
+            "Code": "125958",
+            "Name": "Lempaala",
+            "NameAr": "ليمباالا"
+        },
+        {
+            "Code": "125964",
+            "Name": "Lentiira",
+            "NameAr": "لينتييرا"
+        },
+        {
+            "Code": "125545",
+            "Name": "Leppavirta",
+            "NameAr": "ليببافيرتا"
+        },
+        {
+            "Code": "125831",
+            "Name": "Levi",
+            "NameAr": "ليفي"
+        },
+        {
+            "Code": "125574",
+            "Name": "Lieksa",
+            "NameAr": "لييكسا"
+        },
+        {
+            "Code": "245691",
+            "Name": "Liperi",
+            "NameAr": "ليبيري"
+        },
+        {
+            "Code": "126623",
+            "Name": "Lohja",
+            "NameAr": "لوهجا"
+        },
+        {
+            "Code": "104139",
+            "Name": "Loimaa",
+            "NameAr": "لويماا"
+        },
+        {
+            "Code": "151622",
+            "Name": "Loviisa",
+            "NameAr": "لوفييسا"
+        },
+        {
+            "Code": "146389",
+            "Name": "Luosto",
+            "NameAr": "لووستو"
+        },
+        {
+            "Code": "126403",
+            "Name": "Mantta",
+            "NameAr": "مانتتا"
+        },
+        {
+            "Code": "127430",
+            "Name": "Mantta-Vilppula",
+            "NameAr": "مانتتا-فيلببولا"
+        },
+        {
+            "Code": "126414",
+            "Name": "Mariehamn",
+            "NameAr": "مارييهامن"
+        },
+        {
+            "Code": "127899",
+            "Name": "Meltosjarvi",
+            "NameAr": "ميلتوسجارفي"
+        },
+        {
+            "Code": "417404",
+            "Name": "Merikarvia",
+            "NameAr": "ميريكارفيا"
+        },
+        {
+            "Code": "127176",
+            "Name": "Messila",
+            "NameAr": "ميسسيلا"
+        },
+        {
+            "Code": "127767",
+            "Name": "Mikkeli",
+            "NameAr": "ميككيلي"
+        },
+        {
+            "Code": "417469",
+            "Name": "Multia",
+            "NameAr": "مولتيا"
+        },
+        {
+            "Code": "128575",
+            "Name": "Muonio",
+            "NameAr": "موونيو"
+        },
+        {
+            "Code": "129441",
+            "Name": "Muurame",
+            "NameAr": "موورامي"
+        },
+        {
+            "Code": "129720",
+            "Name": "Naantali",
+            "NameAr": "ناانتالي"
+        },
+        {
+            "Code": "102029",
+            "Name": "Nakkila",
+            "NameAr": "ناككيلا"
+        },
+        {
+            "Code": "130116",
+            "Name": "Narpes",
+            "NameAr": "ناربيس"
+        },
+        {
+            "Code": "129174",
+            "Name": "Nauvo",
+            "NameAr": "ناوفو"
+        },
+        {
+            "Code": "129190",
+            "Name": "Nellim",
+            "NameAr": "نيلليم"
+        },
+        {
+            "Code": "131133",
+            "Name": "Nilsia",
+            "NameAr": "نيلسيا"
+        },
+        {
+            "Code": "130496",
+            "Name": "Nokia",
+            "NameAr": "نوكيا"
+        },
+        {
+            "Code": "417199",
+            "Name": "Nurmaa",
+            "NameAr": "نورماا"
+        },
+        {
+            "Code": "129530",
+            "Name": "Nurmes",
+            "NameAr": "نورميس"
+        },
+        {
+            "Code": "104826",
+            "Name": "Nykarleby",
+            "NameAr": "نيكارليبي"
+        },
+        {
+            "Code": "417220",
+            "Name": "Odkarby",
+            "NameAr": "ودكاربي"
+        },
+        {
+            "Code": "417328",
+            "Name": "Onttola",
+            "NameAr": "ونتتولا"
+        },
+        {
+            "Code": "130649",
+            "Name": "Oravi",
+            "NameAr": "ورافي"
+        },
+        {
+            "Code": "131667",
+            "Name": "Orimattila",
+            "NameAr": "وريماتتيلا"
+        },
+        {
+            "Code": "417466",
+            "Name": "Ostersundom",
+            "NameAr": "وستيرسوندوم"
+        },
+        {
+            "Code": "130728",
+            "Name": "Oulu",
+            "NameAr": "وولو"
+        },
+        {
+            "Code": "417240",
+            "Name": "Outokumpu",
+            "NameAr": "ووتوكومبو"
+        },
+        {
+            "Code": "131710",
+            "Name": "Paajarvi",
+            "NameAr": "بااجارفي"
+        },
+        {
+            "Code": "132645",
+            "Name": "Paimio",
+            "NameAr": "بايميو"
+        },
+        {
+            "Code": "131734",
+            "Name": "Palkane",
+            "NameAr": "بالكاني"
+        },
+        {
+            "Code": "131390",
+            "Name": "Pallas-Yllastunturi-Nationalpark",
+            "NameAr": "باللاس-يللاستونتوري-ناتيونالبارك"
+        },
+        {
+            "Code": "106579",
+            "Name": "Palsbole",
+            "NameAr": "بالسبولي"
+        },
+        {
+            "Code": "131738",
+            "Name": "Pankakoski",
+            "NameAr": "بانكاكوسكي"
+        },
+        {
+            "Code": "102738",
+            "Name": "Pargas",
+            "NameAr": "بارجاس"
+        },
+        {
+            "Code": "131554",
+            "Name": "Parikkala",
+            "NameAr": "باريككالا"
+        },
+        {
+            "Code": "131556",
+            "Name": "Parkano",
+            "NameAr": "باركانو"
+        },
+        {
+            "Code": "132110",
+            "Name": "Pello",
+            "NameAr": "بيللو"
+        },
+        {
+            "Code": "417490",
+            "Name": "Pertunmaa",
+            "NameAr": "بيرتونماا"
+        },
+        {
+            "Code": "103278",
+            "Name": "Pieksamaki",
+            "NameAr": "بييكساماكي"
+        },
+        {
+            "Code": "132788",
+            "Name": "Pietarsaari",
+            "NameAr": "بييتارسااري"
+        },
+        {
+            "Code": "131541",
+            "Name": "Piispala",
+            "NameAr": "بييسبالا"
+        },
+        {
+            "Code": "417135",
+            "Name": "Polvijarvi",
+            "NameAr": "بولفيجارفي"
+        },
+        {
+            "Code": "132385",
+            "Name": "Pori",
+            "NameAr": "بوري"
+        },
+        {
+            "Code": "147323",
+            "Name": "Porvoo",
+            "NameAr": "بورفوو"
+        },
+        {
+            "Code": "131856",
+            "Name": "Posio",
+            "NameAr": "بوسيو"
+        },
+        {
+            "Code": "133055",
+            "Name": "Puhos",
+            "NameAr": "بوهوس"
+        },
+        {
+            "Code": "132584",
+            "Name": "Punkaharju",
+            "NameAr": "بونكاهارجو"
+        },
+        {
+            "Code": "132592",
+            "Name": "Puolanka",
+            "NameAr": "بوولانكا"
+        },
+        {
+            "Code": "133144",
+            "Name": "Puumala",
+            "NameAr": "بوومالا"
+        },
+        {
+            "Code": "133075",
+            "Name": "Pyha",
+            "NameAr": "بيها"
+        },
+        {
+            "Code": "147416",
+            "Name": "Pyhatunturi",
+            "NameAr": "بيهاتونتوري"
+        },
+        {
+            "Code": "133646",
+            "Name": "Pyhtaa",
+            "NameAr": "بيهتاا"
+        },
+        {
+            "Code": "103112",
+            "Name": "Raahe",
+            "NameAr": "رااهي"
+        },
+        {
+            "Code": "417061",
+            "Name": "Raakkyla",
+            "NameAr": "رااككيلا"
+        },
+        {
+            "Code": "102788",
+            "Name": "Raattama",
+            "NameAr": "رااتتاما"
+        },
+        {
+            "Code": "133171",
+            "Name": "Raisio",
+            "NameAr": "رايسيو"
+        },
+        {
+            "Code": "147457",
+            "Name": "Rantasalmi",
+            "NameAr": "رانتاسالمي"
+        },
+        {
+            "Code": "108423",
+            "Name": "Ranua",
+            "NameAr": "رانوا"
+        },
+        {
+            "Code": "160032",
+            "Name": "Raseborg,   Southern Finland",
+            "NameAr": "راسيبورج سووتهيرن فينلاند"
+        },
+        {
+            "Code": "133777",
+            "Name": "Rauha",
+            "NameAr": "راوها"
+        },
+        {
+            "Code": "133689",
+            "Name": "Rauma",
+            "NameAr": "راوما"
+        },
+        {
+            "Code": "103098",
+            "Name": "Reisjarvi",
+            "NameAr": "رييسجارفي"
+        },
+        {
+            "Code": "134492",
+            "Name": "Riihimaki",
+            "NameAr": "رييهيماكي"
+        },
+        {
+            "Code": "147530",
+            "Name": "Ristiina",
+            "NameAr": "ريستيينا"
+        },
+        {
+            "Code": "134790",
+            "Name": "Ristijarvi",
+            "NameAr": "ريستيجارفي"
+        },
+        {
+            "Code": "134087",
+            "Name": "Rovaniemi",
+            "NameAr": "روفانييمي"
+        },
+        {
+            "Code": "134100",
+            "Name": "Ruka",
+            "NameAr": "روكا"
+        },
+        {
+            "Code": "135471",
+            "Name": "Rukatunturi",
+            "NameAr": "روكاتونتوري"
+        },
+        {
+            "Code": "134102",
+            "Name": "Ruokolahti",
+            "NameAr": "رووكولاهتي"
+        },
+        {
+            "Code": "147588",
+            "Name": "Ruovesi",
+            "NameAr": "رووفيسي"
+        },
+        {
+            "Code": "134111",
+            "Name": "Saarijarvi",
+            "NameAr": "سااريجارفي"
+        },
+        {
+            "Code": "135012",
+            "Name": "Saariselka",
+            "NameAr": "سااريسيلكا"
+        },
+        {
+            "Code": "135695",
+            "Name": "Salla",
+            "NameAr": "ساللا"
+        },
+        {
+            "Code": "135922",
+            "Name": "Salo",
+            "NameAr": "سالو"
+        },
+        {
+            "Code": "136408",
+            "Name": "Sastamala",
+            "NameAr": "ساستامالا"
+        },
+        {
+            "Code": "136888",
+            "Name": "Savitaipale",
+            "NameAr": "سافيتايبالي"
+        },
+        {
+            "Code": "136573",
+            "Name": "Savonlinna",
+            "NameAr": "سافونليننا"
+        },
+        {
+            "Code": "136890",
+            "Name": "Savukoski",
+            "NameAr": "سافوكوسكي"
+        },
+        {
+            "Code": "136752",
+            "Name": "Seinajoki",
+            "NameAr": "سييناجوكي"
+        },
+        {
+            "Code": "106644",
+            "Name": "Siilinjarvi",
+            "NameAr": "سييلينجارفي"
+        },
+        {
+            "Code": "137604",
+            "Name": "Siltakyla",
+            "NameAr": "سيلتاكيلا"
+        },
+        {
+            "Code": "417134",
+            "Name": "Simo",
+            "NameAr": "سيمو"
+        },
+        {
+            "Code": "137616",
+            "Name": "Simpele",
+            "NameAr": "سيمبيلي"
+        },
+        {
+            "Code": "137029",
+            "Name": "Sinetta",
+            "NameAr": "سينيتتا"
+        },
+        {
+            "Code": "137431",
+            "Name": "Sirkka",
+            "NameAr": "سيرككا"
+        },
+        {
+            "Code": "137436",
+            "Name": "Siuntio",
+            "NameAr": "سيونتيو"
+        },
+        {
+            "Code": "103593",
+            "Name": "Skrabbo",
+            "NameAr": "سكراببو"
+        },
+        {
+            "Code": "137060",
+            "Name": "Sodankyla",
+            "NameAr": "سودانكيلا"
+        },
+        {
+            "Code": "137091",
+            "Name": "Sotkamo",
+            "NameAr": "سوتكامو"
+        },
+        {
+            "Code": "298602",
+            "Name": "Sulkava",
+            "NameAr": "سولكافا"
+        },
+        {
+            "Code": "139151",
+            "Name": "Suomussalmi",
+            "NameAr": "سووموسسالمي"
+        },
+        {
+            "Code": "137873",
+            "Name": "Suomutunturi",
+            "NameAr": "سووموتونتوري"
+        },
+        {
+            "Code": "139523",
+            "Name": "Suonenjoki",
+            "NameAr": "سوونينجوكي"
+        },
+        {
+            "Code": "139639",
+            "Name": "Svarta Mustio",
+            "NameAr": "سفارتا موستيو"
+        },
+        {
+            "Code": "417301",
+            "Name": "Sysmä",
+            "NameAr": "سيسم"
+        },
+        {
+            "Code": "139179",
+            "Name": "Tahkovuori",
+            "NameAr": "تاهكوفووري"
+        },
+        {
+            "Code": "139006",
+            "Name": "Taivalkoski",
+            "NameAr": "تايفالكوسكي"
+        },
+        {
+            "Code": "140293",
+            "Name": "Tampere",
+            "NameAr": "تامبيري"
+        },
+        {
+            "Code": "108590",
+            "Name": "Tankavaara",
+            "NameAr": "تانكافاارا"
+        },
+        {
+            "Code": "141013",
+            "Name": "Tervo",
+            "NameAr": "تيرفو"
+        },
+        {
+            "Code": "139628",
+            "Name": "Tiapalsaari",
+            "NameAr": "تيابالسااري"
+        },
+        {
+            "Code": "107177",
+            "Name": "Toijala",
+            "NameAr": "تويجالا"
+        },
+        {
+            "Code": "140786",
+            "Name": "Tornio",
+            "NameAr": "تورنيو"
+        },
+        {
+            "Code": "140401",
+            "Name": "Turku",
+            "NameAr": "توركو"
+        },
+        {
+            "Code": "139847",
+            "Name": "Tuulos",
+            "NameAr": "توولوس"
+        },
+        {
+            "Code": "141822",
+            "Name": "Tuupovaara",
+            "NameAr": "تووبوفاارا"
+        },
+        {
+            "Code": "141823",
+            "Name": "Tuusula",
+            "NameAr": "تووسولا"
+        },
+        {
+            "Code": "139853",
+            "Name": "Tyrvanto",
+            "NameAr": "تيرفانتو"
+        },
+        {
+            "Code": "141093",
+            "Name": "Ulvila",
+            "NameAr": "ولفيلا"
+        },
+        {
+            "Code": "107663",
+            "Name": "Uusikartano",
+            "NameAr": "ووسيكارتانو"
+        },
+        {
+            "Code": "141280",
+            "Name": "Uusikaupunki",
+            "NameAr": "ووسيكاوبونكي"
+        },
+        {
+            "Code": "140738",
+            "Name": "Vaaksy",
+            "NameAr": "فااكسي"
+        },
+        {
+            "Code": "140147",
+            "Name": "Vaasa",
+            "NameAr": "فااسا"
+        },
+        {
+            "Code": "141601",
+            "Name": "Valkeakoski",
+            "NameAr": "فالكياكوسكي"
+        },
+        {
+            "Code": "148431",
+            "Name": "Vantaa",
+            "NameAr": "فانتاا"
+        },
+        {
+            "Code": "142540",
+            "Name": "Varkaus",
+            "NameAr": "فاركاوس"
+        },
+        {
+            "Code": "106877",
+            "Name": "Vartsila",
+            "NameAr": "فارتسيلا"
+        },
+        {
+            "Code": "142323",
+            "Name": "Vierumaki (Heinola)",
+            "NameAr": "فييروماكي هيينولا"
+        },
+        {
+            "Code": "148499",
+            "Name": "Viitaniemi",
+            "NameAr": "فييتانييمي"
+        },
+        {
+            "Code": "141867",
+            "Name": "Viitasaari",
+            "NameAr": "فييتاسااري"
+        },
+        {
+            "Code": "148540",
+            "Name": "Virrat",
+            "NameAr": "فيررات"
+        },
+        {
+            "Code": "140929",
+            "Name": "Vitasaari",
+            "NameAr": "فيتاسااري"
+        },
+        {
+            "Code": "106416",
+            "Name": "Voyri",
+            "NameAr": "فويري"
+        },
+        {
+            "Code": "143215",
+            "Name": "Vuokatti",
+            "NameAr": "فووكاتتي"
+        },
+        {
+            "Code": "141395",
+            "Name": "Vuorela",
+            "NameAr": "فووريلا"
+        },
+        {
+            "Code": "143805",
+            "Name": "Ylitornio",
+            "NameAr": "يليتورنيو"
+        },
+        {
+            "Code": "417502",
+            "Name": "Ylivalli",
+            "NameAr": "يليفاللي"
+        },
+        {
+            "Code": "142912",
+            "Name": "Ylivieska",
+            "NameAr": "يليفييسكا"
+        },
+        {
+            "Code": "142461",
+            "Name": "Yllas",
+            "NameAr": "يللاس"
+        },
+        {
+            "Code": "143649",
+            "Name": "Yllasjarvi",
+            "NameAr": "يللاسجارفي"
+        },
+        {
+            "Code": "108001",
+            "Name": "Ylojarvi",
+            "NameAr": "يلوجارفي"
+        }
+    ],
+    "totalCities": 261
+}

@@ -1,0 +1,22 @@
+{
+    "id": "MR",
+    "countryCode": "MR",
+    "cities": [
+        {
+            "Code": "101672",
+            "Name": "Kiffa",
+            "NameAr": "كيففا"
+        },
+        {
+            "Code": "417204",
+            "Name": "Nouadhibou",
+            "NameAr": "نووادهيبوو"
+        },
+        {
+            "Code": "130034",
+            "Name": "Nouakchott",
+            "NameAr": "نوواككهوتت"
+        }
+    ],
+    "totalCities": 3
+}

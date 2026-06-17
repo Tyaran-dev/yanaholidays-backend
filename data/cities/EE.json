@@ -1,0 +1,332 @@
+{
+    "id": "EE",
+    "countryCode": "EE",
+    "cities": [
+        {
+            "Code": "106076",
+            "Name": "Alatskivi",
+            "NameAr": "الاتسكيفي"
+        },
+        {
+            "Code": "101078",
+            "Name": "Aseri",
+            "NameAr": "اسيري"
+        },
+        {
+            "Code": "101582",
+            "Name": "Audru",
+            "NameAr": "اودرو"
+        },
+        {
+            "Code": "116083",
+            "Name": "deutsch: Werro",
+            "NameAr": "ديوتسكه ويررو"
+        },
+        {
+            "Code": "148863",
+            "Name": "Elva",
+            "NameAr": "يلفا"
+        },
+        {
+            "Code": "117697",
+            "Name": "Ennu",
+            "NameAr": "يننو"
+        },
+        {
+            "Code": "121142",
+            "Name": "Haabneeme",
+            "NameAr": "هاابنييمي"
+        },
+        {
+            "Code": "121143",
+            "Name": "Haapsalu",
+            "NameAr": "هاابسالو"
+        },
+        {
+            "Code": "153421",
+            "Name": "Harju County",
+            "NameAr": "هارجو كوونتي"
+        },
+        {
+            "Code": "102446",
+            "Name": "Harjumaa",
+            "NameAr": "هارجوماا"
+        },
+        {
+            "Code": "120531",
+            "Name": "Heltermaa",
+            "NameAr": "هيلتيرماا"
+        },
+        {
+            "Code": "120936",
+            "Name": "Hiiumaa",
+            "NameAr": "هييوماا"
+        },
+        {
+            "Code": "145717",
+            "Name": "Ida-Virumaa",
+            "NameAr": "يدا-فيروماا"
+        },
+        {
+            "Code": "122011",
+            "Name": "Insel Muhu",
+            "NameAr": "ينسيل موهو"
+        },
+        {
+            "Code": "122131",
+            "Name": "Insel Saaremaa",
+            "NameAr": "ينسيل سااريماا"
+        },
+        {
+            "Code": "108339",
+            "Name": "Jarvamaa",
+            "NameAr": "جارفاماا"
+        },
+        {
+            "Code": "145837",
+            "Name": "Jogevamaa",
+            "NameAr": "جوجيفاماا"
+        },
+        {
+            "Code": "103699",
+            "Name": "Johvi",
+            "NameAr": "جوهفي"
+        },
+        {
+            "Code": "122797",
+            "Name": "Kabli",
+            "NameAr": "كابلي"
+        },
+        {
+            "Code": "108350",
+            "Name": "Kaina",
+            "NameAr": "كاينا"
+        },
+        {
+            "Code": "122520",
+            "Name": "Kalvi",
+            "NameAr": "كالفي"
+        },
+        {
+            "Code": "108353",
+            "Name": "Kambja",
+            "NameAr": "كامبجا"
+        },
+        {
+            "Code": "105637",
+            "Name": "Kardla",
+            "NameAr": "كاردلا"
+        },
+        {
+            "Code": "122280",
+            "Name": "Kasmu",
+            "NameAr": "كاسمو"
+        },
+        {
+            "Code": "123219",
+            "Name": "Kassari",
+            "NameAr": "كاسساري"
+        },
+        {
+            "Code": "145911",
+            "Name": "Keila",
+            "NameAr": "كييلا"
+        },
+        {
+            "Code": "101686",
+            "Name": "Kohtla-Jarve",
+            "NameAr": "كوهتلا-جارفي"
+        },
+        {
+            "Code": "105529",
+            "Name": "Kose",
+            "NameAr": "كوسي"
+        },
+        {
+            "Code": "124289",
+            "Name": "Koue",
+            "NameAr": "كووي"
+        },
+        {
+            "Code": "101976",
+            "Name": "Kuremae",
+            "NameAr": "كوريماي"
+        },
+        {
+            "Code": "123779",
+            "Name": "Kuressaare",
+            "NameAr": "كوريسسااري"
+        },
+        {
+            "Code": "125161",
+            "Name": "Laane-Virumaa",
+            "NameAr": "لااني-فيروماا"
+        },
+        {
+            "Code": "124373",
+            "Name": "Laanemaa",
+            "NameAr": "لاانيماا"
+        },
+        {
+            "Code": "106469",
+            "Name": "Maetaguse",
+            "NameAr": "مايتاجوسي"
+        },
+        {
+            "Code": "127371",
+            "Name": "Mandjala",
+            "NameAr": "ماندجالا"
+        },
+        {
+            "Code": "104330",
+            "Name": "Marjamaa",
+            "NameAr": "مارجاماا"
+        },
+        {
+            "Code": "127972",
+            "Name": "Mooste",
+            "NameAr": "مووستي"
+        },
+        {
+            "Code": "130117",
+            "Name": "Narva",
+            "NameAr": "نارفا"
+        },
+        {
+            "Code": "149754",
+            "Name": "Narva-Joesuu",
+            "NameAr": "نارفا-جويسوو"
+        },
+        {
+            "Code": "130689",
+            "Name": "Orjaku",
+            "NameAr": "ورجاكو"
+        },
+        {
+            "Code": "131695",
+            "Name": "Otepaa",
+            "NameAr": "وتيباا"
+        },
+        {
+            "Code": "149767",
+            "Name": "Padise",
+            "NameAr": "باديسي"
+        },
+        {
+            "Code": "131719",
+            "Name": "Paide",
+            "NameAr": "بايدي"
+        },
+        {
+            "Code": "103408",
+            "Name": "Paldiski",
+            "NameAr": "بالديسكي"
+        },
+        {
+            "Code": "132054",
+            "Name": "Parnu",
+            "NameAr": "بارنو"
+        },
+        {
+            "Code": "106613",
+            "Name": "Pihtla",
+            "NameAr": "بيهتلا"
+        },
+        {
+            "Code": "102906",
+            "Name": "Pikajarve",
+            "NameAr": "بيكاجارفي"
+        },
+        {
+            "Code": "132876",
+            "Name": "Poide",
+            "NameAr": "بويدي"
+        },
+        {
+            "Code": "103441",
+            "Name": "Polva",
+            "NameAr": "بولفا"
+        },
+        {
+            "Code": "147447",
+            "Name": "Rakvere",
+            "NameAr": "راكفيري"
+        },
+        {
+            "Code": "149786",
+            "Name": "Rapina",
+            "NameAr": "رابينا"
+        },
+        {
+            "Code": "108432",
+            "Name": "Riisa",
+            "NameAr": "رييسا"
+        },
+        {
+            "Code": "134974",
+            "Name": "Roosta",
+            "NameAr": "رووستا"
+        },
+        {
+            "Code": "135803",
+            "Name": "Sagadi",
+            "NameAr": "ساجادي"
+        },
+        {
+            "Code": "138539",
+            "Name": "Suure Rootsi",
+            "NameAr": "سووري رووتسي"
+        },
+        {
+            "Code": "148126",
+            "Name": "Taagepera",
+            "NameAr": "تااجيبيرا"
+        },
+        {
+            "Code": "140287",
+            "Name": "Tallinn",
+            "NameAr": "تاللينن"
+        },
+        {
+            "Code": "139689",
+            "Name": "Tartu",
+            "NameAr": "تارتو"
+        },
+        {
+            "Code": "140774",
+            "Name": "Toila",
+            "NameAr": "تويلا"
+        },
+        {
+            "Code": "107666",
+            "Name": "Vaibla",
+            "NameAr": "فايبلا"
+        },
+        {
+            "Code": "107948",
+            "Name": "Valgamaa",
+            "NameAr": "فالجاماا"
+        },
+        {
+            "Code": "107462",
+            "Name": "Varska vald",
+            "NameAr": "فارسكا فالد"
+        },
+        {
+            "Code": "140892",
+            "Name": "Vihula",
+            "NameAr": "فيهولا"
+        },
+        {
+            "Code": "141515",
+            "Name": "Viljandi",
+            "NameAr": "فيلجاندي"
+        },
+        {
+            "Code": "148565",
+            "Name": "Vosu",
+            "NameAr": "فوسو"
+        }
+    ],
+    "totalCities": 65
+}

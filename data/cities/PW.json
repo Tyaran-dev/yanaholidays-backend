@@ -1,0 +1,32 @@
+{
+    "id": "PW",
+    "countryCode": "PW",
+    "cities": [
+        {
+            "Code": "110044",
+            "Name": "Babelthuap",
+            "NameAr": "بابيلتهواب"
+        },
+        {
+            "Code": "146010",
+            "Name": "Koror",
+            "NameAr": "كورور"
+        },
+        {
+            "Code": "146446",
+            "Name": "Malakal",
+            "NameAr": "مالاكال"
+        },
+        {
+            "Code": "129888",
+            "Name": "Ngercheu (Carp Island)",
+            "NameAr": "نجيركهيو كارب يسلاند"
+        },
+        {
+            "Code": "147071",
+            "Name": "Palau",
+            "NameAr": "بالاو"
+        }
+    ],
+    "totalCities": 5
+}

@@ -1,0 +1,127 @@
+{
+    "id": "NC",
+    "countryCode": "NC",
+    "cities": [
+        {
+            "Code": "112254",
+            "Name": "Boulouparis",
+            "NameAr": "بوولووباريس"
+        },
+        {
+            "Code": "112693",
+            "Name": "Bourail",
+            "NameAr": "بوورايل"
+        },
+        {
+            "Code": "117304",
+            "Name": "Fayaoue",
+            "NameAr": "فاياووي"
+        },
+        {
+            "Code": "121217",
+            "Name": "Hienghene",
+            "NameAr": "هيينجهيني"
+        },
+        {
+            "Code": "150760",
+            "Name": "Houailou",
+            "NameAr": "هووايلوو"
+        },
+        {
+            "Code": "121714",
+            "Name": "Ile des Pins",
+            "NameAr": "يلي ديس بينس"
+        },
+        {
+            "Code": "121607",
+            "Name": "Ilot Maitre",
+            "NameAr": "يلوت مايتري"
+        },
+        {
+            "Code": "124950",
+            "Name": "Kone",
+            "NameAr": "كوني"
+        },
+        {
+            "Code": "150617",
+            "Name": "Koumac",
+            "NameAr": "كووماك"
+        },
+        {
+            "Code": "123935",
+            "Name": "La Foa",
+            "NameAr": "لا فوا"
+        },
+        {
+            "Code": "126005",
+            "Name": "Lifou",
+            "NameAr": "ليفوو"
+        },
+        {
+            "Code": "127355",
+            "Name": "Malabu",
+            "NameAr": "مالابو"
+        },
+        {
+            "Code": "151630",
+            "Name": "Mare",
+            "NameAr": "ماري"
+        },
+        {
+            "Code": "129512",
+            "Name": "Noumea",
+            "NameAr": "نووميا"
+        },
+        {
+            "Code": "151644",
+            "Name": "Ouvea",
+            "NameAr": "ووفيا"
+        },
+        {
+            "Code": "132647",
+            "Name": "Paita",
+            "NameAr": "بايتا"
+        },
+        {
+            "Code": "133208",
+            "Name": "Poindimie",
+            "NameAr": "بوينديميي"
+        },
+        {
+            "Code": "147337",
+            "Name": "Pouembout",
+            "NameAr": "بوويمبووت"
+        },
+        {
+            "Code": "147338",
+            "Name": "Poum",
+            "NameAr": "بووم"
+        },
+        {
+            "Code": "137200",
+            "Name": "Sarramea",
+            "NameAr": "سارراميا"
+        },
+        {
+            "Code": "138561",
+            "Name": "Tadine Mare",
+            "NameAr": "تاديني ماري"
+        },
+        {
+            "Code": "150763",
+            "Name": "Tiga",
+            "NameAr": "تيجا"
+        },
+        {
+            "Code": "151032",
+            "Name": "Touho",
+            "NameAr": "تووهو"
+        },
+        {
+            "Code": "143327",
+            "Name": "Yate",
+            "NameAr": "ياتي"
+        }
+    ],
+    "totalCities": 24
+}

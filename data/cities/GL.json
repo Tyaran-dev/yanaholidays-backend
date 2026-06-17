@@ -1,0 +1,47 @@
+{
+    "id": "GL",
+    "countryCode": "GL",
+    "cities": [
+        {
+            "Code": "100991",
+            "Name": "Ammassalik",
+            "NameAr": "امماسساليك"
+        },
+        {
+            "Code": "145737",
+            "Name": "Ilulissat",
+            "NameAr": "يلوليسسات"
+        },
+        {
+            "Code": "123196",
+            "Name": "Kangerlussuaq",
+            "NameAr": "كانجيرلوسسواق"
+        },
+        {
+            "Code": "124040",
+            "Name": "Kulusuk",
+            "NameAr": "كولوسوك"
+        },
+        {
+            "Code": "148954",
+            "Name": "Narsaq",
+            "NameAr": "نارساق"
+        },
+        {
+            "Code": "130366",
+            "Name": "Narsarsuaq",
+            "NameAr": "نارسارسواق"
+        },
+        {
+            "Code": "102053",
+            "Name": "Nuuk (Godthab)",
+            "NameAr": "نووك جودتهاب"
+        },
+        {
+            "Code": "148963",
+            "Name": "Sisimiut",
+            "NameAr": "سيسيميوت"
+        }
+    ],
+    "totalCities": 8
+}

@@ -1,0 +1,32 @@
+{
+    "id": "TJ",
+    "countryCode": "TJ",
+    "cities": [
+        {
+            "Code": "105258",
+            "Name": "Chkalovsk",
+            "NameAr": "كهكالوفسك"
+        },
+        {
+            "Code": "105262",
+            "Name": "Chudschand",
+            "NameAr": "كهودسكهاند"
+        },
+        {
+            "Code": "116951",
+            "Name": "Duschanbe",
+            "NameAr": "دوسكهانبي"
+        },
+        {
+            "Code": "149954",
+            "Name": "Dushanbe",
+            "NameAr": "دوسهانبي"
+        },
+        {
+            "Code": "257186",
+            "Name": "Kalaikhum",
+            "NameAr": "كالايكهوم"
+        }
+    ],
+    "totalCities": 5
+}

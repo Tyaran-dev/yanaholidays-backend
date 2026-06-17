@@ -1,0 +1,1262 @@
+{
+    "id": "HU",
+    "countryCode": "HU",
+    "cities": [
+        {
+            "Code": "102134",
+            "Name": "Abaliget",
+            "NameAr": "اباليجيت"
+        },
+        {
+            "Code": "101608",
+            "Name": "Abda",
+            "NameAr": "ابدا"
+        },
+        {
+            "Code": "100649",
+            "Name": "Abrahamhegy",
+            "NameAr": "ابراهامهيجي"
+        },
+        {
+            "Code": "100352",
+            "Name": "Agard",
+            "NameAr": "اجارد"
+        },
+        {
+            "Code": "101617",
+            "Name": "Aggtelek",
+            "NameAr": "اججتيليك"
+        },
+        {
+            "Code": "101338",
+            "Name": "Ajka",
+            "NameAr": "اجكا"
+        },
+        {
+            "Code": "106082",
+            "Name": "Algyo",
+            "NameAr": "الجيو"
+        },
+        {
+            "Code": "101102",
+            "Name": "Alsoors",
+            "NameAr": "السوورس"
+        },
+        {
+            "Code": "109074",
+            "Name": "Alsopahok",
+            "NameAr": "السوباهوك"
+        },
+        {
+            "Code": "101168",
+            "Name": "Apatistvanfalva",
+            "NameAr": "اباتيستفانفالفا"
+        },
+        {
+            "Code": "101480",
+            "Name": "Babolna",
+            "NameAr": "بابولنا"
+        },
+        {
+            "Code": "109715",
+            "Name": "Badacsony",
+            "NameAr": "باداكسوني"
+        },
+        {
+            "Code": "110141",
+            "Name": "Badacsonylabdihegy",
+            "NameAr": "باداكسونيلابديهيجي"
+        },
+        {
+            "Code": "144053",
+            "Name": "Badacsonytomaj",
+            "NameAr": "باداكسونيتوماج"
+        },
+        {
+            "Code": "111091",
+            "Name": "Baja",
+            "NameAr": "باجا"
+        },
+        {
+            "Code": "144067",
+            "Name": "Bakonybel",
+            "NameAr": "باكونيبيل"
+        },
+        {
+            "Code": "110756",
+            "Name": "Balassagyarmat",
+            "NameAr": "بالاسساجيارمات"
+        },
+        {
+            "Code": "144070",
+            "Name": "Balatonaliga",
+            "NameAr": "بالاتوناليجا"
+        },
+        {
+            "Code": "111098",
+            "Name": "Balatonalmadi",
+            "NameAr": "بالاتونالمادي"
+        },
+        {
+            "Code": "110966",
+            "Name": "Balatonboglar",
+            "NameAr": "بالاتونبوجلار"
+        },
+        {
+            "Code": "144071",
+            "Name": "Balatonfenyves",
+            "NameAr": "بالاتونفينيفيس"
+        },
+        {
+            "Code": "110663",
+            "Name": "Balatonfoldvar",
+            "NameAr": "بالاتونفولدفار"
+        },
+        {
+            "Code": "110757",
+            "Name": "Balatonfured",
+            "NameAr": "بالاتونفوريد"
+        },
+        {
+            "Code": "110664",
+            "Name": "Balatongyorok",
+            "NameAr": "بالاتونجيوروك"
+        },
+        {
+            "Code": "109827",
+            "Name": "Balatonkenese",
+            "NameAr": "بالاتونكينيسي"
+        },
+        {
+            "Code": "109730",
+            "Name": "Balatonkeresztur",
+            "NameAr": "بالاتونكيريسزتور"
+        },
+        {
+            "Code": "144072",
+            "Name": "Balatonlelle",
+            "NameAr": "بالاتونليللي"
+        },
+        {
+            "Code": "111099",
+            "Name": "Balatonmariafurdr",
+            "NameAr": "بالاتونماريافوردر"
+        },
+        {
+            "Code": "109731",
+            "Name": "Balatonszarszo",
+            "NameAr": "بالاتونسزارسزو"
+        },
+        {
+            "Code": "110161",
+            "Name": "Balatonszemes",
+            "NameAr": "بالاتونسزيميس"
+        },
+        {
+            "Code": "110162",
+            "Name": "Balatonszepeszd",
+            "NameAr": "بالاتونسزيبيسزد"
+        },
+        {
+            "Code": "110163",
+            "Name": "Balatonvilagos",
+            "NameAr": "بالاتونفيلاجوس"
+        },
+        {
+            "Code": "110167",
+            "Name": "Balf",
+            "NameAr": "بالف"
+        },
+        {
+            "Code": "111128",
+            "Name": "Bank",
+            "NameAr": "بانك"
+        },
+        {
+            "Code": "101665",
+            "Name": "Bankuti Menedekhaz",
+            "NameAr": "بانكوتي مينيديكهاز"
+        },
+        {
+            "Code": "110897",
+            "Name": "Bazakerettye",
+            "NameAr": "بازاكيريتتيي"
+        },
+        {
+            "Code": "111424",
+            "Name": "Bekescsaba",
+            "NameAr": "بيكيسكسابا"
+        },
+        {
+            "Code": "105042",
+            "Name": "Berekfurdo",
+            "NameAr": "بيريكفوردو"
+        },
+        {
+            "Code": "111470",
+            "Name": "Besenyotelek",
+            "NameAr": "بيسينيوتيليك"
+        },
+        {
+            "Code": "111501",
+            "Name": "Bikal",
+            "NameAr": "بيكال"
+        },
+        {
+            "Code": "105747",
+            "Name": "Bogacs",
+            "NameAr": "بوجاكس"
+        },
+        {
+            "Code": "111374",
+            "Name": "Bonnya",
+            "NameAr": "بوننيا"
+        },
+        {
+            "Code": "104643",
+            "Name": "Bonyhad",
+            "NameAr": "بونيهاد"
+        },
+        {
+            "Code": "113435",
+            "Name": "Budakeszi",
+            "NameAr": "بوداكيسزي"
+        },
+        {
+            "Code": "113067",
+            "Name": "Budaors",
+            "NameAr": "بوداورس"
+        },
+        {
+            "Code": "113068",
+            "Name": "Budapest",
+            "NameAr": "بودابيست"
+        },
+        {
+            "Code": "144421",
+            "Name": "Buk",
+            "NameAr": "بوك"
+        },
+        {
+            "Code": "112604",
+            "Name": "Bukfurdo",
+            "NameAr": "بوكفوردو"
+        },
+        {
+            "Code": "114577",
+            "Name": "Cegled",
+            "NameAr": "كيجليد"
+        },
+        {
+            "Code": "144594",
+            "Name": "Celldomolk",
+            "NameAr": "كيللدومولك"
+        },
+        {
+            "Code": "116588",
+            "Name": "Csepreg-Buk",
+            "NameAr": "كسيبريج-بوك"
+        },
+        {
+            "Code": "116226",
+            "Name": "Cserkeszolo",
+            "NameAr": "كسيركيسزولو"
+        },
+        {
+            "Code": "116227",
+            "Name": "Cserszegtomaj",
+            "NameAr": "كسيرسزيجتوماج"
+        },
+        {
+            "Code": "116009",
+            "Name": "Csopak",
+            "NameAr": "كسوباك"
+        },
+        {
+            "Code": "102301",
+            "Name": "Dabotz",
+            "NameAr": "دابوتز"
+        },
+        {
+            "Code": "104941",
+            "Name": "Davod",
+            "NameAr": "دافود"
+        },
+        {
+            "Code": "144885",
+            "Name": "Debrecen",
+            "NameAr": "ديبريكين"
+        },
+        {
+            "Code": "115679",
+            "Name": "Demecser",
+            "NameAr": "ديميكسير"
+        },
+        {
+            "Code": "105479",
+            "Name": "Demjen",
+            "NameAr": "ديمجين"
+        },
+        {
+            "Code": "116670",
+            "Name": "Dobronte",
+            "NameAr": "دوبرونتي"
+        },
+        {
+            "Code": "144943",
+            "Name": "Dombovar",
+            "NameAr": "دومبوفار"
+        },
+        {
+            "Code": "116935",
+            "Name": "Dunakiliti",
+            "NameAr": "دوناكيليتي"
+        },
+        {
+            "Code": "117033",
+            "Name": "Dunaszentmiklos",
+            "NameAr": "دوناسزينتميكلوس"
+        },
+        {
+            "Code": "117034",
+            "Name": "Dunaujvaros",
+            "NameAr": "دوناوجفاروس"
+        },
+        {
+            "Code": "116969",
+            "Name": "Eger",
+            "NameAr": "يجير"
+        },
+        {
+            "Code": "117491",
+            "Name": "Erd",
+            "NameAr": "يرد"
+        },
+        {
+            "Code": "117827",
+            "Name": "Erdobenye",
+            "NameAr": "يردوبينيي"
+        },
+        {
+            "Code": "118117",
+            "Name": "Esztergom",
+            "NameAr": "يسزتيرجوم"
+        },
+        {
+            "Code": "105422",
+            "Name": "Feldebro",
+            "NameAr": "فيلديبرو"
+        },
+        {
+            "Code": "106056",
+            "Name": "Felsotarkany ",
+            "NameAr": "فيلسوتاركاني"
+        },
+        {
+            "Code": "102463",
+            "Name": "Fertoboz",
+            "NameAr": "فيرتوبوز"
+        },
+        {
+            "Code": "117923",
+            "Name": "Fonyod",
+            "NameAr": "فونيود"
+        },
+        {
+            "Code": "101722",
+            "Name": "Forro",
+            "NameAr": "فوررو"
+        },
+        {
+            "Code": "105437",
+            "Name": "Fuzesgyarmat",
+            "NameAr": "فوزيسجيارمات"
+        },
+        {
+            "Code": "119067",
+            "Name": "Galyateto",
+            "NameAr": "جالياتيتو"
+        },
+        {
+            "Code": "119347",
+            "Name": "Gardony",
+            "NameAr": "جاردوني"
+        },
+        {
+            "Code": "119666",
+            "Name": "God",
+            "NameAr": "جود"
+        },
+        {
+            "Code": "145378",
+            "Name": "Godollo",
+            "NameAr": "جودوللو"
+        },
+        {
+            "Code": "101752",
+            "Name": "Gonyu",
+            "NameAr": "جونيو"
+        },
+        {
+            "Code": "145495",
+            "Name": "Gyenesdias",
+            "NameAr": "جيينيسدياس"
+        },
+        {
+            "Code": "120169",
+            "Name": "Gyomaendrod",
+            "NameAr": "جيومايندرود"
+        },
+        {
+            "Code": "106132",
+            "Name": "Gyongyos",
+            "NameAr": "جيونجيوس"
+        },
+        {
+            "Code": "119522",
+            "Name": "Gyongyospata",
+            "NameAr": "جيونجيوسباتا"
+        },
+        {
+            "Code": "119523",
+            "Name": "Gyor",
+            "NameAr": "جيور"
+        },
+        {
+            "Code": "119931",
+            "Name": "Gyula",
+            "NameAr": "جيولا"
+        },
+        {
+            "Code": "105836",
+            "Name": "Hajduboszormeny",
+            "NameAr": "هاجدوبوسزورميني"
+        },
+        {
+            "Code": "105940",
+            "Name": "Hajdunanas",
+            "NameAr": "هاجدوناناس"
+        },
+        {
+            "Code": "121162",
+            "Name": "Hajduszoboszlo",
+            "NameAr": "هاجدوسزوبوسزلو"
+        },
+        {
+            "Code": "120478",
+            "Name": "Harkany",
+            "NameAr": "هاركاني"
+        },
+        {
+            "Code": "120252",
+            "Name": "Hedervar",
+            "NameAr": "هيديرفار"
+        },
+        {
+            "Code": "105949",
+            "Name": "Hegyeshalom",
+            "NameAr": "هيجييسهالوم"
+        },
+        {
+            "Code": "120649",
+            "Name": "Hegyko",
+            "NameAr": "هيجيكو"
+        },
+        {
+            "Code": "145587",
+            "Name": "Hencse",
+            "NameAr": "هينكسي"
+        },
+        {
+            "Code": "145594",
+            "Name": "Herceghalom",
+            "NameAr": "هيركيجهالوم"
+        },
+        {
+            "Code": "101548",
+            "Name": "Hernadvecse",
+            "NameAr": "هيرنادفيكسي"
+        },
+        {
+            "Code": "120690",
+            "Name": "Heviz",
+            "NameAr": "هيفيز"
+        },
+        {
+            "Code": "121924",
+            "Name": "Hodmezovasarhely",
+            "NameAr": "هودميزوفاسارهيلي"
+        },
+        {
+            "Code": "120312",
+            "Name": "Hogyesz",
+            "NameAr": "هوجييسز"
+        },
+        {
+            "Code": "412588",
+            "Name": "Holloko",
+            "NameAr": "هوللوكو"
+        },
+        {
+            "Code": "121291",
+            "Name": "Hottwan",
+            "NameAr": "هوتتوان"
+        },
+        {
+            "Code": "121597",
+            "Name": "Igal",
+            "NameAr": "يجال"
+        },
+        {
+            "Code": "145742",
+            "Name": "Inarcs",
+            "NameAr": "يناركس"
+        },
+        {
+            "Code": "105612",
+            "Name": "Jakabszallas",
+            "NameAr": "جاكابسزاللاس"
+        },
+        {
+            "Code": "300890",
+            "Name": "Jasz-Nagykun-Szolnok",
+            "NameAr": "جاسز-ناجيكون-سزولنوك"
+        },
+        {
+            "Code": "122182",
+            "Name": "Jaszapati",
+            "NameAr": "جاسزاباتي"
+        },
+        {
+            "Code": "145858",
+            "Name": "Kalaegerszeg",
+            "NameAr": "كالايجيرسزيج"
+        },
+        {
+            "Code": "123486",
+            "Name": "Kalocsa",
+            "NameAr": "كالوكسا"
+        },
+        {
+            "Code": "123202",
+            "Name": "Kapolnasnyek",
+            "NameAr": "كابولناسنييك"
+        },
+        {
+            "Code": "123203",
+            "Name": "Kaposvar",
+            "NameAr": "كابوسفار"
+        },
+        {
+            "Code": "123117",
+            "Name": "Kazincbarcika",
+            "NameAr": "كازينكباركيكا"
+        },
+        {
+            "Code": "104101",
+            "Name": "Kecel",
+            "NameAr": "كيكيل"
+        },
+        {
+            "Code": "124196",
+            "Name": "Kecskemet",
+            "NameAr": "كيكسكيميت"
+        },
+        {
+            "Code": "123648",
+            "Name": "Kehidakustany",
+            "NameAr": "كيهيداكوستاني"
+        },
+        {
+            "Code": "123650",
+            "Name": "Keleviz",
+            "NameAr": "كيليفيز"
+        },
+        {
+            "Code": "123664",
+            "Name": "Kerekegyhaza",
+            "NameAr": "كيريكيجيهازا"
+        },
+        {
+            "Code": "122984",
+            "Name": "Keszthely",
+            "NameAr": "كيسزتهيلي"
+        },
+        {
+            "Code": "123145",
+            "Name": "Ketpo",
+            "NameAr": "كيتبو"
+        },
+        {
+            "Code": "145962",
+            "Name": "Kisber",
+            "NameAr": "كيسبير"
+        },
+        {
+            "Code": "123290",
+            "Name": "Kiskore",
+            "NameAr": "كيسكوري"
+        },
+        {
+            "Code": "101679",
+            "Name": "Kiskoros",
+            "NameAr": "كيسكوروس"
+        },
+        {
+            "Code": "103970",
+            "Name": "Kiskunfelegyhaza",
+            "NameAr": "كيسكونفيليجيهازا"
+        },
+        {
+            "Code": "145963",
+            "Name": "Kiskunhalas",
+            "NameAr": "كيسكونهالاس"
+        },
+        {
+            "Code": "123033",
+            "Name": "Kiskunmajsa",
+            "NameAr": "كيسكونماجسا"
+        },
+        {
+            "Code": "103971",
+            "Name": "Kistelek",
+            "NameAr": "كيستيليك"
+        },
+        {
+            "Code": "123617",
+            "Name": "Komarom",
+            "NameAr": "كوماروم"
+        },
+        {
+            "Code": "346450",
+            "Name": "Komlo",
+            "NameAr": "كوملو"
+        },
+        {
+            "Code": "124405",
+            "Name": "Kospallag",
+            "NameAr": "كوسباللاج"
+        },
+        {
+            "Code": "124965",
+            "Name": "Koszeg",
+            "NameAr": "كوسزيج"
+        },
+        {
+            "Code": "123787",
+            "Name": "Kutas",
+            "NameAr": "كوتاس"
+        },
+        {
+            "Code": "124767",
+            "Name": "Lajosmizse",
+            "NameAr": "لاجوسميزسي"
+        },
+        {
+            "Code": "124863",
+            "Name": "Lenti",
+            "NameAr": "لينتي"
+        },
+        {
+            "Code": "102568",
+            "Name": "Level",
+            "NameAr": "ليفيل"
+        },
+        {
+            "Code": "125852",
+            "Name": "Lillafured",
+            "NameAr": "ليللافوريد"
+        },
+        {
+            "Code": "126277",
+            "Name": "Lipot",
+            "NameAr": "ليبوت"
+        },
+        {
+            "Code": "104150",
+            "Name": "Mad",
+            "NameAr": "ماد"
+        },
+        {
+            "Code": "104319",
+            "Name": "Mako",
+            "NameAr": "ماكو"
+        },
+        {
+            "Code": "128113",
+            "Name": "Mata-Hotobagy",
+            "NameAr": "ماتا-هوتوباجي"
+        },
+        {
+            "Code": "104169",
+            "Name": "Matrafured",
+            "NameAr": "ماترافوريد"
+        },
+        {
+            "Code": "127028",
+            "Name": "Matrahaza",
+            "NameAr": "ماتراهازا"
+        },
+        {
+            "Code": "102612",
+            "Name": "Matrakeresztes",
+            "NameAr": "ماتراكيريسزتيس"
+        },
+        {
+            "Code": "127030",
+            "Name": "Matraszentimre",
+            "NameAr": "ماتراسزينتيمري"
+        },
+        {
+            "Code": "127714",
+            "Name": "Medina",
+            "NameAr": "ميدينا"
+        },
+        {
+            "Code": "127758",
+            "Name": "Mezokovesd",
+            "NameAr": "ميزوكوفيسد"
+        },
+        {
+            "Code": "103824",
+            "Name": "Misefa",
+            "NameAr": "ميسيفا"
+        },
+        {
+            "Code": "128300",
+            "Name": "Miskolc",
+            "NameAr": "ميسكولك"
+        },
+        {
+            "Code": "127678",
+            "Name": "Miskolctapolca",
+            "NameAr": "ميسكولكتابولكا"
+        },
+        {
+            "Code": "128629",
+            "Name": "Mohacs",
+            "NameAr": "موهاكس"
+        },
+        {
+            "Code": "128651",
+            "Name": "Monor",
+            "NameAr": "مونور"
+        },
+        {
+            "Code": "128945",
+            "Name": "Monoszlo",
+            "NameAr": "مونوسزلو"
+        },
+        {
+            "Code": "128526",
+            "Name": "Mor",
+            "NameAr": "مور"
+        },
+        {
+            "Code": "128997",
+            "Name": "Morahalom",
+            "NameAr": "موراهالوم"
+        },
+        {
+            "Code": "129640",
+            "Name": "Mosonmagyarovar",
+            "NameAr": "موسونماجياروفار"
+        },
+        {
+            "Code": "104262",
+            "Name": "Nagyatad",
+            "NameAr": "ناجياتاد"
+        },
+        {
+            "Code": "129254",
+            "Name": "Nagybereny",
+            "NameAr": "ناجيبيريني"
+        },
+        {
+            "Code": "129150",
+            "Name": "Nagykanizsa",
+            "NameAr": "ناجيكانيزسا"
+        },
+        {
+            "Code": "128746",
+            "Name": "Nemesnep",
+            "NameAr": "نيميسنيب"
+        },
+        {
+            "Code": "129821",
+            "Name": "Nemesvita",
+            "NameAr": "نيميسفيتا"
+        },
+        {
+            "Code": "146840",
+            "Name": "Neszmely",
+            "NameAr": "نيسزميلي"
+        },
+        {
+            "Code": "129315",
+            "Name": "Neustadt auf d. Heiduckenboden",
+            "NameAr": "نيوستادت اوف د هييدوككينبودين"
+        },
+        {
+            "Code": "130029",
+            "Name": "Noszvaj",
+            "NameAr": "نوسزفاج"
+        },
+        {
+            "Code": "129537",
+            "Name": "Nyiregyhaza",
+            "NameAr": "نييريجيهازا"
+        },
+        {
+            "Code": "131307",
+            "Name": "Oroshaza",
+            "NameAr": "وروسهازا"
+        },
+        {
+            "Code": "104573",
+            "Name": "Ozd",
+            "NameAr": "وزد"
+        },
+        {
+            "Code": "103406",
+            "Name": "Paks",
+            "NameAr": "باكس"
+        },
+        {
+            "Code": "131442",
+            "Name": "Papa",
+            "NameAr": "بابا"
+        },
+        {
+            "Code": "131748",
+            "Name": "Paradfurdo",
+            "NameAr": "بارادفوردو"
+        },
+        {
+            "Code": "131405",
+            "Name": "Paradsasvar",
+            "NameAr": "بارادساسفار"
+        },
+        {
+            "Code": "132081",
+            "Name": "Pecs",
+            "NameAr": "بيكس"
+        },
+        {
+            "Code": "103280",
+            "Name": "Pilis",
+            "NameAr": "بيليس"
+        },
+        {
+            "Code": "132808",
+            "Name": "Pirto",
+            "NameAr": "بيرتو"
+        },
+        {
+            "Code": "291391",
+            "Name": "Polgár",
+            "NameAr": "بولج ر"
+        },
+        {
+            "Code": "132286",
+            "Name": "Pomaz",
+            "NameAr": "بوماز"
+        },
+        {
+            "Code": "102106",
+            "Name": "Puspokladany",
+            "NameAr": "بوسبوكلاداني"
+        },
+        {
+            "Code": "134198",
+            "Name": "Rackeve",
+            "NameAr": "راككيفي"
+        },
+        {
+            "Code": "133673",
+            "Name": "Rajka",
+            "NameAr": "راجكا"
+        },
+        {
+            "Code": "134710",
+            "Name": "Ratot",
+            "NameAr": "راتوت"
+        },
+        {
+            "Code": "133810",
+            "Name": "Revfulop",
+            "NameAr": "ريففولوب"
+        },
+        {
+            "Code": "134060",
+            "Name": "Rojtokmuzsaj",
+            "NameAr": "روجتوكموزساج"
+        },
+        {
+            "Code": "134688",
+            "Name": "Sagvar",
+            "NameAr": "ساجفار"
+        },
+        {
+            "Code": "107321",
+            "Name": "Salgotarjan",
+            "NameAr": "سالجوتارجان"
+        },
+        {
+            "Code": "103156",
+            "Name": "Sarospatak",
+            "NameAr": "ساروسباتاك"
+        },
+        {
+            "Code": "136554",
+            "Name": "Sarvar",
+            "NameAr": "سارفار"
+        },
+        {
+            "Code": "137597",
+            "Name": "Siklos",
+            "NameAr": "سيكلوس"
+        },
+        {
+            "Code": "138002",
+            "Name": "Simontornya",
+            "NameAr": "سيمونتورنيا"
+        },
+        {
+            "Code": "138427",
+            "Name": "Siofok",
+            "NameAr": "سيوفوك"
+        },
+        {
+            "Code": "138758",
+            "Name": "Solymar",
+            "NameAr": "سوليمار"
+        },
+        {
+            "Code": "103189",
+            "Name": "Somlovasarhely",
+            "NameAr": "سوملوفاسارهيلي"
+        },
+        {
+            "Code": "138050",
+            "Name": "Somogygeszti",
+            "NameAr": "سوموجيجيسزتي"
+        },
+        {
+            "Code": "138057",
+            "Name": "Sopron",
+            "NameAr": "سوبرون"
+        },
+        {
+            "Code": "138965",
+            "Name": "Sumeg",
+            "NameAr": "سوميج"
+        },
+        {
+            "Code": "294777",
+            "Name": "Szabolcs-Szatmar-Bereg",
+            "NameAr": "سزابولكس-سزاتمار-بيريج"
+        },
+        {
+            "Code": "106816",
+            "Name": "Szalka",
+            "NameAr": "سزالكا"
+        },
+        {
+            "Code": "106360",
+            "Name": "Szanda",
+            "NameAr": "سزاندا"
+        },
+        {
+            "Code": "148123",
+            "Name": "Szantod",
+            "NameAr": "سزانتود"
+        },
+        {
+            "Code": "139169",
+            "Name": "Szarvas",
+            "NameAr": "سزارفاس"
+        },
+        {
+            "Code": "140262",
+            "Name": "Szazhalombatta",
+            "NameAr": "سزازهالومباتتا"
+        },
+        {
+            "Code": "138992",
+            "Name": "Szeged",
+            "NameAr": "سزيجيد"
+        },
+        {
+            "Code": "139543",
+            "Name": "Szekesfehervar",
+            "NameAr": "سزيكيسفيهيرفار"
+        },
+        {
+            "Code": "138552",
+            "Name": "Szekszard",
+            "NameAr": "سزيكسزارد"
+        },
+        {
+            "Code": "106818",
+            "Name": "Szeleste",
+            "NameAr": "سزيليستي"
+        },
+        {
+            "Code": "139544",
+            "Name": "Szentendre",
+            "NameAr": "سزينتيندري"
+        },
+        {
+            "Code": "140263",
+            "Name": "Szentgotthard",
+            "NameAr": "سزينتجوتتهارد"
+        },
+        {
+            "Code": "106819",
+            "Name": "Szerencs",
+            "NameAr": "سزيرينكس"
+        },
+        {
+            "Code": "140264",
+            "Name": "Szigetszentmiklos",
+            "NameAr": "سزيجيتسزينتميكلوس"
+        },
+        {
+            "Code": "138993",
+            "Name": "Szigetvar",
+            "NameAr": "سزيجيتفار"
+        },
+        {
+            "Code": "139171",
+            "Name": "Szilvasvarad",
+            "NameAr": "سزيلفاسفاراد"
+        },
+        {
+            "Code": "148125",
+            "Name": "Szirak",
+            "NameAr": "سزيراك"
+        },
+        {
+            "Code": "138994",
+            "Name": "Szolnok",
+            "NameAr": "سزولنوك"
+        },
+        {
+            "Code": "138553",
+            "Name": "Szombathely",
+            "NameAr": "سزومباتهيلي"
+        },
+        {
+            "Code": "138570",
+            "Name": "Tamasi",
+            "NameAr": "تاماسي"
+        },
+        {
+            "Code": "106370",
+            "Name": "Tapioszentmarton",
+            "NameAr": "تابيوسزينتمارتون"
+        },
+        {
+            "Code": "140968",
+            "Name": "Tapolca",
+            "NameAr": "تابولكا"
+        },
+        {
+            "Code": "139975",
+            "Name": "Tarcal",
+            "NameAr": "تاركال"
+        },
+        {
+            "Code": "139564",
+            "Name": "Tarjan",
+            "NameAr": "تارجان"
+        },
+        {
+            "Code": "139692",
+            "Name": "Tat",
+            "NameAr": "تات"
+        },
+        {
+            "Code": "139034",
+            "Name": "Tata",
+            "NameAr": "تاتا"
+        },
+        {
+            "Code": "139568",
+            "Name": "Tatabanya",
+            "NameAr": "تاتابانيا"
+        },
+        {
+            "Code": "139694",
+            "Name": "Tatarszentgyorgy",
+            "NameAr": "تاتارسزينتجيورجي"
+        },
+        {
+            "Code": "139049",
+            "Name": "Telkibanya",
+            "NameAr": "تيلكيبانيا"
+        },
+        {
+            "Code": "139307",
+            "Name": "Tihany",
+            "NameAr": "تيهاني"
+        },
+        {
+            "Code": "139318",
+            "Name": "Tiszafured",
+            "NameAr": "تيسزافوريد"
+        },
+        {
+            "Code": "140313",
+            "Name": "Tiszakecske",
+            "NameAr": "تيسزاكيكسكي"
+        },
+        {
+            "Code": "107783",
+            "Name": "Tiszaug",
+            "NameAr": "تيسزاوج"
+        },
+        {
+            "Code": "139764",
+            "Name": "Tiszaujvaros",
+            "NameAr": "تيسزاوجفاروس"
+        },
+        {
+            "Code": "140775",
+            "Name": "Tokaj",
+            "NameAr": "توكاج"
+        },
+        {
+            "Code": "107818",
+            "Name": "Tolna",
+            "NameAr": "تولنا"
+        },
+        {
+            "Code": "269128",
+            "Name": "Tolna County",
+            "NameAr": "تولنا كوونتي"
+        },
+        {
+            "Code": "107644",
+            "Name": "Toltestava",
+            "NameAr": "تولتيستافا"
+        },
+        {
+            "Code": "148272",
+            "Name": "Torokbalint",
+            "NameAr": "توروكبالينت"
+        },
+        {
+            "Code": "140491",
+            "Name": "Totvazsony",
+            "NameAr": "توتفازسوني"
+        },
+        {
+            "Code": "141974",
+            "Name": "Vargesztes",
+            "NameAr": "فارجيسزتيس"
+        },
+        {
+            "Code": "257219",
+            "Name": "Vas County",
+            "NameAr": "فاس كوونتي"
+        },
+        {
+            "Code": "142542",
+            "Name": "Vasad",
+            "NameAr": "فاساد"
+        },
+        {
+            "Code": "141626",
+            "Name": "Vasarosnameny",
+            "NameAr": "فاساروسناميني"
+        },
+        {
+            "Code": "140188",
+            "Name": "Velence",
+            "NameAr": "فيلينكي"
+        },
+        {
+            "Code": "140619",
+            "Name": "Velencesee",
+            "NameAr": "فيلينكيسيي"
+        },
+        {
+            "Code": "106886",
+            "Name": "Veresegyhaz",
+            "NameAr": "فيريسيجيهاز"
+        },
+        {
+            "Code": "141316",
+            "Name": "Verpelet",
+            "NameAr": "فيربيليت"
+        },
+        {
+            "Code": "142007",
+            "Name": "Veszprem",
+            "NameAr": "فيسزبريم"
+        },
+        {
+            "Code": "287027",
+            "Name": "Veszprem County",
+            "NameAr": "فيسزبريم كوونتي"
+        },
+        {
+            "Code": "142045",
+            "Name": "Villany",
+            "NameAr": "فيللاني"
+        },
+        {
+            "Code": "143187",
+            "Name": "Visegrad",
+            "NameAr": "فيسيجراد"
+        },
+        {
+            "Code": "142742",
+            "Name": "Vonyarcvashegy",
+            "NameAr": "فونياركفاسهيجي"
+        },
+        {
+            "Code": "143914",
+            "Name": "Zalacsany",
+            "NameAr": "زالاكساني"
+        },
+        {
+            "Code": "389756",
+            "Name": "Zalaegerszeg",
+            "NameAr": "زالايجيرسزيج"
+        },
+        {
+            "Code": "143527",
+            "Name": "Zalakaros",
+            "NameAr": "زالاكاروس"
+        },
+        {
+            "Code": "108029",
+            "Name": "Zalaszentgrot",
+            "NameAr": "زالاسزينتجروت"
+        },
+        {
+            "Code": "143344",
+            "Name": "Zalaszentlaszlo",
+            "NameAr": "زالاسزينتلاسزلو"
+        },
+        {
+            "Code": "143820",
+            "Name": "Zamardi",
+            "NameAr": "زاماردي"
+        },
+        {
+            "Code": "107921",
+            "Name": "Zebegeny",
+            "NameAr": "زيبيجيني"
+        },
+        {
+            "Code": "143936",
+            "Name": "Zirc-Szarvaskut",
+            "NameAr": "زيرك-سزارفاسكوت"
+        }
+    ],
+    "totalCities": 251
+}

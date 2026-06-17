@@ -1,0 +1,17 @@
+{
+    "id": "SB",
+    "countryCode": "SB",
+    "cities": [
+        {
+            "Code": "149925",
+            "Name": "Gizo",
+            "NameAr": "جيزو"
+        },
+        {
+            "Code": "120988",
+            "Name": "Honiara",
+            "NameAr": "هونيارا"
+        }
+    ],
+    "totalCities": 2
+}

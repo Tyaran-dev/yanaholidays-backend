@@ -1,0 +1,67 @@
+{
+    "id": "SZ",
+    "countryCode": "SZ",
+    "cities": [
+        {
+            "Code": "117538",
+            "Name": "Ezulwini",
+            "NameAr": "يزولويني"
+        },
+        {
+            "Code": "121363",
+            "Name": "Hlane National Park",
+            "NameAr": "هلاني ناتيونال بارك"
+        },
+        {
+            "Code": "149949",
+            "Name": "Kaphunga",
+            "NameAr": "كابهونجا"
+        },
+        {
+            "Code": "149948",
+            "Name": "Kwaluseni",
+            "NameAr": "كوالوسيني"
+        },
+        {
+            "Code": "105588",
+            "Name": "Lobamba",
+            "NameAr": "لوبامبا"
+        },
+        {
+            "Code": "146476",
+            "Name": "Manzini",
+            "NameAr": "مانزيني"
+        },
+        {
+            "Code": "127555",
+            "Name": "Mbabane",
+            "NameAr": "مباباني"
+        },
+        {
+            "Code": "149945",
+            "Name": "Mhlambanyatsi",
+            "NameAr": "مهلامبانياتسي"
+        },
+        {
+            "Code": "127798",
+            "Name": "Mlilwane Wildlife Sanctuary",
+            "NameAr": "مليلواني ويلدليفي سانكتواري"
+        },
+        {
+            "Code": "149947",
+            "Name": "Motshane",
+            "NameAr": "موتسهاني"
+        },
+        {
+            "Code": "149950",
+            "Name": "Piggs Peak",
+            "NameAr": "بيججس بياك"
+        },
+        {
+            "Code": "139541",
+            "Name": "Swaziland",
+            "NameAr": "سوازيلاند"
+        }
+    ],
+    "totalCities": 12
+}

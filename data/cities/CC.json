@@ -1,0 +1,12 @@
+{
+    "id": "CC",
+    "countryCode": "CC",
+    "cities": [
+        {
+            "Code": "149856",
+            "Name": "West Island",
+            "NameAr": "ويست يسلاند"
+        }
+    ],
+    "totalCities": 1
+}

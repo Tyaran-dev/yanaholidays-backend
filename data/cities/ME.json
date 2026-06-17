@@ -1,0 +1,197 @@
+{
+    "id": "ME",
+    "countryCode": "ME",
+    "cities": [
+        {
+            "Code": "100126",
+            "Name": "Ada Island",
+            "NameAr": "ادا يسلاند"
+        },
+        {
+            "Code": "149135",
+            "Name": "Andrijevica",
+            "NameAr": "اندريجيفيكا"
+        },
+        {
+            "Code": "110997",
+            "Name": "Bar",
+            "NameAr": "بار"
+        },
+        {
+            "Code": "110468",
+            "Name": "Becici",
+            "NameAr": "بيكيكي"
+        },
+        {
+            "Code": "111500",
+            "Name": "Bijela",
+            "NameAr": "بيجيلا"
+        },
+        {
+            "Code": "111702",
+            "Name": "Bijelo Polje",
+            "NameAr": "بيجيلو بولجي"
+        },
+        {
+            "Code": "112049",
+            "Name": "Budva",
+            "NameAr": "بودفا"
+        },
+        {
+            "Code": "154861",
+            "Name": "Budva Municipality",
+            "NameAr": "بودفا مونيكيباليتي"
+        },
+        {
+            "Code": "105231",
+            "Name": "Canj",
+            "NameAr": "كانج"
+        },
+        {
+            "Code": "114695",
+            "Name": "Cetinje",
+            "NameAr": "كيتينجي"
+        },
+        {
+            "Code": "116141",
+            "Name": "Danilovgrad",
+            "NameAr": "دانيلوفجراد"
+        },
+        {
+            "Code": "296760",
+            "Name": "Glavatske Kucice",
+            "NameAr": "جلافاتسكي كوكيكي"
+        },
+        {
+            "Code": "120674",
+            "Name": "Herceg Novi",
+            "NameAr": "هيركيج نوفي"
+        },
+        {
+            "Code": "122661",
+            "Name": "Igalo",
+            "NameAr": "يجالو"
+        },
+        {
+            "Code": "151764",
+            "Name": "Ivangrad",
+            "NameAr": "يفانجراد"
+        },
+        {
+            "Code": "123873",
+            "Name": "Kolasin",
+            "NameAr": "كولاسين"
+        },
+        {
+            "Code": "123313",
+            "Name": "Kotor",
+            "NameAr": "كوتور"
+        },
+        {
+            "Code": "128866",
+            "Name": "Milocer",
+            "NameAr": "ميلوكير"
+        },
+        {
+            "Code": "127241",
+            "Name": "Mojkovac",
+            "NameAr": "موجكوفاك"
+        },
+        {
+            "Code": "129342",
+            "Name": "Montenegro",
+            "NameAr": "مونتينيجرو"
+        },
+        {
+            "Code": "129900",
+            "Name": "Niksic",
+            "NameAr": "نيكسيك"
+        },
+        {
+            "Code": "132128",
+            "Name": "Perast",
+            "NameAr": "بيراست"
+        },
+        {
+            "Code": "132770",
+            "Name": "Petrovac",
+            "NameAr": "بيتروفاك"
+        },
+        {
+            "Code": "132531",
+            "Name": "Plav",
+            "NameAr": "بلاف"
+        },
+        {
+            "Code": "131787",
+            "Name": "Pljevlja",
+            "NameAr": "بلجيفلجا"
+        },
+        {
+            "Code": "132872",
+            "Name": "Podgorica",
+            "NameAr": "بودجوريكا"
+        },
+        {
+            "Code": "132534",
+            "Name": "Prcanj",
+            "NameAr": "بركانج"
+        },
+        {
+            "Code": "134341",
+            "Name": "Przno",
+            "NameAr": "برزنو"
+        },
+        {
+            "Code": "296662",
+            "Name": "Radanovici",
+            "NameAr": "رادانوفيكي"
+        },
+        {
+            "Code": "133751",
+            "Name": "Radovici",
+            "NameAr": "رادوفيكي"
+        },
+        {
+            "Code": "133752",
+            "Name": "Rafailovici",
+            "NameAr": "رافايلوفيكي"
+        },
+        {
+            "Code": "134415",
+            "Name": "Risan",
+            "NameAr": "ريسان"
+        },
+        {
+            "Code": "138535",
+            "Name": "Sutomore",
+            "NameAr": "سوتوموري"
+        },
+        {
+            "Code": "139160",
+            "Name": "Sveti Stefan Island",
+            "NameAr": "سفيتي ستيفان يسلاند"
+        },
+        {
+            "Code": "139320",
+            "Name": "Tivat",
+            "NameAr": "تيفات"
+        },
+        {
+            "Code": "141246",
+            "Name": "Ulcinj",
+            "NameAr": "ولكينج"
+        },
+        {
+            "Code": "107941",
+            "Name": "Utjeha",
+            "NameAr": "وتجيها"
+        },
+        {
+            "Code": "142476",
+            "Name": "Zabljak",
+            "NameAr": "زابلجاك"
+        }
+    ],
+    "totalCities": 38
+}

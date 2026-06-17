@@ -1,0 +1,67 @@
+{
+    "id": "CW",
+    "countryCode": "CW",
+    "cities": [
+        {
+            "Code": "110860",
+            "Name": "Barber",
+            "NameAr": "باربير"
+        },
+        {
+            "Code": "111346",
+            "Name": "Boca St. Michiel",
+            "NameAr": "بوكا ست ميكهييل"
+        },
+        {
+            "Code": "115085",
+            "Name": "Curacao",
+            "NameAr": "كوراكاو"
+        },
+        {
+            "Code": "122449",
+            "Name": "Jan Thiel Bay",
+            "NameAr": "جان تهييل باي"
+        },
+        {
+            "Code": "121784",
+            "Name": "Jan Thiel Beach",
+            "NameAr": "جان تهييل بياكه"
+        },
+        {
+            "Code": "124503",
+            "Name": "Lagun",
+            "NameAr": "لاجون"
+        },
+        {
+            "Code": "131128",
+            "Name": "Nieuwpoort",
+            "NameAr": "نييووبوورت"
+        },
+        {
+            "Code": "131096",
+            "Name": "Piscadera Bay",
+            "NameAr": "بيسكاديرا باي"
+        },
+        {
+            "Code": "138240",
+            "Name": "St. Willibrordus",
+            "NameAr": "ست ويلليبروردوس"
+        },
+        {
+            "Code": "137870",
+            "Name": "Sun Reef",
+            "NameAr": "سون رييف"
+        },
+        {
+            "Code": "142680",
+            "Name": "Westpunt",
+            "NameAr": "ويستبونت"
+        },
+        {
+            "Code": "148697",
+            "Name": "Willemstad",
+            "NameAr": "ويلليمستاد"
+        }
+    ],
+    "totalCities": 12
+}

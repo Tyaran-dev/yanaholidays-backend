@@ -1,0 +1,162 @@
+{
+    "id": "BO",
+    "countryCode": "BO",
+    "cities": [
+        {
+            "Code": "150548",
+            "Name": "Apolo",
+            "NameAr": "ابولو"
+        },
+        {
+            "Code": "150427",
+            "Name": "Camiri",
+            "NameAr": "كاميري"
+        },
+        {
+            "Code": "106206",
+            "Name": "Chaunaca",
+            "NameAr": "كهاوناكا"
+        },
+        {
+            "Code": "150572",
+            "Name": "Cobija",
+            "NameAr": "كوبيجا"
+        },
+        {
+            "Code": "114401",
+            "Name": "Cochabamba",
+            "NameAr": "كوكهابامبا"
+        },
+        {
+            "Code": "115402",
+            "Name": "Copacabana",
+            "NameAr": "كوباكابانا"
+        },
+        {
+            "Code": "116551",
+            "Name": "Coroico",
+            "NameAr": "كورويكو"
+        },
+        {
+            "Code": "151458",
+            "Name": "Guayaramerin",
+            "NameAr": "جواياراميرين"
+        },
+        {
+            "Code": "124737",
+            "Name": "La Paz",
+            "NameAr": "لا باز"
+        },
+        {
+            "Code": "150631",
+            "Name": "Magdalena",
+            "NameAr": "ماجدالينا"
+        },
+        {
+            "Code": "101911",
+            "Name": "Mosoj Llajta",
+            "NameAr": "موسوج للاجتا"
+        },
+        {
+            "Code": "132986",
+            "Name": "Potosi",
+            "NameAr": "بوتوسي"
+        },
+        {
+            "Code": "150823",
+            "Name": "Riberalta",
+            "NameAr": "ريبيرالتا"
+        },
+        {
+            "Code": "151323",
+            "Name": "Rurrenabaque",
+            "NameAr": "رورريناباقوي"
+        },
+        {
+            "Code": "134893",
+            "Name": "San Ignacio",
+            "NameAr": "سان يجناكيو"
+        },
+        {
+            "Code": "151179",
+            "Name": "San Javier",
+            "NameAr": "سان جافيير"
+        },
+        {
+            "Code": "103351",
+            "Name": "San Jose de Chiquitos",
+            "NameAr": "سان جوسي دي كهيقويتوس"
+        },
+        {
+            "Code": "136031",
+            "Name": "San Pedro de Quemes",
+            "NameAr": "سان بيدرو دي قويميس"
+        },
+        {
+            "Code": "136846",
+            "Name": "Santa Cruz",
+            "NameAr": "سانتا كروز"
+        },
+        {
+            "Code": "417073",
+            "Name": "Santa Cruz de la Sierra",
+            "NameAr": "سانتا كروز دي لا سييررا"
+        },
+        {
+            "Code": "138489",
+            "Name": "Sonneninsel",
+            "NameAr": "سوننينينسيل"
+        },
+        {
+            "Code": "148094",
+            "Name": "Sucre",
+            "NameAr": "سوكري"
+        },
+        {
+            "Code": "148135",
+            "Name": "Tahua",
+            "NameAr": "تاهوا"
+        },
+        {
+            "Code": "139031",
+            "Name": "Tarija",
+            "NameAr": "تاريجا"
+        },
+        {
+            "Code": "140452",
+            "Name": "Titicaca-See",
+            "NameAr": "تيتيكاكا-سيي"
+        },
+        {
+            "Code": "106971",
+            "Name": "Toro Toro",
+            "NameAr": "تورو تورو"
+        },
+        {
+            "Code": "151033",
+            "Name": "Trinidad",
+            "NameAr": "ترينيداد"
+        },
+        {
+            "Code": "107655",
+            "Name": "Tupiza",
+            "NameAr": "توبيزا"
+        },
+        {
+            "Code": "141269",
+            "Name": "Urmiri (Oruro)",
+            "NameAr": "ورميري ورورو"
+        },
+        {
+            "Code": "140569",
+            "Name": "Uyuni",
+            "NameAr": "ويوني"
+        },
+        {
+            "Code": "151706",
+            "Name": "Vallegrande",
+            "NameAr": "فالليجراندي"
+        }
+    ],
+    "totalCities": 31
+}

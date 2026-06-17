@@ -1,0 +1,167 @@
+{
+    "id": "MK",
+    "countryCode": "MK",
+    "cities": [
+        {
+            "Code": "111679",
+            "Name": "Berovo",
+            "NameAr": "بيروفو"
+        },
+        {
+            "Code": "144260",
+            "Name": "Bitola",
+            "NameAr": "بيتولا"
+        },
+        {
+            "Code": "105772",
+            "Name": "Debar",
+            "NameAr": "ديبار"
+        },
+        {
+            "Code": "119655",
+            "Name": "Gevgelija",
+            "NameAr": "جيفجيليجا"
+        },
+        {
+            "Code": "295400",
+            "Name": "Gostivar",
+            "NameAr": "جوستيفار"
+        },
+        {
+            "Code": "123641",
+            "Name": "Kavadarci",
+            "NameAr": "كافاداركي"
+        },
+        {
+            "Code": "145931",
+            "Name": "Kicevo",
+            "NameAr": "كيكيفو"
+        },
+        {
+            "Code": "123868",
+            "Name": "Kocani",
+            "NameAr": "كوكاني"
+        },
+        {
+            "Code": "103722",
+            "Name": "Kozbunar",
+            "NameAr": "كوزبونار"
+        },
+        {
+            "Code": "101699",
+            "Name": "Kratovo",
+            "NameAr": "كراتوفو"
+        },
+        {
+            "Code": "124032",
+            "Name": "Krusevo",
+            "NameAr": "كروسيفو"
+        },
+        {
+            "Code": "124041",
+            "Name": "Kumanovo",
+            "NameAr": "كومانوفو"
+        },
+        {
+            "Code": "146189",
+            "Name": "Lazaropole",
+            "NameAr": "لازاروبولي"
+        },
+        {
+            "Code": "127864",
+            "Name": "Mavrovo",
+            "NameAr": "مافروفو"
+        },
+        {
+            "Code": "129188",
+            "Name": "Negotino",
+            "NameAr": "نيجوتينو"
+        },
+        {
+            "Code": "130961",
+            "Name": "Ohrid",
+            "NameAr": "وهريد"
+        },
+        {
+            "Code": "133020",
+            "Name": "Prilep",
+            "NameAr": "بريليب"
+        },
+        {
+            "Code": "106722",
+            "Name": "Resen",
+            "NameAr": "ريسين"
+        },
+        {
+            "Code": "138725",
+            "Name": "Skopje",
+            "NameAr": "سكوبجي"
+        },
+        {
+            "Code": "148072",
+            "Name": "Stip",
+            "NameAr": "ستيب"
+        },
+        {
+            "Code": "137855",
+            "Name": "Struga",
+            "NameAr": "ستروجا"
+        },
+        {
+            "Code": "138843",
+            "Name": "Struga-Kalista",
+            "NameAr": "ستروجا-كاليستا"
+        },
+        {
+            "Code": "139536",
+            "Name": "Sveti Naum",
+            "NameAr": "سفيتي ناوم"
+        },
+        {
+            "Code": "107282",
+            "Name": "Sveti Stefan (Ohrid)",
+            "NameAr": "سفيتي ستيفان وهريد"
+        },
+        {
+            "Code": "139734",
+            "Name": "Tetovo",
+            "NameAr": "تيتوفو"
+        },
+        {
+            "Code": "417415",
+            "Name": "Trpeytsa",
+            "NameAr": "تربييتسا"
+        },
+        {
+            "Code": "139843",
+            "Name": "turk. Ustrumca",
+            "NameAr": "تورك وسترومكا"
+        },
+        {
+            "Code": "141529",
+            "Name": "turkisch Doyran",
+            "NameAr": "توركيسكه دويران"
+        },
+        {
+            "Code": "141417",
+            "Name": "Valandovo",
+            "NameAr": "فالاندوفو"
+        },
+        {
+            "Code": "140620",
+            "Name": "Veles",
+            "NameAr": "فيليس"
+        },
+        {
+            "Code": "417232",
+            "Name": "Vevcani",
+            "NameAr": "فيفكاني"
+        },
+        {
+            "Code": "143178",
+            "Name": "Vinica",
+            "NameAr": "فينيكا"
+        }
+    ],
+    "totalCities": 32
+}

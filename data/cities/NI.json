@@ -1,0 +1,172 @@
+{
+    "id": "NI",
+    "countryCode": "NI",
+    "cities": [
+        {
+            "Code": "105053",
+            "Name": "Bluefields",
+            "NameAr": "بلويفييلدس"
+        },
+        {
+            "Code": "105304",
+            "Name": "Boaco",
+            "NameAr": "بواكو"
+        },
+        {
+            "Code": "106210",
+            "Name": "Chinandega",
+            "NameAr": "كهينانديجا"
+        },
+        {
+            "Code": "116546",
+            "Name": "Corn Island",
+            "NameAr": "كورن يسلاند"
+        },
+        {
+            "Code": "101859",
+            "Name": "Diriamba",
+            "NameAr": "ديريامبا"
+        },
+        {
+            "Code": "105783",
+            "Name": "Dolores",
+            "NameAr": "دولوريس"
+        },
+        {
+            "Code": "105509",
+            "Name": "El Castillo",
+            "NameAr": "يل كاستيللو"
+        },
+        {
+            "Code": "106278",
+            "Name": "El Transito",
+            "NameAr": "يل ترانسيتو"
+        },
+        {
+            "Code": "106053",
+            "Name": "Esteli",
+            "NameAr": "يستيلي"
+        },
+        {
+            "Code": "119700",
+            "Name": "Granada",
+            "NameAr": "جرانادا"
+        },
+        {
+            "Code": "393708",
+            "Name": "Greytown",
+            "NameAr": "جرييتوون"
+        },
+        {
+            "Code": "121629",
+            "Name": "Insel Ometepe",
+            "NameAr": "ينسيل وميتيبي"
+        },
+        {
+            "Code": "122351",
+            "Name": "Jinotega",
+            "NameAr": "جينوتيجا"
+        },
+        {
+            "Code": "125268",
+            "Name": "Leon",
+            "NameAr": "ليون"
+        },
+        {
+            "Code": "125468",
+            "Name": "Little Corn Island",
+            "NameAr": "ليتتلي كورن يسلاند"
+        },
+        {
+            "Code": "127367",
+            "Name": "Managua",
+            "NameAr": "ماناجوا"
+        },
+        {
+            "Code": "127017",
+            "Name": "Masachapa",
+            "NameAr": "ماساكهابا"
+        },
+        {
+            "Code": "146529",
+            "Name": "Masaya",
+            "NameAr": "ماسايا"
+        },
+        {
+            "Code": "127853",
+            "Name": "Matagalpa",
+            "NameAr": "ماتاجالبا"
+        },
+        {
+            "Code": "128361",
+            "Name": "Montelimar",
+            "NameAr": "مونتيليمار"
+        },
+        {
+            "Code": "350643",
+            "Name": "Montelimar Beach",
+            "NameAr": "مونتيليمار بياكه"
+        },
+        {
+            "Code": "103841",
+            "Name": "Moyogalpa",
+            "NameAr": "مويوجالبا"
+        },
+        {
+            "Code": "104294",
+            "Name": "Ocotal",
+            "NameAr": "وكوتال"
+        },
+        {
+            "Code": "102090",
+            "Name": "Poneloya",
+            "NameAr": "بونيلويا"
+        },
+        {
+            "Code": "151315",
+            "Name": "Puerto Cabezas",
+            "NameAr": "بويرتو كابيزاس"
+        },
+        {
+            "Code": "135120",
+            "Name": "Rio Maiz National Park",
+            "NameAr": "ريو مايز ناتيونال بارك"
+        },
+        {
+            "Code": "134793",
+            "Name": "Rivas",
+            "NameAr": "ريفاس"
+        },
+        {
+            "Code": "135713",
+            "Name": "San Carlos",
+            "NameAr": "سان كارلوس"
+        },
+        {
+            "Code": "147699",
+            "Name": "San Juan del Sur",
+            "NameAr": "سان جوان ديل سور"
+        },
+        {
+            "Code": "108488",
+            "Name": "San Marcos",
+            "NameAr": "سان ماركوس"
+        },
+        {
+            "Code": "103507",
+            "Name": "San Ramon",
+            "NameAr": "سان رامون"
+        },
+        {
+            "Code": "103573",
+            "Name": "Sebaco",
+            "NameAr": "سيباكو"
+        },
+        {
+            "Code": "140053",
+            "Name": "Tola",
+            "NameAr": "تولا"
+        }
+    ],
+    "totalCities": 33
+}

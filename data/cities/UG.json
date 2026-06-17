@@ -1,0 +1,187 @@
+{
+    "id": "UG",
+    "countryCode": "UG",
+    "cities": [
+        {
+            "Code": "150010",
+            "Name": "Arua",
+            "NameAr": "اروا"
+        },
+        {
+            "Code": "113215",
+            "Name": "Bulago Island",
+            "NameAr": "بولاجو يسلاند"
+        },
+        {
+            "Code": "113219",
+            "Name": "Bunyonyi See",
+            "NameAr": "بونيونيي سيي"
+        },
+        {
+            "Code": "144447",
+            "Name": "Bwindi National Park",
+            "NameAr": "بويندي ناتيونال بارك"
+        },
+        {
+            "Code": "117239",
+            "Name": "Entebbe",
+            "NameAr": "ينتيببي"
+        },
+        {
+            "Code": "145240",
+            "Name": "Fort Portal",
+            "NameAr": "فورت بورتال"
+        },
+        {
+            "Code": "150008",
+            "Name": "Gulu",
+            "NameAr": "جولو"
+        },
+        {
+            "Code": "108299",
+            "Name": "Hoima",
+            "NameAr": "هويما"
+        },
+        {
+            "Code": "123444",
+            "Name": "Jinja",
+            "NameAr": "جينجا"
+        },
+        {
+            "Code": "122499",
+            "Name": "Kabale",
+            "NameAr": "كابالي"
+        },
+        {
+            "Code": "122807",
+            "Name": "Kalangala",
+            "NameAr": "كالانجالا"
+        },
+        {
+            "Code": "106171",
+            "Name": "Kalisizo",
+            "NameAr": "كاليسيزو"
+        },
+        {
+            "Code": "122822",
+            "Name": "Kampala",
+            "NameAr": "كامبالا"
+        },
+        {
+            "Code": "150000",
+            "Name": "Kasese",
+            "NameAr": "كاسيسي"
+        },
+        {
+            "Code": "415326",
+            "Name": "Kayunga",
+            "NameAr": "كايونجا"
+        },
+        {
+            "Code": "149994",
+            "Name": "Kibale",
+            "NameAr": "كيبالي"
+        },
+        {
+            "Code": "123154",
+            "Name": "Kibale Nationalpark",
+            "NameAr": "كيبالي ناتيونالبارك"
+        },
+        {
+            "Code": "402865",
+            "Name": "Kisoro",
+            "NameAr": "كيسورو"
+        },
+        {
+            "Code": "417214",
+            "Name": "Kisoro District",
+            "NameAr": "كيسورو ديستريكت"
+        },
+        {
+            "Code": "151819",
+            "Name": "Lake Mburo",
+            "NameAr": "لاكي مبورو"
+        },
+        {
+            "Code": "104146",
+            "Name": "Lyamutundwe",
+            "NameAr": "لياموتوندوي"
+        },
+        {
+            "Code": "363762",
+            "Name": "Lyantonde",
+            "NameAr": "ليانتوندي"
+        },
+        {
+            "Code": "126699",
+            "Name": "Mabira",
+            "NameAr": "مابيرا"
+        },
+        {
+            "Code": "102610",
+            "Name": "Masaka",
+            "NameAr": "ماساكا"
+        },
+        {
+            "Code": "128131",
+            "Name": "Mbale",
+            "NameAr": "مبالي"
+        },
+        {
+            "Code": "149995",
+            "Name": "Mbarara",
+            "NameAr": "مبارارا"
+        },
+        {
+            "Code": "127759",
+            "Name": "Mgahinga-Gorilla-Nationalpark",
+            "NameAr": "مجاهينجا-جوريللا-ناتيونالبارك"
+        },
+        {
+            "Code": "127998",
+            "Name": "Mount Elgon",
+            "NameAr": "موونت يلجون"
+        },
+        {
+            "Code": "129102",
+            "Name": "Murchison Falls Nationalpark",
+            "NameAr": "موركهيسون فاللس ناتيونالبارك"
+        },
+        {
+            "Code": "129869",
+            "Name": "Ngamba Island",
+            "NameAr": "نجامبا يسلاند"
+        },
+        {
+            "Code": "150001",
+            "Name": "Nkuringo",
+            "NameAr": "نكورينجو"
+        },
+        {
+            "Code": "201672",
+            "Name": "Ntoroko",
+            "NameAr": "نتوروكو"
+        },
+        {
+            "Code": "135019",
+            "Name": "Queen Elizabeth National Park",
+            "NameAr": "قويين يليزابيته ناتيونال بارك"
+        },
+        {
+            "Code": "149998",
+            "Name": "Seeta",
+            "NameAr": "سييتا"
+        },
+        {
+            "Code": "137272",
+            "Name": "Semliki Wildlife Reserve",
+            "NameAr": "سيمليكي ويلدليفي ريسيرفي"
+        },
+        {
+            "Code": "415322",
+            "Name": "Tororo",
+            "NameAr": "تورورو"
+        }
+    ],
+    "totalCities": 36
+}

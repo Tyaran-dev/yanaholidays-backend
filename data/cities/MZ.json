@@ -1,0 +1,197 @@
+{
+    "id": "MZ",
+    "countryCode": "MZ",
+    "cities": [
+        {
+            "Code": "110655",
+            "Name": "Baixo do Pinda",
+            "NameAr": "بايكسو دو بيندا"
+        },
+        {
+            "Code": "336376",
+            "Name": "Barra Beach",
+            "NameAr": "باررا بياكه"
+        },
+        {
+            "Code": "111052",
+            "Name": "Bazaruto Island",
+            "NameAr": "بازاروتو يسلاند"
+        },
+        {
+            "Code": "110565",
+            "Name": "Beira",
+            "NameAr": "بييرا"
+        },
+        {
+            "Code": "111658",
+            "Name": "Benguerra Island",
+            "NameAr": "بينجويررا يسلاند"
+        },
+        {
+            "Code": "149160",
+            "Name": "Chidenguele",
+            "NameAr": "كهيدينجويلي"
+        },
+        {
+            "Code": "149161",
+            "Name": "Chimoio",
+            "NameAr": "كهيمويو"
+        },
+        {
+            "Code": "149157",
+            "Name": "Chitengo",
+            "NameAr": "كهيتينجو"
+        },
+        {
+            "Code": "116151",
+            "Name": "das Quirimbas",
+            "NameAr": "داس قويريمباس"
+        },
+        {
+            "Code": "120372",
+            "Name": "Gorongoza",
+            "NameAr": "جورونجوزا"
+        },
+        {
+            "Code": "120156",
+            "Name": "Guludo",
+            "NameAr": "جولودو"
+        },
+        {
+            "Code": "150527",
+            "Name": "Ibo",
+            "NameAr": "يبو"
+        },
+        {
+            "Code": "122097",
+            "Name": "Ihla do Mocambique",
+            "NameAr": "يهلا دو موكامبيقوي"
+        },
+        {
+            "Code": "121468",
+            "Name": "Inhaca",
+            "NameAr": "ينهاكا"
+        },
+        {
+            "Code": "122119",
+            "Name": "Inhambane",
+            "NameAr": "ينهامباني"
+        },
+        {
+            "Code": "146266",
+            "Name": "Lichinga",
+            "NameAr": "ليكهينجا"
+        },
+        {
+            "Code": "146291",
+            "Name": "Limpopo River Mouth",
+            "NameAr": "ليمبوبو ريفير مووته"
+        },
+        {
+            "Code": "127414",
+            "Name": "Manda Wilderness Gebiet",
+            "NameAr": "ماندا ويلديرنيسس جيبييت"
+        },
+        {
+            "Code": "146478",
+            "Name": "Maputo",
+            "NameAr": "مابوتو"
+        },
+        {
+            "Code": "149158",
+            "Name": "Massinga",
+            "NameAr": "ماسسينجا"
+        },
+        {
+            "Code": "149169",
+            "Name": "Mecufi",
+            "NameAr": "ميكوفي"
+        },
+        {
+            "Code": "149156",
+            "Name": "Medjumbe Island",
+            "NameAr": "ميدجومبي يسلاند"
+        },
+        {
+            "Code": "149153",
+            "Name": "Memba",
+            "NameAr": "ميمبا"
+        },
+        {
+            "Code": "149168",
+            "Name": "Murrebue",
+            "NameAr": "مورريبوي"
+        },
+        {
+            "Code": "149159",
+            "Name": "Nacala",
+            "NameAr": "ناكالا"
+        },
+        {
+            "Code": "129785",
+            "Name": "Nampula",
+            "NameAr": "نامبولا"
+        },
+        {
+            "Code": "131117",
+            "Name": "Niassa Wildreservat",
+            "NameAr": "نياسسا ويلدريسيرفات"
+        },
+        {
+            "Code": "131484",
+            "Name": "Pemba",
+            "NameAr": "بيمبا"
+        },
+        {
+            "Code": "133530",
+            "Name": "Pomene Bay",
+            "NameAr": "بوميني باي"
+        },
+        {
+            "Code": "133489",
+            "Name": "Ponta do Ouro",
+            "NameAr": "بونتا دو وورو"
+        },
+        {
+            "Code": "149154",
+            "Name": "Praia do Bilene",
+            "NameAr": "برايا دو بيليني"
+        },
+        {
+            "Code": "134022",
+            "Name": "Quilalea Island",
+            "NameAr": "قويلاليا يسلاند"
+        },
+        {
+            "Code": "139603",
+            "Name": "Tete",
+            "NameAr": "تيتي"
+        },
+        {
+            "Code": "140457",
+            "Name": "Tofo",
+            "NameAr": "توفو"
+        },
+        {
+            "Code": "140600",
+            "Name": "Vamizi Island",
+            "NameAr": "فاميزي يسلاند"
+        },
+        {
+            "Code": "140899",
+            "Name": "Vilanculos",
+            "NameAr": "فيلانكولوس"
+        },
+        {
+            "Code": "143665",
+            "Name": "Zavora",
+            "NameAr": "زافورا"
+        },
+        {
+            "Code": "143867",
+            "Name": "Zitundo",
+            "NameAr": "زيتوندو"
+        }
+    ],
+    "totalCities": 38
+}

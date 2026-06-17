@@ -1,0 +1,257 @@
+{
+    "id": "UY",
+    "countryCode": "UY",
+    "cities": [
+        {
+            "Code": "105065",
+            "Name": "Aguas Dulces",
+            "NameAr": "اجواس دولكيس"
+        },
+        {
+            "Code": "109278",
+            "Name": "Artigas",
+            "NameAr": "ارتيجاس"
+        },
+        {
+            "Code": "105179",
+            "Name": "Atlantida",
+            "NameAr": "اتلانتيدا"
+        },
+        {
+            "Code": "151829",
+            "Name": "Bella Union",
+            "NameAr": "بيللا ونيون"
+        },
+        {
+            "Code": "105291",
+            "Name": "Beremend",
+            "NameAr": "بيريميند"
+        },
+        {
+            "Code": "113768",
+            "Name": "Carmelo",
+            "NameAr": "كارميلو"
+        },
+        {
+            "Code": "114690",
+            "Name": "Cerro Colorado",
+            "NameAr": "كيررو كولورادو"
+        },
+        {
+            "Code": "114290",
+            "Name": "Ciudad de la Costa",
+            "NameAr": "كيوداد دي لا كوستا"
+        },
+        {
+            "Code": "114421",
+            "Name": "Colonia del Sacramento",
+            "NameAr": "كولونيا ديل ساكرامينتو"
+        },
+        {
+            "Code": "108158",
+            "Name": "Colonia Suiza",
+            "NameAr": "كولونيا سويزا"
+        },
+        {
+            "Code": "115259",
+            "Name": "Colonia Valdense",
+            "NameAr": "كولونيا فالدينسي"
+        },
+        {
+            "Code": "151830",
+            "Name": "Conchillas",
+            "NameAr": "كونكهيللاس"
+        },
+        {
+            "Code": "150504",
+            "Name": "Durazno",
+            "NameAr": "دورازنو"
+        },
+        {
+            "Code": "118293",
+            "Name": "Florida",
+            "NameAr": "فلوريدا"
+        },
+        {
+            "Code": "145259",
+            "Name": "Fray Bentos",
+            "NameAr": "فراي بينتوس"
+        },
+        {
+            "Code": "400567",
+            "Name": "Guazuvira",
+            "NameAr": "جوازوفيرا"
+        },
+        {
+            "Code": "122218",
+            "Name": "Jose Ignacio",
+            "NameAr": "جوسي يجناكيو"
+        },
+        {
+            "Code": "104084",
+            "Name": "Jose Pedro Varela",
+            "NameAr": "جوسي بيدرو فاريلا"
+        },
+        {
+            "Code": "151831",
+            "Name": "La Barra",
+            "NameAr": "لا باررا"
+        },
+        {
+            "Code": "101988",
+            "Name": "La Paloma",
+            "NameAr": "لا بالوما"
+        },
+        {
+            "Code": "123396",
+            "Name": "La Pedera",
+            "NameAr": "لا بيديرا"
+        },
+        {
+            "Code": "103892",
+            "Name": "La Pedrera",
+            "NameAr": "لا بيدريرا"
+        },
+        {
+            "Code": "124760",
+            "Name": "Laguna Garzon",
+            "NameAr": "لاجونا جارزون"
+        },
+        {
+            "Code": "146186",
+            "Name": "Lavalleja",
+            "NameAr": "لافالليجا"
+        },
+        {
+            "Code": "126131",
+            "Name": "Mal Abrigo",
+            "NameAr": "مال ابريجو"
+        },
+        {
+            "Code": "103786",
+            "Name": "Maldonado",
+            "NameAr": "مالدونادو"
+        },
+        {
+            "Code": "104481",
+            "Name": "Manantiales",
+            "NameAr": "مانانتياليس"
+        },
+        {
+            "Code": "150900",
+            "Name": "Melo",
+            "NameAr": "ميلو"
+        },
+        {
+            "Code": "127731",
+            "Name": "Mercedes",
+            "NameAr": "ميركيديس"
+        },
+        {
+            "Code": "104190",
+            "Name": "Minas",
+            "NameAr": "ميناس"
+        },
+        {
+            "Code": "128366",
+            "Name": "Montevideo",
+            "NameAr": "مونتيفيديو"
+        },
+        {
+            "Code": "102887",
+            "Name": "Nueva Palmira",
+            "NameAr": "نويفا بالميرا"
+        },
+        {
+            "Code": "132709",
+            "Name": "Paysandu",
+            "NameAr": "بايساندو"
+        },
+        {
+            "Code": "103282",
+            "Name": "Piriapolis",
+            "NameAr": "بيريابوليس"
+        },
+        {
+            "Code": "103459",
+            "Name": "Puerto Conchillas",
+            "NameAr": "بويرتو كونكهيللاس"
+        },
+        {
+            "Code": "106706",
+            "Name": "Punta Ballena",
+            "NameAr": "بونتا باللينا"
+        },
+        {
+            "Code": "103464",
+            "Name": "Punta del Diablo",
+            "NameAr": "بونتا ديل ديابلو"
+        },
+        {
+            "Code": "133065",
+            "Name": "Punta del Este",
+            "NameAr": "بونتا ديل يستي"
+        },
+        {
+            "Code": "151174",
+            "Name": "Rivera",
+            "NameAr": "ريفيرا"
+        },
+        {
+            "Code": "134515",
+            "Name": "Rocha",
+            "NameAr": "روكها"
+        },
+        {
+            "Code": "103620",
+            "Name": "Rosario",
+            "NameAr": "روساريو"
+        },
+        {
+            "Code": "135701",
+            "Name": "Salto",
+            "NameAr": "سالتو"
+        },
+        {
+            "Code": "106765",
+            "Name": "San Gregorio de Polanco",
+            "NameAr": "سان جريجوريو دي بولانكو"
+        },
+        {
+            "Code": "151832",
+            "Name": "San Jose De Mayo",
+            "NameAr": "سان جوسي دي مايو"
+        },
+        {
+            "Code": "103150",
+            "Name": "Santa Lucia",
+            "NameAr": "سانتا لوكيا"
+        },
+        {
+            "Code": "140268",
+            "Name": "Tacuarembo",
+            "NameAr": "تاكواريمبو"
+        },
+        {
+            "Code": "107773",
+            "Name": "Termas del Arapey",
+            "NameAr": "تيرماس ديل ارابيي"
+        },
+        {
+            "Code": "107091",
+            "Name": "Termas del Dayman",
+            "NameAr": "تيرماس ديل دايمان"
+        },
+        {
+            "Code": "107833",
+            "Name": "Trinidad",
+            "NameAr": "ترينيداد"
+        },
+        {
+            "Code": "107695",
+            "Name": "Villa Serrana",
+            "NameAr": "فيللا سيررانا"
+        }
+    ],
+    "totalCities": 50
+}

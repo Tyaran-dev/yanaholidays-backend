@@ -1,0 +1,82 @@
+{
+    "id": "DM",
+    "countryCode": "DM",
+    "cities": [
+        {
+            "Code": "110530",
+            "Name": "Batalie Beach",
+            "NameAr": "باتاليي بياكه"
+        },
+        {
+            "Code": "113053",
+            "Name": "Calibishie",
+            "NameAr": "كاليبيسهيي"
+        },
+        {
+            "Code": "105775",
+            "Name": "Delices",
+            "NameAr": "ديليكيس"
+        },
+        {
+            "Code": "144944",
+            "Name": "Dominica",
+            "NameAr": "دومينيكا"
+        },
+        {
+            "Code": "105824",
+            "Name": "Grand Bay",
+            "NameAr": "جراند باي"
+        },
+        {
+            "Code": "146074",
+            "Name": "La Plaine",
+            "NameAr": "لا بلايني"
+        },
+        {
+            "Code": "146504",
+            "Name": "Marigot",
+            "NameAr": "ماريجوت"
+        },
+        {
+            "Code": "127581",
+            "Name": "Mero",
+            "NameAr": "ميرو"
+        },
+        {
+            "Code": "103298",
+            "Name": "Pont Casse",
+            "NameAr": "بونت كاسسي"
+        },
+        {
+            "Code": "147321",
+            "Name": "Portsmouth",
+            "NameAr": "بورتسمووته"
+        },
+        {
+            "Code": "417107",
+            "Name": "Rosalie",
+            "NameAr": "روساليي"
+        },
+        {
+            "Code": "134469",
+            "Name": "Roseau",
+            "NameAr": "روسياو"
+        },
+        {
+            "Code": "102972",
+            "Name": "Saint Joseph",
+            "NameAr": "ساينت جوسيبه"
+        },
+        {
+            "Code": "134856",
+            "Name": "Salisbury",
+            "NameAr": "ساليسبوري"
+        },
+        {
+            "Code": "106913",
+            "Name": "Soufriere",
+            "NameAr": "سووفرييري"
+        }
+    ],
+    "totalCities": 15
+}

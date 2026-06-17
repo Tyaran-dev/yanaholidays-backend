@@ -1,0 +1,12 @@
+{
+    "id": "DJ",
+    "countryCode": "DJ",
+    "cities": [
+        {
+            "Code": "117000",
+            "Name": "Djibouti",
+            "NameAr": "دجيبووتي"
+        }
+    ],
+    "totalCities": 1
+}

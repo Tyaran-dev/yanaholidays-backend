@@ -1,0 +1,757 @@
+{
+    "id": "LK",
+    "countryCode": "LK",
+    "cities": [
+        {
+            "Code": "100262",
+            "Name": "Ahangama",
+            "NameAr": "اهانجاما"
+        },
+        {
+            "Code": "100151",
+            "Name": "Ahungalla",
+            "NameAr": "اهونجاللا"
+        },
+        {
+            "Code": "105075",
+            "Name": "Alawwa",
+            "NameAr": "الاووا"
+        },
+        {
+            "Code": "105081",
+            "Name": "Allaippiddi",
+            "NameAr": "اللايببيددي"
+        },
+        {
+            "Code": "100868",
+            "Name": "Aluthgama",
+            "NameAr": "الوتهجاما"
+        },
+        {
+            "Code": "100986",
+            "Name": "Ambalangoda",
+            "NameAr": "امبالانجودا"
+        },
+        {
+            "Code": "109111",
+            "Name": "Amitirigala",
+            "NameAr": "اميتيريجالا"
+        },
+        {
+            "Code": "109475",
+            "Name": "Anuradhapura",
+            "NameAr": "انورادهابورا"
+        },
+        {
+            "Code": "109882",
+            "Name": "Arugam",
+            "NameAr": "اروجام"
+        },
+        {
+            "Code": "101589",
+            "Name": "Badulla",
+            "NameAr": "بادوللا"
+        },
+        {
+            "Code": "110662",
+            "Name": "Balangoda",
+            "NameAr": "بالانجودا"
+        },
+        {
+            "Code": "144068",
+            "Name": "Balapitiya",
+            "NameAr": "بالابيتييا"
+        },
+        {
+            "Code": "110986",
+            "Name": "Bandarawela",
+            "NameAr": "بانداراويلا"
+        },
+        {
+            "Code": "150556",
+            "Name": "Batticaloa",
+            "NameAr": "باتتيكالوا"
+        },
+        {
+            "Code": "105392",
+            "Name": "Beliatta",
+            "NameAr": "بيلياتتا"
+        },
+        {
+            "Code": "110842",
+            "Name": "Belihuloya",
+            "NameAr": "بيليهولويا"
+        },
+        {
+            "Code": "144191",
+            "Name": "Bentota",
+            "NameAr": "بينتوتا"
+        },
+        {
+            "Code": "101314",
+            "Name": "Beruwala",
+            "NameAr": "بيرووالا"
+        },
+        {
+            "Code": "111549",
+            "Name": "Beruwela",
+            "NameAr": "بيروويلا"
+        },
+        {
+            "Code": "114746",
+            "Name": "Chilaw",
+            "NameAr": "كهيلاو"
+        },
+        {
+            "Code": "144745",
+            "Name": "Colombo",
+            "NameAr": "كولومبو"
+        },
+        {
+            "Code": "115185",
+            "Name": "Dambulla",
+            "NameAr": "دامبوللا"
+        },
+        {
+            "Code": "105475",
+            "Name": "Dankotuwa",
+            "NameAr": "دانكوتووا"
+        },
+        {
+            "Code": "106251",
+            "Name": "Dehiatthakandiya",
+            "NameAr": "ديهياتتهاكاندييا"
+        },
+        {
+            "Code": "116163",
+            "Name": "Dehiwala",
+            "NameAr": "ديهيوالا"
+        },
+        {
+            "Code": "115684",
+            "Name": "Deniyaya",
+            "NameAr": "دينييايا"
+        },
+        {
+            "Code": "106008",
+            "Name": "Dickoya",
+            "NameAr": "ديككويا"
+        },
+        {
+            "Code": "116305",
+            "Name": "Dickwella",
+            "NameAr": "ديككويللا"
+        },
+        {
+            "Code": "116093",
+            "Name": "Digampathaha",
+            "NameAr": "ديجامباتهاها"
+        },
+        {
+            "Code": "106009",
+            "Name": "Digana",
+            "NameAr": "ديجانا"
+        },
+        {
+            "Code": "106275",
+            "Name": "Ekamuthugama",
+            "NameAr": "يكاموتهوجاما"
+        },
+        {
+            "Code": "116828",
+            "Name": "Elkaduwa",
+            "NameAr": "يلكادووا"
+        },
+        {
+            "Code": "116830",
+            "Name": "Ella",
+            "NameAr": "يللا"
+        },
+        {
+            "Code": "101881",
+            "Name": "Elpitiya",
+            "NameAr": "يلبيتييا"
+        },
+        {
+            "Code": "117157",
+            "Name": "Embilipitiya",
+            "NameAr": "يمبيليبيتييا"
+        },
+        {
+            "Code": "118918",
+            "Name": "Gal Oya Nationalpark",
+            "NameAr": "جال ويا ناتيونالبارك"
+        },
+        {
+            "Code": "117988",
+            "Name": "Galle",
+            "NameAr": "جاللي"
+        },
+        {
+            "Code": "105808",
+            "Name": "Gampaha",
+            "NameAr": "جامباها"
+        },
+        {
+            "Code": "106104",
+            "Name": "Getambe",
+            "NameAr": "جيتامبي"
+        },
+        {
+            "Code": "119276",
+            "Name": "Giritale",
+            "NameAr": "جيريتالي"
+        },
+        {
+            "Code": "145490",
+            "Name": "Gurupokuna Hungama",
+            "NameAr": "جوروبوكونا هونجاما"
+        },
+        {
+            "Code": "120074",
+            "Name": "Habaraduwa",
+            "NameAr": "هابارادووا"
+        },
+        {
+            "Code": "120440",
+            "Name": "Habarana",
+            "NameAr": "هابارانا"
+        },
+        {
+            "Code": "121168",
+            "Name": "Hambantota",
+            "NameAr": "هامبانتوتا"
+        },
+        {
+            "Code": "392381",
+            "Name": "Hambantota District",
+            "NameAr": "هامبانتوتا ديستريكت"
+        },
+        {
+            "Code": "105839",
+            "Name": "Hanwella",
+            "NameAr": "هانويللا"
+        },
+        {
+            "Code": "120768",
+            "Name": "Haputale",
+            "NameAr": "هابوتالي"
+        },
+        {
+            "Code": "108290",
+            "Name": "Hatton",
+            "NameAr": "هاتتون"
+        },
+        {
+            "Code": "145614",
+            "Name": "Hikkaduwa",
+            "NameAr": "هيككادووا"
+        },
+        {
+            "Code": "355759",
+            "Name": "Hildummulla",
+            "NameAr": "هيلدومموللا"
+        },
+        {
+            "Code": "108295",
+            "Name": "Hilpankandura",
+            "NameAr": "هيلبانكاندورا"
+        },
+        {
+            "Code": "102440",
+            "Name": "Hingula",
+            "NameAr": "هينجولا"
+        },
+        {
+            "Code": "122111",
+            "Name": "Induruwa",
+            "NameAr": "يندورووا"
+        },
+        {
+            "Code": "101937",
+            "Name": "Ja-Ela",
+            "NameAr": "جا-يلا"
+        },
+        {
+            "Code": "123417",
+            "Name": "Jaffna",
+            "NameAr": "جاففنا"
+        },
+        {
+            "Code": "319468",
+            "Name": "Kadawatha",
+            "NameAr": "كاداواتها"
+        },
+        {
+            "Code": "108348",
+            "Name": "Kadugannawa",
+            "NameAr": "كادوجانناوا"
+        },
+        {
+            "Code": "123479",
+            "Name": "Kalamatiya",
+            "NameAr": "كالاماتييا"
+        },
+        {
+            "Code": "105631",
+            "Name": "Kalaoya",
+            "NameAr": "كالاويا"
+        },
+        {
+            "Code": "122910",
+            "Name": "Kalawana",
+            "NameAr": "كالاوانا"
+        },
+        {
+            "Code": "106172",
+            "Name": "Kalkudah",
+            "NameAr": "كالكوداه"
+        },
+        {
+            "Code": "108352",
+            "Name": "Kalmunai",
+            "NameAr": "كالموناي"
+        },
+        {
+            "Code": "145870",
+            "Name": "Kalpitiya",
+            "NameAr": "كالبيتييا"
+        },
+        {
+            "Code": "122518",
+            "Name": "Kalutara",
+            "NameAr": "كالوتارا"
+        },
+        {
+            "Code": "101946",
+            "Name": "Kamburugamuwa",
+            "NameAr": "كامبوروجامووا"
+        },
+        {
+            "Code": "122254",
+            "Name": "Kandy",
+            "NameAr": "كاندي"
+        },
+        {
+            "Code": "156025",
+            "Name": "Kandy District",
+            "NameAr": "كاندي ديستريكت"
+        },
+        {
+            "Code": "123105",
+            "Name": "Kataragama",
+            "NameAr": "كاتاراجاما"
+        },
+        {
+            "Code": "123113",
+            "Name": "Katunayaka",
+            "NameAr": "كاتوناياكا"
+        },
+        {
+            "Code": "310488",
+            "Name": "Kekirawa",
+            "NameAr": "كيكيراوا"
+        },
+        {
+            "Code": "101953",
+            "Name": "Kelaniya",
+            "NameAr": "كيلانييا"
+        },
+        {
+            "Code": "103712",
+            "Name": "Kesbewa",
+            "NameAr": "كيسبيوا"
+        },
+        {
+            "Code": "108372",
+            "Name": "Kiribathgoda",
+            "NameAr": "كيريباتهجودا"
+        },
+        {
+            "Code": "123579",
+            "Name": "Kirinda",
+            "NameAr": "كيريندا"
+        },
+        {
+            "Code": "145971",
+            "Name": "Kitulgala",
+            "NameAr": "كيتولجالا"
+        },
+        {
+            "Code": "103646",
+            "Name": "Kochchikade",
+            "NameAr": "كوكهكهيكادي"
+        },
+        {
+            "Code": "123870",
+            "Name": "Koggala",
+            "NameAr": "كوججالا"
+        },
+        {
+            "Code": "123889",
+            "Name": "Kosgoda",
+            "NameAr": "كوسجودا"
+        },
+        {
+            "Code": "124440",
+            "Name": "Kuchchaveli",
+            "NameAr": "كوكهكهافيلي"
+        },
+        {
+            "Code": "104131",
+            "Name": "Kumana National Park",
+            "NameAr": "كومانا ناتيونال بارك"
+        },
+        {
+            "Code": "104456",
+            "Name": "Liyanagemulla",
+            "NameAr": "ليياناجيموللا"
+        },
+        {
+            "Code": "146427",
+            "Name": "Mahiyanganaya",
+            "NameAr": "ماهييانجانايا"
+        },
+        {
+            "Code": "104025",
+            "Name": "Mannar",
+            "NameAr": "ماننار"
+        },
+        {
+            "Code": "126838",
+            "Name": "Marawila",
+            "NameAr": "ماراويلا"
+        },
+        {
+            "Code": "103804",
+            "Name": "Maskeliya",
+            "NameAr": "ماسكيلييا"
+        },
+        {
+            "Code": "104166",
+            "Name": "Matale",
+            "NameAr": "ماتالي"
+        },
+        {
+            "Code": "382018",
+            "Name": "Matale District",
+            "NameAr": "ماتالي ديستريكت"
+        },
+        {
+            "Code": "127025",
+            "Name": "Matara",
+            "NameAr": "ماتارا"
+        },
+        {
+            "Code": "103807",
+            "Name": "Matugama",
+            "NameAr": "ماتوجاما"
+        },
+        {
+            "Code": "104768",
+            "Name": "Melsiripura",
+            "NameAr": "ميلسيريبورا"
+        },
+        {
+            "Code": "104231",
+            "Name": "Minneriya",
+            "NameAr": "ميننيرييا"
+        },
+        {
+            "Code": "128254",
+            "Name": "Minuwangoda",
+            "NameAr": "مينووانجودا"
+        },
+        {
+            "Code": "127223",
+            "Name": "Mirissa",
+            "NameAr": "ميريسسا"
+        },
+        {
+            "Code": "156026",
+            "Name": "Monaragala",
+            "NameAr": "موناراجالا"
+        },
+        {
+            "Code": "128529",
+            "Name": "Moratuwa",
+            "NameAr": "موراتووا"
+        },
+        {
+            "Code": "129069",
+            "Name": "Mount Lavinia",
+            "NameAr": "موونت لافينيا"
+        },
+        {
+            "Code": "106536",
+            "Name": "Nainamadama",
+            "NameAr": "نايناماداما"
+        },
+        {
+            "Code": "104508",
+            "Name": "Nallathanniya",
+            "NameAr": "ناللاتهاننييا"
+        },
+        {
+            "Code": "146824",
+            "Name": "Nawala",
+            "NameAr": "ناوالا"
+        },
+        {
+            "Code": "128743",
+            "Name": "Negombo",
+            "NameAr": "نيجومبو"
+        },
+        {
+            "Code": "148865",
+            "Name": "Nigambo",
+            "NameAr": "نيجامبو"
+        },
+        {
+            "Code": "130481",
+            "Name": "Nilaveli",
+            "NameAr": "نيلافيلي"
+        },
+        {
+            "Code": "103026",
+            "Name": "Nochchiyagama",
+            "NameAr": "نوكهكهيياجاما"
+        },
+        {
+            "Code": "106552",
+            "Name": "Norochcholai",
+            "NameAr": "نوروكهكهولاي"
+        },
+        {
+            "Code": "131187",
+            "Name": "Nuwara Eliya",
+            "NameAr": "نووارا يلييا"
+        },
+        {
+            "Code": "130278",
+            "Name": "Ostkuste",
+            "NameAr": "وستكوستي"
+        },
+        {
+            "Code": "131001",
+            "Name": "Pamunugama",
+            "NameAr": "بامونوجاما"
+        },
+        {
+            "Code": "102082",
+            "Name": "Panadura",
+            "NameAr": "بانادورا"
+        },
+        {
+            "Code": "131438",
+            "Name": "Pannegamuwa",
+            "NameAr": "باننيجامووا"
+        },
+        {
+            "Code": "131464",
+            "Name": "Passekudah",
+            "NameAr": "باسسيكوداه"
+        },
+        {
+            "Code": "132508",
+            "Name": "Piliyandala",
+            "NameAr": "بيليياندالا"
+        },
+        {
+            "Code": "147202",
+            "Name": "Pinnawella",
+            "NameAr": "بينناويللا"
+        },
+        {
+            "Code": "106682",
+            "Name": "Pinwatta",
+            "NameAr": "بينواتتا"
+        },
+        {
+            "Code": "132284",
+            "Name": "Polonnaruwa",
+            "NameAr": "بولوننارووا"
+        },
+        {
+            "Code": "103451",
+            "Name": "Pottuvil",
+            "NameAr": "بوتتوفيل"
+        },
+        {
+            "Code": "103466",
+            "Name": "Puttalam",
+            "NameAr": "بوتتالام"
+        },
+        {
+            "Code": "102793",
+            "Name": "Ragama",
+            "NameAr": "راجاما"
+        },
+        {
+            "Code": "102944",
+            "Name": "Rathgama",
+            "NameAr": "راتهجاما"
+        },
+        {
+            "Code": "133848",
+            "Name": "Ratnapura",
+            "NameAr": "راتنابورا"
+        },
+        {
+            "Code": "147838",
+            "Name": "Seeduwa",
+            "NameAr": "سييدووا"
+        },
+        {
+            "Code": "137460",
+            "Name": "Sigiriya",
+            "NameAr": "سيجيرييا"
+        },
+        {
+            "Code": "106920",
+            "Name": "Sri Jayewardenepura Kotte/ Kotte",
+            "NameAr": "سري جاييواردينيبورا كوتتي كوتتي"
+        },
+        {
+            "Code": "107277",
+            "Name": "Suriyakanda",
+            "NameAr": "سوريياكاندا"
+        },
+        {
+            "Code": "139008",
+            "Name": "Talalla",
+            "NameAr": "تالاللا"
+        },
+        {
+            "Code": "148146",
+            "Name": "Tanamalwila",
+            "NameAr": "تانامالويلا"
+        },
+        {
+            "Code": "140298",
+            "Name": "Tangalle",
+            "NameAr": "تانجاللي"
+        },
+        {
+            "Code": "107168",
+            "Name": "Thalawathugoda",
+            "NameAr": "تهالاواتهوجودا"
+        },
+        {
+            "Code": "139738",
+            "Name": "Thalpe",
+            "NameAr": "تهالبي"
+        },
+        {
+            "Code": "140450",
+            "Name": "Tissamaharama",
+            "NameAr": "تيسساماهاراما"
+        },
+        {
+            "Code": "140373",
+            "Name": "Trincomalee",
+            "NameAr": "ترينكوماليي"
+        },
+        {
+            "Code": "140100",
+            "Name": "Udawalawe",
+            "NameAr": "وداوالاوي"
+        },
+        {
+            "Code": "107657",
+            "Name": "Udawela",
+            "NameAr": "وداويلا"
+        },
+        {
+            "Code": "140541",
+            "Name": "Unawatuna",
+            "NameAr": "وناواتونا"
+        },
+        {
+            "Code": "107449",
+            "Name": "Uppuveli",
+            "NameAr": "وببوفيلي"
+        },
+        {
+            "Code": "107682",
+            "Name": "Vavuniya",
+            "NameAr": "فافونييا"
+        },
+        {
+            "Code": "106889",
+            "Name": "Veyangoda",
+            "NameAr": "فييانجودا"
+        },
+        {
+            "Code": "143223",
+            "Name": "Wadduwa",
+            "NameAr": "واددووا"
+        },
+        {
+            "Code": "107486",
+            "Name": "Waga",
+            "NameAr": "واجا"
+        },
+        {
+            "Code": "141403",
+            "Name": "Waikkal",
+            "NameAr": "وايككال"
+        },
+        {
+            "Code": "107488",
+            "Name": "Walapane",
+            "NameAr": "والاباني"
+        },
+        {
+            "Code": "143240",
+            "Name": "Walawe Ganga",
+            "NameAr": "والاوي جانجا"
+        },
+        {
+            "Code": "143258",
+            "Name": "Warakapola",
+            "NameAr": "واراكابولا"
+        },
+        {
+            "Code": "148899",
+            "Name": "Waskaduwa",
+            "NameAr": "واسكادووا"
+        },
+        {
+            "Code": "141656",
+            "Name": "Wattala",
+            "NameAr": "واتتالا"
+        },
+        {
+            "Code": "107986",
+            "Name": "Watthegama",
+            "NameAr": "واتتهيجاما"
+        },
+        {
+            "Code": "107397",
+            "Name": "Weerawila",
+            "NameAr": "وييراويلا"
+        },
+        {
+            "Code": "142648",
+            "Name": "Weligama",
+            "NameAr": "ويليجاما"
+        },
+        {
+            "Code": "389679",
+            "Name": "Welimada",
+            "NameAr": "ويليمادا"
+        },
+        {
+            "Code": "142450",
+            "Name": "Yala",
+            "NameAr": "يالا"
+        },
+        {
+            "Code": "148759",
+            "Name": "Yapahuwa",
+            "NameAr": "ياباهووا"
+        }
+    ],
+    "totalCities": 150
+}

@@ -1,0 +1,32 @@
+{
+    "id": "LY",
+    "countryCode": "LY",
+    "cities": [
+        {
+            "Code": "110592",
+            "Name": "Bengasi",
+            "NameAr": "بينجاسي"
+        },
+        {
+            "Code": "150399",
+            "Name": "Elmarj City",
+            "NameAr": "يلمارج كيتي"
+        },
+        {
+            "Code": "135801",
+            "Name": "Sabha",
+            "NameAr": "سابها"
+        },
+        {
+            "Code": "135233",
+            "Name": "Sabratha",
+            "NameAr": "سابراتها"
+        },
+        {
+            "Code": "140649",
+            "Name": "Tripoli",
+            "NameAr": "تريبولي"
+        }
+    ],
+    "totalCities": 5
+}

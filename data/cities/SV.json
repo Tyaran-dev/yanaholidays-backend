@@ -1,0 +1,127 @@
+{
+    "id": "SV",
+    "countryCode": "SV",
+    "cities": [
+        {
+            "Code": "100651",
+            "Name": "Acajutla",
+            "NameAr": "اكاجوتلا"
+        },
+        {
+            "Code": "101336",
+            "Name": "Ahuachapan",
+            "NameAr": "اهواكهابان"
+        },
+        {
+            "Code": "109354",
+            "Name": "Antiguo Cuscatlan",
+            "NameAr": "انتيجوو كوسكاتلان"
+        },
+        {
+            "Code": "104721",
+            "Name": "Apaneca",
+            "NameAr": "ابانيكا"
+        },
+        {
+            "Code": "115485",
+            "Name": "Concepcion de Ataco",
+            "NameAr": "كونكيبكيون دي اتاكو"
+        },
+        {
+            "Code": "105275",
+            "Name": "Conchagua",
+            "NameAr": "كونكهاجوا"
+        },
+        {
+            "Code": "122787",
+            "Name": "Juayua",
+            "NameAr": "جوايوا"
+        },
+        {
+            "Code": "124462",
+            "Name": "La Barra de Santiago",
+            "NameAr": "لا باررا دي سانتياجو"
+        },
+        {
+            "Code": "125709",
+            "Name": "La Herradura",
+            "NameAr": "لا هيررادورا"
+        },
+        {
+            "Code": "124479",
+            "Name": "La Libertad",
+            "NameAr": "لا ليبيرتاد"
+        },
+        {
+            "Code": "387108",
+            "Name": "La Paz Department",
+            "NameAr": "لا باز ديبارتمينت"
+        },
+        {
+            "Code": "124368",
+            "Name": "La Union",
+            "NameAr": "لا ونيون"
+        },
+        {
+            "Code": "102752",
+            "Name": "Perquin",
+            "NameAr": "بيرقوين"
+        },
+        {
+            "Code": "132206",
+            "Name": "Playa Las Hojas",
+            "NameAr": "بلايا لاس هوجاس"
+        },
+        {
+            "Code": "132847",
+            "Name": "Playa Sunzal",
+            "NameAr": "بلايا سونزال"
+        },
+        {
+            "Code": "134855",
+            "Name": "Salinitas",
+            "NameAr": "سالينيتاس"
+        },
+        {
+            "Code": "103504",
+            "Name": "San Luis Talpa",
+            "NameAr": "سان لويس تالبا"
+        },
+        {
+            "Code": "136333",
+            "Name": "San Miguel",
+            "NameAr": "سان ميجويل"
+        },
+        {
+            "Code": "147713",
+            "Name": "San Salvador",
+            "NameAr": "سان سالفادور"
+        },
+        {
+            "Code": "136842",
+            "Name": "Santa Ana",
+            "NameAr": "سانتا انا"
+        },
+        {
+            "Code": "107035",
+            "Name": "Santa Tecla",
+            "NameAr": "سانتا تيكلا"
+        },
+        {
+            "Code": "106659",
+            "Name": "Sonzacate",
+            "NameAr": "سونزاكاتي"
+        },
+        {
+            "Code": "148093",
+            "Name": "Suchitoto",
+            "NameAr": "سوكهيتوتو"
+        },
+        {
+            "Code": "140140",
+            "Name": "Usulutan",
+            "NameAr": "وسولوتان"
+        }
+    ],
+    "totalCities": 24
+}

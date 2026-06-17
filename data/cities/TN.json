@@ -1,0 +1,257 @@
+{
+    "id": "TN",
+    "countryCode": "TN",
+    "cities": [
+        {
+            "Code": "100244",
+            "Name": "Aghir",
+            "NameAr": "اجهير"
+        },
+        {
+            "Code": "100801",
+            "Name": "Ain Draham",
+            "NameAr": "اين دراهام"
+        },
+        {
+            "Code": "109392",
+            "Name": "Ariana",
+            "NameAr": "اريانا"
+        },
+        {
+            "Code": "144253",
+            "Name": "Bir El Bey",
+            "NameAr": "بير يل بيي"
+        },
+        {
+            "Code": "111723",
+            "Name": "Biserta",
+            "NameAr": "بيسيرتا"
+        },
+        {
+            "Code": "111321",
+            "Name": "Bizerte",
+            "NameAr": "بيزيرتي"
+        },
+        {
+            "Code": "113528",
+            "Name": "Carthage",
+            "NameAr": "كارتهاجي"
+        },
+        {
+            "Code": "114073",
+            "Name": "Cedria Beach",
+            "NameAr": "كيدريا بياكه"
+        },
+        {
+            "Code": "114815",
+            "Name": "Chott Meriem",
+            "NameAr": "كهوتت ميرييم"
+        },
+        {
+            "Code": "116361",
+            "Name": "Djerba Island",
+            "NameAr": "دجيربا يسلاند"
+        },
+        {
+            "Code": "268642",
+            "Name": "Djerba Midun",
+            "NameAr": "دجيربا ميدون"
+        },
+        {
+            "Code": "117020",
+            "Name": "Douz",
+            "NameAr": "دووز"
+        },
+        {
+            "Code": "118043",
+            "Name": "El Haouaria",
+            "NameAr": "يل هاوواريا"
+        },
+        {
+            "Code": "117445",
+            "Name": "El Kef",
+            "NameAr": "يل كيف"
+        },
+        {
+            "Code": "145138",
+            "Name": "Ez Zahra",
+            "NameAr": "يز زاهرا"
+        },
+        {
+            "Code": "117978",
+            "Name": "Gabes",
+            "NameAr": "جابيس"
+        },
+        {
+            "Code": "118661",
+            "Name": "Gafsa",
+            "NameAr": "جافسا"
+        },
+        {
+            "Code": "117991",
+            "Name": "Gammarth",
+            "NameAr": "جاممارته"
+        },
+        {
+            "Code": "145524",
+            "Name": "Hammamet",
+            "NameAr": "هامماميت"
+        },
+        {
+            "Code": "121014",
+            "Name": "Houmt Souk",
+            "NameAr": "هوومت سووك"
+        },
+        {
+            "Code": "122383",
+            "Name": "Kairouan",
+            "NameAr": "كايرووان"
+        },
+        {
+            "Code": "145908",
+            "Name": "Kebili",
+            "NameAr": "كيبيلي"
+        },
+        {
+            "Code": "122552",
+            "Name": "Kelibia",
+            "NameAr": "كيليبيا"
+        },
+        {
+            "Code": "124437",
+            "Name": "Ksar Ghilane",
+            "NameAr": "كسار جهيلاني"
+        },
+        {
+            "Code": "417567",
+            "Name": "La Goulette",
+            "NameAr": "لا جووليتتي"
+        },
+        {
+            "Code": "146070",
+            "Name": "La Marsa",
+            "NameAr": "لا مارسا"
+        },
+        {
+            "Code": "412348",
+            "Name": "Le Kram",
+            "NameAr": "لي كرام"
+        },
+        {
+            "Code": "126766",
+            "Name": "Mahdia",
+            "NameAr": "ماهديا"
+        },
+        {
+            "Code": "126465",
+            "Name": "Matmata",
+            "NameAr": "ماتماتا"
+        },
+        {
+            "Code": "126918",
+            "Name": "Medenine",
+            "NameAr": "ميدينيني"
+        },
+        {
+            "Code": "128590",
+            "Name": "Midoun",
+            "NameAr": "ميدوون"
+        },
+        {
+            "Code": "128905",
+            "Name": "Monastir",
+            "NameAr": "موناستير"
+        },
+        {
+            "Code": "129444",
+            "Name": "Nabeul",
+            "NameAr": "نابيول"
+        },
+        {
+            "Code": "146830",
+            "Name": "Nefta",
+            "NameAr": "نيفتا"
+        },
+        {
+            "Code": "104368",
+            "Name": "Nefza",
+            "NameAr": "نيفزا"
+        },
+        {
+            "Code": "131831",
+            "Name": "Port el Kantaoui",
+            "NameAr": "بورت يل كانتاووي"
+        },
+        {
+            "Code": "132612",
+            "Name": "Qurba",
+            "NameAr": "قوربا"
+        },
+        {
+            "Code": "136787",
+            "Name": "Sfax",
+            "NameAr": "سفاكس"
+        },
+        {
+            "Code": "138683",
+            "Name": "Sidi Bou Said",
+            "NameAr": "سيدي بوو سايد"
+        },
+        {
+            "Code": "137325",
+            "Name": "Sidi Mahrez Beach",
+            "NameAr": "سيدي ماهريز بياكه"
+        },
+        {
+            "Code": "137484",
+            "Name": "Skanes",
+            "NameAr": "سكانيس"
+        },
+        {
+            "Code": "137662",
+            "Name": "Soliman",
+            "NameAr": "سوليمان"
+        },
+        {
+            "Code": "138067",
+            "Name": "Sousse",
+            "NameAr": "سووسسي"
+        },
+        {
+            "Code": "140266",
+            "Name": "Tabarka",
+            "NameAr": "تاباركا"
+        },
+        {
+            "Code": "139909",
+            "Name": "Tamerza",
+            "NameAr": "تاميرزا"
+        },
+        {
+            "Code": "139693",
+            "Name": "Tataouine",
+            "NameAr": "تاتاوويني"
+        },
+        {
+            "Code": "141768",
+            "Name": "Tozeur",
+            "NameAr": "توزيور"
+        },
+        {
+            "Code": "141525",
+            "Name": "Tunis",
+            "NameAr": "تونيس"
+        },
+        {
+            "Code": "120598",
+            "Name": "Yasmine Hammamet",
+            "NameAr": "ياسميني هامماميت"
+        },
+        {
+            "Code": "142934",
+            "Name": "Zarzis",
+            "NameAr": "زارزيس"
+        }
+    ],
+    "totalCities": 50
+}

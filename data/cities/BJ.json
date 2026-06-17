@@ -1,0 +1,32 @@
+{
+    "id": "BJ",
+    "countryCode": "BJ",
+    "cities": [
+        {
+            "Code": "294691",
+            "Name": "Abomey-Calavi",
+            "NameAr": "ابوميي-كالافي"
+        },
+        {
+            "Code": "115045",
+            "Name": "Cotonou",
+            "NameAr": "كوتونوو"
+        },
+        {
+            "Code": "149672",
+            "Name": "Grand Popo",
+            "NameAr": "جراند بوبو"
+        },
+        {
+            "Code": "130371",
+            "Name": "Natitingou",
+            "NameAr": "ناتيتينجوو"
+        },
+        {
+            "Code": "131974",
+            "Name": "Ouidah",
+            "NameAr": "وويداه"
+        }
+    ],
+    "totalCities": 5
+}

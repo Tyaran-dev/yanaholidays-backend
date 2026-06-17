@@ -1,0 +1,2267 @@
+{
+    "id": "MX",
+    "countryCode": "MX",
+    "cities": [
+        {
+            "Code": "100444",
+            "Name": "Acapulco,   Guerrero",
+            "NameAr": "اكابولكو جويرريرو"
+        },
+        {
+            "Code": "104976",
+            "Name": "Acayucan",
+            "NameAr": "اكايوكان"
+        },
+        {
+            "Code": "100233",
+            "Name": "Actopan",
+            "NameAr": "اكتوبان"
+        },
+        {
+            "Code": "100052",
+            "Name": "Aguascalientes",
+            "NameAr": "اجواسكاليينتيس"
+        },
+        {
+            "Code": "100062",
+            "Name": "Ahualulco de Mercado",
+            "NameAr": "اهوالولكو دي ميركادو"
+        },
+        {
+            "Code": "100606",
+            "Name": "Ajijic",
+            "NameAr": "اجيجيك"
+        },
+        {
+            "Code": "100608",
+            "Name": "Akumal,   Quintana Roo",
+            "NameAr": "اكومال قوينتانا روو"
+        },
+        {
+            "Code": "100814",
+            "Name": "Alamos",
+            "NameAr": "الاموس"
+        },
+        {
+            "Code": "154953",
+            "Name": "Altamira",
+            "NameAr": "التاميرا"
+        },
+        {
+            "Code": "279526",
+            "Name": "Alvaro Obregon",
+            "NameAr": "الفارو وبريجون"
+        },
+        {
+            "Code": "100987",
+            "Name": "Amealco",
+            "NameAr": "اميالكو"
+        },
+        {
+            "Code": "101563",
+            "Name": "Angangueo",
+            "NameAr": "انجانجويو"
+        },
+        {
+            "Code": "109356",
+            "Name": "Anton Lizardo",
+            "NameAr": "انتون ليزاردو"
+        },
+        {
+            "Code": "109147",
+            "Name": "Apizaco",
+            "NameAr": "ابيزاكو"
+        },
+        {
+            "Code": "109148",
+            "Name": "Apodaca,   Nuevo Leon",
+            "NameAr": "ابوداكا نويفو ليون"
+        },
+        {
+            "Code": "102169",
+            "Name": "Arandas",
+            "NameAr": "ارانداس"
+        },
+        {
+            "Code": "105004",
+            "Name": "Areponapuchic",
+            "NameAr": "اريبونابوكهيك"
+        },
+        {
+            "Code": "109964",
+            "Name": "Armeria",
+            "NameAr": "ارميريا"
+        },
+        {
+            "Code": "101069",
+            "Name": "Arroyo Seco",
+            "NameAr": "اررويو سيكو"
+        },
+        {
+            "Code": "100961",
+            "Name": "Arteaga",
+            "NameAr": "ارتياجا"
+        },
+        {
+            "Code": "101469",
+            "Name": "Asuncion Nochixtlan",
+            "NameAr": "اسونكيون نوكهيكستلان"
+        },
+        {
+            "Code": "280331",
+            "Name": "Atemajac de Brizuela",
+            "NameAr": "اتيماجاك دي بريزويلا"
+        },
+        {
+            "Code": "109903",
+            "Name": "Atlacomulco de Fabela",
+            "NameAr": "اتلاكومولكو دي فابيلا"
+        },
+        {
+            "Code": "143985",
+            "Name": "Atlixco",
+            "NameAr": "اتليكسكو"
+        },
+        {
+            "Code": "110106",
+            "Name": "Ayapango",
+            "NameAr": "ايابانجو"
+        },
+        {
+            "Code": "110109",
+            "Name": "Ayutla",
+            "NameAr": "ايوتلا"
+        },
+        {
+            "Code": "110048",
+            "Name": "Bacalar,   Quintana Roo",
+            "NameAr": "باكالار قوينتانا روو"
+        },
+        {
+            "Code": "101657",
+            "Name": "Bahia de Kino",
+            "NameAr": "باهيا دي كينو"
+        },
+        {
+            "Code": "101591",
+            "Name": "Bahias de Huatulco",
+            "NameAr": "باهياس دي هواتولكو"
+        },
+        {
+            "Code": "102194",
+            "Name": "Banderilla",
+            "NameAr": "بانديريللا"
+        },
+        {
+            "Code": "102113",
+            "Name": "Barra de Navidad,   Riviera Nayarit",
+            "NameAr": "باررا دي نافيداد ريفييرا ناياريت"
+        },
+        {
+            "Code": "105033",
+            "Name": "Batopilas",
+            "NameAr": "باتوبيلاس"
+        },
+        {
+            "Code": "144208",
+            "Name": "Bernal",
+            "NameAr": "بيرنال"
+        },
+        {
+            "Code": "111248",
+            "Name": "Boca de la Vinorama",
+            "NameAr": "بوكا دي لا فينوراما"
+        },
+        {
+            "Code": "144293",
+            "Name": "Boca del Rio",
+            "NameAr": "بوكا ديل ريو"
+        },
+        {
+            "Code": "112147",
+            "Name": "Bucerias",
+            "NameAr": "بوكيرياس"
+        },
+        {
+            "Code": "112602",
+            "Name": "Buena Vista",
+            "NameAr": "بوينا فيستا"
+        },
+        {
+            "Code": "113244",
+            "Name": "Cabo San Lucas,   Baja California Sur",
+            "NameAr": "كابو سان لوكاس باجا كاليفورنيا سور"
+        },
+        {
+            "Code": "292791",
+            "Name": "Cadereyta de Montes",
+            "NameAr": "كاديرييتا دي مونتيس"
+        },
+        {
+            "Code": "104884",
+            "Name": "Cadereyta Jimenez",
+            "NameAr": "كاديرييتا جيمينيز"
+        },
+        {
+            "Code": "417389",
+            "Name": "Caleta de Campos",
+            "NameAr": "كاليتا دي كامبوس"
+        },
+        {
+            "Code": "104888",
+            "Name": "Calvillo",
+            "NameAr": "كالفيللو"
+        },
+        {
+            "Code": "113729",
+            "Name": "Campeche",
+            "NameAr": "كامبيكهي"
+        },
+        {
+            "Code": "112815",
+            "Name": "Cananea",
+            "NameAr": "كانانيا"
+        },
+        {
+            "Code": "113162",
+            "Name": "Cancun,   Quintana Roo",
+            "NameAr": "كانكون قوينتانا روو"
+        },
+        {
+            "Code": "161019",
+            "Name": "Cancun Airport CUN,,   Quintana Roo",
+            "NameAr": "كانكون ايربورت كون قوينتانا روو"
+        },
+        {
+            "Code": "161017",
+            "Name": "Cancun Downtown,   Quintana Roo",
+            "NameAr": "كانكون دوونتوون قوينتانا روو"
+        },
+        {
+            "Code": "161018",
+            "Name": "Cancun Hotel Zone,   Quintana Roo",
+            "NameAr": "كانكون هوتيل زوني قوينتانا روو"
+        },
+        {
+            "Code": "108106",
+            "Name": "Candelaria",
+            "NameAr": "كانديلاريا"
+        },
+        {
+            "Code": "114887",
+            "Name": "Catavina",
+            "NameAr": "كاتافينا"
+        },
+        {
+            "Code": "113911",
+            "Name": "Catemaco",
+            "NameAr": "كاتيماكو"
+        },
+        {
+            "Code": "114676",
+            "Name": "Celaya",
+            "NameAr": "كيلايا"
+        },
+        {
+            "Code": "114677",
+            "Name": "Celestun,   Merida",
+            "NameAr": "كيليستون ميريدا"
+        },
+        {
+            "Code": "114687",
+            "Name": "Cerocahui",
+            "NameAr": "كيروكاهوي"
+        },
+        {
+            "Code": "101407",
+            "Name": "Chacala",
+            "NameAr": "كهاكالا"
+        },
+        {
+            "Code": "113602",
+            "Name": "Chamela",
+            "NameAr": "كهاميلا"
+        },
+        {
+            "Code": "105367",
+            "Name": "Champoton",
+            "NameAr": "كهامبوتون"
+        },
+        {
+            "Code": "104915",
+            "Name": "Chapala",
+            "NameAr": "كهابالا"
+        },
+        {
+            "Code": "144663",
+            "Name": "Chetumal,   Quintana Roo",
+            "NameAr": "كهيتومال قوينتانا روو"
+        },
+        {
+            "Code": "114650",
+            "Name": "Chiapa de Corzo",
+            "NameAr": "كهيابا دي كورزو"
+        },
+        {
+            "Code": "154819",
+            "Name": "Chiapas",
+            "NameAr": "كهياباس"
+        },
+        {
+            "Code": "114791",
+            "Name": "Chicanna",
+            "NameAr": "كهيكاننا"
+        },
+        {
+            "Code": "114354",
+            "Name": "Chichen Itza,   Yucatan",
+            "NameAr": "كهيكهين يتزا يوكاتان"
+        },
+        {
+            "Code": "144669",
+            "Name": "Chiconcuac",
+            "NameAr": "كهيكونكواك"
+        },
+        {
+            "Code": "105442",
+            "Name": "Chignahuapan",
+            "NameAr": "كهيجناهوابان"
+        },
+        {
+            "Code": "114355",
+            "Name": "Chihuahua,   Chihuahua",
+            "NameAr": "كهيهواهوا كهيهواهوا"
+        },
+        {
+            "Code": "114535",
+            "Name": "Chilpancingo,   Guerrero,",
+            "NameAr": "كهيلبانكينجو جويرريرو"
+        },
+        {
+            "Code": "114542",
+            "Name": "Chivato",
+            "NameAr": "كهيفاتو"
+        },
+        {
+            "Code": "102271",
+            "Name": "Choix",
+            "NameAr": "كهويكس"
+        },
+        {
+            "Code": "115323",
+            "Name": "Cholula",
+            "NameAr": "كهولولا"
+        },
+        {
+            "Code": "114557",
+            "Name": "Cihuatlan",
+            "NameAr": "كيهواتلان"
+        },
+        {
+            "Code": "115337",
+            "Name": "Ciudad Acuna",
+            "NameAr": "كيوداد اكونا"
+        },
+        {
+            "Code": "114376",
+            "Name": "Ciudad Constitucion",
+            "NameAr": "كيوداد كونستيتوكيون"
+        },
+        {
+            "Code": "114835",
+            "Name": "Ciudad Cuauhtemoc",
+            "NameAr": "كيوداد كواوهتيموك"
+        },
+        {
+            "Code": "115220",
+            "Name": "Ciudad del Carmen",
+            "NameAr": "كيوداد ديل كارمين"
+        },
+        {
+            "Code": "106220",
+            "Name": "Ciudad Fernandez",
+            "NameAr": "كيوداد فيرنانديز"
+        },
+        {
+            "Code": "106294",
+            "Name": "Ciudad Guzman",
+            "NameAr": "كيوداد جوزمان"
+        },
+        {
+            "Code": "144701",
+            "Name": "Ciudad Hidalgo",
+            "NameAr": "كيوداد هيدالجو"
+        },
+        {
+            "Code": "114291",
+            "Name": "Ciudad Juarez,   Chihuahua",
+            "NameAr": "كيوداد جواريز كهيهواهوا"
+        },
+        {
+            "Code": "108151",
+            "Name": "Ciudad Madero",
+            "NameAr": "كيوداد ماديرو"
+        },
+        {
+            "Code": "150571",
+            "Name": "Ciudad Mante",
+            "NameAr": "كيوداد مانتي"
+        },
+        {
+            "Code": "114292",
+            "Name": "Ciudad Obregon",
+            "NameAr": "كيوداد وبريجون"
+        },
+        {
+            "Code": "144703",
+            "Name": "Ciudad Valles",
+            "NameAr": "كيوداد فالليس"
+        },
+        {
+            "Code": "144704",
+            "Name": "Ciudad Victoria",
+            "NameAr": "كيوداد فيكتوريا"
+        },
+        {
+            "Code": "115358",
+            "Name": "Coatepec",
+            "NameAr": "كواتيبيك"
+        },
+        {
+            "Code": "114859",
+            "Name": "Coatzacoalcos",
+            "NameAr": "كواتزاكوالكوس"
+        },
+        {
+            "Code": "115359",
+            "Name": "Coba,   Quintana Roo",
+            "NameAr": "كوبا قوينتانا روو"
+        },
+        {
+            "Code": "114861",
+            "Name": "Cocoyoc",
+            "NameAr": "كوكويوك"
+        },
+        {
+            "Code": "114870",
+            "Name": "Colima",
+            "NameAr": "كوليما"
+        },
+        {
+            "Code": "105455",
+            "Name": "Comala",
+            "NameAr": "كومالا"
+        },
+        {
+            "Code": "105979",
+            "Name": "Comitan",
+            "NameAr": "كوميتان"
+        },
+        {
+            "Code": "115482",
+            "Name": "Comitan De Dominguez",
+            "NameAr": "كوميتان دي دومينجويز"
+        },
+        {
+            "Code": "154777",
+            "Name": "Compostela",
+            "NameAr": "كومبوستيلا"
+        },
+        {
+            "Code": "108160",
+            "Name": "Concepcion de Buenos Aires,   Jalisco",
+            "NameAr": "كونكيبكيون دي بوينوس ايريس جاليسكو"
+        },
+        {
+            "Code": "102288",
+            "Name": "Copala",
+            "NameAr": "كوبالا"
+        },
+        {
+            "Code": "115283",
+            "Name": "Copper Canyon",
+            "NameAr": "كوببير كانيون"
+        },
+        {
+            "Code": "115502",
+            "Name": "Cordoba",
+            "NameAr": "كوردوبا"
+        },
+        {
+            "Code": "115430",
+            "Name": "Cosala",
+            "NameAr": "كوسالا"
+        },
+        {
+            "Code": "154784",
+            "Name": "Cosamaloapan de Carpio",
+            "NameAr": "كوسامالوابان دي كاربيو"
+        },
+        {
+            "Code": "105461",
+            "Name": "Coscomatepec de Bravo",
+            "NameAr": "كوسكوماتيبيك دي برافو"
+        },
+        {
+            "Code": "115040",
+            "Name": "Costa Alegre",
+            "NameAr": "كوستا اليجري"
+        },
+        {
+            "Code": "115041",
+            "Name": "Costa Banderas",
+            "NameAr": "كوستا بانديراس"
+        },
+        {
+            "Code": "115119",
+            "Name": "Costa Careyes",
+            "NameAr": "كوستا كاريييس"
+        },
+        {
+            "Code": "108167",
+            "Name": "Coyuca de Benitez",
+            "NameAr": "كويوكا دي بينيتيز"
+        },
+        {
+            "Code": "122303",
+            "Name": "Cozumel,   Quintana Roo",
+            "NameAr": "كوزوميل قوينتانا روو"
+        },
+        {
+            "Code": "116096",
+            "Name": "Creel",
+            "NameAr": "كرييل"
+        },
+        {
+            "Code": "116586",
+            "Name": "Crucecitas",
+            "NameAr": "كروكيكيتاس"
+        },
+        {
+            "Code": "102297",
+            "Name": "Cuatro Cienegas",
+            "NameAr": "كواترو كيينيجاس"
+        },
+        {
+            "Code": "104931",
+            "Name": "Cuatunalco",
+            "NameAr": "كواتونالكو"
+        },
+        {
+            "Code": "292884",
+            "Name": "Cuauhtemoc",
+            "NameAr": "كواوهتيموك"
+        },
+        {
+            "Code": "154816",
+            "Name": "Cuautitlán",
+            "NameAr": "كواوتيتل ن"
+        },
+        {
+            "Code": "116110",
+            "Name": "Cuautitlan Izcalli,   Mexico",
+            "NameAr": "كواوتيتلان يزكاللي ميكسيكو"
+        },
+        {
+            "Code": "105989",
+            "Name": "Cuautla",
+            "NameAr": "كواوتلا"
+        },
+        {
+            "Code": "245272",
+            "Name": "Cuautlancingo",
+            "NameAr": "كواوتلانكينجو"
+        },
+        {
+            "Code": "115157",
+            "Name": "Cuernavaca",
+            "NameAr": "كويرنافاكا"
+        },
+        {
+            "Code": "105470",
+            "Name": "Cuetzalan del Progreso",
+            "NameAr": "كويتزالان ديل بروجريسو"
+        },
+        {
+            "Code": "116592",
+            "Name": "Culiacan,   Sinaloa",
+            "NameAr": "كولياكان سينالوا"
+        },
+        {
+            "Code": "144895",
+            "Name": "Delicias",
+            "NameAr": "ديليكياس"
+        },
+        {
+            "Code": "117004",
+            "Name": "Dolores Hidalgo",
+            "NameAr": "دولوريس هيدالجو"
+        },
+        {
+            "Code": "116718",
+            "Name": "Durango,   Durango",
+            "NameAr": "دورانجو دورانجو"
+        },
+        {
+            "Code": "115968",
+            "Name": "Dzidzantun",
+            "NameAr": "دزيدزانتون"
+        },
+        {
+            "Code": "151854",
+            "Name": "Ecatepec de Morelos",
+            "NameAr": "يكاتيبيك دي موريلوس"
+        },
+        {
+            "Code": "105799",
+            "Name": "Ekmul",
+            "NameAr": "يكمول"
+        },
+        {
+            "Code": "105508",
+            "Name": "El Cardonal",
+            "NameAr": "يل كاردونال"
+        },
+        {
+            "Code": "116768",
+            "Name": "El Cercado",
+            "NameAr": "يل كيركادو"
+        },
+        {
+            "Code": "105801",
+            "Name": "El Coacoyul",
+            "NameAr": "يل كواكويول"
+        },
+        {
+            "Code": "145055",
+            "Name": "El Fuerte",
+            "NameAr": "يل فويرتي"
+        },
+        {
+            "Code": "102331",
+            "Name": "El Pescadero",
+            "NameAr": "يل بيسكاديرو"
+        },
+        {
+            "Code": "117700",
+            "Name": "Ensenada,   Baja California Norte",
+            "NameAr": "ينسينادا باجا كاليفورنيا نورتي"
+        },
+        {
+            "Code": "102371",
+            "Name": "Ensenada Los Muertos",
+            "NameAr": "ينسينادا لوس مويرتوس"
+        },
+        {
+            "Code": "102374",
+            "Name": "Erongaricuaro",
+            "NameAr": "يرونجاريكوارو"
+        },
+        {
+            "Code": "105423",
+            "Name": "Felipe Carrillo Puerto",
+            "NameAr": "فيليبي كارريللو بويرتو"
+        },
+        {
+            "Code": "102234",
+            "Name": "Fortin de las Flores",
+            "NameAr": "فورتين دي لاس فلوريس"
+        },
+        {
+            "Code": "145272",
+            "Name": "Fresnillo",
+            "NameAr": "فريسنيللو"
+        },
+        {
+            "Code": "118527",
+            "Name": "Frontera Corozal",
+            "NameAr": "فرونتيرا كوروزال"
+        },
+        {
+            "Code": "150279",
+            "Name": "Garza Garcia,   Nuevo Leon",
+            "NameAr": "جارزا جاركيا نويفو ليون"
+        },
+        {
+            "Code": "108252",
+            "Name": "General Cepeda",
+            "NameAr": "جينيرال كيبيدا"
+        },
+        {
+            "Code": "119817",
+            "Name": "Gomez Palacio,   Durango",
+            "NameAr": "جوميز بالاكيو دورانجو"
+        },
+        {
+            "Code": "119910",
+            "Name": "Guadalajara,   Jalisco",
+            "NameAr": "جوادالاجارا جاليسكو"
+        },
+        {
+            "Code": "106121",
+            "Name": "Guamuchil",
+            "NameAr": "جواموكهيل"
+        },
+        {
+            "Code": "120554",
+            "Name": "Guanajuato",
+            "NameAr": "جواناجواتو"
+        },
+        {
+            "Code": "293321",
+            "Name": "Guasave",
+            "NameAr": "جواسافي"
+        },
+        {
+            "Code": "145481",
+            "Name": "Guaymas",
+            "NameAr": "جوايماس"
+        },
+        {
+            "Code": "120050",
+            "Name": "Guerrero Negro",
+            "NameAr": "جويرريرو نيجرو"
+        },
+        {
+            "Code": "121138",
+            "Name": "Gutierrez Zamora",
+            "NameAr": "جوتييرريز زامورا"
+        },
+        {
+            "Code": "120886",
+            "Name": "Hecelchakan",
+            "NameAr": "هيكيلكهاكان"
+        },
+        {
+            "Code": "120916",
+            "Name": "Hermosillo",
+            "NameAr": "هيرموسيللو"
+        },
+        {
+            "Code": "106145",
+            "Name": "Heroica Zitacuaro/ Zitacuaro",
+            "NameAr": "هيرويكا زيتاكوارو زيتاكوارو"
+        },
+        {
+            "Code": "145611",
+            "Name": "Hidalgo del Parral",
+            "NameAr": "هيدالجو ديل باررال"
+        },
+        {
+            "Code": "120292",
+            "Name": "Higuera Blanca",
+            "NameAr": "هيجويرا بلانكا"
+        },
+        {
+            "Code": "122715",
+            "Name": "Holbox,   Quintana Roo",
+            "NameAr": "هولبوكس قوينتانا روو"
+        },
+        {
+            "Code": "121022",
+            "Name": "Huamantla",
+            "NameAr": "هوامانتلا"
+        },
+        {
+            "Code": "121405",
+            "Name": "Huasca de Ocampo",
+            "NameAr": "هواسكا دي وكامبو"
+        },
+        {
+            "Code": "121406",
+            "Name": "Huatulco,   Oaxaca",
+            "NameAr": "هواتولكو واكساكا"
+        },
+        {
+            "Code": "145693",
+            "Name": "Huatusco",
+            "NameAr": "هواتوسكو"
+        },
+        {
+            "Code": "102335",
+            "Name": "Huauchinango",
+            "NameAr": "هواوكهينانجو"
+        },
+        {
+            "Code": "108313",
+            "Name": "Huejotzingo",
+            "NameAr": "هويجوتزينجو"
+        },
+        {
+            "Code": "106162",
+            "Name": "Huejutla de Reyes",
+            "NameAr": "هويجوتلا دي ريييس"
+        },
+        {
+            "Code": "102525",
+            "Name": "Huichapan",
+            "NameAr": "هويكهابان"
+        },
+        {
+            "Code": "160979",
+            "Name": "Huimanguillo,   Tabasco",
+            "NameAr": "هويمانجويللو تاباسكو"
+        },
+        {
+            "Code": "151855",
+            "Name": "Huixquilucan",
+            "NameAr": "هويكسقويلوكان"
+        },
+        {
+            "Code": "121599",
+            "Name": "Iguala,   Guerrero",
+            "NameAr": "يجوالا جويرريرو"
+        },
+        {
+            "Code": "103687",
+            "Name": "Ipala",
+            "NameAr": "يبالا"
+        },
+        {
+            "Code": "122708",
+            "Name": "Irapuato",
+            "NameAr": "يرابواتو"
+        },
+        {
+            "Code": "101932",
+            "Name": "Isla Aguada",
+            "NameAr": "يسلا اجوادا"
+        },
+        {
+            "Code": "122155",
+            "Name": "Isla Blanca",
+            "NameAr": "يسلا بلانكا"
+        },
+        {
+            "Code": "103927",
+            "Name": "Ixmiquilpan",
+            "NameAr": "يكسميقويلبان"
+        },
+        {
+            "Code": "161042",
+            "Name": "Ixtapa",
+            "NameAr": "يكستابا"
+        },
+        {
+            "Code": "121507",
+            "Name": "Ixtapa Zihuatanejo,   Guerrero",
+            "NameAr": "يكستابا زيهواتانيجو جويرريرو"
+        },
+        {
+            "Code": "145793",
+            "Name": "Ixtapan de la Sal,   Mexico",
+            "NameAr": "يكستابان دي لا سال ميكسيكو"
+        },
+        {
+            "Code": "150871",
+            "Name": "Ixtepec,   Oaxaca",
+            "NameAr": "يكستيبيك واكساكا"
+        },
+        {
+            "Code": "108333",
+            "Name": "Ixtlan del Rio",
+            "NameAr": "يكستلان ديل ريو"
+        },
+        {
+            "Code": "121775",
+            "Name": "Izamal",
+            "NameAr": "يزامال"
+        },
+        {
+            "Code": "122443",
+            "Name": "Jalapa",
+            "NameAr": "جالابا"
+        },
+        {
+            "Code": "145807",
+            "Name": "Jalcomulco",
+            "NameAr": "جالكومولكو"
+        },
+        {
+            "Code": "123421",
+            "Name": "Jalpan de Serra",
+            "NameAr": "جالبان دي سيررا"
+        },
+        {
+            "Code": "105619",
+            "Name": "Jerez",
+            "NameAr": "جيريز"
+        },
+        {
+            "Code": "108345",
+            "Name": "Jiquilpan de Juarez",
+            "NameAr": "جيقويلبان دي جواريز"
+        },
+        {
+            "Code": "105623",
+            "Name": "Jiquipilas",
+            "NameAr": "جيقويبيلاس"
+        },
+        {
+            "Code": "103696",
+            "Name": "Jiutepec",
+            "NameAr": "جيوتيبيك"
+        },
+        {
+            "Code": "123448",
+            "Name": "Jocotepec",
+            "NameAr": "جوكوتيبيك"
+        },
+        {
+            "Code": "417433",
+            "Name": "Juchitan de Zaragoza",
+            "NameAr": "جوكهيتان دي زاراجوزا"
+        },
+        {
+            "Code": "103660",
+            "Name": "La Cruz de Huanacaxtle",
+            "NameAr": "لا كروز دي هواناكاكستلي"
+        },
+        {
+            "Code": "104428",
+            "Name": "La Manzanilla",
+            "NameAr": "لا مانزانيللا"
+        },
+        {
+            "Code": "101711",
+            "Name": "La Manzanilla de la Paz",
+            "NameAr": "لا مانزانيللا دي لا باز"
+        },
+        {
+            "Code": "124351",
+            "Name": "La Paz,   Los Cabos Baja California Sur",
+            "NameAr": "لا باز لوس كابوس باجا كاليفورنيا سور"
+        },
+        {
+            "Code": "157809",
+            "Name": "La Paz,   Baja California Sur",
+            "NameAr": "لا باز باجا كاليفورنيا سور"
+        },
+        {
+            "Code": "335689",
+            "Name": "La Penita de Jaltemba",
+            "NameAr": "لا بينيتا دي جالتيمبا"
+        },
+        {
+            "Code": "123950",
+            "Name": "La Piedad",
+            "NameAr": "لا بييداد"
+        },
+        {
+            "Code": "108397",
+            "Name": "La Ventana",
+            "NameAr": "لا فينتانا"
+        },
+        {
+            "Code": "103897",
+            "Name": "La Vigueta",
+            "NameAr": "لا فيجويتا"
+        },
+        {
+            "Code": "103857",
+            "Name": "Lacanja Chansayab",
+            "NameAr": "لاكانجا كهانساياب"
+        },
+        {
+            "Code": "125748",
+            "Name": "Lagos De Moreno,   Lagos De Moreno",
+            "NameAr": "لاجوس دي مورينو لاجوس دي مورينو"
+        },
+        {
+            "Code": "124173",
+            "Name": "Lazaro Cardenas",
+            "NameAr": "لازارو كارديناس"
+        },
+        {
+            "Code": "125155",
+            "Name": "Leon",
+            "NameAr": "ليون"
+        },
+        {
+            "Code": "146292",
+            "Name": "Linares",
+            "NameAr": "ليناريس"
+        },
+        {
+            "Code": "393859",
+            "Name": "Lo de Marcos",
+            "NameAr": "لو دي ماركوس"
+        },
+        {
+            "Code": "125904",
+            "Name": "Loreto",
+            "NameAr": "لوريتو"
+        },
+        {
+            "Code": "104143",
+            "Name": "Los Algodones",
+            "NameAr": "لوس الجودونيس"
+        },
+        {
+            "Code": "106452",
+            "Name": "Los Ayala",
+            "NameAr": "لوس ايالا"
+        },
+        {
+            "Code": "104621",
+            "Name": "Los Azufres",
+            "NameAr": "لوس ازوفريس"
+        },
+        {
+            "Code": "104622",
+            "Name": "Los Barriles",
+            "NameAr": "لوس بارريليس"
+        },
+        {
+            "Code": "126190",
+            "Name": "Los Cabos,   Baja California Sur",
+            "NameAr": "لوس كابوس باجا كاليفورنيا سور"
+        },
+        {
+            "Code": "126340",
+            "Name": "Los Mochis,   Sinaloa",
+            "NameAr": "لوس موكهيس سينالوا"
+        },
+        {
+            "Code": "102664",
+            "Name": "Luces en el Mar",
+            "NameAr": "لوكيس ين يل مار"
+        },
+        {
+            "Code": "126118",
+            "Name": "Mahahual,   Quintana Roo",
+            "NameAr": "ماهاهوال قوينتانا روو"
+        },
+        {
+            "Code": "104321",
+            "Name": "Malinalco",
+            "NameAr": "مالينالكو"
+        },
+        {
+            "Code": "146472",
+            "Name": "Manzanillo",
+            "NameAr": "مانزانيللو"
+        },
+        {
+            "Code": "102603",
+            "Name": "Maravatio",
+            "NameAr": "مارافاتيو"
+        },
+        {
+            "Code": "103802",
+            "Name": "Martinez de la Torre",
+            "NameAr": "مارتينيز دي لا تورري"
+        },
+        {
+            "Code": "127019",
+            "Name": "Mascota",
+            "NameAr": "ماسكوتا"
+        },
+        {
+            "Code": "146542",
+            "Name": "Matamoros",
+            "NameAr": "ماتاموروس"
+        },
+        {
+            "Code": "146544",
+            "Name": "Matehuala",
+            "NameAr": "ماتيهوالا"
+        },
+        {
+            "Code": "127550",
+            "Name": "Mazamitla",
+            "NameAr": "مازاميتلا"
+        },
+        {
+            "Code": "127867",
+            "Name": "Mazatlan,   Sinaloa",
+            "NameAr": "مازاتلان سينالوا"
+        },
+        {
+            "Code": "104036",
+            "Name": "Mazunte",
+            "NameAr": "مازونتي"
+        },
+        {
+            "Code": "146596",
+            "Name": "Merida,   Yucatan",
+            "NameAr": "ميريدا يوكاتان"
+        },
+        {
+            "Code": "127747",
+            "Name": "Metepec (Mexico),   Mexico",
+            "NameAr": "ميتيبيك ميكسيكو ميكسيكو"
+        },
+        {
+            "Code": "146612",
+            "Name": "Mexicali,   Baja California Norte",
+            "NameAr": "ميكسيكالي باجا كاليفورنيا نورتي"
+        },
+        {
+            "Code": "146613",
+            "Name": "Mexico,   Mexico",
+            "NameAr": "ميكسيكو ميكسيكو"
+        },
+        {
+            "Code": "127752",
+            "Name": "Mexico City,   Mexico",
+            "NameAr": "ميكسيكو كيتي ميكسيكو"
+        },
+        {
+            "Code": "106501",
+            "Name": "Miacatlan",
+            "NameAr": "مياكاتلان"
+        },
+        {
+            "Code": "127666",
+            "Name": "Minatitlan",
+            "NameAr": "ميناتيتلان"
+        },
+        {
+            "Code": "106506",
+            "Name": "Mineral del Chico",
+            "NameAr": "مينيرال ديل كهيكو"
+        },
+        {
+            "Code": "104192",
+            "Name": "Mineral del Monte",
+            "NameAr": "مينيرال ديل مونتي"
+        },
+        {
+            "Code": "104504",
+            "Name": "Misantla",
+            "NameAr": "ميسانتلا"
+        },
+        {
+            "Code": "127814",
+            "Name": "Monclova",
+            "NameAr": "مونكلوفا"
+        },
+        {
+            "Code": "127944",
+            "Name": "Montemorelos",
+            "NameAr": "مونتيموريلوس"
+        },
+        {
+            "Code": "418053",
+            "Name": "Monteon",
+            "NameAr": "مونتيون"
+        },
+        {
+            "Code": "128394",
+            "Name": "Monterrey,   Nuevo Leon",
+            "NameAr": "مونتيرريي نويفو ليون"
+        },
+        {
+            "Code": "129041",
+            "Name": "Morelia",
+            "NameAr": "موريليا"
+        },
+        {
+            "Code": "122040",
+            "Name": "Mujeres,   Quintana Roo",
+            "NameAr": "موجيريس قوينتانا روو"
+        },
+        {
+            "Code": "129418",
+            "Name": "Mulege",
+            "NameAr": "موليجي"
+        },
+        {
+            "Code": "101917",
+            "Name": "Muna",
+            "NameAr": "مونا"
+        },
+        {
+            "Code": "412220",
+            "Name": "Nanacamilpa",
+            "NameAr": "ناناكاميلبا"
+        },
+        {
+            "Code": "128728",
+            "Name": "Naucalpan de Juarez,   Mexico",
+            "NameAr": "ناوكالبان دي جواريز ميكسيكو"
+        },
+        {
+            "Code": "128730",
+            "Name": "Nautla",
+            "NameAr": "ناوتلا"
+        },
+        {
+            "Code": "129279",
+            "Name": "Navojoa",
+            "NameAr": "نافوجوا"
+        },
+        {
+            "Code": "154811",
+            "Name": "Nayarit",
+            "NameAr": "ناياريت"
+        },
+        {
+            "Code": "129912",
+            "Name": "Nogales",
+            "NameAr": "نوجاليس"
+        },
+        {
+            "Code": "129951",
+            "Name": "Nueva Vizcaya",
+            "NameAr": "نويفا فيزكايا"
+        },
+        {
+            "Code": "131212",
+            "Name": "Nuevo Casas Grandes",
+            "NameAr": "نويفو كاساس جرانديس"
+        },
+        {
+            "Code": "131213",
+            "Name": "Nuevo Laredo",
+            "NameAr": "نويفو لاريدو"
+        },
+        {
+            "Code": "129952",
+            "Name": "Nuevo Vallarta,   Riviera Nayarit",
+            "NameAr": "نويفو فاللارتا ريفييرا ناياريت"
+        },
+        {
+            "Code": "129540",
+            "Name": "Oaxaca,   Oaxaca",
+            "NameAr": "واكساكا واكساكا"
+        },
+        {
+            "Code": "131223",
+            "Name": "Oaxtepec",
+            "NameAr": "واكستيبيك"
+        },
+        {
+            "Code": "102058",
+            "Name": "Ocoyoacac",
+            "NameAr": "وكويواكاك"
+        },
+        {
+            "Code": "102889",
+            "Name": "Ocuituco",
+            "NameAr": "وكويتوكو"
+        },
+        {
+            "Code": "103045",
+            "Name": "Oriental Puebla",
+            "NameAr": "وريينتال بويبلا"
+        },
+        {
+            "Code": "131298",
+            "Name": "Orizaba",
+            "NameAr": "وريزابا"
+        },
+        {
+            "Code": "104416",
+            "Name": "Oxkutzcab",
+            "NameAr": "وكسكوتزكاب"
+        },
+        {
+            "Code": "132016",
+            "Name": "Pachuca de Soto",
+            "NameAr": "باكهوكا دي سوتو"
+        },
+        {
+            "Code": "102077",
+            "Name": "Pahuatlan",
+            "NameAr": "باهواتلان"
+        },
+        {
+            "Code": "131387",
+            "Name": "Palenque",
+            "NameAr": "بالينقوي"
+        },
+        {
+            "Code": "417421",
+            "Name": "Panaba",
+            "NameAr": "بانابا"
+        },
+        {
+            "Code": "102736",
+            "Name": "Papanoa",
+            "NameAr": "بابانوا"
+        },
+        {
+            "Code": "131008",
+            "Name": "Papantla",
+            "NameAr": "بابانتلا"
+        },
+        {
+            "Code": "102085",
+            "Name": "Paracho de Verduzco",
+            "NameAr": "باراكهو دي فيردوزكو"
+        },
+        {
+            "Code": "131447",
+            "Name": "Paraiso",
+            "NameAr": "بارايسو"
+        },
+        {
+            "Code": "102740",
+            "Name": "Parras de la Fuente",
+            "NameAr": "بارراس دي لا فوينتي"
+        },
+        {
+            "Code": "131030",
+            "Name": "Patzcuaro",
+            "NameAr": "باتزكوارو"
+        },
+        {
+            "Code": "102748",
+            "Name": "Penjamo",
+            "NameAr": "بينجامو"
+        },
+        {
+            "Code": "417137",
+            "Name": "Perote",
+            "NameAr": "بيروتي"
+        },
+        {
+            "Code": "106611",
+            "Name": "Piedra Pinta",
+            "NameAr": "بييدرا بينتا"
+        },
+        {
+            "Code": "132171",
+            "Name": "Piedras Negras",
+            "NameAr": "بييدراس نيجراس"
+        },
+        {
+            "Code": "103281",
+            "Name": "Pinal de Amoles",
+            "NameAr": "بينال دي اموليس"
+        },
+        {
+            "Code": "132190",
+            "Name": "Piste",
+            "NameAr": "بيستي"
+        },
+        {
+            "Code": "103065",
+            "Name": "Playa Azul",
+            "NameAr": "بلايا ازول"
+        },
+        {
+            "Code": "102759",
+            "Name": "Playa Chachalacas",
+            "NameAr": "بلايا كهاكهالاكاس"
+        },
+        {
+            "Code": "133186",
+            "Name": "Playa del Carmen,   Quintana Roo",
+            "NameAr": "بلايا ديل كارمين قوينتانا روو"
+        },
+        {
+            "Code": "417894",
+            "Name": "Playa Encanto",
+            "NameAr": "بلايا ينكانتو"
+        },
+        {
+            "Code": "158859",
+            "Name": "Playa Mujeres,   Quintana Roo",
+            "NameAr": "بلايا موجيريس قوينتانا روو"
+        },
+        {
+            "Code": "133189",
+            "Name": "Playa Paraiso,   Quintana Roo",
+            "NameAr": "بلايا بارايسو قوينتانا روو"
+        },
+        {
+            "Code": "131863",
+            "Name": "Poza Rica",
+            "NameAr": "بوزا ريكا"
+        },
+        {
+            "Code": "133108",
+            "Name": "Progreso",
+            "NameAr": "بروجريسو"
+        },
+        {
+            "Code": "132562",
+            "Name": "Puebla,   Puebla",
+            "NameAr": "بويبلا بويبلا"
+        },
+        {
+            "Code": "102928",
+            "Name": "Puente de Ixtla",
+            "NameAr": "بوينتي دي يكستلا"
+        },
+        {
+            "Code": "102102",
+            "Name": "Puerto Angel",
+            "NameAr": "بويرتو انجيل"
+        },
+        {
+            "Code": "133044",
+            "Name": "Puerto Aventuras,   Quintana Roo",
+            "NameAr": "بويرتو افينتوراس قوينتانا روو"
+        },
+        {
+            "Code": "133048",
+            "Name": "Puerto Escondido,   Oaxaca",
+            "NameAr": "بويرتو يسكونديدو واكساكا"
+        },
+        {
+            "Code": "147395",
+            "Name": "Puerto Morelos,   Quintana Roo",
+            "NameAr": "بويرتو موريلوس قوينتانا روو"
+        },
+        {
+            "Code": "134164",
+            "Name": "Puerto Penasco",
+            "NameAr": "بويرتو بيناسكو"
+        },
+        {
+            "Code": "134165",
+            "Name": "Puerto San Carlos",
+            "NameAr": "بويرتو سان كارلوس"
+        },
+        {
+            "Code": "132576",
+            "Name": "Puerto Vallarta,   Jalisco",
+            "NameAr": "بويرتو فاللارتا جاليسكو"
+        },
+        {
+            "Code": "134363",
+            "Name": "Punta Allen,   Quintana Roo",
+            "NameAr": "بونتا اللين قوينتانا روو"
+        },
+        {
+            "Code": "150817",
+            "Name": "Punta Chivato,   Los Cabos Baja California Sur",
+            "NameAr": "بونتا كهيفاتو لوس كابوس باجا كاليفورنيا سور"
+        },
+        {
+            "Code": "134172",
+            "Name": "Punta Maroma,   Quintana Roo",
+            "NameAr": "بونتا ماروما قوينتانا روو"
+        },
+        {
+            "Code": "133996",
+            "Name": "Punta Mita,   Riviera Nayarit",
+            "NameAr": "بونتا ميتا ريفييرا ناياريت"
+        },
+        {
+            "Code": "133635",
+            "Name": "Punta Sam,   Quintana Roo",
+            "NameAr": "بونتا سام قوينتانا روو"
+        },
+        {
+            "Code": "134019",
+            "Name": "Queretaro",
+            "NameAr": "قويريتارو"
+        },
+        {
+            "Code": "106717",
+            "Name": "Quiroga",
+            "NameAr": "قويروجا"
+        },
+        {
+            "Code": "134215",
+            "Name": "Ramos Arizpe",
+            "NameAr": "راموس اريزبي"
+        },
+        {
+            "Code": "102945",
+            "Name": "Real de Catorce",
+            "NameAr": "ريال دي كاتوركي"
+        },
+        {
+            "Code": "135091",
+            "Name": "Reynosa",
+            "NameAr": "ريينوسا"
+        },
+        {
+            "Code": "119762",
+            "Name": "Rincon de Guayabitos or Guayabitos,   Riviera Nayarit",
+            "NameAr": "رينكون دي جوايابيتوس ور جوايابيتوس ريفييرا ناياريت"
+        },
+        {
+            "Code": "108433",
+            "Name": "Rio Lagartos",
+            "NameAr": "ريو لاجارتوس"
+        },
+        {
+            "Code": "133934",
+            "Name": "Rioverde",
+            "NameAr": "ريوفيردي"
+        },
+        {
+            "Code": "134425",
+            "Name": "Riviera Maya,   Quintana Roo",
+            "NameAr": "ريفييرا مايا قوينتانا روو"
+        },
+        {
+            "Code": "135751",
+            "Name": "Rosarito,   Baja California Norte",
+            "NameAr": "روساريتو باجا كاليفورنيا نورتي"
+        },
+        {
+            "Code": "363239",
+            "Name": "Sabinas",
+            "NameAr": "سابيناس"
+        },
+        {
+            "Code": "135317",
+            "Name": "Salamanca",
+            "NameAr": "سالامانكا"
+        },
+        {
+            "Code": "136450",
+            "Name": "Salina Cruz,   Oaxaca",
+            "NameAr": "سالينا كروز واكساكا"
+        },
+        {
+            "Code": "135700",
+            "Name": "Saltillo",
+            "NameAr": "سالتيللو"
+        },
+        {
+            "Code": "103132",
+            "Name": "San Agustin Etla",
+            "NameAr": "سان اجوستين يتلا"
+        },
+        {
+            "Code": "103347",
+            "Name": "San Agustinillo",
+            "NameAr": "سان اجوستينيللو"
+        },
+        {
+            "Code": "107018",
+            "Name": "San Andres Huayapam",
+            "NameAr": "سان اندريس هوايابام"
+        },
+        {
+            "Code": "107325",
+            "Name": "San Andres Tuxtla",
+            "NameAr": "سان اندريس توكستلا"
+        },
+        {
+            "Code": "103257",
+            "Name": "San Antonio de las Minas",
+            "NameAr": "سان انتونيو دي لاس ميناس"
+        },
+        {
+            "Code": "107019",
+            "Name": "San Blas",
+            "NameAr": "سان بلاس"
+        },
+        {
+            "Code": "135407",
+            "Name": "San Carlos",
+            "NameAr": "سان كارلوس"
+        },
+        {
+            "Code": "135411",
+            "Name": "San Cristobal",
+            "NameAr": "سان كريستوبال"
+        },
+        {
+            "Code": "136181",
+            "Name": "San Felipe",
+            "NameAr": "سان فيليبي"
+        },
+        {
+            "Code": "106764",
+            "Name": "San Francisco",
+            "NameAr": "سان فرانكيسكو"
+        },
+        {
+            "Code": "147693",
+            "Name": "San Ignacio",
+            "NameAr": "سان يجناكيو"
+        },
+        {
+            "Code": "107022",
+            "Name": "San Jeronimo Tlacochahuaya",
+            "NameAr": "سان جيرونيمو تلاكوكهاهوايا"
+        },
+        {
+            "Code": "108485",
+            "Name": "San Joaquin",
+            "NameAr": "سان جواقوين"
+        },
+        {
+            "Code": "215914",
+            "Name": "San Jose Chiapa",
+            "NameAr": "سان جوسي كهيابا"
+        },
+        {
+            "Code": "147696",
+            "Name": "San Jose del Cabo,   Baja California Sur",
+            "NameAr": "سان جوسي ديل كابو باجا كاليفورنيا سور"
+        },
+        {
+            "Code": "302739",
+            "Name": "San Jose Iturbide",
+            "NameAr": "سان جوسي يتوربيدي"
+        },
+        {
+            "Code": "107023",
+            "Name": "San Juan Bautista Tuxtepec",
+            "NameAr": "سان جوان باوتيستا توكستيبيك"
+        },
+        {
+            "Code": "103141",
+            "Name": "San Juan Cosala",
+            "NameAr": "سان جوان كوسالا"
+        },
+        {
+            "Code": "103142",
+            "Name": "San Juan de los Lagos",
+            "NameAr": "سان جوان دي لوس لاجوس"
+        },
+        {
+            "Code": "147698",
+            "Name": "San Juan del Rio",
+            "NameAr": "سان جوان ديل ريو"
+        },
+        {
+            "Code": "107331",
+            "Name": "San Juan Teotihuacan",
+            "NameAr": "سان جوان تيوتيهواكان"
+        },
+        {
+            "Code": "135957",
+            "Name": "San Luis Potosi",
+            "NameAr": "سان لويس بوتوسي"
+        },
+        {
+            "Code": "150830",
+            "Name": "San Luis Rio Colorado",
+            "NameAr": "سان لويس ريو كولورادو"
+        },
+        {
+            "Code": "106767",
+            "Name": "San Martin Texmelucan de Labastida",
+            "NameAr": "سان مارتين تيكسميلوكان دي لاباستيدا"
+        },
+        {
+            "Code": "136197",
+            "Name": "San Miguel De Allende",
+            "NameAr": "سان ميجويل دي الليندي"
+        },
+        {
+            "Code": "103354",
+            "Name": "San Miguel Regla",
+            "NameAr": "سان ميجويل ريجلا"
+        },
+        {
+            "Code": "136029",
+            "Name": "San Nicolas de los Garza,   Nuevo Leon",
+            "NameAr": "سان نيكولاس دي لوس جارزا نويفو ليون"
+        },
+        {
+            "Code": "103356",
+            "Name": "San Pablo Villa de Mitla",
+            "NameAr": "سان بابلو فيللا دي ميتلا"
+        },
+        {
+            "Code": "106768",
+            "Name": "San Patricio-Melaque",
+            "NameAr": "سان باتريكيو-ميلاقوي"
+        },
+        {
+            "Code": "417934",
+            "Name": "San Pedro Garza García",
+            "NameAr": "سان بيدرو جارزا جارك ا"
+        },
+        {
+            "Code": "107338",
+            "Name": "San Pedro Pochutla,   Oaxaca",
+            "NameAr": "سان بيدرو بوكهوتلا واكساكا"
+        },
+        {
+            "Code": "150831",
+            "Name": "San Quintin",
+            "NameAr": "سان قوينتين"
+        },
+        {
+            "Code": "147712",
+            "Name": "San Rafael",
+            "NameAr": "سان رافايل"
+        },
+        {
+            "Code": "103550",
+            "Name": "San Sebastian del Oeste",
+            "NameAr": "سان سيباستيان ديل ويستي"
+        },
+        {
+            "Code": "149120",
+            "Name": "Santa Ana",
+            "NameAr": "سانتا انا"
+        },
+        {
+            "Code": "103555",
+            "Name": "Santa Catarina Juquila",
+            "NameAr": "سانتا كاتارينا جوقويلا"
+        },
+        {
+            "Code": "107032",
+            "Name": "Santa Clara del Cobre",
+            "NameAr": "سانتا كلارا ديل كوبري"
+        },
+        {
+            "Code": "107034",
+            "Name": "Santa Maria del Oro",
+            "NameAr": "سانتا ماريا ديل ورو"
+        },
+        {
+            "Code": "136381",
+            "Name": "Santa Rosa",
+            "NameAr": "سانتا روسا"
+        },
+        {
+            "Code": "106778",
+            "Name": "Santa Veronica",
+            "NameAr": "سانتا فيرونيكا"
+        },
+        {
+            "Code": "107036",
+            "Name": "Santiago",
+            "NameAr": "سانتياجو"
+        },
+        {
+            "Code": "147754",
+            "Name": "Santiago de Tequila",
+            "NameAr": "سانتياجو دي تيقويلا"
+        },
+        {
+            "Code": "136861",
+            "Name": "Santiago Tianguistenco",
+            "NameAr": "سانتياجو تيانجويستينكو"
+        },
+        {
+            "Code": "107037",
+            "Name": "Santiago Tuxtla",
+            "NameAr": "سانتياجو توكستلا"
+        },
+        {
+            "Code": "103559",
+            "Name": "Santos Reyes Nopala",
+            "NameAr": "سانتوس ريييس نوبالا"
+        },
+        {
+            "Code": "136893",
+            "Name": "Sayula,   Jalisco",
+            "NameAr": "سايولا جاليسكو"
+        },
+        {
+            "Code": "137222",
+            "Name": "Sayulita,   Riviera Nayarit",
+            "NameAr": "سايوليتا ريفييرا ناياريت"
+        },
+        {
+            "Code": "137990",
+            "Name": "Silao",
+            "NameAr": "سيلاو"
+        },
+        {
+            "Code": "103602",
+            "Name": "Sombrerete",
+            "NameAr": "سومبريريتي"
+        },
+        {
+            "Code": "138556",
+            "Name": "Tacambaro",
+            "NameAr": "تاكامبارو"
+        },
+        {
+            "Code": "106939",
+            "Name": "Tacambaro de Codallos",
+            "NameAr": "تاكامبارو دي كوداللوس"
+        },
+        {
+            "Code": "107761",
+            "Name": "Talpa de Allende",
+            "NameAr": "تالبا دي الليندي"
+        },
+        {
+            "Code": "107763",
+            "Name": "Tamasopo",
+            "NameAr": "تاماسوبو"
+        },
+        {
+            "Code": "139189",
+            "Name": "Tamazunchale",
+            "NameAr": "تامازونكهالي"
+        },
+        {
+            "Code": "140294",
+            "Name": "Tampico",
+            "NameAr": "تامبيكو"
+        },
+        {
+            "Code": "151026",
+            "Name": "Tamuin",
+            "NameAr": "تاموين"
+        },
+        {
+            "Code": "139562",
+            "Name": "Tapachula",
+            "NameAr": "تاباكهولا"
+        },
+        {
+            "Code": "148153",
+            "Name": "Tapalpa",
+            "NameAr": "تابالبا"
+        },
+        {
+            "Code": "138600",
+            "Name": "Taxco,   Guerrero",
+            "NameAr": "تاكسكو جويرريرو"
+        },
+        {
+            "Code": "304894",
+            "Name": "Tecamachalco",
+            "NameAr": "تيكاماكهالكو"
+        },
+        {
+            "Code": "151856",
+            "Name": "Tecate,   Baja California",
+            "NameAr": "تيكاتي باجا كاليفورنيا"
+        },
+        {
+            "Code": "139039",
+            "Name": "Tecoh",
+            "NameAr": "تيكوه"
+        },
+        {
+            "Code": "107770",
+            "Name": "Tecolutla",
+            "NameAr": "تيكولوتلا"
+        },
+        {
+            "Code": "108596",
+            "Name": "Tecoman",
+            "NameAr": "تيكومان"
+        },
+        {
+            "Code": "108597",
+            "Name": "Tecozautla",
+            "NameAr": "تيكوزاوتلا"
+        },
+        {
+            "Code": "138605",
+            "Name": "Tehuacan",
+            "NameAr": "تيهواكان"
+        },
+        {
+            "Code": "107771",
+            "Name": "Tehualmixtle",
+            "NameAr": "تيهوالميكستلي"
+        },
+        {
+            "Code": "140985",
+            "Name": "Tehuantepec",
+            "NameAr": "تيهوانتيبيك"
+        },
+        {
+            "Code": "139585",
+            "Name": "Telchac Puerto",
+            "NameAr": "تيلكهاك بويرتو"
+        },
+        {
+            "Code": "107299",
+            "Name": "Telziutlan",
+            "NameAr": "تيلزيوتلان"
+        },
+        {
+            "Code": "417961",
+            "Name": "TEMOZON,   YUCATAN",
+            "NameAr": "تيموزون يوكاتان"
+        },
+        {
+            "Code": "139717",
+            "Name": "Tenacatita",
+            "NameAr": "تيناكاتيتا"
+        },
+        {
+            "Code": "148189",
+            "Name": "Teotihuacan,   Mexico",
+            "NameAr": "تيوتيهواكان ميكسيكو"
+        },
+        {
+            "Code": "139594",
+            "Name": "Tepatitlan",
+            "NameAr": "تيباتيتلان"
+        },
+        {
+            "Code": "107301",
+            "Name": "Tepecoacuilco",
+            "NameAr": "تيبيكواكويلكو"
+        },
+        {
+            "Code": "107164",
+            "Name": "Tepeyahualco",
+            "NameAr": "تيبيياهوالكو"
+        },
+        {
+            "Code": "138616",
+            "Name": "Tepic",
+            "NameAr": "تيبيك"
+        },
+        {
+            "Code": "139057",
+            "Name": "Tepotzotlan",
+            "NameAr": "تيبوتزوتلان"
+        },
+        {
+            "Code": "138617",
+            "Name": "Tepoztlan",
+            "NameAr": "تيبوزتلان"
+        },
+        {
+            "Code": "139721",
+            "Name": "Tequesquitengo",
+            "NameAr": "تيقويسقويتينجو"
+        },
+        {
+            "Code": "139058",
+            "Name": "Tequisquiapan",
+            "NameAr": "تيقويسقويابان"
+        },
+        {
+            "Code": "139732",
+            "Name": "Tetela de Ocampo",
+            "NameAr": "تيتيلا دي وكامبو"
+        },
+        {
+            "Code": "107775",
+            "Name": "Texcoco de Mora",
+            "NameAr": "تيكسكوكو دي مورا"
+        },
+        {
+            "Code": "107098",
+            "Name": "Ticul",
+            "NameAr": "تيكول"
+        },
+        {
+            "Code": "140037",
+            "Name": "Tijuana",
+            "NameAr": "تيجوانا"
+        },
+        {
+            "Code": "106390",
+            "Name": "Tilapa",
+            "NameAr": "تيلابا"
+        },
+        {
+            "Code": "140767",
+            "Name": "Tizimin",
+            "NameAr": "تيزيمين"
+        },
+        {
+            "Code": "140769",
+            "Name": "Tlacotalpan",
+            "NameAr": "تلاكوتالبان"
+        },
+        {
+            "Code": "392171",
+            "Name": "Tlajomulco de Zuniga",
+            "NameAr": "تلاجومولكو دي زونيجا"
+        },
+        {
+            "Code": "139321",
+            "Name": "Tlalnepantla de Baz,   Mexico",
+            "NameAr": "تلالنيبانتلا دي باز ميكسيكو"
+        },
+        {
+            "Code": "107100",
+            "Name": "Tlalpujahua",
+            "NameAr": "تلالبوجاهوا"
+        },
+        {
+            "Code": "106965",
+            "Name": "Tlaltizapan",
+            "NameAr": "تلالتيزابان"
+        },
+        {
+            "Code": "108612",
+            "Name": "Tlapacoyan",
+            "NameAr": "تلاباكويان"
+        },
+        {
+            "Code": "150230",
+            "Name": "Tlaquepaque,   Jalisco",
+            "NameAr": "تلاقويباقوي جاليسكو"
+        },
+        {
+            "Code": "418204",
+            "Name": "Tlaquiltenango",
+            "NameAr": "تلاقويلتينانجو"
+        },
+        {
+            "Code": "106395",
+            "Name": "Tlatlauquitepec",
+            "NameAr": "تلاتلاوقويتيبيك"
+        },
+        {
+            "Code": "140316",
+            "Name": "Tlaxcala",
+            "NameAr": "تلاكسكالا"
+        },
+        {
+            "Code": "107174",
+            "Name": "Tlayacapan",
+            "NameAr": "تلاياكابان"
+        },
+        {
+            "Code": "141066",
+            "Name": "Todos Santos,   Los Cabos Baja California Sur",
+            "NameAr": "تودوس سانتوس لوس كابوس باجا كاليفورنيا سور"
+        },
+        {
+            "Code": "139332",
+            "Name": "Toluca de Lerdo,   Mexico",
+            "NameAr": "تولوكا دي ليردو ميكسيكو"
+        },
+        {
+            "Code": "151858",
+            "Name": "Tonala,   Jalisco",
+            "NameAr": "تونالا جاليسكو"
+        },
+        {
+            "Code": "107105",
+            "Name": "Topolobampo",
+            "NameAr": "توبولوبامبو"
+        },
+        {
+            "Code": "140483",
+            "Name": "Torreon",
+            "NameAr": "تورريون"
+        },
+        {
+            "Code": "107834",
+            "Name": "Troncones",
+            "NameAr": "ترونكونيس"
+        },
+        {
+            "Code": "141809",
+            "Name": "Tula de Allende",
+            "NameAr": "تولا دي الليندي"
+        },
+        {
+            "Code": "139413",
+            "Name": "Tulancingo",
+            "NameAr": "تولانكينجو"
+        },
+        {
+            "Code": "140674",
+            "Name": "Tulum,   Quintana Roo",
+            "NameAr": "تولوم قوينتانا روو"
+        },
+        {
+            "Code": "140408",
+            "Name": "Tuxpan",
+            "NameAr": "توكسبان"
+        },
+        {
+            "Code": "140409",
+            "Name": "Tuxtla Gutierrez",
+            "NameAr": "توكستلا جوتييرريز"
+        },
+        {
+            "Code": "107839",
+            "Name": "Tzimol",
+            "NameAr": "تزيمول"
+        },
+        {
+            "Code": "140094",
+            "Name": "Tzintzuntzan",
+            "NameAr": "تزينتزونتزان"
+        },
+        {
+            "Code": "107120",
+            "Name": "Tzucacab",
+            "NameAr": "تزوكاكاب"
+        },
+        {
+            "Code": "107846",
+            "Name": "Ursulo Galvan",
+            "NameAr": "ورسولو جالفان"
+        },
+        {
+            "Code": "141577",
+            "Name": "Uruapan (Uruapan del Progreso)",
+            "NameAr": "وروابان وروابان ديل بروجريسو"
+        },
+        {
+            "Code": "141113",
+            "Name": "Uxmal,   Yucatan",
+            "NameAr": "وكسمال يوكاتان"
+        },
+        {
+            "Code": "142524",
+            "Name": "Valladolid",
+            "NameAr": "فاللادوليد"
+        },
+        {
+            "Code": "141432",
+            "Name": "Valle de Bravo",
+            "NameAr": "فاللي دي برافو"
+        },
+        {
+            "Code": "107214",
+            "Name": "Valle de Guadalupe,   Baja California Norte",
+            "NameAr": "فاللي دي جوادالوبي باجا كاليفورنيا نورتي"
+        },
+        {
+            "Code": "417206",
+            "Name": "Valle de Santiago,   Guanajuato",
+            "NameAr": "فاللي دي سانتياجو جواناجواتو"
+        },
+        {
+            "Code": "140166",
+            "Name": "Valle Hermoso",
+            "NameAr": "فاللي هيرموسو"
+        },
+        {
+            "Code": "148469",
+            "Name": "Veracruz",
+            "NameAr": "فيراكروز"
+        },
+        {
+            "Code": "141496",
+            "Name": "Victoria de Durango",
+            "NameAr": "فيكتوريا دي دورانجو"
+        },
+        {
+            "Code": "142030",
+            "Name": "Villa de Alvarez",
+            "NameAr": "فيللا دي الفاريز"
+        },
+        {
+            "Code": "107574",
+            "Name": "Villa de Guadalupe",
+            "NameAr": "فيللا دي جوادالوبي"
+        },
+        {
+            "Code": "107692",
+            "Name": "Villa del Mar",
+            "NameAr": "فيللا ديل مار"
+        },
+        {
+            "Code": "141343",
+            "Name": "Villahermosa",
+            "NameAr": "فيللاهيرموسا"
+        },
+        {
+            "Code": "148867",
+            "Name": "Xalapa",
+            "NameAr": "كسالابا"
+        },
+        {
+            "Code": "107611",
+            "Name": "Xcalak,   Quintana Roo",
+            "NameAr": "كسكالاك قوينتانا روو"
+        },
+        {
+            "Code": "109036",
+            "Name": "Xcaret,   Quintana Roo",
+            "NameAr": "كسكاريت قوينتانا روو"
+        },
+        {
+            "Code": "107912",
+            "Name": "xico",
+            "NameAr": "كسيكو"
+        },
+        {
+            "Code": "107537",
+            "Name": "Xicotepec de Juarez",
+            "NameAr": "كسيكوتيبيك دي جواريز"
+        },
+        {
+            "Code": "108020",
+            "Name": "Xilitla",
+            "NameAr": "كسيليتلا"
+        },
+        {
+            "Code": "142896",
+            "Name": "Xochitepec",
+            "NameAr": "كسوكهيتيبيك"
+        },
+        {
+            "Code": "143885",
+            "Name": "Xpu-Ha,   Quintana Roo",
+            "NameAr": "كسبو-ها قوينتانا روو"
+        },
+        {
+            "Code": "142897",
+            "Name": "Xpujil",
+            "NameAr": "كسبوجيل"
+        },
+        {
+            "Code": "107418",
+            "Name": "Yautepec de Zaragoza",
+            "NameAr": "ياوتيبيك دي زاراجوزا"
+        },
+        {
+            "Code": "143644",
+            "Name": "Yelapa",
+            "NameAr": "ييلابا"
+        },
+        {
+            "Code": "108025",
+            "Name": "Yucatan,   Merida",
+            "NameAr": "يوكاتان ميريدا"
+        },
+        {
+            "Code": "148788",
+            "Name": "Zacatecas",
+            "NameAr": "زاكاتيكاس"
+        },
+        {
+            "Code": "108027",
+            "Name": "Zacatlan",
+            "NameAr": "زاكاتلان"
+        },
+        {
+            "Code": "300424",
+            "Name": "Zacualpan",
+            "NameAr": "زاكوالبان"
+        },
+        {
+            "Code": "142481",
+            "Name": "Zamora",
+            "NameAr": "زامورا"
+        },
+        {
+            "Code": "143917",
+            "Name": "Zapopan,   Jalisco",
+            "NameAr": "زابوبان جاليسكو"
+        },
+        {
+            "Code": "108699",
+            "Name": "Zapotitlan de Mendez",
+            "NameAr": "زابوتيتلان دي مينديز"
+        },
+        {
+            "Code": "107423",
+            "Name": "Zapotlan de Juarez",
+            "NameAr": "زابوتلان دي جواريز"
+        },
+        {
+            "Code": "143548",
+            "Name": "Zihuatanejo,   Guerrero",
+            "NameAr": "زيهواتانيجو جويرريرو"
+        },
+        {
+            "Code": "107812",
+            "Name": "Zimapan",
+            "NameAr": "زيمابان"
+        },
+        {
+            "Code": "108041",
+            "Name": "Zipolite,   Oaxaca",
+            "NameAr": "زيبوليتي واكساكا"
+        },
+        {
+            "Code": "107631",
+            "Name": "Zirahuen",
+            "NameAr": "زيراهوين"
+        }
+    ],
+    "totalCities": 452
+}

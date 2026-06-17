@@ -1,0 +1,82 @@
+{
+    "id": "VG",
+    "countryCode": "VG",
+    "cities": [
+        {
+            "Code": "101009",
+            "Name": "Anegada Island",
+            "NameAr": "انيجادا يسلاند"
+        },
+        {
+            "Code": "101034",
+            "Name": "Apple Bay",
+            "NameAr": "اببلي باي"
+        },
+        {
+            "Code": "111626",
+            "Name": "Beef Island",
+            "NameAr": "بييف يسلاند"
+        },
+        {
+            "Code": "391935",
+            "Name": "Cane Garden Bay",
+            "NameAr": "كاني جاردين باي"
+        },
+        {
+            "Code": "417080",
+            "Name": "Frenchman's Cay",
+            "NameAr": "فرينكهمانس كاي"
+        },
+        {
+            "Code": "120041",
+            "Name": "Guana Island",
+            "NameAr": "جوانا يسلاند"
+        },
+        {
+            "Code": "104086",
+            "Name": "Jost Van Dyke",
+            "NameAr": "جوست فان ديكي"
+        },
+        {
+            "Code": "125766",
+            "Name": "Lambert Bay",
+            "NameAr": "لامبيرت باي"
+        },
+        {
+            "Code": "126582",
+            "Name": "Little Harbour",
+            "NameAr": "ليتتلي هاربوور"
+        },
+        {
+            "Code": "135724",
+            "Name": "Road Town",
+            "NameAr": "رواد توون"
+        },
+        {
+            "Code": "136971",
+            "Name": "Scrub Island",
+            "NameAr": "سكروب يسلاند"
+        },
+        {
+            "Code": "137537",
+            "Name": "Spanish Town",
+            "NameAr": "سبانيسه توون"
+        },
+        {
+            "Code": "106832",
+            "Name": "The Settlement",
+            "NameAr": "تهي سيتتليمينت"
+        },
+        {
+            "Code": "148285",
+            "Name": "Tortola",
+            "NameAr": "تورتولا"
+        },
+        {
+            "Code": "142196",
+            "Name": "Virgin Gorda",
+            "NameAr": "فيرجين جوردا"
+        }
+    ],
+    "totalCities": 15
+}
