@@ -2,9 +2,13 @@ import axios from "axios";
 import { ApiError } from "../../utils/apiError.js";
 import { prisma, Prisma } from '../../utils/prisma.js'
 
-// Simple in-memory cache for search results (5 min TTL)
+// Simple in-memory cache for search results (1 hour TTL)
 const searchCache = new Map();
-const CACHE_TTL = 60 * 60 * 1000; // 5 minutes
+const CACHE_TTL = 60 * 60 * 1000; // 1 hour
+
+// In-flight deduplication: prevents concurrent identical requests from each firing
+// separate TBO batch loops (which causes rate-limiting on shared TBO credentials).
+const inFlightSearches = new Map(); // cacheKey -> Promise
 
 // Clean up expired cache entries periodically
 setInterval(() => {
@@ -339,6 +343,35 @@ export const searchHotels = async (req, res, next) => {
 
     console.log("🔍 Cache miss - fetching fresh data");
 
+    // In-flight deduplication: if an identical search is already running, wait for it
+    if (inFlightSearches.has(cacheKey)) {
+      console.log(`⏳ Identical search already in-flight for key: ${cacheKey}. Waiting...`);
+      try {
+        await inFlightSearches.get(cacheKey);
+        // After the in-flight search completes, the cache should be populated
+        const freshCached = searchCache.get(cacheKey);
+        if (freshCached) {
+          const filtered = applyFiltersAndSort(freshCached.availableHotels, filterParams);
+          const startIndex = (page - 1) * PER_PAGE;
+          const paginatedHotels = filtered.slice(startIndex, startIndex + PER_PAGE);
+          return res.status(200).json({
+            success: true,
+            data: paginatedHotels,
+            pagination: {
+              page,
+              perPage: PER_PAGE,
+              total: filtered.length,
+              totalPages: Math.ceil(filtered.length / PER_PAGE),
+              isComplete: freshCached.isComplete,
+            },
+            cached: true,
+          });
+        }
+      } catch (err) {
+        console.error('❌ In-flight search failed:', err.message);
+      }
+    }
+
     // Step 3: Fetch all hotels from database
     let allHotels;
     if (Type === "city") {
@@ -375,7 +408,18 @@ export const searchHotels = async (req, res, next) => {
     let batchNumber = 1;
     let shouldReturnEarly = false;
 
+    // Register this search as in-flight so any concurrent duplicate request waits on it
+    let resolveInFlight, rejectInFlight;
+    const inFlightPromise = new Promise((resolve, reject) => {
+      resolveInFlight = resolve;
+      rejectInFlight = reject;
+    });
+    inFlightSearches.set(cacheKey, inFlightPromise);
+
     // Process batches until we have enough for the requested page
+    let consecutiveEmptyBatches = 0;
+    const WARN_CONSECUTIVE_EMPTY = 5; // Log a warning if this many full batches in a row return 0 (possible rate-limit signal)
+
     while (offset < allHotels.length && !shouldReturnEarly) {
       const batch = allHotels.slice(offset, offset + BATCH_SIZE);
       const batchCodes = batch.map(h => h.hotel_code);
@@ -403,11 +447,26 @@ export const searchHotels = async (req, res, next) => {
           },
           {
             auth: { username: userName, password },
+            timeout: 30000, // 30s timeout — don't hang forever on TBO slowness
           }
         );
 
         const batchResults = response.data?.HotelResult || [];
         console.log(`✅ Batch ${batchNumber}: ${batchResults.length} hotels available`);
+
+        // Track consecutive empty batches for diagnostic purposes only — do NOT stop early,
+        // because a later batch may still contain available hotels.
+        if (batchResults.length === 0 && batchCodes.length === BATCH_SIZE) {
+          consecutiveEmptyBatches++;
+          if (consecutiveEmptyBatches === WARN_CONSECUTIVE_EMPTY) {
+            console.warn(`⚠️  ${consecutiveEmptyBatches} consecutive full batches returned 0 hotels — possible TBO rate-limiting on shared credentials. Continuing search...`);
+          }
+        } else {
+          if (consecutiveEmptyBatches >= WARN_CONSECUTIVE_EMPTY) {
+            console.log(`✅ Batch ${batchNumber} recovered with ${batchResults.length} results after ${consecutiveEmptyBatches} empty batches.`);
+          }
+          consecutiveEmptyBatches = 0;
+        }
 
         // Merge hotel details with TBO results
         for (const tboHotel of batchResults) {
@@ -450,6 +509,10 @@ export const searchHotels = async (req, res, next) => {
       totalProcessed: offset,
       totalHotels: allHotels.length,
     });
+
+    // Resolve the in-flight promise so any waiting duplicate requests can use the cache
+    inFlightSearches.delete(cacheKey);
+    resolveInFlight();
 
     // Step 6: Continue processing remaining hotels in background (if not complete)
     if (!isComplete && availableHotels.length > 0) {
@@ -568,6 +631,11 @@ export const searchHotels = async (req, res, next) => {
     });
 
   } catch (error) {
+    // If this request had registered an in-flight promise, reject it so waiters unblock
+    if (typeof rejectInFlight === 'function') {
+      inFlightSearches.delete(cacheKey);
+      rejectInFlight(error);
+    }
     console.error(
       "Hotel search error:",
       error?.response?.data || error.message
