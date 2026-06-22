@@ -294,6 +294,15 @@ export const searchHotels = async (req, res, next) => {
       );
     }
 
+    // Validate that CheckOut is after CheckIn (TBO returns 0 results for same-day / invalid ranges)
+    const checkInDate = new Date(formatDate(CheckIn));
+    const checkOutDate = new Date(formatDate(CheckOut));
+    if (checkOutDate <= checkInDate) {
+      return next(
+        new ApiError(400, "Check-out date must be after check-in date")
+      );
+    }
+
     // Step 1: Generate cache key
     const cacheKey = `search:${Code}:${Type}:${formatDate(CheckIn)}:${formatDate(CheckOut)}:${GuestNationality}:${JSON.stringify(PaxRooms)}`;
 
@@ -462,7 +471,7 @@ export const searchHotels = async (req, res, next) => {
             console.warn(`⚠️  ${consecutiveEmptyBatches} consecutive full batches returned 0 hotels — possible TBO rate-limiting on shared credentials. Continuing search...`);
           }
         } else {
-          if (consecutiveEmptyBatches >= WARN_CONSECUTIVE_EMPTY) {
+          if (consecutiveEmptyBatches >= WARN_CONSECUTIVE_EMPTY && batchResults.length > 0) {
             console.log(`✅ Batch ${batchNumber} recovered with ${batchResults.length} results after ${consecutiveEmptyBatches} empty batches.`);
           }
           consecutiveEmptyBatches = 0;
@@ -499,16 +508,21 @@ export const searchHotels = async (req, res, next) => {
     const isComplete = offset >= allHotels.length;
     console.log(`📦 Processed ${offset}/${allHotels.length} hotels. Available: ${availableHotels.length}. Complete: ${isComplete}`);
 
-    // Step 5: Cache the results (store allDbHotels + hotelMap for sync-complete resumability)
-    searchCache.set(cacheKey, {
-      availableHotels,
-      allDbHotels: allHotels,   // full DB list – needed to resume when filters applied
-      hotelMap,                  // needed to merge TBO results on resume
-      timestamp: Date.now(),
-      isComplete,
-      totalProcessed: offset,
-      totalHotels: allHotels.length,
-    });
+    // Step 5: Cache the results — but ONLY if we found at least some hotels.
+    // Never cache a 0-result search, so the next request gets a fresh TBO attempt.
+    if (availableHotels.length > 0) {
+      searchCache.set(cacheKey, {
+        availableHotels,
+        allDbHotels: allHotels,   // full DB list – needed to resume when filters applied
+        hotelMap,                  // needed to merge TBO results on resume
+        timestamp: Date.now(),
+        isComplete,
+        totalProcessed: offset,
+        totalHotels: allHotels.length,
+      });
+    } else {
+      console.warn(`⚠️  Search completed with 0 available hotels — result NOT cached. Next request will retry TBO.`);
+    }
 
     // Resolve the in-flight promise so any waiting duplicate requests can use the cache
     inFlightSearches.delete(cacheKey);
@@ -629,6 +643,7 @@ export const searchHotels = async (req, res, next) => {
       },
       cached: false,
     });
+
 
   } catch (error) {
     // If this request had registered an in-flight promise, reject it so waiters unblock
